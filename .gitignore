@@ -1,3 +1,4 @@
+prediction-info.tar.bz2
 
 # Created by https://www.gitignore.io/api/linux
 
@@ -12,3 +13,8 @@
 
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
+
+
+### IPythonNotebook ###
+# Temporary data
+.ipynb_checkpoints/
