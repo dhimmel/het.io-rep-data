@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08912",
   "compound_name": "Dabrafenib",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.2886732211452296,
     "CbGbCtD": 0.4176708119167786,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.10820592599964264,
     "CcSEcCtD": 0.15089316041752968
   },
+  "n_trials": 0.0,
   "prediction": 0.00667840674369195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

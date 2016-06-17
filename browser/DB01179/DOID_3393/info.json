@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.24447334200260104,
   "metapath_contribution": {
     "CbGaD": 0.2778959018363484,
     "CbGbCtD": 0.4445301172936079,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12910545254904301,
     "CrCbGaD": 0.004168238650658116
   },
+  "n_trials": 0.0,
   "prediction": 0.0013984155268743801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

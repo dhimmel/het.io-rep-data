@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGbCtD": 0.10095392037267882,
     "CbGdCrCtD": 0.0005289592629013364,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.19432470333239352,
     "CrCtD": 0.30170558965867855
   },
+  "n_trials": 2.0,
   "prediction": 0.050742392553940995,
   "status": 0,
   "training_prediction": 0.0808392530499548

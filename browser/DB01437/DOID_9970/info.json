@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01437",
   "compound_name": "Glutethimide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGbCtD": 0.3148749535012575,
     "CbGeAlD": 0.026282800683665224,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003352328962214026,
     "CrCrCtD": 0.5771044949289481
   },
+  "n_trials": 0.0,
   "prediction": 0.00322210076710842,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

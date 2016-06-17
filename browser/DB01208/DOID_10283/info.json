@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.666449934980494,
   "metapath_contribution": {
     "CbGaD": 0.32765003928560316,
     "CbGbCtD": 0.4512767341668628,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.16469357047184457,
     "CrCbGaD": 0.0028869233065184083
   },
+  "n_trials": 0.0,
   "prediction": 0.00324803242847976,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

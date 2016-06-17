@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.48374512353706106,
   "metapath_contribution": {
     "CbGbCtD": 0.571472322137509,
     "CbGdCrCtD": 0.012116344219529972,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.26035183560094527,
     "CrCbGaD": 0.012898338559559913
   },
+  "n_trials": 0.0,
   "prediction": 0.00171207704150333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

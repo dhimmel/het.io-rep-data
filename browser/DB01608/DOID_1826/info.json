@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01608",
   "compound_name": "Propericiazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.373862158647594,
   "metapath_contribution": {
     "CbGaD": 0.3232816759170883,
     "CbGeAlD": 0.0197885496568214,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004725343331720862,
     "CrCrCtD": 0.4184079353524368
   },
+  "n_trials": 0.0,
   "prediction": 0.00249293303277,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

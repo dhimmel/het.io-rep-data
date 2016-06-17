@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00429",
   "compound_name": "Carboprost Tromethamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6924577373211961,
   "metapath_contribution": {
     "CbGaD": 0.7063125224559464,
     "CbGeAlD": 0.05477796280639395,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16223525034882674,
     "CrCbGaD": 0.005312903288198246
   },
+  "n_trials": 0.0,
   "prediction": 0.00356519058527915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

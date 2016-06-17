@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08820",
   "compound_name": "Ivacaftor",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.681404421326398,
   "metapath_contribution": {
     "CbGaD": 0.7339439629833346,
     "CbGbCtD": 0.045316211614408214,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0488320509839333,
     "CcSEcCtD": 0.1067629753771162
   },
+  "n_trials": 0.0,
   "prediction": 0.00185590841588085,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

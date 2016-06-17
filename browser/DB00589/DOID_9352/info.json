@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.20248290241358868,
     "CbGbCtD": 0.29246435067732324,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002171858662700115,
     "CrCrCtD": 0.3537293478911062
   },
+  "n_trials": 0.0,
   "prediction": 0.0114615566076889,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

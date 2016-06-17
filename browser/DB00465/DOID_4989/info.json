@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.419375812743823,
   "metapath_contribution": {
     "CbGaD": 0.7659751278006209,
     "CbGpPWpGaD": 0.010559819393444548,
     "CcSEcCtD": 0.21454987905075276,
     "CrCbGaD": 0.00891517375518171
   },
+  "n_trials": 1.0,
   "prediction": 0.00132894502316061,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

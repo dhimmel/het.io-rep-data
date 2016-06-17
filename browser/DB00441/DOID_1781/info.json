@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
-    "CbGbCtD": 0.08104241730050625,
-    "CbGdCrCtD": 0.0034435658989150743,
-    "CbGeAlD": 0.04956226804429403,
-    "CbGpPWpGaD": 0.059486452520254675,
-    "CcSEcCtD": 0.11688849332089306,
-    "CtDrD": 0.689576802915137
+    "CbGbCtD": 0.08104241730050624,
+    "CbGdCrCtD": 0.0034435658989150734,
+    "CbGeAlD": 0.049562268044294026,
+    "CbGpPWpGaD": 0.05948645252025467,
+    "CcSEcCtD": 0.11688849332089304,
+    "CtDrD": 0.6895768029151369
   },
+  "n_trials": 1.0,
   "prediction": 0.00229649538541649,
   "status": 0,
   "training_prediction": 0.010952180134036999

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.41807542262678793,
   "metapath_contribution": {
     "CbGbCtD": 0.29344711579861615,
     "CbGeAlD": 0.21703434293911428,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1347763555808175,
     "CrCbGaD": 0.00517579553401386
   },
+  "n_trials": 0.0,
   "prediction": 0.00140954262562601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
     "CbGaD": 0.6581629587672051,
     "CbGbCtD": 0.016649956688126855,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09228393868722193,
     "CrCbGaD": 0.0043693000952938574
   },
+  "n_trials": 0.0,
   "prediction": 0.00375085671184941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01202",
   "compound_name": "Levetiracetam",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.6252499656298123,
     "CbGbCtD": 0.2817752124591205,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.020451839379253538,
     "CcSEcCtD": 0.06327251049129304
   },
+  "n_trials": 0.0,
   "prediction": 0.00470745369326491,
   "status": 0,
   "training_prediction": 0.00570994704407874

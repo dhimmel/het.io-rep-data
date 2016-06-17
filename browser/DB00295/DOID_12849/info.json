@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.42847854356306897,
   "metapath_contribution": {
     "CbGaD": 0.7161382080775412,
     "CbGeAlD": 0.10419995030261386,
     "CbGpPWpGaD": 0.16846033471885105,
     "CrCbGaD": 0.01120150690099383
   },
+  "n_trials": 0.0,
   "prediction": 0.0012642933636595,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

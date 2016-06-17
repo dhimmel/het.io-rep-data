@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01656",
   "compound_name": "Roflumilast",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.25079791539765467,
     "CbGbCtD": 0.2964472596843883,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05915016223919215,
     "CtDrD": 0.3648884131726336
   },
+  "n_trials": 0.0,
   "prediction": 0.0644746785455684,
   "status": 0,
   "training_prediction": 0.32014575406552503

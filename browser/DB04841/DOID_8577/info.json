@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04841",
   "compound_name": "Flunarizine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.730819245773732,
   "metapath_contribution": {
     "CbGaD": 0.5914848958486194,
     "CbGbCtD": 0.3181268122257759,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08306254558587067,
     "CrCbGaD": 0.0018987436080301332
   },
+  "n_trials": 0.0,
   "prediction": 0.00297920605923107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

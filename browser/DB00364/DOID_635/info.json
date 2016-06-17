@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00364",
   "compound_name": "Sucralfate",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGaD": 0.5589917050231022,
     "CbGbCtD": 0.14402328172907813,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09161169473851229,
     "CcSEcCtD": 0.03510500825747108
   },
+  "n_trials": 0.0,
   "prediction": 0.00465826099144567,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

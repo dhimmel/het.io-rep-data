@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.0786736020806242,
   "metapath_contribution": {
     "CbGbCtD": 0.5180379850478745,
     "CbGeAlD": 0.1566664237569233,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22739993989730076,
     "CrCbGaD": 0.007543413777239015
   },
+  "n_trials": 0.0,
   "prediction": 0.000923884280715109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

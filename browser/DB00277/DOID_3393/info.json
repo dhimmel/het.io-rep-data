@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.4198335709822873,
     "CbGbCtD": 0.34892151708208835,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.09891575556996009,
     "CrCbGaD": 0.004506853591232136
   },
+  "n_trials": 2.0,
   "prediction": 0.004847493745833271,
   "status": 0,
   "training_prediction": 0.0256011324986642

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01282",
   "compound_name": "Carbetocin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.567620286085826,
   "metapath_contribution": {
     "CbGaD": 0.7898432150430876,
     "CbGeAlD": 0.030510955405676603,
     "CbGpPWpGaD": 0.17370361148875935,
     "CrCbGaD": 0.005942218062476349
   },
+  "n_trials": 2.0,
   "prediction": 0.004602125484328761,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

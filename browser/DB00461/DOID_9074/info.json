@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.18116840126071446,
     "CbGbCtD": 0.3010790033998617,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.3876686269818716,
     "CrCbGaD": 0.00011698246521886458
   },
+  "n_trials": 0.0,
   "prediction": 0.00453715169503228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

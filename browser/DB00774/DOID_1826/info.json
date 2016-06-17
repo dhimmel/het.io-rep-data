@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00774",
   "compound_name": "Hydroflumethiazide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
     "CbGaD": 0.3272401485022868,
     "CbGbCtD": 0.47803548465513707,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08229691891132515,
     "CrCbGaD": 0.002887117901945337
   },
+  "n_trials": 0.0,
   "prediction": 0.0066283861878045705,
   "status": 0,
   "training_prediction": 0.0317214877742233

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.485045513654096,
   "metapath_contribution": {
     "CbGaD": 0.6119075703457862,
     "CbGeAlD": 0.08869820623839705,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.126295588601425,
     "CrCbGaD": 0.0026817724879855064
   },
+  "n_trials": 0.0,
   "prediction": 0.00138334860575167,
   "status": 0,
   "training_prediction": 0.005722230058802171

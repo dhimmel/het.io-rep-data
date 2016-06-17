@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00118",
   "compound_name": "S-Adenosylmethionine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGdCrCtD": 0.007080944932228102,
     "CbGeAlD": 0.11946851790354618,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0069552832884659565,
     "CrCrCtD": 0.6671745288239347
   },
+  "n_trials": 0.0,
   "prediction": 0.00137727960611708,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

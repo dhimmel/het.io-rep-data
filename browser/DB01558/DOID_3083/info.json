@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01558",
   "compound_name": "Bromazepam",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
     "CbGaD": 0.43629359782770777,
     "CbGbCtD": 0.3345588058572556,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15124181126331337,
     "CrCbGaD": 4.6158593525754275e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0032954262683092,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

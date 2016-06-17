@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01621",
   "compound_name": "Pipotiazine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.8678576080975511,
     "CbGeAlD": 0.052381726215772605,
     "CbGpPWpGaD": 0.07098589771066426,
     "CrCbGaD": 0.008774767976011974
   },
+  "n_trials": 0.0,
   "prediction": 0.00209703147424416,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

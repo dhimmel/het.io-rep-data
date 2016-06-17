@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01156",
   "compound_name": "Bupropion",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.4766326136347203,
     "CbGbCtD": 0.30653871250986153,
     "CbGpPWpGaD": 0.07949334983607141,
     "CcSEcCtD": 0.13733532401934664
   },
+  "n_trials": 2.0,
   "prediction": 0.0073249961730882,
   "status": 0,
   "training_prediction": 0.0246870988599485

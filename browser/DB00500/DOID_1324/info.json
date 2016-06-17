@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.507802340702211,
   "metapath_contribution": {
     "CbGaD": 0.5448587569257278,
     "CbGbCtD": 0.21725982784865003,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10256245889439632,
     "CrCbGaD": 0.004148308823951206
   },
+  "n_trials": 0.0,
   "prediction": 0.00187413613257135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

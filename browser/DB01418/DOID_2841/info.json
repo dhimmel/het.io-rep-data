@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7366710013003901,
   "metapath_contribution": {
     "CbGaD": 0.22180095412458797,
     "CbGbCtD": 0.6206866545460382,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14723119176328922,
     "CrCbGaD": 0.004488728579062005
   },
+  "n_trials": 0.0,
   "prediction": 0.0040051774656314,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

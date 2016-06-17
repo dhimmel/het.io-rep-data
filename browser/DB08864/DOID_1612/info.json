@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08864",
   "compound_name": "Rilpivirine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6801040312093629,
   "metapath_contribution": {
     "CbGaD": 0.37759291685183827,
     "CbGbCtD": 0.4354548636113352,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1089096171115686,
     "CrCbGaD": 0.004939463629984044
   },
+  "n_trials": 0.0,
   "prediction": 0.0034800085576844,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

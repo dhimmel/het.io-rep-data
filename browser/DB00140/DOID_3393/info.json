@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.73146944083225,
   "metapath_contribution": {
     "CbGaD": 0.44851804913451193,
     "CbGbCtD": 0.3128965664533412,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.17305078550343048,
     "CrCbGaD": 0.007766597417212889
   },
+  "n_trials": 1.0,
   "prediction": 0.00384274062369334,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

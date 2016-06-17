@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01339",
   "compound_name": "Vecuronium",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.526007802340702,
   "metapath_contribution": {
     "CbGbCtD": 0.5311274145589951,
     "CcSEcCtD": 0.4688725854410048
   },
+  "n_trials": 0.0,
   "prediction": 0.0018550240431469199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

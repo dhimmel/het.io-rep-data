@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.332899869960988,
   "metapath_contribution": {
     "CbGbCtD": 0.599841925743722,
     "CbGeAlD": 0.08908758720894697,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1801079530921457,
     "CrCbGaD": 0.0013191126078497973
   },
+  "n_trials": 0.0,
   "prediction": 0.0011322244879891099,
   "status": 0,
   "training_prediction": 0.00229024080215301

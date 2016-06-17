@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.5221066319895971,
   "metapath_contribution": {
     "CbGaD": 0.2955789862466431,
     "CbGbCtD": 0.49613049882669535,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0955468687189621,
     "CrCbGaD": 0.003211898632807798
   },
+  "n_trials": 0.0,
   "prediction": 0.00250754348297181,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

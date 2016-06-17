@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.44222265512566,
     "CbGbCtD": 0.4093956650202688,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09951188706432394,
     "CrCbGaD": 0.003179589357332852
   },
+  "n_trials": 0.0,
   "prediction": 0.0066811932118186704,
   "status": 0,
   "training_prediction": 0.0303166608483578

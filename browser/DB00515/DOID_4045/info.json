@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.10460784921543775,
     "CbGbCtD": 0.3133566737544267,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.04855811667093007,
     "CtDrD": 0.48470836885435564
   },
+  "n_trials": 1.0,
   "prediction": 0.0217555934490646,
   "status": 0,
   "training_prediction": 0.15571310277961803

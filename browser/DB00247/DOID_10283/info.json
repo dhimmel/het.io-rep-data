@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00247",
   "compound_name": "Methysergide",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.189206762028609,
   "metapath_contribution": {
     "CbGdCrCtD": 0.006116395437786221,
     "CbGeAlD": 0.0759620737174526,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.6411714985056394,
     "CrCbGaD": 0.0038868258024161166
   },
+  "n_trials": 0.0,
   "prediction": 0.0011866344049854401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

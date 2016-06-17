@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.841352405721717,
   "metapath_contribution": {
     "CbGaD": 0.3438385870890537,
     "CbGbCtD": 0.3951420267023999,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14127592497404445,
     "CrCbGaD": 0.003033138886533731
   },
+  "n_trials": 0.0,
   "prediction": 0.0125686554296185,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

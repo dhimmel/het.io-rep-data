@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGbCtD": 0.27366834203267176,
     "CbGeAlD": 0.05370207334584718,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.001280799793524887,
     "CtDrD": 0.6438243796429773
   },
+  "n_trials": 0.0,
   "prediction": 0.00351879590037083,
   "status": 0,
   "training_prediction": 0.00641787402012124

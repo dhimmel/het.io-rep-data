@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGaD": 0.7943178739702231,
     "CbGeAlD": 0.0894890504468722,
     "CbGpPWpGaD": 0.11162024178818059,
     "CrCbGaD": 0.004572833794724071
   },
+  "n_trials": 0.0,
   "prediction": 0.0019242551267179898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

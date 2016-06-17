@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00875",
   "compound_name": "Flupentixol",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.38881664499349794,
   "metapath_contribution": {
     "CbGaD": 0.385114524329005,
     "CbGbCtD": 0.45284612310969524,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11893033104716182,
     "CrCbGaD": 0.0003554504736580258
   },
+  "n_trials": 0.0,
   "prediction": 0.00148802705434853,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

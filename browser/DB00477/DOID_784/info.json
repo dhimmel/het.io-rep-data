@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0513654096228869,
   "metapath_contribution": {
     "CbGaD": 0.680219403176636,
     "CbGeAlD": 0.10986696115439851,
     "CbGpPWpGaD": 0.20141558793604733,
     "CrCbGaD": 0.008498047732918082
   },
+  "n_trials": 0.0,
   "prediction": 0.000730363227258038,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

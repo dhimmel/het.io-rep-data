@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00423",
   "compound_name": "Methocarbamol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGbCtD": 0.24968721356613505,
     "CbGpPWpGaD": 0.0043550317196582,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.27991107140713467,
     "CrCtD": 0.3913016879240052
   },
+  "n_trials": 1.0,
   "prediction": 0.0241217688324996,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

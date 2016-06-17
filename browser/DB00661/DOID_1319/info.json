@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.35250873896714435,
     "CbGbCtD": 0.41634269831490905,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05401258406686647,
     "CcSEcCtD": 0.08837133123910154
   },
+  "n_trials": 1.0,
   "prediction": 0.00286068407021846,
   "status": 0,
   "training_prediction": 0.00867681777373355

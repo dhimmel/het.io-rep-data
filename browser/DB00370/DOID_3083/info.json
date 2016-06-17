@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.4118944573683997,
     "CbGbCtD": 0.3900612367868572,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.118830412335619,
     "CrCbGaD": 0.0008511478496256123
   },
+  "n_trials": 0.0,
   "prediction": 0.00665184240384561,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

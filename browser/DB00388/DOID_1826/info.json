@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00388",
   "compound_name": "Phenylephrine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.237321196358908,
   "metapath_contribution": {
     "CbGbCtD": 0.4723842634085167,
     "CbGeAlD": 0.04623617259764483,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3068396131132987,
     "CrCbGaD": 0.00685690949027135
   },
+  "n_trials": 0.0,
   "prediction": 0.00188962148002573,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

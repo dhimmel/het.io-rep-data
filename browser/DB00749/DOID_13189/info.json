@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGbCtD": 0.20190021802767066,
     "CbGdCrCtD": 0.00047547046479205394,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.4800814439835685,
     "CpDpCtD": 0.24154610382493513
   },
+  "n_trials": 0.0,
   "prediction": 0.0594839341032824,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.09246437688618807,
     "CbGbCtD": 0.14147826270556874,
@@ -15,6 +17,7 @@
     "CrCtD": 0.21762929530841163,
     "CtDrD": 0.1312431885168944
   },
+  "n_trials": 0.0,
   "prediction": 0.665331454901996,
   "status": 0,
   "training_prediction": 0.764470237816705

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.148373096736928,
     "CbGbCtD": 0.613628634198663,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.05520110441411095,
     "CcSEcCtD": 0.17659652054249042
   },
+  "n_trials": 0.0,
   "prediction": 0.00254352158161467,
   "status": 0,
   "training_prediction": 0.00694905380898399

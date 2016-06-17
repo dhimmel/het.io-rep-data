@@ -1,16 +1,18 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.618985695708713,
   "metapath_contribution": {
-    "CbGbCtD": 0.6059275803199922,
-    "CbGeAlD": 0.19578596460438347,
-    "CbGpPWpGaD": 0.09418430627653422,
-    "CcSEcCtD": 0.09019986163826747,
-    "CrCbGaD": 0.01390228716082286
+    "CbGbCtD": 0.605927580319992,
+    "CbGeAlD": 0.19578596460438344,
+    "CbGpPWpGaD": 0.09418430627653421,
+    "CcSEcCtD": 0.09019986163826746,
+    "CrCbGaD": 0.013902287160822858
   },
+  "n_trials": 0.0,
   "prediction": 0.00190583614275773,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

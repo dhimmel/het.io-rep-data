@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00264",
   "compound_name": "Metoprolol",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGaD": 0.6803476215860137,
     "CbGbCtD": 0.14589397529127632,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15008721652124932,
     "CrCbGaD": 0.008468413615057485
   },
+  "n_trials": 0.0,
   "prediction": 0.00186300721741515,
   "status": 0,
   "training_prediction": 0.00410370509456355

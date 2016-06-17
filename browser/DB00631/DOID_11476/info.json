@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.0650195058517555,
   "metapath_contribution": {
     "CbGbCtD": 0.2720729824020674,
     "CbGdCrCtD": 0.012533984792979415,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5487946096656485,
     "CrCbGaD": 0.008124774169438773
   },
+  "n_trials": 0.0,
   "prediction": 0.000908557234239974,
   "status": 0,
   "training_prediction": 0.0029569511145236802

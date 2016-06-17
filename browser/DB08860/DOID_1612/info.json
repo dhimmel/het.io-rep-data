@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5773732119635889,
   "metapath_contribution": {
     "CbGaD": 0.3778015453584456,
     "CbGbCtD": 0.4019489504631167,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09839973457759467,
     "CrCbGaD": 0.00430498782934433
   },
+  "n_trials": 0.0,
   "prediction": 0.00275043803559219,
   "status": 0,
   "training_prediction": 0.0150795725567768

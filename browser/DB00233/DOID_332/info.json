@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.6573472041612479,
   "metapath_contribution": {
     "CbGaD": 0.667238563180521,
     "CbGeAlD": 0.0005848899155676482,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10907147508561828,
     "CrCbGaD": 0.0020612886629114745
   },
+  "n_trials": 0.0,
   "prediction": 0.00162199977593789,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

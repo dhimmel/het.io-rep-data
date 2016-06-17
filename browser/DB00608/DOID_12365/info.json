@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.5143485506442746,
     "CbGbCtD": 0.3311027252804528,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09573421518282947,
     "CrCbGaD": 0.003609831305622124
   },
+  "n_trials": 68.0,
   "prediction": 0.00672405628497117,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

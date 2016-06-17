@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.708712613784135,
   "metapath_contribution": {
     "CbGaD": 0.6069628025241374,
     "CbGbCtD": 0.27036983976936463,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.029600471664544974,
     "CcSEcCtD": 0.08845845735569688
   },
+  "n_trials": 0.0,
   "prediction": 0.00191100737061785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

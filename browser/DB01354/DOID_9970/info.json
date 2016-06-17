@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01354",
   "compound_name": "Heptabarbital",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6918075422626789,
   "metapath_contribution": {
     "CbGaD": 0.5308143570006338,
     "CbGbCtD": 0.3446686168220285,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06696124166534619,
     "CrCbGaD": 0.004772549075809344
   },
+  "n_trials": 0.0,
   "prediction": 0.00375045809524103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

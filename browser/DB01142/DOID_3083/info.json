@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7919375812743821,
   "metapath_contribution": {
     "CbGaD": 0.404168686416155,
     "CbGbCtD": 0.3723275843260047,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14293180016643992,
     "CrCbGaD": 0.0033482840539669693
   },
+  "n_trials": 0.0,
   "prediction": 0.0037711386220002896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

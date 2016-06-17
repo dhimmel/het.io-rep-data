@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.540312093628088,
   "metapath_contribution": {
     "CbGaD": 0.2190688511608564,
     "CbGbCtD": 0.5562454690947833,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12370537289771327,
     "CrCbGaD": 0.00467401876179697
   },
+  "n_trials": 0.0,
   "prediction": 0.00258713381949791,
   "status": 0,
   "training_prediction": 0.0137976382946427

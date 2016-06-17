@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00704",
   "compound_name": "Naltrexone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGeAlD": 0.012992011752799673,
     "CbGpPWpGaD": 0.010318601151623738,
     "CrCbGaD": 0.003181021463572082,
     "CtDrD": 0.9735083656320046
   },
+  "n_trials": 5.0,
   "prediction": 0.00365679330937139,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.117685305591678,
   "metapath_contribution": {
     "CbGbCtD": 0.5255556116101323,
     "CbGeAlD": 0.030715592054612995,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.33284495422404803,
     "CrCbGaD": 0.002808228001609378
   },
+  "n_trials": 0.0,
   "prediction": 0.00101990585737955,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

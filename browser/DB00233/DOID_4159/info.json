@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.5240572171651501,
   "metapath_contribution": {
     "CbGaD": 0.6816388699418525,
     "CbGeAlD": 0.08954768104307657,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15610189120268234,
     "CrCbGaD": 0.002533337083918803
   },
+  "n_trials": 0.0,
   "prediction": 0.00176778584994877,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

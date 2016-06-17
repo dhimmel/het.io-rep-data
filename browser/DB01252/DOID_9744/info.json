@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01252",
   "compound_name": "Mitiglinide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.26870896376891984,
     "CbGeAlD": 0.00725301440515139,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2610445110279471,
     "CrCtD": 0.43994828963040794
   },
+  "n_trials": 0.0,
   "prediction": 0.0252892804732391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

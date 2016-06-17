@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00129",
   "compound_name": "L-Ornithine",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.126788036410923,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.013111248235243888,
-    "CbGeAlD": 0.3426452130193881,
+    "CbGdCrCtD": 0.013111248235243886,
+    "CbGeAlD": 0.34264521301938805,
     "CbGpPWpGaD": 0.613447908312573,
-    "CrCbGaD": 0.030795630432795044
+    "CrCbGaD": 0.03079563043279504
   },
+  "n_trials": 0.0,
   "prediction": 0.00110691912439802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00526",
   "compound_name": "Oxaliplatin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.220965441637258,
     "CbGbCtD": 0.2600908857588228,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.049198135285092495,
     "CiPCiCtD": 0.45144923784190844
   },
+  "n_trials": 19.0,
   "prediction": 0.0598252169655222,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

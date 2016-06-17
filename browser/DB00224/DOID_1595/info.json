@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00224",
   "compound_name": "Indinavir",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.9363215400409293,
     "CbGeAlD": 0.015477213987315207,
     "CbGpPWpGaD": 0.040472235261062174,
     "CrCbGaD": 0.007729010710693308
   },
+  "n_trials": 0.0,
   "prediction": 0.00217269890473833,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

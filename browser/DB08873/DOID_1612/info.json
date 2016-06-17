@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7074122236670999,
   "metapath_contribution": {
     "CbGaD": 0.21973268076878028,
     "CbGbCtD": 0.3618782918566113,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.19920968137204387,
     "CrCbGaD": 0.002401236197448171
   },
+  "n_trials": 0.0,
   "prediction": 0.0036526031130286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

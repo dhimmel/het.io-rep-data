@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.340052015604681,
   "metapath_contribution": {
     "CbGaD": 0.5613254575368575,
     "CbGeAlD": 0.07982075362168531,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11015610914794678,
     "CrCbGaD": 0.004628062646701173
   },
+  "n_trials": 0.0,
   "prediction": 0.00113527539627169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.659297789336801,
   "metapath_contribution": {
     "CbGaD": 0.30366570986924313,
     "CbGbCtD": 0.40381199939598406,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.03447872587113354,
     "CcSEcCtD": 0.20090488502298426
   },
+  "n_trials": 0.0,
   "prediction": 0.00259599465210915,
   "status": 0,
   "training_prediction": 0.0199021371705795

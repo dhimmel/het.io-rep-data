@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.687906371911573,
   "metapath_contribution": {
     "CbGaD": 0.37119891197157484,
     "CbGbCtD": 0.3119097279536763,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15472601770937244,
     "CrCbGaD": 0.0009983189634055207
   },
+  "n_trials": 0.0,
   "prediction": 0.00341724890822803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

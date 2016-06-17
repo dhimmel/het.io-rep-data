@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.561768530559168,
   "metapath_contribution": {
     "CbGaD": 0.16679000340352496,
     "CbGbCtD": 0.548089495279962,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10786568161864754,
     "CrCbGaD": 0.002376697897419255
   },
+  "n_trials": 0.0,
   "prediction": 0.00253800156690385,
   "status": 0,
   "training_prediction": 0.0177736497232274

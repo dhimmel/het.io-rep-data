@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.3111360713432076,
     "CbGbCtD": 0.2977518030366891,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.18627205329566654,
     "CcSEcCtD": 0.09485104853762284
   },
+  "n_trials": 0.0,
   "prediction": 0.0033803862282424197,
   "status": 0,
   "training_prediction": 0.00743249435595937

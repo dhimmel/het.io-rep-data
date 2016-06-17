@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
     "CbGaD": 0.2707010378719824,
     "CbGbCtD": 0.48445369072893135,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13861066860370358,
     "CrCbGaD": 0.0008477218529794094
   },
+  "n_trials": 0.0,
   "prediction": 0.0035392256174253704,
   "status": 0,
   "training_prediction": 0.0148977485719391

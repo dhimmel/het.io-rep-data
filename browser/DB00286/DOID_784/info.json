@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00286",
   "compound_name": "Conjugated Estrogens",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.22236671001300398,
   "metapath_contribution": {
     "CbGaD": 0.7354968213608213,
     "CbGeAlD": 0.07961710956468997,
     "CbGpPWpGaD": 0.17966496431671364,
     "CrCbGaD": 0.005221104757775145
   },
+  "n_trials": 0.0,
   "prediction": 0.0010504355476890698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

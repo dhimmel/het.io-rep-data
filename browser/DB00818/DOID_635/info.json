@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.18065181986066292,
     "CbGbCtD": 0.621563847830562,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14897081069060608,
     "CrCbGaD": 0.0016614744043316717
   },
+  "n_trials": 0.0,
   "prediction": 0.007270403462811609,
   "status": 0,
   "training_prediction": 0.022127212523198

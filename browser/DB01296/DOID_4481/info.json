@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGbCtD": 0.16941966829788496,
     "CbGdCrCtD": 0.004812116477610535,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15616372374435056,
     "CpDpCtD": 0.6164547996441274
   },
+  "n_trials": 0.0,
   "prediction": 0.00257102005558687,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

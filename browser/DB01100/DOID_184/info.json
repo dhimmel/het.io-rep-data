@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.415474642392718,
   "metapath_contribution": {
     "CbGaD": 0.706867471012295,
     "CbGeAlD": 0.003607891495286082,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07518232650862122,
     "CrCbGaD": 0.005850572917161972
   },
+  "n_trials": 0.0,
   "prediction": 0.00133734844159023,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

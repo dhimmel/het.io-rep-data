@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.21719162059567432,
     "CbGbCtD": 0.681709689475786,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07654649023420178,
     "CrCbGaD": 0.004273984880433804
   },
+  "n_trials": 0.0,
   "prediction": 0.00307857357065238,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

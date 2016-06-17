@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01201",
   "compound_name": "Rifapentine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.5351105331599479,
   "metapath_contribution": {
     "CbGbCtD": 0.7662708579683095,
     "CbGeAlD": 0.017675207172804876,
     "CbGpPWpGaD": 0.21362673640945384,
     "CrCbGaD": 0.0024271984494317967
   },
+  "n_trials": 0.0,
   "prediction": 0.00224053952269521,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

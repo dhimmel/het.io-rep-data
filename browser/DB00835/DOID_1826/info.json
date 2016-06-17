@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00835",
   "compound_name": "Brompheniramine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.656046814044213,
   "metapath_contribution": {
     "CbGaD": 0.3601402806573807,
     "CbGbCtD": 0.4041920033169957,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0024102006131753013,
     "CrCrCtD": 0.15234149118980572
   },
+  "n_trials": 0.0,
   "prediction": 0.00494388016107893,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

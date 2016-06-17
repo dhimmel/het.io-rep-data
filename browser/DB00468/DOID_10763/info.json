@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.73146944083225,
   "metapath_contribution": {
     "CbGaD": 0.19312696331813886,
     "CbGbCtD": 0.5206673991918902,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1609875324232714,
     "CrCbGaD": 4.398262362473419e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00766940206143978,
   "status": 0,
   "training_prediction": 0.0846251428772285

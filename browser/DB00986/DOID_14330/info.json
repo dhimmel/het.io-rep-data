@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00986",
   "compound_name": "Glycopyrrolate",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.367360208062419,
   "metapath_contribution": {
-    "CbGeAlD": 0.0431124141147088,
-    "CbGpPWpGaD": 0.9511541754332995,
-    "CrCbGaD": 0.005733410451991566
+    "CbGeAlD": 0.04311241411470881,
+    "CbGpPWpGaD": 0.9511541754332996,
+    "CrCbGaD": 0.005733410451991567
   },
+  "n_trials": 1.0,
   "prediction": 0.00115654644687965,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

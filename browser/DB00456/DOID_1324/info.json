@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.35500650195058503,
   "metapath_contribution": {
     "CbGaD": 0.33058479216680225,
     "CbGbCtD": 0.5245835496301614,
     "CbGeAlD": 0.022953026198136505,
     "CbGpPWpGaD": 0.12187863200489986
   },
+  "n_trials": 0.0,
   "prediction": 0.00138893821751383,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

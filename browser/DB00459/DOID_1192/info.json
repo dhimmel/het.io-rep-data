@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGbCtD": 0.1983379805440798,
     "CbGeAlD": 0.0007011122022134662,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.17554245808057672,
     "CrCtD": 0.27057232338395815
   },
+  "n_trials": 0.0,
   "prediction": 0.212636501231845,
   "status": 0,
   "training_prediction": 0.425649550397124

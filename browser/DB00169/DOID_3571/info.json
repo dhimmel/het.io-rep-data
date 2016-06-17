@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.535760728218466,
   "metapath_contribution": {
     "CbGaD": 0.46648564179870494,
     "CbGbCtD": 0.2776731692588888,
@@ -10,6 +12,7 @@
     "CbGeAlD": 0.008499134393063709,
     "CbGpPWpGaD": 0.24035140989767834
   },
+  "n_trials": 2.0,
   "prediction": 0.00147933379548374,
   "status": 0,
   "training_prediction": 0.0033083200468545

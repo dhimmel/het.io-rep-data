@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGbCtD": 0.248114106484196,
     "CbGdCrCtD": 0.0022129404009277715,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11682277159356733,
     "CpDpCtD": 0.5724312318080604
   },
+  "n_trials": 0.0,
   "prediction": 0.00534065076887335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

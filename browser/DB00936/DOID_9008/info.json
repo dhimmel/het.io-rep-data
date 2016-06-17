@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGbCtD": 0.927523779128262,
     "CbGdCrCtD": 0.0060475289784287685,
     "CcSEcCtD": 0.06642869189330922
   },
+  "n_trials": 1.0,
   "prediction": 0.00158886024887592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

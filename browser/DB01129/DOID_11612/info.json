@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.6742522756827048,
   "metapath_contribution": {
     "CbGaD": 0.7572334076102816,
     "CbGeAlD": 0.06769820421313151,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07358629585118236,
     "CrCbGaD": 0.0071510291743193625
   },
+  "n_trials": 0.0,
   "prediction": 0.00179817865396567,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

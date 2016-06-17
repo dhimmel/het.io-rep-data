@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00379",
   "compound_name": "Mexiletine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.35441087735550075,
     "CbGbCtD": 0.4301770790084577,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08228276556008662,
     "CcSEcCtD": 0.1131988949090686
   },
+  "n_trials": 0.0,
   "prediction": 0.009366620534528391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

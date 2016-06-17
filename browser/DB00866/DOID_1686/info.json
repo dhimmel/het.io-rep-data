@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00866",
   "compound_name": "Alprenolol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGbCtD": 0.27760955201325527,
     "CbGdCrCtD": 0.0007963345709027948,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.29523257220976407,
     "CrCtD": 0.425420681221424
   },
+  "n_trials": 0.0,
   "prediction": 0.0207020225652937,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

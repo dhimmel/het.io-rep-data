@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.09139475253237596,
     "CbGbCtD": 0.28199518360478854,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.017243636447037903,
     "CiPCiCtD": 0.5699543966229526
   },
+  "n_trials": 0.0,
   "prediction": 0.00996783637642385,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.238621586475943,
   "metapath_contribution": {
     "CbGbCtD": 0.7300793698238263,
     "CbGeAlD": 0.0019800983119677394,
     "CcSEcCtD": 0.26334806588427845,
     "CrCbGaD": 0.004592465979927407
   },
+  "n_trials": 0.0,
   "prediction": 0.00167983523775516,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

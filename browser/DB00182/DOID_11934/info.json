@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.221716514954486,
   "metapath_contribution": {
     "CbGbCtD": 0.682017023453146,
     "CbGeAlD": 0.12013375927462015,
     "CcSEcCtD": 0.18629225512465708,
     "CrCbGaD": 0.011556962147576937
   },
+  "n_trials": 0.0,
   "prediction": 0.000979989609390542,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

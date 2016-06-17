@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.708712613784135,
   "metapath_contribution": {
     "CbGaD": 0.5102405513968163,
     "CbGbCtD": 0.1739938837233303,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12903476899215585,
     "CrCbGaD": 0.0030666254812179773
   },
+  "n_trials": 0.0,
   "prediction": 0.00262923578707609,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

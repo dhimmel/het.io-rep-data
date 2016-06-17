@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00867",
   "compound_name": "Ritodrine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGaD": 0.11762543191826162,
     "CbGbCtD": 0.257804868902024,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.23537713706919164,
     "CrCtD": 0.3313839986474537
   },
+  "n_trials": 0.0,
   "prediction": 0.0158843565986789,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

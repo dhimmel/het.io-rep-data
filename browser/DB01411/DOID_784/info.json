@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.7950742921828425,
     "CbGeAlD": 0.06106310698857567,
     "CbGpPWpGaD": 0.1397484032515367,
     "CrCbGaD": 0.004114197577044956
   },
+  "n_trials": 0.0,
   "prediction": 0.00419347942221529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

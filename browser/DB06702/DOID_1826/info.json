@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06702",
   "compound_name": "Fesoterodine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.783485045513654,
   "metapath_contribution": {
     "CbGaD": 0.48361678655397927,
     "CbGbCtD": 0.28517898462125385,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13758075736299538,
     "CrCbGaD": 0.0040029564194552425
   },
+  "n_trials": 0.0,
   "prediction": 0.007815591175363441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

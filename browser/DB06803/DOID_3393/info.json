@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06803",
   "compound_name": "Niclosamide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6449934980494151,
   "metapath_contribution": {
     "CbGbCtD": 0.37515292651461646,
     "CbGeAlD": 0.037961211660013,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0005993751388748927,
     "CrCrCtD": 0.42532189467353565
   },
+  "n_trials": 0.0,
   "prediction": 0.003133317095774,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

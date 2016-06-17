@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.330299089726918,
   "metapath_contribution": {
     "CbGbCtD": 0.23506472638449147,
     "CbGeAlD": 0.16259735137161913,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21742855824597235,
     "CrCbGaD": 0.020420433995918592
   },
+  "n_trials": 0.0,
   "prediction": 0.00131845688818519,
   "status": 0,
   "training_prediction": 0.00059434840101979

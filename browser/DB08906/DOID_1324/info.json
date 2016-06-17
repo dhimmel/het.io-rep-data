@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08906",
   "compound_name": "Fluticasone furoate",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.305591677503251,
   "metapath_contribution": {
     "CbGaD": 0.3128288890695793,
     "CbGbCtD": 0.5206041593539732,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10942953393224907,
     "CrCbGaD": 0.0037561399485878944
   },
+  "n_trials": 0.0,
   "prediction": 0.00126003237577725,
   "status": 0,
   "training_prediction": 0.00430903095275955

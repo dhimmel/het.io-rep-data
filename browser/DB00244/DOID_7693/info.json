@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGaD": 0.7257853110538327,
     "CbGeAlD": 0.12502561862303865,
     "CbGpPWpGaD": 0.14315472448814234,
     "CrCbGaD": 0.006034345834986171
   },
+  "n_trials": 0.0,
   "prediction": 0.0015631209358711198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

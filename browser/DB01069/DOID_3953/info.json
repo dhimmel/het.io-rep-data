@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.169117647058824,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.0806241872561769,
   "metapath_contribution": {
     "CbGaD": 0.6498832108122995,
     "CbGeAlD": 0.10639115899449664,
     "CbGpPWpGaD": 0.2405502929497362,
     "CrCbGaD": 0.0031753372434676057
   },
+  "n_trials": 0.0,
   "prediction": 0.000676976937293851,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

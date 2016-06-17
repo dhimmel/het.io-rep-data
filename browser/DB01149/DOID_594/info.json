@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.841129410236263,
     "CbGeAlD": 0.05342644772222298,
     "CbGpPWpGaD": 0.09867284079776864,
     "CrCbGaD": 0.00677130124374546
   },
+  "n_trials": 0.0,
   "prediction": 0.00293978768637311,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

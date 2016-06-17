@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGaD": 0.22750662249304482,
     "CbGbCtD": 0.547074401754554,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2143595275009298,
     "CrCbGaD": 0.003575738902689257
   },
+  "n_trials": 0.0,
   "prediction": 0.00191857183550988,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.32964889466840097,
   "metapath_contribution": {
     "CbGbCtD": 0.6526008651548294,
     "CbGpPWpGaD": 0.18066595787397483,
     "CcSEcCtD": 0.16234756334264297,
     "CrCbGaD": 0.00438561362855281
   },
+  "n_trials": 3.0,
   "prediction": 0.0012377198947861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

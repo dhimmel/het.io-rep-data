@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.48872746270011985,
     "CbGbCtD": 0.29059885828672144,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11602305547851298,
     "CrCbGaD": 0.0033852901075511156
   },
+  "n_trials": 0.0,
   "prediction": 0.00421954289640971,
   "status": 0,
   "training_prediction": 0.0304938414067401

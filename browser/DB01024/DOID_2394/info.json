@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGbCtD": 0.1840390292549,
     "CbGeAlD": 0.14764650833968215,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5389868412141474,
     "CrCbGaD": 0.0024054717705599346
   },
+  "n_trials": 0.0,
   "prediction": 0.00133899974672404,
   "status": 0,
   "training_prediction": 0.00531608016551404

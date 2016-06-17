@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGaD": 0.7783519418292462,
     "CbGeAlD": 0.06821977277409769,
     "CbGpPWpGaD": 0.14811721485179064,
     "CrCbGaD": 0.0053110705448654715
   },
+  "n_trials": 0.0,
   "prediction": 0.0025250488306497103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

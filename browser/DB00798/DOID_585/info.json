@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00798",
   "compound_name": "Gentamicin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.6813535382029487,
     "CbGeAlD": 0.17332024814093064,
     "CbGpPWpGaD": 0.10271464577090555,
     "CcSEcCtD": 0.042611567885214995
   },
+  "n_trials": 1.0,
   "prediction": 0.00260449685394374,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

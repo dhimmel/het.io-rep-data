@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00268",
   "compound_name": "Ropinirole",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.24232367488835946,
     "CbGbCtD": 0.37142944596944855,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10229089346987445,
     "CcSEcCtD": 0.2779684399256318
   },
+  "n_trials": 0.0,
   "prediction": 0.00564326911542227,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

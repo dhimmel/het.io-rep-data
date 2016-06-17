@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00205",
   "compound_name": "Pyrimethamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.0952164107115999,
     "CbGbCtD": 0.2009540245812453,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0033538108828014366,
     "CrCtD": 0.6248428218071751
   },
+  "n_trials": 0.0,
   "prediction": 0.0164653723867988,
   "status": 0,
   "training_prediction": 0.0759510974898484

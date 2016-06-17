@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGbCtD": 0.1428377821224903,
     "CbGdCrCtD": 0.000872419954053616,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.16619370688750654,
     "CrCtD": 0.29084501627366033
   },
+  "n_trials": 0.0,
   "prediction": 0.0472552348172044,
   "status": 0,
   "training_prediction": 0.17085529331708

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.28998699609883005,
   "metapath_contribution": {
     "CbGaD": 0.2971526246144605,
     "CbGeAlD": 0.256139308595964,
     "CbGpPWpGaD": 0.4388095468751928,
     "CrCbGaD": 0.007898519914382616
   },
+  "n_trials": 0.0,
   "prediction": 0.00114377168040911,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

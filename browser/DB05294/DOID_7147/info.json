@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.00910273081924577,
   "metapath_contribution": {
     "CbGbCtD": 0.4216828043005726,
     "CbGdCrCtD": 0.007187596918684329,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.2849135950747708,
     "CcSEcCtD": 0.2548131416067839
   },
+  "n_trials": 0.0,
   "prediction": 0.00068850635278786,
   "status": 0,
   "training_prediction": 0.00139040370438998

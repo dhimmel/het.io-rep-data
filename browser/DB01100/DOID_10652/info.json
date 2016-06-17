@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.850455136540962,
   "metapath_contribution": {
     "CbGaD": 0.45447380996983194,
     "CbGbCtD": 0.2779264479890489,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11833374524375381,
     "CrCbGaD": 0.0029934288940141503
   },
+  "n_trials": 0.0,
   "prediction": 0.00391049314119194,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

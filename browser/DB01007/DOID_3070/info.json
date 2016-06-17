@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.49349804941482395,
   "metapath_contribution": {
     "CbGbCtD": 0.6774166270462734,
     "CbGpPWpGaD": 0.3222089252769909,
     "CrCbGaD": 0.00037444767673570537
   },
+  "n_trials": 0.0,
   "prediction": 0.00139582515796426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

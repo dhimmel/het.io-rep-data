@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00346",
   "compound_name": "Alfuzosin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGbCtD": 0.1084989180192895,
     "CbGeAlD": 0.006157100424510452,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0035560130504388014,
     "CrCrCtD": 0.7176166429762127
   },
+  "n_trials": 0.0,
   "prediction": 0.00502622052891436,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

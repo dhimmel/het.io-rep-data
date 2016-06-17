@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.6475942782834849,
   "metapath_contribution": {
     "CbGbCtD": 0.5770067845197023,
     "CbGdCrCtD": 0.0022770533064054134,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.180437029306165,
     "CrCbGaD": 0.003910693389781162
   },
+  "n_trials": 0.0,
   "prediction": 0.00255337326862165,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

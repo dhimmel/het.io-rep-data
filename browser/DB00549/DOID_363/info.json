@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00549",
   "compound_name": "Zafirlukast",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.601430429128739,
   "metapath_contribution": {
     "CbGbCtD": 0.7836552724537333,
     "CbGeAlD": 0.045833113260037354,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1463134608990773,
     "CrCbGaD": 0.005459784463428602
   },
+  "n_trials": 0.0,
   "prediction": 0.00191731359301452,
   "status": 0,
   "training_prediction": 0.00350159319521897

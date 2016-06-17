@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00349",
   "compound_name": "Clobazam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGbCtD": 0.30261016613935576,
     "CbGeAlD": 0.022728322644384197,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.5918874214268984,
     "CrCbGaD": 0.00015877676019735752
   },
+  "n_trials": 0.0,
   "prediction": 0.00798433864181528,
   "status": 0,
   "training_prediction": 0.024264390073828

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.611833550065019,
   "metapath_contribution": {
     "CbGaD": 0.1139008374872058,
     "CbGbCtD": 0.48879454916468656,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1265723342026038,
     "CcSEcCtD": 0.2051420256255589
   },
+  "n_trials": 0.0,
   "prediction": 0.00215152781779327,
   "status": 0,
   "training_prediction": 0.005508695471600929

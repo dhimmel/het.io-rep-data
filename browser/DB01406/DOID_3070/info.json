@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.0422626788036411,
   "metapath_contribution": {
     "CbGbCtD": 0.0679023984828414,
     "CbGeAlD": 0.21774361136373072,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1444650945867189,
     "CrCbGaD": 0.002807502409490792
   },
+  "n_trials": 0.0,
   "prediction": 0.0005985339382402231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01330",
   "compound_name": "Cefotetan",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.367360208062419,
   "metapath_contribution": {
     "CbGaD": 0.30127397130765415,
     "CbGbCtD": 0.4765736604029988,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15606329754068735,
     "CrCbGaD": 0.0022000287509278066
   },
+  "n_trials": 0.0,
   "prediction": 0.00184706246553455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

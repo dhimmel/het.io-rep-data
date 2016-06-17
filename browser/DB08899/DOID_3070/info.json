@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08899",
   "compound_name": "Enzalutamide",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.642392717815345,
   "metapath_contribution": {
     "CbGaD": 0.7813553186458284,
     "CbGbCtD": 0.004086526639393116,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08858749211110749,
     "CrCbGaD": 0.009319115688040924
   },
+  "n_trials": 0.0,
   "prediction": 0.0017002733300454699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

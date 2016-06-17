@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01144",
   "compound_name": "Diclofenamide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGbCtD": 0.12452776815269712,
     "CbGeAlD": 0.02672448959182813,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.03824793323418465,
     "CiPCiCtD": 0.7847188969446296
   },
+  "n_trials": 0.0,
   "prediction": 0.00911577288275613,
   "status": 0,
   "training_prediction": 0.0230882657566554

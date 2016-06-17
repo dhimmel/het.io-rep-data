@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:14268",
   "disease_name": "sclerosing cholangitis",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.7493478957735321,
     "CbGeAlD": 0.1133640902116123,
     "CbGpPWpGaD": 0.13478504024520946,
     "CrCbGaD": 0.0025029737696462264
   },
+  "n_trials": 0.0,
   "prediction": 0.003928195824379871,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

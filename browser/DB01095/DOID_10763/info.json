@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.1415173968325974,
     "CbGbCtD": 0.24229187553171483,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1659537401904803,
     "CrCtD": 0.32416626061671555
   },
+  "n_trials": 1.0,
   "prediction": 0.0307589776960536,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0019468750034629934,
     "CbGeAlD": 0.02501390186345671,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.8854115379186782,
     "CrCbGaD": 0.0010443347017754722
   },
+  "n_trials": 0.0,
   "prediction": 0.00291408485894893,
   "status": 0,
   "training_prediction": 0.00415569699363603

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.6918075422626789,
   "metapath_contribution": {
     "CbGbCtD": 0.5957371686180801,
     "CbGeAlD": 0.11779417292431835,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06536957516573173,
     "CrCbGaD": 0.010458284554263748
   },
+  "n_trials": 0.0,
   "prediction": 0.00293558421431228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

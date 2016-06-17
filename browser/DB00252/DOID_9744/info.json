@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.11053315994798402,
   "metapath_contribution": {
     "CbGaD": 0.6430189012099716,
     "CbGeAlD": 0.030248820524472298,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20963166045145096,
     "CrCbGaD": 0.014130458511593268
   },
+  "n_trials": 0.0,
   "prediction": 0.000845121625675529,
   "status": 0,
   "training_prediction": 0.000380874017169708

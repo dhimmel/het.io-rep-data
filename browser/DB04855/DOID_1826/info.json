@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.817295188556567,
   "metapath_contribution": {
     "CbGaD": 0.45226561171327184,
     "CbGbCtD": 0.29134061239423065,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08233755770172524,
     "CrCbGaD": 0.0025086700364878142
   },
+  "n_trials": 0.0,
   "prediction": 0.00924864416989428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

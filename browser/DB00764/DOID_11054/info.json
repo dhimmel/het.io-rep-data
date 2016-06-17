@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00764",
   "compound_name": "Mometasone",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.0604681404421326,
   "metapath_contribution": {
     "CbGbCtD": 0.08535390134333856,
     "CbGeAlD": 0.027617915228407813,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.7692397701411655,
     "CrCbGaD": 0.0007707614836542144
   },
+  "n_trials": 0.0,
   "prediction": 0.000692528940966579,
   "status": 0,
   "training_prediction": 0.00403011522724823

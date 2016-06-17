@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01338",
   "compound_name": "Pipecuronium",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.509752925877763,
   "metapath_contribution": {
     "CbGbCtD": 0.2830844866746472,
-    "CbGeAlD": 0.17252047018895633,
-    "CbGpPWpGaD": 0.5442926453222618,
-    "CrCbGaD": 0.00010239781413449704
+    "CbGeAlD": 0.17252047018895636,
+    "CbGpPWpGaD": 0.544292645322262,
+    "CrCbGaD": 0.00010239781413449706
   },
+  "n_trials": 0.0,
   "prediction": 0.0018810212923684301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

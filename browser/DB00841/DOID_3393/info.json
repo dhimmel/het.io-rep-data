@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.4729525515197746,
     "CbGbCtD": 0.35581803640653287,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06146595686478923,
     "CrCbGaD": 0.003327667191002736
   },
+  "n_trials": 13.0,
   "prediction": 0.00455678803994448,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

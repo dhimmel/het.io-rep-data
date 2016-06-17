@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.420676202860858,
   "metapath_contribution": {
     "CbGaD": 0.8032030692015634,
     "CbGeAlD": 0.05116698274754199,
     "CbGpPWpGaD": 0.13881501752306571,
     "CrCbGaD": 0.006814930527828943
   },
+  "n_trials": 0.0,
   "prediction": 0.00139067107951645,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

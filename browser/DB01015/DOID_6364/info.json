@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.29258777633290006,
   "metapath_contribution": {
     "CbGbCtD": 0.7345021511370814,
     "CbGeAlD": 0.0284295445228906,
     "CcSEcCtD": 0.23239204469692484,
     "CrCbGaD": 0.004676259643103138
   },
+  "n_trials": 0.0,
   "prediction": 0.00187138728953865,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

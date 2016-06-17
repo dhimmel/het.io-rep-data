@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.864109232769831,
   "metapath_contribution": {
     "CbGaD": 0.2898126390556765,
     "CbGbCtD": 0.2937748230200706,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0009193246519082947,
     "CrCrCtD": 0.2239016258915729
   },
+  "n_trials": 0.0,
   "prediction": 0.00672391886245191,
   "status": 0,
   "training_prediction": 0.0442092943758196

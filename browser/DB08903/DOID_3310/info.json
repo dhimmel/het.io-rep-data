@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08903",
   "compound_name": "Bedaquiline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGbCtD": 0.1519317430966361,
     "CcSEcCtD": 0.032155280062260524,
     "CrCrCtD": 0.29572354213562124,
     "CrCtD": 0.5201894347054822
   },
+  "n_trials": 0.0,
   "prediction": 0.00844093573909619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

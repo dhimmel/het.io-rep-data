@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01384",
   "compound_name": "Paramethasone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.10988296488946699,
   "metapath_contribution": {
     "CbGaD": 0.49454029030087027,
     "CbGbCtD": 0.4947523036642265,
     "CbGeAlD": 0.002862195371432616,
     "CrCbGaD": 0.007845210663470527
   },
+  "n_trials": 0.0,
   "prediction": 0.00125068004786014,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

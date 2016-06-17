@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.7210663198959691,
   "metapath_contribution": {
     "CbGaD": 0.7286355889331048,
     "CbGeAlD": 0.04437268359422993,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09527066041477221,
     "CrCbGaD": 0.005242816760451665
   },
+  "n_trials": 0.0,
   "prediction": 0.0019682796633589,
   "status": 0,
   "training_prediction": 0.000887599803756307

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01232",
   "compound_name": "Saquinavir",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.4380886956164412,
     "CbGbCtD": 0.368171205485841,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14789682637414858,
     "CrCbGaD": 0.004880111083130824
   },
+  "n_trials": 0.0,
   "prediction": 0.00279233836333301,
   "status": 0,
   "training_prediction": 0.00509596084238146

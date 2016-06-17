@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGbCtD": 0.20624984406326188,
     "CbGdCrCtD": 0.0007527249422547577,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2844301533753533,
     "CrCtD": 0.48187708585886985
   },
+  "n_trials": 0.0,
   "prediction": 0.0245763432144671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.14460674587992137,
     "CbGbCtD": 0.2204195511579394,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.22014802690040647,
     "CrCtD": 0.3386443403304427
   },
+  "n_trials": 3.0,
   "prediction": 0.22412662393222701,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.40377113133940207,
   "metapath_contribution": {
     "CbGaD": 0.5184616039546801,
     "CbGbCtD": 0.30336812683088915,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.049518717536559696,
     "CcSEcCtD": 0.09276796129110576
   },
+  "n_trials": 0.0,
   "prediction": 0.00163542913101741,
   "status": 0,
   "training_prediction": 0.0306314202117696

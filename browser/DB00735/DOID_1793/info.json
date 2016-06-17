@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00735",
   "compound_name": "Naftifine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGbCtD": 0.12945043382954954,
     "CbGeAlD": 0.0006488549519855746,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3007113441345185,
     "CrCtD": 0.5414848769349385
   },
+  "n_trials": 0.0,
   "prediction": 0.00477199601517794,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

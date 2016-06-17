@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01407",
   "compound_name": "Clenbuterol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.791287386215865,
   "metapath_contribution": {
     "CbGaD": 0.5190675666006919,
     "CbGbCtD": 0.3115944738351882,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11538816221352693,
     "CrCbGaD": 0.004392816281031495
   },
+  "n_trials": 0.0,
   "prediction": 0.005100647011955,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

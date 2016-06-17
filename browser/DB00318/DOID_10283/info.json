@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.2769710531846768,
     "CbGbCtD": 0.2601782502074508,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.29278225194843055,
     "CrCbGaD": 0.002529364428898938
   },
+  "n_trials": 0.0,
   "prediction": 0.006838965115659771,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

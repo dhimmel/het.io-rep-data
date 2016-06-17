@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00403",
   "compound_name": "Ceruletide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10608",
   "disease_name": "celiac disease",
+  "disease_percentile": 0.7574772431729521,
   "metapath_contribution": {
     "CbGeAlD": 0.6877302012838603,
     "CbGpPWpGaD": 0.3122697987161398
   },
+  "n_trials": 0.0,
   "prediction": 0.00164303899001531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

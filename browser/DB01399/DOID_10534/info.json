@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.258127438231469,
   "metapath_contribution": {
     "CbGaD": 0.8547282823273824,
     "CbGeAlD": 0.010474605177754191,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05146556368170631,
     "CrCbGaD": 0.01627150206382751
   },
+  "n_trials": 0.0,
   "prediction": 0.001037101803442,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

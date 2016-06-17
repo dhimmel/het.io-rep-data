@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00177",
   "compound_name": "Valsartan",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.23326809053633032,
     "CbGbCtD": 0.2598036964514951,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0024614999804162783,
     "CtDrD": 0.41496610881884904
   },
+  "n_trials": 0.0,
   "prediction": 0.0136567879318923,
   "status": 0,
   "training_prediction": 0.0489001362608798

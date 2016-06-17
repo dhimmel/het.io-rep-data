@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.657997399219766,
   "metapath_contribution": {
     "CbGaD": 0.596965806851445,
     "CbGbCtD": 0.2680844653207293,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.05658739385970822,
     "CrCbGaD": 0.0033975998012431338
   },
+  "n_trials": 0.0,
   "prediction": 0.00196140680178899,
   "status": 0,
   "training_prediction": 0.00358198994215536

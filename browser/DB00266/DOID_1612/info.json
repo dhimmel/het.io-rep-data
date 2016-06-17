@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00266",
   "compound_name": "Dicoumarol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGaD": 0.47568954000605607,
     "CbGbCtD": 0.3901709602477837,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.07234636803643345,
     "CrCbGaD": 0.0017995942335066947
   },
+  "n_trials": 0.0,
   "prediction": 0.00370296522652076,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

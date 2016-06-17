@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.513003901170351,
   "metapath_contribution": {
     "CbGaD": 0.6077694568626958,
     "CbGbCtD": 0.2599973591546878,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.04821992455586198,
     "CrCbGaD": 0.0006897899172923196
   },
+  "n_trials": 0.0,
   "prediction": 0.00158334716436854,
   "status": 0,
   "training_prediction": 0.00289246944845452

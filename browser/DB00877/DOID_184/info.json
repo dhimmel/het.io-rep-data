@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.0708712613784135,
   "metapath_contribution": {
     "CbGaD": 0.5074376492936052,
     "CbGbCtD": 0.03732598597339115,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.25873057909085373,
     "CrCbGaD": 0.006430474768820023
   },
+  "n_trials": 16.0,
   "prediction": 0.00073415299249483,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

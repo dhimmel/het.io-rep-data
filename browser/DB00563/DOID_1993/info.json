@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1993",
   "disease_name": "rectum cancer",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.33279631889258654,
     "CbGeAlD": 0.04568475566848468,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0041060588886398545,
     "CtDrD": 0.5848068507030824
   },
+  "n_trials": 0.0,
   "prediction": 0.00703952055542415,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

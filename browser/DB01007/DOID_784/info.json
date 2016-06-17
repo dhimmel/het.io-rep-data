@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.648244473342003,
   "metapath_contribution": {
     "CbGaD": 0.7278239527236625,
     "CbGeAlD": 0.05900891066603077,
     "CbGpPWpGaD": 0.20670248923618997,
     "CrCbGaD": 0.0064646473741166504
   },
+  "n_trials": 0.0,
   "prediction": 0.001936641082359,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

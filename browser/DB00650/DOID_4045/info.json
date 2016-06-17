@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGbCtD": 0.2313518267491327,
     "CbGdCrCtD": 0.0011726065224954866,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.29825630471792075,
     "CrCtD": 0.4505173037834855
   },
+  "n_trials": 0.0,
   "prediction": 0.0141798079878797,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7009102730819251,
   "metapath_contribution": {
     "CbGbCtD": 0.5026574625524689,
     "CbGpPWpGaD": 0.13459851433369754,
     "CcSEcCtD": 0.3627440231138335
   },
+  "n_trials": 0.0,
   "prediction": 0.00301124745019226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

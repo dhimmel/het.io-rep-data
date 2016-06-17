@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01220",
   "compound_name": "Rifaximin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.684655396618986,
   "metapath_contribution": {
     "CbGaD": 0.22434600534356205,
     "CbGbCtD": 0.522233630444841,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1822247513713033,
     "CrCbGaD": 0.005669562030923346
   },
+  "n_trials": 0.0,
   "prediction": 0.0035168574923569603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

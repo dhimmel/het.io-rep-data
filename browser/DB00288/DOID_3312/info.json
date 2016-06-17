@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.0422626788036411,
   "metapath_contribution": {
     "CbGaD": 0.8558597523820425,
     "CbGeAlD": 0.0463435827881247,
     "CbGpPWpGaD": 0.08796565401412641,
     "CrCbGaD": 0.009831010815706379
   },
+  "n_trials": 0.0,
   "prediction": 0.000742059765139496,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

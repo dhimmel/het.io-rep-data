@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.7392717815344599,
   "metapath_contribution": {
-    "CbGaD": 0.8179936564611889,
-    "CbGeAlD": 0.12272252774592834,
-    "CbGpPWpGaD": 0.05091786134274967,
-    "CrCbGaD": 0.008365954450133141
+    "CbGaD": 0.8179936564611888,
+    "CbGeAlD": 0.12272252774592833,
+    "CbGpPWpGaD": 0.050917861342749664,
+    "CrCbGaD": 0.00836595445013314
   },
+  "n_trials": 0.0,
   "prediction": 0.0021711388392674897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

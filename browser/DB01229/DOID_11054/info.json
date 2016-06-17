@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGbCtD": 0.3164281043053759,
     "CbGdCrCtD": 0.0012941958803728557,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0010321124833704788,
     "CtDrD": 0.4602925800637758
   },
+  "n_trials": 26.0,
   "prediction": 0.00430788767436606,
   "status": 0,
   "training_prediction": 0.0306947748388506

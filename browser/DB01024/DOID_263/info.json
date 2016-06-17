@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.576723016905072,
   "metapath_contribution": {
     "CbGbCtD": 0.44635878551432556,
     "CbGeAlD": 0.06443143558126717,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3459642196272023,
     "CrCbGaD": 0.0007930355549462111
   },
+  "n_trials": 11.0,
   "prediction": 0.0020361168599623302,
   "status": 0,
   "training_prediction": 0.009842311273873479

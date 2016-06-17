@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.710594287623907,
     "CbGdCrCtD": 0.005005896915190447,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19834231030763178,
     "CrCbGaD": 0.005654938694542511
   },
+  "n_trials": 0.0,
   "prediction": 0.0016741109211976801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

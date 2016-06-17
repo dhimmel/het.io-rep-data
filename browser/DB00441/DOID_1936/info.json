@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.0637191157347204,
   "metapath_contribution": {
     "CbGbCtD": 0.2085868339456284,
     "CbGdCrCtD": 0.014329852041103368,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1936478853932742,
     "CcSEcCtD": 0.460283721856986
   },
+  "n_trials": 0.0,
   "prediction": 0.000811057698684206,
   "status": 0,
   "training_prediction": 0.00522344264475427

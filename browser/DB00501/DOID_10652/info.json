@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00501",
   "compound_name": "Cimetidine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGaD": 0.2066060127922601,
     "CbGbCtD": 0.5071076663629488,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11445108177054338,
     "CcSEcCtD": 0.13416111625170798
   },
+  "n_trials": 0.0,
   "prediction": 0.0036026175398434397,
   "status": 0,
   "training_prediction": 0.00437085964829147

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00418",
   "compound_name": "Secobarbital",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.18700732154907707,
     "CbGbCtD": 0.2300534346692503,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1888249463912499,
     "CrCtD": 0.2812248554199823
   },
+  "n_trials": 0.0,
   "prediction": 0.131899890482672,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

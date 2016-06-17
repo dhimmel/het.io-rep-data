@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGaD": 0.5032211620945223,
     "CbGbCtD": 0.3201682806629253,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1011659088887909,
     "CrCbGaD": 0.003030388919573019
   },
+  "n_trials": 4.0,
   "prediction": 0.00481682579861778,
   "status": 0,
   "training_prediction": 0.0209559983261502

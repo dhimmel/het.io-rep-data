@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGbCtD": 0.6513772054200121,
     "CbGdCrCtD": 0.0032965369917377094,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04946530259238855,
     "CcSEcCtD": 0.2697649047364129
   },
+  "n_trials": 0.0,
   "prediction": 0.0022974636475005,
   "status": 0,
   "training_prediction": 0.0220395806182575

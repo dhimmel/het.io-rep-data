@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGaD": 0.875122897984661,
     "CbGpPWpGaD": 0.012064542847912463,
     "CcSEcCtD": 0.10508704410658384,
     "CrCbGaD": 0.007725515060842716
   },
+  "n_trials": 0.0,
   "prediction": 0.00136261387439985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.5546163849154749,
   "metapath_contribution": {
     "CbGaD": 0.25034840067447234,
     "CbGbCtD": 0.4742732135964506,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1254160466815556,
     "CrCbGaD": 0.0009019629892115
   },
+  "n_trials": 0.0,
   "prediction": 0.0016048290508503,
   "status": 0,
   "training_prediction": 0.0038241320339473203

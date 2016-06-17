@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08932",
   "compound_name": "MACITENTAN",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.7292961157646672,
     "CbGbCtD": 0.1344402052046988,
     "CbGpPWpGaD": 0.13180519578650152,
     "CcSEcCtD": 0.0044584832441323845
   },
+  "n_trials": 0.0,
   "prediction": 0.00358527911663849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

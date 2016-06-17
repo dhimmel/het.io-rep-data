@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.08744733683814555,
     "CbGbCtD": 0.1590908955532074,
@@ -15,7 +17,7 @@
     "CrCrCtD": 0.16291494883995591,
     "CrCtD": 0.25188194533956176
   },
+  "n_trials": 103.0,
   "prediction": 0.17717841064048998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

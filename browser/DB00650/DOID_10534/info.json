@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.14654748990835198,
     "CbGbCtD": 0.260438020574866,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.20977299746592196,
     "CrCtD": 0.31720460823528696
   },
+  "n_trials": 5.0,
   "prediction": 0.0307265207807594,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

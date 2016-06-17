@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00302",
   "compound_name": "Tranexamic Acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.4450423825377354,
     "CbGbCtD": 0.2942306752795215,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10557283038658569,
     "CcSEcCtD": 0.11024079052040352
   },
+  "n_trials": 3.0,
   "prediction": 0.0118100995226737,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

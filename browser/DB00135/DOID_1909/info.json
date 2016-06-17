@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00135",
   "compound_name": "L-Tyrosine",
+  "compound_percentile": 0.0294117647058824,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.293237971391417,
   "metapath_contribution": {
     "CbGeAlD": 0.427921935681683,
-    "CbGpPWpGaD": 0.5298273955825004,
+    "CbGpPWpGaD": 0.5298273955825005,
     "CrCbGaD": 0.042250668735816524
   },
+  "n_trials": 0.0,
   "prediction": 0.00106309205837751,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

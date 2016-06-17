@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.729821278006492,
     "CbGeAlD": 0.10061141361989023,
     "CbGpPWpGaD": 0.16304746718528512,
     "CrCbGaD": 0.006519841188332719
   },
+  "n_trials": 0.0,
   "prediction": 0.0026702811495647,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

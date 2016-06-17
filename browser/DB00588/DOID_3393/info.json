@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.15344603381014302,
   "metapath_contribution": {
     "CbGaD": 0.35499257516085125,
     "CbGbCtD": 0.418468942724443,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13940491641602526,
     "CrCbGaD": 0.0013831768693304616
   },
+  "n_trials": 0.0,
   "prediction": 0.00110113105895912,
   "status": 0,
   "training_prediction": 0.00591068327622599

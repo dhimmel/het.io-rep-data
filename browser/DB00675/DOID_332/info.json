@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.46807577774880504,
     "CbGbCtD": 0.35794456180911055,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09151329067841563,
     "CrCbGaD": 0.002548697080896069
   },
+  "n_trials": 3.0,
   "prediction": 0.0027554958742436898,
   "status": 0,
   "training_prediction": 0.00207314974569463

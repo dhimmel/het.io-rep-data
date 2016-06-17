@@ -1,15 +1,18 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.311443433029909,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.007823595546800368,
-    "CbGeAlD": 0.02818664999573123,
-    "CcSEcCtD": 0.28985578790390454,
-    "CrCbGaD": 0.006858034030010855,
-    "CrCrCtD": 0.6672759325235529
+    "CbGdCrCtD": 0.00782359554680037,
+    "CbGeAlD": 0.028186649995731235,
+    "CcSEcCtD": 0.2898557879039046,
+    "CrCbGaD": 0.0068580340300108565,
+    "CrCrCtD": 0.667275932523553
   },
+  "n_trials": 0.0,
   "prediction": 0.0018356285235941198,
   "status": 0,
   "training_prediction": 0.0346327556435185

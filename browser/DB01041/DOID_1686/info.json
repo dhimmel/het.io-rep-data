@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.4125765818219783,
     "CbGbCtD": 0.2839100439073008,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18780185394520454,
     "CrCbGaD": 0.0038446242902619157
   },
+  "n_trials": 0.0,
   "prediction": 0.00295399370363902,
   "status": 0,
   "training_prediction": 0.0206351853118428

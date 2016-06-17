@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGbCtD": 0.3202746175156444,
     "CbGdCrCtD": 0.0021172184305557964,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0026689649606253378,
     "CrCrCtD": 0.10191113957189239
   },
+  "n_trials": 0.0,
   "prediction": 0.0044938036203236,
   "status": 0,
   "training_prediction": 0.0145079625207487

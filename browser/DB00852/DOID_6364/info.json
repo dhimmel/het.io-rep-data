@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8686605981794541,
   "metapath_contribution": {
     "CbGaD": 0.3319636788110439,
     "CbGbCtD": 0.30618357251102174,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001735904625405931,
     "CrCrCtD": 0.20995478977567758
   },
+  "n_trials": 0.0,
   "prediction": 0.0072924557344271595,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

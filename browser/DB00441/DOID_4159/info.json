@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGbCtD": 0.19700597318064125,
     "CbGdCrCtD": 0.0016437077814040156,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07751814436956371,
     "CiPCiCtD": 0.6511697254061395
   },
+  "n_trials": 0.0,
   "prediction": 0.00628520376002076,
   "status": 0,
   "training_prediction": 0.0524954421913826

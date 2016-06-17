@@ -1,16 +1,19 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.20871261378413503,
   "metapath_contribution": {
-    "CbGaD": 0.3077411045694973,
-    "CbGbCtD": 0.4204139676149717,
-    "CbGeAlD": 0.07546890843030257,
-    "CbGpPWpGaD": 0.1295023808770605,
-    "CcSEcCtD": 0.06683990029779768,
-    "CrCbGaD": 3.373821037040859e-05
+    "CbGaD": 0.30774110456949727,
+    "CbGbCtD": 0.4204139676149716,
+    "CbGeAlD": 0.07546890843030254,
+    "CbGpPWpGaD": 0.12950238087706048,
+    "CcSEcCtD": 0.06683990029779767,
+    "CrCbGaD": 3.373821037040858e-05
   },
+  "n_trials": 6.0,
   "prediction": 0.000918386144651007,
   "status": 0,
   "training_prediction": 0.006108214054707129

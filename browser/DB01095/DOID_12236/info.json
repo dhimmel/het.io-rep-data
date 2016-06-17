@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.624187256176853,
   "metapath_contribution": {
     "CbGbCtD": 0.6909423724172988,
     "CbGeAlD": 0.007853113471872845,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19341427711944698,
     "CrCbGaD": 0.007255680299410485
   },
+  "n_trials": 0.0,
   "prediction": 0.00194070931219761,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

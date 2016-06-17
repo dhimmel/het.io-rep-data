@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.38361508452535803,
   "metapath_contribution": {
     "CbGaD": 0.24078282635963366,
     "CbGbCtD": 0.4533192995539758,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.24913740245584814,
     "CrCbGaD": 0.0009828574108206424
   },
+  "n_trials": 0.0,
   "prediction": 0.00120416909846716,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

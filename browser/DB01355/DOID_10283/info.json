@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01355",
   "compound_name": "Hexobarbital",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.762028608582575,
   "metapath_contribution": {
     "CbGaD": 0.38894648481255334,
     "CbGbCtD": 0.48112276814144656,
     "CbGeAlD": 0.012886425725809085,
     "CbGpPWpGaD": 0.11704432132019096
   },
+  "n_trials": 0.0,
   "prediction": 0.00423627826907779,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

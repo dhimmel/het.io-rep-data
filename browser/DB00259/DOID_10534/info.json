@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.50520156046814,
   "metapath_contribution": {
     "CbGaD": 0.7989871555912254,
     "CbGbCtD": 0.018157623882160256,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.00513844786894421,
     "CrCbGaD": 0.004445910044380219
   },
+  "n_trials": 0.0,
   "prediction": 0.00157260068980571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGeAlD": 0.0012107579371105944,
     "CbGpPWpGaD": 0.009219413497004732,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.001792713319001754,
     "CtDrD": 0.31348833452424135
   },
+  "n_trials": 4.0,
   "prediction": 0.0115517538110824,
   "status": 0,
   "training_prediction": 0.0239422282201815

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00154",
   "compound_name": "Dihomo-gamma-linolenic acid",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.56371911573472,
   "metapath_contribution": {
     "CbGaD": 0.8882338437003328,
     "CbGeAlD": 0.09716135366094636,
     "CbGpPWpGaD": 0.010828756687684132,
     "CrCbGaD": 0.003776045951036796
   },
+  "n_trials": 0.0,
   "prediction": 0.00204798828184533,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

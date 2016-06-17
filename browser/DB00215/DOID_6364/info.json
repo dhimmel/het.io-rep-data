@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.23950761467164425,
     "CbGbCtD": 0.2541300905967641,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.36352219016712845,
     "CrCbGaD": 0.002291424139458814
   },
+  "n_trials": 0.0,
   "prediction": 0.0178336077522524,
   "status": 0,
   "training_prediction": 0.0321459642795358

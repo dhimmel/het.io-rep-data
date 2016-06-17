@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5318595578673599,
   "metapath_contribution": {
     "CbGaD": 0.25150199793831757,
     "CbGbCtD": 0.37416794244516666,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003495760715841263,
     "CrCrCtD": 0.14002326587220823
   },
+  "n_trials": 0.0,
   "prediction": 0.00425631907907364,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

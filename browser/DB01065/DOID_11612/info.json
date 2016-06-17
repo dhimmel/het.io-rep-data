@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.7133507970638565,
     "CbGeAlD": 0.09499544920166014,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03519761983567786,
     "CrCbGaD": 0.005891480743365014
   },
+  "n_trials": 2.0,
   "prediction": 0.00291803421950538,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

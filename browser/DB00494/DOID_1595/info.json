@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00494",
   "compound_name": "Entacapone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.9079732546630104,
     "CbGeAlD": 0.015457125160266216,
     "CbGpPWpGaD": 0.0693433225463524,
     "CrCbGaD": 0.007226297630370991
   },
+  "n_trials": 0.0,
   "prediction": 0.00406420607836323,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

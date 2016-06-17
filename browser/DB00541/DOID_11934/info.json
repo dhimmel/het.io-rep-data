@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGbCtD": 0.1590515730741579,
     "CbGeAlD": 0.0071305069574213766,
@@ -13,6 +15,7 @@
     "CrCtD": 0.2232817565774688,
     "CtDrD": 0.15345738039398454
   },
+  "n_trials": 1.0,
   "prediction": 0.152952448621574,
   "status": 0,
   "training_prediction": 0.49761547774697995

@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGbCtD": 0.25749631966173125,
     "CbGeAlD": 0.029324332811855484,
@@ -13,6 +15,5 @@
     "CrCtD": 0.41093383919764265
   },
   "prediction": 0.0132800268246693,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

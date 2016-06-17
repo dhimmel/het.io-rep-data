@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.1314429484127707,
     "CbGbCtD": 0.2793041474470195,
@@ -14,6 +16,5 @@
     "CrCbGaD": 0.00011425172081771494
   },
   "prediction": 0.00676506719421416,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00546",
   "compound_name": "Adinazolam",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.29258777633290006,
   "metapath_contribution": {
     "CbGaD": 0.31509667284929893,
     "CbGbCtD": 0.5602670632990366,
     "CbGpPWpGaD": 0.12145320792341449,
     "CrCbGaD": 0.0031830559282498777
   },
+  "n_trials": 0.0,
   "prediction": 0.00156253921934286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

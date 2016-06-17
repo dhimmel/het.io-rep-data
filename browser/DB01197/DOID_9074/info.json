@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.3228676720090927,
     "CbGbCtD": 0.10711338283876838,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0005388623790821462,
     "CtDrD": 0.4097402613322484
   },
+  "n_trials": 0.0,
   "prediction": 0.015550327832179,
   "status": 0,
   "training_prediction": 0.0949157426477769

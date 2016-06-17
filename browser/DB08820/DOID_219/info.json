@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08820",
   "compound_name": "Ivacaftor",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.5320883159108711,
     "CbGbCtD": 0.34362628074202983,
     "CbGeAlD": 0.056665328496327896,
     "CcSEcCtD": 0.0676200748507712
   },
+  "n_trials": 0.0,
   "prediction": 0.0025752026027399,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00724",
   "compound_name": "Imiquimod",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
-    "CbGbCtD": 0.1667357272638151,
-    "CbGpPWpGaD": 0.03857547776362649,
-    "CcSEcCtD": 0.1551692761187442,
-    "CtDrD": 0.6395195188538141
+    "CbGbCtD": 0.16673572726381514,
+    "CbGpPWpGaD": 0.0385754777636265,
+    "CcSEcCtD": 0.15516927611874423,
+    "CtDrD": 0.6395195188538142
   },
+  "n_trials": 1.0,
   "prediction": 0.0098685156248713,
   "status": 0,
   "training_prediction": 0.0407099159097521

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.319895968790637,
   "metapath_contribution": {
     "CbGbCtD": 0.7335260650762231,
     "CbGdCrCtD": 0.0025079291794242327,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1121677380327349,
     "CrCbGaD": 0.0007736565007853014
   },
+  "n_trials": 0.0,
   "prediction": 0.00117077989740064,
   "status": 0,
   "training_prediction": 0.0027837158552194

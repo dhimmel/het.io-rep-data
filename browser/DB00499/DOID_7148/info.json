@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00499",
   "compound_name": "Flutamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.40887619646243556,
     "CbGbCtD": 0.48938260502673747,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.011952382005357833,
     "CcSEcCtD": 0.07104271572608288
   },
+  "n_trials": 0.0,
   "prediction": 0.00677983703944371,
   "status": 0,
   "training_prediction": 0.0217768395827009

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.8720681783041079,
     "CbGeAlD": 0.06758538923483413,
     "CbGpPWpGaD": 0.05766111088140335,
     "CrCbGaD": 0.0026853215796545705
   },
+  "n_trials": 0.0,
   "prediction": 0.00271271707318047,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

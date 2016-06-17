@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01251",
   "compound_name": "Gliquidone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.535760728218466,
   "metapath_contribution": {
     "CbGaD": 0.5784558265158082,
-    "CbGbCtD": 0.2885334003860145,
-    "CbGeAlD": 0.027975337512794518,
-    "CbGpPWpGaD": 0.09998432016120387,
-    "CrCbGaD": 0.00505111542417887
+    "CbGbCtD": 0.28853340038601455,
+    "CbGeAlD": 0.02797533751279452,
+    "CbGpPWpGaD": 0.0999843201612039,
+    "CrCbGaD": 0.005051115424178871
   },
+  "n_trials": 0.0,
   "prediction": 0.00428875634560272,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

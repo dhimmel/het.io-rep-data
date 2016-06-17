@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0611183355006502,
   "metapath_contribution": {
     "CbGaD": 0.3493671932167939,
     "CbGpPWpGaD": 0.20043171702387316,
     "CrCbGaD": 0.010870374154882045,
     "CrCrCtD": 0.43933071560445097
   },
+  "n_trials": 0.0,
   "prediction": 0.000843053007686861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

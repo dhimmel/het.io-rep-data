@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.44148244473342,
   "metapath_contribution": {
     "CbGaD": 0.294756365117562,
     "CbGbCtD": 0.3598061707297575,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17412248199867333,
     "CrCbGaD": 0.002762185176300589
   },
+  "n_trials": 0.0,
   "prediction": 0.0016771192245308,
   "status": 0,
   "training_prediction": 0.00339055113732669

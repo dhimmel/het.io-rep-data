@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.360208062418726,
   "metapath_contribution": {
     "CbGaD": 0.25330263257169683,
     "CbGbCtD": 0.23425567440382025,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.27196618697271585,
     "CrCbGaD": 0.00406462108735828
   },
+  "n_trials": 0.0,
   "prediction": 0.00139628869735551,
   "status": 0,
   "training_prediction": 0.00794179069011278

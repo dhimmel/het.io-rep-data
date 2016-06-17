@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.717165149544863,
   "metapath_contribution": {
     "CbGaD": 0.7322536838360315,
     "CbGeAlD": 0.11671934194096402,
     "CbGpPWpGaD": 0.14538356547155704,
     "CrCbGaD": 0.00564340875144742
   },
+  "n_trials": 0.0,
   "prediction": 0.00189241320199835,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

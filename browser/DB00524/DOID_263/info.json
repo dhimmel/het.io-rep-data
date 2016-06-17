@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00524",
   "compound_name": "Metolazone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7366710013003901,
   "metapath_contribution": {
     "CbGaD": 0.6181595111886328,
     "CbGeAlD": 0.08054362379049011,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18969593320846886,
     "CrCbGaD": 0.0071430020956474655
   },
+  "n_trials": 0.0,
   "prediction": 0.00264418203460644,
   "status": 0,
   "training_prediction": 0.0076793532352819995

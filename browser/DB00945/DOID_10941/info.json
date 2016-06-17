@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:10941",
   "disease_name": "intracranial aneurysm",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.8717719890048357,
     "CbGeAlD": 0.037579445801197944,
     "CbGpPWpGaD": 0.0906485651939664
   },
+  "n_trials": 3.0,
   "prediction": 0.00241422213943762,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

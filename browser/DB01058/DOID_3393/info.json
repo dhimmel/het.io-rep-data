@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01058",
   "compound_name": "Praziquantel",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8485045513654101,
   "metapath_contribution": {
     "CbGaD": 0.21349354335542434,
     "CbGbCtD": 0.5879887418846231,
     "CbGpPWpGaD": 0.04786780043594802,
     "CcSEcCtD": 0.15064991432400465
   },
+  "n_trials": 0.0,
   "prediction": 0.00568373063313526,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

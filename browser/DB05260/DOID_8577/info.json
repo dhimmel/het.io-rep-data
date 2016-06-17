@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGaD": 0.7314846678905584,
     "CbGdCrCtD": 0.0062300971892110205,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15855652422706837,
     "CcSEcCtD": 0.048670833529527696
   },
+  "n_trials": 0.0,
   "prediction": 0.00558056555319885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

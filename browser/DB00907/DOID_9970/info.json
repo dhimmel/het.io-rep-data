@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.908972691807542,
   "metapath_contribution": {
     "CbGaD": 0.11200494480396589,
     "CbGbCtD": 0.494322042586815,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03434900852750581,
     "CrCrCtD": 0.29054336222375743
   },
+  "n_trials": 0.0,
   "prediction": 0.009205923598982759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

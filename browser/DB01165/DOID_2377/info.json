@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.34655396618985695,
   "metapath_contribution": {
     "CbGbCtD": 0.6459529262104395,
     "CbGdCrCtD": 0.004157402870385003,
     "CbGpPWpGaD": 0.0029722549018262223,
     "CcSEcCtD": 0.3469174160173493
   },
+  "n_trials": 0.0,
   "prediction": 0.0015141503466486802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

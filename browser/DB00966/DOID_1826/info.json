@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6410923276983089,
   "metapath_contribution": {
     "CbGaD": 0.3776213628499445,
     "CbGbCtD": 0.38796647992237326,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1636033241070835,
     "CrCbGaD": 0.0010382911700498327
   },
+  "n_trials": 0.0,
   "prediction": 0.004788806624331511,
   "status": 0,
   "training_prediction": 0.0379612101838243

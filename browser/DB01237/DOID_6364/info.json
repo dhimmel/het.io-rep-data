@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01237",
   "compound_name": "Bromodiphenhydramine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGbCtD": 0.08676405363646815,
     "CbGpPWpGaD": 0.004653332793323066,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.33862584001702767,
     "CrCtD": 0.5670385993409235
   },
+  "n_trials": 0.0,
   "prediction": 0.0064688426183732205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

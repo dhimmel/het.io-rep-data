@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04839",
   "compound_name": "Cyproterone acetate",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.610533159947984,
   "metapath_contribution": {
     "CbGaD": 0.7041697169568163,
     "CbGeAlD": 0.029503621427380354,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1776382456266928,
     "CrCbGaD": 0.00414412695124256
   },
+  "n_trials": 0.0,
   "prediction": 0.00310370071402462,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

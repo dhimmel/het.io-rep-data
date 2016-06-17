@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.308192457737321,
   "metapath_contribution": {
     "CbGaD": 0.26787239425082987,
     "CbGbCtD": 0.23121046063732018,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.004078217582485587,
     "CrCrCtD": 0.24553533642076486
   },
+  "n_trials": 0.0,
   "prediction": 0.00169361158684951,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

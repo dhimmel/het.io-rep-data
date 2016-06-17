@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
-    "CbGaD": 0.34912060943998235,
-    "CbGbCtD": 0.04061592786563509,
-    "CbGeAlD": 0.013336027076133758,
-    "CbGpPWpGaD": 0.038167329502327076,
-    "CcSEcCtD": 0.04420841025844211,
-    "CrCbGaD": 0.0021282034418946853,
-    "CtDrD": 0.5124234924155848
+    "CbGaD": 0.34912060943998247,
+    "CbGbCtD": 0.040615927865635094,
+    "CbGeAlD": 0.013336027076133761,
+    "CbGpPWpGaD": 0.03816732950232708,
+    "CcSEcCtD": 0.04420841025844212,
+    "CrCbGaD": 0.0021282034418946857,
+    "CtDrD": 0.5124234924155849
   },
+  "n_trials": 8.0,
   "prediction": 0.00303872533925278,
   "status": 0,
   "training_prediction": 0.0150219181399772

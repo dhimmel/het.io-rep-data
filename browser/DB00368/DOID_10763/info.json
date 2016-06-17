@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.18346140498890046,
     "CbGbCtD": 0.26840446586339206,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1781137826207301,
     "CrCtD": 0.26031827755234405
   },
+  "n_trials": 2.0,
   "prediction": 0.032469058157998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

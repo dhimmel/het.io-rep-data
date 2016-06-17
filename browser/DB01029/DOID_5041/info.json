@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.6996098829648891,
   "metapath_contribution": {
     "CbGaD": 0.5755033409698935,
     "CbGeAlD": 0.05781029440872216,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13889433439570475,
     "CrCbGaD": 0.0039713701360451865
   },
+  "n_trials": 0.0,
   "prediction": 0.00197080487943982,
   "status": 0,
   "training_prediction": 0.00398308416677127

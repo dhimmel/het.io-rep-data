@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00900",
   "compound_name": "Didanosine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.23407022106632003,
   "metapath_contribution": {
     "CbGbCtD": 0.14899120011971412,
     "CbGdCrCtD": 0.004317431169218387,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.29861634886287564,
     "CcSEcCtD": 0.49446554548418864
   },
+  "n_trials": 0.0,
   "prediction": 0.0018704474273714,
   "status": 0,
   "training_prediction": 0.009116713158126809

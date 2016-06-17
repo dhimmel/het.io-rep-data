@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.06681340149361917,
     "CbGbCtD": 0.1684983563679397,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.4977215874564503,
     "CtDrD": 0.1980906151861176
   },
+  "n_trials": 0.0,
   "prediction": 0.0454200720371208,
   "status": 0,
   "training_prediction": 0.341271329529556

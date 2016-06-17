@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.730819245773732,
   "metapath_contribution": {
     "CbGaD": 0.34276905017246484,
     "CbGbCtD": 0.41248506879460656,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1382036364371557,
     "CrCbGaD": 0.0018216368920916744
   },
+  "n_trials": 0.0,
   "prediction": 0.0076383644162375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

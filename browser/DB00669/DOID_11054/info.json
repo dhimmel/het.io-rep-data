@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.547464239271782,
   "metapath_contribution": {
     "CbGbCtD": 0.6596229096724289,
     "CbGpPWpGaD": 0.01395555064845831,
     "CcSEcCtD": 0.3185625468764265,
     "CrCbGaD": 0.007858992802686357
   },
+  "n_trials": 0.0,
   "prediction": 0.00170681083357503,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

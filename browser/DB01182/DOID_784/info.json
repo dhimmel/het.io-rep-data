@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.45253576072821794,
   "metapath_contribution": {
     "CbGaD": 0.7502492924179577,
     "CbGeAlD": 0.05700871645929862,
     "CbGpPWpGaD": 0.18187904499210508,
     "CrCbGaD": 0.010862946130638589
   },
+  "n_trials": 0.0,
   "prediction": 0.00146205100252483,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

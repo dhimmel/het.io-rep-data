@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08604",
   "compound_name": "Triclosan",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.49479843953186,
   "metapath_contribution": {
     "CbGbCtD": 0.8918746509491917,
     "CbGdCrCtD": 0.005301816391890382,
     "CbGeAlD": 0.039746783445845854,
     "CbGpPWpGaD": 0.06307674921307202
   },
+  "n_trials": 0.0,
   "prediction": 0.0015441766140955801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

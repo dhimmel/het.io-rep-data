@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGbCtD": 0.07807373931569812,
     "CbGpPWpGaD": 0.0013255857348259711,
@@ -14,6 +16,7 @@
     "CrCtD": 0.1856422959479671,
     "CtDrD": 0.18478264630872127
   },
+  "n_trials": 12.0,
   "prediction": 0.0483554029189572,
   "status": 0,
   "training_prediction": 0.41070284987548406

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.728218465539662,
   "metapath_contribution": {
     "CbGbCtD": 0.5507082940850816,
     "CbGeAlD": 0.04443951891347474,
     "CbGpPWpGaD": 0.10339418069575174,
     "CcSEcCtD": 0.3014580063056919
   },
+  "n_trials": 0.0,
   "prediction": 0.00221326749685821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

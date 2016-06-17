@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01466",
   "compound_name": "Ethylmorphine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.46098829648894707,
   "metapath_contribution": {
     "CbGbCtD": 0.9991796011968831,
     "CrCbGaD": 0.0008203988031168924
   },
+  "n_trials": 0.0,
   "prediction": 0.0019807637767142302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

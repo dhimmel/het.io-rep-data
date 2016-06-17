@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.7032761120361537,
     "CbGbCtD": 0.02695272594497173,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03827841591835293,
     "CrCbGaD": 0.00025729739588355345
   },
+  "n_trials": 0.0,
   "prediction": 0.00408259744521411,
   "status": 0,
   "training_prediction": 0.0040275027625225794

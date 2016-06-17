@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.578673602080624,
   "metapath_contribution": {
     "CbGaD": 0.23557229606916413,
     "CbGbCtD": 0.482891985036088,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17166138722689306,
     "CrCbGaD": 0.0021488898701216333
   },
+  "n_trials": 0.0,
   "prediction": 0.004061539844827411,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

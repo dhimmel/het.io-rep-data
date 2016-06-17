@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01412",
   "compound_name": "Theobromine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGbCtD": 0.2663573780476605,
     "CbGeAlD": 0.010684574901878066,
     "CrCrCtD": 0.2546394494200177,
     "CrCtD": 0.4683185976304437
   },
+  "n_trials": 0.0,
   "prediction": 0.0255684071924667,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

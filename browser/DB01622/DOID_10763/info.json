@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5240572171651501,
   "metapath_contribution": {
     "CbGaD": 0.2820183090170239,
     "CbGbCtD": 0.36643100930615,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0032897924244785835,
     "CrCrCtD": 0.24516116160429693
   },
+  "n_trials": 0.0,
   "prediction": 0.0042071298613566,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

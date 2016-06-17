@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.312093628088427,
   "metapath_contribution": {
     "CbGbCtD": 0.4817451804951963,
     "CbGpPWpGaD": 0.16518395735884941,
     "CcSEcCtD": 0.33809576863490526,
     "CrCbGaD": 0.014975093511048913
   },
+  "n_trials": 0.0,
   "prediction": 0.00162284066805284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

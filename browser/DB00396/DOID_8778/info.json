@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.35695708712613794,
   "metapath_contribution": {
     "CbGbCtD": 0.11360974955022564,
     "CbGeAlD": 0.07534691665494864,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0005565752306152669,
     "CrCrCtD": 0.6008293471657562
   },
+  "n_trials": 0.0,
   "prediction": 0.00129654233335311,
   "status": 0,
   "training_prediction": 0.0021150578260154397

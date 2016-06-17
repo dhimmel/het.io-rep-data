@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00183",
   "compound_name": "Pentagastrin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.8422179598393904,
     "CbGbCtD": 0.04500363549670723,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03838714139555646,
     "CrCbGaD": 0.00040955129794387175
   },
+  "n_trials": 0.0,
   "prediction": 0.00374929382193953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

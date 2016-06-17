@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.8289986996098829,
   "metapath_contribution": {
     "CbGaD": 0.17991627681560407,
     "CbGbCtD": 0.5185999450883975,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09441625798546173,
     "CcSEcCtD": 0.16322992577274417
   },
+  "n_trials": 0.0,
   "prediction": 0.00233495260687165,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

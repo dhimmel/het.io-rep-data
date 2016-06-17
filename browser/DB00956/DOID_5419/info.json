@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.30104031209362797,
   "metapath_contribution": {
     "CbGaD": 0.737102019070021,
     "CbGeAlD": 0.09210122461023271,
     "CbGpPWpGaD": 0.15414908326747803,
     "CrCbGaD": 0.01664767305226821
   },
+  "n_trials": 0.0,
   "prediction": 0.00117057930025125,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.355656697009103,
   "metapath_contribution": {
     "CbGaD": 0.9567711335099283,
     "CbGeAlD": 0.0043401307254029835,
     "CbGpPWpGaD": 0.03585526991834534,
     "CrCbGaD": 0.0030334658463233638
   },
+  "n_trials": 0.0,
   "prediction": 0.00106920656949711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

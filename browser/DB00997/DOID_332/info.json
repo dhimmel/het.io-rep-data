@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.0514705882352941,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.0305591677503251,
   "metapath_contribution": {
     "CbGbCtD": 0.3650296455158389,
     "CbGeAlD": 0.12786137020683197,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3122821409074098,
     "CrCbGaD": 0.004908982217168581
   },
+  "n_trials": 0.0,
   "prediction": 0.000531683848675803,
   "status": 0,
   "training_prediction": 0.00251189760419601

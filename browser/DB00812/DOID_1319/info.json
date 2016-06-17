@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGaD": 0.6905552387403611,
     "CbGbCtD": 0.23073252191873464,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.025857946767553774,
     "CrCbGaD": 0.005426064827914755
   },
+  "n_trials": 0.0,
   "prediction": 0.00216143937535836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

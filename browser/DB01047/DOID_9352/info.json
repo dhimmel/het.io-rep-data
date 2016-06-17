@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.00715214564369311,
   "metapath_contribution": {
     "CbGaD": 0.6669138588816005,
     "CbGeAlD": 0.019046415209161737,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18371259681286714,
     "CrCbGaD": 0.00949102483452236
   },
+  "n_trials": 0.0,
   "prediction": 0.0005312308680428969,
   "status": 0,
   "training_prediction": 0.00390782668503256

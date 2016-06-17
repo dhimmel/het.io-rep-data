@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00349",
   "compound_name": "Clobazam",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6196358907672299,
   "metapath_contribution": {
     "CbGaD": 0.8058466671774484,
     "CbGbCtD": 0.06073654833510781,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06655660552702852,
     "CrCbGaD": 0.0007166337499178296
   },
+  "n_trials": 0.0,
   "prediction": 0.00172736597377465,
   "status": 0,
   "training_prediction": 0.00315518769412688

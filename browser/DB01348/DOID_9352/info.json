@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01348",
   "compound_name": "Spirapril",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.12670957974231364,
     "CbGbCtD": 0.23873268338613518,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.23737803811109973,
     "CrCtD": 0.3666958978366197
   },
+  "n_trials": 0.0,
   "prediction": 0.0350687188189276,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

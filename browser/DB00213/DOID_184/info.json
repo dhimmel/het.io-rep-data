@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.4286127486632605,
     "CbGbCtD": 0.3701356495328246,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1682422608528865,
     "CrCbGaD": 0.004243758652450211
   },
+  "n_trials": 1.0,
   "prediction": 0.00303847492937411,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

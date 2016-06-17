@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.6788036410923279,
   "metapath_contribution": {
     "CbGaD": 0.12905102855888,
     "CbGbCtD": 0.6235295960712155,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10968674974715953,
     "CrCbGaD": 0.002836688825874442
   },
+  "n_trials": 0.0,
   "prediction": 0.0024580074688437896,
   "status": 0,
   "training_prediction": 0.0118624466406061

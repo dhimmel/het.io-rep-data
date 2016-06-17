@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.7905836715999623,
     "CbGeAlD": 0.07026068421205468,
     "CbGpPWpGaD": 0.13282525928363398,
     "CrCbGaD": 0.0063303849043489955
   },
+  "n_trials": 4.0,
   "prediction": 0.0027270067143677,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

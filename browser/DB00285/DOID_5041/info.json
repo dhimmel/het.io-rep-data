@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.609232769830949,
   "metapath_contribution": {
     "CbGaD": 0.29333241917051145,
     "CbGbCtD": 0.40396702393014977,
     "CbGpPWpGaD": 0.12383089381583169,
     "CcSEcCtD": 0.178869663083507
   },
+  "n_trials": 0.0,
   "prediction": 0.00170410949229464,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

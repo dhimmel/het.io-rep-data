@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.2759099127446128,
     "CbGeAlD": 0.010773094734270353,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0006189960821797584,
     "CtDrD": 0.6801284991162008
   },
+  "n_trials": 0.0,
   "prediction": 0.00285971071091011,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01227",
   "compound_name": "Levomethadyl Acetate",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
     "CbGaD": 0.5913724648650789,
     "CbGbCtD": 0.3214214933920166,
     "CbGpPWpGaD": 0.08615882636597515,
     "CrCbGaD": 0.001047215376929382
   },
+  "n_trials": 0.0,
   "prediction": 0.00298583473935163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

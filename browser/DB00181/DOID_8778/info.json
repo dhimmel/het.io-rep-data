@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.652795838751626,
   "metapath_contribution": {
     "CbGbCtD": 0.5876181532378079,
     "CbGpPWpGaD": 0.11705103420884459,
     "CcSEcCtD": 0.28602206671006425,
     "CrCbGaD": 0.00930874584328329
   },
+  "n_trials": 0.0,
   "prediction": 0.00193844238126163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

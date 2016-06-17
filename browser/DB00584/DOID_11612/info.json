@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.559167750325098,
   "metapath_contribution": {
     "CbGaD": 0.8315175738087628,
     "CbGeAlD": 0.06324711713822051,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05689933438250935,
     "CrCbGaD": 0.011632969233712669
   },
+  "n_trials": 0.0,
   "prediction": 0.00152978813476676,
   "status": 0,
   "training_prediction": 0.00115061500485303

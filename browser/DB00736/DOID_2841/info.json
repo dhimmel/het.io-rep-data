@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00736",
   "compound_name": "Esomeprazole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGaD": 0.3142158978076695,
     "CbGbCtD": 0.20722798331970527,
@@ -10,6 +12,7 @@
     "CpDpCtD": 0.3666749074492833,
     "CrCbGaD": 0.002706352712186449
   },
+  "n_trials": 2.0,
   "prediction": 0.0105819506501847,
   "status": 0,
   "training_prediction": 0.0681009347036474

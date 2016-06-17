@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.864109232769831,
   "metapath_contribution": {
     "CbGaD": 0.16564300680807914,
     "CbGbCtD": 0.6013832427972307,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04544276853027634,
     "CcSEcCtD": 0.12892066099396163
   },
+  "n_trials": 0.0,
   "prediction": 0.00282293514971836,
   "status": 0,
   "training_prediction": 0.00909713878731952

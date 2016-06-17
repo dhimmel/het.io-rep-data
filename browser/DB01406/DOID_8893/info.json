@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGbCtD": 0.1831487099923436,
     "CbGdCrCtD": 0.002831931754889116,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2790714925050643,
     "CrCtD": 0.4134830828891568
   },
+  "n_trials": 0.0,
   "prediction": 0.00460808128902618,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00838",
   "compound_name": "Clocortolone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.1258747371870612,
     "CbGbCtD": 0.22146686486759926,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.25267771805471473,
     "CrCtD": 0.35460938863236013
   },
+  "n_trials": 0.0,
   "prediction": 0.0355394179393266,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

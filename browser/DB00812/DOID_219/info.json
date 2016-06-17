@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.592327698309493,
   "metapath_contribution": {
     "CbGaD": 0.5626804064252225,
     "CbGbCtD": 0.35370933976713914,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.004082225137294603,
     "CrCbGaD": 0.002611129126979449
   },
+  "n_trials": 0.0,
   "prediction": 0.0017941641372657198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

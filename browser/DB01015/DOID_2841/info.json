@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.07603534669926734,
     "CbGbCtD": 0.2630887487465198,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5571677882804883,
     "CrCbGaD": 0.00029198991379728875
   },
+  "n_trials": 0.0,
   "prediction": 0.00926026052501861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

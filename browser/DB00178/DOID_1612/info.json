@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00178",
   "compound_name": "Ramipril",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.45383615084525397,
   "metapath_contribution": {
     "CbGaD": 0.5429980539395295,
     "CbGeAlD": 0.05241297651801851,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.34589796176563337,
     "CrCbGaD": 0.00321766306816188
   },
+  "n_trials": 1.0,
   "prediction": 0.00215642998330715,
   "status": 0,
   "training_prediction": 0.0330944768138973

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.343953185955787,
   "metapath_contribution": {
     "CbGbCtD": 0.6366957935310924,
     "CbGeAlD": 0.029924363268434055,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2321835033677605,
     "CrCbGaD": 0.000942755620864524
   },
+  "n_trials": 0.0,
   "prediction": 0.0019168915656089102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

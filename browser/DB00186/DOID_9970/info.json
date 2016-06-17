@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00186",
   "compound_name": "Lorazepam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.476592977893368,
   "metapath_contribution": {
     "CbGbCtD": 0.12317493586343721,
     "CbGeAlD": 0.02684500891972275,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.6579630983851789,
     "CrCbGaD": 0.0040318932835232656
   },
+  "n_trials": 0.0,
   "prediction": 0.00240577751392977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

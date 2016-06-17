@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.16105202073241104,
     "CbGbCtD": 0.25265469047064815,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.21432136549243513,
     "CrCtD": 0.26316528027275826
   },
+  "n_trials": 0.0,
   "prediction": 0.0201102820434242,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

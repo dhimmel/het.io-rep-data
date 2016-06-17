@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.49024707412223706,
   "metapath_contribution": {
     "CbGaD": 0.6823940748027888,
     "CbGbCtD": 0.02284359552359901,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18564536999745085,
     "CrCbGaD": 0.006711281299962213
   },
+  "n_trials": 0.0,
   "prediction": 0.00229911956667836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

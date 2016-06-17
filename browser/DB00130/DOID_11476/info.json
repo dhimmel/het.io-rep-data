@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.369310793237971,
   "metapath_contribution": {
     "CbGdCrCtD": 0.007632831377665287,
     "CbGeAlD": 0.0667824816587422,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.45209065943035015,
     "CrCbGaD": 0.006919874808895525
   },
+  "n_trials": 0.0,
   "prediction": 0.0015643413197298699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

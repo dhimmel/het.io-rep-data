@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.323146944083225,
   "metapath_contribution": {
     "CbGaD": 0.3160062228709798,
     "CbGbCtD": 0.33723468096217246,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.26215192832751416,
     "CrCbGaD": 0.0016501459529439761
   },
+  "n_trials": 0.0,
   "prediction": 0.0013107656925241099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

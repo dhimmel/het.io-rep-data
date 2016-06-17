@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.21223202275174055,
     "CbGbCtD": 0.692162363537415,
     "CbGpPWpGaD": 0.09295394335567748,
     "CrCbGaD": 0.0026516703551670573
   },
+  "n_trials": 0.0,
   "prediction": 0.00286106099296753,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

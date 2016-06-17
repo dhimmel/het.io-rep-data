@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01099",
   "compound_name": "Flucytosine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.767230169050715,
   "metapath_contribution": {
     "CbGdCrCtD": 0.07960984998095312,
     "CbGeAlD": 0.12442527012099823,
     "CcSEcCtD": 0.7959648798980486
   },
+  "n_trials": 0.0,
   "prediction": 0.0021026917816479697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

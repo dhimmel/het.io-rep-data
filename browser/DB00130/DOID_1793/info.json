@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.702860858257477,
   "metapath_contribution": {
     "CbGbCtD": 0.5583375122228832,
     "CbGdCrCtD": 0.004191182185186841,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17223360405201274,
     "CrCbGaD": 0.005891302372179056
   },
+  "n_trials": 0.0,
   "prediction": 0.00229791839195931,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

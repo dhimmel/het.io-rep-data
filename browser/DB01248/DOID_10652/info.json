@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGaD": 0.6471011778146257,
     "CbGbCtD": 0.014440047421545973,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15071348688692907,
     "CrCbGaD": 0.00496818464110091
   },
+  "n_trials": 0.0,
   "prediction": 0.00237702540490224,
   "status": 0,
   "training_prediction": 0.0160639222124486

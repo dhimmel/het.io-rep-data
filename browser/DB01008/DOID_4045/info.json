@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.10334688428997466,
     "CbGdCrCtD": 0.001306347460092636,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.4841670734713959,
     "CtDrD": 0.3549231006485204
   },
+  "n_trials": 3.0,
   "prediction": 0.0268898258451976,
   "status": 0,
   "training_prediction": 0.0431671790235782

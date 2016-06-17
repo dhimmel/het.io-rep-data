@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06288",
   "compound_name": "Amisulpride",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.350455136540962,
   "metapath_contribution": {
     "CbGeAlD": 0.3075996321251846,
     "CbGpPWpGaD": 0.26549340376523434,
     "CcSEcCtD": 0.41838485741119313,
     "CrCbGaD": 0.008522106698387894
   },
+  "n_trials": 0.0,
   "prediction": 0.00122646535347659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

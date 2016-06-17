@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGbCtD": 0.2487791169265952,
     "CbGdCrCtD": 0.0009397486635951853,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2182094324216865,
     "CrCtD": 0.41826995969665776
   },
+  "n_trials": 0.0,
   "prediction": 0.00891886290972208,
   "status": 0,
   "training_prediction": 0.0371281145312946

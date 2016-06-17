@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.779169627821018,
     "CbGeAlD": 0.057587526733973694,
     "CbGpPWpGaD": 0.15724864530298185,
     "CrCbGaD": 0.0059942001420264695
   },
+  "n_trials": 0.0,
   "prediction": 0.00433608946011545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

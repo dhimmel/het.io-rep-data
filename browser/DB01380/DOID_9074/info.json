@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.10126512378608117,
     "CbGbCtD": 0.12881841010815254,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.16849079651943089,
     "CrCtD": 0.2387881805565184
   },
+  "n_trials": 0.0,
   "prediction": 0.05234753002146401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.13482739114112882,
     "CbGbCtD": 0.2937132086815007,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.45699840495349525,
     "CrCbGaD": 0.0013367048165755584
   },
+  "n_trials": 0.0,
   "prediction": 0.0216550244960009,
   "status": 0,
   "training_prediction": 0.0261717468931954

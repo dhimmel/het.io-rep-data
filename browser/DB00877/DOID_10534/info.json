@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.0364109232769831,
   "metapath_contribution": {
     "CbGbCtD": 0.43774670125057535,
     "CbGeAlD": 0.0811115036197807,
     "CbGpPWpGaD": 0.23639762845815404,
     "CcSEcCtD": 0.24474416667148993
   },
+  "n_trials": 13.0,
   "prediction": 0.000533491376596754,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

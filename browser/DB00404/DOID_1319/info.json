@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.694408322496749,
   "metapath_contribution": {
     "CbGaD": 0.7140329058481698,
     "CbGbCtD": 0.08391934858955219,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1545511766873219,
     "CrCbGaD": 0.0018853145677625565
   },
+  "n_trials": 0.0,
   "prediction": 0.00207460309726647,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

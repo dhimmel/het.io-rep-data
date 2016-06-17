@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.48935338406401924,
     "CbGbCtD": 0.2872876766066779,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05317239512430047,
     "CcSEcCtD": 0.14447501660940607
   },
+  "n_trials": 0.0,
   "prediction": 0.00404701074586348,
   "status": 0,
   "training_prediction": 0.009611072436565421

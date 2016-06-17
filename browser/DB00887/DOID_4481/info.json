@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.591677503250975,
   "metapath_contribution": {
     "CbGbCtD": 0.3373614737335729,
     "CbGdCrCtD": 0.005529393716126019,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16563566178917158,
     "CrCrCtD": 0.3855165380898311
   },
+  "n_trials": 0.0,
   "prediction": 0.00264299896190234,
   "status": 0,
   "training_prediction": 0.008568254464826279

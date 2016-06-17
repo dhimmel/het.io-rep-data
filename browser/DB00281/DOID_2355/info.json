@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.576723016905072,
   "metapath_contribution": {
     "CbGaD": 0.7340429593231279,
     "CbGeAlD": 0.0757931326127223,
     "CbGpPWpGaD": 0.18167212591874723,
     "CrCbGaD": 0.00849178214540255
   },
+  "n_trials": 1.0,
   "prediction": 0.00136465862871162,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

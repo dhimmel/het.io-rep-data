@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.681404421326398,
   "metapath_contribution": {
     "CbGbCtD": 0.45229827229494024,
     "CbGeAlD": 0.12227957617335077,
     "CbGpPWpGaD": 0.2595313273534183,
     "CcSEcCtD": 0.16589082417829062
   },
+  "n_trials": 1.0,
   "prediction": 0.00182909736522163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

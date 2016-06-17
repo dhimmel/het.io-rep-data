@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.08619972237239719,
     "CbGbCtD": 0.19664900703801216,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.18025939795688287,
     "CrCtD": 0.3963371342053897
   },
+  "n_trials": 0.0,
   "prediction": 0.0170170864680368,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

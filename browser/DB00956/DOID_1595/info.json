@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.6573472041612479,
   "metapath_contribution": {
     "CbGaD": 0.9431031998429741,
     "CbGeAlD": 0.029524596563947455,
     "CbGpPWpGaD": 0.017957782583389457,
     "CrCbGaD": 0.00941442100968897
   },
+  "n_trials": 0.0,
   "prediction": 0.00181920730438671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01105",
   "compound_name": "Sibutramine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.13289947089876744,
     "CbGbCtD": 0.13823643835015428,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12545775844599452,
     "CtDrD": 0.5791457031279276
   },
+  "n_trials": 0.0,
   "prediction": 0.0100649622279584,
   "status": 0,
   "training_prediction": 0.0430281662078999

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00168",
   "compound_name": "Aspartame",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.33940182054616397,
   "metapath_contribution": {
     "CbGbCtD": 0.9310863396656287,
     "CbGeAlD": 0.058884664232743154,
     "CbGpPWpGaD": 9.856795034693302e-05,
     "CrCbGaD": 0.009930428151281256
   },
+  "n_trials": 0.0,
   "prediction": 0.0015163947927579,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

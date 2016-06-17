@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06800",
   "compound_name": "Methylnaltrexone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.28543563068920697,
   "metapath_contribution": {
     "CbGbCtD": 0.38482309812771176,
     "CbGpPWpGaD": 0.099890240810969,
     "CcSEcCtD": 0.5004439253858891,
     "CrCbGaD": 0.014842735675430088
   },
+  "n_trials": 0.0,
   "prediction": 0.00121463313974785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

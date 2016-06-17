@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.7366710013003901,
   "metapath_contribution": {
     "CbGaD": 0.6556126936056159,
     "CbGbCtD": 0.17126353304119815,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10466575366876432,
     "CrCbGaD": 0.0012372069892457478
   },
+  "n_trials": 0.0,
   "prediction": 0.00199921542417507,
   "status": 0,
   "training_prediction": 0.00242637180961612

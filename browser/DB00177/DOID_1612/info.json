@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00177",
   "compound_name": "Valsartan",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.519505851755527,
   "metapath_contribution": {
     "CbGaD": 0.49472118821998895,
     "CbGbCtD": 0.2859616826691248,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14354023918913666,
     "CrCbGaD": 0.0051118363514762
   },
+  "n_trials": 0.0,
   "prediction": 0.00246824506003355,
   "status": 0,
   "training_prediction": 0.0303150745572126

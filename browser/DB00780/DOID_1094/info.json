@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.8054153701652736,
     "CbGeAlD": 0.08239778416877157,
     "CbGpPWpGaD": 0.10169871665860229,
     "CrCbGaD": 0.010488129007352522
   },
+  "n_trials": 0.0,
   "prediction": 0.00199580976286201,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00957",
   "compound_name": "Norgestimate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.38036410923277003,
   "metapath_contribution": {
     "CbGaD": 0.2733967773078329,
     "CbGbCtD": 0.4040486450430639,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002390471948517028,
     "CrCrCtD": 0.26665057374967416
   },
+  "n_trials": 1.0,
   "prediction": 0.0019211823644461,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

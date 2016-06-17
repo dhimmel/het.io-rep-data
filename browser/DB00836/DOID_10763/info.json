@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.2888656156210551,
     "CbGbCtD": 0.3419490363125718,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0014195224528314812,
     "CrCrCtD": 0.1498497562360379
   },
+  "n_trials": 0.0,
   "prediction": 0.00891321415388636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

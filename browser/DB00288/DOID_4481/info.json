@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGbCtD": 0.17583919877400772,
     "CbGeAlD": 0.006807511302135057,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.18981142633056422,
     "CrCtD": 0.25079301557030476
   },
+  "n_trials": 0.0,
   "prediction": 0.0580046256882233,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

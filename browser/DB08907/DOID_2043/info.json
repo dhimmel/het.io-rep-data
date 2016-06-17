@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.49777527598545585,
     "CbGbCtD": 0.22400092594695084,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13458490339863677,
     "CrCbGaD": 0.007067220218882232
   },
+  "n_trials": 0.0,
   "prediction": 0.0036111474928552704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

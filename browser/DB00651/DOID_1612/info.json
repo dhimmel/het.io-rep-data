@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00651",
   "compound_name": "Dyphylline",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.35305591677503295,
   "metapath_contribution": {
     "CbGaD": 0.6715608160983331,
     "CbGeAlD": 0.05252496179268301,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10529835037142062,
     "CrCbGaD": 0.00867284199714044
   },
+  "n_trials": 0.0,
   "prediction": 0.00181634887279445,
   "status": 0,
   "training_prediction": 0.0100003165506538

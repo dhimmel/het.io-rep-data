@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.7211788124849501,
     "CbGbCtD": 0.08609875108871401,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.03196138234009736,
     "CbGpPWpGaD": 0.15909299585041037
   },
+  "n_trials": 1.0,
   "prediction": 0.00414725763140261,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.6973799696933016,
     "CbGeAlD": 0.10787300184023633,
     "CbGpPWpGaD": 0.1947470284664621
   },
+  "n_trials": 2.0,
   "prediction": 0.00490745545974261,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

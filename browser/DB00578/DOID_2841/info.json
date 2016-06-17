@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.5663198959687911,
   "metapath_contribution": {
     "CbGaD": 0.48843924729589816,
     "CbGbCtD": 0.362033517686524,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.10692551224725308,
     "CrCbGaD": 6.360254754237619e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00272565597900307,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

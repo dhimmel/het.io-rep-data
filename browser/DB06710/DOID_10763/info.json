@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7574772431729521,
   "metapath_contribution": {
     "CbGaD": 0.1645202154334936,
     "CbGbCtD": 0.19689028146549312,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21094372520460775,
     "CrCtD": 0.3295060583511187
   },
+  "n_trials": 0.0,
   "prediction": 0.0083806015907308,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

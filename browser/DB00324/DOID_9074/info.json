@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00324",
   "compound_name": "Fluorometholone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.0858039512476911,
     "CbGbCtD": 0.13240173717895043,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1751199555027219,
     "CrCtD": 0.24335145577898362
   },
+  "n_trials": 0.0,
   "prediction": 0.0628559130588508,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

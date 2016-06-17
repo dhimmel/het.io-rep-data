@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.056446515836365646,
     "CbGbCtD": 0.18303049551816222,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.3975326601500774,
     "CrCrCtD": 0.2896848333854723
   },
+  "n_trials": 0.0,
   "prediction": 0.0132303893224512,
   "status": 0,
   "training_prediction": 0.0332977577559106

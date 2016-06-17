@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.5988296488946679,
   "metapath_contribution": {
     "CbGbCtD": 0.43445384978396295,
     "CbGeAlD": 0.17986854223385745,
     "CbGpPWpGaD": 0.3781480505713873,
     "CrCbGaD": 0.007529557410792256
   },
+  "n_trials": 0.0,
   "prediction": 0.0021591595735511,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00572",
   "compound_name": "Atropine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.19505851755526699,
   "metapath_contribution": {
     "CbGbCtD": 0.5038503498443244,
     "CbGpPWpGaD": 0.16740790464259636,
     "CcSEcCtD": 0.32297509606471386,
     "CrCbGaD": 0.005766649448365248
   },
+  "n_trials": 0.0,
   "prediction": 0.00183799379673446,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

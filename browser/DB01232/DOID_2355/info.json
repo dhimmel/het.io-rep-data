@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01232",
   "compound_name": "Saquinavir",
+  "compound_percentile": 0.110294117647059,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.375162548764629,
   "metapath_contribution": {
     "CbGaD": 0.3981172775923786,
     "CbGeAlD": 0.221981254251856,
     "CbGpPWpGaD": 0.35707701643270423,
     "CrCbGaD": 0.022824451723061103
   },
+  "n_trials": 0.0,
   "prediction": 0.00103496283883249,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

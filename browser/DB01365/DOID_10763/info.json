@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01365",
   "compound_name": "Mephentermine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6137841352405721,
   "metapath_contribution": {
     "CbGaD": 0.4017283342139001,
     "CbGbCtD": 0.3634790099785333,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0046596378957167355,
     "CrCrCtD": 0.1809353617846662
   },
+  "n_trials": 0.0,
   "prediction": 0.00511524467426022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

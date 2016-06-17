@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.0955882352941176,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.0650195058517555,
   "metapath_contribution": {
-    "CbGeAlD": 0.42267220333004013,
-    "CbGpPWpGaD": 0.5732911237277825,
-    "CrCbGaD": 0.004036672942177511
+    "CbGeAlD": 0.42267220333004,
+    "CbGpPWpGaD": 0.5732911237277823,
+    "CrCbGaD": 0.00403667294217751
   },
+  "n_trials": 1.0,
   "prediction": 0.0005809954020459519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

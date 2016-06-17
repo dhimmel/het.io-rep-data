@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGaD": 0.3884543188652537,
     "CbGbCtD": 0.43808991808336284,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.060022570812274356,
     "CcSEcCtD": 0.0857687704661643
   },
+  "n_trials": 0.0,
   "prediction": 0.00384255385061134,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

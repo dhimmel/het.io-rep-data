@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.24122236671001301,
   "metapath_contribution": {
     "CbGbCtD": 0.10932331373651827,
     "CbGdCrCtD": 0.012673465048162445,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3613237205718337,
     "CrCbGaD": 0.0039788396011047646
   },
+  "n_trials": 0.0,
   "prediction": 0.00100485689673314,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGbCtD": 0.08737973118165317,
     "CbGpPWpGaD": 0.01529940182800804,
@@ -10,7 +12,7 @@
     "CiPCiCtD": 0.8082428185600901,
     "CrCbGaD": 0.0001301571134854882
   },
+  "n_trials": 0.0,
   "prediction": 0.00683462022366086,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

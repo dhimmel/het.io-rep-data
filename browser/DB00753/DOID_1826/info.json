@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGaD": 0.23235916343717222,
     "CbGbCtD": 0.24491175307184615,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.38502688213624126,
     "CrCbGaD": 0.0024638202108311813
   },
+  "n_trials": 0.0,
   "prediction": 0.0789928203183626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

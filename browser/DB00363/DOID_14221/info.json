@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.5851755526658001,
   "metapath_contribution": {
     "CbGaD": 0.8107839826865606,
     "CbGeAlD": 0.05372783801296911,
     "CbGpPWpGaD": 0.13109284120969955,
     "CrCbGaD": 0.004395338090770734
   },
+  "n_trials": 4.0,
   "prediction": 0.0015504914718087,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

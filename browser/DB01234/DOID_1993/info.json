@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1993",
   "disease_name": "rectum cancer",
+  "disease_percentile": 0.22691807542262699,
   "metapath_contribution": {
     "CbGeAlD": 0.06125636962866963,
     "CtDrD": 0.9387436303713305
   },
+  "n_trials": 1.0,
   "prediction": 0.0009438107797608519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

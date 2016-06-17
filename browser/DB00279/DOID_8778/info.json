@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.862158647594278,
   "metapath_contribution": {
     "CbGaD": 0.19715751571511328,
     "CbGbCtD": 0.27298854295013114,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0004005722903545849,
     "CrCrCtD": 0.44759941591016345
   },
+  "n_trials": 0.0,
   "prediction": 0.00294148649345076,
   "status": 0,
   "training_prediction": 0.00479348146771103

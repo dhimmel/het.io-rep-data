@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.4278061750426607,
     "CbGbCtD": 0.3156467852520385,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09587019137359247,
     "CcSEcCtD": 0.0987051364911515
   },
+  "n_trials": 0.0,
   "prediction": 0.008254394144570291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

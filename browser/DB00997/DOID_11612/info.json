@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.2212682809121322,
     "CbGbCtD": 0.34963298592657166,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0020977322287458354,
     "CtDrD": 0.3008340794867208
   },
+  "n_trials": 0.0,
   "prediction": 0.0042412989908655295,
   "status": 0,
   "training_prediction": 0.0197644618516276

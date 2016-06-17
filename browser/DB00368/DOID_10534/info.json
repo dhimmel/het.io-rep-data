@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.269180754226268,
   "metapath_contribution": {
     "CbGaD": 0.6847317951838022,
     "CbGbCtD": 0.06328935841404684,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04475081388206824,
     "CrCbGaD": 0.008215064920243946
   },
+  "n_trials": 0.0,
   "prediction": 0.00105408725158625,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01410",
   "compound_name": "Ciclesonide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.21456436931079298,
   "metapath_contribution": {
     "CbGbCtD": 0.3941437304326043,
     "CbGeAlD": 0.07277850369135395,
     "CbGpPWpGaD": 0.10647656483084596,
     "CcSEcCtD": 0.42660120104519583
   },
+  "n_trials": 0.0,
   "prediction": 0.00134965787413651,
   "status": 0,
   "training_prediction": 0.0016382563101233199

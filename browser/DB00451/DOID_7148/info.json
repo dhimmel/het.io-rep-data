@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.7873862158647591,
   "metapath_contribution": {
     "CbGaD": 0.13424280513433906,
     "CbGbCtD": 0.6842924573448917,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10687088065924387,
     "CrCbGaD": 0.0002117663698173315
   },
+  "n_trials": 0.0,
   "prediction": 0.00287694654841449,
   "status": 0,
   "training_prediction": 0.00932177968170578

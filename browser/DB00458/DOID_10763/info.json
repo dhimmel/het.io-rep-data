@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.1531066990293074,
     "CbGbCtD": 0.2110766503825473,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.14359885001078454,
     "CrCtD": 0.19810773459537234
   },
+  "n_trials": 0.0,
   "prediction": 0.0424200672674677,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

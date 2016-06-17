@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.0604681404421326,
   "metapath_contribution": {
     "CbGbCtD": 0.5102662232529263,
     "CbGdCrCtD": 0.006708035017091837,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18449061721589802,
     "CrCbGaD": 0.0010181056866211933
   },
+  "n_trials": 0.0,
   "prediction": 0.000815636381747497,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.6913566332442022,
     "CbGeAlD": 0.10277619017258699,
     "CbGpPWpGaD": 0.11495011108544019,
     "CcSEcCtD": 0.09091706549777079
   },
+  "n_trials": 0.0,
   "prediction": 0.0077104817034419,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.504551365409623,
   "metapath_contribution": {
     "CbGaD": 0.16091095593000726,
     "CbGbCtD": 0.6464167868915558,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09887366980504694,
     "CrCbGaD": 0.0011048471442239164
   },
+  "n_trials": 0.0,
   "prediction": 0.00145957180716634,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00152",
   "compound_name": "Thiamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.8518777276465647,
     "CbGeAlD": 0.06028586327830472,
     "CbGpPWpGaD": 0.06982094177215294,
     "CcSEcCtD": 0.018015467302977723
   },
+  "n_trials": 0.0,
   "prediction": 0.00631837706133753,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

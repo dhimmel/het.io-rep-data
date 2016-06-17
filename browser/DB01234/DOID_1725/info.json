@@ -1,12 +1,14 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:1725",
   "disease_name": "peritoneum cancer",
+  "disease_percentile": 0.00455136540962289,
   "metapath_contribution": {
     "CbGeAlD": 1.0
   },
+  "n_trials": 3.0,
   "prediction": 0.000673714874046367,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

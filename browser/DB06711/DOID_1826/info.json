@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06711",
   "compound_name": "Naphazoline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.378413524057217,
   "metapath_contribution": {
     "CbGaD": 0.4033776097759276,
     "CbGeAlD": 0.013416305639083049,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00413272728195885,
     "CrCrCtD": 0.3048098118510588
   },
+  "n_trials": 0.0,
   "prediction": 0.00251792385136335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06729",
   "compound_name": "Sulfaphenazole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGbCtD": 0.14801545388318352,
     "CrCbGaD": 0.0014794301065303341,
     "CrCrCtD": 0.21892005543711088,
     "CrCtD": 0.6315850605731752
   },
+  "n_trials": 0.0,
   "prediction": 0.00506423521264707,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.761378413524057,
   "metapath_contribution": {
     "CbGaD": 0.1486028413525565,
     "CbGbCtD": 0.17873234375364763,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.5348550783250603,
     "CrCbGaD": 0.0005340138874530634
   },
+  "n_trials": 0.0,
   "prediction": 0.0026447085108958603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

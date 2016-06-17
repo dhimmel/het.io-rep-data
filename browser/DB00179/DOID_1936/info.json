@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.711963589076723,
   "metapath_contribution": {
     "CbGaD": 0.7806395237890594,
     "CbGdCrCtD": 0.005237591094160585,
     "CbGeAlD": 0.04011283897213451,
     "CbGpPWpGaD": 0.17401004614464546
   },
+  "n_trials": 0.0,
   "prediction": 0.0024924595760292103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

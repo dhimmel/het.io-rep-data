@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.289336801040312,
   "metapath_contribution": {
     "CbGaD": 0.30976011421991384,
     "CbGbCtD": 0.45200919599207506,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.20201656873293178,
     "CrCbGaD": 0.0007904566111505021
   },
+  "n_trials": 0.0,
   "prediction": 0.00108187879854199,
   "status": 0,
   "training_prediction": 0.00257986751715093

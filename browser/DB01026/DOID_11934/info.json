@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.6801040312093629,
   "metapath_contribution": {
     "CbGaD": 0.3875357311509171,
     "CbGbCtD": 0.4104131468053286,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08299695570909382,
     "CrCbGaD": 0.0016336331996846443
   },
+  "n_trials": 0.0,
   "prediction": 0.0018276137721192302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

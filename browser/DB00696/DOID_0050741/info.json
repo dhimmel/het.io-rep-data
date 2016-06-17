@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.4720377238478714,
     "CbGbCtD": 0.3202178239386585,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.039553638876687204,
     "CrCbGaD": 0.005002667233535714
   },
+  "n_trials": 0.0,
   "prediction": 0.00499916540775778,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

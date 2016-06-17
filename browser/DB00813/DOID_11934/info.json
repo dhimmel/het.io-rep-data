@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.0507152145643693,
   "metapath_contribution": {
     "CbGbCtD": 0.6007610608810815,
     "CcSEcCtD": 0.3992389391189185
   },
+  "n_trials": 3.0,
   "prediction": 0.000698836598957554,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

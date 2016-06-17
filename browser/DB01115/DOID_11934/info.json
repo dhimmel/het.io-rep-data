@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.7360208062418729,
   "metapath_contribution": {
     "CbGaD": 0.3653745301401312,
     "CbGbCtD": 0.4092756008687765,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07495793098412042,
     "CcSEcCtD": 0.10428040003182945
   },
+  "n_trials": 0.0,
   "prediction": 0.00199726839143728,
   "status": 0,
   "training_prediction": 0.00242400978037545

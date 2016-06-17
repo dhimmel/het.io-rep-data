@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0630689206762029,
   "metapath_contribution": {
     "CbGaD": 0.3622922531572354,
     "CbGbCtD": 0.4099194189844014,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20708286588463531,
     "CrCbGaD": 0.004549535298078123
   },
+  "n_trials": 4.0,
   "prediction": 0.0010134005554451198,
   "status": 0,
   "training_prediction": 0.0300818790607981

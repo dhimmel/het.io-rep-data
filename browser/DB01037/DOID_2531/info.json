@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.615734720416125,
   "metapath_contribution": {
     "CbGaD": 0.06884569995275978,
     "CbGbCtD": 0.5386090234574759,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0003210695219140896,
     "CrCrCtD": 0.1005395240842875
   },
+  "n_trials": 0.0,
   "prediction": 0.0028437301570601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

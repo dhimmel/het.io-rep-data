@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.6931079323797139,
   "metapath_contribution": {
     "CbGbCtD": 0.9219770499150206,
     "CbGeAlD": 0.0088137158591341,
     "CbGpPWpGaD": 0.03650177096564954,
     "CcSEcCtD": 0.03270746326019577
   },
+  "n_trials": 0.0,
   "prediction": 0.002232484336506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

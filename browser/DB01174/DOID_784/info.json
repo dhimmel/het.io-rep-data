@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.7773395096664011,
     "CbGeAlD": 0.05524556130457592,
     "CbGpPWpGaD": 0.1634856045357646,
     "CrCbGaD": 0.003929324493258261
   },
+  "n_trials": 0.0,
   "prediction": 0.00265278055266542,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

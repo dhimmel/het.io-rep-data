@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00172",
   "compound_name": "L-Proline",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7639791937581271,
   "metapath_contribution": {
     "CbGbCtD": 0.7362518909766799,
     "CbGdCrCtD": 0.004274451894251945,
     "CbGeAlD": 0.12204092298250567,
     "CbGpPWpGaD": 0.13743273414656254
   },
+  "n_trials": 0.0,
   "prediction": 0.00424925395940983,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

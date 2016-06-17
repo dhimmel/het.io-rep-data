@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
     "CbGaD": 0.26824864767091344,
     "CbGbCtD": 0.5110135917456294,
@@ -14,6 +16,5 @@
     "CrCbGaD": 0.0033571316325614795
   },
   "prediction": 0.00263350461593507,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

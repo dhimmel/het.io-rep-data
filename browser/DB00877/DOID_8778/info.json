@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.17647058823529396,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.00455136540962289,
   "metapath_contribution": {
     "CbGbCtD": 0.3360942739786002,
     "CbGeAlD": 0.0791646819572777,
     "CbGpPWpGaD": 0.2201083880016319,
     "CcSEcCtD": 0.3646326560624902
   },
+  "n_trials": 1.0,
   "prediction": 0.0005899807883696969,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

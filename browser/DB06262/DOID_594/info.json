@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06262",
   "compound_name": "Droxidopa",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.8400520156046809,
   "metapath_contribution": {
     "CbGaD": 0.7583320524530377,
     "CbGeAlD": 0.042212422878357296,
     "CbGpPWpGaD": 0.19118784818522638,
     "CrCbGaD": 0.008267676483378571
   },
+  "n_trials": 0.0,
   "prediction": 0.00212899281830015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

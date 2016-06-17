@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.20516639957555252,
     "CbGbCtD": 0.28378049336672473,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0005804811298614617,
     "CtDrD": 0.3381677321647032
   },
+  "n_trials": 15.0,
   "prediction": 0.0106088966040979,
   "status": 0,
   "training_prediction": 0.0733405350425364

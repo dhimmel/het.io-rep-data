@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.684655396618986,
   "metapath_contribution": {
     "CbGaD": 0.8226419339278647,
     "CbGeAlD": 0.05205303087538105,
     "CbGpPWpGaD": 0.12381365561014127,
     "CrCbGaD": 0.001491379586613013
   },
+  "n_trials": 0.0,
   "prediction": 0.0024481147837655,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGaD": 0.034991984881684444,
     "CbGbCtD": 0.35042638263573117,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.00045944473388591784,
     "CtDrD": 0.4800816527969773
   },
+  "n_trials": 8.0,
   "prediction": 0.00318031898392207,
   "status": 0,
   "training_prediction": 0.0257237030800375

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06766",
   "compound_name": "Alcaftadine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGbCtD": 0.17646884438568755,
     "CcSEcCtD": 0.01697904891950239,
     "CrCrCtD": 0.2793148907340778,
     "CrCtD": 0.5272372159607323
   },
+  "n_trials": 0.0,
   "prediction": 0.0187031842601554,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

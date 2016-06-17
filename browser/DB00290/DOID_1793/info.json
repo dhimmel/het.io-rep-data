@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00290",
   "compound_name": "Bleomycin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGdCrCtD": 0.005140091198059694,
     "CbGeAlD": 0.001759326970125298,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1622418649039991,
     "CtDrD": 0.7926374717032456
   },
+  "n_trials": 1.0,
   "prediction": 0.00552292887958403,
   "status": 0,
   "training_prediction": 0.0500939419937345

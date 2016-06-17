@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.622886866059818,
   "metapath_contribution": {
     "CbGaD": 0.7501859685661338,
     "CbGeAlD": 0.023584109715276975,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13700896300372653,
     "CrCbGaD": 0.00625517581714533
   },
+  "n_trials": 0.0,
   "prediction": 0.00153001961870617,
   "status": 0,
   "training_prediction": 0.000689799215220308

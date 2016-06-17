@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.181404421326398,
   "metapath_contribution": {
     "CbGbCtD": 0.546764564130605,
     "CbGeAlD": 0.07720049440138825,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18087098174098293,
     "CrCbGaD": 0.003250130648970678
   },
+  "n_trials": 0.0,
   "prediction": 0.00132779642461563,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

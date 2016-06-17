@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.19408193548932087,
     "CbGbCtD": 0.5562140196305356,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1064107943599795,
     "CrCbGaD": 0.0005833188375892668
   },
+  "n_trials": 0.0,
   "prediction": 0.0030241342072430005,
   "status": 0,
   "training_prediction": 0.00773233497969878

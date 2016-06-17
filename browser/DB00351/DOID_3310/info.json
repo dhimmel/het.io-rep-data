@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGbCtD": 0.27420944869249914,
     "CpDpCtD": 0.21605780769972713,
     "CrCrCtD": 0.2546309648983741,
     "CrCtD": 0.2551017787093995
   },
+  "n_trials": 0.0,
   "prediction": 0.0147868487245309,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

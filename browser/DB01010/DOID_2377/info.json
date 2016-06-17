@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01010",
   "compound_name": "Edrophonium",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.789336801040312,
   "metapath_contribution": {
     "CbGaD": 0.7848499735489783,
     "CbGbCtD": 0.170631475240016,
     "CcSEcCtD": 0.042057686265493645,
     "CrCbGaD": 0.0024608649455120104
   },
+  "n_trials": 0.0,
   "prediction": 0.00282071760376458,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

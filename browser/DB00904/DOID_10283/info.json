@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.808192457737321,
   "metapath_contribution": {
     "CbGaD": 0.2987481510533644,
     "CbGbCtD": 0.4660619774208646,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1253604997619298,
     "CrCbGaD": 0.0022612640842398567
   },
+  "n_trials": 1.0,
   "prediction": 0.00492261391663383,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

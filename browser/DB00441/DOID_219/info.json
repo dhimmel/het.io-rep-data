@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.13302408579356786,
     "CbGbCtD": 0.17836329524498465,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.3843455089905149,
     "CtDrD": 0.23143236120659608
   },
+  "n_trials": 0.0,
   "prediction": 0.044281617766306,
   "status": 0,
   "training_prediction": 0.207917794079205

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06292",
   "compound_name": "Dapagliflozin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.23586031500231583,
     "CbGbCtD": 0.4626343031840763,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11115864774673312,
     "CcSEcCtD": 0.15147318704165755
   },
+  "n_trials": 0.0,
   "prediction": 0.00457779670175071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

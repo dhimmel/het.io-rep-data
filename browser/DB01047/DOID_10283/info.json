@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5351105331599479,
   "metapath_contribution": {
     "CbGaD": 0.16322071082912526,
     "CbGbCtD": 0.013243052309488999,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0027881684324467136,
     "CrCrCtD": 0.21897259734545466
   },
+  "n_trials": 0.0,
   "prediction": 0.00241425171720273,
   "status": 0,
   "training_prediction": 0.0169196294119784

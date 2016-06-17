@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.184005201560468,
   "metapath_contribution": {
     "CbGbCtD": 0.4388515083703458,
     "CbGeAlD": 0.02349894829552808,
     "CbGpPWpGaD": 0.27418212490792593,
     "CcSEcCtD": 0.26346741842620014
   },
+  "n_trials": 0.0,
   "prediction": 0.000997319478600293,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

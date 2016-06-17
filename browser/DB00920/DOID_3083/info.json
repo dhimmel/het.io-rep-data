@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.21764206666158326,
     "CbGbCtD": 0.31828321574477064,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0335307229129288,
     "CtDrD": 0.3972538914991284
   },
+  "n_trials": 0.0,
   "prediction": 0.0185687687742209,
   "status": 0,
   "training_prediction": 0.0400949035179666

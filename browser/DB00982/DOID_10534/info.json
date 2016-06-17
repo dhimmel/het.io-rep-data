@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.291287386215865,
   "metapath_contribution": {
     "CbGaD": 0.6842189963407871,
     "CbGeAlD": 0.01701245212833259,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15652070359004214,
     "CrCbGaD": 0.008037830131784138
   },
+  "n_trials": 0.0,
   "prediction": 0.00108930272400515,
   "status": 0,
   "training_prediction": 0.0024016807410137

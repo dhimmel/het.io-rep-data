@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.905071521456437,
   "metapath_contribution": {
     "CbGaD": 0.6897972502648297,
     "CbGbCtD": 0.22476799735046682,
     "CcSEcCtD": 0.08012773901769542,
     "CrCbGaD": 0.005307013367008105
   },
+  "n_trials": 0.0,
   "prediction": 0.00333375912158099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.6638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.3070910921474451,
     "CbGeAlD": 0.009962730454184795,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0015228883240883037,
     "CtDrD": 0.6763970833106724
   },
+  "n_trials": 0.0,
   "prediction": 0.00159663132948585,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

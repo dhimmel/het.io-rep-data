@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.17192735755535846,
     "CbGbCtD": 0.2578497991851967,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001912368045524259,
     "CrCrCtD": 0.4451248480724617
   },
+  "n_trials": 0.0,
   "prediction": 0.00434211096971111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

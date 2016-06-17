@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01156",
   "compound_name": "Bupropion",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.14245540812681504,
     "CbGbCtD": 0.22628346523424767,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.20201977553099132,
     "CtDrD": 0.29991794898118496
   },
+  "n_trials": 0.0,
   "prediction": 0.0470428321263468,
   "status": 0,
   "training_prediction": 0.371264472736744

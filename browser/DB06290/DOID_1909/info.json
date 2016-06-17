@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.16735715983782526,
     "CbGbCtD": 0.18320969933765485,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.015543866165798536,
     "CiPCiCtD": 0.5997765294349054
   },
+  "n_trials": 0.0,
   "prediction": 0.00762756486064895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

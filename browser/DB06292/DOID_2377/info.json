@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06292",
   "compound_name": "Dapagliflozin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
     "CbGbCtD": 0.6614512443971503,
     "CbGeAlD": 0.04653366537270594,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16602075548146014,
     "CrCbGaD": 0.003234990512050662
   },
+  "n_trials": 0.0,
   "prediction": 0.0029441923434412104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

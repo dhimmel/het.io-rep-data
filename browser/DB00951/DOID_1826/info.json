@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00951",
   "compound_name": "Isoniazid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGaD": 0.24771397798335293,
     "CbGbCtD": 0.5885429393215644,
     "CbGpPWpGaD": 0.03328499925101313,
     "CcSEcCtD": 0.13045808344406948
   },
+  "n_trials": 0.0,
   "prediction": 0.010009373882368,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

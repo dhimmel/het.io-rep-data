@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5286085825747721,
   "metapath_contribution": {
     "CbGaD": 0.30826768989424996,
     "CbGbCtD": 0.3245102941667772,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13276667326310862,
     "CcSEcCtD": 0.17828318028889031
   },
+  "n_trials": 0.0,
   "prediction": 0.00150548357667741,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

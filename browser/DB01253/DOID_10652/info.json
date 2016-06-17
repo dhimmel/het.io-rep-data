@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01253",
   "compound_name": "Ergonovine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.37126137841352397,
   "metapath_contribution": {
     "CbGbCtD": 0.4501935671600456,
     "CbGeAlD": 0.17290574549168763,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23811706562045115,
     "CrCbGaD": 0.01490433141875321
   },
+  "n_trials": 0.0,
   "prediction": 0.00147166704292957,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

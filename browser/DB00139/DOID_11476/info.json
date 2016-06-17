@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00139",
   "compound_name": "Succinic acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.7787079141037772,
     "CbGbCtD": 0.011575182541851546,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.05503348400309999,
     "CbGpPWpGaD": 0.1521360251302698
   },
+  "n_trials": 0.0,
   "prediction": 0.00364003733326085,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

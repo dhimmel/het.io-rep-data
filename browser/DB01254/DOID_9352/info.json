@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGaD": 0.3434383492542374,
     "CbGbCtD": 0.20669380178892469,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1819147514718272,
     "CcSEcCtD": 0.17571522734403264
   },
+  "n_trials": 0.0,
   "prediction": 0.00609236157647555,
   "status": 0,
   "training_prediction": 0.0263919823658827

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00875",
   "compound_name": "Flupentixol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.5286085825747721,
   "metapath_contribution": {
     "CbGaD": 0.6646851805689923,
     "CbGbCtD": 0.23699587718952497,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.050583856758466245,
     "CrCbGaD": 0.005431809289427897
   },
+  "n_trials": 0.0,
   "prediction": 0.00224034713451125,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

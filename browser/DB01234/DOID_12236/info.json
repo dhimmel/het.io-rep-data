@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.2612682908823277,
     "CbGbCtD": 0.23205368525798112,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.039643963257053244,
     "CtDrD": 0.38296485212204023
   },
+  "n_trials": 0.0,
   "prediction": 0.00426858594733588,
   "status": 0,
   "training_prediction": 0.0278625141280105

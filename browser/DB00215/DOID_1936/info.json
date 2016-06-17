@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.43583549899996094,
     "CbGbCtD": 0.34145548818678106,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16159511117624897,
     "CrCbGaD": 0.004101018877292305
   },
+  "n_trials": 0.0,
   "prediction": 0.00476048950750046,
   "status": 0,
   "training_prediction": 0.007748849796138309

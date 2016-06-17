@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06813",
   "compound_name": "Pralatrexate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.1281172812533197,
     "CbGbCtD": 0.22213455163544815,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.23234415358955882,
     "CrCtD": 0.349054665492264
   },
+  "n_trials": 0.0,
   "prediction": 0.0652337309518369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

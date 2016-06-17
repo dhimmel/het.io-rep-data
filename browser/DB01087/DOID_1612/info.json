@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.5199382640202813,
     "CbGbCtD": 0.3388384248504102,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.030634535430250506,
     "CrCbGaD": 0.0026467627991359015
   },
+  "n_trials": 0.0,
   "prediction": 0.00659209411905196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

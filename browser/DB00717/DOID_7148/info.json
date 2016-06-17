@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.07143419473444726,
     "CbGbCtD": 0.25793912799998525,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2637369848124971,
     "CrCtD": 0.3522636607656288
   },
+  "n_trials": 1.0,
   "prediction": 0.0044612238274099394,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

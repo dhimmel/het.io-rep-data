@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00968",
   "compound_name": "Methyldopa",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.517555266579974,
   "metapath_contribution": {
     "CbGaD": 0.4397525857876094,
     "CbGbCtD": 0.27839569891331545,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16026757473973427,
     "CrCbGaD": 0.004932578254273184
   },
+  "n_trials": 0.0,
   "prediction": 0.0023605677058312698,
   "status": 0,
   "training_prediction": 0.00997425871593843

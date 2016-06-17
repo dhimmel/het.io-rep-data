@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.560468140442133,
   "metapath_contribution": {
     "CbGaD": 0.782987539898219,
     "CbGeAlD": 0.07723709602055574,
     "CbGpPWpGaD": 0.13188956187416023,
     "CrCbGaD": 0.007885802207065088
   },
+  "n_trials": 0.0,
   "prediction": 0.00168768096676721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

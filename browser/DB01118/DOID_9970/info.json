@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.375162548764629,
   "metapath_contribution": {
     "CbGaD": 0.21444182376525364,
     "CbGbCtD": 0.4759254732555621,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14837567592974404,
     "CrCbGaD": 0.001894545963079773
   },
+  "n_trials": 0.0,
   "prediction": 0.00196528735043012,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

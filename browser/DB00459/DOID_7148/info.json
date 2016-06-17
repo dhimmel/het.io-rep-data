@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.46879063719115704,
   "metapath_contribution": {
     "CbGaD": 0.10690367070025794,
     "CbGbCtD": 0.061836091131178474,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12353057490275184,
     "CtDrD": 0.6389671119784723
   },
+  "n_trials": 0.0,
   "prediction": 0.00169354723376651,
   "status": 0,
   "training_prediction": 0.00550199932802653

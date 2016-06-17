@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGbCtD": 0.25541862850930935,
     "CbGeAlD": 0.013006947252950183,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1384482648334714,
     "CiPCiCtD": 0.5788046984105694
   },
+  "n_trials": 0.0,
   "prediction": 0.0055983208296461395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

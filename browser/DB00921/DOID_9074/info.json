@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGbCtD": 0.7610385983513707,
     "CbGeAlD": 0.04365061863736916,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17141994284977446,
     "CrCbGaD": 0.002866649461875307
   },
+  "n_trials": 0.0,
   "prediction": 0.00259439614686781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

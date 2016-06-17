@@ -1,18 +1,21 @@
 {
   "compound_id": "DB00776",
   "compound_name": "Oxcarbazepine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
-    "CbGbCtD": 0.0854968348575043,
-    "CcSEcCtD": 0.03513116715638719,
-    "CiPCiCtD": 0.26741448925984324,
-    "CpDpCtD": 0.13744236346144373,
-    "CrCbGaD": 0.0009471202352069618,
-    "CrCrCtD": 0.11163671502627683,
-    "CrCtD": 0.16929462995169897,
-    "CtDrD": 0.1926366800516389
+    "CbGbCtD": 0.08549683485750427,
+    "CcSEcCtD": 0.035131167156387186,
+    "CiPCiCtD": 0.2674144892598431,
+    "CpDpCtD": 0.1374423634614437,
+    "CrCbGaD": 0.0009471202352069616,
+    "CrCrCtD": 0.1116367150262768,
+    "CrCtD": 0.16929462995169894,
+    "CtDrD": 0.19263668005163884
   },
+  "n_trials": 0.0,
   "prediction": 0.334340519160895,
   "status": 0,
   "training_prediction": 0.47882850512736297

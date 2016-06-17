@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01348",
   "compound_name": "Spirapril",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.08865761747546735,
     "CbGbCtD": 0.25424894109378077,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.24406839689908244,
     "CrCtD": 0.36705421872029825
   },
+  "n_trials": 0.0,
   "prediction": 0.0781590823154635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

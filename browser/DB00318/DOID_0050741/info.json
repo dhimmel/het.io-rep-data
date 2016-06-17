@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.34141487354718103,
     "CbGbCtD": 0.2591210236518462,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0034500570327327036,
     "CrCrCtD": 0.2964797320343709
   },
+  "n_trials": 0.0,
   "prediction": 0.0214565353250367,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

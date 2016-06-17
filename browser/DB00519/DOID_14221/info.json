@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00519",
   "compound_name": "Trandolapril",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
-    "CbGaD": 0.3070641256195358,
-    "CbGeAlD": 0.03808970819385413,
-    "CbGpPWpGaD": 0.008004542474298713,
-    "CcSEcCtD": 0.02181900856556298,
-    "CrCbGaD": 0.003398722731188862,
-    "CtDrD": 0.6216238924155594
+    "CbGaD": 0.30706412561953583,
+    "CbGeAlD": 0.038089708193854134,
+    "CbGpPWpGaD": 0.008004542474298715,
+    "CcSEcCtD": 0.021819008565562983,
+    "CrCbGaD": 0.0033987227311888623,
+    "CtDrD": 0.6216238924155595
   },
+  "n_trials": 1.0,
   "prediction": 0.006313630550027221,
   "status": 0,
   "training_prediction": 0.00475438074488601

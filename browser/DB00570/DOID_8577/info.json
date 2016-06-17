@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.15409622886866103,
   "metapath_contribution": {
     "CbGaD": 0.19574627036713377,
     "CbGbCtD": 0.4129894838305365,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11140111915190333,
     "CrCbGaD": 0.002490333764729643
   },
+  "n_trials": 0.0,
   "prediction": 0.00118455876311748,
   "status": 0,
   "training_prediction": 0.0180971420732824

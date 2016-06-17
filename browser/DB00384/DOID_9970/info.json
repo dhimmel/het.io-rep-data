@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00384",
   "compound_name": "Triamterene",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7301690507152149,
   "metapath_contribution": {
     "CbGbCtD": 0.15357086206693207,
     "CbGeAlD": 0.041896976384664594,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0596947502447495,
     "CtDrD": 0.6956153996913728
   },
+  "n_trials": 0.0,
   "prediction": 0.00415006482969117,
   "status": 0,
   "training_prediction": 0.0105925751138605

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00572",
   "compound_name": "Atropine",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.11183355006502001,
   "metapath_contribution": {
     "CbGbCtD": 0.27766310309314607,
     "CbGeAlD": 0.06521763799638002,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.45175973655450913,
     "CrCbGaD": 0.0078056241172452445
   },
+  "n_trials": 0.0,
   "prediction": 0.000937839691797642,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

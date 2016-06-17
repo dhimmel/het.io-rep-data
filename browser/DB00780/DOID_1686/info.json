@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.33615084525357597,
   "metapath_contribution": {
     "CbGbCtD": 0.5745184428022865,
     "CbGeAlD": 0.0041758968306324995,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3455625589520592,
     "CrCbGaD": 0.0026919915909770784
   },
+  "n_trials": 0.0,
   "prediction": 0.0014871743006024901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

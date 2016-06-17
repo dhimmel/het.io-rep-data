@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.41222366710013003,
   "metapath_contribution": {
     "CbGbCtD": 0.6526734509789446,
     "CbGeAlD": 0.11902547230614535,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0952602465074557,
     "CrCbGaD": 0.0016466265582535348
   },
+  "n_trials": 0.0,
   "prediction": 0.00144215116465083,
   "status": 0,
   "training_prediction": 0.00438691588996337

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.25048580229500744,
     "CbGbCtD": 0.202629541955571,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.002154168877087389,
     "CrCrCtD": 0.09549503196768776
   },
+  "n_trials": 0.0,
   "prediction": 0.0163755000109488,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

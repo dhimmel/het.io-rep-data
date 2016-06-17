@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.45049292815284914,
     "CbGbCtD": 0.363109142292757,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.13457787011777905,
     "CrCbGaD": 0.0014948212612355123
   },
+  "n_trials": 0.0,
   "prediction": 0.00278093623760498,
   "status": 0,
   "training_prediction": 0.0327888732845124

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01088",
   "compound_name": "Iloprost",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGbCtD": 0.18728900223333916,
     "CbGpPWpGaD": 0.025993744822253202,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.30150450346452623,
     "CrCtD": 0.48259397955896577
   },
+  "n_trials": 0.0,
   "prediction": 0.0239022985237841,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

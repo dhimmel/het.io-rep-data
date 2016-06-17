@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00555",
   "compound_name": "Lamotrigine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGbCtD": 0.23053368846973887,
     "CbGeAlD": 0.017343359617982793,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.002807356131747721,
     "CrCtD": 0.6777385649591661
   },
+  "n_trials": 0.0,
   "prediction": 0.0163236366941277,
   "status": 0,
   "training_prediction": 0.0408883202770553

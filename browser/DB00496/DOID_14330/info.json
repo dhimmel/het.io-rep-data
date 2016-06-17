@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00496",
   "compound_name": "Darifenacin",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.7908463691413312,
     "CbGeAlD": 0.012821722731561644,
     "CbGpPWpGaD": 0.19056841120956475,
     "CrCbGaD": 0.005763496917542359
   },
+  "n_trials": 1.0,
   "prediction": 0.0013615451503957,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

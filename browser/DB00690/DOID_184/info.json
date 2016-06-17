@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00690",
   "compound_name": "Flurazepam",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.192457737321196,
   "metapath_contribution": {
     "CbGaD": 0.7890785436087029,
     "CbGbCtD": 0.052312769941688916,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08614668914929056,
     "CrCbGaD": 0.010678938022775527
   },
+  "n_trials": 0.0,
   "prediction": 0.000969486849097121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

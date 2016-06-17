@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7659297789336801,
   "metapath_contribution": {
     "CbGbCtD": 0.3939038464446993,
     "CbGdCrCtD": 0.0025359354970757066,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.16288390005640674,
     "CcSEcCtD": 0.2701484650240423
   },
+  "n_trials": 0.0,
   "prediction": 0.004117729455549,
   "status": 0,
   "training_prediction": 0.007506541894930459

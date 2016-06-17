@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00535",
   "compound_name": "Cefdinir",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.5508491898506003,
     "CbGbCtD": 0.32874425846391475,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04847900750702838,
     "CrCbGaD": 0.0036060944350133476
   },
+  "n_trials": 0.0,
   "prediction": 0.0035303096518098103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00241",
   "compound_name": "Butalbital",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8335500650195059,
   "metapath_contribution": {
     "CbGaD": 0.462388531449571,
     "CbGbCtD": 0.36276590552887367,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10824683824685019,
     "CrCbGaD": 0.005553426296400375
   },
+  "n_trials": 0.0,
   "prediction": 0.00454920447937532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

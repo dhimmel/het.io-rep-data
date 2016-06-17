@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.48244473342002603,
   "metapath_contribution": {
     "CbGaD": 0.16252504295251557,
     "CbGbCtD": 0.5373208359706518,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20542449990019943,
     "CrCbGaD": 0.0014765913190886424
   },
+  "n_trials": 0.0,
   "prediction": 0.0022768795894500897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

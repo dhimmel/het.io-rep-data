@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.785435630689207,
   "metapath_contribution": {
     "CbGbCtD": 0.06792077094736022,
     "CbGeAlD": 0.001311333675767008,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.7772913409044994,
     "CrCbGaD": 4.0532841442472845e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00246752890613045,
   "status": 0,
   "training_prediction": 0.0024341763140697604

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.167750325097529,
   "metapath_contribution": {
     "CbGbCtD": 0.45089233519798955,
     "CbGpPWpGaD": 0.2662166646595188,
     "CcSEcCtD": 0.27385652864046006,
     "CrCbGaD": 0.009034471502031613
   },
+  "n_trials": 0.0,
   "prediction": 0.00127193910687048,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

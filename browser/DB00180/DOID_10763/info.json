@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00180",
   "compound_name": "Flunisolide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.15604681404421303,
   "metapath_contribution": {
     "CbGaD": 0.28719956417021,
     "CbGbCtD": 0.30457092847467393,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.005354764831295117,
     "CrCrCtD": 0.12396317483492192
   },
+  "n_trials": 0.0,
   "prediction": 0.00160108001081459,
   "status": 0,
   "training_prediction": 0.0308551963962289

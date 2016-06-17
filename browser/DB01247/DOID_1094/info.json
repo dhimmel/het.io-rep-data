@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01247",
   "compound_name": "Isocarboxazid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.8488636675978669,
     "CbGeAlD": 0.03759521782120932,
     "CbGpPWpGaD": 0.10908553767440059,
     "CrCbGaD": 0.004455576906523212
   },
+  "n_trials": 0.0,
   "prediction": 0.00321980128044781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

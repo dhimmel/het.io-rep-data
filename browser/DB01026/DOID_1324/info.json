@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.1771013142353885,
     "CbGbCtD": 0.2525056639849854,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.4254807781227487,
     "CrCbGaD": 0.0013267086481627169
   },
+  "n_trials": 0.0,
   "prediction": 0.0080834810622856,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01544",
   "compound_name": "Flunitrazepam",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.4461050413365163,
     "CbGbCtD": 0.41842074494180204,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10737668169280387,
     "CrCbGaD": 0.0027646512628347326
   },
+  "n_trials": 0.0,
   "prediction": 0.004762391872356379,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

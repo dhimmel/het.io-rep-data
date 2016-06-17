@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.2363544174687461,
     "CbGbCtD": 0.6837189444741744,
     "CbGeAlD": 0.0547147176138721,
     "CbGpPWpGaD": 0.025211920443207466
   },
+  "n_trials": 0.0,
   "prediction": 0.00274642603701444,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

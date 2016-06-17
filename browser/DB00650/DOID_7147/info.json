@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGbCtD": 0.17755296599035061,
     "CbGdCrCtD": 0.001707927938689201,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3212709337336155,
     "CrCtD": 0.48569380847444565
   },
+  "n_trials": 0.0,
   "prediction": 0.011324438645616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

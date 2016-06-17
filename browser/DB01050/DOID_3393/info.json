@@ -1,19 +1,21 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
-    "CbGaD": 0.21477202520492472,
-    "CbGbCtD": 0.2322748260634016,
-    "CbGeAlD": 0.016280995460303174,
-    "CbGpPWpGaD": 0.05101360435552963,
-    "CcSEcCtD": 0.06500173524426403,
-    "CiPCiCtD": 0.27699172170201586,
-    "CpDpCtD": 0.14261111169431012,
-    "CrCbGaD": 0.0010539802752507989
+    "CbGaD": 0.21477202520492475,
+    "CbGbCtD": 0.23227482606340166,
+    "CbGeAlD": 0.016280995460303177,
+    "CbGpPWpGaD": 0.051013604355529645,
+    "CcSEcCtD": 0.06500173524426404,
+    "CiPCiCtD": 0.2769917217020159,
+    "CpDpCtD": 0.14261111169431018,
+    "CrCbGaD": 0.001053980275250799
   },
+  "n_trials": 1.0,
   "prediction": 0.0283101369935848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

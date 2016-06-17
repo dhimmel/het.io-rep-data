@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.879063719115735,
   "metapath_contribution": {
-    "CbGaD": 0.798277361188224,
-    "CbGeAlD": 0.06660602080746027,
+    "CbGaD": 0.7982773611882239,
+    "CbGeAlD": 0.06660602080746025,
     "CbGpPWpGaD": 0.12840506348135716,
-    "CrCbGaD": 0.006711554522958636
+    "CrCbGaD": 0.006711554522958635
   },
+  "n_trials": 0.0,
   "prediction": 0.0026224322194591198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

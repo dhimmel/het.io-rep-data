@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.511703511053316,
   "metapath_contribution": {
     "CbGbCtD": 0.2312227664421287,
     "CbGeAlD": 0.0786826009067564,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4339156660940585,
     "CrCbGaD": 0.00963983733266468
   },
+  "n_trials": 0.0,
   "prediction": 0.00254028158983107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

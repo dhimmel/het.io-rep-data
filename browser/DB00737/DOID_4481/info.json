@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00737",
   "compound_name": "Meclizine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
-    "CbGbCtD": 0.26480866416190063,
-    "CbGeAlD": 0.0007744052477730836,
-    "CcSEcCtD": 0.022425438995099613,
-    "CrCrCtD": 0.2978712223291143,
-    "CrCtD": 0.4141202692661125
+    "CbGbCtD": 0.2648086641619006,
+    "CbGeAlD": 0.0007744052477730834,
+    "CcSEcCtD": 0.02242543899509961,
+    "CrCrCtD": 0.2978712223291142,
+    "CrCtD": 0.41412026926611245
   },
+  "n_trials": 0.0,
   "prediction": 0.0156265209335509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

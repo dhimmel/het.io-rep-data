@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04552",
   "compound_name": "Niflumic Acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.835500650195058,
   "metapath_contribution": {
     "CbGaD": 0.388544076650942,
     "CbGbCtD": 0.26254315754048696,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0001988374634313629,
     "CrCrCtD": 0.23778163336684718
   },
+  "n_trials": 0.0,
   "prediction": 0.00540650397364284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

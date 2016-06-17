@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00976",
   "compound_name": "Telithromycin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.551365409622887,
   "metapath_contribution": {
     "CbGbCtD": 0.7482714952683619,
     "CbGeAlD": 0.005144804500626873,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23583878421445514,
     "CrCbGaD": 0.0016907737403155294
   },
+  "n_trials": 0.0,
   "prediction": 0.00197403107392435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

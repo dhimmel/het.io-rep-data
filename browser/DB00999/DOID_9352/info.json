@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00999",
   "compound_name": "Hydrochlorothiazide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.559167750325098,
   "metapath_contribution": {
     "CbGbCtD": 0.16744874856571001,
     "CbGeAlD": 0.02710220950732981,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1836423644121904,
     "CtDrD": 0.5683315420600101
   },
+  "n_trials": 12.0,
   "prediction": 0.00276804453256769,
   "status": 0,
   "training_prediction": 0.0200766244799641

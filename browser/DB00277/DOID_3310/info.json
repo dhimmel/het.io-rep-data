@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGbCtD": 0.209204383012497,
     "CbGdCrCtD": 0.002420107043775109,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06935866000147575,
     "CtDrD": 0.6861393938382996
   },
+  "n_trials": 0.0,
   "prediction": 0.00587583414033989,
   "status": 0,
   "training_prediction": 0.0198718155059633

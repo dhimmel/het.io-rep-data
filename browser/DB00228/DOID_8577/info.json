@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.420676202860858,
   "metapath_contribution": {
     "CbGaD": 0.8437308910376152,
     "CbGbCtD": 0.06861030440428235,
     "CcSEcCtD": 0.06940033283296024,
     "CrCbGaD": 0.01825847172514215
   },
+  "n_trials": 0.0,
   "prediction": 0.0018751935642577898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

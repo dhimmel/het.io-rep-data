@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.774382314694408,
   "metapath_contribution": {
     "CbGaD": 0.3516191701664066,
     "CbGbCtD": 0.4041811612836538,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16996794915781263,
     "CrCbGaD": 0.003682477232796141
   },
+  "n_trials": 1.0,
   "prediction": 0.0043945853636081205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

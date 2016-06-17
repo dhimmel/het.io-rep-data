@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00440",
   "compound_name": "Trimethoprim",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.615084525357607,
   "metapath_contribution": {
     "CbGaD": 0.8982972461623318,
     "CbGeAlD": 0.014367332784324376,
     "CbGpPWpGaD": 0.07843575305811686,
     "CrCbGaD": 0.008899667995227012
   },
+  "n_trials": 0.0,
   "prediction": 0.00162542986609501,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.20020888980199486,
     "CbGbCtD": 0.1605493450088382,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21117774004121714,
     "CrCtD": 0.33860926736887137
   },
+  "n_trials": 0.0,
   "prediction": 0.0945117400298082,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

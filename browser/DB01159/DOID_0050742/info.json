@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.6904034756321694,
     "CbGeAlD": 0.08213375385126906,
     "CbGpPWpGaD": 0.22215759936061147,
     "CrCbGaD": 0.00530517115595006
   },
+  "n_trials": 0.0,
   "prediction": 0.00495352305233945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

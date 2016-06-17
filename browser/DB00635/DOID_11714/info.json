@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.13784135240572198,
   "metapath_contribution": {
     "CbGbCtD": 0.926641743727166,
     "CbGeAlD": 0.03954846471959437,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.007950635085116353,
     "CrCbGaD": 0.012499015583849905
   },
+  "n_trials": 0.0,
   "prediction": 0.0010324971682376,
   "status": 0,
   "training_prediction": 0.004266689329099921

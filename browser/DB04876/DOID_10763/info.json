@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04876",
   "compound_name": "Vildagliptin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.46098829648894707,
   "metapath_contribution": {
     "CbGbCtD": 0.5189300011991123,
     "CbGeAlD": 0.04749889803798279,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3802229032307196,
     "CrCbGaD": 0.008424965556009785
   },
+  "n_trials": 1.0,
   "prediction": 0.00348537336630274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

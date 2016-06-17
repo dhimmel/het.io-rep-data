@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGaD": 0.5464340181733558,
     "CbGbCtD": 0.36222206210751157,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07434734740144121,
     "CrCbGaD": 0.0055802235918171374
   },
+  "n_trials": 0.0,
   "prediction": 0.0024351809647953897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

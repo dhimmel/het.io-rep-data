@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
     "CbGaD": 0.3598231652572335,
     "CbGbCtD": 0.2756885372517466,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12794488818918237,
     "CrCbGaD": 0.0016224464684297395
   },
+  "n_trials": 0.0,
   "prediction": 0.00141438690248774,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

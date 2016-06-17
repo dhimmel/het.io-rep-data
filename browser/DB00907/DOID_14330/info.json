@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.732585960166049,
     "CbGeAlD": 0.0934243597908486,
     "CbGpPWpGaD": 0.16713447920738234,
     "CrCbGaD": 0.006855200835720014
   },
+  "n_trials": 0.0,
   "prediction": 0.00267792210119592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

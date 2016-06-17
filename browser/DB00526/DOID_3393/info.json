@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00526",
   "compound_name": "Oxaliplatin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.5050693760910976,
     "CbGbCtD": 0.3331631354744328,
     "CbGeAlD": 0.0342114705469255,
     "CbGpPWpGaD": 0.12755601788754414
   },
+  "n_trials": 0.0,
   "prediction": 0.007547185305707291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

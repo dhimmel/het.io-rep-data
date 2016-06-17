@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.264629388816645,
   "metapath_contribution": {
     "CbGbCtD": 0.16199010544958053,
     "CbGeAlD": 0.2579237220227917,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.41031714278757675,
     "CrCbGaD": 0.0006371557589355144
   },
+  "n_trials": 0.0,
   "prediction": 0.0009187227498499279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

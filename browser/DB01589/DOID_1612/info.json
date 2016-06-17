@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01589",
   "compound_name": "Quazepam",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.269830949284785,
   "metapath_contribution": {
     "CbGaD": 0.18933414172042146,
     "CbGbCtD": 0.6050319995039136,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09331916477739438,
     "CrCbGaD": 0.0033313234794026497
   },
+  "n_trials": 0.0,
   "prediction": 0.0015209811511445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

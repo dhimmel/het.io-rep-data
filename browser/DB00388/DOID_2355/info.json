@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00388",
   "compound_name": "Phenylephrine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.594928478543563,
   "metapath_contribution": {
     "CbGaD": 0.8990159068803919,
     "CbGeAlD": 0.02273080969117516,
     "CbGpPWpGaD": 0.07740606762093774,
     "CrCbGaD": 0.0008472158074952094
   },
+  "n_trials": 0.0,
   "prediction": 0.00138688640834954,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
     "CbGaD": 0.4928497379587682,
     "CbGbCtD": 0.31552485057000335,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10693653425383091,
     "CrCbGaD": 0.004593034112602081
   },
+  "n_trials": 0.0,
   "prediction": 0.00281813114772911,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

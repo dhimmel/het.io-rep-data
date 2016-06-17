@@ -1,16 +1,18 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.773081924577373,
   "metapath_contribution": {
-    "CbGaD": 0.39640556489970824,
+    "CbGaD": 0.3964055648997083,
     "CbGeAlD": 0.15438686042879488,
-    "CbGpPWpGaD": 0.22694753560593559,
-    "CcSEcCtD": 0.2194975028190055,
-    "CrCbGaD": 0.0027625362465557245
+    "CbGpPWpGaD": 0.2269475356059356,
+    "CcSEcCtD": 0.21949750281900554,
+    "CrCbGaD": 0.002762536246555725
   },
+  "n_trials": 0.0,
   "prediction": 0.0021598137383026,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

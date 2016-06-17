@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.31356594083507594,
     "CbGbCtD": 0.23339838416607014,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.2747357629277468,
     "CrCbGaD": 0.002546081869121216
   },
+  "n_trials": 0.0,
   "prediction": 0.0275409056292661,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

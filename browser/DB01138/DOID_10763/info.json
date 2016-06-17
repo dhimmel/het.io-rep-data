@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
     "CbGaD": 0.27425479822253757,
     "CbGbCtD": 0.5790550574811069,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10453108117139714,
     "CrCbGaD": 0.0035278884422634917
   },
+  "n_trials": 0.0,
   "prediction": 0.00444776740550056,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

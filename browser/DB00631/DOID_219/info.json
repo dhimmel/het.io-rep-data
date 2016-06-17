@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGbCtD": 0.1073380084632799,
     "CbGdCrCtD": 0.0018655581044685625,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.7871409143603001,
     "CrCbGaD": 0.00031935509483616085
   },
+  "n_trials": 0.0,
   "prediction": 0.0041802680632199605,
   "status": 0,
   "training_prediction": 0.0059581426216151106

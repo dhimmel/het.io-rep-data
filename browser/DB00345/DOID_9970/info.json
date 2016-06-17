@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.551365409622887,
   "metapath_contribution": {
     "CbGaD": 0.3028467510547331,
     "CbGbCtD": 0.5186288508139608,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03265558472862849,
     "CrCbGaD": 0.004881763423240461
   },
+  "n_trials": 0.0,
   "prediction": 0.0027575267391728104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00637",
   "compound_name": "Astemizole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.702860858257477,
   "metapath_contribution": {
     "CbGbCtD": 0.43684985609468757,
     "CbGeAlD": 0.03252751866462285,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0011855122502251799,
     "CrCrCtD": 0.47627019678907184
   },
+  "n_trials": 0.0,
   "prediction": 0.00349319331548905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

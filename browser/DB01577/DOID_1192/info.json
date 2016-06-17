@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.373862158647594,
   "metapath_contribution": {
     "CbGbCtD": 0.5598548577003394,
     "CbGeAlD": 0.03167314754319484,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002552896607551521,
     "CrCrCtD": 0.297839130423825
   },
+  "n_trials": 0.0,
   "prediction": 0.0014277633394734,
   "status": 0,
   "training_prediction": 0.00390830754252227

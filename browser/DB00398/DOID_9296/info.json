@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:9296",
   "disease_name": "cleft lip",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.7260929076455137,
     "CbGeAlD": 0.04929038933090939,
     "CbGpPWpGaD": 0.21607316922471903,
     "CrCbGaD": 0.008543533798857876
   },
+  "n_trials": 0.0,
   "prediction": 0.00304399618299979,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

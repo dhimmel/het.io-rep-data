@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00373",
   "compound_name": "Timolol",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGaD": 0.8038859092377904,
     "CbGeAlD": 0.014128622313007322,
     "CbGpPWpGaD": 0.1774169393067314,
     "CrCbGaD": 0.004568529142470872
   },
+  "n_trials": 0.0,
   "prediction": 0.00215659667581502,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

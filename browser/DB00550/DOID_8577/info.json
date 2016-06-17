@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00550",
   "compound_name": "Propylthiouracil",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.5012149776559378,
     "CbGbCtD": 0.3097734877474867,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.052305159747578066,
     "CcSEcCtD": 0.07530805871364839
   },
+  "n_trials": 0.0,
   "prediction": 0.00457934142347055,
   "status": 0,
   "training_prediction": 0.0155353933271161

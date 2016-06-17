@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00426",
   "compound_name": "Famciclovir",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6866059817945379,
   "metapath_contribution": {
     "CbGaD": 0.24029680254069352,
     "CbGbCtD": 0.5522945963694406,
     "CbGpPWpGaD": 0.03248015959511838,
     "CcSEcCtD": 0.17492844149474754
   },
+  "n_trials": 0.0,
   "prediction": 0.0035314854788398796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

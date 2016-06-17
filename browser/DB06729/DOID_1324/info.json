@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06729",
   "compound_name": "Sulfaphenazole",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGaD": 0.5227331737190506,
     "CbGbCtD": 0.38443911930079866,
     "CbGpPWpGaD": 0.0895088575928973,
     "CrCbGaD": 0.003318849387253446
   },
+  "n_trials": 0.0,
   "prediction": 0.00197256391945785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

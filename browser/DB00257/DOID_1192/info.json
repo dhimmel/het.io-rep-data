@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGaD": 0.2183019701980766,
     "CbGbCtD": 0.6435429069399611,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11752164878185867,
     "CrCbGaD": 0.00022114253825302745
   },
+  "n_trials": 0.0,
   "prediction": 0.00265624661705776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

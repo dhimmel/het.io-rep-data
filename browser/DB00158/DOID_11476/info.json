@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.3943203253128989,
     "CbGbCtD": 0.4406056987221337,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07557238133296332,
     "CrCbGaD": 0.006001478316938864
   },
+  "n_trials": 0.0,
   "prediction": 0.00397486023725129,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

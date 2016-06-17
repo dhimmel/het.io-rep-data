@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.389466840052016,
   "metapath_contribution": {
     "CbGbCtD": 0.7858272705621739,
     "CbGpPWpGaD": 0.20863359621748115,
     "CrCbGaD": 0.005539133220344961
   },
+  "n_trials": 0.0,
   "prediction": 0.00152394217304693,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

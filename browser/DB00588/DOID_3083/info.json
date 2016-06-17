@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGbCtD": 0.12702908560351334,
     "CbGdCrCtD": 0.0003578173742264463,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.16649738490668453,
     "CtDrD": 0.2939061153026689
   },
+  "n_trials": 0.0,
   "prediction": 0.0187003115427329,
   "status": 0,
   "training_prediction": 0.0403726662603236

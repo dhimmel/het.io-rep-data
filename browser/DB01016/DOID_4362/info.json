@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.5741222366710009,
   "metapath_contribution": {
     "CbGbCtD": 0.7359953721339625,
     "CbGeAlD": 0.2250868969995894,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.029347023565904788,
     "CrCbGaD": 0.008148751141126117
   },
+  "n_trials": 0.0,
   "prediction": 0.00150255434804058,
   "status": 0,
   "training_prediction": 0.0011301237414988

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGbCtD": 0.7467052350531457,
     "CbGeAlD": 0.0805815117075616,
     "CbGpPWpGaD": 0.06175348153430233,
     "CcSEcCtD": 0.11095977170499029
   },
+  "n_trials": 0.0,
   "prediction": 0.00283091309786087,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.630039011703511,
   "metapath_contribution": {
     "CbGbCtD": 0.6279023578409332,
     "CbGeAlD": 0.06421873258711326,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2406722442260464,
     "CrCbGaD": 0.00027360733983743655
   },
+  "n_trials": 0.0,
   "prediction": 0.00298370809839212,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.559167750325098,
   "metapath_contribution": {
     "CbGaD": 0.48058159389570143,
     "CbGbCtD": 0.18523398536538238,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1890122774882,
     "CrCbGaD": 0.0021366038574841054
   },
+  "n_trials": 0.0,
   "prediction": 0.00267748353931921,
   "status": 0,
   "training_prediction": 0.0142738864542239

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08918",
   "compound_name": "Levomilnacipran",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.871911573472042,
   "metapath_contribution": {
     "CbGaD": 0.35520123872881393,
     "CbGbCtD": 0.4004497724603528,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13313943991912172,
     "CrCbGaD": 0.005288921327844236
   },
+  "n_trials": 0.0,
   "prediction": 0.005679930671815971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

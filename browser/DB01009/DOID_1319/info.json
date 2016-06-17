@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.266579973992198,
   "metapath_contribution": {
     "CbGaD": 0.6694745622330536,
     "CbGbCtD": 0.05843099508678588,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15032697469132272,
     "CrCbGaD": 0.004741761737290459
   },
+  "n_trials": 0.0,
   "prediction": 0.0011253240738008,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

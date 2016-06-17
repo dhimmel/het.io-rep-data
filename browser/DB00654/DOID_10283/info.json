@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00654",
   "compound_name": "Latanoprost",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5663198959687911,
   "metapath_contribution": {
     "CbGaD": 0.39633147835021143,
     "CbGbCtD": 0.4247000581765643,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1263842331407133,
     "CrCbGaD": 0.0035404436220802644
   },
+  "n_trials": 0.0,
   "prediction": 0.00257366675117295,
   "status": 0,
   "training_prediction": 0.0108671928979518

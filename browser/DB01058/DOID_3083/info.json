@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01058",
   "compound_name": "Praziquantel",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGaD": 0.4361678426821492,
     "CbGbCtD": 0.40127107003934087,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11073444861966107,
     "CrCbGaD": 0.004403982009936496
   },
+  "n_trials": 0.0,
   "prediction": 0.0053294589112628,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

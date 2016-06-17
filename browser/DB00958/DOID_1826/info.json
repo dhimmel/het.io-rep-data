@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00958",
   "compound_name": "Carboplatin",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.641742522756827,
   "metapath_contribution": {
     "CbGaD": 0.45175387064548017,
     "CbGbCtD": 0.2743752985926195,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15712005940066223,
     "CcSEcCtD": 0.04841735523145676
   },
+  "n_trials": 0.0,
   "prediction": 0.00479257340261875,
   "status": 0,
   "training_prediction": 0.11804158930206801

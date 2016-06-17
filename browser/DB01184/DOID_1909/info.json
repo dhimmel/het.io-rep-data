@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5273081924577371,
   "metapath_contribution": {
     "CbGaD": 0.2534614540371742,
     "CbGbCtD": 0.6514938142299452,
     "CbGpPWpGaD": 0.06318961483871982,
     "CcSEcCtD": 0.031855116894160734
   },
+  "n_trials": 0.0,
   "prediction": 0.0015032383529023099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

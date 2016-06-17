@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.634590377113134,
   "metapath_contribution": {
     "CbGaD": 0.2945369760197509,
     "CbGbCtD": 0.5601990876395198,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.030405644551273845,
     "CrCbGaD": 0.0028834376315194136
   },
+  "n_trials": 0.0,
   "prediction": 0.00186830313111673,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

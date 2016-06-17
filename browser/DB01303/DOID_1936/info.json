@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGbCtD": 0.8206807127679043,
     "CbGdCrCtD": 0.007320831390868373,
     "CbGeAlD": 0.038017462340243544,
     "CbGpPWpGaD": 0.1339809935009837
   },
+  "n_trials": 0.0,
   "prediction": 0.00256244034181923,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

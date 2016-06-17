@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01222",
   "compound_name": "Budesonide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.1399838989216771,
     "CbGbCtD": 0.12304349529872768,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.15348137343695795,
     "CrCtD": 0.20192528330467055
   },
+  "n_trials": 0.0,
   "prediction": 0.0091036031798235,
   "status": 0,
   "training_prediction": 0.0613292778436577

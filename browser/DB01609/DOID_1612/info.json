@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01609",
   "compound_name": "Deferasirox",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.261378413524057,
   "metapath_contribution": {
     "CbGaD": 0.4059457336270102,
     "CbGbCtD": 0.5881313242790934,
     "CrCbGaD": 0.0059229420938964545
   },
+  "n_trials": 1.0,
   "prediction": 0.00148847021298042,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

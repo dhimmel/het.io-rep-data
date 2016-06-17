@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00875",
   "compound_name": "Flupentixol",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.7632150893206042,
     "CbGeAlD": 0.05860307536897486,
     "CbGpPWpGaD": 0.16863611026410508,
     "CrCbGaD": 0.009545725046315765
   },
+  "n_trials": 0.0,
   "prediction": 0.00245198428309285,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

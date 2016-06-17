@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.48610514544796546,
     "CbGbCtD": 0.306827494617455,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07794647167367448,
     "CrCbGaD": 0.004864361874861507
   },
+  "n_trials": 0.0,
   "prediction": 0.00955962268509395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

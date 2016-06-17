@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.4128738621586479,
   "metapath_contribution": {
     "CbGaD": 0.15334468088870842,
     "CbGbCtD": 0.5396230939272475,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20830473019859047,
     "CrCbGaD": 0.0020862184473856922
   },
+  "n_trials": 1.0,
   "prediction": 0.00154689088051917,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

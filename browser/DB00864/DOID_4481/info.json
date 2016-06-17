@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGbCtD": 0.19235556670426388,
     "CbGeAlD": 0.022026490711859498,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11608521307996811,
     "CtDrD": 0.657317230264637
   },
+  "n_trials": 0.0,
   "prediction": 0.00523421093369075,
   "status": 0,
   "training_prediction": 0.0168703600710747

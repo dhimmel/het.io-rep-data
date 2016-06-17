@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.397919375812744,
   "metapath_contribution": {
     "CbGaD": 0.4792264885297868,
     "CbGbCtD": 0.41976544056121434,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.01823312297963047,
     "CrCbGaD": 0.003139952580009326
   },
+  "n_trials": 0.0,
   "prediction": 0.0018267602269260899,
   "status": 0,
   "training_prediction": 0.00623854830831059

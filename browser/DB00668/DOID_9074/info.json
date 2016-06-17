@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.36215864759427796,
   "metapath_contribution": {
     "CbGaD": 0.47716281881845424,
     "CbGbCtD": 0.20694826494513208,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1331909245979332,
     "CcSEcCtD": 0.11367834203547718
   },
+  "n_trials": 0.0,
   "prediction": 0.00152327841861689,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

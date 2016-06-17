@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.591027308192458,
   "metapath_contribution": {
     "CbGaD": 0.2344435089974405,
     "CbGbCtD": 0.6605035846480434,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09919141350695482,
     "CrCbGaD": 0.0018432909066157788
   },
+  "n_trials": 0.0,
   "prediction": 0.00170230047798133,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

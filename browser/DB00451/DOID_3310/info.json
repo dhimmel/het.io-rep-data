@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.674902470741222,
   "metapath_contribution": {
     "CbGbCtD": 0.7503650730630228,
     "CbGdCrCtD": 0.00682627642813603,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.004697278859587798,
     "CcSEcCtD": 0.21176579083695982
   },
+  "n_trials": 0.0,
   "prediction": 0.00266817925017969,
   "status": 0,
   "training_prediction": 0.009093556103888891

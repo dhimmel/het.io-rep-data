@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.34460338101430393,
   "metapath_contribution": {
     "CbGaD": 0.6524550526511679,
     "CbGbCtD": 0.07793506166085226,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1272546916109774,
     "CrCbGaD": 0.00648325900511752
   },
+  "n_trials": 0.0,
   "prediction": 0.0012113171590056,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
     "CbGaD": 0.33812819948518624,
     "CbGbCtD": 0.4100613732459946,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14142265416787814,
     "CrCbGaD": 0.003956698222157119
   },
+  "n_trials": 0.0,
   "prediction": 0.0027737930134308602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

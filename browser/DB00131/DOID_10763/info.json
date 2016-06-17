@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0890767230169051,
   "metapath_contribution": {
     "CbGaD": 0.5861572455670415,
     "CbGdCrCtD": 0.005162011637511141,
-    "CbGeAlD": 0.13613853074167534,
-    "CbGpPWpGaD": 0.26598054921188774,
-    "CrCbGaD": 0.0065616628418843186
+    "CbGeAlD": 0.1361385307416753,
+    "CbGpPWpGaD": 0.2659805492118877,
+    "CrCbGaD": 0.006561662841884318
   },
+  "n_trials": 0.0,
   "prediction": 0.00122756520404423,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

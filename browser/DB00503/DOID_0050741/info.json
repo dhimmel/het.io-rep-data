@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.7776332899869959,
   "metapath_contribution": {
     "CbGaD": 0.3027623071820122,
     "CbGbCtD": 0.41510589076759924,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07775825660134007,
     "CcSEcCtD": 0.1697050545799236
   },
+  "n_trials": 0.0,
   "prediction": 0.00378997656202948,
   "status": 0,
   "training_prediction": 0.0045979877757923

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.0294117647058824,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.0260078023407022,
   "metapath_contribution": {
     "CbGbCtD": 0.07773219133958208,
     "CbGeAlD": 0.1492275925386825,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23549309460685922,
     "CrCbGaD": 0.007575354304621479
   },
+  "n_trials": 0.0,
   "prediction": 0.000473641401521547,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

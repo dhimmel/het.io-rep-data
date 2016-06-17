@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5039011703511049,
   "metapath_contribution": {
     "CbGaD": 0.2948828947835925,
     "CbGbCtD": 0.4062149671725906,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1331220650305125,
     "CrCbGaD": 0.0018938481569948699
   },
+  "n_trials": 0.0,
   "prediction": 0.0014592773538529302,
   "status": 0,
   "training_prediction": 0.00603487059336338

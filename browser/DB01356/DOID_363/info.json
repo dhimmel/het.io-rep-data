@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01356",
   "compound_name": "Lithium",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.8003901170351109,
   "metapath_contribution": {
     "CbGdCrCtD": 0.010510389093975494,
     "CbGeAlD": 0.2685122924856249,
     "CbGpPWpGaD": 0.4322450335853902,
     "CcSEcCtD": 0.2887322848350093
   },
+  "n_trials": 0.0,
   "prediction": 0.00258613769827077,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

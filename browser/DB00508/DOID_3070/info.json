@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00508",
   "compound_name": "Triflupromazine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.312093628088427,
   "metapath_contribution": {
     "CbGaD": 0.9190437614628928,
     "CbGeAlD": 0.05268971675451545,
     "CbGpPWpGaD": 0.02131756426158185,
     "CrCbGaD": 0.006948957521009957
   },
+  "n_trials": 0.0,
   "prediction": 0.0010870138167427801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

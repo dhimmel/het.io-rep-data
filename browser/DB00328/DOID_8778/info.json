@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.1825557300706456,
     "CbGbCtD": 0.2576341153275271,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0013486022012783548,
     "CrCrCtD": 0.24088379174846913
   },
+  "n_trials": 0.0,
   "prediction": 0.0118802955065544,
   "status": 0,
   "training_prediction": 0.0192516039332823

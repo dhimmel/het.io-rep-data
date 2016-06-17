@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.8218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.6579767966627976,
     "CbGbCtD": 0.09554432458651466,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03574429378888457,
     "CrCbGaD": 0.00495033358472739
   },
+  "n_trials": 0.0,
   "prediction": 0.00220618180636388,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

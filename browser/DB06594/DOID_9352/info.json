@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06594",
   "compound_name": "Agomelatine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.5468742614691421,
     "CbGbCtD": 0.2911222772722745,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0970594009428972,
     "CrCbGaD": 0.0031908175523868835
   },
+  "n_trials": 0.0,
   "prediction": 0.00628836231862053,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.432379713914174,
   "metapath_contribution": {
     "CbGaD": 0.8699728860935246,
     "CbGeAlD": 0.07234755451341159,
     "CbGpPWpGaD": 0.048807095801861454,
     "CrCbGaD": 0.008872463591202244
   },
+  "n_trials": 0.0,
   "prediction": 0.00127424581423717,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

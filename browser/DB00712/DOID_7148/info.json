@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.782184655396619,
   "metapath_contribution": {
     "CbGaD": 0.19117132695596487,
     "CbGbCtD": 0.24724124931207633,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.42478832300510017,
     "CrCbGaD": 0.0021023135451350445
   },
+  "n_trials": 2.0,
   "prediction": 0.0028365202361295802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.2985541245167314,
     "CbGbCtD": 0.4559276941446084,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05473225329720616,
     "CcSEcCtD": 0.1730961154880334
   },
+  "n_trials": 0.0,
   "prediction": 0.00525433423880843,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

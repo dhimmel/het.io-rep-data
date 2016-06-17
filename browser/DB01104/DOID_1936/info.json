@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.7009102730819251,
   "metapath_contribution": {
     "CbGbCtD": 0.6800257291628143,
     "CbGpPWpGaD": 0.0748400896944573,
     "CcSEcCtD": 0.2420883517417873,
     "CrCbGaD": 0.003045829400941106
   },
+  "n_trials": 0.0,
   "prediction": 0.00243758570305616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.6222366710013001,
   "metapath_contribution": {
     "CbGaD": 0.5790832954780518,
     "CbGeAlD": 0.14734563414549431,
     "CbGpPWpGaD": 0.26369602141155984,
     "CrCbGaD": 0.009875048964894063
   },
+  "n_trials": 0.0,
   "prediction": 0.00163768781181495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

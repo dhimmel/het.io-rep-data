@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.11963589076723,
   "metapath_contribution": {
     "CbGdCrCtD": 0.006050709806783745,
     "CbGeAlD": 0.4167378376654619,
     "CbGpPWpGaD": 0.568976402946015,
     "CrCbGaD": 0.008235049581739236
   },
+  "n_trials": 0.0,
   "prediction": 0.00105703132699886,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

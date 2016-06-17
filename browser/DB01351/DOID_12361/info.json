@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01351",
   "compound_name": "Amobarbital",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.7073507063913729,
     "CbGbCtD": 0.23054200282846732,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.005647038157853551,
     "CrCbGaD": 0.007136020093575718
   },
+  "n_trials": 0.0,
   "prediction": 0.00402499961071963,
   "status": 0,
   "training_prediction": 0.0029704759914170697

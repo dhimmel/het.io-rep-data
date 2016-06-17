@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGbCtD": 0.9035898127808182,
     "CbGdCrCtD": 0.007893626724116828,
     "CbGeAlD": 0.03487382669575675,
     "CcSEcCtD": 0.05364273379930829
   },
+  "n_trials": 0.0,
   "prediction": 0.0036199476574751296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

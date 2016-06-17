@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01551",
   "compound_name": "Dihydrocodeine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.472691807542263,
   "metapath_contribution": {
     "CbGaD": 0.46759727046886523,
     "CbGbCtD": 0.31115955071010165,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16287172887928114,
     "CrCbGaD": 0.006422424846542121
   },
+  "n_trials": 0.0,
   "prediction": 0.00318406101822888,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.756176853055917,
   "metapath_contribution": {
     "CbGaD": 0.3256720598839393,
     "CbGbCtD": 0.4524866174114955,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09872577441428985,
     "CrCbGaD": 0.0014282131661919684
   },
+  "n_trials": 0.0,
   "prediction": 0.00453505069066316,
   "status": 0,
   "training_prediction": 0.0197488477995926

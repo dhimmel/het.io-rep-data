@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00190",
   "compound_name": "Carbidopa",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.272431729518856,
   "metapath_contribution": {
-    "CbGpPWpGaD": 0.030168057959321586,
-    "CcSEcCtD": 0.2492852155481133,
-    "CrCbGaD": 0.0028750271149235933,
-    "CrCrCtD": 0.7176716993776416
+    "CbGpPWpGaD": 0.030168057959321582,
+    "CcSEcCtD": 0.24928521554811328,
+    "CrCbGaD": 0.002875027114923593,
+    "CrCrCtD": 0.7176716993776415
   },
+  "n_trials": 0.0,
   "prediction": 0.00105676688941283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

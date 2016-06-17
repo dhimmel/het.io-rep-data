@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00245",
   "compound_name": "Benzatropine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.79778933680104,
   "metapath_contribution": {
     "CbGaD": 0.5082526119508576,
     "CbGbCtD": 0.3548326494668857,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06266150523927619,
     "CrCbGaD": 0.004372587143816182
   },
+  "n_trials": 0.0,
   "prediction": 0.00404485389911169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

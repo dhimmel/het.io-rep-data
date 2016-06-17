@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01108",
   "compound_name": "Trilostane",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.32184655396619,
   "metapath_contribution": {
     "CbGaD": 0.8180013610929846,
     "CbGeAlD": 0.04885499157994092,
     "CbGpPWpGaD": 0.12919420437623874,
     "CrCbGaD": 0.003949442950835645
   },
+  "n_trials": 0.0,
   "prediction": 0.00135456349072923,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

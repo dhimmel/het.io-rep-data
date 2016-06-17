@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01101",
   "compound_name": "Capecitabine",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.6853055916775029,
   "metapath_contribution": {
     "CbGbCtD": 0.14212261742590782,
     "CbGdCrCtD": 0.00644533994721537,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.14177874282912303,
     "CcSEcCtD": 0.5544149683012439
   },
+  "n_trials": 0.0,
   "prediction": 0.00218641888691858,
   "status": 0,
   "training_prediction": 0.0156436838188001

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01246",
   "compound_name": "Alimemazine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.19830949284785399,
   "metapath_contribution": {
     "CbGaD": 0.4002590521312105,
     "CbGbCtD": 0.42470593508415816,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14945634820077736,
     "CrCbGaD": 0.006853478785710785
   },
+  "n_trials": 0.0,
   "prediction": 0.00137165999161838,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

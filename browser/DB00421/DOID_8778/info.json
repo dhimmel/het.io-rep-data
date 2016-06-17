@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.604031209362809,
   "metapath_contribution": {
     "CbGbCtD": 0.30918833490614933,
     "CbGeAlD": 0.050948408118794884,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.000684554925345884,
     "CrCrCtD": 0.5750214369000903
   },
+  "n_trials": 0.0,
   "prediction": 0.00179051721252968,
   "status": 0,
   "training_prediction": 0.0048573313704712105

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.11573472041612501,
   "metapath_contribution": {
     "CbGaD": 0.7365169753182425,
     "CbGpPWpGaD": 0.1084153452437484,
     "CcSEcCtD": 0.1484303954151669,
     "CrCbGaD": 0.00663728402284223
   },
+  "n_trials": 0.0,
   "prediction": 0.000786933985872699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

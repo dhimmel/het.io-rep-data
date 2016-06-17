@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.591677503250975,
   "metapath_contribution": {
     "CbGaD": 0.2990351165286873,
     "CbGbCtD": 0.4100696115052923,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.09443886329194243,
     "CrCbGaD": 0.0042441400879953675
   },
+  "n_trials": 0.0,
   "prediction": 0.00486756831459023,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.262678803641092,
   "metapath_contribution": {
-    "CbGaD": 0.7015691833175626,
-    "CbGeAlD": 0.08886727858820491,
-    "CbGpPWpGaD": 0.20042542911870578,
+    "CbGaD": 0.7015691833175625,
+    "CbGeAlD": 0.0888672785882049,
+    "CbGpPWpGaD": 0.20042542911870576,
     "CrCbGaD": 0.009138108975526823
   },
+  "n_trials": 0.0,
   "prediction": 0.00109303210143254,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

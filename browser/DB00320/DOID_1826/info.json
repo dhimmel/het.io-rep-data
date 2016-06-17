@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.610533159947984,
   "metapath_contribution": {
     "CbGaD": 0.3194889496122188,
     "CbGbCtD": 0.32651697028412385,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2011293438327426,
     "CrCbGaD": 0.0022217142297519953
   },
+  "n_trials": 0.0,
   "prediction": 0.00440057087051811,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

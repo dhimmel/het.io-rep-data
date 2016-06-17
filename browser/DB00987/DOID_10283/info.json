@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.662548764629389,
   "metapath_contribution": {
     "CbGaD": 0.14915509828724613,
     "CbGbCtD": 0.24439631761769134,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.5051185377685006,
     "CrCbGaD": 0.0022351592456569085
   },
+  "n_trials": 1.0,
   "prediction": 0.0032224631443329103,
   "status": 0,
   "training_prediction": 0.0224743625365616

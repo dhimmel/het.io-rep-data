@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:175",
   "disease_name": "vascular cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGeAlD": 0.01383567777399048,
     "CtDrD": 0.9861643222260095
   },
+  "n_trials": 0.0,
   "prediction": 0.00416459352798291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

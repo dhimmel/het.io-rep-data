@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.511703511053316,
   "metapath_contribution": {
     "CbGaD": 0.3613609227127561,
     "CbGbCtD": 0.2768976651323722,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19894614084912762,
     "CrCbGaD": 0.004761225460159117
   },
+  "n_trials": 0.0,
   "prediction": 0.00175699372169547,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

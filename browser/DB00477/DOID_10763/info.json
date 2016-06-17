@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.825097529258778,
   "metapath_contribution": {
     "CbGaD": 0.2108398014604927,
     "CbGbCtD": 0.25717150859789867,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.13372496400753223,
     "CrCtD": 0.24000659392626178
   },
+  "n_trials": 0.0,
   "prediction": 0.0111105042962845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

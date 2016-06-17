@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.1743529117499177,
     "CbGbCtD": 0.20887998130864802,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.21607194130608387,
     "CrCtD": 0.3351929411167392
   },
+  "n_trials": 0.0,
   "prediction": 0.0185115324348669,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

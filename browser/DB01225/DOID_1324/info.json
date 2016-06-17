@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01225",
   "compound_name": "Enoxaparin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7074122236670999,
   "metapath_contribution": {
     "CbGbCtD": 0.4096025025367165,
     "CbGeAlD": 0.02117416337833636,
     "CbGpPWpGaD": 0.12189282957511349,
     "CcSEcCtD": 0.4473305045098337
   },
+  "n_trials": 1.0,
   "prediction": 0.00262111659194452,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

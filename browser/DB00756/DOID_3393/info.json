@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00756",
   "compound_name": "Hexachlorophene",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGaD": 0.6667943616240419,
     "CbGeAlD": 0.06105177438001751,
     "CbGpPWpGaD": 0.18923871461308073,
     "CcSEcCtD": 0.08291514938285988
   },
+  "n_trials": 0.0,
   "prediction": 0.00384439516728896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.7483745123537059,
   "metapath_contribution": {
     "CbGaD": 0.13709796040892566,
     "CbGbCtD": 0.13223315350291528,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08461569537036485,
     "CtDrD": 0.5685204878750697
   },
+  "n_trials": 0.0,
   "prediction": 0.00218059293851979,
   "status": 0,
   "training_prediction": 0.00311065914455738

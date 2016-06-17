@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00799",
   "compound_name": "Tazarotene",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.7650555579443846,
     "CbGbCtD": 0.010948824113171943,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10246373729917956,
     "CcSEcCtD": 0.09198119486528722
   },
+  "n_trials": 0.0,
   "prediction": 0.00287011722416623,
   "status": 0,
   "training_prediction": 0.00977702382771544

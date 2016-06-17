@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00873",
   "compound_name": "Loteprednol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGbCtD": 0.13977563680789923,
     "CiPCiCtD": 0.3797054571145373,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.20159682063710654,
     "CrCtD": 0.2787582613816584
   },
+  "n_trials": 0.0,
   "prediction": 0.0324364550354014,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

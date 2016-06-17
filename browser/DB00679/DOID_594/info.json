@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGaD": 0.8166928488720502,
     "CbGeAlD": 0.05678126712363891,
     "CbGpPWpGaD": 0.11992812138915272,
     "CrCbGaD": 0.006597762615158202
   },
+  "n_trials": 0.0,
   "prediction": 0.00237124761739354,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

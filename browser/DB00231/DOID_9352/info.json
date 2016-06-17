@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.464239271781534,
   "metapath_contribution": {
     "CbGaD": 0.11964454413451393,
     "CbGbCtD": 0.5526833029523465,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1852684764364253,
     "CrCbGaD": 0.003403725295191906
   },
+  "n_trials": 0.0,
   "prediction": 0.0023601916566909397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

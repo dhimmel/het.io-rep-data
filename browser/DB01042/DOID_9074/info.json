@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.108582574772432,
   "metapath_contribution": {
     "CbGdCrCtD": 0.025493624354546954,
     "CbGeAlD": 0.09984259250090059,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.8133740481856191,
     "CrCbGaD": 0.0030388444360941215
   },
+  "n_trials": 0.0,
   "prediction": 0.000935170270441384,
   "status": 0,
   "training_prediction": 0.00772969495043277

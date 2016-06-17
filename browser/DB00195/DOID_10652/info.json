@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00195",
   "compound_name": "Betaxolol",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.545513654096229,
   "metapath_contribution": {
     "CbGaD": 0.38483267238437185,
     "CbGbCtD": 0.3130068584291211,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.27401623099873473,
     "CrCbGaD": 0.0035802444660339313
   },
+  "n_trials": 0.0,
   "prediction": 0.0019887027520871397,
   "status": 0,
   "training_prediction": 0.0040191829683833705

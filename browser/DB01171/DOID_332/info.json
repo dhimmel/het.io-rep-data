@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.717165149544863,
   "metapath_contribution": {
     "CbGbCtD": 0.6820832102940604,
     "CbGeAlD": 0.03017793506114052,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.27289834177137173,
     "CrCbGaD": 0.006752956400229106
   },
+  "n_trials": 0.0,
   "prediction": 0.00181080401146336,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

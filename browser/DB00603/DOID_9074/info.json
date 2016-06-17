@@ -1,19 +1,22 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
-    "CbGaD": 0.090478734683276,
-    "CbGbCtD": 0.1658212373969123,
-    "CbGeAlD": 0.012977180960352757,
-    "CbGpPWpGaD": 0.01107690877934701,
-    "CcSEcCtD": 0.0540038958014591,
-    "CpDpCtD": 0.18704989475786293,
-    "CrCbGaD": 0.001190236054507753,
-    "CrCrCtD": 0.2101409696378512,
-    "CrCtD": 0.26726094192843086
+    "CbGaD": 0.09047873468327601,
+    "CbGbCtD": 0.16582123739691232,
+    "CbGeAlD": 0.012977180960352759,
+    "CbGpPWpGaD": 0.011076908779347012,
+    "CcSEcCtD": 0.054003895801459104,
+    "CpDpCtD": 0.18704989475786296,
+    "CrCbGaD": 0.0011902360545077532,
+    "CrCrCtD": 0.21014096963785123,
+    "CrCtD": 0.2672609419284309
   },
+  "n_trials": 1.0,
   "prediction": 0.0237347180169985,
   "status": 0,
   "training_prediction": 0.0662631563836964

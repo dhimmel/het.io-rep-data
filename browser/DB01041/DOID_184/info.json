@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.49349804941482395,
   "metapath_contribution": {
     "CbGaD": 0.5132689501517671,
     "CbGeAlD": 0.013424157747455144,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.28443477011518914,
     "CrCbGaD": 0.006984599011419247
   },
+  "n_trials": 2.0,
   "prediction": 0.0015171725553662198,
   "status": 0,
   "training_prediction": 0.0036055969746881396

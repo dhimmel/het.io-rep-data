@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06144",
   "compound_name": "Sertindole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.67295188556567,
   "metapath_contribution": {
     "CbGaD": 0.374814168811974,
     "CbGbCtD": 0.4736264224520285,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11483653274987889,
     "CrCbGaD": 0.0029762961735825292
   },
+  "n_trials": 0.0,
   "prediction": 0.00619497129053164,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

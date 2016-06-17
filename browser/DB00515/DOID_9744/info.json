@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.5216542387455791,
     "CbGbCtD": 0.2492305805053816,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12038984612133298,
     "CcSEcCtD": 0.04515137453120378
   },
+  "n_trials": 0.0,
   "prediction": 0.00468903651013176,
   "status": 0,
   "training_prediction": 0.0106351247660886

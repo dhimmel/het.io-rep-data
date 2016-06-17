@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.30754226267880397,
   "metapath_contribution": {
     "CbGaD": 0.3797436953069157,
     "CbGbCtD": 0.2976008143080069,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0014457677374320333,
     "CrCrCtD": 0.14723047021938643
   },
+  "n_trials": 0.0,
   "prediction": 0.00162731108679713,
   "status": 0,
   "training_prediction": 0.0562803655591969

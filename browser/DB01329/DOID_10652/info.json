@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01329",
   "compound_name": "Cefoperazone",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.10208062418725601,
   "metapath_contribution": {
-    "CbGeAlD": 0.45576245137613325,
-    "CbGpPWpGaD": 0.5078699297075739,
-    "CrCbGaD": 0.03636761891629269
+    "CbGeAlD": 0.4557624513761333,
+    "CbGpPWpGaD": 0.507869929707574,
+    "CrCbGaD": 0.0363676189162927
   },
+  "n_trials": 0.0,
   "prediction": 0.000824075455408829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

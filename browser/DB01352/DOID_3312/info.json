@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01352",
   "compound_name": "Aprobarbital",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
     "CbGaD": 0.8157727333657216,
     "CbGeAlD": 0.06530674320906435,
     "CbGpPWpGaD": 0.1110045451970016,
     "CrCbGaD": 0.00791597822821234
   },
+  "n_trials": 0.0,
   "prediction": 0.00260849742470868,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

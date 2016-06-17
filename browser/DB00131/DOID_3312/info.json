@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGaD": 0.6550926483856074,
     "CbGeAlD": 0.13645901464481022,
     "CbGpPWpGaD": 0.20245557196469774,
     "CrCbGaD": 0.005992765004884543
   },
+  "n_trials": 0.0,
   "prediction": 0.00154823813761369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

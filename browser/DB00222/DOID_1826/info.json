@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00222",
   "compound_name": "Glimepiride",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.46553966189857,
   "metapath_contribution": {
     "CbGaD": 0.43434866296830554,
     "CbGbCtD": 0.22655897049827894,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.20190506876217984,
     "CrCbGaD": 0.005201035014890847
   },
+  "n_trials": 0.0,
   "prediction": 0.0031077089021024898,
   "status": 0,
   "training_prediction": 0.0150748335140851

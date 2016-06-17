@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01056",
   "compound_name": "Tocainide",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.284785435630689,
   "metapath_contribution": {
     "CbGbCtD": 0.6540561087728997,
     "CbGeAlD": 0.052095575975930966,
     "CbGpPWpGaD": 0.28087757646678885,
     "CrCbGaD": 0.012970738784380528
   },
+  "n_trials": 0.0,
   "prediction": 0.00147792331545189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

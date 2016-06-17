@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.157997399219766,
   "metapath_contribution": {
     "CbGaD": 0.22639935945707196,
     "CbGbCtD": 0.6118907191599133,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.005009721663440371,
     "CcSEcCtD": 0.10471592695110132
   },
+  "n_trials": 0.0,
   "prediction": 0.000993124946527701,
   "status": 0,
   "training_prediction": 0.0108956761570698

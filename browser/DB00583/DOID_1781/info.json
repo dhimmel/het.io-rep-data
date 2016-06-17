@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGbCtD": 0.6874782730013507,
     "CbGeAlD": 0.11304125010396245,
     "CbGpPWpGaD": 0.09648085003280875,
     "CcSEcCtD": 0.10299962686187807
   },
+  "n_trials": 0.0,
   "prediction": 0.00266717145378294,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

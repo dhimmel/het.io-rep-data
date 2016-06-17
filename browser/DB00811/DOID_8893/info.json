@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGbCtD": 0.7451808535545382,
     "CbGdCrCtD": 0.004913397093574986,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24165905200798768,
     "CrCbGaD": 0.0030842470719786258
   },
+  "n_trials": 0.0,
   "prediction": 0.00171742247876407,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

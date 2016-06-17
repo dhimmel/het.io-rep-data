@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.23407022106632003,
   "metapath_contribution": {
     "CbGaD": 0.3390117297659707,
     "CbGbCtD": 0.40671503605620446,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17496273859764333,
     "CrCbGaD": 0.001401030013832345
   },
+  "n_trials": 0.0,
   "prediction": 0.00138904165305655,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

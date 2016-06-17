@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.13155682880939007,
     "CbGbCtD": 0.5367278331229128,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21168381223873106,
     "CrCbGaD": 0.0016975524686594322
   },
+  "n_trials": 0.0,
   "prediction": 0.00230714739590801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

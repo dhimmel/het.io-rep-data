@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01241",
   "compound_name": "Gemfibrozil",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.2594608903659725,
     "CbGbCtD": 0.26095185990374287,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0015183521271310034,
     "CrCrCtD": 0.3659536995103357
   },
+  "n_trials": 0.0,
   "prediction": 0.008220817054302179,
   "status": 0,
   "training_prediction": 0.0179705816561126

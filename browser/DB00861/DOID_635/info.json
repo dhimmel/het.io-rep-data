@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.5884265279583879,
   "metapath_contribution": {
     "CbGaD": 0.3405628292333022,
     "CbGbCtD": 0.4408223153722106,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1827185389849701,
     "CrCbGaD": 0.0037015714159145093
   },
+  "n_trials": 0.0,
   "prediction": 0.0027954143183139104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

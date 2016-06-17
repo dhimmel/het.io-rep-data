@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.5942782834850461,
   "metapath_contribution": {
     "CbGbCtD": 0.6875992810332062,
     "CcSEcCtD": 0.06490894961434038,
     "CrCbGaD": 0.0035662446618946325,
     "CrCrCtD": 0.24392552469055875
   },
+  "n_trials": 0.0,
   "prediction": 0.00279309640677247,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

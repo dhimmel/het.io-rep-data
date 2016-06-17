@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.615084525357607,
   "metapath_contribution": {
     "CbGaD": 0.7765907657369195,
     "CbGeAlD": 0.059052357027704776,
     "CbGpPWpGaD": 0.15884530988402384,
     "CrCbGaD": 0.005511567351351833
   },
+  "n_trials": 1.0,
   "prediction": 0.0018451171977865,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

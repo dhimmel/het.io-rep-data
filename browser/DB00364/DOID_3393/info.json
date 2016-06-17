@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00364",
   "compound_name": "Sucralfate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.5739257074299537,
     "CbGbCtD": 0.17464104365938404,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.18561909411272354,
     "CcSEcCtD": 0.03900028744647846
   },
+  "n_trials": 0.0,
   "prediction": 0.00843212904661283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

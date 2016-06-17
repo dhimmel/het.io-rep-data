@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01097",
   "compound_name": "Leflunomide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.5937622514303375,
     "CbGbCtD": 0.2616284774225086,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.012826672741823161,
     "CcSEcCtD": 0.09545452805128582
   },
+  "n_trials": 0.0,
   "prediction": 0.0109570265200437,
   "status": 0,
   "training_prediction": 0.0607559041389389

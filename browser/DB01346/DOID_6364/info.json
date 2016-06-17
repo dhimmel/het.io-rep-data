@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01346",
   "compound_name": "Quinidine barbiturate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7477243172951891,
   "metapath_contribution": {
     "CbGbCtD": 0.6355904958296267,
     "CbGeAlD": 0.029332303367876098,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22775883464665428,
     "CrCbGaD": 0.006220094541569265
   },
+  "n_trials": 0.0,
   "prediction": 0.0038933909839580796,
   "status": 0,
   "training_prediction": 0.00709889322123223

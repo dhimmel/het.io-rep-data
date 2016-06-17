@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.355656697009103,
   "metapath_contribution": {
     "CbGaD": 0.24015948495885164,
     "CbGbCtD": 0.39515456688775596,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16963456522402431,
     "CrCbGaD": 0.002939047996590841
   },
+  "n_trials": 0.0,
   "prediction": 0.00187861762885702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

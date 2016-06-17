@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01357",
   "compound_name": "Mestranol",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.102730819245774,
   "metapath_contribution": {
     "CbGaD": 0.4381260528918127,
     "CbGbCtD": 0.29728555438919185,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.005586541289157813,
     "CrCrCtD": 0.15668331096995958
   },
+  "n_trials": 0.0,
   "prediction": 0.000976513522091357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

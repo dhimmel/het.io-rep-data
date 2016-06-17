@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGaD": 0.4834656968908526,
     "CbGeAlD": 0.05109525967524576,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0944194339487479,
     "CrCbGaD": 0.004743550169271877
   },
+  "n_trials": 0.0,
   "prediction": 0.00154553400170948,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

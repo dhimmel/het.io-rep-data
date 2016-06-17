@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.6843387886229434,
     "CbGeAlD": 0.03129194801338026,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.027682877203711206,
     "CrCbGaD": 0.003366722995993043
   },
+  "n_trials": 0.0,
   "prediction": 0.0027628109178525397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

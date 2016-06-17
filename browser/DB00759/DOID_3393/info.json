@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.682704811443433,
   "metapath_contribution": {
     "CbGaD": 0.1434512121670815,
     "CbGbCtD": 0.7366330199276439,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09160015265251573,
     "CrCbGaD": 0.005683079572299583
   },
+  "n_trials": 1.0,
   "prediction": 0.0033576530378449,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

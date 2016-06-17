@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.149544863459038,
   "metapath_contribution": {
     "CbGaD": 0.41487164610495975,
     "CbGbCtD": 0.3852524311550089,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15890936047604212,
     "CrCbGaD": 0.006480234935238902
   },
+  "n_trials": 0.0,
   "prediction": 0.0014723012902537,
   "status": 0,
   "training_prediction": 0.00718722315735299

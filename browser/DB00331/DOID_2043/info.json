@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGbCtD": 0.5796879059094747,
     "CbGdCrCtD": 0.008242501697996375,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05972205210633242,
     "CcSEcCtD": 0.19671222230270916
   },
+  "n_trials": 0.0,
   "prediction": 0.00333534751654048,
   "status": 0,
   "training_prediction": 0.00913790152819019

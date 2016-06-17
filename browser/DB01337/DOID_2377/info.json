@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01337",
   "compound_name": "Pancuronium",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.7542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.5613789047457627,
     "CbGbCtD": 0.35231890679610955,
     "CcSEcCtD": 0.08396603326493973,
     "CrCbGaD": 0.002336155193188083
   },
+  "n_trials": 0.0,
   "prediction": 0.00260568633820499,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

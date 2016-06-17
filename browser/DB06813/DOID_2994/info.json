@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06813",
   "compound_name": "Pralatrexate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGbCtD": 0.2649586000494599,
     "CbGdCrCtD": 0.001096858598287957,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2749432243505658,
     "CrCtD": 0.4154995002067883
   },
+  "n_trials": 0.0,
   "prediction": 0.0202403090209193,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

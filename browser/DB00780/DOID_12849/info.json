@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.8029908972691808,
   "metapath_contribution": {
     "CbGaD": 0.8086166442236712,
     "CbGeAlD": 0.06345705998075292,
     "CbGpPWpGaD": 0.12286143547347333,
     "CrCbGaD": 0.00506486032210254
   },
+  "n_trials": 0.0,
   "prediction": 0.00212698838356634,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

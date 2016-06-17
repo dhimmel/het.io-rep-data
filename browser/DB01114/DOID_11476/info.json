@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.423927178153446,
   "metapath_contribution": {
     "CbGbCtD": 0.5077105054062792,
     "CbGpPWpGaD": 0.004749894667711986,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0008012170485288986,
     "CrCrCtD": 0.3613800588248501
   },
+  "n_trials": 0.0,
   "prediction": 0.00169635884416708,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

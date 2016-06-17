@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.459037711313394,
   "metapath_contribution": {
     "CbGaD": 0.5975170919172416,
     "CbGbCtD": 0.14644199579728615,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12482019021779206,
     "CrCbGaD": 0.001022045575516618
   },
+  "n_trials": 0.0,
   "prediction": 0.0014398812239733699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

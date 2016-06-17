@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.674902470741222,
   "metapath_contribution": {
     "CbGaD": 0.351407708836029,
     "CbGbCtD": 0.3970129398965573,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1121716253224738,
     "CrCbGaD": 0.003874785369048022
   },
+  "n_trials": 0.0,
   "prediction": 0.00534085668789617,
   "status": 0,
   "training_prediction": 0.0256857871334657

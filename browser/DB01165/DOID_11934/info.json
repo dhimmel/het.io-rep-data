@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.48179453836150804,
   "metapath_contribution": {
     "CbGbCtD": 0.6944137618115742,
     "CbGdCrCtD": 0.007612124030802431,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.010682127724472959,
     "CcSEcCtD": 0.2514736799103237
   },
+  "n_trials": 0.0,
   "prediction": 0.001362603028452,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

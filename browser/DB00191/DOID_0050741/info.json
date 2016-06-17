@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00191",
   "compound_name": "Phentermine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGaD": 0.5176992238754741,
     "CbGbCtD": 0.317670619857941,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05203082981896459,
     "CrCbGaD": 0.004132754971112519
   },
+  "n_trials": 0.0,
   "prediction": 0.00612725628807052,
   "status": 0,
   "training_prediction": 0.007429851883075179

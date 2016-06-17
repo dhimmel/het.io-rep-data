@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06813",
   "compound_name": "Pralatrexate",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.331599479843953,
   "metapath_contribution": {
     "CbGeAlD": 0.146603696067557,
     "CbGpPWpGaD": 0.4359423996926168,
     "CcSEcCtD": 0.4061474352639889,
     "CrCbGaD": 0.011306468975837307
   },
+  "n_trials": 0.0,
   "prediction": 0.001383685045215,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

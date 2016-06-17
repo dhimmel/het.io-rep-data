@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.8654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.8351350905562354,
     "CbGbCtD": 0.03868254965408627,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06905018870032621,
     "CrCbGaD": 0.007441685003436918
   },
+  "n_trials": 0.0,
   "prediction": 0.00256133750982148,
   "status": 0,
   "training_prediction": 0.00115541743757585

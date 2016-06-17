@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00445",
   "compound_name": "Epirubicin",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.237321196358908,
   "metapath_contribution": {
     "CbGaD": 0.8241572649888904,
     "CbGeAlD": 0.026688628646411004,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05425596396106998,
     "CrCbGaD": 0.0018005594802046625
   },
+  "n_trials": 0.0,
   "prediction": 0.0009693026726005789,
   "status": 0,
   "training_prediction": 0.0037306327458092

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01157",
   "compound_name": "Trimetrexate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.6430429128738621,
   "metapath_contribution": {
     "CbGbCtD": 0.40645255846000256,
     "CbGeAlD": 0.02857167745473251,
     "CbGpPWpGaD": 0.1643305075919922,
     "CcSEcCtD": 0.40064525649327276
   },
+  "n_trials": 1.0,
   "prediction": 0.00299786448079288,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.0481144343302991,
   "metapath_contribution": {
     "CbGeAlD": 0.3221094866532599,
     "CbGpPWpGaD": 0.2524849833672958,
     "CcSEcCtD": 0.42472045928806423,
     "CrCbGaD": 0.0006850706913801251
   },
+  "n_trials": 0.0,
   "prediction": 0.000708677723083941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

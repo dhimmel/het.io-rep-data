@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.6918075422626789,
   "metapath_contribution": {
     "CbGaD": 0.6583967716339624,
     "CbGpPWpGaD": 0.2641332787055792,
     "CcSEcCtD": 0.07012588846169107,
     "CrCbGaD": 0.007344061198767477
   },
+  "n_trials": 0.0,
   "prediction": 0.00187558886836448,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

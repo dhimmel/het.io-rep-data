@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.28540774903832383,
     "CbGbCtD": 0.2551235882001422,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.22159929447259494,
     "CrCbGaD": 0.002023350509919248
   },
+  "n_trials": 0.0,
   "prediction": 0.0029620900576803103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

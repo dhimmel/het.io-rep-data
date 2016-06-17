@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
     "CbGbCtD": 0.5634741934180837,
     "CbGeAlD": 0.12635423884371605,
     "CcSEcCtD": 0.31017156773820015
   },
+  "n_trials": 1.0,
   "prediction": 0.00225303669039163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

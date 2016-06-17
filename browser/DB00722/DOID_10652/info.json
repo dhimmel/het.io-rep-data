@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.892717815344603,
   "metapath_contribution": {
-    "CbGaD": 0.32295078752144946,
-    "CbGeAlD": 0.0065994010238790745,
-    "CbGpPWpGaD": 0.04985827736049131,
-    "CcSEcCtD": 0.15814721109268978,
-    "CrCbGaD": 0.003708973121062535,
-    "CrCrCtD": 0.45873534988042797
+    "CbGaD": 0.3229507875214494,
+    "CbGeAlD": 0.006599401023879074,
+    "CbGpPWpGaD": 0.0498582773604913,
+    "CcSEcCtD": 0.15814721109268975,
+    "CrCbGaD": 0.0037089731210625345,
+    "CrCrCtD": 0.4587353498804279
   },
+  "n_trials": 0.0,
   "prediction": 0.0045860985452736295,
   "status": 0,
   "training_prediction": 0.0156659076146846

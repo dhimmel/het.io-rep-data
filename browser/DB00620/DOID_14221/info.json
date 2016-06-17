@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.546814044213264,
   "metapath_contribution": {
     "CbGaD": 0.3787942625395206,
     "CbGeAlD": 0.00029004666719024117,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.004763298140566037,
     "CtDrD": 0.5765743378469107
   },
+  "n_trials": 0.0,
   "prediction": 0.00147434032399718,
   "status": 0,
   "training_prediction": 0.00488001165759765

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.561768530559168,
   "metapath_contribution": {
     "CbGaD": 0.23323885288419474,
     "CbGbCtD": 0.42759558037545314,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16115060410756954,
     "CrCbGaD": 0.0025210313000245807
   },
+  "n_trials": 0.0,
   "prediction": 0.00189124586427325,
   "status": 0,
   "training_prediction": 0.00517285644828123

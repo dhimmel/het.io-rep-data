@@ -1,15 +1,17 @@
 {
   "compound_id": "DB09000",
   "compound_name": "Cyamemazine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.8457493922908048,
     "CbGeAlD": 0.07261831979427483,
     "CbGpPWpGaD": 0.07641195590750824,
     "CrCbGaD": 0.0052203320074120235
   },
+  "n_trials": 0.0,
   "prediction": 0.00210657583299146,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

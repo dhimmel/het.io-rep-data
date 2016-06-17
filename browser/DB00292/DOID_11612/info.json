@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.6358639019750318,
     "CbGeAlD": 0.1285899082942107,
     "CbGpPWpGaD": 0.2313976168515396,
     "CrCbGaD": 0.0041485728792178865
   },
+  "n_trials": 0.0,
   "prediction": 0.00248191190067168,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

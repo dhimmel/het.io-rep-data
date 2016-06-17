@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.403120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.5628596358352912,
     "CbGpPWpGaD": 0.11008207348691439,
     "CcSEcCtD": 0.32395150396124234,
     "CrCbGaD": 0.003106786716552068
   },
+  "n_trials": 0.0,
   "prediction": 0.00152802295575726,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

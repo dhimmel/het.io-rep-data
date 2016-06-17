@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.46749024707412196,
   "metapath_contribution": {
     "CbGaD": 0.11614395871839991,
     "CbGbCtD": 0.48725286783347815,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18284497739049296,
     "CrCbGaD": 0.003827706836124646
   },
+  "n_trials": 0.0,
   "prediction": 0.00136552276728151,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.76853055916775,
   "metapath_contribution": {
     "CbGaD": 0.22924772506132227,
     "CbGbCtD": 0.5509960164938349,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15645052912308194,
     "CrCbGaD": 0.0010477751690403804
   },
+  "n_trials": 0.0,
   "prediction": 0.00241112641637853,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

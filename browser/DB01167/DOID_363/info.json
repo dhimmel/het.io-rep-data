@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.49479843953186,
   "metapath_contribution": {
     "CbGbCtD": 0.6926767111618958,
     "CbGpPWpGaD": 0.041807473569346595,
     "CcSEcCtD": 0.26044184830482286,
     "CrCbGaD": 0.005073966963934726
   },
+  "n_trials": 0.0,
   "prediction": 0.00165543785227527,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

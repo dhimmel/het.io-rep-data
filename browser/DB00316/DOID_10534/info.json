@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.3524736744037604,
     "CbGbCtD": 0.31022788121979755,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13057197784984273,
     "CrCbGaD": 0.0012975579059943047
   },
+  "n_trials": 0.0,
   "prediction": 0.0035323467098627203,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

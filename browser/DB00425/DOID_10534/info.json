@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGbCtD": 0.5226598053862465,
     "CbGeAlD": 0.004980721755847127,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4142614381336278,
     "CrCbGaD": 0.007402811304391444
   },
+  "n_trials": 0.0,
   "prediction": 0.00179331318559578,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

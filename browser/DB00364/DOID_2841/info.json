@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00364",
   "compound_name": "Sucralfate",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.6892067620286091,
   "metapath_contribution": {
     "CbGaD": 0.33524814469952013,
     "CbGeAlD": 0.12880795414129487,
     "CbGpPWpGaD": 0.316621198234002,
     "CcSEcCtD": 0.21932270292518305
   },
+  "n_trials": 0.0,
   "prediction": 0.00356187577925755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

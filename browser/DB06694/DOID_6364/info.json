@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06694",
   "compound_name": "Xylometazoline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.5049217549819179,
     "CbGbCtD": 0.3432854435884959,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0831792458390565,
     "CrCbGaD": 0.005137987393874614
   },
+  "n_trials": 0.0,
   "prediction": 0.00962451406704904,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

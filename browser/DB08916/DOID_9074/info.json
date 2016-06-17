@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.665799739921977,
   "metapath_contribution": {
     "CbGaD": 0.48540755234206834,
     "CbGbCtD": 0.2506642532684689,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.07691342802027754,
     "CrCbGaD": 0.005030806793246335
   },
+  "n_trials": 0.0,
   "prediction": 0.00240513602310722,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

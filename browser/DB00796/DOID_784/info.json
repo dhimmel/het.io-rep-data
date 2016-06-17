@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00796",
   "compound_name": "Candesartan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.3142447517321124,
     "CbGeAlD": 0.027324741325255204,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004200348212770674,
     "CtDrD": 0.5962271358126474
   },
+  "n_trials": 1.0,
   "prediction": 0.0048761136617088705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

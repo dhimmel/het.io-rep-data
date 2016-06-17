@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
-    "CbGaD": 0.28537731921288595,
-    "CbGbCtD": 0.35821682589113074,
-    "CbGdCrCtD": 0.001860060539034098,
-    "CbGpPWpGaD": 0.012652884941586343,
-    "CcSEcCtD": 0.0794410081329539,
-    "CrCbGaD": 0.004194878099238479,
+    "CbGaD": 0.285377319212886,
+    "CbGbCtD": 0.3582168258911308,
+    "CbGdCrCtD": 0.0018600605390340981,
+    "CbGpPWpGaD": 0.012652884941586345,
+    "CcSEcCtD": 0.07944100813295392,
+    "CrCbGaD": 0.00419487809923848,
     "CrCrCtD": 0.2582570231831704
   },
+  "n_trials": 0.0,
   "prediction": 0.0052080131115605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

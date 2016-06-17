@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.774382314694408,
   "metapath_contribution": {
     "CbGaD": 0.5618646680823649,
     "CbGbCtD": 0.205042477623459,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08714386703532795,
     "CrCbGaD": 0.005433392564235148
   },
+  "n_trials": 0.0,
   "prediction": 0.00225421161016557,
   "status": 0,
   "training_prediction": 0.00577067681420715

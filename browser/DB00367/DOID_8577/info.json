@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.864759427828348,
   "metapath_contribution": {
-    "CbGbCtD": 0.25174232277698644,
-    "CbGeAlD": 0.00031613750240718603,
-    "CbGpPWpGaD": 0.016131842220664577,
+    "CbGbCtD": 0.2517423227769865,
+    "CbGeAlD": 0.0003161375024071861,
+    "CbGpPWpGaD": 0.01613184222066458,
     "CcSEcCtD": 0.07358911655186534,
     "CrCbGaD": 0.0005375101487135517,
     "CrCrCtD": 0.2545271497483781,
-    "CrCtD": 0.40315592105098474
+    "CrCtD": 0.4031559210509848
   },
+  "n_trials": 0.0,
   "prediction": 0.00464080307071425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.321196358907672,
   "metapath_contribution": {
     "CbGaD": 0.6290163467399753,
     "CbGbCtD": 0.09104864641423015,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1308457117820399,
     "CrCbGaD": 0.0032638168321715653
   },
+  "n_trials": 0.0,
   "prediction": 0.00135062727097391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

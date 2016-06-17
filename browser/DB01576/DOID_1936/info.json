@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01576",
   "compound_name": "Dextroamphetamine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.150195058517555,
   "metapath_contribution": {
     "CbGbCtD": 0.4424633228195678,
     "CbGpPWpGaD": 0.15813225024880634,
     "CcSEcCtD": 0.3889734646948829,
     "CrCbGaD": 0.010430962236742903
   },
+  "n_trials": 0.0,
   "prediction": 0.00101855550193486,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

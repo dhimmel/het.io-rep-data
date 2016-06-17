@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.18463178891739782,
     "CbGbCtD": 0.2710642698229774,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0017061004978066964,
     "CrCrCtD": 0.11532291651332607
   },
+  "n_trials": 0.0,
   "prediction": 0.0115609832134275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

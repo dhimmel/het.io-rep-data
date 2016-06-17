@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.36866059817945396,
   "metapath_contribution": {
     "CbGaD": 0.6324911796616272,
     "CbGeAlD": 0.03979156109726015,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2005680639392435,
     "CrCbGaD": 0.007408735464348822
   },
+  "n_trials": 0.0,
   "prediction": 0.00148625366718526,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.6703025090364788,
     "CbGbCtD": 0.06792123517213053,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.058394981211196906,
     "CcSEcCtD": 0.13945217608335453
   },
+  "n_trials": 0.0,
   "prediction": 0.00695935805736515,
   "status": 0,
   "training_prediction": 0.00712401150200527

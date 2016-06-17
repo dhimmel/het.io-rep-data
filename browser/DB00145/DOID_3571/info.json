@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00145",
   "compound_name": "Glycine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.8699609882964889,
   "metapath_contribution": {
     "CbGaD": 0.7822222438170067,
     "CbGeAlD": 0.03184608523149618,
     "CbGpPWpGaD": 0.1843142963809957,
     "CrCbGaD": 0.0016173745705014358
   },
+  "n_trials": 0.0,
   "prediction": 0.00258416995307795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

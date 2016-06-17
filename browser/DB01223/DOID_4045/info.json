@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.844603381014304,
   "metapath_contribution": {
     "CbGbCtD": 0.6822219383492201,
     "CbGdCrCtD": 0.009891996320074533,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07917267155111708,
     "CcSEcCtD": 0.14892332537890177
   },
+  "n_trials": 0.0,
   "prediction": 0.00231336630438983,
   "status": 0,
   "training_prediction": 0.006270095941738539

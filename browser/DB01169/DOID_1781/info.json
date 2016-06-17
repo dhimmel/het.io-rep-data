@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.6345875418895243,
     "CbGbCtD": 0.15051855941471348,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.06453821895756626,
     "CbGpPWpGaD": 0.1463000159380522
   },
+  "n_trials": 0.0,
   "prediction": 0.0076552955994795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.573472041612484,
   "metapath_contribution": {
     "CbGbCtD": 0.44538580686921353,
     "CbGdCrCtD": 0.008087006559872899,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2990297439830057,
     "CrCbGaD": 0.015786144282892642
   },
+  "n_trials": 0.0,
   "prediction": 0.0017708510437966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

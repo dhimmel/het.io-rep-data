@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.8001697898795271,
     "CbGeAlD": 0.0494922168265513,
     "CbGpPWpGaD": 0.14370679781640655,
     "CrCbGaD": 0.006631195477515164
   },
+  "n_trials": 0.0,
   "prediction": 0.00273709804401267,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

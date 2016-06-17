@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
     "CbGaD": 0.30275754559063,
     "CbGbCtD": 0.44876261022921166,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07661958939855057,
     "CrCbGaD": 0.0036867304391650585
   },
+  "n_trials": 1.0,
   "prediction": 0.00326644364912387,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.136540962288687,
   "metapath_contribution": {
-    "CbGeAlD": 0.5789804544770014,
-    "CbGpPWpGaD": 0.3663320308225674,
-    "CrCbGaD": 0.054687514700431275
+    "CbGeAlD": 0.5789804544770013,
+    "CbGpPWpGaD": 0.3663320308225673,
+    "CrCbGaD": 0.05468751470043127
   },
+  "n_trials": 0.0,
   "prediction": 0.000987477159224695,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

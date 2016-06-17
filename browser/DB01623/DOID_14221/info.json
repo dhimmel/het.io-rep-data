@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.5442132639791939,
   "metapath_contribution": {
     "CbGaD": 0.800835227846829,
     "CbGbCtD": 0.0912425920286683,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08532637670752503,
     "CrCbGaD": 0.006074057339322096
   },
+  "n_trials": 0.0,
   "prediction": 0.00147182740079007,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

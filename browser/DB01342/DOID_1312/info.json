@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01342",
   "compound_name": "Forasartan",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.9150460073235651,
     "CbGeAlD": 0.05016973258794109,
     "CbGpPWpGaD": 0.025863710526187772,
     "CrCbGaD": 0.008920549562305966
   },
+  "n_trials": 0.0,
   "prediction": 0.0030758964540701103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

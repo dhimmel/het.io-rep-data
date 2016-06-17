@@ -1,8 +1,10 @@
 {
   "compound_id": "DB02300",
   "compound_name": "Calcipotriol",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.402470741222367,
   "metapath_contribution": {
     "CbGbCtD": 0.6716427324529642,
     "CbGeAlD": 0.11015998334439818,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.024364217033741795,
     "CrCbGaD": 0.004487557035100888
   },
+  "n_trials": 0.0,
   "prediction": 0.00147025027246724,
   "status": 0,
   "training_prediction": 0.0026861148464353

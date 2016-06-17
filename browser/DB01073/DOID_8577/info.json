@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01073",
   "compound_name": "Fludarabine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.364109232769831,
   "metapath_contribution": {
     "CbGbCtD": 0.8127943821137404,
     "CbGdCrCtD": 0.004734969607094785,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16996849302369743,
     "CrCbGaD": 0.00638950274336455
   },
+  "n_trials": 0.0,
   "prediction": 0.00174769979554773,
   "status": 0,
   "training_prediction": 0.00992417031938143

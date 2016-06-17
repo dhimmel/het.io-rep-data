@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01064",
   "compound_name": "Isoprenaline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7529258777633292,
   "metapath_contribution": {
     "CbGaD": 0.2830891549746395,
     "CbGbCtD": 0.07249437816836121,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.004117830144269199,
     "CrCrCtD": 0.44917026072112587
   },
+  "n_trials": 0.0,
   "prediction": 0.0031156713367538,
   "status": 0,
   "training_prediction": 0.0106072152100058

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01203",
   "compound_name": "Nadolol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.634590377113134,
   "metapath_contribution": {
     "CbGaD": 0.8622594758940889,
     "CbGpPWpGaD": 0.12158214646663774,
     "CcSEcCtD": 0.009734303929553503,
     "CrCbGaD": 0.0064240737097197844
   },
+  "n_trials": 0.0,
   "prediction": 0.00167689955690275,
   "status": 0,
   "training_prediction": 0.000756080141845937

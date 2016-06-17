@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.781175973344313,
     "CbGeAlD": 0.07199300764169607,
     "CbGpPWpGaD": 0.14109859041261497,
     "CrCbGaD": 0.005732428601375842
   },
+  "n_trials": 4.0,
   "prediction": 0.00309903559914755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

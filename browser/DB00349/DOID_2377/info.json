@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00349",
   "compound_name": "Clobazam",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.141742522756827,
   "metapath_contribution": {
     "CbGbCtD": 0.570635199711846,
     "CbGeAlD": 0.10392912856805323,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.24715751120818738,
     "CrCbGaD": 6.174987451299968e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00111705018277984,
   "status": 0,
   "training_prediction": 0.00286468969035011

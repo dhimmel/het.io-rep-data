@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00636",
   "compound_name": "Clofibrate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGbCtD": 0.2647401454168787,
     "CbGpPWpGaD": 0.04769043749199471,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.24115928935161782,
     "CrCtD": 0.44577385610685416
   },
+  "n_trials": 1.0,
   "prediction": 0.0230021969330534,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

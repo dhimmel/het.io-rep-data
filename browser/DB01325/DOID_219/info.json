@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01325",
   "compound_name": "Quinethazone",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.23407022106632003,
   "metapath_contribution": {
-    "CbGeAlD": 0.4674875317125046,
-    "CbGpPWpGaD": 0.4247894682648008,
-    "CrCbGaD": 0.10772300002269462
+    "CbGeAlD": 0.46748753171250457,
+    "CbGpPWpGaD": 0.42478946826480074,
+    "CrCbGaD": 0.10772300002269461
   },
+  "n_trials": 0.0,
   "prediction": 0.00104876278014284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.41157347204161204,
   "metapath_contribution": {
     "CbGaD": 0.3779641628441308,
     "CbGbCtD": 0.38518387849642044,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0018446373022071455,
     "CrCrCtD": 0.03131559185195759
   },
+  "n_trials": 0.0,
   "prediction": 0.0020327358450534898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

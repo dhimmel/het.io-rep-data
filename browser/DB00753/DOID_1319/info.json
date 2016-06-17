@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.548764629388817,
   "metapath_contribution": {
     "CbGeAlD": 0.6961914453353192,
     "CbGpPWpGaD": 0.20035854079670232,
     "CcSEcCtD": 0.09255287728165898,
     "CrCbGaD": 0.010897136586319621
   },
+  "n_trials": 0.0,
   "prediction": 0.00167761197513167,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

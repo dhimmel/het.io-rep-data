@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.9012984280875002,
     "CbGdCrCtD": 0.003769931908487071,
     "CbGeAlD": 0.04815718090519025,
     "CbGpPWpGaD": 0.04677445909882263
   },
+  "n_trials": 0.0,
   "prediction": 0.00278849726657837,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

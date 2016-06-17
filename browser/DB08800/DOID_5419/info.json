@@ -1,14 +1,16 @@
 {
   "compound_id": "DB08800",
   "compound_name": "Chloropyramine",
+  "compound_percentile": 0.272058823529412,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.165149544863459,
   "metapath_contribution": {
     "CbGeAlD": 0.2514425440113464,
-    "CbGpPWpGaD": 0.7023337672801571,
-    "CrCbGaD": 0.0462236887084965
+    "CbGpPWpGaD": 0.7023337672801572,
+    "CrCbGaD": 0.04622368870849651
   },
+  "n_trials": 0.0,
   "prediction": 0.000901912825234059,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

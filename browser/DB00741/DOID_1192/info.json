@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.149544863459038,
   "metapath_contribution": {
     "CbGaD": 0.23961241789917279,
     "CbGbCtD": 0.5100821459074423,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22090753429115897,
     "CrCbGaD": 0.0021475961703651104
   },
+  "n_trials": 0.0,
   "prediction": 0.00099092057276869,
   "status": 0,
   "training_prediction": 0.0136754267930688

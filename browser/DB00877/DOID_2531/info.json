@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.892717815344603,
   "metapath_contribution": {
     "CbGaD": 0.19827210177144133,
     "CbGbCtD": 0.18228552681873775,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.4441263394568872,
     "CrCbGaD": 0.0016728714388824458
   },
+  "n_trials": 119.0,
   "prediction": 0.008100646556409229,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

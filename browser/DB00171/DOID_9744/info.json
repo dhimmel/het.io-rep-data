@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.695708712613784,
   "metapath_contribution": {
     "CbGaD": 0.6331511162686198,
     "CbGeAlD": 0.13903480395706372,
-    "CbGpPWpGaD": 0.22139143941859454,
-    "CrCbGaD": 0.0064226403557219565
+    "CbGpPWpGaD": 0.22139143941859457,
+    "CrCbGaD": 0.006422640355721958
   },
+  "n_trials": 0.0,
   "prediction": 0.00179886759227683,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

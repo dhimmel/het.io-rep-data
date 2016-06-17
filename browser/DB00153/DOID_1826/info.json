@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00153",
   "compound_name": "Ergocalciferol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.402470741222367,
   "metapath_contribution": {
     "CbGaD": 0.44123411427220327,
     "CbGbCtD": 0.27146944038128096,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15037701270026052,
     "CrCbGaD": 0.005854926247449679
   },
+  "n_trials": 0.0,
   "prediction": 0.0026529799005685,
   "status": 0,
   "training_prediction": 0.0213477198600611

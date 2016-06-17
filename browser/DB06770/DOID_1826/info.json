@@ -1,18 +1,20 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.717815344603381,
   "metapath_contribution": {
-    "CbGaD": 0.10403548718202067,
-    "CbGbCtD": 0.4074653030642685,
-    "CbGeAlD": 0.0012309968398450605,
+    "CbGaD": 0.10403548718202066,
+    "CbGbCtD": 0.4074653030642684,
+    "CbGeAlD": 0.0012309968398450603,
     "CbGpPWpGaD": 0.04558910959964639,
     "CcSEcCtD": 0.04052842226725911,
-    "CrCbGaD": 0.0023928694916465904,
+    "CrCbGaD": 0.00239286949164659,
     "CrCrCtD": 0.3987578115553137
   },
+  "n_trials": 0.0,
   "prediction": 0.0060130225827440395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

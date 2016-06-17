@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.0735294117647059,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.7222977341282264,
     "CbGdCrCtD": 0.004828860977042407,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.20608603848183726,
     "CrCbGaD": 0.009652352734405664
   },
+  "n_trials": 0.0,
   "prediction": 0.000964974836111675,
   "status": 0,
   "training_prediction": 0.008876285012382471

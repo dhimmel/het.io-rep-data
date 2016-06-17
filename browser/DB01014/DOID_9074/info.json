@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.576723016905072,
   "metapath_contribution": {
     "CbGaD": 0.593969250541382,
     "CbGbCtD": 0.3304927464179856,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.03446120819613166,
     "CrCbGaD": 0.005008695465273345
   },
+  "n_trials": 0.0,
   "prediction": 0.00212074683334123,
   "status": 0,
   "training_prediction": 0.0102480691554542

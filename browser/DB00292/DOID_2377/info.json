@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.522756827048114,
   "metapath_contribution": {
     "CbGbCtD": 0.5281372053757226,
     "CbGeAlD": 0.1418152385110616,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.013812996435570825,
     "CrCbGaD": 0.015452121510198468
   },
+  "n_trials": 0.0,
   "prediction": 0.0019227152746754898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

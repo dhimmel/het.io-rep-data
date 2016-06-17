@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00878",
   "compound_name": "Chlorhexidine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.864109232769831,
   "metapath_contribution": {
     "CbGaD": 0.32697425871597735,
     "CbGbCtD": 0.4867975213484788,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07364987768772213,
     "CcSEcCtD": 0.08489059974172436
   },
+  "n_trials": 0.0,
   "prediction": 0.00677889064635916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

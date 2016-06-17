@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.16291097650702574,
     "CbGbCtD": 0.12223716960265439,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1412398146561726,
     "CrCtD": 0.2666729441633603
   },
+  "n_trials": 0.0,
   "prediction": 0.06761837594735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

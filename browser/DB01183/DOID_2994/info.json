@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
     "CbGbCtD": 0.5929853550209504,
     "CbGeAlD": 0.21427624273472876,
     "CbGpPWpGaD": 0.1321100362796943,
     "CcSEcCtD": 0.060628365964626535
   },
+  "n_trials": 0.0,
   "prediction": 0.00160367265354996,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.136540962288687,
   "metapath_contribution": {
     "CbGbCtD": 0.41127800398856856,
     "CbGeAlD": 0.29534932166162936,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2169996086423816,
     "CrCbGaD": 0.010723670640508928
   },
+  "n_trials": 0.0,
   "prediction": 0.000879141488746223,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

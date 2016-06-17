@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01130",
   "compound_name": "Prednicarbate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.10160106473412353,
     "CbGbCtD": 0.08981925911628932,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.16786510068903698,
     "CrCtD": 0.24666927276492376
   },
+  "n_trials": 0.0,
   "prediction": 0.0211531357853901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

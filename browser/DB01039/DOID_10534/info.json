@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01039",
   "compound_name": "Fenofibrate",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.34330299089726896,
   "metapath_contribution": {
     "CbGbCtD": 0.2657273630179961,
     "CbGeAlD": 0.0718883594824175,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.46529633040723295,
     "CrCbGaD": 0.0114978871270606
   },
+  "n_trials": 0.0,
   "prediction": 0.00120599103102152,
   "status": 0,
   "training_prediction": 0.00265857946794344

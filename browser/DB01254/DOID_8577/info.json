@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.5071756327899839,
     "CbGbCtD": 0.1752656652136529,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.14052544339637701,
     "CcSEcCtD": 0.1117888757126835
   },
+  "n_trials": 0.0,
   "prediction": 0.00765834290219153,
   "status": 0,
   "training_prediction": 0.0257900345670793

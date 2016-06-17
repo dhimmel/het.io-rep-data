@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGaD": 0.8975856528942484,
     "CbGeAlD": 0.055103823427684676,
     "CbGpPWpGaD": 0.04115077673778394,
     "CrCbGaD": 0.00615974694028298
   },
+  "n_trials": 0.0,
   "prediction": 0.00237564323179225,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

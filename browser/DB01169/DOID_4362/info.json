@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGbCtD": 0.21283205504442532,
     "CbGdCrCtD": 0.011792733236425048,
     "CbGeAlD": 0.31294632845006964,
     "CbGpPWpGaD": 0.46242888326908005
   },
+  "n_trials": 1.0,
   "prediction": 0.0031941355461947603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

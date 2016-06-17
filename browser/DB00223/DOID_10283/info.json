@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00223",
   "compound_name": "Diflorasone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGaD": 0.24967931886017952,
     "CbGbCtD": 0.05470134690472543,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.25895384406498023,
     "CrCtD": 0.3934152585631148
   },
+  "n_trials": 0.0,
   "prediction": 0.00317640554973237,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

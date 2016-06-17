@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.332899869960988,
   "metapath_contribution": {
     "CbGaD": 0.7877568194297198,
     "CbGeAlD": 0.04528169199798274,
     "CbGpPWpGaD": 0.15698699633279312,
     "CrCbGaD": 0.00997449223950441
   },
+  "n_trials": 0.0,
   "prediction": 0.00108525582781875,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

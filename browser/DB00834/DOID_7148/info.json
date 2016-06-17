@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.2594173257545263,
     "CbGbCtD": 0.6134365780689305,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.025080277749664332,
     "CcSEcCtD": 0.08712120990492216
   },
+  "n_trials": 0.0,
   "prediction": 0.00607180144068172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

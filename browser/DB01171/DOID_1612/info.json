@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.56111833550065,
   "metapath_contribution": {
     "CbGaD": 0.2342990607028656,
     "CbGbCtD": 0.4485618105360577,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20104509333897458,
     "CrCbGaD": 0.005526830668504343
   },
+  "n_trials": 0.0,
   "prediction": 0.0026821579046483,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

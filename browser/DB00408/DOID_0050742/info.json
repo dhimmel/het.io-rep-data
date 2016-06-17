@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.73146944083225,
   "metapath_contribution": {
     "CbGaD": 0.6406068421179854,
     "CbGeAlD": 0.06546889288727738,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09942667145108643,
     "CrCbGaD": 0.006636242817614011
   },
+  "n_trials": 0.0,
   "prediction": 0.00201277788063088,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

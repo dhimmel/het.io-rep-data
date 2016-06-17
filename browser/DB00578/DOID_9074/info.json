@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.272058823529412,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.0325097529258778,
   "metapath_contribution": {
     "CbGbCtD": 0.4654391568818253,
     "CbGdCrCtD": 0.04581084009787965,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.37226376037041353,
     "CrCbGaD": 0.0031424982476097375
   },
+  "n_trials": 0.0,
   "prediction": 0.000736834783354967,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00232",
   "compound_name": "Methyclothiazide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.539661898569571,
   "metapath_contribution": {
     "CbGaD": 0.8986712817040874,
     "CbGeAlD": 0.011240750233037503,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.010196543145751667,
     "CrCbGaD": 0.008703804956774776
   },
+  "n_trials": 0.0,
   "prediction": 0.0015403703280345699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00310",
   "compound_name": "Chlorthalidone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.26753505307027525,
     "CbGbCtD": 0.2808341034673125,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0015614060451890589,
     "CrCrCtD": 0.2724979738716116
   },
+  "n_trials": 1.0,
   "prediction": 0.00859255557797175,
   "status": 0,
   "training_prediction": 0.0446604133929948

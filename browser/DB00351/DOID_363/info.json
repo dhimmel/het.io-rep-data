@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.10140420452368704,
     "CbGbCtD": 0.11824937601542479,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.14924286520308475,
     "CrCtD": 0.21474575311413543
   },
+  "n_trials": 4.0,
   "prediction": 0.227402071967019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

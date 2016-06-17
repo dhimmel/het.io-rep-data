@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.11833550065019502,
   "metapath_contribution": {
     "CbGaD": 0.7099119242176902,
     "CbGeAlD": 0.062085016099473776,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05693420323982771,
     "CrCbGaD": 0.006700341190041984
   },
+  "n_trials": 0.0,
   "prediction": 0.000774729869021487,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.13784135240572198,
   "metapath_contribution": {
     "CbGbCtD": 0.6999646409144622,
     "CbGdCrCtD": 0.0030086036374151366,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0700452523168218,
     "CrCbGaD": 0.0012673775215334756
   },
+  "n_trials": 0.0,
   "prediction": 0.00095747820741685,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

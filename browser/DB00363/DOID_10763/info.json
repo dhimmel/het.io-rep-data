@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.654746423927178,
   "metapath_contribution": {
     "CbGaD": 0.30951996975869833,
     "CbGbCtD": 0.3671605082216195,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0028190283612651973,
     "CrCrCtD": 0.18313981123131892
   },
+  "n_trials": 0.0,
   "prediction": 0.0057995687809395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

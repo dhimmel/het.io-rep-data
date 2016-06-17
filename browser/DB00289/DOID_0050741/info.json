@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGaD": 0.4411109435867782,
     "CbGbCtD": 0.313728066762556,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12095233110539422,
     "CrCbGaD": 0.0037544331719576536
   },
+  "n_trials": 0.0,
   "prediction": 0.005420307519250729,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

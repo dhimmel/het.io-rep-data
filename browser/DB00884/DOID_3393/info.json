@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00884",
   "compound_name": "Risedronate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.46228868660598205,
   "metapath_contribution": {
     "CbGaD": 0.4126338658727917,
     "CbGbCtD": 0.08374150217478094,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.38265344289232556,
     "CrCbGaD": 0.0051243362398343045
   },
+  "n_trials": 0.0,
   "prediction": 0.00220602370163458,
   "status": 0,
   "training_prediction": 0.0195154383283486

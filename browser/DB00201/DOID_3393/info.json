@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.28807203355112115,
     "CbGbCtD": 0.2759353336227112,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.24221818887737984,
     "CrCbGaD": 0.003176113356809757
   },
+  "n_trials": 4.0,
   "prediction": 0.00794245818353416,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

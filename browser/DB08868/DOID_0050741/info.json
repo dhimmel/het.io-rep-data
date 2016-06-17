@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08868",
   "compound_name": "Fingolimod",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.3735803643525023,
     "CbGbCtD": 0.29152809434380617,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.16392529962548028,
     "CcSEcCtD": 0.08311741536271565
   },
+  "n_trials": 0.0,
   "prediction": 0.0067729220300205,
   "status": 0,
   "training_prediction": 0.008211645836515359

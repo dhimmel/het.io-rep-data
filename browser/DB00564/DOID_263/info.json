@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.3608582574772429,
   "metapath_contribution": {
     "CbGaD": 0.10619524861137242,
     "CbGbCtD": 0.6358330402406182,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17202288123865725,
     "CrCbGaD": 0.003134712937047663
   },
+  "n_trials": 0.0,
   "prediction": 0.0013915360565721,
   "status": 0,
   "training_prediction": 0.0040510508198087795

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00508",
   "compound_name": "Triflupromazine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.34460338101430393,
   "metapath_contribution": {
     "CbGaD": 0.8682091525075092,
     "CbGeAlD": 0.03774751048061499,
     "CbGpPWpGaD": 0.08503903327141858,
     "CrCbGaD": 0.009004303740457256
   },
+  "n_trials": 0.0,
   "prediction": 0.00126146969426225,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.376462938881664,
   "metapath_contribution": {
     "CbGaD": 0.7534096906799348,
     "CbGeAlD": 0.04975088227643376,
     "CbGpPWpGaD": 0.18725410224066086,
     "CrCbGaD": 0.00958532480297059
   },
+  "n_trials": 1.0,
   "prediction": 0.0013229981024064199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

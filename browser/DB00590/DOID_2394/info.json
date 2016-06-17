@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.7210663198959691,
   "metapath_contribution": {
     "CbGaD": 0.43284701500066763,
     "CbGbCtD": 0.17375103660332142,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.34927098195665596,
     "CrCbGaD": 0.0017527142389968879
   },
+  "n_trials": 0.0,
   "prediction": 0.00206804955444109,
   "status": 0,
   "training_prediction": 0.00492477601012375

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.44538361508452506,
   "metapath_contribution": {
     "CbGaD": 0.47350132479445356,
     "CbGbCtD": 0.43729025287955103,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06594726130421256,
     "CrCbGaD": 0.006018649114779196
   },
+  "n_trials": 0.0,
   "prediction": 0.00168904589819114,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.41162741698003646,
     "CbGbCtD": 0.38101130119497206,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09246027342254333,
     "CcSEcCtD": 0.09012138028225472
   },
+  "n_trials": 0.0,
   "prediction": 0.0077796968054854206,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

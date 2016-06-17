@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00146",
   "compound_name": "Calcidiol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.961163893846441,
     "CbGeAlD": 0.016426617237611203,
     "CbGpPWpGaD": 0.012113248551955185,
     "CrCbGaD": 0.010296240363992702
   },
+  "n_trials": 0.0,
   "prediction": 0.00267732497271098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

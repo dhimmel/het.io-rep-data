@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00132",
   "compound_name": "Alpha-Linolenic Acid",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.314044213263979,
   "metapath_contribution": {
     "CbGeAlD": 0.3904670717997795,
     "CbGpPWpGaD": 0.4804144524026879,
     "CcSEcCtD": 0.08794685711559526,
     "CrCbGaD": 0.041171618681937326
   },
+  "n_trials": 0.0,
   "prediction": 0.00119601153880411,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

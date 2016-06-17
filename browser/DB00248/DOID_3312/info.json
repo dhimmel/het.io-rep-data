@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.7795158925580497,
     "CbGeAlD": 0.0637125525378237,
     "CbGpPWpGaD": 0.14983969967342525,
     "CrCbGaD": 0.006931855230701424
   },
+  "n_trials": 0.0,
   "prediction": 0.00462372583790918,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

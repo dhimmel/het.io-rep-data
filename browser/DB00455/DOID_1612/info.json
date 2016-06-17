@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00455",
   "compound_name": "Loratadine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.795838751625488,
   "metapath_contribution": {
     "CbGaD": 0.320321063986968,
     "CbGbCtD": 0.4663806065531789,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14669783769393233,
     "CrCbGaD": 0.0023734440256139794
   },
+  "n_trials": 1.0,
   "prediction": 0.0046344242827498295,
   "status": 0,
   "training_prediction": 0.0555590043515561

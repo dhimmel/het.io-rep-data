@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.10923276983094901,
   "metapath_contribution": {
-    "CbGeAlD": 0.28446910166904593,
-    "CbGpPWpGaD": 0.6604048390112268,
-    "CrCbGaD": 0.05512605931972716
+    "CbGeAlD": 0.284469101669046,
+    "CbGpPWpGaD": 0.6604048390112269,
+    "CrCbGaD": 0.055126059319727166
   },
+  "n_trials": 0.0,
   "prediction": 0.0009757178181917961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

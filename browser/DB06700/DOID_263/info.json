@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGbCtD": 0.09672695668503574,
     "CcSEcCtD": 0.07886725770397988,
     "CiPCiCtD": 0.823393088729836,
     "CrCbGaD": 0.0010126968811483992
   },
+  "n_trials": 0.0,
   "prediction": 0.0065575446974407,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

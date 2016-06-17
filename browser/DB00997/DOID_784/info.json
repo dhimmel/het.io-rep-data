@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.19115734720416103,
   "metapath_contribution": {
-    "CbGaD": 0.7268267858153566,
-    "CbGeAlD": 0.10864729650967428,
-    "CbGpPWpGaD": 0.16112199406184696,
-    "CrCbGaD": 0.0034039236131220203
+    "CbGaD": 0.7268267858153568,
+    "CbGeAlD": 0.10864729650967431,
+    "CbGpPWpGaD": 0.16112199406184702,
+    "CrCbGaD": 0.003403923613122021
   },
+  "n_trials": 0.0,
   "prediction": 0.000993617499078764,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

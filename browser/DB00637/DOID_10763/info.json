@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00637",
   "compound_name": "Astemizole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6859557867360211,
   "metapath_contribution": {
     "CbGaD": 0.34806708664696073,
     "CbGbCtD": 0.39036930249944796,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0026036397296768754,
     "CrCrCtD": 0.18231412320673884
   },
+  "n_trials": 0.0,
   "prediction": 0.0066430426573924894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

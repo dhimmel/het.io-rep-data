@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.19915822915634054,
     "CbGbCtD": 0.36897983744239166,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0025489791467066566,
     "CrCrCtD": 0.30713201123152
   },
+  "n_trials": 0.0,
   "prediction": 0.0065463725839153206,
   "status": 0,
   "training_prediction": 0.019707874614438

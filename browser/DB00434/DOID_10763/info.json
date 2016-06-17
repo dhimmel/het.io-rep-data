@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00434",
   "compound_name": "Cyproheptadine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.639791937581274,
   "metapath_contribution": {
     "CbGaD": 0.3268700256396748,
     "CbGbCtD": 0.31351902783713725,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.003022689013629198,
     "CrCrCtD": 0.11402803456869093
   },
+  "n_trials": 0.0,
   "prediction": 0.005518413015869,
   "status": 0,
   "training_prediction": 0.0622446887945116

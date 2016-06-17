@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.4351212762277228,
     "CbGeAlD": 0.04275433008996816,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0037848254297802968,
     "CtDrD": 0.4716858416728701
   },
+  "n_trials": 0.0,
   "prediction": 0.00623863290049296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

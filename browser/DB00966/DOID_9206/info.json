@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.4769552257378556,
     "CbGbCtD": 0.33459537090514135,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.01966471322669782,
     "CcSEcCtD": 0.15346871466002016
   },
+  "n_trials": 0.0,
   "prediction": 0.00520481230771944,
   "status": 0,
   "training_prediction": 0.00638337061573784

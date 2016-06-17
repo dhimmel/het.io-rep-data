@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.788036410923277,
   "metapath_contribution": {
     "CbGaD": 0.11798471103786279,
     "CbGbCtD": 0.18502762693052047,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.22648825673267547,
     "CrCtD": 0.3449506649957971
   },
+  "n_trials": 15.0,
   "prediction": 0.0045779926151831105,
   "status": 0,
   "training_prediction": 0.189748024793363

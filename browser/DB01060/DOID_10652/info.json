@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.15864759427828304,
   "metapath_contribution": {
     "CbGbCtD": 0.3522431651157419,
     "CbGeAlD": 0.07102558476195818,
     "CcSEcCtD": 0.5766301824444341,
     "CrCbGaD": 0.00010106767786579079
   },
+  "n_trials": 0.0,
   "prediction": 0.000935596804075817,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

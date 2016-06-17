@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGbCtD": 0.1840052114483267,
     "CcSEcCtD": 0.034238510105983666,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.17541456796380392,
     "CrCtD": 0.23856105076112122
   },
+  "n_trials": 0.0,
   "prediction": 0.0547119834582331,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

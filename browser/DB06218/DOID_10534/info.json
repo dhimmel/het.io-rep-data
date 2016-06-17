@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06218",
   "compound_name": "Lacosamide",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.25032509752925897,
   "metapath_contribution": {
     "CbGaD": 0.7164543950912434,
     "CbGeAlD": 0.03543997317568767,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12187159690553262,
     "CrCbGaD": 0.003010099304343311
   },
+  "n_trials": 0.0,
   "prediction": 0.00101711773966346,
   "status": 0,
   "training_prediction": 0.00224272346582722

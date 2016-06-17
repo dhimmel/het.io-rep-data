@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.38285925849242286,
     "CbGbCtD": 0.3496742454715016,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10529911343250184,
     "CcSEcCtD": 0.11199028014670677
   },
+  "n_trials": 2.0,
   "prediction": 0.00662643044969876,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

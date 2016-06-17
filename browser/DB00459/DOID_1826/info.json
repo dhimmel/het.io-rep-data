@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0825747724317295,
   "metapath_contribution": {
     "CbGaD": 0.1462104915448985,
     "CbGbCtD": 0.36450077861149877,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11760384934675135,
     "CcSEcCtD": 0.3011423877154328
   },
+  "n_trials": 0.0,
   "prediction": 0.00111235653784357,
   "status": 0,
   "training_prediction": 0.00543771638445365

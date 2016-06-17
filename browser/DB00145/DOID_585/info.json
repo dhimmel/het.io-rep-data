@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00145",
   "compound_name": "Glycine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.7279365167495315,
     "CbGeAlD": 0.08797038090321715,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0132260205436114,
     "CrCbGaD": 0.00549498358162314
   },
+  "n_trials": 0.0,
   "prediction": 0.0041818895979912896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

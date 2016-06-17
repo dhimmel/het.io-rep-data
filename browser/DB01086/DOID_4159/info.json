@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.784135240572172,
   "metapath_contribution": {
     "CbGaD": 0.8544418017668749,
     "CbGbCtD": 0.01286218661983776,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.02390035727164908,
     "CrCbGaD": 0.004119309737512852
   },
+  "n_trials": 0.0,
   "prediction": 0.00249510428199458,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

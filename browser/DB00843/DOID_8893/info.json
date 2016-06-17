@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.659297789336801,
   "metapath_contribution": {
     "CbGbCtD": 0.49635161491205265,
     "CbGdCrCtD": 0.0018664733809515544,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.48402027688331134,
     "CrCbGaD": 0.0034923676365360462
   },
+  "n_trials": 0.0,
   "prediction": 0.0023194513101247698,
   "status": 0,
   "training_prediction": 0.009801829910708229

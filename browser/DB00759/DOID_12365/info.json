@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGbCtD": 0.12320002639246343,
     "CbGeAlD": 0.008730535088044807,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.19692158755694553,
     "CrCtD": 0.2861253195810694
   },
+  "n_trials": 0.0,
   "prediction": 0.113718888850411,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

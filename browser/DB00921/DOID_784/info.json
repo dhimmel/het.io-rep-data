@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.767230169050715,
   "metapath_contribution": {
     "CbGaD": 0.7787447084503455,
     "CbGeAlD": 0.04635533723471856,
     "CbGpPWpGaD": 0.1728126831223701,
     "CrCbGaD": 0.002087271192565843
   },
+  "n_trials": 0.0,
   "prediction": 0.00225270278719153,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

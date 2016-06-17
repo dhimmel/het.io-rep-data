@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.955675917810368,
     "CbGeAlD": 0.01886715767792732,
     "CbGpPWpGaD": 0.01120134119068201,
     "CrCbGaD": 0.014255583321022803
   },
+  "n_trials": 0.0,
   "prediction": 0.00167038991814626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

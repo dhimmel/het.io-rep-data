@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.14889466840051999,
   "metapath_contribution": {
     "CbGbCtD": 0.3904778585438447,
     "CbGeAlD": 0.05137339687723334,
     "CcSEcCtD": 0.5498190372601163,
     "CrCbGaD": 0.008329707318805809
   },
+  "n_trials": 0.0,
   "prediction": 0.000911800263151575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

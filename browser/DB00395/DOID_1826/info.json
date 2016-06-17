@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00395",
   "compound_name": "Carisoprodol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.756827048114434,
   "metapath_contribution": {
     "CbGaD": 0.3546949286474433,
     "CbGbCtD": 0.4890698093127201,
     "CcSEcCtD": 0.15023302619849635,
     "CrCbGaD": 0.006002235841340274
   },
+  "n_trials": 0.0,
   "prediction": 0.00690283221180076,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

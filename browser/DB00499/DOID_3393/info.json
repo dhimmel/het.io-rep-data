@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00499",
   "compound_name": "Flutamide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.19938862724409176,
     "CbGbCtD": 0.538393312326047,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16719586710840476,
     "CrCbGaD": 0.0006848446754293402
   },
+  "n_trials": 0.0,
   "prediction": 0.0051057862117821,
   "status": 0,
   "training_prediction": 0.0269353248916361

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01021",
   "compound_name": "Trichlormethiazide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.8296488946684009,
   "metapath_contribution": {
     "CbGaD": 0.5422398996016496,
     "CbGbCtD": 0.37572043438357555,
     "CbGpPWpGaD": 0.0755144913976481,
     "CrCbGaD": 0.006525174617126717
   },
+  "n_trials": 0.0,
   "prediction": 0.00315281519680106,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00621",
   "compound_name": "Oxandrolone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.1781845437552475,
     "CbGbCtD": 0.15492857507300012,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2163506489822366,
     "CrCtD": 0.3525739096321809
   },
+  "n_trials": 0.0,
   "prediction": 0.0141243804260708,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

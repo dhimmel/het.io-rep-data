@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.27953401986378623,
     "CbGbCtD": 0.25938736833130693,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.0017932453324427742,
     "CrCrCtD": 0.15190103504885302
   },
+  "n_trials": 0.0,
   "prediction": 0.0139168564906423,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

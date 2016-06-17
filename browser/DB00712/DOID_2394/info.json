@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.327698309492848,
   "metapath_contribution": {
-    "CbGbCtD": 0.0906151456318139,
-    "CbGeAlD": 0.014493779674928552,
-    "CbGpPWpGaD": 0.03780532218887898,
-    "CcSEcCtD": 0.2213726721407319,
-    "CrCbGaD": 0.0011910306350416317,
-    "CrCrCtD": 0.6345220497286049
+    "CbGbCtD": 0.09061514563181391,
+    "CbGeAlD": 0.014493779674928556,
+    "CbGpPWpGaD": 0.037805322188878984,
+    "CcSEcCtD": 0.22137267214073195,
+    "CrCbGaD": 0.001191030635041632,
+    "CrCrCtD": 0.634522049728605
   },
+  "n_trials": 0.0,
   "prediction": 0.0011558972800283199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

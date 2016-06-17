@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.22669153616276,
     "CbGbCtD": 0.49312026556568284,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.0947163767654076,
     "CcSEcCtD": 0.09633441937996882
   },
+  "n_trials": 0.0,
   "prediction": 0.0045317357549479395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

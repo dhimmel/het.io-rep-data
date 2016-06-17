@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.07022842363407038,
     "CbGbCtD": 0.17177109229615306,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.176694744703941,
     "CrCtD": 0.25081402400144337
   },
+  "n_trials": 0.0,
   "prediction": 0.11463869816855099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

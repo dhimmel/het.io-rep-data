@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00953",
   "compound_name": "Rizatriptan",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.56371911573472,
   "metapath_contribution": {
     "CbGaD": 0.30552619028525324,
     "CbGbCtD": 0.39017882205173976,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20668075752323253,
     "CrCbGaD": 0.005695679293544412
   },
+  "n_trials": 0.0,
   "prediction": 0.00278983170454247,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

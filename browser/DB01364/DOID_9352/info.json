@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.419375812743823,
   "metapath_contribution": {
     "CbGbCtD": 0.20617062286366739,
     "CbGeAlD": 0.00847633724729375,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.005839139105115895,
     "CrCrCtD": 0.504555315420834
   },
+  "n_trials": 0.0,
   "prediction": 0.00218248468995428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

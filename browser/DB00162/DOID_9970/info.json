@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.16319895968790601,
   "metapath_contribution": {
     "CbGaD": 0.6409825429153394,
     "CbGeAlD": 0.13205783677854382,
     "CbGpPWpGaD": 0.22695962030611674
   },
+  "n_trials": 1.0,
   "prediction": 0.00122688172146228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

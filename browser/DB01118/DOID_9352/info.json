@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.522756827048114,
   "metapath_contribution": {
     "CbGaD": 0.22551912636822347,
     "CbGbCtD": 0.4960434785143064,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1677923918803572,
     "CrCbGaD": 0.002056317023058299
   },
+  "n_trials": 0.0,
   "prediction": 0.00258948207224474,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01056",
   "compound_name": "Tocainide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.6242655238617891,
     "CbGbCtD": 0.30692991420910337,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.049076308982800666,
     "CrCbGaD": 0.00711527494959672
   },
+  "n_trials": 0.0,
   "prediction": 0.0036294399255067797,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

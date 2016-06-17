@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.1557474011133025,
     "CbGbCtD": 0.2228954845238618,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19811832081290606,
     "CrCtD": 0.26729182306094984
   },
+  "n_trials": 0.0,
   "prediction": 0.0119148957557392,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

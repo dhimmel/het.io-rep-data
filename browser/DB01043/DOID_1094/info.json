@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01043",
   "compound_name": "Memantine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.7696784494263961,
     "CbGeAlD": 0.08061141208207567,
     "CbGpPWpGaD": 0.14971013849152823
   },
+  "n_trials": 3.0,
   "prediction": 0.00371595345375465,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

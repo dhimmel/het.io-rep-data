@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.314044213263979,
   "metapath_contribution": {
     "CbGbCtD": 0.2986544961100273,
     "CbGeAlD": 0.023640033371239117,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5036031882050769,
     "CrCbGaD": 0.00023200870739065828
   },
+  "n_trials": 0.0,
   "prediction": 0.00124347778834586,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

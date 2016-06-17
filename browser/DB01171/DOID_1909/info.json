@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.570871261378413,
   "metapath_contribution": {
     "CbGbCtD": 0.7270797950008203,
     "CbGpPWpGaD": 0.09819733075575841,
     "CcSEcCtD": 0.16334245432759978,
     "CrCbGaD": 0.011380419915821517
   },
+  "n_trials": 0.0,
   "prediction": 0.00160466299156808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

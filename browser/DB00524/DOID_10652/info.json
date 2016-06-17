@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00524",
   "compound_name": "Metolazone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.716514954486346,
   "metapath_contribution": {
     "CbGaD": 0.7379292565307094,
     "CbGeAlD": 0.0029385697808552605,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1802150403807423,
     "CrCbGaD": 0.006784284261150257
   },
+  "n_trials": 0.0,
   "prediction": 0.00261718192529566,
   "status": 0,
   "training_prediction": 0.0031759540951276396

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.27568270481144297,
   "metapath_contribution": {
     "CbGbCtD": 0.4833699052629643,
     "CbGeAlD": 0.1132598368862122,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2529260883488566,
     "CrCbGaD": 0.007276801404965487
   },
+  "n_trials": 0.0,
   "prediction": 0.00150618619824786,
   "status": 0,
   "training_prediction": 0.0030455168175400602

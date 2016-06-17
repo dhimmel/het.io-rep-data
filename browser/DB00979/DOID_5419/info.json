@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00979",
   "compound_name": "Cyclopentolate",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.791287386215865,
   "metapath_contribution": {
     "CbGaD": 0.8684052151067241,
     "CbGeAlD": 0.009574165723562431,
     "CbGpPWpGaD": 0.11067214662032375,
     "CrCbGaD": 0.011348472549389596
   },
+  "n_trials": 0.0,
   "prediction": 0.0023093222780199802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

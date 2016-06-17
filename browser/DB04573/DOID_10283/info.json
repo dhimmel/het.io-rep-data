@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.13890920327393172,
     "CbGbCtD": 0.20524135840976537,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2265400504523202,
     "CrCtD": 0.3428876836663233
   },
+  "n_trials": 0.0,
   "prediction": 0.0759090923573664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

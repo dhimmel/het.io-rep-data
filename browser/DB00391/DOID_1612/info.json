@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00391",
   "compound_name": "Sulpiride",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.301690507152146,
   "metapath_contribution": {
     "CbGaD": 0.8883279611840033,
     "CbGeAlD": 0.00635680747008204,
     "CbGpPWpGaD": 0.10014663699461734,
     "CrCbGaD": 0.005168594351297422
   },
+  "n_trials": 0.0,
   "prediction": 0.00163597540077005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

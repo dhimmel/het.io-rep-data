@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.1882873147644285,
     "CbGbCtD": 0.42007491663138863,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.19587674226771642,
     "CrCbGaD": 0.00393705033648431
   },
+  "n_trials": 0.0,
   "prediction": 0.0029327970734088,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

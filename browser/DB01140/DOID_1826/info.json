@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01140",
   "compound_name": "Cefadroxil",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.132639791937581,
   "metapath_contribution": {
     "CbGbCtD": 0.46600466908651256,
     "CbGpPWpGaD": 0.10616566727163868,
     "CcSEcCtD": 0.42568150407109095,
     "CrCbGaD": 0.0021481595707578726
   },
+  "n_trials": 0.0,
   "prediction": 0.00139448595200502,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

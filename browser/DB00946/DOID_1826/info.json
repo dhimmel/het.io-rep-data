@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00946",
   "compound_name": "Phenprocoumon",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGaD": 0.058153246244530186,
     "CbGbCtD": 0.24869123371331078,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.290161357808688,
     "CrCtD": 0.38676527120808324
   },
+  "n_trials": 0.0,
   "prediction": 0.0126108076429512,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

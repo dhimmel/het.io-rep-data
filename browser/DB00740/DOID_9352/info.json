@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00740",
   "compound_name": "Riluzole",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.38044873357388137,
     "CbGbCtD": 0.20776772392908655,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09700388915370887,
     "CcSEcCtD": 0.2778162310258899
   },
+  "n_trials": 0.0,
   "prediction": 0.0046946272720109,
   "status": 0,
   "training_prediction": 0.0204327699560939

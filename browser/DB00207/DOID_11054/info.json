@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00207",
   "compound_name": "Azithromycin",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.46684005201560497,
   "metapath_contribution": {
     "CbGbCtD": 0.6365656020037025,
     "CbGeAlD": 0.00723861138383908,
     "CbGpPWpGaD": 0.06647963728529456,
     "CcSEcCtD": 0.2897161493271639
   },
+  "n_trials": 0.0,
   "prediction": 0.00146505307362687,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.5988296488946679,
   "metapath_contribution": {
     "CbGaD": 0.8025112480639559,
     "CbGbCtD": 0.0777998518928959,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09246680541539015,
     "CrCbGaD": 0.0033969663651685017
   },
+  "n_trials": 0.0,
   "prediction": 0.00181064014588174,
   "status": 0,
   "training_prediction": 0.0025833226557176

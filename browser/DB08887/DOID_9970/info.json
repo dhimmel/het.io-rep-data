@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08887",
   "compound_name": "Icosapent ethyl",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.782184655396619,
   "metapath_contribution": {
     "CbGaD": 0.7085498629994449,
     "CbGeAlD": 0.04994943021628487,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10667321852908375,
     "CrCbGaD": 0.005112717605765858
   },
+  "n_trials": 0.0,
   "prediction": 0.00497475952381075,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

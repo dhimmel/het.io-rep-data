@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00136",
   "compound_name": "Calcitriol",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.284135240572172,
   "metapath_contribution": {
     "CbGbCtD": 0.3161160554097027,
     "CbGeAlD": 0.0858173175027405,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2846827414842615,
     "CrCbGaD": 0.017227829102308457
   },
+  "n_trials": 0.0,
   "prediction": 0.00132248197642533,
   "status": 0,
   "training_prediction": 0.0035905246524578897

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGaD": 0.7149002950042121,
     "CbGeAlD": 0.026257215794913375,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14708683023620475,
     "CrCbGaD": 0.008331832721548148
   },
+  "n_trials": 0.0,
   "prediction": 0.00229233160434791,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

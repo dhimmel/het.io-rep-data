@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06729",
   "compound_name": "Sulfaphenazole",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.49024707412223706,
   "metapath_contribution": {
     "CbGaD": 0.35844905268688504,
     "CbGbCtD": 0.5154034316436673,
     "CbGpPWpGaD": 0.12085827760989634,
     "CrCbGaD": 0.005289238059551343
   },
+  "n_trials": 0.0,
   "prediction": 0.0022582178855262603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

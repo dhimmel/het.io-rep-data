@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.4361718440452139,
     "CbGbCtD": 0.007355615871771053,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.37977042710828407,
     "CrCbGaD": 0.0016690683947744552
   },
+  "n_trials": 0.0,
   "prediction": 0.00390763717834591,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

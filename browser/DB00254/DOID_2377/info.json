@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.45383615084525397,
   "metapath_contribution": {
     "CbGbCtD": 0.6764847007420842,
     "CbGeAlD": 0.08946003601371894,
     "CbGpPWpGaD": 0.21673140361060328,
     "CrCbGaD": 0.017323859633593477
   },
+  "n_trials": 1.0,
   "prediction": 0.0017465890670375801,
   "status": 0,
   "training_prediction": 0.00447473813334581

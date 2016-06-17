@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.3140416499188394,
     "CbGbCtD": 0.14268574361196326,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.32877881826975486,
     "CrCbGaD": 0.003070541454679096
   },
+  "n_trials": 0.0,
   "prediction": 0.0032923851111570103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

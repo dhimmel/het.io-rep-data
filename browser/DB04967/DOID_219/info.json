@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04967",
   "compound_name": "Lucanthone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.5291450267376809,
     "CbGbCtD": 0.35310664445778095,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.08867323643635201,
     "CrCbGaD": 0.00010532627755014015
   },
+  "n_trials": 0.0,
   "prediction": 0.00612780997713803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

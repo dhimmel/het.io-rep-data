@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.7594278283485051,
   "metapath_contribution": {
     "CbGaD": 0.8052156831738541,
     "CbGeAlD": 0.07955855195356373,
     "CbGpPWpGaD": 0.10840011883261216,
     "CrCbGaD": 0.006825646039970044
   },
+  "n_trials": 0.0,
   "prediction": 0.00203358534265094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

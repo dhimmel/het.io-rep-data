@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.6371701757759561,
     "CbGbCtD": 0.18398663043694283,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.005528521322790616,
     "CcSEcCtD": 0.06487250621979272
   },
+  "n_trials": 0.0,
   "prediction": 0.0042253512284989,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.5632615593647087,
     "CbGbCtD": 0.13924568046263847,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1125319005964413,
     "CrCbGaD": 0.0009427006272356009
   },
+  "n_trials": 0.0,
   "prediction": 0.00479542562884359,
   "status": 0,
   "training_prediction": 0.0131047004873746

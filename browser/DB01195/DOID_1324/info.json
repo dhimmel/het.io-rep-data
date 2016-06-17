@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01195",
   "compound_name": "Flecainide",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.638491547464239,
   "metapath_contribution": {
     "CbGbCtD": 0.47505597557969337,
     "CbGpPWpGaD": 0.10437299977975824,
     "CcSEcCtD": 0.41826079059588833,
     "CrCbGaD": 0.0023102340446599988
   },
+  "n_trials": 0.0,
   "prediction": 0.00229906579561777,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

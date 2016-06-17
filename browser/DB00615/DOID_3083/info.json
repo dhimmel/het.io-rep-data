@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00615",
   "compound_name": "Rifabutin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.5284690345577009,
     "CbGbCtD": 0.23414828501881946,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09457173802695039,
     "CrCbGaD": 0.0007151971789421113
   },
+  "n_trials": 0.0,
   "prediction": 0.0040142296096382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

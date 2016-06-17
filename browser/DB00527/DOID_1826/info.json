@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.36866059817945396,
   "metapath_contribution": {
     "CbGaD": 0.2539436947662518,
     "CbGbCtD": 0.567340823837133,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12829537293167043,
     "CrCbGaD": 0.006096554914684979
   },
+  "n_trials": 0.0,
   "prediction": 0.00247534885513947,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

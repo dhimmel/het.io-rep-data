@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.0630689206762029,
   "metapath_contribution": {
     "CbGbCtD": 0.5909740315634907,
     "CbGeAlD": 0.0926989450845528,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1937251662551622,
     "CrCbGaD": 0.004260367000853742
   },
+  "n_trials": 0.0,
   "prediction": 0.000801339014888963,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.48053467807854267,
     "CbGbCtD": 0.24377864164519972,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1763960039457184,
     "CrCbGaD": 0.0016960495706269414
   },
+  "n_trials": 0.0,
   "prediction": 0.0038904421938529103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

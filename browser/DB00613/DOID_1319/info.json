@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.769180754226268,
   "metapath_contribution": {
     "CbGaD": 0.4956263198804033,
     "CbGbCtD": 0.4659342972428481,
     "CbGeAlD": 0.008390468916741094,
     "CbGpPWpGaD": 0.030048913960007504
   },
+  "n_trials": 0.0,
   "prediction": 0.00230488214371945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

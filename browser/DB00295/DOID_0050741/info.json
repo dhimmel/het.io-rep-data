@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.20956424387324807,
     "CbGbCtD": 0.17288375471372955,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19524966038513417,
     "CrCtD": 0.32689723789998326
   },
+  "n_trials": 0.0,
   "prediction": 0.072245195795362,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

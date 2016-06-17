@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.04681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.30154086352082116,
     "CbGbCtD": 0.40667344431314456,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19412361767507277,
     "CrCbGaD": 0.004407680014701116
   },
+  "n_trials": 0.0,
   "prediction": 0.000666591344236653,
   "status": 0,
   "training_prediction": 0.0166362248319387

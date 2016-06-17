@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGbCtD": 0.26486229083975926,
     "CbGdCrCtD": 0.0003363387612115769,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0845643818249232,
     "CiPCiCtD": 0.6129943811744031
   },
+  "n_trials": 0.0,
   "prediction": 0.004960804178352721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

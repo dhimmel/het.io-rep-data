@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.520806241872562,
   "metapath_contribution": {
     "CbGaD": 0.5645632216003914,
     "CbGbCtD": 0.2560014371037183,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12295262636208522,
     "CrCbGaD": 0.0020598458546510242
   },
+  "n_trials": 0.0,
   "prediction": 0.0019807830905144604,
   "status": 0,
   "training_prediction": 0.00575997569323674

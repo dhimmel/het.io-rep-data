@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.376462938881664,
   "metapath_contribution": {
     "CbGaD": 0.719525700154104,
     "CbGeAlD": 0.04834786556886743,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10586586244885937,
     "CrCbGaD": 0.004585189586650103
   },
+  "n_trials": 0.0,
   "prediction": 0.00127408898970295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

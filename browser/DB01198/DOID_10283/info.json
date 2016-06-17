@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01198",
   "compound_name": "Zopiclone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.737971391417425,
   "metapath_contribution": {
     "CbGaD": 0.2627788198548739,
     "CbGbCtD": 0.42115729345557806,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20601392740590851,
     "CrCbGaD": 0.000523551646625248
   },
+  "n_trials": 0.0,
   "prediction": 0.00394387445050719,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

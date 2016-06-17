@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.2559982277605579,
     "CbGbCtD": 0.23230577834901592,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0023618255476664934,
     "CrCrCtD": 0.1537751125496056
   },
+  "n_trials": 0.0,
   "prediction": 0.0136951060218526,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

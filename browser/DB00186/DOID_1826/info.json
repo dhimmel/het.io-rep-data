@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00186",
   "compound_name": "Lorazepam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.11025132347482655,
     "CbGbCtD": 0.12773848187640452,
@@ -15,7 +17,7 @@
     "CrCrCtD": 0.13681196636676593,
     "CrCtD": 0.18176250947227449
   },
+  "n_trials": 11.0,
   "prediction": 0.488540276627104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

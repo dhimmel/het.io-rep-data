@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05013",
   "compound_name": "Ingenol Mebutate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7451235370611179,
   "metapath_contribution": {
     "CbGaD": 0.7057451739453173,
     "CbGeAlD": 0.049351529514300246,
     "CbGpPWpGaD": 0.16944260158973515,
     "CcSEcCtD": 0.07546069495064726
   },
+  "n_trials": 0.0,
   "prediction": 0.00805535212121994,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

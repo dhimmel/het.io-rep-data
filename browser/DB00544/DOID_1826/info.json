@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGaD": 0.21437355097803965,
     "CbGbCtD": 0.43341815847318726,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.12817162826564607,
     "CcSEcCtD": 0.178681303008947
   },
+  "n_trials": 0.0,
   "prediction": 0.00436383144040101,
   "status": 0,
   "training_prediction": 0.0887748180906155

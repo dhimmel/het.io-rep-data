@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.7857039618690242,
     "CbGeAlD": 0.07078764438547992,
     "CbGpPWpGaD": 0.13887011965352283,
     "CrCbGaD": 0.004638274091972895
   },
+  "n_trials": 0.0,
   "prediction": 0.00376261391386711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

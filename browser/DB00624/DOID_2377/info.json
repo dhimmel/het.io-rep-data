@@ -1,20 +1,22 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
-    "CbGaD": 0.040323370620392096,
-    "CbGbCtD": 0.19069782134858682,
-    "CbGeAlD": 0.003913272148533364,
-    "CbGpPWpGaD": 0.025619743084366296,
-    "CcSEcCtD": 0.049800129299256916,
-    "CpDpCtD": 0.23034648787296808,
-    "CrCbGaD": 0.001712844018453847,
-    "CrCrCtD": 0.2193482857193177,
-    "CrCtD": 0.238238045888125
+    "CbGaD": 0.04032337062039208,
+    "CbGbCtD": 0.19069782134858676,
+    "CbGeAlD": 0.003913272148533363,
+    "CbGpPWpGaD": 0.02561974308436629,
+    "CcSEcCtD": 0.0498001292992569,
+    "CpDpCtD": 0.23034648787296802,
+    "CrCbGaD": 0.0017128440184538463,
+    "CrCrCtD": 0.21934828571931764,
+    "CrCtD": 0.23823804588812492
   },
+  "n_trials": 3.0,
   "prediction": 0.0090505760055231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

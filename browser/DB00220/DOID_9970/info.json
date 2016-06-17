@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7340702210663199,
   "metapath_contribution": {
     "CbGaD": 0.29063392261576104,
     "CbGbCtD": 0.4799399514467403,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1309515604504452,
     "CrCbGaD": 0.002503793283495254
   },
+  "n_trials": 0.0,
   "prediction": 0.00419205477303425,
   "status": 0,
   "training_prediction": 0.0106990494152657

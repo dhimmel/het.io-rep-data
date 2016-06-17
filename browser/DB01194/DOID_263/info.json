@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01194",
   "compound_name": "Brinzolamide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.6155049635806569,
     "CbGbCtD": 0.08054468024976807,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16683106933882338,
     "CrCbGaD": 0.005481596550807529
   },
+  "n_trials": 0.0,
   "prediction": 0.00450568992143325,
   "status": 0,
   "training_prediction": 0.0130392849819292

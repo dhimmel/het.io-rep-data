@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.270481144343303,
   "metapath_contribution": {
     "CbGaD": 0.7535821181436403,
     "CbGeAlD": 0.08362867342968039,
     "CbGpPWpGaD": 0.15582961757588876,
     "CrCbGaD": 0.006959590850790506
   },
+  "n_trials": 0.0,
   "prediction": 0.00110469590557136,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

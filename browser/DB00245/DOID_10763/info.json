@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00245",
   "compound_name": "Benzatropine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGaD": 0.1440945849714704,
     "CbGbCtD": 0.22729520671356063,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0017587474148220194,
     "CrCrCtD": 0.2317463572349025
   },
+  "n_trials": 0.0,
   "prediction": 0.00731045646861036,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

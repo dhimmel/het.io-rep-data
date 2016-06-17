@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.716514954486346,
   "metapath_contribution": {
     "CbGaD": 0.15630061847550827,
     "CbGbCtD": 0.6143523206004347,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1853431172794351,
     "CrCbGaD": 0.002136312577813919
   },
+  "n_trials": 0.0,
   "prediction": 0.0020580565847362104,
   "status": 0,
   "training_prediction": 0.0049010469189367

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00173",
   "compound_name": "Adenine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.8366401971172482,
     "CbGeAlD": 0.08348994742542334,
     "CbGpPWpGaD": 0.07692540899417398,
     "CrCbGaD": 0.00294444646315451
   },
+  "n_trials": 0.0,
   "prediction": 0.00363997509590649,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

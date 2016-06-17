@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.539011703511053,
   "metapath_contribution": {
     "CbGaD": 0.383506604823794,
     "CbGbCtD": 0.3663320260562342,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16454549393379717,
     "CrCbGaD": 0.00329101618249811
   },
+  "n_trials": 0.0,
   "prediction": 0.00227486016077129,
   "status": 0,
   "training_prediction": 0.00500842109238845

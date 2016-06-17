@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08889",
   "compound_name": "Carfilzomib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6410923276983089,
   "metapath_contribution": {
     "CbGaD": 0.5058092503523349,
     "CbGbCtD": 0.21346393544804543,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.10917052680485093,
     "CrCbGaD": 0.0006167128457010483
   },
+  "n_trials": 0.0,
   "prediction": 0.0031012094030797,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

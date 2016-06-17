@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.131339401820546,
   "metapath_contribution": {
     "CbGbCtD": 0.7179351819519051,
     "CbGeAlD": 0.05982425838105407,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21730713360716628,
     "CrCbGaD": 0.0018061144810606483
   },
+  "n_trials": 0.0,
   "prediction": 0.00098793484459724,
   "status": 0,
   "training_prediction": 0.0028783070876109104

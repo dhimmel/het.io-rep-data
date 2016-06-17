@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00305",
   "compound_name": "Mitomycin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGaD": 0.29878303157815583,
     "CbGbCtD": 0.4782828349721517,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.007576110220903462,
     "CcSEcCtD": 0.21240292221229487
   },
+  "n_trials": 1.0,
   "prediction": 0.0038581869971421,
   "status": 0,
   "training_prediction": 0.0216938250098387

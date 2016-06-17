@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06228",
   "compound_name": "Rivaroxaban",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7360208062418729,
   "metapath_contribution": {
     "CbGaD": 0.4128674892929076,
     "CbGbCtD": 0.34261250755052175,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08840222326169708,
     "CcSEcCtD": 0.13733841761060986
   },
+  "n_trials": 0.0,
   "prediction": 0.007789823946548121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.620286085825748,
   "metapath_contribution": {
     "CbGaD": 0.8602947287826412,
     "CbGeAlD": 0.043696842802702814,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.01847816352553732,
     "CrCbGaD": 0.007756059946831215
   },
+  "n_trials": 0.0,
   "prediction": 0.00170917522929874,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

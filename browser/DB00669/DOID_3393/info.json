@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7698309492847851,
   "metapath_contribution": {
     "CbGbCtD": 0.4447052909560194,
     "CbGeAlD": 0.0029613633513824195,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.3405688913838423,
     "CrCbGaD": 0.002200268509596336
   },
+  "n_trials": 0.0,
   "prediction": 0.0044339740099530005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

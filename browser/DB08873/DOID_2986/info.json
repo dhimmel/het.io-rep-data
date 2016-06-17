@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.7162929148153118,
     "CbGeAlD": 0.06505309271097942,
     "CbGpPWpGaD": 0.21188334530496208,
     "CrCbGaD": 0.00677064716874673
   },
+  "n_trials": 0.0,
   "prediction": 0.0023132000896661,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.29973992197659305,
   "metapath_contribution": {
     "CbGaD": 0.28794974957785624,
     "CbGbCtD": 0.5165623265150222,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18549109728298635,
     "CrCbGaD": 0.004728760678194609
   },
+  "n_trials": 0.0,
   "prediction": 0.00129919031338132,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

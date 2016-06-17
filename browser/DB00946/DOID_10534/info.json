@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00946",
   "compound_name": "Phenprocoumon",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.36996098829648905,
   "metapath_contribution": {
     "CbGaD": 0.44867380644565136,
     "CbGbCtD": 0.45059660559389536,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.017962358001348582,
     "CrCbGaD": 0.0034043917373926544
   },
+  "n_trials": 0.0,
   "prediction": 0.00126092329461614,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

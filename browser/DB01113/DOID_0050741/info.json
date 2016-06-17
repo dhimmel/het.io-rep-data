@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01113",
   "compound_name": "Papaverine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.345903771131339,
   "metapath_contribution": {
     "CbGeAlD": 0.395572889067785,
     "CbGpPWpGaD": 0.29686861346883753,
     "CcSEcCtD": 0.3051027112315769,
     "CrCbGaD": 0.0024557862318006604
   },
+  "n_trials": 0.0,
   "prediction": 0.0016742181413098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

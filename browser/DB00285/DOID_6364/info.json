@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.3223175751144161,
     "CbGbCtD": 0.4361860813865558,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18131792526510238,
     "CrCbGaD": 0.00392242747332184
   },
+  "n_trials": 0.0,
   "prediction": 0.00441681353691953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

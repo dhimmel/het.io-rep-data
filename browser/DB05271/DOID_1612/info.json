@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05271",
   "compound_name": "Rotigotine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.3081032745163153,
     "CbGbCtD": 0.3964211426677477,
     "CbGpPWpGaD": 0.08742694281828502,
     "CcSEcCtD": 0.208048639997652
   },
+  "n_trials": 0.0,
   "prediction": 0.00558623024881727,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

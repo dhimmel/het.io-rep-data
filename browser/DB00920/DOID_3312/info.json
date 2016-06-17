@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.7815739368788587,
     "CbGeAlD": 0.06246281713852823,
     "CbGpPWpGaD": 0.15273679005707422,
     "CrCbGaD": 0.0032264559255388596
   },
+  "n_trials": 0.0,
   "prediction": 0.00230276030182677,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

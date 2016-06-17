@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.27568270481144297,
   "metapath_contribution": {
     "CbGaD": 0.2516974924428464,
     "CbGbCtD": 0.40537482508316053,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003173655813848047,
     "CrCrCtD": 0.19666739555674226
   },
+  "n_trials": 0.0,
   "prediction": 0.00161966449865801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

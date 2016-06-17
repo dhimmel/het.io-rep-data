@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.637191157347204,
   "metapath_contribution": {
     "CbGaD": 0.3207495832806681,
     "CbGbCtD": 0.3789272430247304,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.25774712024424146,
     "CrCbGaD": 0.000493869880666583
   },
+  "n_trials": 0.0,
   "prediction": 0.0022936174173165103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.283485045513654,
   "metapath_contribution": {
     "CbGbCtD": 0.7652504922239292,
     "CbGeAlD": 0.0032913231487542425,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18560999674526754,
     "CrCbGaD": 0.00033124382489665646
   },
+  "n_trials": 0.0,
   "prediction": 0.0015396166640210302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

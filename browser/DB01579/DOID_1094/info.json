@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01579",
   "compound_name": "Phendimetrazine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.8201353879560384,
     "CbGeAlD": 0.052810735672169214,
     "CbGpPWpGaD": 0.11898527274608048,
     "CrCbGaD": 0.008068603625711912
   },
+  "n_trials": 0.0,
   "prediction": 0.00274123358123605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00996",
   "compound_name": "Gabapentin",
+  "compound_percentile": 0.0882352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.363459037711313,
   "metapath_contribution": {
     "CbGeAlD": 0.009558589632953442,
     "CbGpPWpGaD": 0.25993651885509267,
     "CcSEcCtD": 0.7041713423336876,
     "CrCbGaD": 0.02633354917826629
   },
+  "n_trials": 1.0,
   "prediction": 0.00124721787694572,
   "status": 0,
   "training_prediction": 0.004573986718277571

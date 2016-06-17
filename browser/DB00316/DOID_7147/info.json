@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGbCtD": 0.3392684630198922,
     "CbGdCrCtD": 0.002391631677632807,
     "CcSEcCtD": 0.03874528136140067,
     "CpDpCtD": 0.6195946239410742
   },
+  "n_trials": 1.0,
   "prediction": 0.00439023192857672,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.32444733420026,
   "metapath_contribution": {
     "CbGaD": 0.6805211344379702,
     "CbGbCtD": 0.1347299302174156,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10974560737387173,
     "CrCbGaD": 0.008444200233011673
   },
+  "n_trials": 0.0,
   "prediction": 0.001108587183414,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

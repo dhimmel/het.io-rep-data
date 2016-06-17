@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.19700910273081898,
   "metapath_contribution": {
     "CbGaD": 0.5874176656668229,
     "CbGeAlD": 0.00918190981069842,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16770781794554754,
     "CrCbGaD": 0.0078007842308520075
   },
+  "n_trials": 0.0,
   "prediction": 0.00100533720407715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGbCtD": 0.16209213106912318,
     "CbGdCrCtD": 0.0012908626957804249,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.000980348941564423,
     "CtDrD": 0.24944045623079614
   },
+  "n_trials": 0.0,
   "prediction": 0.007781632975835179,
   "status": 0,
   "training_prediction": 0.0172677695301529

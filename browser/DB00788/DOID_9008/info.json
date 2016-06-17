@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGbCtD": 0.18422301128322727,
     "CbGdCrCtD": 0.001299718100578525,
@@ -10,6 +12,7 @@
     "CpDpCtD": 0.28146503125307176,
     "CtDrD": 0.4753908538465728
   },
+  "n_trials": 0.0,
   "prediction": 0.010467161722761999,
   "status": 0,
   "training_prediction": 0.0209291200262879

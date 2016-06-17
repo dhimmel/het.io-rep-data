@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00489",
   "compound_name": "Sotalol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.13237552717200635,
     "CbGbCtD": 0.23769148747939825,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21262274401882764,
     "CrCtD": 0.31164077086860664
   },
+  "n_trials": 0.0,
   "prediction": 0.0515423934304431,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

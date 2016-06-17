@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.4588154635970369,
     "CbGbCtD": 0.07872371335138999,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07135361262222772,
     "CrCrCtD": 0.3410972680734301
   },
+  "n_trials": 0.0,
   "prediction": 0.0049948187532124705,
   "status": 0,
   "training_prediction": 0.0127319487016191

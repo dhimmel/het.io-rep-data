@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGaD": 0.3829814428555272,
     "CbGbCtD": 0.3358945501027803,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16258705732514586,
     "CrCbGaD": 0.004131768045156479
   },
+  "n_trials": 0.0,
   "prediction": 0.00235749521221337,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

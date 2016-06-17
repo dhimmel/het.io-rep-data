@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8862158647594279,
   "metapath_contribution": {
     "CbGaD": 0.38119473096827033,
     "CbGbCtD": 0.3914081983041453,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.012088621635685652,
     "CcSEcCtD": 0.12012234052091837
   },
+  "n_trials": 0.0,
   "prediction": 0.00304389843969699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

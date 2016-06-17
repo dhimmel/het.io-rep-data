@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00626",
   "compound_name": "Bacitracin",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.221066319895969,
   "metapath_contribution": {
     "CbGeAlD": 0.3475958771588322,
     "CbGpPWpGaD": 0.4861155312372961,
     "CcSEcCtD": 0.16627244166243246,
     "CrCbGaD": 1.614994143918759e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00135229323010236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

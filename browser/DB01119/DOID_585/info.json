@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01119",
   "compound_name": "Diazoxide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGbCtD": 0.4884182160240428,
     "CbGeAlD": 0.05493386575694487,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.019018682317040063,
     "CrCrCtD": 0.3974467717778173
   },
+  "n_trials": 0.0,
   "prediction": 0.0133885204559149,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

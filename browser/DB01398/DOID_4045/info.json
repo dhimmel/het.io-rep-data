@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.7095436281659678,
     "CbGbCtD": 0.2018861253455462,
     "CcSEcCtD": 0.08234362009204321,
     "CrCbGaD": 0.0062266263964427535
   },
+  "n_trials": 0.0,
   "prediction": 0.00267282008255553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

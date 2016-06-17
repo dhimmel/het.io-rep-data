@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.415474642392718,
   "metapath_contribution": {
     "CbGbCtD": 0.5611948652706488,
     "CbGdCrCtD": 0.006013976196264243,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0058434208744834425,
     "CrCrCtD": 0.19979088722359983
   },
+  "n_trials": 0.0,
   "prediction": 0.0019146133809235198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.591195285666468,
     "CbGbCtD": 0.15869866072195016,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.09807417005057753,
     "CrCbGaD": 0.002649090565383757
   },
+  "n_trials": 10.0,
   "prediction": 0.00302988295638358,
   "status": 0,
   "training_prediction": 0.021566407345383

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00889",
   "compound_name": "Granisetron",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGaD": 0.6793868817887267,
     "CbGbCtD": 0.1479169273831408,
     "CbGpPWpGaD": 0.061051393906595364,
     "CcSEcCtD": 0.11164479692153711
   },
+  "n_trials": 0.0,
   "prediction": 0.00275432330719666,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

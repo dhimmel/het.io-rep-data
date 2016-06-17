@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.3795182793110379,
     "CbGbCtD": 0.3694931556322569,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12907639169301424,
     "CrCbGaD": 0.0021596313090997475
   },
+  "n_trials": 0.0,
   "prediction": 0.0046170758129435606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

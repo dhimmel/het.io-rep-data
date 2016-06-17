@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00816",
   "compound_name": "Orciprenaline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7347204161248371,
   "metapath_contribution": {
     "CbGaD": 0.19536039717661288,
     "CbGbCtD": 0.3648196807312059,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0027096033855838284,
     "CrCrCtD": 0.29695763035840245
   },
+  "n_trials": 0.0,
   "prediction": 0.0077331049395113404,
   "status": 0,
   "training_prediction": 0.0852731203416091

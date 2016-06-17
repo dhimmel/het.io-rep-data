@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00747",
   "compound_name": "Scopolamine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.6287386215864761,
   "metapath_contribution": {
     "CbGaD": 0.37357406746649674,
     "CbGbCtD": 0.3839483735958965,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.029051683000021866,
     "CcSEcCtD": 0.21189078262413719
   },
+  "n_trials": 0.0,
   "prediction": 0.00218966503902621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

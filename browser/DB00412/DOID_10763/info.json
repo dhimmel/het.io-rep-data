@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.809492847854356,
   "metapath_contribution": {
     "CbGaD": 0.14853773343292534,
     "CbGbCtD": 0.2561429360732459,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.12937262745145256,
     "CtDrD": 0.3219632481798405
   },
+  "n_trials": 3.0,
   "prediction": 0.0103072679957717,
   "status": 0,
   "training_prediction": 0.110776906403766

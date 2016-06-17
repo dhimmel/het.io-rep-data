@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.27671577685975174,
     "CbGbCtD": 0.15072421066386504,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.001781248732131114,
     "CrCrCtD": 0.19524474393986446
   },
+  "n_trials": 0.0,
   "prediction": 0.00597127426708664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

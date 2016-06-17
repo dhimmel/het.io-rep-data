@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.2469718332144202,
     "CbGbCtD": 0.259855350956598,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0020935773546840396,
     "CtDrD": 0.38063522853267223
   },
+  "n_trials": 0.0,
   "prediction": 0.014967820385743999,
   "status": 0,
   "training_prediction": 0.0397070357484257

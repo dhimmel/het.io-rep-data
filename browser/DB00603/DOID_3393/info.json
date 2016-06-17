@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.09432506746011482,
     "CbGbCtD": 0.18519182613493926,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.21030559427427956,
     "CrCtD": 0.3596582395980342
   },
+  "n_trials": 5.0,
   "prediction": 0.00628899185488966,
   "status": 0,
   "training_prediction": 0.0330094252695343

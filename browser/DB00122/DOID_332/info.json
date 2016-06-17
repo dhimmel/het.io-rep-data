@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.7086535550008672,
     "CbGeAlD": 0.10635002133482649,
     "CbGpPWpGaD": 0.18061030275745033,
     "CrCbGaD": 0.004386120906855947
   },
+  "n_trials": 0.0,
   "prediction": 0.00314511151711468,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

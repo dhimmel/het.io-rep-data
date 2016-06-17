@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGaD": 0.27873485101003465,
     "CbGbCtD": 0.42753617503968744,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17544736662381505,
     "CrCbGaD": 0.0027274989421686565
   },
+  "n_trials": 0.0,
   "prediction": 0.0042616376950331296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

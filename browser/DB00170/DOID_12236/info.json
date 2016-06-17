@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.561768530559168,
   "metapath_contribution": {
     "CbGbCtD": 0.5320336983606087,
     "CbGeAlD": 0.2060191860055239,
     "CbGpPWpGaD": 0.24775648065361208,
     "CrCbGaD": 0.014190634980255384
   },
+  "n_trials": 0.0,
   "prediction": 0.0017883113104588102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

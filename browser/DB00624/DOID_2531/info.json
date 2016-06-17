@@ -1,20 +1,22 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
-    "CbGaD": 0.14510081416321577,
-    "CbGbCtD": 0.2431387465939068,
-    "CbGeAlD": 0.019338641412362915,
-    "CbGpPWpGaD": 0.033657037267428656,
-    "CcSEcCtD": 0.07911097662296486,
-    "CpDpCtD": 0.1743872067551739,
-    "CrCbGaD": 0.0016384918514341545,
-    "CrCrCtD": 0.1441387737280771,
-    "CrCtD": 0.15948931160543586
+    "CbGaD": 0.1451008141632158,
+    "CbGbCtD": 0.24313874659390683,
+    "CbGeAlD": 0.01933864141236292,
+    "CbGpPWpGaD": 0.03365703726742866,
+    "CcSEcCtD": 0.07911097662296487,
+    "CpDpCtD": 0.17438720675517394,
+    "CrCbGaD": 0.0016384918514341547,
+    "CrCrCtD": 0.14413877372807712,
+    "CrCtD": 0.1594893116054359
   },
+  "n_trials": 0.0,
   "prediction": 0.00932342327223357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

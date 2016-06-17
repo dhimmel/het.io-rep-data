@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00943",
   "compound_name": "Zalcitabine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGbCtD": 0.2811210226054811,
     "CbGdCrCtD": 0.0008362275225444849,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21389466068710458,
     "CrCtD": 0.4066998093531904
   },
+  "n_trials": 0.0,
   "prediction": 0.0119565504421074,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

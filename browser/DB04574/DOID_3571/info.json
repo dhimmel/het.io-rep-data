@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04574",
   "compound_name": "Estropipate",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.7076024752070881,
     "CbGbCtD": 0.024654996431096615,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14355145609777456,
     "CrCbGaD": 0.006302353793586496
   },
+  "n_trials": 0.0,
   "prediction": 0.00165161967642757,
   "status": 0,
   "training_prediction": 0.0016292773874029

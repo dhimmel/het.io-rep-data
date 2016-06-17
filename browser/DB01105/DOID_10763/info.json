@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01105",
   "compound_name": "Sibutramine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.25004798317019117,
     "CbGbCtD": 0.1909484389338909,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11712159958355615,
     "CtDrD": 0.4034923611143329
   },
+  "n_trials": 0.0,
   "prediction": 0.0222067770762018,
   "status": 0,
   "training_prediction": 0.21362942707904897

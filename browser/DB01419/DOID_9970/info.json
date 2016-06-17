@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.273081924577373,
   "metapath_contribution": {
     "CbGaD": 0.8013382088748155,
     "CbGeAlD": 0.03672608108926226,
     "CbGpPWpGaD": 0.15929126515619127,
     "CrCbGaD": 0.0026444448797308326
   },
+  "n_trials": 0.0,
   "prediction": 0.00158449733426042,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

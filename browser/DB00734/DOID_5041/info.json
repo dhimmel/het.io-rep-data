@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.64889466840052,
   "metapath_contribution": {
     "CbGaD": 0.3661609628721238,
     "CbGeAlD": 0.06369441368809614,
     "CbGpPWpGaD": 0.21556460929311247,
     "CcSEcCtD": 0.3545800141466677
   },
+  "n_trials": 0.0,
   "prediction": 0.0018125355002251602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

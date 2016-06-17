@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7776332899869959,
   "metapath_contribution": {
     "CbGaD": 0.32726149965972756,
     "CbGbCtD": 0.42295379571502634,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1577994243808847,
     "CrCbGaD": 0.0035587596172221916
   },
+  "n_trials": 0.0,
   "prediction": 0.00452794961635978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

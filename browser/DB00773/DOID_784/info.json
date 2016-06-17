@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.124837451235371,
   "metapath_contribution": {
     "CbGaD": 0.7719432395120508,
     "CbGeAlD": 0.07795971908725409,
     "CbGpPWpGaD": 0.14457136622615913,
     "CrCbGaD": 0.005525675174535942
   },
+  "n_trials": 0.0,
   "prediction": 0.0008830339399499961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

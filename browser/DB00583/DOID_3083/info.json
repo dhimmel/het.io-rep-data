@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGaD": 0.4558336208346604,
     "CbGbCtD": 0.30130160295161895,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12767876176948081,
     "CrCbGaD": 0.0025290926392382653
   },
+  "n_trials": 0.0,
   "prediction": 0.004178142017321329,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

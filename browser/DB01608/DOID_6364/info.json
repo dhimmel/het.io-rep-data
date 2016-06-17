@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01608",
   "compound_name": "Propericiazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.46228868660598205,
   "metapath_contribution": {
     "CbGbCtD": 0.269034863462741,
     "CbGeAlD": 0.0016968476139358828,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00745792381432535,
     "CrCrCtD": 0.500838683028016
   },
+  "n_trials": 0.0,
   "prediction": 0.0023386477688128,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

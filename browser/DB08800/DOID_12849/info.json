@@ -1,14 +1,16 @@
 {
   "compound_id": "DB08800",
   "compound_name": "Chloropyramine",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.18595578673602103,
   "metapath_contribution": {
-    "CbGeAlD": 0.24806409989271078,
+    "CbGeAlD": 0.24806409989271075,
     "CbGpPWpGaD": 0.7361732079843323,
     "CrCbGaD": 0.015762692122956994
   },
+  "n_trials": 0.0,
   "prediction": 0.00083704843785356,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

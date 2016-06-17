@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.21607589544424777,
     "CbGbCtD": 0.2929063530876232,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04331023160272948,
     "CpDpCtD": 0.3503416111306682
   },
+  "n_trials": 0.0,
   "prediction": 0.00820577780238806,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

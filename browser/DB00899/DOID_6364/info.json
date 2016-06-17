@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00899",
   "compound_name": "Remifentanil",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.664499349804942,
   "metapath_contribution": {
     "CbGbCtD": 0.7145247331888289,
     "CbGeAlD": 0.001787623013412692,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2263537745659749,
     "CrCbGaD": 0.0004534621347734481
   },
+  "n_trials": 0.0,
   "prediction": 0.00313455921020572,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7035110533159951,
   "metapath_contribution": {
-    "CbGaD": 0.698226637708306,
-    "CbGeAlD": 0.12283220595397816,
-    "CbGpPWpGaD": 0.176205456471029,
-    "CrCbGaD": 0.0027356998666867773
+    "CbGaD": 0.6982266377083062,
+    "CbGeAlD": 0.12283220595397819,
+    "CbGpPWpGaD": 0.17620545647102903,
+    "CrCbGaD": 0.0027356998666867778
   },
+  "n_trials": 0.0,
   "prediction": 0.0036441552555472,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

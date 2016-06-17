@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGbCtD": 0.3856627502641807,
     "CbGeAlD": 0.06637829664672734,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.001044158689819678,
     "CrCrCtD": 0.3944248034068727
   },
+  "n_trials": 0.0,
   "prediction": 0.0038415489725044704,
   "status": 0,
   "training_prediction": 0.0037896948625066795

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGaD": 0.5313353829254253,
     "CbGbCtD": 0.14502506885353364,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12554512187497074,
     "CrCbGaD": 0.0023045078773455746
   },
+  "n_trials": 0.0,
   "prediction": 0.00365079134821435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

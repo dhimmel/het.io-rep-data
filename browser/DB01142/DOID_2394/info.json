@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.421976592977893,
   "metapath_contribution": {
     "CbGaD": 0.277179617793817,
     "CbGbCtD": 0.2072482998998851,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06406799398775677,
     "CcSEcCtD": 0.35557389469585043
   },
+  "n_trials": 0.0,
   "prediction": 0.0013169724072253802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.16882515001759066,
     "CbGbCtD": 0.27540434785727314,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.04134978557090162,
     "CiPCiCtD": 0.46115885237811677
   },
+  "n_trials": 19.0,
   "prediction": 0.016302403202268,
   "status": 0,
   "training_prediction": 0.0738405607367191

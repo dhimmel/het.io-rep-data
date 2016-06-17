@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGaD": 0.9338980767958915,
     "CbGeAlD": 0.02432404817655503,
     "CbGpPWpGaD": 0.029962227970170608,
     "CrCbGaD": 0.011815647057382835
   },
+  "n_trials": 0.0,
   "prediction": 0.00153471621940569,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

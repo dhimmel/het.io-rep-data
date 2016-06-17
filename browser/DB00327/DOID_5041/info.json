@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.388166449934981,
   "metapath_contribution": {
     "CbGaD": 0.7128480101907442,
     "CbGpPWpGaD": 0.11597590040303848,
     "CcSEcCtD": 0.1667346395112997,
     "CrCbGaD": 0.004441449894917621
   },
+  "n_trials": 0.0,
   "prediction": 0.00121312262881345,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

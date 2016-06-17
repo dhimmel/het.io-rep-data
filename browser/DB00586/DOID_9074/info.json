@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGaD": 0.13654431574163697,
     "CbGbCtD": 0.3206206772279171,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.3376159583965237,
     "CrCbGaD": 0.001082573264793132
   },
+  "n_trials": 0.0,
   "prediction": 0.00424390669124479,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

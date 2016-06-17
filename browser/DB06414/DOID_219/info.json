@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06414",
   "compound_name": "Etravirine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.5428393394251301,
     "CbGbCtD": 0.24260814939814734,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1262166196904444,
     "CrCbGaD": 0.002541114574272792
   },
+  "n_trials": 0.0,
   "prediction": 0.00318730201505146,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

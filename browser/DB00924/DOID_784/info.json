@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.238621586475943,
   "metapath_contribution": {
     "CbGaD": 0.7663845835083162,
     "CbGeAlD": 0.0826899930237106,
     "CbGpPWpGaD": 0.13834891182906547,
     "CrCbGaD": 0.012576511638907774
   },
+  "n_trials": 0.0,
   "prediction": 0.0010846889111415401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

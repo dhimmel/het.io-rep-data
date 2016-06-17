@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8777633289986999,
   "metapath_contribution": {
-    "CbGaD": 0.6224353590477174,
-    "CbGbCtD": 0.05078815430890314,
-    "CbGeAlD": 0.06736885323777464,
-    "CbGpPWpGaD": 0.13251603001111162,
-    "CcSEcCtD": 0.12427299065882286,
-    "CrCbGaD": 0.0026186127356704085
+    "CbGaD": 0.6224353590477175,
+    "CbGbCtD": 0.05078815430890315,
+    "CbGeAlD": 0.06736885323777465,
+    "CbGpPWpGaD": 0.13251603001111165,
+    "CcSEcCtD": 0.12427299065882287,
+    "CrCbGaD": 0.002618612735670409
   },
+  "n_trials": 2.0,
   "prediction": 0.0043807828044394705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

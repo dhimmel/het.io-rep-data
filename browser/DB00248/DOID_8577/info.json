@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.5442132639791939,
   "metapath_contribution": {
     "CbGaD": 0.53554616704993,
     "CbGbCtD": 0.05422983730564476,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1310687825278335,
     "CcSEcCtD": 0.2279953087574948
   },
+  "n_trials": 0.0,
   "prediction": 0.00224384217038098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

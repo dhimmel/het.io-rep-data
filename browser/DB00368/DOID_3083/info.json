@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.15671757458414412,
     "CbGbCtD": 0.1792037927292923,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.25070931232812177,
     "CrCtD": 0.37807527895877785
   },
+  "n_trials": 0.0,
   "prediction": 0.0215769451759966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

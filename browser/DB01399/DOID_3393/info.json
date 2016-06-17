@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.08322686657380111,
     "CbGbCtD": 0.05331914490938241,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2482265014138864,
     "CrCtD": 0.3426273125731104
   },
+  "n_trials": 1.0,
   "prediction": 0.015009787305033998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

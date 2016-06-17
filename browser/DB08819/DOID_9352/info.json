@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08819",
   "compound_name": "Tafluprost",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.237971391417425,
   "metapath_contribution": {
     "CbGaD": 0.6588198158262528,
     "CbGeAlD": 0.017702397801483707,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12865187972965625,
     "CrCbGaD": 0.006255319757021662
   },
+  "n_trials": 0.0,
   "prediction": 0.00150538307302526,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

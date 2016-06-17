@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.32964889466840097,
   "metapath_contribution": {
     "CbGaD": 0.36513054121144534,
     "CbGbCtD": 0.4202417303383966,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08350304327680849,
     "CrCbGaD": 0.0005144983074432053
   },
+  "n_trials": 0.0,
   "prediction": 0.00113055958291808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.156697009102731,
   "metapath_contribution": {
     "CbGaD": 0.3916395243264704,
     "CbGbCtD": 0.2858830765417628,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12134872982113401,
     "CrCbGaD": 0.001274822476831599
   },
+  "n_trials": 0.0,
   "prediction": 0.0009356988717403019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

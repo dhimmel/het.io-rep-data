@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGaD": 0.3123984401346192,
     "CbGbCtD": 0.5415744864348648,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09738854135651256,
     "CrCbGaD": 0.0028132177517447604
   },
+  "n_trials": 0.0,
   "prediction": 0.0037171723283091,
   "status": 0,
   "training_prediction": 0.0162319609155973

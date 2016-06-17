@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.1930631045719895,
     "CbGbCtD": 0.2035678013679017,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.18453839442391443,
     "CrCtD": 0.28923088493179694
   },
+  "n_trials": 0.0,
   "prediction": 0.0232433236447341,
   "status": 0,
   "training_prediction": 0.0925291621378716

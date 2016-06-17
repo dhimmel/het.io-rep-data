@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.46553966189857,
   "metapath_contribution": {
     "CbGaD": 0.6715736796862358,
     "CbGbCtD": 0.0942787130732155,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2089260995151827,
     "CrCbGaD": 0.00256076976634129
   },
+  "n_trials": 0.0,
   "prediction": 0.00175085599575191,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

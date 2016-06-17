@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGbCtD": 0.31385726145219084,
     "CbGdCrCtD": 0.0032346357427930515,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.00047443495119575707,
     "CrCrCtD": 0.5498837619368258
   },
+  "n_trials": 0.0,
   "prediction": 0.00523680574501824,
   "status": 0,
   "training_prediction": 0.0114885730812895

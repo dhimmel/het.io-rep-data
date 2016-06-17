@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00322",
   "compound_name": "Floxuridine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.28534422633322604,
     "CbGbCtD": 0.2720772354202354,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0008172298248540425,
     "CtDrD": 0.3587028807480279
   },
+  "n_trials": 0.0,
   "prediction": 0.0137996764938148,
   "status": 0,
   "training_prediction": 0.0167059378779182

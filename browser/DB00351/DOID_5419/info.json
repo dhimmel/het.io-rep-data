@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.09362808842652802,
   "metapath_contribution": {
     "CbGaD": 0.8763617804176779,
     "CbGeAlD": 0.03334933408857096,
     "CbGpPWpGaD": 0.08167732971698148,
     "CrCbGaD": 0.008611555776769675
   },
+  "n_trials": 0.0,
   "prediction": 0.000767829283217189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

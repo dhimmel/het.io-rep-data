@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00445",
   "compound_name": "Epirubicin",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.0552665799739922,
   "metapath_contribution": {
     "CbGbCtD": 0.599344636413705,
     "CbGdCrCtD": 0.00431393660147422,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.27996290883839725,
     "CrCbGaD": 0.004293026703740254
   },
+  "n_trials": 0.0,
   "prediction": 0.000869810137910881,
   "status": 0,
   "training_prediction": 0.0308814836659909

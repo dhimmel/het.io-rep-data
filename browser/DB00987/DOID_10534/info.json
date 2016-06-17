@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.20024197925607518,
     "CbGbCtD": 0.17366450279940554,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0015677265834379184,
     "CrCrCtD": 0.10977699552170392
   },
+  "n_trials": 0.0,
   "prediction": 0.0109180504559872,
   "status": 0,
   "training_prediction": 0.0390322185022478

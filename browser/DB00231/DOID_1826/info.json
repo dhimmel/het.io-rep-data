@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.12394417852199059,
     "CbGbCtD": 0.16761274541942092,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.14705989999064603,
     "CrCtD": 0.19199860451428533
   },
+  "n_trials": 0.0,
   "prediction": 0.37482781933852294,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

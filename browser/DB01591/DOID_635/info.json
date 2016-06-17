@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01591",
   "compound_name": "Solifenacin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.533810143042913,
   "metapath_contribution": {
     "CbGbCtD": 0.5519563644966136,
     "CbGeAlD": 0.007608689738458832,
     "CbGpPWpGaD": 0.023452031544821277,
     "CcSEcCtD": 0.41698291422010636
   },
+  "n_trials": 0.0,
   "prediction": 0.0025634720455756104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

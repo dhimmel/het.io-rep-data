@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.305591677503251,
   "metapath_contribution": {
     "CbGaD": 0.7442869330043604,
     "CbGeAlD": 0.09928352089029015,
     "CbGpPWpGaD": 0.1475631435683877,
     "CrCbGaD": 0.00886640253696177
   },
+  "n_trials": 0.0,
   "prediction": 0.0012034210159295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.0650195058517555,
   "metapath_contribution": {
     "CbGdCrCtD": 0.01091933727615878,
     "CcSEcCtD": 0.975921440097695,
     "CrCbGaD": 0.013159222626146161
   },
+  "n_trials": 1.0,
   "prediction": 0.000808876516718749,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

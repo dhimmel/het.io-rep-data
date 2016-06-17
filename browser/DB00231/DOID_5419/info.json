@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.5266579973992199,
   "metapath_contribution": {
     "CbGaD": 0.6158031369857137,
     "CbGeAlD": 0.11692408940832628,
     "CbGpPWpGaD": 0.2562376557517376,
     "CrCbGaD": 0.011035117854222565
   },
+  "n_trials": 0.0,
   "prediction": 0.00161311088917848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

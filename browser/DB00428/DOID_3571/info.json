@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.6840052015604681,
   "metapath_contribution": {
     "CbGaD": 0.7637030610150229,
     "CbGbCtD": 0.03338962868415855,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06222950196453231,
     "CrCbGaD": 0.005513387363061143
   },
+  "n_trials": 0.0,
   "prediction": 0.0018585956732973601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

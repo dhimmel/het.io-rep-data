@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.7750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.47806141072026254,
     "CbGbCtD": 0.41349875480292386,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08627371233089917,
     "CrCbGaD": 0.006803855838636457
   },
+  "n_trials": 0.0,
   "prediction": 0.0021102366577593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

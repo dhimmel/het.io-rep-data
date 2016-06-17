@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.46944083224967503,
   "metapath_contribution": {
     "CbGaD": 0.15338391925300757,
     "CbGbCtD": 0.206853123131766,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.4278537255934339,
     "CrCbGaD": 0.001411881555784471
   },
+  "n_trials": 0.0,
   "prediction": 0.0031494687311313103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

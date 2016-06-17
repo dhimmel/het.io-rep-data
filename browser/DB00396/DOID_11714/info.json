@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGaD": 0.5778806254988447,
     "CbGbCtD": 0.33010244225558066,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03143381914458254,
     "CrCbGaD": 0.007084325070950413
   },
+  "n_trials": 0.0,
   "prediction": 0.00298973379948584,
   "status": 0,
   "training_prediction": 0.00134898470820063

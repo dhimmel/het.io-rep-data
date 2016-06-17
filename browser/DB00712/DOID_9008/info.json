@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGbCtD": 0.2915308147861282,
     "CbGdCrCtD": 0.002660151462184024,
     "CcSEcCtD": 0.10158714926547817,
     "CpDpCtD": 0.6042218844862096
   },
+  "n_trials": 0.0,
   "prediction": 0.00282201002628449,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

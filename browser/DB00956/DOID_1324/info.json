@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.224967490247074,
   "metapath_contribution": {
     "CbGbCtD": 0.5736578707978588,
     "CbGpPWpGaD": 0.1021001492347428,
     "CcSEcCtD": 0.31053546881470945,
     "CrCbGaD": 0.013706511152689043
   },
+  "n_trials": 0.0,
   "prediction": 0.00108622630347207,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

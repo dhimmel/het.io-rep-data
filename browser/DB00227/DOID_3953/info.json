@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.32184655396619,
   "metapath_contribution": {
     "CbGaD": 0.8128224990739642,
     "CbGeAlD": 0.07947103886951483,
     "CbGpPWpGaD": 0.10055658265025125,
     "CrCbGaD": 0.007149879406269628
   },
+  "n_trials": 0.0,
   "prediction": 0.00104856541325905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

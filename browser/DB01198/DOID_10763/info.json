@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01198",
   "compound_name": "Zopiclone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5747724317295191,
   "metapath_contribution": {
     "CbGaD": 0.16649787179326608,
     "CbGbCtD": 0.46183433722515016,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23725294394658125,
     "CrCbGaD": 0.0012331167101953598
   },
+  "n_trials": 0.0,
   "prediction": 0.00468375872584699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

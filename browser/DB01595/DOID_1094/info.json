@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.7925179737833031,
     "CbGeAlD": 0.07467357602465105,
     "CbGpPWpGaD": 0.12772128036988842,
     "CrCbGaD": 0.005087169822157359
   },
+  "n_trials": 0.0,
   "prediction": 0.0030148626087886,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

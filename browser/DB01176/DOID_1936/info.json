@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01176",
   "compound_name": "Cyclizine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGaD": 0.46801206101417075,
     "CbGbCtD": 0.13900887853019564,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004898858559474028,
     "CrCrCtD": 0.32056030926181883
   },
+  "n_trials": 0.0,
   "prediction": 0.00345265353192208,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

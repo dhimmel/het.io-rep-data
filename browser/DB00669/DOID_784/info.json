@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.365409622886866,
   "metapath_contribution": {
     "CbGaD": 0.6111613370488107,
     "CbGeAlD": 0.0780236646362887,
     "CbGpPWpGaD": 0.30003994957201086,
     "CrCbGaD": 0.010775048742889747
   },
+  "n_trials": 0.0,
   "prediction": 0.00130221101574825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

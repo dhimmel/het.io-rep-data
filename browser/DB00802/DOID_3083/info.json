@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.690507152145644,
   "metapath_contribution": {
     "CbGaD": 0.4710051535804637,
     "CbGbCtD": 0.31327678415742755,
     "CbGpPWpGaD": 0.024945940734554427,
     "CcSEcCtD": 0.19077212152755438
   },
+  "n_trials": 0.0,
   "prediction": 0.0029470912604096897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

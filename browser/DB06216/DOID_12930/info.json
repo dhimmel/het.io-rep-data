@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGaD": 0.7310182727419886,
     "CbGeAlD": 0.04722535956584228,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08820928379370174,
     "CrCbGaD": 0.0002149485363578609
   },
+  "n_trials": 0.0,
   "prediction": 0.00345716580671135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

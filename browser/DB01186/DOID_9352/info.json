@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.16010092254621242,
     "CbGbCtD": 0.2306943548263161,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0015733810248476756,
     "CrCrCtD": 0.2512685534840238
   },
+  "n_trials": 0.0,
   "prediction": 0.0172770986539396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

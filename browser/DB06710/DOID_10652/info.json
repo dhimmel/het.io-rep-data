@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.0266579973992198,
   "metapath_contribution": {
     "CbGbCtD": 0.6361777155381441,
     "CbGeAlD": 0.07724756586234248,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13967777040907173,
     "CrCbGaD": 0.009780826262732654
   },
+  "n_trials": 2.0,
   "prediction": 0.0005701568817701741,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

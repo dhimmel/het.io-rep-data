@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00359",
   "compound_name": "Sulfadiazine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.45513654096228895,
   "metapath_contribution": {
     "CbGaD": 0.8778859169201447,
     "CbGpPWpGaD": 0.013381514441757331,
     "CcSEcCtD": 0.10669893543952454,
     "CrCbGaD": 0.002033633198573403
   },
+  "n_trials": 0.0,
   "prediction": 0.00143328070722703,
   "status": 0,
   "training_prediction": 0.00204525673814261

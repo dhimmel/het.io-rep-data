@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.20481144343302998,
   "metapath_contribution": {
     "CbGaD": 0.4400438223600874,
     "CbGbCtD": 0.28834872846250886,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1608464259853891,
     "CrCbGaD": 0.007808413093605451
   },
+  "n_trials": 0.0,
   "prediction": 0.00132764236399254,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

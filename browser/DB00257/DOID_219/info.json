@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7802340702210658,
   "metapath_contribution": {
     "CbGaD": 0.25967717792966316,
     "CbGbCtD": 0.6390740622345407,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.029656301562608754,
     "CrCbGaD": 0.00031662960494768165
   },
+  "n_trials": 0.0,
   "prediction": 0.00232889113245663,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

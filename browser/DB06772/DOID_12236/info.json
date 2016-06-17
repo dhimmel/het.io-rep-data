@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.30910476166623185,
     "CbGbCtD": 0.5305165773621592,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11101875653911854,
     "CrCbGaD": 0.003904433048099818
   },
+  "n_trials": 0.0,
   "prediction": 0.00251137946110274,
   "status": 0,
   "training_prediction": 0.00247743563082713

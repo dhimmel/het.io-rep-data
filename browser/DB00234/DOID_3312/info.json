@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.8823530561187595,
     "CbGeAlD": 0.05569110532095512,
     "CbGpPWpGaD": 0.056494991041640415,
     "CrCbGaD": 0.0054608475186449955
   },
+  "n_trials": 0.0,
   "prediction": 0.00266899054163697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

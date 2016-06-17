@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGbCtD": 0.2772838081556403,
     "CbGeAlD": 0.005925318611055652,
     "CcSEcCtD": 0.07797607865669759,
     "CiPCiCtD": 0.6388147945766064
   },
+  "n_trials": 0.0,
   "prediction": 0.004255587897380129,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

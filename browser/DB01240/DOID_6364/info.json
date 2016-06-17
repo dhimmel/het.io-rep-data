@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.11443433029909,
   "metapath_contribution": {
     "CbGbCtD": 0.1471949336723135,
     "CbGeAlD": 0.11273878446673027,
     "CbGpPWpGaD": 0.25754494963685115,
     "CcSEcCtD": 0.48252133222410504
   },
+  "n_trials": 0.0,
   "prediction": 0.00127442838260202,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

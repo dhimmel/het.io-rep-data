@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.310143042912874,
   "metapath_contribution": {
     "CbGaD": 0.2690856934094607,
     "CbGbCtD": 0.5788759579440015,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.03493615375706612,
     "CrCbGaD": 0.0004467538805897413
   },
+  "n_trials": 0.0,
   "prediction": 0.00117985392820698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

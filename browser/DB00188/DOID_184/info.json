@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.21564044161052884,
     "CbGbCtD": 0.5081201675934734,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10988710608604234,
     "CcSEcCtD": 0.15084772945799668
   },
+  "n_trials": 0.0,
   "prediction": 0.00464025278695445,
   "status": 0,
   "training_prediction": 0.00661246052852223

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.49349804941482395,
   "metapath_contribution": {
     "CbGaD": 0.42395343525238566,
     "CbGbCtD": 0.46969508263098664,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.07797374854256543,
     "CrCbGaD": 0.003737461642786219
   },
+  "n_trials": 0.0,
   "prediction": 0.00335052715510335,
   "status": 0,
   "training_prediction": 0.0361577112007493

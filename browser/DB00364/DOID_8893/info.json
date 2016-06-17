@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00364",
   "compound_name": "Sucralfate",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.7899869960988299,
   "metapath_contribution": {
     "CbGbCtD": 0.43581634631827804,
     "CbGeAlD": 0.06010423328677401,
     "CbGpPWpGaD": 0.3981543087456609,
     "CcSEcCtD": 0.10592511164928713
   },
+  "n_trials": 0.0,
   "prediction": 0.00299177135973335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

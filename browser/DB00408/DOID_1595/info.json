@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.7440716643043568,
     "CbGeAlD": 0.09497884443723786,
     "CbGpPWpGaD": 0.15397215743473078,
     "CrCbGaD": 0.006977333823674526
   },
+  "n_trials": 0.0,
   "prediction": 0.00241216681736202,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

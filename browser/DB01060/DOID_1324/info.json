@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.279411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.081924577373212,
   "metapath_contribution": {
     "CbGbCtD": 0.2976378496301824,
     "CbGpPWpGaD": 0.0155318187203214,
     "CcSEcCtD": 0.6868303316494961
   },
+  "n_trials": 0.0,
   "prediction": 0.000777840165184229,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

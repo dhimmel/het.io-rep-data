@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6007802340702211,
   "metapath_contribution": {
     "CbGaD": 0.13538418430097568,
     "CbGbCtD": 0.5979370710151486,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17188416392224248,
     "CrCbGaD": 0.0011889421837081029
   },
+  "n_trials": 0.0,
   "prediction": 0.00276311200055499,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

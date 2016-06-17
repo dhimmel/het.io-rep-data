@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.45676738802533806,
     "CbGbCtD": 0.43626310106074767,
     "CbGeAlD": 0.03293151604349851,
     "CbGpPWpGaD": 0.07403799487041582
   },
+  "n_trials": 0.0,
   "prediction": 0.00315100067204295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

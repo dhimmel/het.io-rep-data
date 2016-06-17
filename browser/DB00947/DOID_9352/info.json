@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.429778933680104,
   "metapath_contribution": {
     "CbGaD": 0.2659113628299678,
     "CbGbCtD": 0.2721852564661838,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2480082985279957,
     "CrCbGaD": 0.0028187402029328924
   },
+  "n_trials": 0.0,
   "prediction": 0.00222833759233582,
   "status": 0,
   "training_prediction": 0.00977979683635694

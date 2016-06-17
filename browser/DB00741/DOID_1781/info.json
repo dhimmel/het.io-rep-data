@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.0123537061118336,
   "metapath_contribution": {
     "CbGbCtD": 0.6576389445967715,
     "CbGeAlD": 0.018314303031810496,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.23638182294302917,
     "CrCbGaD": 0.00028539361692751173
   },
+  "n_trials": 0.0,
   "prediction": 0.000516156238831498,
   "status": 0,
   "training_prediction": 0.0031726647556327

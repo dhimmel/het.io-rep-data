@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.46553966189857,
   "metapath_contribution": {
     "CbGbCtD": 0.6522745273434024,
     "CbGeAlD": 0.07313135378531235,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13645778802307107,
     "CrCbGaD": 0.005565037275104318
   },
+  "n_trials": 0.0,
   "prediction": 0.00234900443447422,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

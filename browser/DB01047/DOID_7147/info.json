@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGbCtD": 0.12436049840913754,
     "CcSEcCtD": 0.02748744690527583,
@@ -11,6 +13,7 @@
     "CrCtD": 0.21641055041193744,
     "CtDrD": 0.15500897049353235
   },
+  "n_trials": 0.0,
   "prediction": 0.128624522137067,
   "status": 0,
   "training_prediction": 0.3320811373525

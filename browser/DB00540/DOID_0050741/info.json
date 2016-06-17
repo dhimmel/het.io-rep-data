@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.28494256887203656,
     "CbGbCtD": 0.23894155637821485,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3202290900528111,
     "CrCbGaD": 0.0028372863794312586
   },
+  "n_trials": 0.0,
   "prediction": 0.0134812695462937,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

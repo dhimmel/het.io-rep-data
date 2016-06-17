@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00524",
   "compound_name": "Metolazone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGbCtD": 0.24998038108088344,
     "CbGeAlD": 0.026122451821180174,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.44916360035528113,
     "CrCrCtD": 0.23775465003133844
   },
+  "n_trials": 0.0,
   "prediction": 0.0570968598988786,
   "status": 0,
   "training_prediction": 0.0265532526936616

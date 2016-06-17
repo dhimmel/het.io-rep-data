@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.520806241872562,
   "metapath_contribution": {
     "CbGbCtD": 0.2508793311178758,
     "CbGeAlD": 0.11571015698566972,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.36059106600689556,
     "CrCbGaD": 0.0003558488850831133
   },
+  "n_trials": 0.0,
   "prediction": 0.0019184858369356301,
   "status": 0,
   "training_prediction": 0.00387755260701084

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.279583875162549,
   "metapath_contribution": {
     "CbGaD": 0.30069525989323687,
     "CbGbCtD": 0.3166064632397572,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23715606983457593,
     "CrCbGaD": 0.004495742095974314
   },
+  "n_trials": 0.0,
   "prediction": 0.0015978922333821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

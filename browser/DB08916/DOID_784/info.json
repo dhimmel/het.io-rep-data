@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.0882352941176471,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.112483745123537,
   "metapath_contribution": {
     "CbGaD": 0.49216878819711896,
     "CbGeAlD": 0.10267025199936283,
     "CbGpPWpGaD": 0.3944318516273084,
     "CrCbGaD": 0.010729108176209756
   },
+  "n_trials": 0.0,
   "prediction": 0.00085873059956735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

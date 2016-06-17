@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.38196861019830897,
     "CbGbCtD": 0.45304105443112286,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08921374678367024,
     "CrCbGaD": 0.0038815889543101093
   },
+  "n_trials": 0.0,
   "prediction": 0.0040611300709869295,
   "status": 0,
   "training_prediction": 0.00964441583821043

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.443433029908973,
   "metapath_contribution": {
     "CbGaD": 0.22007538121426964,
     "CbGbCtD": 0.4809427548428178,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2100465013930571,
     "CrCbGaD": 0.00023075334674547594
   },
+  "n_trials": 0.0,
   "prediction": 0.00334531432037019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

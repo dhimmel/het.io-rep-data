@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.13084393323905164,
     "CbGbCtD": 0.26910874336120955,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0014661849237212795,
     "CrCrCtD": 0.40777711421837864
   },
+  "n_trials": 6.0,
   "prediction": 0.00393205004521753,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.421976592977893,
   "metapath_contribution": {
     "CbGaD": 0.2443083812782473,
     "CbGbCtD": 0.4144335551002153,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.18329600438079427,
     "CrCbGaD": 0.005245525809184569
   },
+  "n_trials": 0.0,
   "prediction": 0.00279383961522047,
   "status": 0,
   "training_prediction": 0.0135687714359957

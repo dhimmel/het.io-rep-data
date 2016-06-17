@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00438",
   "compound_name": "Ceftazidime",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.130689206762029,
   "metapath_contribution": {
     "CbGeAlD": 0.016219786601641424,
     "CbGpPWpGaD": 0.06475089639194494,
     "CcSEcCtD": 0.9174536680728291,
     "CrCbGaD": 0.0015756489335846092
   },
+  "n_trials": 0.0,
   "prediction": 0.00100287648387794,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

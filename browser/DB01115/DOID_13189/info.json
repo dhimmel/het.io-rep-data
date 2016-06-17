@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGbCtD": 0.37728560934995903,
     "CbGeAlD": 0.012414270722327113,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11650716126908724,
     "CpDpCtD": 0.4858270895463195
   },
+  "n_trials": 0.0,
   "prediction": 0.0049934971436988,
   "status": 0,
   "training_prediction": 0.010957999153964

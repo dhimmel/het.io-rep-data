@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.340702210663199,
   "metapath_contribution": {
     "CbGaD": 0.35237851794978864,
     "CbGbCtD": 0.4147963482981424,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11505771318427879,
     "CrCbGaD": 0.0019203357792262653
   },
+  "n_trials": 0.0,
   "prediction": 0.00174631486283953,
   "status": 0,
   "training_prediction": 0.0409959720360372

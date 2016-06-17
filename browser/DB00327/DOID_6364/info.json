@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.566970091027308,
   "metapath_contribution": {
     "CbGbCtD": 0.7294747434957103,
     "CbGpPWpGaD": 0.024252898006058857,
     "CcSEcCtD": 0.24513948213205106,
     "CrCbGaD": 0.0011328763661796815
   },
+  "n_trials": 1.0,
   "prediction": 0.0026537197665826,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

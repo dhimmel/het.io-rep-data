@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01329",
   "compound_name": "Cefoperazone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.303641092327698,
   "metapath_contribution": {
     "CbGbCtD": 0.8945445131155579,
     "CbGeAlD": 0.0426574339967613,
     "CbGpPWpGaD": 0.06279805288768085
   },
+  "n_trials": 0.0,
   "prediction": 0.0012544591921924099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

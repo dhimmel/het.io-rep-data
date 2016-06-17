@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.782184655396619,
   "metapath_contribution": {
     "CbGaD": 0.812713793748122,
     "CbGeAlD": 0.010310189604378196,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0025365264467365426,
     "CrCbGaD": 0.004145966584398313
   },
+  "n_trials": 0.0,
   "prediction": 0.00245449734048968,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

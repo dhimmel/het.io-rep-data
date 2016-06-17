@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01626",
   "compound_name": "Pargyline",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGaD": 0.8422498501692254,
     "CbGeAlD": 0.04136716591347094,
     "CbGpPWpGaD": 0.11106565804810269,
     "CrCbGaD": 0.005317325869200887
   },
+  "n_trials": 0.0,
   "prediction": 0.00239768160413123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

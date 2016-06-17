@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00315",
   "compound_name": "Zolmitriptan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.8232483164226925,
     "CbGeAlD": 0.050272257349438895,
     "CbGpPWpGaD": 0.11919084511249875,
     "CrCbGaD": 0.007288581115369859
   },
+  "n_trials": 0.0,
   "prediction": 0.00297078853016746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

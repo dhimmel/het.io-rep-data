@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.8144367213846743,
     "CbGbCtD": 0.07201794838479675,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.008287941898928413,
     "CcSEcCtD": 0.023499488385527893
   },
+  "n_trials": 0.0,
   "prediction": 0.0036053230901380204,
   "status": 0,
   "training_prediction": 0.00271310595320535

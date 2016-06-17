@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.15282869166349147,
     "CbGbCtD": 0.3001726290582598,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0024616390542613873,
     "CtDrD": 0.40296564667471585
   },
+  "n_trials": 0.0,
   "prediction": 0.0147778014612002,
   "status": 0,
   "training_prediction": 0.29911254378769103

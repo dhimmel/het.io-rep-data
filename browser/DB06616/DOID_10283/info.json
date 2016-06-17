@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06616",
   "compound_name": "Bosutinib",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5903771131339399,
   "metapath_contribution": {
     "CbGaD": 0.476586401376097,
     "CbGbCtD": 0.1864570986234011,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.10056976308804863,
     "CrCbGaD": 0.0038659930537959302
   },
+  "n_trials": 0.0,
   "prediction": 0.00269624166423492,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

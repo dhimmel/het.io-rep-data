@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01207",
   "compound_name": "Ridogrel",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGbCtD": 0.4292378550031112,
     "CbGeAlD": 0.08155835293520772,
     "CbGpPWpGaD": 0.053227240396188744,
     "CrCrCtD": 0.4359765516654924
   },
+  "n_trials": 0.0,
   "prediction": 0.007976688007827741,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

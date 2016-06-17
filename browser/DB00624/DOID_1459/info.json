@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.32580515890539485,
     "CbGbCtD": 0.5071367599633503,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0772280950092368,
     "CrCbGaD": 0.0034470406276404185
   },
+  "n_trials": 0.0,
   "prediction": 0.00304501979020804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

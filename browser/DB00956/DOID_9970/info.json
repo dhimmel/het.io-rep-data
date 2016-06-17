@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.21131339401820498,
   "metapath_contribution": {
     "CbGbCtD": 0.5356056241908954,
     "CbGpPWpGaD": 0.17979234646547082,
     "CcSEcCtD": 0.2801556914780103,
     "CrCbGaD": 0.004446337865623398
   },
+  "n_trials": 0.0,
   "prediction": 0.0013838356456994199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

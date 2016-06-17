@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01420",
   "compound_name": "Testosterone Propionate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGbCtD": 0.1170787343440867,
     "CbGeAlD": 0.005621009864216542,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2847780819503627,
     "CrCtD": 0.25299282897578323
   },
+  "n_trials": 0.0,
   "prediction": 0.008631550831087,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

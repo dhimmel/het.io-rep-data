@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.5339855428689357,
     "CbGbCtD": 0.25004668347525055,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18092204375042917,
     "CrCbGaD": 0.005927120022124522
   },
+  "n_trials": 0.0,
   "prediction": 0.0028634125110566697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

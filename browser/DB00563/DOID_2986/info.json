@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.21963297493652947,
     "CbGeAlD": 0.06039994448503289,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002655601802845682,
     "CtDrD": 0.6211690886809105
   },
+  "n_trials": 0.0,
   "prediction": 0.0036136896362777703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.55851755526658,
   "metapath_contribution": {
     "CbGbCtD": 0.7127323983363568,
     "CbGeAlD": 0.21440499173052202,
     "CcSEcCtD": 0.06857814918917222,
     "CrCbGaD": 0.004284460743948916
   },
+  "n_trials": 0.0,
   "prediction": 0.0022436403659009,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.17092494626358218,
     "CbGbCtD": 0.6140651886674429,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1138680790148649,
     "CrCbGaD": 0.0027500880422751672
   },
+  "n_trials": 0.0,
   "prediction": 0.0028805334337640197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

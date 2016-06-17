@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.42587776332899896,
   "metapath_contribution": {
     "CbGaD": 0.8919349132214641,
     "CbGpPWpGaD": 0.08105262359378791,
     "CcSEcCtD": 0.026336956381711473,
     "CrCbGaD": 0.0006755068030363642
   },
+  "n_trials": 0.0,
   "prediction": 0.00142293913118261,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

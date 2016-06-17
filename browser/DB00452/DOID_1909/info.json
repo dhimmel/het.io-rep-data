@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00452",
   "compound_name": "Framycetin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8862158647594279,
   "metapath_contribution": {
     "CbGaD": 0.8405505166552463,
     "CbGeAlD": 0.029725340120552574,
     "CbGpPWpGaD": 0.11212212661424839,
     "CcSEcCtD": 0.01760201660995274
   },
+  "n_trials": 0.0,
   "prediction": 0.00284370898541116,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

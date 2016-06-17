@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00880",
   "compound_name": "Chlorothiazide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.576072821846554,
   "metapath_contribution": {
     "CbGbCtD": 0.26680152693578413,
     "CbGeAlD": 0.014249086219039536,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0035160262129888043,
     "CtDrD": 0.6003671545844526
   },
+  "n_trials": 0.0,
   "prediction": 0.0028906072880940698,
   "status": 0,
   "training_prediction": 0.00739246470015935

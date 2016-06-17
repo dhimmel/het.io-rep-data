@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00119",
   "compound_name": "Pyruvic acid",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.4250625612297518,
     "CbGdCrCtD": 0.0029456361448147624,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09050601681750721,
     "CrCrCtD": 0.416793106905293
   },
+  "n_trials": 0.0,
   "prediction": 0.00664538154601138,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

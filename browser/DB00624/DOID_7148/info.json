@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.11971344654802808,
     "CbGbCtD": 0.1868857105997984,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.19836784058268253,
     "CrCtD": 0.2451487484805304
   },
+  "n_trials": 0.0,
   "prediction": 0.0125918996555703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

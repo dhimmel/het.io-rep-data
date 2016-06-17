@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00844",
   "compound_name": "Nalbuphine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.2362719065340187,
     "CbGbCtD": 0.17915677333385308,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21783978275582647,
     "CrCtD": 0.3200965728633945
   },
+  "n_trials": 0.0,
   "prediction": 0.0990059942256953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

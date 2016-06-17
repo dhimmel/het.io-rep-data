@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00536",
   "compound_name": "Guanidine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.795838751625488,
   "metapath_contribution": {
     "CbGaD": 0.5465953684051696,
     "CbGbCtD": 0.0029869145579204505,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2106072402615005,
     "CcSEcCtD": 0.15020043350644896
   },
+  "n_trials": 0.0,
   "prediction": 0.00516320503535604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

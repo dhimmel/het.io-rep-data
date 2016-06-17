@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.4945180370374098,
     "CbGbCtD": 0.36317548246176706,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.02138413218886386,
     "CcSEcCtD": 0.08490115577179741
   },
+  "n_trials": 0.0,
   "prediction": 0.0025904538994206898,
   "status": 0,
   "training_prediction": 0.006627957060527921

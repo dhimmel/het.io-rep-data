@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00973",
   "compound_name": "Ezetimibe",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.551365409622887,
   "metapath_contribution": {
     "CbGbCtD": 0.780977506749154,
     "CbGeAlD": 0.0021993341307307464,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1762641530396613,
     "CrCbGaD": 0.006518403231931342
   },
+  "n_trials": 0.0,
   "prediction": 0.00261036885141078,
   "status": 0,
   "training_prediction": 0.00792162301180253

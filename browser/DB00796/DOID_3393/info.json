@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00796",
   "compound_name": "Candesartan",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.10548596282039352,
     "CbGbCtD": 0.21950981013060678,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.23722007205161774,
     "CrCtD": 0.35111888562079835
   },
+  "n_trials": 4.0,
   "prediction": 0.0661763075113665,
   "status": 0,
   "training_prediction": 0.276534931939228

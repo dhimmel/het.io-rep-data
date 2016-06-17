@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.6184985419743384,
     "CbGbCtD": 0.21174727689694667,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.016961641560043563,
     "CrCbGaD": 0.004112853068239416
   },
+  "n_trials": 0.0,
   "prediction": 0.00235651376098934,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
-    "CbGbCtD": 0.36826604617935815,
-    "CbGeAlD": 4.951568746480288e-05,
-    "CbGpPWpGaD": 0.014718166372796757,
-    "CcSEcCtD": 0.11573282429366546,
+    "CbGbCtD": 0.3682660461793581,
+    "CbGeAlD": 4.9515687464802874e-05,
+    "CbGpPWpGaD": 0.014718166372796753,
+    "CcSEcCtD": 0.11573282429366545,
     "CpDpCtD": 0.5012334474667148
   },
+  "n_trials": 0.0,
   "prediction": 0.00903843307869593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

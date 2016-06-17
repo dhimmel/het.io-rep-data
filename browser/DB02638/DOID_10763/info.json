@@ -1,8 +1,10 @@
 {
   "compound_id": "DB02638",
   "compound_name": "Terlipressin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6573472041612479,
   "metapath_contribution": {
     "CbGaD": 0.64657447709155,
     "CbGeAlD": 0.05267793056388029,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14660327143596233,
     "CrCbGaD": 0.004946588306789262
   },
+  "n_trials": 1.0,
   "prediction": 0.005832580684894071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.557867360208062,
   "metapath_contribution": {
     "CbGaD": 0.7627244852505831,
     "CbGeAlD": 0.1253342169384149,
     "CbGpPWpGaD": 0.09818885183089959,
     "CrCbGaD": 0.013752445980102482
   },
+  "n_trials": 0.0,
   "prediction": 0.00132904571147965,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

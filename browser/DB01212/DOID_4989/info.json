@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.389466840052016,
   "metapath_contribution": {
     "CbGaD": 0.8630477588129782,
     "CbGeAlD": 0.035084527805619624,
     "CcSEcCtD": 0.09428398747490555,
     "CrCbGaD": 0.007583725906496526
   },
+  "n_trials": 0.0,
   "prediction": 0.00129060350365145,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

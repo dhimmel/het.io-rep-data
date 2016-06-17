@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00422",
   "compound_name": "Methylphenidate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.8699153615457412,
     "CbGeAlD": 0.06013299135224947,
     "CbGpPWpGaD": 0.06742215137944761,
     "CrCbGaD": 0.0025294957225616217
   },
+  "n_trials": 0.0,
   "prediction": 0.00266771725190223,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

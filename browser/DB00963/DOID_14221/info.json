@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.435630689206762,
   "metapath_contribution": {
     "CbGaD": 0.8948754090328763,
     "CbGeAlD": 0.023580522882342525,
     "CbGpPWpGaD": 0.07056110680427964,
     "CrCbGaD": 0.01098296128050155
   },
+  "n_trials": 0.0,
   "prediction": 0.00126554500666018,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

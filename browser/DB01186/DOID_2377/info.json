@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.432379713914174,
   "metapath_contribution": {
     "CbGbCtD": 0.17550765906715327,
     "CbGeAlD": 0.24277831542214037,
     "CbGpPWpGaD": 0.18857751660953875,
     "CcSEcCtD": 0.3931365089011677
   },
+  "n_trials": 0.0,
   "prediction": 0.00169511824371628,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

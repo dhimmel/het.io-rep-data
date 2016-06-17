@@ -1,16 +1,19 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.422626788036411,
   "metapath_contribution": {
-    "CbGaD": 0.1094000417155185,
-    "CbGbCtD": 0.5755912755558177,
-    "CbGeAlD": 0.03526435246376658,
-    "CbGpPWpGaD": 0.13783005439092533,
-    "CcSEcCtD": 0.1392214700308858,
-    "CrCbGaD": 0.0026928058430862483
+    "CbGaD": 0.10940004171551847,
+    "CbGbCtD": 0.5755912755558176,
+    "CbGeAlD": 0.03526435246376657,
+    "CbGpPWpGaD": 0.1378300543909253,
+    "CcSEcCtD": 0.13922147003088578,
+    "CrCbGaD": 0.002692805843086248
   },
+  "n_trials": 0.0,
   "prediction": 0.0019982532826517,
   "status": 0,
   "training_prediction": 0.0140393922048151

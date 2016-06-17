@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01330",
   "compound_name": "Cefotetan",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.20676202860858303,
   "metapath_contribution": {
     "CbGaD": 0.5234673238147306,
     "CbGbCtD": 0.1527277189626359,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.28431961167246433,
     "CrCbGaD": 0.001458711904070198
   },
+  "n_trials": 0.0,
   "prediction": 0.00131500580062972,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

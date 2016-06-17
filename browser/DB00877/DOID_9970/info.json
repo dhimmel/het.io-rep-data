@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.17555266579974,
   "metapath_contribution": {
     "CbGaD": 0.3523795368191886,
     "CbGbCtD": 0.334510442138566,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1425872204730366,
     "CrCbGaD": 0.0041907796033034
   },
+  "n_trials": 0.0,
   "prediction": 0.0012517370047394301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGaD": 0.4118102963308694,
     "CbGbCtD": 0.2809772808308877,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.20086169160510897,
     "CrCbGaD": 0.0020768391993585718
   },
+  "n_trials": 0.0,
   "prediction": 0.0063603540345496205,
   "status": 0,
   "training_prediction": 0.030469889286341003

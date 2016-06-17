@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.14559674718114726,
     "CbGbCtD": 0.2021269440362689,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05394601662108312,
     "CrCrCtD": 0.501610476321795
   },
+  "n_trials": 0.0,
   "prediction": 0.00277169688088374,
   "status": 0,
   "training_prediction": 0.0075064467307389094

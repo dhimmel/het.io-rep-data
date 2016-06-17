@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.41077965228137797,
     "CbGbCtD": 0.4046683606343565,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05237799246012521,
     "CrCbGaD": 0.0025214061347125422
   },
+  "n_trials": 0.0,
   "prediction": 0.00461608967019299,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

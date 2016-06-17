@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.43888166449934995,
   "metapath_contribution": {
     "CbGaD": 0.5113976950285668,
     "CbGbCtD": 0.2427420316467515,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.15918480380640532,
     "CrCbGaD": 0.004927044513183135
   },
+  "n_trials": 0.0,
   "prediction": 0.0022573868700406,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

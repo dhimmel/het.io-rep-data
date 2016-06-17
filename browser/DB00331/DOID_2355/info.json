@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.6328615922388732,
     "CbGeAlD": 0.16156712342251223,
     "CbGpPWpGaD": 0.20557128433861444
   },
+  "n_trials": 0.0,
   "prediction": 0.00419484739845749,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

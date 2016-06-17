@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00520",
   "compound_name": "Caspofungin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.2183868087116033,
     "CbGbCtD": 0.48619531494357243,
     "CbGpPWpGaD": 0.004841065418918048,
     "CcSEcCtD": 0.2905768109259062
   },
+  "n_trials": 0.0,
   "prediction": 0.0040554257973497605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

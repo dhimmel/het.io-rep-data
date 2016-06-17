@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01043",
   "compound_name": "Memantine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.6252755967214927,
     "CbGeAlD": 0.10186375931768321,
     "CbGpPWpGaD": 0.0842589301097195,
     "CcSEcCtD": 0.1886017138511046
   },
+  "n_trials": 2.0,
   "prediction": 0.0038577219901585603,
   "status": 0,
   "training_prediction": 0.00284689874391945

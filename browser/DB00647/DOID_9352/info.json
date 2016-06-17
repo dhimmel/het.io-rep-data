@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00647",
   "compound_name": "Dextropropoxyphene",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.50260078023407,
   "metapath_contribution": {
     "CbGaD": 0.13198450315701965,
     "CbGbCtD": 0.44705406974393663,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0031414296461079708,
     "CrCrCtD": 0.23444850885571794
   },
+  "n_trials": 0.0,
   "prediction": 0.0025129368901105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

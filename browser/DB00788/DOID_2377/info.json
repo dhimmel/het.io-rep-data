@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.1371083262883156,
     "CbGbCtD": 0.2524912417106725,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.4700143387670156,
     "CrCbGaD": 0.00037802830364755494
   },
+  "n_trials": 1.0,
   "prediction": 0.0029828236541621198,
   "status": 0,
   "training_prediction": 0.007627201068718509

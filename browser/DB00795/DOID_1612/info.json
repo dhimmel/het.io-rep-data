@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.408322496749025,
   "metapath_contribution": {
     "CbGaD": 0.4289491695392371,
     "CbGbCtD": 0.3521078655094917,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.15284740021572876,
     "CrCbGaD": 0.0029560217811726132
   },
+  "n_trials": 0.0,
   "prediction": 0.00202208560372751,
   "status": 0,
   "training_prediction": 0.0310927678804133

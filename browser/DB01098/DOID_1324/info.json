@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7009102730819251,
   "metapath_contribution": {
     "CbGaD": 0.27770964476676757,
     "CbGbCtD": 0.5338660932432083,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08868662911585967,
     "CrCbGaD": 0.0029999131819176163
   },
+  "n_trials": 0.0,
   "prediction": 0.0025744356514987,
   "status": 0,
   "training_prediction": 0.0145622993409913

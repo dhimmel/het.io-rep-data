@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.11601470953386686,
     "CbGbCtD": 0.21959284143514102,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2356581385762251,
     "CrCtD": 0.3463615834385489
   },
+  "n_trials": 0.0,
   "prediction": 0.0589901332513461,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

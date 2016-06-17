@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08911",
   "compound_name": "Trametinib",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGbCtD": 0.13070643501136323,
     "CbGeAlD": 0.018151342604651448,
     "CbGpPWpGaD": 0.4378138744220318,
     "CcSEcCtD": 0.41332834796195356
   },
+  "n_trials": 3.0,
   "prediction": 0.0037103408905556604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

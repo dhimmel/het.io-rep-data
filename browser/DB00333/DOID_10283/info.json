@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.498699609882965,
   "metapath_contribution": {
     "CbGaD": 0.37257542014578654,
     "CbGbCtD": 0.4033163662727727,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10854861233488892,
     "CrCbGaD": 0.0026422814687787144
   },
+  "n_trials": 0.0,
   "prediction": 0.00229161933224307,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

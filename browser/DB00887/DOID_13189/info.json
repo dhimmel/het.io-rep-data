@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGaD": 0.33597607508739646,
     "CbGbCtD": 0.35883830665692795,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0022227859229174943,
     "CrCrCtD": 0.18081104231112377
   },
+  "n_trials": 0.0,
   "prediction": 0.0160428201498783,
   "status": 0,
   "training_prediction": 0.0347443745474334

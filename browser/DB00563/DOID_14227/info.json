@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGdCrCtD": 0.003033255904546392,
     "CbGeAlD": 0.04894901782375939,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.03771691325582743,
     "CtDrD": 0.8792594585334829
   },
+  "n_trials": 0.0,
   "prediction": 0.0042925510663944,
   "status": 0,
   "training_prediction": 0.0225537645965807

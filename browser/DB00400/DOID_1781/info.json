@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00400",
   "compound_name": "Griseofulvin",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.533159947984395,
   "metapath_contribution": {
     "CbGbCtD": 0.6091361348637763,
     "CcSEcCtD": 0.3908638651362237
   },
+  "n_trials": 0.0,
   "prediction": 0.00156777137770637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

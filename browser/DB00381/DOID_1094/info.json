@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.634590377113134,
   "metapath_contribution": {
     "CbGaD": 0.8296307841948277,
     "CbGeAlD": 0.06314236011670722,
     "CbGpPWpGaD": 0.0982211899138992,
     "CrCbGaD": 0.009005665774565954
   },
+  "n_trials": 0.0,
   "prediction": 0.0016903440890078802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

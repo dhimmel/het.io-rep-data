@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01437",
   "compound_name": "Glutethimide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.682704811443433,
   "metapath_contribution": {
     "CbGbCtD": 0.7872799576974338,
     "CbGeAlD": 0.06428645104977583,
     "CbGpPWpGaD": 0.14091259013155766,
     "CrCbGaD": 0.007521001121232789
   },
+  "n_trials": 0.0,
   "prediction": 0.00289767819899369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

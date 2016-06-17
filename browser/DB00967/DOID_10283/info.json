@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00967",
   "compound_name": "Desloratadine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.630039011703511,
   "metapath_contribution": {
     "CbGaD": 0.23518747642956647,
     "CbGbCtD": 0.5111752187432463,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14845506426245225,
     "CrCbGaD": 0.0012847840097787546
   },
+  "n_trials": 0.0,
   "prediction": 0.00297407356408111,
   "status": 0,
   "training_prediction": 0.0125416685966327

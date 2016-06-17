@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.15539905585747826,
     "CbGbCtD": 0.1890398888197561,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.16305250913789082,
     "CrCtD": 0.22740202906135518
   },
+  "n_trials": 0.0,
   "prediction": 0.0843085198856782,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

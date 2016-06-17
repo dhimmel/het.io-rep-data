@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.26853055916775,
   "metapath_contribution": {
     "CbGaD": 0.5077593288921785,
     "CbGeAlD": 0.20199000147805954,
     "CbGpPWpGaD": 0.2838960981435244,
     "CrCbGaD": 0.00635457148623756
   },
+  "n_trials": 0.0,
   "prediction": 0.0008883300241494279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

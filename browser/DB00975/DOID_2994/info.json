@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.38672680884692057,
     "CbGdCrCtD": 0.00901456680509791,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14004796739161127,
     "CcSEcCtD": 0.1950595417019028
   },
+  "n_trials": 0.0,
   "prediction": 0.00304810606331282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.23039890824768774,
     "CbGbCtD": 0.19998370201078378,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07843428212518887,
     "CtDrD": 0.4239612128353459
   },
+  "n_trials": 0.0,
   "prediction": 0.0127143924534204,
   "status": 0,
   "training_prediction": 0.0280438127050168

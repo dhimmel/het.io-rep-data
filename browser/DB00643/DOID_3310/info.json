@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.22301690507152103,
   "metapath_contribution": {
     "CbGbCtD": 0.9092381771315813,
     "CbGeAlD": 0.021876527251967863,
     "CcSEcCtD": 0.06784512993540887,
     "CrCbGaD": 0.0010401656810420331
   },
+  "n_trials": 0.0,
   "prediction": 0.00150082859705692,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

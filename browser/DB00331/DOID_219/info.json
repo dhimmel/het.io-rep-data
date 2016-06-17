@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGbCtD": 0.2077889823667611,
     "CbGeAlD": 0.4050269848582876,
     "CbGpPWpGaD": 0.1863774205386576,
     "CcSEcCtD": 0.20080661223629373
   },
+  "n_trials": 0.0,
   "prediction": 0.00286070227686115,
   "status": 0,
   "training_prediction": 0.00921807047508777

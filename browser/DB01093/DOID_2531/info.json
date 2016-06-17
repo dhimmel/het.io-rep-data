@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01093",
   "compound_name": "Dimethyl sulfoxide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGbCtD": 0.8303446442227926,
     "CbGeAlD": 0.0036939354146290574,
     "CbGpPWpGaD": 0.07086371978646527,
     "CcSEcCtD": 0.0950977005761131
   },
+  "n_trials": 1.0,
   "prediction": 0.00381235322992875,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

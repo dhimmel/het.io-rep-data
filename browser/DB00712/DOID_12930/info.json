@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.165799739921977,
   "metapath_contribution": {
     "CbGbCtD": 0.38268822634936317,
     "CbGeAlD": 0.18292694443421395,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.39961608360115153,
     "CrCbGaD": 0.0030269558863981446
   },
+  "n_trials": 0.0,
   "prediction": 0.00109170368957872,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

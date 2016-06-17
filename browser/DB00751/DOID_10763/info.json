@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00751",
   "compound_name": "Epinastine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.655396618985696,
   "metapath_contribution": {
     "CbGaD": 0.28164867149643585,
     "CbGbCtD": 0.34692646844377006,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0030501303462793995,
     "CrCrCtD": 0.19203670893160596
   },
+  "n_trials": 0.0,
   "prediction": 0.0057995857239284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

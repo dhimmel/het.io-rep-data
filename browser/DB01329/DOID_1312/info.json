@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01329",
   "compound_name": "Cefoperazone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.607282184655397,
   "metapath_contribution": {
     "CbGaD": 0.768136327296137,
     "CbGbCtD": 0.15673276094220986,
     "CbGeAlD": 0.06934389826780193,
     "CrCbGaD": 0.005787013493851256
   },
+  "n_trials": 0.0,
   "prediction": 0.00167227424654816,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

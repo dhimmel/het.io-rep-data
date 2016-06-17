@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00610",
   "compound_name": "Metaraminol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGaD": 0.356746530950458,
     "CbGbCtD": 0.3227800103691615,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004234394389671139,
     "CrCrCtD": 0.27255010421620984
   },
+  "n_trials": 1.0,
   "prediction": 0.00685984394574146,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

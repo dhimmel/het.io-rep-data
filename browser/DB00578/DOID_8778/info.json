@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.0403120936280884,
   "metapath_contribution": {
     "CbGdCrCtD": 0.022138309794122867,
     "CbGpPWpGaD": 0.785905951065541,
     "CcSEcCtD": 0.1241212004653766,
     "CrCbGaD": 0.06783453867495949
   },
+  "n_trials": 0.0,
   "prediction": 0.000770362784562142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

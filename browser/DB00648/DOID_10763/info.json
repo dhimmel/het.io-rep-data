@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00648",
   "compound_name": "Mitotane",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGaD": 0.37196081820442856,
     "CbGbCtD": 0.1611108660986074,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0018914053771436521,
     "CrCrCtD": 0.19616534967328228
   },
+  "n_trials": 0.0,
   "prediction": 0.007536951294392921,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

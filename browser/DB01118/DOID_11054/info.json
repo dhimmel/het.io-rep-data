@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.304291287386216,
   "metapath_contribution": {
     "CbGbCtD": 0.43447954927433,
     "CbGdCrCtD": 0.0017996776962377079,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1528828032506196,
     "CcSEcCtD": 0.30767902404917
   },
+  "n_trials": 0.0,
   "prediction": 0.00112729244151263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

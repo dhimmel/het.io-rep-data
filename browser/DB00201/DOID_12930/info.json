@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.419375812743823,
   "metapath_contribution": {
     "CbGbCtD": 0.31876358165315216,
     "CbGdCrCtD": 0.009917173685511042,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.4361788445033434,
     "CcSEcCtD": 0.023697181971761135
   },
+  "n_trials": 0.0,
   "prediction": 0.00148384592743645,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

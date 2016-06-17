@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGaD": 0.7584577765730977,
     "CbGeAlD": 0.09435474514895256,
     "CbGpPWpGaD": 0.14316278549660602,
     "CrCbGaD": 0.004024692781343631
   },
+  "n_trials": 0.0,
   "prediction": 0.0025540308151220897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

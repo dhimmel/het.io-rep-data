@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGbCtD": 0.13086992795323774,
     "CiPCiCtD": 0.39074857707971117,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.18807811139228353,
     "CrCtD": 0.29021590629227056
   },
+  "n_trials": 0.0,
   "prediction": 0.0416278139612538,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

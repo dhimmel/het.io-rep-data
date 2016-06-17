@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.7494178854156053,
     "CbGeAlD": 0.019841210570327963,
     "CbGpPWpGaD": 0.12704898350841498,
     "CcSEcCtD": 0.10369192050565175
   },
+  "n_trials": 2.0,
   "prediction": 0.00512947030766908,
   "status": 0,
   "training_prediction": 0.00506031985098122

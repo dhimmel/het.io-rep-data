@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.47039929362471106,
     "CbGbCtD": 0.2607627273738234,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13223640724989918,
     "CrCbGaD": 0.0044271768186867
   },
+  "n_trials": 0.0,
   "prediction": 0.00953233175818073,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

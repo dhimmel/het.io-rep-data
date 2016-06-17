@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00842",
   "compound_name": "Oxazepam",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.397269180754226,
   "metapath_contribution": {
     "CbGaD": 0.14522297639423867,
     "CbGbCtD": 0.46688245817973534,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18086596128674548,
     "CrCbGaD": 0.0040420136463449885
   },
+  "n_trials": 0.0,
   "prediction": 0.0020893145977674897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

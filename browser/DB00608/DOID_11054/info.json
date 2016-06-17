@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.6079323797139139,
   "metapath_contribution": {
     "CbGaD": 0.496749694586499,
     "CbGbCtD": 0.252378153708939,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13076580280880942,
     "CcSEcCtD": 0.08151657771724878
   },
+  "n_trials": 0.0,
   "prediction": 0.0018642855841442699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00352",
   "compound_name": "Tioguanine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGbCtD": 0.24659802482494594,
     "CbGdCrCtD": 0.0011881227289947053,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.27538390184321687,
     "CrCtD": 0.44341182664512124
   },
+  "n_trials": 0.0,
   "prediction": 0.0503273647211072,
   "status": 0,
   "training_prediction": 0.153821794236126

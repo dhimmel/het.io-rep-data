@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.8608353463840156,
     "CbGeAlD": 0.1161410890554296,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.017804738381104728,
     "CrCbGaD": 0.0016511673351873944
   },
+  "n_trials": 0.0,
   "prediction": 0.00267732068919396,
   "status": 0,
   "training_prediction": 0.0019751799275095103

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.11963589076723,
   "metapath_contribution": {
     "CbGbCtD": 0.4024668316752345,
     "CcSEcCtD": 0.1842813003696925,
     "CrCbGaD": 0.010391932185649308,
     "CrCrCtD": 0.4028599357694237
   },
+  "n_trials": 0.0,
   "prediction": 0.00125940122209985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

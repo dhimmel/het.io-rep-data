@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00278",
   "compound_name": "Argatroban",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.8318526629406929,
     "CbGeAlD": 0.08437370729947052,
     "CbGpPWpGaD": 0.08377362975983643
   },
+  "n_trials": 1.0,
   "prediction": 0.0047724020469522704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

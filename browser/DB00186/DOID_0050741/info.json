@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00186",
   "compound_name": "Lorazepam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.844603381014304,
   "metapath_contribution": {
     "CbGbCtD": 0.3379616245521259,
     "CbGeAlD": 0.023908208447912718,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.49549475842303886,
     "CrCbGaD": 0.005663104663969601
   },
+  "n_trials": 1.0,
   "prediction": 0.004882745344469129,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

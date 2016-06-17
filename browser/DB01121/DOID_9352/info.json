@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01121",
   "compound_name": "Phenacemide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6170351105331601,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.004745900270288946,
     "CrCbGaD": 0.003215779038776199,
     "CrCrCtD": 0.3512876414959692,
     "CrCtD": 0.6407506791949658
   },
+  "n_trials": 0.0,
   "prediction": 0.00305561440284844,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

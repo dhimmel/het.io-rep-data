@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.4661898569570871,
   "metapath_contribution": {
     "CbGaD": 0.49896310348348927,
     "CbGeAlD": 0.16770250881157955,
     "CbGpPWpGaD": 0.324888730034305,
     "CrCbGaD": 0.008445657670626234
   },
+  "n_trials": 0.0,
   "prediction": 0.00148743508346031,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

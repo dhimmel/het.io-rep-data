@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.424577373211964,
   "metapath_contribution": {
     "CbGaD": 0.4411002336862257,
     "CbGbCtD": 0.33786964971657424,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04404421079427126,
     "CrCbGaD": 0.0031691700373798733
   },
+  "n_trials": 0.0,
   "prediction": 0.0012776014834974699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

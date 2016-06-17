@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.630039011703511,
   "metapath_contribution": {
     "CbGbCtD": 0.5515059605204273,
     "CbGeAlD": 0.07723198161724704,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1272276943340166,
     "CrCbGaD": 0.008247464770449364
   },
+  "n_trials": 0.0,
   "prediction": 0.00196390701622652,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

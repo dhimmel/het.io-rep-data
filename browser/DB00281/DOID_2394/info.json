@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.6820546163849152,
   "metapath_contribution": {
     "CbGaD": 0.44101442257044166,
     "CbGbCtD": 0.3634969246554421,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06917897073937467,
     "CcSEcCtD": 0.10829862668464589
   },
+  "n_trials": 0.0,
   "prediction": 0.00196228504660287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

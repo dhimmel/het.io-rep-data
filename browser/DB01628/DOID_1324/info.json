@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.676853055916775,
   "metapath_contribution": {
     "CbGaD": 0.3577005592891756,
     "CbGbCtD": 0.34076494770267585,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1676971847129411,
     "CrCbGaD": 0.006027725678158246
   },
+  "n_trials": 0.0,
   "prediction": 0.0024434208232271396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

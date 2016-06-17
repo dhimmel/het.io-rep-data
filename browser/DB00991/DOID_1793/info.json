@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.4603381014304289,
   "metapath_contribution": {
     "CbGaD": 0.40227888382251886,
     "CcSEcCtD": 0.15755356352054525,
     "CrCbGaD": 0.0001442239986423592,
     "CrCrCtD": 0.4400233286582935
   },
+  "n_trials": 0.0,
   "prediction": 0.00165871383511769,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

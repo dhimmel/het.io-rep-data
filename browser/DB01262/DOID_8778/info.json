@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.39066620140070607,
     "CbGdCrCtD": 0.0014503894582437742,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5572570096065382,
     "CrCbGaD": 0.0013762735516878524
   },
+  "n_trials": 0.0,
   "prediction": 0.00483892265725675,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01119",
   "compound_name": "Diazoxide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGaD": 0.5173044311527948,
     "CbGbCtD": 0.15905544003293415,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11334822468055086,
     "CcSEcCtD": 0.17939470577423905
   },
+  "n_trials": 0.0,
   "prediction": 0.00440005398129918,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

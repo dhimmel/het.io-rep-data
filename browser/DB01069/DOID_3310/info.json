@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.2243263263841326,
     "CbGeAlD": 0.006984474641763757,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.25650590939994083,
     "CrCtD": 0.4092808094145491
   },
+  "n_trials": 1.0,
   "prediction": 0.0057888947836005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

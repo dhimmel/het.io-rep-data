@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00857",
   "compound_name": "Terbinafine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7698309492847851,
   "metapath_contribution": {
     "CbGaD": 0.3209066698435846,
     "CbGbCtD": 0.4119242587784699,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13042410240551153,
     "CrCbGaD": 0.0005389446542614308
   },
+  "n_trials": 0.0,
   "prediction": 0.00432317640380695,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

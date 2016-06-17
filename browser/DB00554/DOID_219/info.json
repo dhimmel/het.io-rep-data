@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6131339401820551,
   "metapath_contribution": {
     "CbGaD": 0.49985970918687056,
     "CbGbCtD": 0.47578832526928344,
     "CbGeAlD": 0.01948859603814868,
     "CrCbGaD": 0.004863369505697335
   },
+  "n_trials": 0.0,
   "prediction": 0.00184966759468039,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

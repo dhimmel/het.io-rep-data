@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.2987246779076252,
     "CbGbCtD": 0.5335612636867827,
     "CbGeAlD": 0.04596696928495374,
-    "CbGpPWpGaD": 0.12105132276754807,
-    "CrCbGaD": 0.000695766353090277
+    "CbGpPWpGaD": 0.12105132276754806,
+    "CrCbGaD": 0.0006957663530902769
   },
+  "n_trials": 0.0,
   "prediction": 0.0031563215706443396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

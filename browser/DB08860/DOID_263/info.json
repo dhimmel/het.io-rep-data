@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.530559167750325,
   "metapath_contribution": {
     "CbGaD": 0.14665041448266009,
     "CbGbCtD": 0.6550161258835624,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11303657073341586,
     "CrCbGaD": 0.0009639892814516147
   },
+  "n_trials": 0.0,
   "prediction": 0.00190805613427415,
   "status": 0,
   "training_prediction": 0.005549262432972379

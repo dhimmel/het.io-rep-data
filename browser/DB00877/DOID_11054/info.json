@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.0247074122236671,
   "metapath_contribution": {
     "CbGbCtD": 0.3254610426834811,
     "CbGeAlD": 0.11763155521288052,
     "CbGpPWpGaD": 0.21646062540662328,
     "CcSEcCtD": 0.340446776697015
   },
+  "n_trials": 10.0,
   "prediction": 0.000572697778195349,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

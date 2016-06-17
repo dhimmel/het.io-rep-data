@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.637841352405722,
   "metapath_contribution": {
     "CbGaD": 0.7231672866159314,
     "CbGeAlD": 0.05654958813671624,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07134439957178859,
     "CrCbGaD": 0.0033390299808664804
   },
+  "n_trials": 0.0,
   "prediction": 0.00168962577362397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.25436887974842454,
     "CbGbCtD": 0.24244489817251358,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03372814831559271,
     "CtDrD": 0.4235637504159896
   },
+  "n_trials": 2.0,
   "prediction": 0.00285337217463427,
   "status": 0,
   "training_prediction": 0.008678885189281

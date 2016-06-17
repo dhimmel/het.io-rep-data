@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.16710013003901197,
   "metapath_contribution": {
     "CbGbCtD": 0.2428141609020883,
     "CbGdCrCtD": 0.020258777373834806,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.6178790494356294,
     "CrCbGaD": 0.010160331307498377
   },
+  "n_trials": 0.0,
   "prediction": 0.000875603877521756,
   "status": 0,
   "training_prediction": 0.00208857782299988

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08912",
   "compound_name": "Dabrafenib",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.3538293228144569,
     "CbGbCtD": 0.4733210483211145,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04472614056230733,
     "CcSEcCtD": 0.11554066601117827
   },
+  "n_trials": 0.0,
   "prediction": 0.008488314549360991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

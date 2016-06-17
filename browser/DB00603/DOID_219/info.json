@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.0325097529258778,
   "metapath_contribution": {
     "CbGbCtD": 0.2029361770969232,
     "CbGdCrCtD": 0.008779445343228375,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.443700122354693,
     "CrCbGaD": 0.0037699588762225966
   },
+  "n_trials": 0.0,
   "prediction": 0.000628987203377834,
   "status": 0,
   "training_prediction": 0.00089785823325808

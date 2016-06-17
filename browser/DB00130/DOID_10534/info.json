@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGbCtD": 0.47152773909839774,
     "CbGeAlD": 0.17496187034521396,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12434066454436865,
     "CrCbGaD": 0.0039022666007909788
   },
+  "n_trials": 0.0,
   "prediction": 0.0020661213251623603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

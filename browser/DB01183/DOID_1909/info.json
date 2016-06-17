@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.694408322496749,
   "metapath_contribution": {
     "CbGaD": 0.636583182887274,
     "CbGbCtD": 0.153917174807175,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.17300258951444483,
     "CcSEcCtD": 0.025605171984616787
   },
+  "n_trials": 0.0,
   "prediction": 0.00193775640436716,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

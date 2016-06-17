@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00324",
   "compound_name": "Fluorometholone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGbCtD": 0.14775707992930853,
     "CcSEcCtD": 0.025985532686963696,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.19452275619763987,
     "CrCtD": 0.26729838719930443
   },
+  "n_trials": 0.0,
   "prediction": 0.0401330485718452,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

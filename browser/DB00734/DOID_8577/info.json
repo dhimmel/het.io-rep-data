@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7301690507152149,
   "metapath_contribution": {
     "CbGaD": 0.20330912585968802,
     "CbGbCtD": 0.38426514531588474,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09520014463189164,
     "CcSEcCtD": 0.26684701603595234
   },
+  "n_trials": 0.0,
   "prediction": 0.00297261158863605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

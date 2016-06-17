@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7873862158647591,
   "metapath_contribution": {
     "CbGaD": 0.3263403595028326,
     "CbGbCtD": 0.4320535236768448,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15745417105831278,
     "CrCbGaD": 0.0036538449457038237
   },
+  "n_trials": 8.0,
   "prediction": 0.00463991387278456,
   "status": 0,
   "training_prediction": 0.0245267416303018

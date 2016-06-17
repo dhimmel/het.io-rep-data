@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGbCtD": 0.10208784821365989,
     "CbGdCrCtD": 0.0007585831158064346,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.18720714785228904,
     "CrCtD": 0.2922658000405369
   },
+  "n_trials": 0.0,
   "prediction": 0.0402243273038787,
   "status": 0,
   "training_prediction": 0.14314336875421

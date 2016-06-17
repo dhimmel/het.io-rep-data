@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.39596879063719104,
   "metapath_contribution": {
     "CbGbCtD": 0.05314421717080089,
     "CbGeAlD": 0.8356112134820626,
     "CcSEcCtD": 0.10100850057344847,
     "CrCbGaD": 0.010236068773688088
   },
+  "n_trials": 0.0,
   "prediction": 0.00140906656144637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

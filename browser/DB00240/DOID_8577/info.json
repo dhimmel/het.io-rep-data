@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGbCtD": 0.14947601001901364,
     "CcSEcCtD": 0.028108608949836255,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.19060297068295937,
     "CrCtD": 0.27077602689282004
   },
+  "n_trials": 0.0,
   "prediction": 0.0568884666092785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

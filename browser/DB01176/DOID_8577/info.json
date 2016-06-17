@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01176",
   "compound_name": "Cyclizine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.0799739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.27686169622582535,
     "CbGeAlD": 0.004836989643678241,
     "CcSEcCtD": 0.6809929376742434,
     "CrCbGaD": 0.03730837645625305
   },
+  "n_trials": 0.0,
   "prediction": 0.000969516734962215,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

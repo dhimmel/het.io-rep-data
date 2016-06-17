@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
     "CbGaD": 0.8373240494689681,
     "CbGeAlD": 0.00040930035862427684,
     "CbGpPWpGaD": 0.15043040516222572,
     "CrCbGaD": 0.011836245010181974
   },
+  "n_trials": 0.0,
   "prediction": 0.00185949258041708,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06209",
   "compound_name": "Prasugrel",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGaD": 0.264547680398279,
     "CbGbCtD": 0.5835897688343212,
     "CbGeAlD": 0.033520723767956125,
     "CcSEcCtD": 0.11834182699944372
   },
+  "n_trials": 0.0,
   "prediction": 0.00447702270062224,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

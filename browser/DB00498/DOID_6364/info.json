@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00498",
   "compound_name": "Phenindione",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.774382314694408,
   "metapath_contribution": {
     "CbGeAlD": 0.0048286847852595715,
     "CrCbGaD": 0.0035888658731828113,
     "CrCrCtD": 0.36810763862115253,
     "CrCtD": 0.6234748107204051
   },
+  "n_trials": 0.0,
   "prediction": 0.00426308884638098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01608",
   "compound_name": "Propericiazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.35695708712613794,
   "metapath_contribution": {
     "CbGaD": 0.4502348735421788,
     "CbGbCtD": 0.3302901917877,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15133650076171662,
     "CrCbGaD": 0.005141170224759591
   },
+  "n_trials": 0.0,
   "prediction": 0.00196268705527413,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

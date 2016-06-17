@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00612",
   "compound_name": "Bisoprolol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.43302990897269206,
   "metapath_contribution": {
     "CbGaD": 0.3627942290496961,
     "CbGbCtD": 0.37338123963619435,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2261003342556874,
     "CrCbGaD": 0.0031368015054254457
   },
+  "n_trials": 1.0,
   "prediction": 0.00209537805506276,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

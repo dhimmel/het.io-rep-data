@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.08691884068073075,
     "CbGbCtD": 0.1596239306603575,
@@ -15,6 +17,7 @@
     "CrCtD": 0.19652231702708323,
     "CtDrD": 0.12028288874478764
   },
+  "n_trials": 0.0,
   "prediction": 0.239658745963962,
   "status": 0,
   "training_prediction": 0.773137838791014

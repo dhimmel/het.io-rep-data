@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.10728218465539699,
   "metapath_contribution": {
     "CbGbCtD": 0.6271309975246463,
     "CbGeAlD": 0.01930303109194359,
     "CbGpPWpGaD": 0.08656688465409933,
     "CcSEcCtD": 0.2669990867293108
   },
+  "n_trials": 0.0,
   "prediction": 0.000999806078931136,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

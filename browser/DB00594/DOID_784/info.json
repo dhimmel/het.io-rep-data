@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00594",
   "compound_name": "Amiloride",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.41154214711601833,
     "CbGeAlD": 0.052024133441667085,
     "CbGpPWpGaD": 0.06309443710240896,
     "CtDrD": 0.47333928233990563
   },
+  "n_trials": 0.0,
   "prediction": 0.0104511092970825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

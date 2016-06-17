@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00302",
   "compound_name": "Tranexamic Acid",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.6776482756366855,
     "CbGeAlD": 0.029761886586481656,
     "CbGpPWpGaD": 0.11626215455116935,
     "CcSEcCtD": 0.17632768322566353
   },
+  "n_trials": 1.0,
   "prediction": 0.005847363496407121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

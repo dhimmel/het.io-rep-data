@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00403",
   "compound_name": "Ceruletide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.8615492888298323,
     "CbGeAlD": 0.036228219996613915,
     "CbGpPWpGaD": 0.09664220622557256,
     "CrCbGaD": 0.005580284947981125
   },
+  "n_trials": 0.0,
   "prediction": 0.00521659691178284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.631989596879064,
   "metapath_contribution": {
     "CbGaD": 0.9129995639970504,
     "CbGeAlD": 0.021604452620810455,
     "CbGpPWpGaD": 0.05840922449898841,
     "CrCbGaD": 0.006986758883150772
   },
+  "n_trials": 0.0,
   "prediction": 0.00166182419217119,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGaD": 0.16711807634164094,
     "CbGbCtD": 0.6248465941053519,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.008999372614761782,
     "CcSEcCtD": 0.14132204900799422
   },
+  "n_trials": 0.0,
   "prediction": 0.00439887371027557,
   "status": 0,
   "training_prediction": 0.022292565826955

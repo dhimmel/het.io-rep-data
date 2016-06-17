@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06262",
   "compound_name": "Droxidopa",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0539661898569571,
   "metapath_contribution": {
     "CbGeAlD": 0.11075118982543695,
     "CbGpPWpGaD": 0.5028373555231558,
     "CcSEcCtD": 0.3677630546461358,
     "CrCbGaD": 0.018648400005271546
   },
+  "n_trials": 0.0,
   "prediction": 0.000697885016729732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

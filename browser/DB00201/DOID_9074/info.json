@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGbCtD": 0.3425854290558698,
     "CbGdCrCtD": 0.0020530203890310435,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05949251678893948,
     "CpDpCtD": 0.39163741597975155
   },
+  "n_trials": 0.0,
   "prediction": 0.0036898330897765295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

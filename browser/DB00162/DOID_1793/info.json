@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.0396618985695709,
   "metapath_contribution": {
     "CbGbCtD": 0.31404228277481006,
     "CbGdCrCtD": 0.011605381241131444,
     "CbGeAlD": 0.24638923969493373,
     "CbGpPWpGaD": 0.4279630962891247
   },
+  "n_trials": 0.0,
   "prediction": 0.000722750164163785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

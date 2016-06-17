@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00274",
   "compound_name": "Cefmetazole",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.21131339401820498,
   "metapath_contribution": {
     "CbGaD": 0.8255971859005543,
     "CbGbCtD": 0.07353073692697668,
     "CbGpPWpGaD": 0.09726154688095069,
     "CrCbGaD": 0.003610530291518254
   },
+  "n_trials": 0.0,
   "prediction": 0.00132677168060691,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

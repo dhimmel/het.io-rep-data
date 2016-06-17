@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.11053315994798402,
   "metapath_contribution": {
     "CbGaD": 0.17538787164449285,
     "CbGbCtD": 0.48601213212232264,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19522855949155676,
     "CrCbGaD": 0.0028560633503593204
   },
+  "n_trials": 0.0,
   "prediction": 0.00071890876065547,
   "status": 0,
   "training_prediction": 0.0013142482635759801

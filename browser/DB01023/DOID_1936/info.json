@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.22041612483745102,
   "metapath_contribution": {
     "CbGbCtD": 0.6324235584570466,
     "CbGeAlD": 0.053991219221861966,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18073266916736472,
     "CrCbGaD": 0.001246102565668159
   },
+  "n_trials": 0.0,
   "prediction": 0.0011923844939467699,
   "status": 0,
   "training_prediction": 0.00194527255284768

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00897",
   "compound_name": "Triazolam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.6949610419076454,
     "CbGeAlD": 0.022144039290564112,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11363269457132837,
     "CrCbGaD": 0.005001709358994285
   },
+  "n_trials": 0.0,
   "prediction": 0.0029242982019894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

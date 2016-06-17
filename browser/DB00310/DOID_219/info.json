@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00310",
   "compound_name": "Chlorthalidone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.8233137714943363,
     "CbGeAlD": 0.028090570756584735,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.03213308342956835,
     "CrCbGaD": 0.005591351941493176
   },
+  "n_trials": 0.0,
   "prediction": 0.0028912591401974697,
   "status": 0,
   "training_prediction": 0.00412318607514004

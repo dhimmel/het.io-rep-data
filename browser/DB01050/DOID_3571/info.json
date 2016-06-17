@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.7392717815344599,
   "metapath_contribution": {
     "CbGaD": 0.34020413775382763,
     "CbGbCtD": 0.3870617007369001,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10627116499126234,
     "CrCbGaD": 0.003078068393638358
   },
+  "n_trials": 0.0,
   "prediction": 0.00201389186391834,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

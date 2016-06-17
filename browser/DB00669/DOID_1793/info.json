@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.583875162548765,
   "metapath_contribution": {
     "CbGbCtD": 0.5925774715659752,
     "CbGeAlD": 0.023521725633743325,
     "CbGpPWpGaD": 0.09844922425441517,
     "CcSEcCtD": 0.2854515785458663
   },
+  "n_trials": 0.0,
   "prediction": 0.00198147462970379,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.19750481245724566,
     "CbGbCtD": 0.2947645619367607,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0015033428599352113,
     "CtDrD": 0.33857611785234215
   },
+  "n_trials": 0.0,
   "prediction": 0.0198497690894712,
   "status": 0,
   "training_prediction": 0.505791168470621

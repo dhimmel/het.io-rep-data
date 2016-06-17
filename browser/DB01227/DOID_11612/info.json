@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01227",
   "compound_name": "Levomethadyl Acetate",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.44603381014304294,
   "metapath_contribution": {
     "CbGaD": 0.7812760899176656,
     "CbGeAlD": 0.12345658302636946,
     "CbGpPWpGaD": 0.08733916423061598,
     "CrCbGaD": 0.00792816282534902
   },
+  "n_trials": 0.0,
   "prediction": 0.0013109987706885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

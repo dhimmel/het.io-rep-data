@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.698309492847854,
   "metapath_contribution": {
     "CbGaD": 0.3397662239614218,
     "CbGbCtD": 0.44990024222634545,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.11760175132064507,
     "CrCbGaD": 0.0036741024141144878
   },
+  "n_trials": 0.0,
   "prediction": 0.0034853045597584,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

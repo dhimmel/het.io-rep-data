@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.3900739442371161,
     "CbGbCtD": 0.41502766482934395,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.058119913526662535,
     "CrCbGaD": 0.003214864182677997
   },
+  "n_trials": 0.0,
   "prediction": 0.0026051561751488897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

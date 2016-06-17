@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.7076132698515248,
     "CbGeAlD": 0.025101095765134716,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09306194926607216,
     "CrCbGaD": 0.005573145400768344
   },
+  "n_trials": 0.0,
   "prediction": 0.0027808494068403303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

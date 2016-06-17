@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGbCtD": 0.6177907904140191,
     "CbGdCrCtD": 0.003138668028923709,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21107527231235595,
     "CrCbGaD": 0.001463771729044437
   },
+  "n_trials": 0.0,
   "prediction": 0.00175209825230955,
   "status": 0,
   "training_prediction": 0.0313343223554859

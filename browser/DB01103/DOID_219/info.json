@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.513003901170351,
   "metapath_contribution": {
-    "CbGaD": 0.6053165678988282,
-    "CbGbCtD": 0.24567131720161942,
-    "CbGdCrCtD": 0.006171662353730851,
-    "CbGeAlD": 0.08534706740091803,
-    "CbGpPWpGaD": 0.05689301717306552,
-    "CrCbGaD": 0.0006003679718380681
+    "CbGaD": 0.605316567898828,
+    "CbGbCtD": 0.2456713172016194,
+    "CbGdCrCtD": 0.00617166235373085,
+    "CbGeAlD": 0.08534706740091802,
+    "CbGpPWpGaD": 0.05689301717306551,
+    "CrCbGaD": 0.000600367971838068
   },
+  "n_trials": 0.0,
   "prediction": 0.00158149753671346,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

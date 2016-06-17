@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01097",
   "compound_name": "Leflunomide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.4068418548021838,
     "CbGbCtD": 0.3858184630877803,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1188026869863948,
     "CrCbGaD": 0.00020748348617383253
   },
+  "n_trials": 0.0,
   "prediction": 0.0101168445103339,
   "status": 0,
   "training_prediction": 0.07384835584176501

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00307",
   "compound_name": "Bexarotene",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.7633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.694220556277585,
     "CbGbCtD": 0.09409583542331455,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.01474110128759941,
     "CcSEcCtD": 0.16277896314356333
   },
+  "n_trials": 0.0,
   "prediction": 0.0022820982505792602,
   "status": 0,
   "training_prediction": 0.00416654175769482

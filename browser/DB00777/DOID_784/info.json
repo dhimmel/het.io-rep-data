@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00777",
   "compound_name": "Propiomazine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.23667100130039004,
   "metapath_contribution": {
-    "CbGaD": 0.802209162382529,
-    "CbGeAlD": 0.05217363027869008,
-    "CbGpPWpGaD": 0.1347516835235306,
-    "CrCbGaD": 0.010865523815250232
+    "CbGaD": 0.8022091623825292,
+    "CbGeAlD": 0.052173630278690084,
+    "CbGpPWpGaD": 0.13475168352353062,
+    "CrCbGaD": 0.010865523815250234
   },
+  "n_trials": 0.0,
   "prediction": 0.0010808864733436,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

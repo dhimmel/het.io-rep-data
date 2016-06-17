@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01232",
   "compound_name": "Saquinavir",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGaD": 0.16586923320697664,
     "CbGbCtD": 0.5059439593327854,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16998857493894495,
     "CrCbGaD": 0.0007235705064494418
   },
+  "n_trials": 0.0,
   "prediction": 0.00203942435639641,
   "status": 0,
   "training_prediction": 0.0020118466103245

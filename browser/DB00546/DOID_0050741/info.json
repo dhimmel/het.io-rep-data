@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00546",
   "compound_name": "Adinazolam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.5701397162354104,
     "CbGbCtD": 0.29028588422773594,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09303492069818396,
     "CrCbGaD": 0.005738419638515247
   },
+  "n_trials": 0.0,
   "prediction": 0.00586835410093268,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

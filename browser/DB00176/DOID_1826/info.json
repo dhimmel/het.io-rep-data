@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9115734720416121,
   "metapath_contribution": {
     "CbGaD": 0.1838575448340432,
     "CbGbCtD": 0.326288061789872,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13333412182663912,
     "CpDpCtD": 0.3145227116548558
   },
+  "n_trials": 0.0,
   "prediction": 0.0195241492573543,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

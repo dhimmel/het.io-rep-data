@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.17685305591677497,
   "metapath_contribution": {
     "CbGbCtD": 0.2753869700594694,
     "CbGeAlD": 0.010859166083388562,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5136074053188396,
     "CrCbGaD": 0.00994688192012519
   },
+  "n_trials": 0.0,
   "prediction": 0.0011551772938892199,
   "status": 0,
   "training_prediction": 0.0049001409571167

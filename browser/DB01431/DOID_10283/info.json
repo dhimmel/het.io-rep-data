@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01431",
   "compound_name": "Allylestrenol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.23236743350547784,
     "CbGbCtD": 0.3505592791530122,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0027735800171433513,
     "CrCrCtD": 0.36595189751476936
   },
+  "n_trials": 0.0,
   "prediction": 0.0058948074426856895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

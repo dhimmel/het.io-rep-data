@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00339",
   "compound_name": "Pyrazinamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.43740976628243594,
     "CbGbCtD": 0.34912603807658604,
     "CbGpPWpGaD": 0.07238146169570549,
     "CcSEcCtD": 0.14108273394527257
   },
+  "n_trials": 0.0,
   "prediction": 0.00633839471527072,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00960",
   "compound_name": "Pindolol",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.182704811443433,
   "metapath_contribution": {
     "CbGaD": 0.43320885740187604,
     "CbGbCtD": 0.05786915868842811,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3957976023764773,
     "CrCbGaD": 0.0057635193739691
   },
+  "n_trials": 0.0,
   "prediction": 0.00125152955168623,
   "status": 0,
   "training_prediction": 0.00690818974040904

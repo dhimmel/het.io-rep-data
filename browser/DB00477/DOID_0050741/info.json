@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.3314162811584534,
     "CbGbCtD": 0.20638802450172195,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.300433675249155,
     "CrCbGaD": 0.003153157360570815
   },
+  "n_trials": 0.0,
   "prediction": 0.0073230056292260095,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

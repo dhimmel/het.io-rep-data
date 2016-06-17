@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGbCtD": 0.09748699244167681,
     "CcSEcCtD": 0.045273539261880685,
@@ -12,6 +14,7 @@
     "CrCtD": 0.18569441695995614,
     "CtDrD": 0.161067048574481
   },
+  "n_trials": 0.0,
   "prediction": 0.317102072677664,
   "status": 0,
   "training_prediction": 0.826786234419869

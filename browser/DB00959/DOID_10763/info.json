@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.10208062418725601,
   "metapath_contribution": {
     "CbGaD": 0.19212044101084996,
     "CbGbCtD": 0.35735406612551157,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0037472177215706593,
     "CrCrCtD": 0.2655887062291533
   },
+  "n_trials": 0.0,
   "prediction": 0.0013179997826825302,
   "status": 0,
   "training_prediction": 0.0867541308133573

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00360",
   "compound_name": "Tetrahydrobiopterin",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.7574772431729521,
   "metapath_contribution": {
     "CbGbCtD": 0.4088616145185431,
     "CbGdCrCtD": 0.01463323246678857,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.18331186738734426,
     "CcSEcCtD": 0.37232956431451664
   },
+  "n_trials": 0.0,
   "prediction": 0.00275599236599259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

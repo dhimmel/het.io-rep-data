@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06209",
   "compound_name": "Prasugrel",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.203511053315995,
   "metapath_contribution": {
     "CbGaD": 0.11651623819109057,
     "CbGbCtD": 0.5382797961210957,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18777741451776517,
     "CrCbGaD": 0.0015531005709378022
   },
+  "n_trials": 0.0,
   "prediction": 0.00186878655229507,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

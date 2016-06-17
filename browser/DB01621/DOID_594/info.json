@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01621",
   "compound_name": "Pipotiazine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.872562985011516,
     "CbGeAlD": 0.034623042481405575,
     "CbGpPWpGaD": 0.0838231053718521,
     "CrCbGaD": 0.008990867135226316
   },
+  "n_trials": 0.0,
   "prediction": 0.0022298198028764898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

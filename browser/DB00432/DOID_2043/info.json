@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGbCtD": 0.06431086117272564,
     "CbGeAlD": 0.0004084612860899359,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2342884013809906,
     "CrCtD": 0.33132615218222605
   },
+  "n_trials": 0.0,
   "prediction": 0.0537225503154498,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

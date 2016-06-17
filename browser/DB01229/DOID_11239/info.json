@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:11239",
   "disease_name": "appendix cancer",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGeAlD": 0.060494244596070196,
     "CtDrD": 0.9395057554039298
   },
+  "n_trials": 1.0,
   "prediction": 0.00326614174850113,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

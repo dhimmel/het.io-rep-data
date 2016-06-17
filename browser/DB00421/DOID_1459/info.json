@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.4379770119259726,
     "CbGbCtD": 0.41199089214489915,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03303312765787991,
     "CrCbGaD": 0.0025636149244141395
   },
+  "n_trials": 0.0,
   "prediction": 0.0038715228524796703,
   "status": 0,
   "training_prediction": 0.00780933394524565

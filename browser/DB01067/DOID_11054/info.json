@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.5773732119635889,
   "metapath_contribution": {
     "CbGaD": 0.7235986183106167,
     "CbGbCtD": 0.0449272337060363,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.04003436329726274,
     "CcSEcCtD": 0.13441089810436493
   },
+  "n_trials": 0.0,
   "prediction": 0.0017801318790030103,
   "status": 0,
   "training_prediction": 0.0045604350199233605

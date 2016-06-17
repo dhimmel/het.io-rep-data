@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.0520156046814044,
   "metapath_contribution": {
     "CbGaD": 0.852558365016912,
     "CbGeAlD": 0.041013532690611886,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.018533023762422236,
     "CrCbGaD": 0.0007800521317081123
   },
+  "n_trials": 0.0,
   "prediction": 0.000609840065089371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

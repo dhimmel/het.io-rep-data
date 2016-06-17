@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00591",
   "compound_name": "Fluocinolone Acetonide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGbCtD": 0.1213727743742234,
     "CbGdCrCtD": 0.0006375652593911671,
@@ -12,6 +14,7 @@
     "CrCtD": 0.21960628754938863,
     "CtDrD": 0.1586802663992366
   },
+  "n_trials": 0.0,
   "prediction": 0.173188070669969,
   "status": 0,
   "training_prediction": 0.413670775429126

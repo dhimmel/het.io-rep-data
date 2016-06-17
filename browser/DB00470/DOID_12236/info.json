@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.6016622873925714,
     "CbGbCtD": 0.2310023486063747,
     "CbGpPWpGaD": 0.06555212444701874,
     "CcSEcCtD": 0.1017832395540351
   },
+  "n_trials": 0.0,
   "prediction": 0.00384014971969612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

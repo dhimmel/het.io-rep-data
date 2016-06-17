@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00801",
   "compound_name": "Halazepam",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.232119635890767,
   "metapath_contribution": {
     "CbGbCtD": 0.550257170224048,
     "CbGeAlD": 0.2002342536404407,
     "CbGpPWpGaD": 0.24831643923510202,
     "CrCbGaD": 0.0011921369004091597
   },
+  "n_trials": 0.0,
   "prediction": 0.00166258250823356,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

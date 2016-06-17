@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0104031209362809,
   "metapath_contribution": {
     "CbGdCrCtD": 0.005991504158560027,
     "CbGeAlD": 0.13990311982285586,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.6146552611185876,
     "CrCbGaD": 0.010561365494107204
   },
+  "n_trials": 0.0,
   "prediction": 0.000661271875331712,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

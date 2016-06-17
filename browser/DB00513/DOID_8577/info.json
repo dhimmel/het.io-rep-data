@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00513",
   "compound_name": "Aminocaproic Acid",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.48764629388816605,
   "metapath_contribution": {
     "CbGbCtD": 0.5918652697517507,
     "CbGeAlD": 0.02399743915037066,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17898203175960173,
     "CrCbGaD": 0.0029398637339009756
   },
+  "n_trials": 0.0,
   "prediction": 0.00206243375747573,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01101",
   "compound_name": "Capecitabine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGbCtD": 0.09683799527484876,
     "CbGdCrCtD": 0.0023499189820270954,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11626366293577182,
     "CiPCiCtD": 0.7727789525970014
   },
+  "n_trials": 0.0,
   "prediction": 0.0064327671703447295,
   "status": 0,
   "training_prediction": 0.0774017767610574

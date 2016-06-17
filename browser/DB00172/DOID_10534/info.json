@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00172",
   "compound_name": "L-Proline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.8116894766510123,
     "CbGdCrCtD": 0.0032568037681359636,
     "CbGeAlD": 0.10031419349617686,
     "CbGpPWpGaD": 0.08473952608467486
   },
+  "n_trials": 0.0,
   "prediction": 0.00450799333701121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

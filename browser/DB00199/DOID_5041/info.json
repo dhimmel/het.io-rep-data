@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGaD": 0.3553611317314542,
     "CbGbCtD": 0.4036276721710489,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04221944390659424,
     "CrCbGaD": 0.006528998493209883
   },
+  "n_trials": 0.0,
   "prediction": 0.0014508922753489301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

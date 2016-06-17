@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3121",
   "disease_name": "gallbladder cancer",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.36572376576951166,
     "CbGeAlD": 0.02330117976379273,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0046429858360423374,
     "CtDrD": 0.5664684458643248
   },
+  "n_trials": 0.0,
   "prediction": 0.00621296952324301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

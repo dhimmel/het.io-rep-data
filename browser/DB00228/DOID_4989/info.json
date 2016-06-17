@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.674902470741222,
   "metapath_contribution": {
     "CbGaD": 0.8886761096397581,
     "CbGeAlD": 0.05353940614536768,
     "CbGpPWpGaD": 0.053720998283568855,
     "CrCbGaD": 0.004063485931305372
   },
+  "n_trials": 0.0,
   "prediction": 0.00183867593933174,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

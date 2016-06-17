@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.317945383615085,
   "metapath_contribution": {
     "CbGaD": 0.1987940938258401,
     "CbGbCtD": 0.652397413711898,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09968557078728513,
     "CrCbGaD": 9.663024877001933e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0016099187997002699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

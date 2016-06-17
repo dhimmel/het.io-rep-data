@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGbCtD": 0.0793895303883729,
     "CbGdCrCtD": 0.0009000894794013504,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.16444363267863327,
     "CrCtD": 0.28249593792234245
   },
+  "n_trials": 1.0,
   "prediction": 0.0171321459452587,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

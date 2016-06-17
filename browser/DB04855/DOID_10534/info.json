@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7483745123537059,
   "metapath_contribution": {
     "CbGaD": 0.49620060696446144,
     "CbGbCtD": 0.18119737477068054,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11713440164162688,
     "CrCbGaD": 0.002063981908172122
   },
+  "n_trials": 0.0,
   "prediction": 0.00220017086826321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

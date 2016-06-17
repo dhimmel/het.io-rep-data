@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.46098829648894707,
   "metapath_contribution": {
-    "CbGaD": 0.43857830434480094,
-    "CbGbCtD": 0.42116972401396835,
-    "CbGeAlD": 0.0018314237952397712,
-    "CbGpPWpGaD": 0.1342850359152319,
-    "CrCbGaD": 0.0041355119307590355
+    "CbGaD": 0.438578304344801,
+    "CbGbCtD": 0.4211697240139684,
+    "CbGeAlD": 0.0018314237952397716,
+    "CbGpPWpGaD": 0.13428503591523192,
+    "CrCbGaD": 0.004135511930759036
   },
+  "n_trials": 0.0,
   "prediction": 0.0030806945446489103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

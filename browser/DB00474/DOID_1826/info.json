@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00474",
   "compound_name": "Methohexital",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.28028132339868295,
     "CbGbCtD": 0.2816971279896342,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0031485716868194387,
     "CrCrCtD": 0.31404771274928217
   },
+  "n_trials": 0.0,
   "prediction": 0.0261862568774324,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

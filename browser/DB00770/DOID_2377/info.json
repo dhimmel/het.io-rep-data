@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00770",
   "compound_name": "Alprostadil",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.22301690507152103,
   "metapath_contribution": {
     "CbGbCtD": 0.4373041193774431,
     "CbGeAlD": 0.053769464619768836,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2529776634503056,
     "CrCbGaD": 0.013430073782657483
   },
+  "n_trials": 1.0,
   "prediction": 0.0012713046062792599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

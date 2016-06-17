@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGaD": 0.32020500500781685,
     "CbGbCtD": 0.4360404763831669,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16765104521497456,
     "CrCbGaD": 0.0030855030953688654
   },
+  "n_trials": 1.0,
   "prediction": 0.00287406480689299,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

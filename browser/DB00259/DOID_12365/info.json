@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGbCtD": 0.22675286393025196,
     "CbGeAlD": 0.018076453884122715,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.31491223013758246,
     "CrCtD": 0.4383288030997738
   },
+  "n_trials": 0.0,
   "prediction": 0.0206019660966794,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGaD": 0.7247431886903571,
     "CbGbCtD": 0.0366454401231729,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16422056719410016,
     "CrCbGaD": 0.009218427930340849
   },
+  "n_trials": 0.0,
   "prediction": 0.0013854618674055,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

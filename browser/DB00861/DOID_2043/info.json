@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.704161248374512,
   "metapath_contribution": {
     "CbGaD": 0.4622915480772955,
     "CbGbCtD": 0.36953316844750345,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12148196828980191,
     "CrCbGaD": 0.005052500538798646
   },
+  "n_trials": 0.0,
   "prediction": 0.0020220162780921302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

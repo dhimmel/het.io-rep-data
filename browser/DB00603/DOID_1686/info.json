@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.591677503250975,
   "metapath_contribution": {
     "CbGaD": 0.3017216801588365,
     "CbGbCtD": 0.48790131202099885,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16937680825170937,
     "CrCbGaD": 0.003994038936116371
   },
+  "n_trials": 0.0,
   "prediction": 0.00216719144990445,
   "status": 0,
   "training_prediction": 0.0091629020769683

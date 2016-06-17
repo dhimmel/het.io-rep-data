@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.6132425656672292,
     "CbGbCtD": 0.304773226981659,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.02001719846093666,
     "CrCbGaD": 0.0020253482315916995
   },
+  "n_trials": 0.0,
   "prediction": 0.0034814373284094103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

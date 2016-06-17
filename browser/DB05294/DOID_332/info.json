@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.240572171651495,
   "metapath_contribution": {
     "CbGaD": 0.4069067488551526,
     "CbGbCtD": 0.21024201765692027,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1366100097806317,
     "CrCbGaD": 0.005739293441409264
   },
+  "n_trials": 0.0,
   "prediction": 0.00088940096482624,
   "status": 0,
   "training_prediction": 0.000400839305148492

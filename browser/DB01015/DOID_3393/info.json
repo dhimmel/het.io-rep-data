@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.30689206762028604,
   "metapath_contribution": {
     "CbGaD": 0.1120269493822025,
     "CbGbCtD": 0.5559240946600804,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19936102560528007,
     "CrCbGaD": 0.0033244580939329714
   },
+  "n_trials": 0.0,
   "prediction": 0.0016264666861923699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

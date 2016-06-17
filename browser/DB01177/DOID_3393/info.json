@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0338101430429129,
   "metapath_contribution": {
     "CbGbCtD": 0.6979346265329667,
     "CbGdCrCtD": 0.00489373708302068,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2290072927556134,
     "CrCbGaD": 0.0042881743873608115
   },
+  "n_trials": 0.0,
   "prediction": 0.000639770959038565,
   "status": 0,
   "training_prediction": 0.00573026798485845

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01002",
   "compound_name": "Levobupivacaine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.40052015604681396,
   "metapath_contribution": {
     "CbGbCtD": 0.5901279177863273,
     "CbGpPWpGaD": 0.04927415303359739,
     "CcSEcCtD": 0.3603465164411197,
     "CrCbGaD": 0.0002514127389555806
   },
+  "n_trials": 0.0,
   "prediction": 0.00200667543485396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

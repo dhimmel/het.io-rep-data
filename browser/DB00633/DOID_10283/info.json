@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00633",
   "compound_name": "Dexmedetomidine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.767230169050715,
   "metapath_contribution": {
     "CbGaD": 0.327168325835402,
     "CbGbCtD": 0.3514859686936148,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10839579539077698,
     "CcSEcCtD": 0.16516090523941318
   },
+  "n_trials": 0.0,
   "prediction": 0.00431131735905409,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

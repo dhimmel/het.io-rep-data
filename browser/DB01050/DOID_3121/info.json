@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:3121",
   "disease_name": "gallbladder cancer",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.9040833656991925,
     "CbGeAlD": 0.08682758033098745,
     "CbGpPWpGaD": 0.009089053969820087
   },
+  "n_trials": 0.0,
   "prediction": 0.00212534355584614,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

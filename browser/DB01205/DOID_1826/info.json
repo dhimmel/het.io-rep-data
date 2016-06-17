@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01205",
   "compound_name": "Flumazenil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.3520920728591307,
     "CbGbCtD": 0.42467867740181664,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0816521739962351,
     "CcSEcCtD": 0.11716965719645603
   },
+  "n_trials": 0.0,
   "prediction": 0.0237206796665209,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

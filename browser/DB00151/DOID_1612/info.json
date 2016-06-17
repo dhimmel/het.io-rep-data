@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00151",
   "compound_name": "L-Cysteine",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.144343302990897,
   "metapath_contribution": {
     "CbGdCrCtD": 0.01065042811831052,
     "CbGeAlD": 0.3787835510147304,
     "CbGpPWpGaD": 0.5958142579327131,
     "CrCbGaD": 0.014751762934245943
   },
+  "n_trials": 0.0,
   "prediction": 0.0011282683107922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

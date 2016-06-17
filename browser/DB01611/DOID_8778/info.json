@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.21391417425227602,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.5610782839001239,
     "CcSEcCtD": 0.39671750924101373,
     "CrCbGaD": 0.042204206858862225
   },
+  "n_trials": 1.0,
   "prediction": 0.0010828904164552,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

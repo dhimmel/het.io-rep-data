@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01342",
   "compound_name": "Forasartan",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.691157347204161,
   "metapath_contribution": {
     "CbGaD": 0.9070482832925045,
     "CbGeAlD": 0.025601621668414683,
     "CbGpPWpGaD": 0.059424494972147315,
     "CrCbGaD": 0.007925600066933465
   },
+  "n_trials": 0.0,
   "prediction": 0.0024046937861377,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

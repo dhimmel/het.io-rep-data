@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.476592977893368,
   "metapath_contribution": {
     "CbGaD": 0.8216543539453246,
     "CbGeAlD": 0.037082236140053675,
     "CbGpPWpGaD": 0.13926744255371137,
     "CrCbGaD": 0.001995967360910364
   },
+  "n_trials": 0.0,
   "prediction": 0.0015092722252353,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

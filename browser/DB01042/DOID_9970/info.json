@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.5741222366710009,
   "metapath_contribution": {
     "CbGbCtD": 0.4014597632165919,
     "CbGeAlD": 0.012120847650732102,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.003025891079283694,
     "CrCrCtD": 0.4323434263823793
   },
+  "n_trials": 0.0,
   "prediction": 0.0028782021094769603,
   "status": 0,
   "training_prediction": 0.020689877269012003

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00154",
   "compound_name": "Dihomo-gamma-linolenic acid",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.3524057217165151,
   "metapath_contribution": {
     "CbGbCtD": 0.9328925388421394,
     "CbGdCrCtD": 0.025800952512572157,
     "CbGeAlD": 0.03321427800050281,
     "CrCbGaD": 0.008092230644785696
   },
+  "n_trials": 0.0,
   "prediction": 0.0015014634087255,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.203511053315995,
   "metapath_contribution": {
     "CbGaD": 0.7421314828261315,
     "CbGeAlD": 0.017537096383464457,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16210442446137316,
     "CrCbGaD": 0.007086435613567284
   },
+  "n_trials": 0.0,
   "prediction": 0.0010513738816204802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

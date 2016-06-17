@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06716",
   "compound_name": "Fospropofol",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.783485045513654,
   "metapath_contribution": {
     "CbGaD": 0.4989786726677041,
     "CbGbCtD": 0.23394152460624296,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1931876901338046,
     "CrCbGaD": 0.0016333967827477285
   },
+  "n_trials": 0.0,
   "prediction": 0.0028490551276768197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

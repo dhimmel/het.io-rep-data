@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.499349804941482,
   "metapath_contribution": {
     "CbGaD": 0.6670557597269176,
     "CbGeAlD": 0.1146284282415044,
     "CbGpPWpGaD": 0.21443841518803697,
     "CrCbGaD": 0.003877396843541027
   },
+  "n_trials": 0.0,
   "prediction": 0.00154063352744348,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

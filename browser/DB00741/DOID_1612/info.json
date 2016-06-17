@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.1566423778364803,
     "CbGbCtD": 0.21012017928052767,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2284635143860756,
     "CrCtD": 0.2803649667467091
   },
+  "n_trials": 5.0,
   "prediction": 0.00528224333153101,
   "status": 0,
   "training_prediction": 0.130705361467158

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6853055916775029,
   "metapath_contribution": {
     "CbGaD": 0.5020515796933369,
     "CbGbCtD": 0.3251600198207757,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10581721114483036,
     "CrCbGaD": 0.0034867074936658082
   },
+  "n_trials": 0.0,
   "prediction": 0.0033876253320608302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

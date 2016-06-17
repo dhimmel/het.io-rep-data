@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.520156046814044,
   "metapath_contribution": {
     "CbGaD": 0.39060696875773815,
     "CbGbCtD": 0.3138398027237952,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1353296673050287,
     "CrCbGaD": 0.0030343457137812
   },
+  "n_trials": 0.0,
   "prediction": 0.00236321307479845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

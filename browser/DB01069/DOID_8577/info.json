@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.333550065019506,
   "metapath_contribution": {
     "CbGaD": 0.6147809967419153,
     "CbGbCtD": 0.1884752974127723,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07226952105539287,
     "CrCbGaD": 0.00324968399570986
   },
+  "n_trials": 0.0,
   "prediction": 0.00167756581687832,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

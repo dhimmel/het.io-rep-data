@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01181",
   "compound_name": "Ifosfamide",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.31485642272010383,
     "CbGbCtD": 0.43986555163628344,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19588534191903154,
     "CrCbGaD": 0.0010905131922851032
   },
+  "n_trials": 0.0,
   "prediction": 0.0032753726504485,
   "status": 0,
   "training_prediction": 0.00897452701798505

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.11296155276391714,
     "CbGbCtD": 0.2108922789497482,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07092668822667723,
     "CtDrD": 0.4894245662049883
   },
+  "n_trials": 13.0,
   "prediction": 0.010909030228112,
   "status": 0,
   "training_prediction": 0.0929527399017133

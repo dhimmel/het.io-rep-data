@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.12966598207658261,
     "CbGbCtD": 0.4889077440080814,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1308102395161552,
     "CrCbGaD": 0.0037850005816292788
   },
+  "n_trials": 0.0,
   "prediction": 0.00141835080668994,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

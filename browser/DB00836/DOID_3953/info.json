@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.7688487475802216,
     "CbGeAlD": 0.13159768180039166,
     "CbGpPWpGaD": 0.09839722120797086,
     "CrCbGaD": 0.001156349411415885
   },
+  "n_trials": 0.0,
   "prediction": 0.0021120604448245897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

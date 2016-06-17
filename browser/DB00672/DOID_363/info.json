@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00672",
   "compound_name": "Chlorpropamide",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.217165149544863,
   "metapath_contribution": {
     "CbGbCtD": 0.6818388183574204,
     "CbGeAlD": 0.06883093351701347,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15267925400764426,
     "CrCbGaD": 0.009778764490385079
   },
+  "n_trials": 0.0,
   "prediction": 0.00114448697574187,
   "status": 0,
   "training_prediction": 0.00209151676478838

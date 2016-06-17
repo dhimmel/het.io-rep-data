@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGbCtD": 0.8454900875113386,
     "CbGeAlD": 0.046102054756339335,
     "CbGpPWpGaD": 0.04475012361469128,
     "CcSEcCtD": 0.0636577341176308
   },
+  "n_trials": 0.0,
   "prediction": 0.00276252825550288,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

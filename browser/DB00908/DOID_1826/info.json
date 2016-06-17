@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.18034776909175426,
     "CbGbCtD": 0.22185177417581814,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0014247379989718442,
     "CrCrCtD": 0.15438616539896421
   },
+  "n_trials": 0.0,
   "prediction": 0.0769622221922654,
   "status": 0,
   "training_prediction": 0.290462785249739

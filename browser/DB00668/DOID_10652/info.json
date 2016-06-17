@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.5266579973992199,
   "metapath_contribution": {
     "CbGaD": 0.337936508209127,
     "CbGbCtD": 0.33298067014350885,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14455845345937365,
     "CrCbGaD": 0.004059963077490476
   },
+  "n_trials": 0.0,
   "prediction": 0.00193327456722298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.826397919375813,
   "metapath_contribution": {
     "CbGbCtD": 0.33739695124497104,
     "CbGeAlD": 0.05029956791774655,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5303260905908401,
     "CrCbGaD": 0.00204970706457423
   },
+  "n_trials": 0.0,
   "prediction": 0.00210801374042142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

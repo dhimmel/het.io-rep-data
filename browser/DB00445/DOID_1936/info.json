@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00445",
   "compound_name": "Epirubicin",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.108582574772432,
   "metapath_contribution": {
     "CbGbCtD": 0.6517336039012858,
     "CbGdCrCtD": 0.006399102773315773,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19983432207103272,
     "CrCbGaD": 0.0029160607372086984
   },
+  "n_trials": 0.0,
   "prediction": 0.000927571840060975,
   "status": 0,
   "training_prediction": 0.0128560188512187

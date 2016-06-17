@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8010403120936279,
   "metapath_contribution": {
     "CbGaD": 0.26000875564275294,
     "CbGbCtD": 0.3160711526823442,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1603061849083162,
     "CrCbGaD": 0.0003834982038506204
   },
+  "n_trials": 0.0,
   "prediction": 0.00390013805167845,
   "status": 0,
   "training_prediction": 0.0192678045177667

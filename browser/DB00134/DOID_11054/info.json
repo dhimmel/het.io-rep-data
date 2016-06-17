@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8784135240572171,
   "metapath_contribution": {
     "CbGaD": 0.436862707855651,
     "CbGbCtD": 0.2737770179063329,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.126360843474445,
     "CbGpPWpGaD": 0.15810784306391718
   },
+  "n_trials": 0.0,
   "prediction": 0.00319166107264905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

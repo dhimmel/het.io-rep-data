@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.49816393732513536,
     "CbGbCtD": 0.23417398479372342,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11609730625318318,
     "CrCbGaD": 0.00346359373320441
   },
+  "n_trials": 1.0,
   "prediction": 0.006215150202030921,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.415474642392718,
   "metapath_contribution": {
     "CbGaD": 0.3697625297595275,
     "CbGbCtD": 0.318296595163524,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12217310425746696,
     "CrCbGaD": 0.004181669426971073
   },
+  "n_trials": 0.0,
   "prediction": 0.00197421293841249,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

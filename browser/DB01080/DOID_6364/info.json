@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01080",
   "compound_name": "Vigabatrin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGbCtD": 0.2770819766695667,
     "CbGeAlD": 0.005654689907767271,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09548116428749091,
     "CtDrD": 0.6098966287359456
   },
+  "n_trials": 0.0,
   "prediction": 0.0132235153732197,
   "status": 0,
   "training_prediction": 0.0239261737289164

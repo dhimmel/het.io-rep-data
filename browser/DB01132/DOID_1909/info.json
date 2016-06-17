@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.662548764629389,
   "metapath_contribution": {
     "CbGaD": 0.5245577564453936,
     "CbGbCtD": 0.2670957955423448,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11380457221872893,
     "CrCbGaD": 0.0029457319154808422
   },
+  "n_trials": 1.0,
   "prediction": 0.00183823514780807,
   "status": 0,
   "training_prediction": 0.0033573918936627397

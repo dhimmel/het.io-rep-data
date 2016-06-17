@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10021",
   "disease_name": "duodenum cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGeAlD": 0.12802950292754164,
     "CbGpPWpGaD": 0.013496196082821934,
     "CtDrD": 0.8584743009896364
   },
+  "n_trials": 0.0,
   "prediction": 0.00396535320756775,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

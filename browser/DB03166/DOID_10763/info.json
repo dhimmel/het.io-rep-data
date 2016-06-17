@@ -1,8 +1,10 @@
 {
   "compound_id": "DB03166",
   "compound_name": "Acetic acid",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.280884265279584,
   "metapath_contribution": {
     "CbGbCtD": 0.46300250259123193,
     "CbGeAlD": 0.06670217608817074,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15653698719259485,
     "CrCbGaD": 0.030715524701250087
   },
+  "n_trials": 0.0,
   "prediction": 0.00225673400172822,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

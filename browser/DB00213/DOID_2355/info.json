@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.6996098829648891,
   "metapath_contribution": {
     "CbGaD": 0.641249352748546,
     "CbGeAlD": 0.18919642318595675,
     "CbGpPWpGaD": 0.16541700002664583,
     "CrCbGaD": 0.004137224038851395
   },
+  "n_trials": 0.0,
   "prediction": 0.0016575728444616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

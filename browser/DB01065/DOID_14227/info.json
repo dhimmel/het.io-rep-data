@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.8666052591254342,
     "CbGeAlD": 0.08238633310463815,
     "CcSEcCtD": 0.051008407769927655
   },
+  "n_trials": 0.0,
   "prediction": 0.0028221129571374803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

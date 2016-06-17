@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.6170351105331601,
   "metapath_contribution": {
     "CbGaD": 0.25011474880207646,
     "CbGbCtD": 0.05457085244150802,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1618935399471277,
     "CrCbGaD": 0.007991641489123322
   },
+  "n_trials": 0.0,
   "prediction": 0.00183868463250749,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

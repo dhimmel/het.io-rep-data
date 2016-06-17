@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00263",
   "compound_name": "Sulfisoxazole",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.40962288686605997,
   "metapath_contribution": {
     "CbGbCtD": 0.08869978105758923,
     "CbGpPWpGaD": 0.051687288581921405,
     "CrCbGaD": 0.0022871837654365934,
     "CrCrCtD": 0.8573257465950528
   },
+  "n_trials": 0.0,
   "prediction": 0.00154613007570999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

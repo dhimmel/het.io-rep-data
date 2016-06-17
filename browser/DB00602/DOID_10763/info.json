@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7919375812743821,
   "metapath_contribution": {
     "CbGaD": 0.2812122979372452,
     "CbGbCtD": 0.44731026861271017,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08780399465608425,
     "CcSEcCtD": 0.16734535565114408
   },
+  "n_trials": 0.0,
   "prediction": 0.0094789177731178,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

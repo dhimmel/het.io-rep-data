@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.350455136540962,
   "metapath_contribution": {
     "CbGaD": 0.12880541172885904,
     "CbGbCtD": 0.6551604480386477,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16290537129110885,
     "CrCbGaD": 0.0008636836256898553
   },
+  "n_trials": 2.0,
   "prediction": 0.0013758559169826,
   "status": 0,
   "training_prediction": 0.0251044375461733

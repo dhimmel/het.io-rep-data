@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.7925877763329001,
   "metapath_contribution": {
     "CbGbCtD": 0.3042872773827822,
     "CbGeAlD": 0.3358295976766937,
     "CbGpPWpGaD": 0.35988312494052405
   },
+  "n_trials": 2.0,
   "prediction": 0.00251870986798859,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

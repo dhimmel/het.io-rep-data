@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.00910273081924577,
   "metapath_contribution": {
     "CbGbCtD": 0.6861395707568753,
     "CbGpPWpGaD": 0.055116904472229715,
     "CcSEcCtD": 0.25443116408026833,
     "CrCbGaD": 0.004312360690626625
   },
+  "n_trials": 2.0,
   "prediction": 0.00047049685773921504,
   "status": 0,
   "training_prediction": 0.00474860765154306

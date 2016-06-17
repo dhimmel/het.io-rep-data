@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.36600533597834856,
     "CbGbCtD": 0.23448067132663017,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.005569689296636788,
     "CrCrCtD": 0.306786514388248
   },
+  "n_trials": 0.0,
   "prediction": 0.00163290929417194,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

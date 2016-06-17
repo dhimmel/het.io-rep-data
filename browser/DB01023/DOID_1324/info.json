@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.42782834850455104,
   "metapath_contribution": {
     "CbGaD": 0.10725344914776248,
     "CbGbCtD": 0.5140352305158352,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13495795722786164,
     "CrCbGaD": 0.004680073916752237
   },
+  "n_trials": 0.0,
   "prediction": 0.0016158620936108801,
   "status": 0,
   "training_prediction": 0.00552112973090549

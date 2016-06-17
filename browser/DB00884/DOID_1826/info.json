@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00884",
   "compound_name": "Risedronate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.22301690507152103,
   "metapath_contribution": {
     "CbGaD": 0.4866476605641131,
     "CbGeAlD": 0.015029549627513057,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.45014169938984294,
     "CrCbGaD": 0.0059986099650392284
   },
+  "n_trials": 0.0,
   "prediction": 0.0018265098839255398,
   "status": 0,
   "training_prediction": 0.0147836953075996

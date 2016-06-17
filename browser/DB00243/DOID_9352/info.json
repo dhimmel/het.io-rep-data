@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.212613784135241,
   "metapath_contribution": {
     "CbGaD": 0.28644936307629687,
     "CbGbCtD": 0.42095079259727186,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22848789676652106,
     "CrCbGaD": 0.006526533966838546
   },
+  "n_trials": 0.0,
   "prediction": 0.0014208169817222901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

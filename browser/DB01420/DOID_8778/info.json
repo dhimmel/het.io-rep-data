@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01420",
   "compound_name": "Testosterone Propionate",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.15344603381014302,
   "metapath_contribution": {
     "CbGeAlD": 0.06616882831271777,
     "CcSEcCtD": 0.1516721302630955,
     "CrCbGaD": 0.0007216375812801174,
     "CrCrCtD": 0.7814374038429066
   },
+  "n_trials": 0.0,
   "prediction": 0.000985922675431878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

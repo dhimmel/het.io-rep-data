@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00438",
   "compound_name": "Ceftazidime",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.22561768530559198,
   "metapath_contribution": {
     "CbGbCtD": 0.31402766232639795,
     "CbGdCrCtD": 0.014262593972496808,
     "CbGeAlD": 0.04036668568562397,
     "CcSEcCtD": 0.6313430580154813
   },
+  "n_trials": 0.0,
   "prediction": 0.0010872747516871,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

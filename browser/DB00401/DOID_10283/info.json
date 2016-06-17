@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.28218465539661897,
   "metapath_contribution": {
     "CbGaD": 0.29382609590130715,
     "CbGbCtD": 0.41952825032186364,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1697102835956045,
     "CrCbGaD": 0.00395965774589996
   },
+  "n_trials": 0.0,
   "prediction": 0.00147298505518369,
   "status": 0,
   "training_prediction": 0.00624180978691576

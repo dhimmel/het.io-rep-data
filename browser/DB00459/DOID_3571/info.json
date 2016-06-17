@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.0318595578673602,
   "metapath_contribution": {
     "CbGaD": 0.4113537756392921,
     "CbGeAlD": 0.022730610198353676,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2268469142606633,
     "CrCbGaD": 0.012085635578047892
   },
+  "n_trials": 0.0,
   "prediction": 0.0005745627197635691,
   "status": 0,
   "training_prediction": 0.000566782049618053

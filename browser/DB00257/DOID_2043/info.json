@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.5051981350387907,
     "CbGbCtD": 0.32875493454340476,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06786997911993836,
     "CcSEcCtD": 0.03208131913439098
   },
+  "n_trials": 0.0,
   "prediction": 0.00272461163647186,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.498699609882965,
   "metapath_contribution": {
     "CbGaD": 0.6036205851454284,
     "CbGbCtD": 0.3164719758032302,
     "CbGpPWpGaD": 0.0693753428140439,
     "CrCbGaD": 0.0105320962372975
   },
+  "n_trials": 0.0,
   "prediction": 0.00185371319829369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

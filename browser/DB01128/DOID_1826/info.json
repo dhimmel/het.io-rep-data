@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01128",
   "compound_name": "Bicalutamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7737321196358911,
   "metapath_contribution": {
     "CbGaD": 0.3073007864828429,
     "CbGbCtD": 0.47063044066831816,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19648056323918636,
     "CrCbGaD": 0.002500767591644666
   },
+  "n_trials": 0.0,
   "prediction": 0.00736799960288055,
   "status": 0,
   "training_prediction": 0.035161949057889

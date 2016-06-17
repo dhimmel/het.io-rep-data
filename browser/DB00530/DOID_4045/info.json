@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGbCtD": 0.25284516469668755,
     "CbGdCrCtD": 0.0015515282142597778,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0014659163016520589,
     "CtDrD": 0.6155282161138578
   },
+  "n_trials": 0.0,
   "prediction": 0.00507485167997776,
   "status": 0,
   "training_prediction": 0.0185886338607223

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00757",
   "compound_name": "Dolasetron",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
     "CbGaD": 0.3429266894465282,
     "CbGbCtD": 0.4388123266989646,
     "CbGpPWpGaD": 0.03174738303408902,
     "CcSEcCtD": 0.1865136008204181
   },
+  "n_trials": 0.0,
   "prediction": 0.0039774300831723,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

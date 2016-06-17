@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00973",
   "compound_name": "Ezetimibe",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.4194253081562552,
     "CbGbCtD": 0.34153548067817846,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10318375278893303,
     "CrCbGaD": 0.0010218814468902285
   },
+  "n_trials": 0.0,
   "prediction": 0.00595529066017106,
   "status": 0,
   "training_prediction": 0.0408645297874846

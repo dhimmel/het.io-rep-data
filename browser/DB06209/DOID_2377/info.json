@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06209",
   "compound_name": "Prasugrel",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.527958387516255,
   "metapath_contribution": {
     "CbGaD": 0.3981960567141554,
     "CbGbCtD": 0.3864700107427433,
     "CbGpPWpGaD": 0.08874240716724342,
     "CcSEcCtD": 0.12659152537585794
   },
+  "n_trials": 0.0,
   "prediction": 0.00193463940304297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

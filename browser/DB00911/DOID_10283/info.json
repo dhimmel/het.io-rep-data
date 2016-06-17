@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00911",
   "compound_name": "Tinidazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.32082148678138017,
     "CbGbCtD": 0.45386513614856305,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19770812085535092,
     "CrCbGaD": 0.001620928122003586
   },
+  "n_trials": 0.0,
   "prediction": 0.00497865914984633,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

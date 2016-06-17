@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06201",
   "compound_name": "Rufinamide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.2718601897662672,
     "CbGbCtD": 0.3624346595216889,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09671504708908149,
     "CcSEcCtD": 0.14052180744001463
   },
+  "n_trials": 0.0,
   "prediction": 0.00479967666050853,
   "status": 0,
   "training_prediction": 0.0122382433855517

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.437581274382315,
   "metapath_contribution": {
     "CbGaD": 0.8250551845486799,
     "CbGeAlD": 0.05499084002932765,
     "CbGpPWpGaD": 0.11203306606364902,
     "CrCbGaD": 0.007920909358343504
   },
+  "n_trials": 0.0,
   "prediction": 0.00143606693447755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.849804941482445,
   "metapath_contribution": {
     "CbGaD": 0.6728877601776271,
     "CbGbCtD": 0.1861133634935436,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.041725642218126684,
     "CrCbGaD": 7.407428836584295e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0025905047066676398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

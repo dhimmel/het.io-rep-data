@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0663198959687906,
   "metapath_contribution": {
     "CbGaD": 0.24382435797643462,
     "CbGbCtD": 0.476120325949323,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13530231039104043,
     "CrCbGaD": 0.004344291669126478
   },
+  "n_trials": 0.0,
   "prediction": 0.000865520649919545,
   "status": 0,
   "training_prediction": 0.00222051373554679

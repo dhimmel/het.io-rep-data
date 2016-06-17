@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.8088426527958391,
   "metapath_contribution": {
     "CbGaD": 0.6304381016231413,
     "CbGeAlD": 0.10427066289157409,
     "CbGpPWpGaD": 0.26041400349479754,
     "CrCbGaD": 0.004877231990487023
   },
+  "n_trials": 0.0,
   "prediction": 0.0018461134550397103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

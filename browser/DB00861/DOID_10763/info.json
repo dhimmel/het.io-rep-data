@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.47854356306892104,
   "metapath_contribution": {
     "CbGaD": 0.2192900933303804,
     "CbGbCtD": 0.27944582981171534,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003016367225192853,
     "CrCrCtD": 0.2805072799503012
   },
+  "n_trials": 0.0,
   "prediction": 0.0036824012163045204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

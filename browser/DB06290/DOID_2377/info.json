@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.7964889466840049,
   "metapath_contribution": {
     "CbGaD": 0.376030202026816,
     "CbGbCtD": 0.49478586462979424,
     "CbGpPWpGaD": 0.07284815029131912,
     "CcSEcCtD": 0.05633578305207069
   },
+  "n_trials": 0.0,
   "prediction": 0.0028664168962583103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

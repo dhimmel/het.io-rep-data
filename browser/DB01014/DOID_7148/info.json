@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.13448407986204225,
     "CbGbCtD": 0.11827599176234851,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.11043334846562326,
     "CrCtD": 0.2630186949325864
   },
+  "n_trials": 0.0,
   "prediction": 0.0904312436097699,
   "status": 0,
   "training_prediction": 0.35114541066043603

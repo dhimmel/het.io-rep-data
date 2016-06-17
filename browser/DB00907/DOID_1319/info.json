@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGaD": 0.649275926603373,
     "CbGbCtD": 0.2638627670320635,
     "CbGeAlD": 0.05744886262283543,
     "CbGpPWpGaD": 0.029412443741728144
   },
+  "n_trials": 0.0,
   "prediction": 0.00320587970013443,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

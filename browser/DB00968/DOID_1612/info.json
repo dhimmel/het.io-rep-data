@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00968",
   "compound_name": "Methyldopa",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.366710013003901,
   "metapath_contribution": {
     "CbGaD": 0.46457161241692946,
     "CbGeAlD": 0.025169927867833904,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002015442970750887,
     "CrCrCtD": 0.2571860073561999
   },
+  "n_trials": 0.0,
   "prediction": 0.00185628611261873,
   "status": 0,
   "training_prediction": 0.0102183578911783

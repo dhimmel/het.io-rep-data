@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00905",
   "compound_name": "Bimatoprost",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.560468140442133,
   "metapath_contribution": {
     "CbGaD": 0.6566006476887882,
     "CbGeAlD": 0.05954503382573334,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12147933985868228,
     "CrCbGaD": 0.0024660097407721727
   },
+  "n_trials": 0.0,
   "prediction": 0.00279853362855282,
   "status": 0,
   "training_prediction": 0.00715802411716525

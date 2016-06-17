@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00770",
   "compound_name": "Alprostadil",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.461638491547464,
   "metapath_contribution": {
     "CbGbCtD": 0.6949307985053168,
     "CbGeAlD": 0.09824355530610838,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18037790211436672,
     "CrCbGaD": 0.00577684003035465
   },
+  "n_trials": 0.0,
   "prediction": 0.00145569250909982,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

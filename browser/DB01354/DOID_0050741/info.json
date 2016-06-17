@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01354",
   "compound_name": "Heptabarbital",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.804941482444733,
   "metapath_contribution": {
     "CbGaD": 0.6245324460321247,
     "CbGbCtD": 0.16132280875378274,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12991080236639105,
     "CrCbGaD": 0.006801362083898521
   },
+  "n_trials": 0.0,
   "prediction": 0.00409567768503539,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

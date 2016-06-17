@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01055",
   "compound_name": "Mimosine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGdCrCtD": 0.006475986626106625,
     "CbGeAlD": 0.08094577193286469,
     "CbGpPWpGaD": 0.15252619949013863,
     "CrCrCtD": 0.76005204195089
   },
+  "n_trials": 0.0,
   "prediction": 0.0033622139748426603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.340052015604681,
   "metapath_contribution": {
     "CbGaD": 0.2677754273488075,
     "CbGbCtD": 0.41675515000857827,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.22825581120325578,
     "CrCbGaD": 0.00433287664269929
   },
+  "n_trials": 0.0,
   "prediction": 0.00168881505512878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

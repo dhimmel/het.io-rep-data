@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00839",
   "compound_name": "Tolazamide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.275032509752926,
   "metapath_contribution": {
     "CbGaD": 0.6172064067472703,
     "CbGeAlD": 0.031408185010513484,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1859253179412104,
     "CrCbGaD": 0.006598217018672174
   },
+  "n_trials": 0.0,
   "prediction": 0.0020730480330099603,
   "status": 0,
   "training_prediction": 0.010096265696436

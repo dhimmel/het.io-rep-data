@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.552015604681404,
   "metapath_contribution": {
     "CbGaD": 0.4139620756966031,
     "CbGbCtD": 0.21801435346509293,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.20730751084169272,
     "CrCbGaD": 0.0023866002614740607
   },
+  "n_trials": 0.0,
   "prediction": 0.00263007770698387,
   "status": 0,
   "training_prediction": 0.0144274896059366

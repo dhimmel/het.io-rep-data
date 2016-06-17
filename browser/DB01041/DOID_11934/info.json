@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.7288686605981791,
   "metapath_contribution": {
     "CbGaD": 0.6344467611164066,
     "CbGeAlD": 0.04707649246815227,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16445818133818904,
     "CrCbGaD": 0.0045068752799301256
   },
+  "n_trials": 3.0,
   "prediction": 0.00197751444591215,
   "status": 0,
   "training_prediction": 0.00399661706456995

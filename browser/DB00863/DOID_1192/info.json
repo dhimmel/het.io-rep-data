@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGaD": 0.3590539493468265,
     "CbGbCtD": 0.43970906238945145,
     "CcSEcCtD": 0.1928800216428437,
     "CrCbGaD": 0.008356966620878415
   },
+  "n_trials": 0.0,
   "prediction": 0.00208235797574972,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

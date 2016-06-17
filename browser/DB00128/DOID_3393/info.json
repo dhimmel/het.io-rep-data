@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.47854356306892104,
   "metapath_contribution": {
     "CbGaD": 0.6791506515140686,
     "CbGdCrCtD": 0.00511170185011355,
-    "CbGeAlD": 0.10388468128126944,
-    "CbGpPWpGaD": 0.2064551082196344,
+    "CbGeAlD": 0.10388468128126943,
+    "CbGpPWpGaD": 0.20645510821963436,
     "CrCbGaD": 0.005397857134914043
   },
+  "n_trials": 0.0,
   "prediction": 0.0022571586530351897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

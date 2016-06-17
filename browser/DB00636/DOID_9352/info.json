@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00636",
   "compound_name": "Clofibrate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.4232670541466064,
     "CbGbCtD": 0.18328313611200778,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003368068501418997,
     "CrCrCtD": 0.27587140770390106
   },
+  "n_trials": 0.0,
   "prediction": 0.00634105062565796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

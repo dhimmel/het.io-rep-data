@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.28676470588235303,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.4882964889466839,
   "metapath_contribution": {
-    "CbGaD": 0.5587112093130844,
-    "CbGeAlD": 0.23627892262598957,
-    "CbGpPWpGaD": 0.20341148934041325,
-    "CrCbGaD": 0.0015983787205129019
+    "CbGaD": 0.5587112093130843,
+    "CbGeAlD": 0.2362789226259895,
+    "CbGpPWpGaD": 0.20341148934041323,
+    "CrCbGaD": 0.0015983787205129014
   },
+  "n_trials": 0.0,
   "prediction": 0.00136104222923592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

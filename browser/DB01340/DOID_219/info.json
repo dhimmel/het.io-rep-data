@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6690507152145639,
   "metapath_contribution": {
     "CbGaD": 0.714278383825267,
     "CbGbCtD": 0.01154596744848748,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1843038603468423,
     "CrCbGaD": 0.005633914062567014
   },
+  "n_trials": 0.0,
   "prediction": 0.00202928326772733,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

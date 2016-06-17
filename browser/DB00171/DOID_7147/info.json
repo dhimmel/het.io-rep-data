@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.256827048114434,
   "metapath_contribution": {
     "CbGbCtD": 0.6947843436400746,
     "CbGdCrCtD": 0.019732119579416615,
     "CbGeAlD": 0.11203429772072679,
     "CbGpPWpGaD": 0.173449239059782
   },
+  "n_trials": 0.0,
   "prediction": 0.00122527747018274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

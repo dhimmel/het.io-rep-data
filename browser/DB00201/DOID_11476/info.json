@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.5442132639791939,
   "metapath_contribution": {
     "CbGbCtD": 0.6002535467693553,
     "CbGdCrCtD": 0.006196664250688424,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2252084821012451,
     "CcSEcCtD": 0.16132208851659255
   },
+  "n_trials": 0.0,
   "prediction": 0.0019954179692614604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

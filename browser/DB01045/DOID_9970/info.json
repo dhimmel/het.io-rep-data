@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01045",
   "compound_name": "Rifampicin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6326397919375811,
   "metapath_contribution": {
     "CbGaD": 0.3721666829839682,
     "CbGbCtD": 0.4562843364679176,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12217787203700702,
     "CrCbGaD": 0.0030153152706327182
   },
+  "n_trials": 0.0,
   "prediction": 0.00323765441873345,
   "status": 0,
   "training_prediction": 0.00827552027004673

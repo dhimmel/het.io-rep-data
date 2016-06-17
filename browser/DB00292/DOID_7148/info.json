@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.724317295188557,
   "metapath_contribution": {
     "CbGbCtD": 0.8394576703643692,
     "CbGeAlD": 0.05530822016906519,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0015043778285221377,
     "CrCbGaD": 0.008268247363013424
   },
+  "n_trials": 0.0,
   "prediction": 0.00247248285529323,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

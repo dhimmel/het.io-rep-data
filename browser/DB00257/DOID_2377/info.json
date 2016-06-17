@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.5435630689206761,
   "metapath_contribution": {
     "CbGbCtD": 0.8161113858909617,
     "CbGpPWpGaD": 0.12618912893666945,
     "CcSEcCtD": 0.05623028067838607,
     "CrCbGaD": 0.001469204493982856
   },
+  "n_trials": 0.0,
   "prediction": 0.00198861679931731,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

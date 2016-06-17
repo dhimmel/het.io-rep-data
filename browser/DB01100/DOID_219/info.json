@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.55851755526658,
   "metapath_contribution": {
     "CbGaD": 0.3572612955703617,
     "CbGbCtD": 0.3855305388675789,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08661481830621938,
     "CrCbGaD": 0.0026918820363719172
   },
+  "n_trials": 0.0,
   "prediction": 0.00169208907202123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

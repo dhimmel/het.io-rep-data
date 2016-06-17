@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.4020304583401113,
     "CbGbCtD": 0.3806971938478813,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11964030727812197,
     "CrCbGaD": 0.0016442108024518549
   },
+  "n_trials": 0.0,
   "prediction": 0.00310801424882003,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

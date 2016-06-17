@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGbCtD": 0.22274797703602933,
     "CbGpPWpGaD": 0.029278376570294685,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0024154619260846645,
     "CrCrCtD": 0.658107932341343
   },
+  "n_trials": 0.0,
   "prediction": 0.0027880269788521,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

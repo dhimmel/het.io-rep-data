@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01436",
   "compound_name": "Alfacalcidol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.1864976059314556,
     "CbGbCtD": 0.21355208970805933,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2367255599432543,
     "CrCtD": 0.3523333598139405
   },
+  "n_trials": 0.0,
   "prediction": 0.0391544275683292,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

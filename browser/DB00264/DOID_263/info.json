@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00264",
   "compound_name": "Metoprolol",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.553966189856957,
   "metapath_contribution": {
     "CbGaD": 0.2632761815351501,
     "CbGbCtD": 0.48413037146606525,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21607691386321345,
     "CrCbGaD": 0.00198205077832262
   },
+  "n_trials": 0.0,
   "prediction": 0.00198197229189878,
   "status": 0,
   "training_prediction": 0.0057634207032460204

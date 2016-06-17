@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.0533159947984395,
   "metapath_contribution": {
     "CbGeAlD": 0.0704030919845589,
     "CbGpPWpGaD": 0.03839672099362436,
     "CcSEcCtD": 0.8843889233904269,
     "CrCbGaD": 0.006811263631389851
   },
+  "n_trials": 0.0,
   "prediction": 0.000994826331397225,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

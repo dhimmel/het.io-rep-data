@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.136540962288687,
   "metapath_contribution": {
     "CbGaD": 0.6212371675342435,
     "CbGeAlD": 0.003437618868996637,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22958971491841618,
     "CrCbGaD": 0.005150842197243135
   },
+  "n_trials": 0.0,
   "prediction": 0.00104329322385425,
   "status": 0,
   "training_prediction": 0.005601636342956479

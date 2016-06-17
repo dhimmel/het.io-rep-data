@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0773732119635891,
   "metapath_contribution": {
     "CbGaD": 0.6040116059420719,
     "CbGbCtD": 0.014096040588690743,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2198000016260683,
     "CrCbGaD": 0.007090556608737882
   },
+  "n_trials": 0.0,
   "prediction": 0.000898514793961255,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

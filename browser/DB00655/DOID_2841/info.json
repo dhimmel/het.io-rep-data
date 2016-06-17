@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.17580881024816572,
     "CbGbCtD": 0.2721509288218006,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0013109482832660128,
     "CrCrCtD": 0.20219276933151129
   },
+  "n_trials": 0.0,
   "prediction": 0.007914876587609409,
   "status": 0,
   "training_prediction": 0.0516942103545041

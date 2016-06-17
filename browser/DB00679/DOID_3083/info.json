@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.399219765929779,
   "metapath_contribution": {
     "CbGaD": 0.452822296843849,
     "CbGbCtD": 0.3819692174165749,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06990430605657778,
     "CrCbGaD": 0.004121173136463805
   },
+  "n_trials": 0.0,
   "prediction": 0.00187601696060387,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

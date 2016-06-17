@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.8101430429128741,
   "metapath_contribution": {
     "CbGbCtD": 0.22337075809797968,
     "CbGdCrCtD": 0.003655664108857575,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.045880263605587335,
     "CpDpCtD": 0.698799715501272
   },
+  "n_trials": 0.0,
   "prediction": 0.00249903971301126,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

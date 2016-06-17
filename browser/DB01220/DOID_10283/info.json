@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01220",
   "compound_name": "Rifaximin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGaD": 0.20004687136332333,
     "CbGbCtD": 0.5925882913889996,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16014700032639242,
     "CrCbGaD": 0.006165669534628176
   },
+  "n_trials": 0.0,
   "prediction": 0.00434744314898467,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

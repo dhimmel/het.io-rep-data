@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06803",
   "compound_name": "Niclosamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGaD": 0.48083798936871025,
     "CbGbCtD": 0.3328303364969206,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.16260475415861783,
     "CrCbGaD": 0.0009883791648629544
   },
+  "n_trials": 0.0,
   "prediction": 0.00400034017014086,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

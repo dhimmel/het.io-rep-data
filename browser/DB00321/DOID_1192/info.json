@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.862158647594278,
   "metapath_contribution": {
     "CbGaD": 0.5827731976066021,
     "CbGbCtD": 0.2123796482188863,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08545845985576413,
     "CrCbGaD": 0.0002690745732395554
   },
+  "n_trials": 0.0,
   "prediction": 0.00307598572214459,
   "status": 0,
   "training_prediction": 0.0083960147851596

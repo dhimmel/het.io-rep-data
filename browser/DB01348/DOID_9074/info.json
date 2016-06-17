@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01348",
   "compound_name": "Spirapril",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.540312093628088,
   "metapath_contribution": {
     "CbGaD": 0.8311185852209553,
     "CbGeAlD": 0.09745090278918984,
     "CbGpPWpGaD": 0.06297669636293131,
     "CrCbGaD": 0.008453815626923617
   },
+  "n_trials": 0.0,
   "prediction": 0.00203788351131505,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

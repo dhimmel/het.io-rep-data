@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.2780474653896715,
     "CbGbCtD": 0.23063524288212234,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0024559229176308118,
     "CrCrCtD": 0.14602659340703447
   },
+  "n_trials": 2.0,
   "prediction": 0.0232036989464782,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

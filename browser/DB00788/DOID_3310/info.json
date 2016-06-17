@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGbCtD": 0.326389320455326,
     "CbGdCrCtD": 0.002570996113140619,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002285872313422092,
     "CrCrCtD": 0.10408338277971346
   },
+  "n_trials": 0.0,
   "prediction": 0.0038085829090016205,
   "status": 0,
   "training_prediction": 0.0129445789278275

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01073",
   "compound_name": "Fludarabine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.20900101189504397,
     "CbGbCtD": 0.23630693743328382,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.18840555569961084,
     "CrCtD": 0.31114743468929856
   },
+  "n_trials": 0.0,
   "prediction": 0.0359752048320564,
   "status": 0,
   "training_prediction": 0.13785690834733402

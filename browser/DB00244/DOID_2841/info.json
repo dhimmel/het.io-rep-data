@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.24578352999638753,
     "CbGbCtD": 0.2330342277467462,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0019639730399198373,
     "CrCrCtD": 0.3197786257168649
   },
+  "n_trials": 0.0,
   "prediction": 0.008014003980540259,
   "status": 0,
   "training_prediction": 0.0844149238279147

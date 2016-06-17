@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGaD": 0.4825888355913507,
     "CbGbCtD": 0.26808192833040667,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12367777370800376,
     "CrCbGaD": 0.0037072658244814765
   },
+  "n_trials": 0.0,
   "prediction": 0.0018984757376267198,
   "status": 0,
   "training_prediction": 0.0034672436606479

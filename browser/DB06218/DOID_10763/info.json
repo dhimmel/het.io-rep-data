@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06218",
   "compound_name": "Lacosamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.657997399219766,
   "metapath_contribution": {
     "CbGaD": 0.15368919581250848,
     "CbGbCtD": 0.4129211149354752,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002620622537434179,
     "CrCrCtD": 0.2579405910340025
   },
+  "n_trials": 0.0,
   "prediction": 0.00583944369695311,
   "status": 0,
   "training_prediction": 0.0656478982345334

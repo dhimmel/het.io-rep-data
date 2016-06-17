@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.378413524057217,
   "metapath_contribution": {
     "CbGaD": 0.08159883071970656,
     "CbGbCtD": 0.592941935683487,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15569285638822652,
     "CrCbGaD": 0.004866202943986906
   },
+  "n_trials": 0.0,
   "prediction": 0.0014375839982143199,
   "status": 0,
   "training_prediction": 0.00418473715307753

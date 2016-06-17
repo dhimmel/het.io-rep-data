@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.250975292587776,
   "metapath_contribution": {
     "CbGbCtD": 0.7251597459327982,
     "CbGeAlD": 0.039488814404630354,
     "CbGpPWpGaD": 0.025520552852985698,
     "CcSEcCtD": 0.2098308868095858
   },
+  "n_trials": 0.0,
   "prediction": 0.00120302059712894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

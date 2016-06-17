@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00445",
   "compound_name": "Epirubicin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.10668979821215123,
     "CbGbCtD": 0.10501875001591066,
@@ -16,6 +18,7 @@
     "CrCtD": 0.1863288720023334,
     "CtDrD": 0.18250990480556428
   },
+  "n_trials": 0.0,
   "prediction": 0.130375041053583,
   "status": 0,
   "training_prediction": 0.790726078775914

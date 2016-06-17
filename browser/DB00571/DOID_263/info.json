@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.5273081924577371,
   "metapath_contribution": {
     "CbGaD": 0.30235384889295125,
     "CbGbCtD": 0.5180790938428272,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12565082630513766,
     "CrCbGaD": 0.002255022933066317
   },
+  "n_trials": 0.0,
   "prediction": 0.0018983949015326,
   "status": 0,
   "training_prediction": 0.00918143986280043

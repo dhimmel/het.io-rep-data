@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01020",
   "compound_name": "Isosorbide Mononitrate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.45253576072821794,
   "metapath_contribution": {
     "CbGaD": 0.2355090982122578,
     "CbGbCtD": 0.3588610928601151,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2772984119955766,
     "CrCbGaD": 0.0036639951127327183
   },
+  "n_trials": 0.0,
   "prediction": 0.0021225989032848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

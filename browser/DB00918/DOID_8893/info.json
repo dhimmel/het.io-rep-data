@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.838751625487646,
   "metapath_contribution": {
-    "CbGbCtD": 0.3502418790412152,
-    "CbGeAlD": 0.01370994959789093,
-    "CbGpPWpGaD": 0.022216260324096574,
-    "CcSEcCtD": 0.13448188646960432,
-    "CpDpCtD": 0.4793500245671931
+    "CbGbCtD": 0.3502418790412151,
+    "CbGeAlD": 0.013709949597890929,
+    "CbGpPWpGaD": 0.02221626032409657,
+    "CcSEcCtD": 0.1344818864696043,
+    "CpDpCtD": 0.479350024567193
   },
+  "n_trials": 0.0,
   "prediction": 0.00335535430896015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

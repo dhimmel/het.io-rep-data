@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01436",
   "compound_name": "Alfacalcidol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.958499656032774,
     "CbGeAlD": 0.016381084508931665,
     "CbGpPWpGaD": 0.014851559110309337,
     "CrCbGaD": 0.010267700347985052
   },
+  "n_trials": 0.0,
   "prediction": 0.0027479736459029604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

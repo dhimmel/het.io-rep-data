@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01006",
   "compound_name": "Letrozole",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.724317295188557,
   "metapath_contribution": {
     "CbGbCtD": 0.24050015838759933,
     "CbGeAlD": 0.0804633857377222,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4455135150753037,
     "CrCbGaD": 0.004600183582063812
   },
+  "n_trials": 0.0,
   "prediction": 0.00322996424343843,
   "status": 0,
   "training_prediction": 0.003919052259931779

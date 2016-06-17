@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.213235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.0923276983094928,
   "metapath_contribution": {
-    "CbGaD": 0.19088414716584262,
-    "CbGbCtD": 0.39071845615004785,
-    "CbGeAlD": 0.05042130704050502,
-    "CbGpPWpGaD": 0.2718276745126746,
-    "CcSEcCtD": 0.0952554525496658,
-    "CrCbGaD": 0.0008929625812640146
+    "CbGaD": 0.19088414716584265,
+    "CbGbCtD": 0.3907184561500479,
+    "CbGeAlD": 0.050421307040505035,
+    "CbGpPWpGaD": 0.27182767451267464,
+    "CcSEcCtD": 0.09525545254966583,
+    "CrCbGaD": 0.0008929625812640149
   },
+  "n_trials": 0.0,
   "prediction": 0.00068646952497773,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.4473342002600779,
   "metapath_contribution": {
     "CbGaD": 0.9179507166150279,
     "CbGeAlD": 0.02038669673790167,
     "CbGpPWpGaD": 0.056581889039673476,
     "CrCbGaD": 0.005080697607396928
   },
+  "n_trials": 0.0,
   "prediction": 0.00116681657923036,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

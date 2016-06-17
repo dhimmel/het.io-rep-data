@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01088",
   "compound_name": "Iloprost",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.395318595578674,
   "metapath_contribution": {
     "CbGeAlD": 0.06700018704787535,
-    "CbGpPWpGaD": 0.925164588166689,
+    "CbGpPWpGaD": 0.9251645881666891,
     "CrCbGaD": 0.007835224785435605
   },
+  "n_trials": 0.0,
   "prediction": 0.00129479486818091,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

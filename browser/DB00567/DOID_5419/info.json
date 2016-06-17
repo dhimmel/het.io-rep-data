@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.104031209362809,
   "metapath_contribution": {
     "CbGaD": 0.8483656109689274,
     "CbGeAlD": 0.06744680520521051,
     "CbGpPWpGaD": 0.08227428993035407,
     "CrCbGaD": 0.0019132938955079763
   },
+  "n_trials": 0.0,
   "prediction": 0.000786880876732926,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

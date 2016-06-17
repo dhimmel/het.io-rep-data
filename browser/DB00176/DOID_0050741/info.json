@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.2645070437943331,
     "CbGbCtD": 0.24427689748336787,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09757107684769113,
     "CpDpCtD": 0.3386722152627991
   },
+  "n_trials": 0.0,
   "prediction": 0.0254880093887746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

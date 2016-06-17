@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.31136761959963877,
     "CbGbCtD": 0.2295706203399668,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.2901762291251983,
     "CrCbGaD": 0.001032490916307749
   },
+  "n_trials": 0.0,
   "prediction": 0.0067600605411797104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

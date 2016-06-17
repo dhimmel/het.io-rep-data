@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00856",
   "compound_name": "Chlorphenesin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.10812770991395496,
     "CbGbCtD": 0.20327823934977474,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2752479716560638,
     "CrCtD": 0.4096613859109367
   },
+  "n_trials": 0.0,
   "prediction": 0.0201827219020675,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

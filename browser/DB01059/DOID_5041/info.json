@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.293888166449935,
   "metapath_contribution": {
     "CbGaD": 0.7491086780722859,
     "CbGpPWpGaD": 0.13382384459092692,
     "CcSEcCtD": 0.11398304915717948,
     "CrCbGaD": 0.003084428179607616
   },
+  "n_trials": 0.0,
   "prediction": 0.00105808050458416,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

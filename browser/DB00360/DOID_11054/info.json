@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00360",
   "compound_name": "Tetrahydrobiopterin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGaD": 0.3621579825092447,
     "CbGbCtD": 0.3925460232008119,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10777764061483733,
     "CcSEcCtD": 0.07033715590370264
   },
+  "n_trials": 0.0,
   "prediction": 0.00507497749858942,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

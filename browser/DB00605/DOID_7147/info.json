@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGbCtD": 0.2962935542275167,
     "CbGdCrCtD": 0.0027209765894033425,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05334148103691357,
     "CpDpCtD": 0.6103281827920785
   },
+  "n_trials": 0.0,
   "prediction": 0.00606080425105673,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.0514705882352941,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.0474642392717815,
   "metapath_contribution": {
     "CbGaD": 0.5690302190369736,
     "CbGpPWpGaD": 0.16032398710100423,
     "CcSEcCtD": 0.261987668597274,
     "CrCbGaD": 0.008658125264748157
   },
+  "n_trials": 0.0,
   "prediction": 0.0005967601267223991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

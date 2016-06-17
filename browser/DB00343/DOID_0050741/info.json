@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00343",
   "compound_name": "Diltiazem",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.50260078023407,
   "metapath_contribution": {
     "CbGbCtD": 0.5965961405187471,
     "CbGeAlD": 0.02146032456107513,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.27411999459684855,
     "CrCbGaD": 0.008797456610991532
   },
+  "n_trials": 0.0,
   "prediction": 0.00213515626336431,
   "status": 0,
   "training_prediction": 0.0025912826261188303

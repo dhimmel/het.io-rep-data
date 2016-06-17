@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGbCtD": 0.1890854295748006,
     "CbGdCrCtD": 0.0014917714842045213,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.002588142517489492,
     "CrCrCtD": 0.2851084676683026
   },
+  "n_trials": 0.0,
   "prediction": 0.0100171853733545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

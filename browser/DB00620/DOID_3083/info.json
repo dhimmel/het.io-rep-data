@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGbCtD": 0.09540050147741665,
     "CbGeAlD": 0.006133379156035924,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2072419579674207,
     "CtDrD": 0.2008894497410648
   },
+  "n_trials": 1.0,
   "prediction": 0.0336937293967485,
   "status": 0,
   "training_prediction": 0.3623936528409699

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.09813021327251953,
     "CbGbCtD": 0.21973031789016204,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.5773706332198782,
     "CrCbGaD": 0.0004767940196146266
   },
+  "n_trials": 0.0,
   "prediction": 0.0176951417871927,
   "status": 0,
   "training_prediction": 0.0499554765327446

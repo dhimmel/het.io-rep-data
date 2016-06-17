@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.449934980494148,
   "metapath_contribution": {
     "CbGaD": 0.30005018496482677,
     "CbGbCtD": 0.26263162932045453,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0028482231983376592,
     "CrCrCtD": 0.2085874716681312
   },
+  "n_trials": 0.0,
   "prediction": 0.0021450603011571897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

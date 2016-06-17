@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0617685305591677,
   "metapath_contribution": {
     "CbGbCtD": 0.7898487729382128,
     "CbGeAlD": 0.07108247763905894,
     "CbGpPWpGaD": 0.13034498322166724,
     "CrCbGaD": 0.008723766201061075
   },
+  "n_trials": 0.0,
   "prediction": 0.000726371143295005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

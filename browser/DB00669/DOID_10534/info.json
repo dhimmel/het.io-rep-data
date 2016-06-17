@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8042912873862159,
   "metapath_contribution": {
     "CbGaD": 0.3296879332503199,
     "CbGbCtD": 0.37069122242962027,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19080890863904468,
     "CrCbGaD": 0.003685208594670993
   },
+  "n_trials": 0.0,
   "prediction": 0.00244404143565639,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

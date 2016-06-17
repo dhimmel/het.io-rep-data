@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.8043878050704609,
     "CbGeAlD": 0.0853786147894464,
     "CbGpPWpGaD": 0.10134284180373218,
     "CrCbGaD": 0.008890738336360535
   },
+  "n_trials": 0.0,
   "prediction": 0.0024574117998800897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

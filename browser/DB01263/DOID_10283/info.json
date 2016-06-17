@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01263",
   "compound_name": "Posaconazole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.653446033810143,
   "metapath_contribution": {
     "CbGaD": 0.2328070999487168,
     "CbGbCtD": 0.49235041031236,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23378518870723072,
     "CrCbGaD": 0.004800482944941993
   },
+  "n_trials": 0.0,
   "prediction": 0.00315378308666319,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

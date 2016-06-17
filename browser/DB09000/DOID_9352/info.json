@@ -1,8 +1,10 @@
 {
   "compound_id": "DB09000",
   "compound_name": "Cyamemazine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.22301690507152103,
   "metapath_contribution": {
     "CbGaD": 0.6234612098807022,
     "CbGbCtD": 0.2788382209281208,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.057699629485375895,
     "CrCbGaD": 0.007200102427774178
   },
+  "n_trials": 0.0,
   "prediction": 0.00146754433217204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

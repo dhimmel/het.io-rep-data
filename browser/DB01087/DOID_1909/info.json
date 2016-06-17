@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.49821362095831445,
     "CbGbCtD": 0.44893173191426844,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.014504506206310276,
     "CrCbGaD": 0.0014888187865630222
   },
+  "n_trials": 0.0,
   "prediction": 0.00321936445447433,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

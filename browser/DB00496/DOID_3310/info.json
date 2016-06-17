@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00496",
   "compound_name": "Darifenacin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.6924577373211961,
   "metapath_contribution": {
-    "CbGbCtD": 0.4560309286441279,
+    "CbGbCtD": 0.456030928644128,
     "CbGpPWpGaD": 0.009529671845145778,
-    "CcSEcCtD": 0.16157961688152758,
-    "CrCrCtD": 0.37285978262919867
+    "CcSEcCtD": 0.1615796168815276,
+    "CrCrCtD": 0.3728597826291987
   },
+  "n_trials": 0.0,
   "prediction": 0.0027515452281015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

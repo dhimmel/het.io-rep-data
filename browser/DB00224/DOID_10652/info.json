@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00224",
   "compound_name": "Indinavir",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7360208062418729,
   "metapath_contribution": {
     "CbGaD": 0.26323941383460225,
     "CbGbCtD": 0.4435371321279449,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2321397328779288,
     "CrCbGaD": 0.001867962916553991
   },
+  "n_trials": 0.0,
   "prediction": 0.00271098456110942,
   "status": 0,
   "training_prediction": 0.00328971767485881

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.24512541606256677,
     "CbGbCtD": 0.14431026765943866,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0020780173048498283,
     "CtDrD": 0.4747795462287094
   },
+  "n_trials": 0.0,
   "prediction": 0.0066786023231899605,
   "status": 0,
   "training_prediction": 0.0108579066957123

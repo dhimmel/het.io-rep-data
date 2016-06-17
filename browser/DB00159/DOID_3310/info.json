@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.485695708712614,
   "metapath_contribution": {
-    "CbGbCtD": 0.5527875974195154,
-    "CbGdCrCtD": 0.014791105698490443,
-    "CbGeAlD": 0.07658748979864397,
-    "CbGpPWpGaD": 0.20794941968582534,
-    "CcSEcCtD": 0.14788438739752496
+    "CbGbCtD": 0.5527875974195153,
+    "CbGdCrCtD": 0.01479110569849044,
+    "CbGeAlD": 0.07658748979864395,
+    "CbGpPWpGaD": 0.20794941968582528,
+    "CcSEcCtD": 0.14788438739752494
   },
+  "n_trials": 0.0,
   "prediction": 0.0020755851703306697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

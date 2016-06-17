@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06803",
   "compound_name": "Niclosamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.5249772336110557,
     "CbGeAlD": 0.019838616579513732,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0010921662161713463,
     "CrCrCtD": 0.3770125721497752
   },
+  "n_trials": 0.0,
   "prediction": 0.005750887908380679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

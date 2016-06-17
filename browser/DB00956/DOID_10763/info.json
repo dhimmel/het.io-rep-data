@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.21066319895968802,
   "metapath_contribution": {
     "CbGbCtD": 0.5671402213986446,
     "CbGpPWpGaD": 0.14471741891619527,
     "CcSEcCtD": 0.28605749425721677,
     "CrCbGaD": 0.0020848654279433
   },
+  "n_trials": 0.0,
   "prediction": 0.0019069465926834898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

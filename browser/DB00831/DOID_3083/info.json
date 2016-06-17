@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.238621586475943,
   "metapath_contribution": {
     "CbGaD": 0.5708436392230346,
     "CbGbCtD": 0.11184325129293253,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12253588000075265,
     "CrCbGaD": 0.006235402593990725
   },
+  "n_trials": 0.0,
   "prediction": 0.00145956933922802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

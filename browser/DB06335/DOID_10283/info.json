@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06335",
   "compound_name": "Saxagliptin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.879063719115735,
   "metapath_contribution": {
     "CbGaD": 0.30954850483893737,
     "CbGbCtD": 0.46580597852120637,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.053487222262740844,
     "CcSEcCtD": 0.1198074196740625
   },
+  "n_trials": 0.0,
   "prediction": 0.00631449827153681,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

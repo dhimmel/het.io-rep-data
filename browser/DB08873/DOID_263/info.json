@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.07476583242669563,
     "CbGbCtD": 0.17482216549980112,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5701451918880522,
     "CrCbGaD": 0.0005013492272712865
   },
+  "n_trials": 0.0,
   "prediction": 0.0135252369328689,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

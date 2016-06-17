@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.479193758127438,
   "metapath_contribution": {
     "CbGaD": 0.8457448123803306,
     "CbGbCtD": 0.05526559329261596,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08010800785015842,
     "CrCbGaD": 0.005023600493510406
   },
+  "n_trials": 0.0,
   "prediction": 0.00139609925261019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

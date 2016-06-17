@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00545",
   "compound_name": "Pyridostigmine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGbCtD": 0.7238283842039279,
     "CbGeAlD": 0.01608894369199929,
     "CbGpPWpGaD": 0.024493922190390698,
     "CcSEcCtD": 0.23558874991368214
   },
+  "n_trials": 0.0,
   "prediction": 0.00213094964651417,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

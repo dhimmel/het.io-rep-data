@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.44668400520156,
   "metapath_contribution": {
     "CbGbCtD": 0.5413645438182005,
     "CbGeAlD": 0.09911462472623563,
     "CbGpPWpGaD": 0.08336310286766598,
     "CcSEcCtD": 0.2761577285878979
   },
+  "n_trials": 0.0,
   "prediction": 0.00168930128228963,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

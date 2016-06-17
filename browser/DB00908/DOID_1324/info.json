@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
     "CbGaD": 0.29607597066431535,
     "CbGbCtD": 0.46882975053784864,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1244684749257547,
     "CrCbGaD": 0.0017539297902828446
   },
+  "n_trials": 0.0,
   "prediction": 0.00373130665298906,
   "status": 0,
   "training_prediction": 0.012684293323558

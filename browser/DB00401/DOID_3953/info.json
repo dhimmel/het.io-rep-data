@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.2477157405439222,
     "CbGeAlD": 0.0021427542696885542,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0011342926423271128,
     "CtDrD": 0.7461813487291162
   },
+  "n_trials": 0.0,
   "prediction": 0.00211868052518127,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

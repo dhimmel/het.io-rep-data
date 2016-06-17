@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00806",
   "compound_name": "Pentoxifylline",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.850455136540962,
   "metapath_contribution": {
     "CbGaD": 0.8118127645988596,
     "CbGeAlD": 0.05563194024448564,
     "CbGpPWpGaD": 0.12501183515291917,
     "CrCbGaD": 0.007543460003735526
   },
+  "n_trials": 0.0,
   "prediction": 0.00232097007478706,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.40702210663199,
   "metapath_contribution": {
-    "CbGbCtD": 0.4183059032141813,
-    "CbGdCrCtD": 0.011199230153757407,
-    "CbGeAlD": 0.16820094855875478,
-    "CbGpPWpGaD": 0.3877738354941151,
-    "CrCbGaD": 0.014520082579191369
+    "CbGbCtD": 0.4183059032141814,
+    "CbGdCrCtD": 0.011199230153757409,
+    "CbGeAlD": 0.1682009485587548,
+    "CbGpPWpGaD": 0.38777383549411515,
+    "CrCbGaD": 0.01452008257919137
   },
+  "n_trials": 0.0,
   "prediction": 0.00192705216546183,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

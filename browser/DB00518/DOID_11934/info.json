@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.366089653188339,
     "CbGbCtD": 0.5778057129219196,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.010862529739753338,
     "CrCbGaD": 0.001781748228083303
   },
+  "n_trials": 0.0,
   "prediction": 0.00307353315692545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

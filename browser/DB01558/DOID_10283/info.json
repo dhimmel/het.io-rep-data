@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01558",
   "compound_name": "Bromazepam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.728218465539662,
   "metapath_contribution": {
     "CbGaD": 0.35687792508841865,
     "CbGbCtD": 0.37851444387873906,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14998072057083792,
     "CrCbGaD": 0.004411924052273862
   },
+  "n_trials": 0.0,
   "prediction": 0.0038092615691231796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

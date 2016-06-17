@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08899",
   "compound_name": "Enzalutamide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.713263979193758,
   "metapath_contribution": {
     "CbGaD": 0.33070402705984164,
     "CbGbCtD": 0.49281523212677875,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11208951012356555,
     "CrCbGaD": 0.00316455971984751
   },
+  "n_trials": 0.0,
   "prediction": 0.00398151541204826,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

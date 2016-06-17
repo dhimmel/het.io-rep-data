@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01216",
   "compound_name": "Finasteride",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.656046814044213,
   "metapath_contribution": {
     "CbGaD": 0.545379164538597,
     "CbGbCtD": 0.24179947856678588,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09672726112779047,
     "CrCbGaD": 0.005189512655909047
   },
+  "n_trials": 0.0,
   "prediction": 0.00345545355123373,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

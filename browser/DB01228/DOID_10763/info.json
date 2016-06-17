@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01228",
   "compound_name": "Encainide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.690507152145644,
   "metapath_contribution": {
     "CbGbCtD": 0.24176337702804926,
     "CbGeAlD": 0.018347437776201323,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2105787732138092,
     "CrCtD": 0.5128302017163289
   },
+  "n_trials": 0.0,
   "prediction": 0.00674998612462966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

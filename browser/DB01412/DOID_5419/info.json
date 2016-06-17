@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01412",
   "compound_name": "Theobromine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.8509136152110147,
     "CbGeAlD": 0.04428851170921409,
     "CbGpPWpGaD": 0.09664667854772194,
     "CrCbGaD": 0.008151194532049343
   },
+  "n_trials": 0.0,
   "prediction": 0.00282995203973612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

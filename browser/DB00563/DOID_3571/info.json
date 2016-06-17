@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.18931561280280135,
     "CbGbCtD": 0.19783532813621216,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.001156994038245484,
     "CtDrD": 0.4540218487041887
   },
+  "n_trials": 0.0,
   "prediction": 0.00842634548285164,
   "status": 0,
   "training_prediction": 0.0905807193088524

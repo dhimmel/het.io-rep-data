@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.5663198959687911,
   "metapath_contribution": {
     "CbGbCtD": 0.620301102925994,
     "CbGeAlD": 0.04856110457032182,
     "CbGpPWpGaD": 0.16523996834709204,
     "CcSEcCtD": 0.1658978241565922
   },
+  "n_trials": 0.0,
   "prediction": 0.00169450946880257,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

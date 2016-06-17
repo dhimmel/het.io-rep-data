@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.18871760456635311,
     "CbGbCtD": 0.6297907349765146,
     "CbGpPWpGaD": 0.07794511392155688,
     "CcSEcCtD": 0.10354654653557537
   },
+  "n_trials": 0.0,
   "prediction": 0.00395899758227399,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

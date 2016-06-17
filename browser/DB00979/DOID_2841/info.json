@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00979",
   "compound_name": "Cyclopentolate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGbCtD": 0.36947878793760985,
     "CbGeAlD": 0.013625096140212923,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10257255733787596,
     "CrCrCtD": 0.47726536339341596
   },
+  "n_trials": 0.0,
   "prediction": 0.00617006213296171,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

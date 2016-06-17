@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.7668979050398529,
     "CbGeAlD": 0.09509287790139394,
     "CbGpPWpGaD": 0.1307395418186498,
     "CrCbGaD": 0.007269675240103312
   },
+  "n_trials": 0.0,
   "prediction": 0.00158049285499025,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

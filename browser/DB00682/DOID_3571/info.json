@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.64629388816645,
   "metapath_contribution": {
     "CbGaD": 0.7032326897677323,
     "CbGbCtD": 0.16900080370855944,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11648447776451808,
     "CrCbGaD": 0.0018413246319924806
   },
+  "n_trials": 0.0,
   "prediction": 0.0017640509515079999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

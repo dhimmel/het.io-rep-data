@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:2174",
   "disease_name": "ocular cancer",
+  "disease_percentile": 0.523407022106632,
   "metapath_contribution": {
     "CbGeAlD": 0.1296162841726203,
     "CbGpPWpGaD": 0.8703837158273797
   },
+  "n_trials": 0.0,
   "prediction": 0.00115894800432685,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

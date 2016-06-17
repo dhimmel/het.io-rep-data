@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5890767230169051,
   "metapath_contribution": {
     "CbGaD": 0.296200470424656,
     "CbGbCtD": 0.2692391547312177,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15489635549071112,
     "CcSEcCtD": 0.20066695710905197
   },
+  "n_trials": 0.0,
   "prediction": 0.00283519581760321,
   "status": 0,
   "training_prediction": 0.015538346361536002

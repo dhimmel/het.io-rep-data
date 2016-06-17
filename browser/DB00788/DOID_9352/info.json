@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.5994798439531861,
   "metapath_contribution": {
     "CbGaD": 0.2663465147354958,
     "CbGbCtD": 0.482964386851133,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16206715014412953,
     "CrCbGaD": 0.004245747460228968
   },
+  "n_trials": 0.0,
   "prediction": 0.00297161150736597,
   "status": 0,
   "training_prediction": 0.0130090595623649

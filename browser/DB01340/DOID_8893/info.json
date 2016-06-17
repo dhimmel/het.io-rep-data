@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.784135240572172,
   "metapath_contribution": {
     "CbGaD": 0.6702838799370171,
     "CbGbCtD": 0.12227599662591498,
     "CcSEcCtD": 0.19998132577134478,
     "CrCbGaD": 0.007458797665723184
   },
+  "n_trials": 0.0,
   "prediction": 0.00294211134549109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

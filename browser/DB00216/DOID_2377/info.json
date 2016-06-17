@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGbCtD": 0.2604750187415846,
     "CbGeAlD": 0.07923512014076069,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10295239410605803,
     "CpDpCtD": 0.5070802840412889
   },
+  "n_trials": 0.0,
   "prediction": 0.00289601780522868,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

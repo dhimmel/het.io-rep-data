@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGbCtD": 0.25144943454980967,
     "CbGdCrCtD": 0.0011520298717138523,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.22192346444972538,
     "CrCtD": 0.42432978979384833
   },
+  "n_trials": 0.0,
   "prediction": 0.00995622033882968,
   "status": 0,
   "training_prediction": 0.0385403097048418

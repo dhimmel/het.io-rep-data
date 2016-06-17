@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00194",
   "compound_name": "Vidarabine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.25227568270481104,
   "metapath_contribution": {
     "CbGeAlD": 0.07724902478837313,
     "CbGpPWpGaD": 0.08824451245715015,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.008570012128479668,
     "CrCrCtD": 0.6538205758994766
   },
+  "n_trials": 0.0,
   "prediction": 0.0011485161126112199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

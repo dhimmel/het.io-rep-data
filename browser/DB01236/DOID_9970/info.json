@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGaD": 0.38006480139991394,
     "CbGbCtD": 0.36635841375295847,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10043137122500413,
     "CcSEcCtD": 0.10708214988893809
   },
+  "n_trials": 1.0,
   "prediction": 0.00685718393545718,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

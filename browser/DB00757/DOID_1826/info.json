@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00757",
   "compound_name": "Dolasetron",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6430429128738621,
   "metapath_contribution": {
     "CbGaD": 0.23246835873792912,
     "CbGbCtD": 0.4672711144472935,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23553211308957359,
     "CrCbGaD": 0.004689895701401206
   },
+  "n_trials": 0.0,
   "prediction": 0.00481139923025871,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

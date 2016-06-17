@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.29518855656696996,
   "metapath_contribution": {
-    "CbGaD": 0.6412603436173283,
-    "CbGeAlD": 0.04797576448154004,
-    "CbGpPWpGaD": 0.12063969386616004,
-    "CcSEcCtD": 0.1796046178163191,
-    "CrCbGaD": 0.010519580218652656
+    "CbGaD": 0.6412603436173282,
+    "CbGeAlD": 0.047975764481540034,
+    "CbGpPWpGaD": 0.12063969386616002,
+    "CcSEcCtD": 0.17960461781631906,
+    "CrCbGaD": 0.010519580218652654
   },
+  "n_trials": 0.0,
   "prediction": 0.00128288225867515,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

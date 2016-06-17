@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGbCtD": 0.6631702945600648,
     "CbGeAlD": 0.15330426863426577,
@@ -11,6 +13,5 @@
     "CcSEcCtD": 0.07254730021674098
   },
   "prediction": 0.00211022172024043,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

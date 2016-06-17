@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.15001349504984454,
     "CbGbCtD": 0.42928302842436644,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19012553604428006,
     "CrCbGaD": 0.002828474515491294
   },
+  "n_trials": 0.0,
   "prediction": 0.00087064783290392,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00104",
   "compound_name": "Octreotide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.49674902470741206,
   "metapath_contribution": {
     "CbGaD": 0.4860972690614245,
     "CbGeAlD": 0.002021225825424095,
     "CbGpPWpGaD": 0.17658325609380998,
     "CcSEcCtD": 0.33529824901934147
   },
+  "n_trials": 3.0,
   "prediction": 0.0022828071027380104,
   "status": 0,
   "training_prediction": 0.009648117367024159

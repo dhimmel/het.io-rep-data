@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.8172146465371126,
     "CbGeAlD": 0.056956591148562316,
     "CbGpPWpGaD": 0.12144771980906531,
     "CrCbGaD": 0.004381042505259689
   },
+  "n_trials": 0.0,
   "prediction": 0.0028278397123135198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

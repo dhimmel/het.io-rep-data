@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.505851755526658,
   "metapath_contribution": {
     "CbGaD": 0.7732849292770391,
     "CbGeAlD": 0.12061722670335082,
     "CbGpPWpGaD": 0.09985462518033296,
     "CrCbGaD": 0.006243218839277205
   },
+  "n_trials": 0.0,
   "prediction": 0.00121264112867281,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

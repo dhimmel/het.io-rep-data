@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00145",
   "compound_name": "Glycine",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.254876462938882,
   "metapath_contribution": {
     "CbGdCrCtD": 0.013475890211770944,
     "CbGeAlD": 0.4669823854105834,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1088977295049959,
     "CrCbGaD": 0.010713157872847675
   },
+  "n_trials": 0.0,
   "prediction": 0.00132503664933972,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

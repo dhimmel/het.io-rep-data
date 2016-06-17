@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01338",
   "compound_name": "Pipecuronium",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.435630689206762,
   "metapath_contribution": {
     "CbGaD": 0.8685944709889101,
     "CbGeAlD": 0.04558431194846382,
     "CbGpPWpGaD": 0.08235417647660744,
     "CrCbGaD": 0.003467040586018641
   },
+  "n_trials": 0.0,
   "prediction": 0.00210338666500802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

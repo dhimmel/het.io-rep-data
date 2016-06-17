@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.40377113133940207,
   "metapath_contribution": {
     "CbGaD": 0.7290228789789372,
     "CbGeAlD": 0.024608291247546835,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11833415347001493,
     "CrCbGaD": 0.0060366181571035946
   },
+  "n_trials": 0.0,
   "prediction": 0.0015688039863789099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

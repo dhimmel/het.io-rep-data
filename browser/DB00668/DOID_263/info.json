@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.235370611183355,
   "metapath_contribution": {
     "CbGbCtD": 0.47767904906668096,
     "CbGdCrCtD": 0.004690250072976433,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23277331523682682,
     "CrCbGaD": 0.0068925515425096355
   },
+  "n_trials": 0.0,
   "prediction": 0.00110333237671611,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

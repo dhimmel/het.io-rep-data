@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.3235377911995385,
     "CbGbCtD": 0.48137624771036464,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14065170717979636,
     "CrCbGaD": 0.004373178414465193
   },
+  "n_trials": 0.0,
   "prediction": 0.00351450119534929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

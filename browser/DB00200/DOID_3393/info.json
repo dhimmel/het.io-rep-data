@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.5351105331599479,
   "metapath_contribution": {
     "CbGeAlD": 0.09551881251130319,
     "CbGpPWpGaD": 0.4930515510232737,
     "CcSEcCtD": 0.40599710869822675,
     "CrCbGaD": 0.00543252776719643
   },
+  "n_trials": 5.0,
   "prediction": 0.0025651375651899897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

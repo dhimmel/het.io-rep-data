@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.7489457575558747,
     "CbGeAlD": 0.06532988844459149,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.006051032209605575
   },
   "prediction": 0.0029773551694900102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.15279583875162603,
   "metapath_contribution": {
     "CbGaD": 0.6415030320423827,
     "CbGeAlD": 0.1322394537580865,
     "CbGpPWpGaD": 0.2251971095823928,
     "CrCbGaD": 0.0010604046171381032
   },
+  "n_trials": 0.0,
   "prediction": 0.00075027882653211,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

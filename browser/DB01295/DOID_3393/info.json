@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01295",
   "compound_name": "Bevantolol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.64629388816645,
   "metapath_contribution": {
     "CbGaD": 0.4210991606405276,
     "CbGbCtD": 0.341783170932815,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.005080621618278763,
     "CrCrCtD": 0.17376298199712584
   },
+  "n_trials": 0.0,
   "prediction": 0.0031509000640033698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

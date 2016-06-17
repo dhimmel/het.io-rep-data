@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.7262678803641089,
   "metapath_contribution": {
     "CbGbCtD": 0.3492806781832604,
     "CbGpPWpGaD": 0.023828224422390572,
@@ -10,6 +12,7 @@
     "CpDpCtD": 0.41533082455417253,
     "CrCrCtD": 0.07780064316001442
   },
+  "n_trials": 0.0,
   "prediction": 0.00287604184928092,
   "status": 0,
   "training_prediction": 0.0162454607793923

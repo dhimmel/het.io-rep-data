@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.7677294795193953,
     "CbGeAlD": 0.020618877480779046,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08502837865525345,
     "CrCbGaD": 0.00463386810465878
   },
+  "n_trials": 0.0,
   "prediction": 0.00312717578254045,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

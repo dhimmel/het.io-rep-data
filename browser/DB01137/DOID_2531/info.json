@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGaD": 0.27611152139153,
     "CbGbCtD": 0.4777300915275349,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.19860106698012306,
     "CrCbGaD": 0.0028725047541746855
   },
+  "n_trials": 3.0,
   "prediction": 0.0026301953880049,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

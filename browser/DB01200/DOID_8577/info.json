@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.280234070221066,
   "metapath_contribution": {
     "CbGaD": 0.27866599445654344,
     "CbGbCtD": 0.27275298212349963,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.23840883841663793,
     "CrCbGaD": 0.0021890860017282163
   },
+  "n_trials": 0.0,
   "prediction": 0.00150308996029343,
   "status": 0,
   "training_prediction": 0.0051372086868114895

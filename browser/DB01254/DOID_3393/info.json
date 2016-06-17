@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.37304801801771553,
     "CbGbCtD": 0.2543510636586912,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.16190433042227786,
     "CcSEcCtD": 0.15157754903793524
   },
+  "n_trials": 0.0,
   "prediction": 0.00853573626985485,
   "status": 0,
   "training_prediction": 0.0443757665187206

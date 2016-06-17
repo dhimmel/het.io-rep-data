@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.24059869236671766,
     "CbGbCtD": 0.15597269983325018,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.44968804298433623,
     "CrCbGaD": 0.001808650522132998
   },
+  "n_trials": 0.0,
   "prediction": 0.00853385777905301,
   "status": 0,
   "training_prediction": 0.0155004914621424

@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
-    "CbGaD": 0.3718119429030525,
-    "CbGbCtD": 0.3999210414357661,
-    "CbGeAlD": 0.0014523634097402024,
-    "CbGpPWpGaD": 0.06307875272444825,
-    "CcSEcCtD": 0.1599827748940791,
-    "CrCbGaD": 0.003753124632913877
+    "CbGaD": 0.3718119429030524,
+    "CbGbCtD": 0.39992104143576607,
+    "CbGeAlD": 0.0014523634097402022,
+    "CbGpPWpGaD": 0.06307875272444824,
+    "CcSEcCtD": 0.15998277489407908,
+    "CrCbGaD": 0.0037531246329138767
   },
+  "n_trials": 0.0,
   "prediction": 0.00611413110681035,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

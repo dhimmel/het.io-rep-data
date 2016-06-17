@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.7468946593908473,
     "CbGeAlD": 0.10539468901396976,
     "CbGpPWpGaD": 0.14173271455289363,
     "CrCbGaD": 0.005977937042289328
   },
+  "n_trials": 0.0,
   "prediction": 0.0027742909470402396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

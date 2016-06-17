@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.627857344616024,
     "CbGeAlD": 0.03178088163503679,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19482148059285362,
     "CrCbGaD": 0.00011242942056797654
   },
+  "n_trials": 0.0,
   "prediction": 0.00276076879685643,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

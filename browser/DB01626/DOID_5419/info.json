@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01626",
   "compound_name": "Pargyline",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.7074122236670999,
   "metapath_contribution": {
     "CbGaD": 0.8005620467620079,
     "CbGeAlD": 0.04600228463256733,
     "CbGpPWpGaD": 0.14553025601811378,
     "CrCbGaD": 0.007905412587310924
   },
+  "n_trials": 0.0,
   "prediction": 0.00208110009816602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

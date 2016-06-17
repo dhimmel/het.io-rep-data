@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.679453836150845,
   "metapath_contribution": {
     "CbGbCtD": 0.5212180139148739,
     "CbGeAlD": 0.07958180905003368,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2841391405922672,
     "CrCbGaD": 0.005392077943875562
   },
+  "n_trials": 0.0,
   "prediction": 0.0024209499242297604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

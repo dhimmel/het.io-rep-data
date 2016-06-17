@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.76853055916775,
   "metapath_contribution": {
     "CbGbCtD": 0.2865688063852336,
     "CbGdCrCtD": 0.005750393977531117,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.19167536824062584,
     "CcSEcCtD": 0.36155346258449106
   },
+  "n_trials": 0.0,
   "prediction": 0.00286899939130971,
   "status": 0,
   "training_prediction": 0.0271270293207909

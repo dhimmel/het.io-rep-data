@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.5546163849154749,
   "metapath_contribution": {
     "CbGaD": 0.8302924016848764,
     "CbGpPWpGaD": 0.16129386288422423,
     "CrCbGaD": 0.008413735430899493
   },
+  "n_trials": 0.0,
   "prediction": 0.00126762174712546,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

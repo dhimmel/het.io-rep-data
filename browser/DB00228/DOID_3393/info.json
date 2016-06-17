@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
-    "CbGaD": 0.19849223438376146,
-    "CbGbCtD": 0.4099258211248979,
-    "CbGeAlD": 0.019238855172538292,
-    "CbGpPWpGaD": 0.1963287434954962,
-    "CcSEcCtD": 0.17581754485605994,
-    "CrCbGaD": 0.0001968009672461194
+    "CbGaD": 0.1984922343837615,
+    "CbGbCtD": 0.40992582112489795,
+    "CbGeAlD": 0.0192388551725383,
+    "CbGpPWpGaD": 0.19632874349549626,
+    "CcSEcCtD": 0.17581754485606,
+    "CrCbGaD": 0.00019680096724611945
   },
+  "n_trials": 0.0,
   "prediction": 0.0026421344928268396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

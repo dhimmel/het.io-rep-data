@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGbCtD": 0.3167309426527235,
     "CbGpPWpGaD": 0.007752660029140563,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.28205410314842655,
     "CrCtD": 0.3449855438839224
   },
+  "n_trials": 0.0,
   "prediction": 0.0137983124968995,
   "status": 0,
   "training_prediction": 0.0489620583094896

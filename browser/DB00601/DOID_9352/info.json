@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00601",
   "compound_name": "Linezolid",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.266579973992198,
   "metapath_contribution": {
     "CbGeAlD": 0.05666889953929355,
     "CbGpPWpGaD": 0.17242253333146781,
     "CcSEcCtD": 0.76452251856518,
     "CrCbGaD": 0.006386048564058601
   },
+  "n_trials": 0.0,
   "prediction": 0.00159318188695566,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

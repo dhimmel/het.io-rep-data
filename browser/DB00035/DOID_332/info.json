@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.662548764629389,
   "metapath_contribution": {
     "CbGaD": 0.7614681431788834,
     "CbGeAlD": 0.009586357197115206,
     "CbGpPWpGaD": 0.048105243689175556,
     "CcSEcCtD": 0.1808402559348258
   },
+  "n_trials": 0.0,
   "prediction": 0.00163382025368525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

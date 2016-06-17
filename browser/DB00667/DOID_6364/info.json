@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
     "CbGbCtD": 0.709394518092727,
     "CbGeAlD": 0.025235490948637192,
     "CbGpPWpGaD": 0.09239755689166683,
     "CcSEcCtD": 0.172972434066969
   },
+  "n_trials": 1.0,
   "prediction": 0.0039569462822038205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

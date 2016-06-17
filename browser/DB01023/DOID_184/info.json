@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.211963589076723,
   "metapath_contribution": {
     "CbGaD": 0.6598889520026137,
     "CbGeAlD": 0.06490641930718942,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0859390092861032,
     "CrCbGaD": 0.009521366825513005
   },
+  "n_trials": 0.0,
   "prediction": 0.0010012270456933,
   "status": 0,
   "training_prediction": 0.00142899065619451

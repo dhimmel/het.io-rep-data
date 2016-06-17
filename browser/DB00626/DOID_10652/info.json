@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00626",
   "compound_name": "Bacitracin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.8332718426912054,
     "CbGeAlD": 0.04882007234168438,
     "CbGpPWpGaD": 0.11667994168831229,
     "CrCbGaD": 0.0012281432787979334
   },
+  "n_trials": 0.0,
   "prediction": 0.00491950201314999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

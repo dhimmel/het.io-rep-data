@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.7906371911573471,
   "metapath_contribution": {
     "CbGaD": 0.26982697966884306,
     "CbGbCtD": 0.5138158849445844,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07129542470670659,
     "CrCbGaD": 0.001494347605296639
   },
+  "n_trials": 0.0,
   "prediction": 0.00249733513063566,
   "status": 0,
   "training_prediction": 0.0110419545814706

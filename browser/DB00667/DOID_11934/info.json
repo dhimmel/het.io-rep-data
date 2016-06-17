@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.6235370611183361,
   "metapath_contribution": {
     "CbGbCtD": 0.6626372759199657,
     "CbGeAlD": 0.03214567297726354,
     "CcSEcCtD": 0.2990446719315722,
     "CrCbGaD": 0.006172379171198571
   },
+  "n_trials": 0.0,
   "prediction": 0.0016870390276333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

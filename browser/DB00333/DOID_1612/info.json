@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.1407804327978286,
     "CbGbCtD": 0.24776054690798188,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21158924116635053,
     "CrCtD": 0.29564995022474205
   },
+  "n_trials": 0.0,
   "prediction": 0.008069232158753641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

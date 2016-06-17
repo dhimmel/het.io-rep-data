@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08896",
   "compound_name": "Regorafenib",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.801690507152146,
   "metapath_contribution": {
     "CbGaD": 0.7259953387201215,
     "CbGeAlD": 0.06946895464094961,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0349373469130986,
     "CrCbGaD": 0.005631236414554146
   },
+  "n_trials": 0.0,
   "prediction": 0.0021546196451563697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

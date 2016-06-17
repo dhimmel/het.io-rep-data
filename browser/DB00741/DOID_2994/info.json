@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.419117647058824,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.0247074122236671,
   "metapath_contribution": {
     "CbGbCtD": 0.7084108757371437,
     "CbGeAlD": 0.07764217467157497,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17580363705161098,
     "CrCbGaD": 0.0031274907549841044
   },
+  "n_trials": 0.0,
   "prediction": 0.000635922311356766,
   "status": 0,
   "training_prediction": 0.00587763406940944

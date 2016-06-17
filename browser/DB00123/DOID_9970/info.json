@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00123",
   "compound_name": "L-Lysine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.447984395318596,
   "metapath_contribution": {
     "CbGbCtD": 0.27835974641240685,
     "CbGeAlD": 0.10048198790023523,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.009311523448917513,
     "CrCrCtD": 0.49800625029338214
   },
+  "n_trials": 0.0,
   "prediction": 0.00226212519912883,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

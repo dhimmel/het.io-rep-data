@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00990",
   "compound_name": "Exemestane",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.3784557149682631,
     "CbGbCtD": 0.05043739855320712,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0032370177748704473,
     "CrCrCtD": 0.44001909647739745
   },
+  "n_trials": 0.0,
   "prediction": 0.00583942142865325,
   "status": 0,
   "training_prediction": 0.0106300291984765

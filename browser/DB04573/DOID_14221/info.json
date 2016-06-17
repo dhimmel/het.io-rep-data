@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.7340702210663199,
   "metapath_contribution": {
     "CbGaD": 0.8936009150426265,
     "CbGeAlD": 0.007143599200583434,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.015094227617236358,
     "CrCbGaD": 0.008016068870022219
   },
+  "n_trials": 0.0,
   "prediction": 0.00195490643957058,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

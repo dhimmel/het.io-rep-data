@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGbCtD": 0.23589931834419722,
     "CcSEcCtD": 0.03966424565125849,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.25746392743384555,
     "CrCtD": 0.4653712439534262
   },
+  "n_trials": 0.0,
   "prediction": 0.0239083272940281,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

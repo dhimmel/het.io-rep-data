@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGbCtD": 0.19901048586239586,
     "CbGdCrCtD": 0.0006658594151333895,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.15949235298751618,
     "CrCtD": 0.24117360173655283
   },
+  "n_trials": 0.0,
   "prediction": 0.111557577740593,
   "status": 0,
   "training_prediction": 0.21704282663129001

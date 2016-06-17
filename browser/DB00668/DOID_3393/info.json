@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.511703511053316,
   "metapath_contribution": {
     "CbGaD": 0.3312196405019113,
     "CbGbCtD": 0.4073120400353018,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1137120477393729,
     "CrCbGaD": 0.0038362741150980845
   },
+  "n_trials": 3.0,
   "prediction": 0.00245503162660581,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

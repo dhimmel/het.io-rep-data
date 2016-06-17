@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.28676470588235303,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.284785435630689,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.5569649537524177,
     "CcSEcCtD": 0.4119686279790286,
     "CrCbGaD": 0.031066418268553626
   },
+  "n_trials": 3.0,
   "prediction": 0.0010374342455307401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

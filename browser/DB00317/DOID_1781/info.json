@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGbCtD": 0.2230807216038284,
     "CbGdCrCtD": 0.00044834412809598216,
@@ -14,6 +16,7 @@
     "CrCtD": 0.3100144314060539,
     "CtDrD": 0.18309993883274633
   },
+  "n_trials": 2.0,
   "prediction": 0.0795722993100283,
   "status": 0,
   "training_prediction": 0.0949962153485947

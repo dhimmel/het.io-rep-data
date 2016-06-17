@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00273",
   "compound_name": "Topiramate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.5586480428317213,
     "CbGbCtD": 0.06341310473741288,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12856508210705303,
     "CcSEcCtD": 0.16613380746008546
   },
+  "n_trials": 0.0,
   "prediction": 0.00764076906288965,
   "status": 0,
   "training_prediction": 0.0207773817171356

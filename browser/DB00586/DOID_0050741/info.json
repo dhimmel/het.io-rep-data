@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.771781534460338,
   "metapath_contribution": {
     "CbGaD": 0.25409985737336444,
     "CbGbCtD": 0.40351390696855255,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10641676750948405,
     "CcSEcCtD": 0.16968060127869805
   },
+  "n_trials": 0.0,
   "prediction": 0.0037281605689325798,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

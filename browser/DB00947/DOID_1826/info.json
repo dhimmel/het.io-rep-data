@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.224967490247074,
   "metapath_contribution": {
     "CbGbCtD": 0.43815134628825786,
     "CbGeAlD": 0.059807361204261056,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3357166460934408,
     "CrCbGaD": 0.0033507714062567437
   },
+  "n_trials": 0.0,
   "prediction": 0.00183396061227527,
   "status": 0,
   "training_prediction": 0.00894013953127902

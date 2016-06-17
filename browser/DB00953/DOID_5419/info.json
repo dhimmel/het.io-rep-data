@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00953",
   "compound_name": "Rizatriptan",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.7794344127861477,
     "CbGeAlD": 0.06337501762240194,
     "CbGpPWpGaD": 0.15020736041916896,
     "CrCbGaD": 0.006983209172281336
   },
+  "n_trials": 0.0,
   "prediction": 0.00263698551319052,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

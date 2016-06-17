@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00207",
   "compound_name": "Azithromycin",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGbCtD": 0.7138466764315672,
     "CbGpPWpGaD": 0.05620897201824798,
     "CcSEcCtD": 0.21948588438341848,
     "CrCbGaD": 0.010458467166766303
   },
+  "n_trials": 0.0,
   "prediction": 0.00131260830096747,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

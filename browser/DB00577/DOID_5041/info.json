@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00577",
   "compound_name": "Valaciclovir",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.7860858257477241,
   "metapath_contribution": {
     "CbGaD": 0.8753241150187383,
     "CbGbCtD": 0.020861875485893397,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07633213365051124,
     "CrCbGaD": 0.004925242721627969
   },
+  "n_trials": 0.0,
   "prediction": 0.00220858305481312,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

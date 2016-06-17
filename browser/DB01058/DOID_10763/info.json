@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01058",
   "compound_name": "Praziquantel",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7529258777633292,
   "metapath_contribution": {
     "CbGaD": 0.22025109869488912,
     "CbGbCtD": 0.5371695480769024,
     "CbGpPWpGaD": 0.08184775940171904,
     "CcSEcCtD": 0.16073159382648938
   },
+  "n_trials": 0.0,
   "prediction": 0.008190668703849921,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

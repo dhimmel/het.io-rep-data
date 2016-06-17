@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.486996098829649,
   "metapath_contribution": {
     "CbGaD": 0.9487441863969069,
     "CbGeAlD": 0.014511615313104834,
     "CbGpPWpGaD": 0.025149968025662977,
     "CrCbGaD": 0.011594230264325267
   },
+  "n_trials": 0.0,
   "prediction": 0.00140037895740074,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.21220378298163045,
     "CbGbCtD": 0.28451234105453216,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.3114587239359147,
     "CrCbGaD": 0.0008898950373911696
   },
+  "n_trials": 0.0,
   "prediction": 0.00562277714145415,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

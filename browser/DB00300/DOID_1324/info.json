@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7249674902470741,
   "metapath_contribution": {
     "CbGbCtD": 0.6533046358520321,
     "CbGdCrCtD": 0.005584639021466466,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16788189267047254,
     "CrCbGaD": 0.006003824224332357
   },
+  "n_trials": 0.0,
   "prediction": 0.0027199092485167397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

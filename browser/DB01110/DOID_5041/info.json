@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.882314694408322,
   "metapath_contribution": {
     "CbGaD": 0.7324671278132839,
     "CbGbCtD": 0.024019215943717163,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.02534565411323018,
     "CrCbGaD": 0.0016748365933898389
   },
+  "n_trials": 0.0,
   "prediction": 0.00268526944759959,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

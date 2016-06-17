@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01400",
   "compound_name": "Neostigmine",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.5572171651495451,
   "metapath_contribution": {
     "CbGaD": 0.7856601448881056,
     "CbGeAlD": 0.01121863484788432,
     "CbGpPWpGaD": 0.20147774199692708,
     "CrCbGaD": 0.0016434782670829077
   },
+  "n_trials": 0.0,
   "prediction": 0.00168277605155931,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

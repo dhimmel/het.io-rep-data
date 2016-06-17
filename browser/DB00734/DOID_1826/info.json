@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.20169395081288574,
     "CbGbCtD": 0.20355110632420506,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.35829309688589206,
     "CrCbGaD": 0.0014127941761804133
   },
+  "n_trials": 0.0,
   "prediction": 0.0151555297123557,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

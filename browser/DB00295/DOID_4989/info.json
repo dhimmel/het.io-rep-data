@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.269830949284785,
   "metapath_contribution": {
     "CbGeAlD": 0.07336616951556237,
     "CbGpPWpGaD": 0.32609681045297007,
     "CcSEcCtD": 0.5915399314897658,
     "CrCbGaD": 0.008997088541701797
   },
+  "n_trials": 0.0,
   "prediction": 0.00111086923963254,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

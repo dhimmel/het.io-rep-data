@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00123",
   "compound_name": "L-Lysine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.537711313394018,
   "metapath_contribution": {
     "CbGaD": 0.8211631176615014,
     "CbGdCrCtD": 0.002755219312602611,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09433778816038843,
     "CrCbGaD": 0.007048181882051962
   },
+  "n_trials": 0.0,
   "prediction": 0.00242572323285022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

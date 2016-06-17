@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.492847854356307,
   "metapath_contribution": {
     "CbGaD": 0.13747167004661145,
     "CbGbCtD": 0.3592987811531291,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.26485464149677845,
     "CrCbGaD": 0.0036788955896995762
   },
+  "n_trials": 0.0,
   "prediction": 0.00234533006785813,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

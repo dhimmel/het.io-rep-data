@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00768",
   "compound_name": "Olopatadine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.8943887417643401,
     "CbGeAlD": 0.04739349807641951,
     "CbGpPWpGaD": 0.05095169674821997,
     "CrCbGaD": 0.007266063411020365
   },
+  "n_trials": 0.0,
   "prediction": 0.00240828129500056,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

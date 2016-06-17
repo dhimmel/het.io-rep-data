@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.8076909082268363,
     "CbGeAlD": 0.06517067203519829,
     "CbGpPWpGaD": 0.10210436649009288,
     "CcSEcCtD": 0.025034053247872466
   },
+  "n_trials": 0.0,
   "prediction": 0.0023071842821334103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

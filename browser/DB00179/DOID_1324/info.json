@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.4618485321647141,
     "CbGbCtD": 0.41455815431106663,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.029412946487432944,
     "CbGpPWpGaD": 0.09091986184321099
   },
+  "n_trials": 0.0,
   "prediction": 0.00424942308292132,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

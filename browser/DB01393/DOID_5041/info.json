@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.237971391417425,
   "metapath_contribution": {
     "CbGeAlD": 0.2077828618919716,
     "CbGpPWpGaD": 0.6475633251032276,
     "CcSEcCtD": 0.11623020864240081,
     "CrCbGaD": 0.028423604362400108
   },
+  "n_trials": 0.0,
   "prediction": 0.000955441747269198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01413",
   "compound_name": "Cefepime",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.398569570871261,
   "metapath_contribution": {
     "CbGbCtD": 0.4662146878686969,
     "CcSEcCtD": 0.5337853121313031
   },
+  "n_trials": 1.0,
   "prediction": 0.00140125805356228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

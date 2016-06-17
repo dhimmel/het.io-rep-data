@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.55851755526658,
   "metapath_contribution": {
     "CbGaD": 0.20403692825903316,
     "CbGbCtD": 0.2498328255224636,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21065577855602916,
     "CrCbGaD": 0.006251255616547988
   },
+  "n_trials": 0.0,
   "prediction": 0.00203271764520336,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

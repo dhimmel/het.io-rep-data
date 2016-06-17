@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.21911573472041604,
   "metapath_contribution": {
     "CbGbCtD": 0.6162698572322916,
     "CbGdCrCtD": 0.004599106747895936,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0689790001599781,
     "CcSEcCtD": 0.17571526882442443
   },
+  "n_trials": 0.0,
   "prediction": 0.00161805035028186,
   "status": 0,
   "training_prediction": 0.013234470038590001

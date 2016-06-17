@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.7543002607832388,
     "CbGeAlD": 0.10704389632272837,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.034016325085659514,
     "CrCbGaD": 0.004978002656833324
   },
+  "n_trials": 0.0,
   "prediction": 0.00217276384846655,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0016201649242142267,
     "CbGeAlD": 0.0215339984025785,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12667685096750614,
     "CiPCiCtD": 0.8294869855818493
   },
+  "n_trials": 0.0,
   "prediction": 0.00698206739825269,
   "status": 0,
   "training_prediction": 0.0165145012470343

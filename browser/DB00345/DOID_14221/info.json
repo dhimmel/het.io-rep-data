@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.430429128738622,
   "metapath_contribution": {
     "CbGbCtD": 0.7393312507206422,
     "CbGeAlD": 0.06579602697742139,
     "CbGpPWpGaD": 0.17445159001148933,
     "CrCbGaD": 0.02042113229044697
   },
+  "n_trials": 0.0,
   "prediction": 0.00126163251300894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

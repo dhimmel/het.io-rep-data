@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.6508452535760729,
   "metapath_contribution": {
     "CbGaD": 0.6259159658156918,
     "CbGeAlD": 0.1618172375821969,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15178452136083048,
     "CrCbGaD": 0.015635839645476463
   },
+  "n_trials": 0.0,
   "prediction": 0.00178779193315901,
   "status": 0,
   "training_prediction": 0.00299199196928762

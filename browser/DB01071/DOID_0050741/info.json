@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01071",
   "compound_name": "Mequitazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.679453836150845,
   "metapath_contribution": {
     "CbGaD": 0.6128319849607149,
     "CbGbCtD": 0.31439026145488436,
     "CbGpPWpGaD": 0.06510090293258777,
     "CrCbGaD": 0.007676850651812973
   },
+  "n_trials": 0.0,
   "prediction": 0.00288717827228647,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

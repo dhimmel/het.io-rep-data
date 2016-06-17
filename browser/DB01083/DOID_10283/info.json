@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01083",
   "compound_name": "Orlistat",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6781534460338101,
   "metapath_contribution": {
     "CbGaD": 0.1359495826460248,
     "CbGbCtD": 0.37385250607156384,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.22142651725396173,
     "CrCbGaD": 0.0002955363773546802
   },
+  "n_trials": 0.0,
   "prediction": 0.00333188115267806,
   "status": 0,
   "training_prediction": 0.0232222451253576

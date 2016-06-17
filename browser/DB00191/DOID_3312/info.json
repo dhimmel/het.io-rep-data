@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00191",
   "compound_name": "Phentermine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8485045513654101,
   "metapath_contribution": {
     "CbGaD": 0.8270588556951094,
     "CbGeAlD": 0.06840976467525028,
     "CbGpPWpGaD": 0.09882333227181445,
     "CrCbGaD": 0.005708047357825923
   },
+  "n_trials": 0.0,
   "prediction": 0.00222613199969041,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

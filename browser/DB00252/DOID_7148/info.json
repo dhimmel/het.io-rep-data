@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.35955786736020795,
   "metapath_contribution": {
     "CbGaD": 0.12239575330300247,
     "CbGbCtD": 0.6364769835987717,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21668727707939778,
     "CrCbGaD": 0.0004552273688199639
   },
+  "n_trials": 0.0,
   "prediction": 0.0014080204354970003,
   "status": 0,
   "training_prediction": 0.00457732340142303

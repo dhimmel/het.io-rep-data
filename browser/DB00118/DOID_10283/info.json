@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00118",
   "compound_name": "S-Adenosylmethionine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGaD": 0.570273809694215,
     "CbGbCtD": 0.21764099208564291,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.14843073672032386,
     "CrCbGaD": 0.0025696664736906284
   },
+  "n_trials": 0.0,
   "prediction": 0.00243758303958013,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

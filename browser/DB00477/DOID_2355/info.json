@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.0448634590377113,
   "metapath_contribution": {
     "CbGaD": 0.5623695787555518,
     "CbGeAlD": 0.1891696223469845,
     "CbGpPWpGaD": 0.24597960526668866,
     "CrCbGaD": 0.002481193630774903
   },
+  "n_trials": 0.0,
   "prediction": 0.000536641463094009,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

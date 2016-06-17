@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGbCtD": 0.17074090040591466,
     "CbGdCrCtD": 0.0009511878866527797,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.48483349704867645,
     "CtDrD": 0.274034494475998
   },
+  "n_trials": 0.0,
   "prediction": 0.0402927054336231,
   "status": 0,
   "training_prediction": 0.299845108501204

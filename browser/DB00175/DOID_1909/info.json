@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00175",
   "compound_name": "Pravastatin",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.4473342002600779,
   "metapath_contribution": {
     "CbGaD": 0.13876226434221933,
     "CbGbCtD": 0.5849849793839211,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16910025653996083,
     "CrCbGaD": 0.006267921846509977
   },
+  "n_trials": 0.0,
   "prediction": 0.00132630083999496,
   "status": 0,
   "training_prediction": 0.00403546387310107

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01117",
   "compound_name": "Atovaquone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.702137629179746,
     "CbGbCtD": 0.28285633208172883,
     "CbGeAlD": 0.015006038738525112
   },
+  "n_trials": 7.0,
   "prediction": 0.0074547289300487905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

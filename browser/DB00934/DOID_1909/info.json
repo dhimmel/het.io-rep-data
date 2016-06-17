@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00934",
   "compound_name": "Maprotiline",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5091027308192461,
   "metapath_contribution": {
     "CbGaD": 0.17615780005718137,
     "CbGbCtD": 0.5158155048620269,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14756194504522915,
     "CrCbGaD": 0.0006298400986479949
   },
+  "n_trials": 0.0,
   "prediction": 0.00146427968069585,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

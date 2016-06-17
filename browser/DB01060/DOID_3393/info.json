@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.3901170351105329,
   "metapath_contribution": {
     "CbGaD": 0.23204478771348605,
     "CbGbCtD": 0.6177711058859093,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14770089595979674,
     "CrCbGaD": 2.4658948742739556e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00195925236387321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

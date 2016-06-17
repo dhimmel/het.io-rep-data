@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGbCtD": 0.23596397060729618,
     "CbGdCrCtD": 0.00018483624807361383,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.26857543751384744,
     "CrCtD": 0.38573429748647176
   },
+  "n_trials": 0.0,
   "prediction": 0.00806201090553235,
   "status": 0,
   "training_prediction": 0.0271232941828151

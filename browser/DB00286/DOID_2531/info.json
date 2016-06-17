@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00286",
   "compound_name": "Conjugated Estrogens",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.19992096689302366,
     "CbGbCtD": 0.29530946657980245,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0016044228687817487,
     "CrCrCtD": 0.0776325508067377
   },
+  "n_trials": 0.0,
   "prediction": 0.0049614179775179,
   "status": 0,
   "training_prediction": 0.0703393989917949

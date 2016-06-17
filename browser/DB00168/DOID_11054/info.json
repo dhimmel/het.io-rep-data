@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00168",
   "compound_name": "Aspartame",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGaD": 0.8994158142651817,
     "CbGbCtD": 0.08587024158748498,
     "CbGeAlD": 0.011329728528729894,
     "CrCbGaD": 0.003384215618603449
   },
+  "n_trials": 0.0,
   "prediction": 0.0020197146738409302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

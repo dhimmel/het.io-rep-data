@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00881",
   "compound_name": "Quinapril",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.1811769608740423,
     "CbGbCtD": 0.20487989574056067,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.22494616486867403,
     "CrCtD": 0.3257208244990921
   },
+  "n_trials": 0.0,
   "prediction": 0.0338972625270604,
   "status": 0,
   "training_prediction": 0.0773152579468556

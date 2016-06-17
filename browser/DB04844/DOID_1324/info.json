@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04844",
   "compound_name": "Tetrabenazine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.559817945383615,
   "metapath_contribution": {
     "CbGbCtD": 0.6506275171746816,
     "CbGdCrCtD": 0.007235007553066117,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11991668637464181,
     "CcSEcCtD": 0.20607457428014606
   },
+  "n_trials": 0.0,
   "prediction": 0.00203157310325985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
     "CbGaD": 0.21419780148419015,
     "CbGbCtD": 0.43964071497744384,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001519297751729544,
     "CrCrCtD": 0.21737504909978375
   },
+  "n_trials": 0.0,
   "prediction": 0.00424699529415562,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

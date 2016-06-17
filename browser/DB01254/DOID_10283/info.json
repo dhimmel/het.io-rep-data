@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.4085762914145608,
     "CbGbCtD": 0.28898201201816526,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.12445091842276494,
     "CcSEcCtD": 0.11118274015432035
   },
+  "n_trials": 0.0,
   "prediction": 0.0135253889959767,
   "status": 0,
   "training_prediction": 0.0551586983307439

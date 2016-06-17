@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.771122348319886,
     "CbGbCtD": 0.02875255806543557,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.047468457016157053,
     "CrCbGaD": 0.007242908775864999
   },
+  "n_trials": 0.0,
   "prediction": 0.00528211042940095,
   "status": 0,
   "training_prediction": 0.00752505911216307

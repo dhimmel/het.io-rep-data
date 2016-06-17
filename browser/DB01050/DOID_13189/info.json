@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.11154811925456157,
     "CbGbCtD": 0.1417219828232357,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.11513663832459044,
     "CrCtD": 0.19470869431034948
   },
+  "n_trials": 0.0,
   "prediction": 0.42218345184805794,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

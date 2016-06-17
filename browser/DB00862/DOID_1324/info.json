@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00862",
   "compound_name": "Vardenafil",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6918075422626789,
   "metapath_contribution": {
     "CbGbCtD": 0.5014981013290245,
     "CbGeAlD": 0.04798738066921959,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2791610090394025,
     "CrCbGaD": 0.003358674760185966
   },
+  "n_trials": 0.0,
   "prediction": 0.00251070721537642,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

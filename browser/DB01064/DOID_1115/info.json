@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01064",
   "compound_name": "Isoprenaline",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.243172951885566,
   "metapath_contribution": {
     "CbGbCtD": 0.03396234957051987,
     "CbGeAlD": 0.18681077806644286,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.052910869285952525,
     "CrCbGaD": 0.008465518089106236
   },
+  "n_trials": 0.0,
   "prediction": 0.00101836453636211,
   "status": 0,
   "training_prediction": 0.00205584379520822

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.568270481144343,
   "metapath_contribution": {
     "CbGaD": 0.15489981963886185,
     "CbGbCtD": 0.38940844901290467,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0027065056604226225,
     "CrCrCtD": 0.2481671177364754
   },
+  "n_trials": 0.0,
   "prediction": 0.00460442398824033,
   "status": 0,
   "training_prediction": 0.0524307274376329

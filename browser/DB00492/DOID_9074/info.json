@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00492",
   "compound_name": "Fosinopril",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7548764629388821,
   "metapath_contribution": {
     "CbGaD": 0.6627160999878402,
     "CbGeAlD": 0.07770525576633165,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20341682509153738,
     "CrCbGaD": 0.005945554777692014
   },
+  "n_trials": 0.0,
   "prediction": 0.00285714333278645,
   "status": 0,
   "training_prediction": 0.008294472503998491

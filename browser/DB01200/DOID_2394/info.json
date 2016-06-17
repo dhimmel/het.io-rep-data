@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.38166449934980495,
   "metapath_contribution": {
     "CbGaD": 0.37818657054390886,
     "CbGbCtD": 0.16398283754332077,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.34248940250186427,
     "CrCbGaD": 0.002875338925378782
   },
+  "n_trials": 0.0,
   "prediction": 0.0012476808874557,
   "status": 0,
   "training_prediction": 0.00297455852487479

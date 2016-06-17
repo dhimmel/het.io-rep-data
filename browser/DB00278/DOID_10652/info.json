@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00278",
   "compound_name": "Argatroban",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.6176508365365166,
     "CbGbCtD": 0.17092875469286054,
     "CbGpPWpGaD": 0.05129812347219006,
     "CcSEcCtD": 0.1601222852984328
   },
+  "n_trials": 0.0,
   "prediction": 0.00627572968325659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

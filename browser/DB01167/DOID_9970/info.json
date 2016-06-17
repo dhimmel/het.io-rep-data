@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.4317295188556571,
   "metapath_contribution": {
     "CbGaD": 0.22921948664208755,
     "CbGbCtD": 0.48031036855813247,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17716849997222442,
     "CrCbGaD": 0.0011526566058967743
   },
+  "n_trials": 0.0,
   "prediction": 0.0021884304884394303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

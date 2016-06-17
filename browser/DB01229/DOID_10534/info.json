@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGbCtD": 0.17929796526568137,
     "CbGeAlD": 0.015839475615034578,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.15773841603612732,
     "CrCtD": 0.2762703282076211
   },
+  "n_trials": 45.0,
   "prediction": 0.0969697253990386,
   "status": 0,
   "training_prediction": 0.403132945853464

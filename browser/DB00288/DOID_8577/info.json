@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGbCtD": 0.17159406777992664,
     "CbGeAlD": 0.0013501962676047878,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.18377435170663156,
     "CrCtD": 0.2484190237733963
   },
+  "n_trials": 0.0,
   "prediction": 0.0611042564121643,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

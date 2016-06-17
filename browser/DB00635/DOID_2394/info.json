@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.0708712613784135,
   "metapath_contribution": {
     "CbGaD": 0.2962515423055202,
     "CbGbCtD": 0.4424381551281264,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17108500706231167,
     "CrCbGaD": 0.0025721969319543606
   },
+  "n_trials": 0.0,
   "prediction": 0.000690361634441899,
   "status": 0,
   "training_prediction": 0.0150194292748393

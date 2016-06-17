@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.1798071710846185,
     "CbGbCtD": 0.20897550513930344,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.214761324889279,
     "CrCtD": 0.35178115274825106
   },
+  "n_trials": 0.0,
   "prediction": 0.0419220090003649,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

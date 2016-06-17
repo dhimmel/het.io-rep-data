@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.5624187256176851,
   "metapath_contribution": {
     "CbGaD": 0.6375805854121586,
     "CbGeAlD": 0.12057997771293862,
     "CbGpPWpGaD": 0.2356701845212149,
     "CrCbGaD": 0.006169252353687897
   },
+  "n_trials": 0.0,
   "prediction": 0.00133536396029718,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

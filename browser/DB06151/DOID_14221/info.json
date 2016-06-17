@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.35370611183354994,
   "metapath_contribution": {
     "CbGeAlD": 0.1269682309586765,
     "CbGpPWpGaD": 0.6562423694298576,
     "CcSEcCtD": 0.1998158954704912,
     "CrCbGaD": 0.01697350414097488
   },
+  "n_trials": 2.0,
   "prediction": 0.00115085777254248,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

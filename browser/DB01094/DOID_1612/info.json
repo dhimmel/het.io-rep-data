@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01094",
   "compound_name": "Hesperetin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.43533282941062007,
     "CbGbCtD": 0.4438973032073585,
     "CbGeAlD": 0.04637038991588113,
     "CbGpPWpGaD": 0.07439947746614026
   },
+  "n_trials": 0.0,
   "prediction": 0.007249825222907179,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

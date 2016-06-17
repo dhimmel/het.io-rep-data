@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.526007802340702,
   "metapath_contribution": {
     "CbGaD": 0.5465462131990338,
     "CbGbCtD": 0.17712279534180755,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21235351670225494,
     "CrCbGaD": 0.003764661465991229
   },
+  "n_trials": 0.0,
   "prediction": 0.0019318356970710398,
   "status": 0,
   "training_prediction": 0.00234462941664963

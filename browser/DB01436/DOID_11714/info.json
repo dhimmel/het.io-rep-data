@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01436",
   "compound_name": "Alfacalcidol",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.276332899869961,
   "metapath_contribution": {
-    "CbGeAlD": 0.4649343333725852,
-    "CbGpPWpGaD": 0.4804405387441503,
-    "CrCbGaD": 0.054625127883264596
+    "CbGeAlD": 0.46493433337258516,
+    "CbGpPWpGaD": 0.4804405387441502,
+    "CrCbGaD": 0.05462512788326459
   },
+  "n_trials": 0.0,
   "prediction": 0.0012513452707885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

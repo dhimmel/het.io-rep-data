@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.518205461638492,
   "metapath_contribution": {
     "CbGaD": 0.438235611826894,
     "CbGbCtD": 0.4263488824728986,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12086049084375725,
     "CrCbGaD": 0.00030371672371573376
   },
+  "n_trials": 0.0,
   "prediction": 0.00183945161775168,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

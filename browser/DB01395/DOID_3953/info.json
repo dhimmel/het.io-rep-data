@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.211963589076723,
   "metapath_contribution": {
     "CbGaD": 0.9128286335447945,
     "CbGeAlD": 0.0006432872722050374,
     "CbGpPWpGaD": 0.0839177692624749,
     "CrCbGaD": 0.002610309920525489
   },
+  "n_trials": 0.0,
   "prediction": 0.000889654060143878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

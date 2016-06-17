@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0020034333300156925,
     "CbGeAlD": 0.022597275915513575,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.9004789523009518,
     "CrCbGaD": 0.0022062119932725515
   },
+  "n_trials": 0.0,
   "prediction": 0.00209812515511547,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

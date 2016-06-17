@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.85630689206762,
   "metapath_contribution": {
     "CbGaD": 0.7905453171138185,
     "CbGeAlD": 0.09589598063460224,
     "CbGpPWpGaD": 0.11355870225157932
   },
+  "n_trials": 0.0,
   "prediction": 0.00266441671302773,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.302990897269181,
   "metapath_contribution": {
     "CbGaD": 0.714407089801315,
     "CbGeAlD": 0.015296454955178623,
     "CbGpPWpGaD": 0.2561497948112106,
     "CrCbGaD": 0.014146660432295937
   },
+  "n_trials": 0.0,
   "prediction": 0.0010785521954866,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

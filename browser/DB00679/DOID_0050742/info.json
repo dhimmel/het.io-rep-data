@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.591677503250975,
   "metapath_contribution": {
     "CbGaD": 0.7889322446313742,
     "CbGeAlD": 0.029824778168388154,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.039915239197540815,
     "CrCbGaD": 0.007897171906417044
   },
+  "n_trials": 0.0,
   "prediction": 0.0017117519857684199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6274382314694411,
   "metapath_contribution": {
     "CbGaD": 0.2716666437409219,
     "CbGbCtD": 0.44225094216734806,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.11068919378380587,
     "CrCbGaD": 0.0008359428610569624
   },
+  "n_trials": 9.0,
   "prediction": 0.00302934591662747,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06605",
   "compound_name": "Apixaban",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.36198876120481116,
     "CbGbCtD": 0.4281721027456798,
     "CbGpPWpGaD": 0.17367189396009364,
     "CcSEcCtD": 0.0361672420894155
   },
+  "n_trials": 0.0,
   "prediction": 0.0034253381860224,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.28676470588235303,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.8154943151487607,
     "CbGeAlD": 0.0037418157716982716,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07110809149241201,
     "CrCbGaD": 0.009895742370733833
   },
+  "n_trials": 0.0,
   "prediction": 0.0009804174923612392,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

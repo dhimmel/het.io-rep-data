@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.7997399219765929,
   "metapath_contribution": {
     "CbGaD": 0.1593284234130972,
     "CbGbCtD": 0.6012975729090798,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.061497758689734214,
     "CrCbGaD": 0.0008084648114933354
   },
+  "n_trials": 0.0,
   "prediction": 0.00229442945833794,
   "status": 0,
   "training_prediction": 0.00418901271281273

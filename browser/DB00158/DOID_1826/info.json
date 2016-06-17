@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.47074122236671,
   "metapath_contribution": {
     "CbGaD": 0.25215159827958306,
     "CbGbCtD": 0.4074945258893881,
@@ -13,6 +15,5 @@
     "CrCbGaD": 0.0061755692722807575
   },
   "prediction": 0.0031667762742197897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

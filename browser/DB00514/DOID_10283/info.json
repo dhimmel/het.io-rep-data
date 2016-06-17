@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.908972691807542,
   "metapath_contribution": {
     "CbGaD": 0.3136189186183144,
     "CbGbCtD": 0.24803677100628516,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0009664313938896695,
     "CrCrCtD": 0.3168376646010458
   },
+  "n_trials": 2.0,
   "prediction": 0.007375226136110541,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

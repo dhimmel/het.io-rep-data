@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.32704811443433,
   "metapath_contribution": {
     "CbGaD": 0.5286406781924146,
     "CbGbCtD": 0.09310135650510067,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.0992412282873337,
     "CrCbGaD": 0.006358688094896425
   },
+  "n_trials": 0.0,
   "prediction": 0.00123300035880334,
   "status": 0,
   "training_prediction": 0.0022531071942252

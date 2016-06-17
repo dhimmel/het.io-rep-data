@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01185",
   "compound_name": "Fluoxymesterone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.634590377113134,
   "metapath_contribution": {
     "CbGaD": 0.1759852272386527,
     "CbGbCtD": 0.11087890371150272,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2279440549197385,
     "CrCtD": 0.36715197801216026
   },
+  "n_trials": 0.0,
   "prediction": 0.00542362266730541,
   "status": 0,
   "training_prediction": 0.0612355039142311

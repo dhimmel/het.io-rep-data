@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.7518761139534157,
     "CbGeAlD": 0.031038455534285705,
     "CbGpPWpGaD": 0.2148113758924005,
     "CrCbGaD": 0.0022740546198980667
   },
+  "n_trials": 0.0,
   "prediction": 0.00190249568962063,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

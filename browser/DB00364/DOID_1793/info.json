@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00364",
   "compound_name": "Sucralfate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.7211259756065296,
     "CbGbCtD": 0.05156018768719324,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14699022937530973,
     "CcSEcCtD": 0.012668191819211643
   },
+  "n_trials": 0.0,
   "prediction": 0.0069063475576555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

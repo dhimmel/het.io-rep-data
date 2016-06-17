@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08815",
   "compound_name": "Lurasidone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7607282184655401,
   "metapath_contribution": {
     "CbGaD": 0.22947525100057853,
     "CbGbCtD": 0.37776936671523853,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3046079328212794,
     "CrCbGaD": 0.0005190729571263094
   },
+  "n_trials": 0.0,
   "prediction": 0.00422451288981502,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00585",
   "compound_name": "Nizatidine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.576072821846554,
   "metapath_contribution": {
     "CbGaD": 0.45036833736579857,
     "CbGbCtD": 0.2719490884621404,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20035287860710296,
     "CrCbGaD": 0.0033855765804105343
   },
+  "n_trials": 0.0,
   "prediction": 0.00403205692180981,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

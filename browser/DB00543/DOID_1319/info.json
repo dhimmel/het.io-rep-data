@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.432379713914174,
   "metapath_contribution": {
-    "CbGbCtD": 0.020640634312143285,
-    "CbGeAlD": 0.4872003932913216,
-    "CbGpPWpGaD": 0.1373358368323137,
-    "CcSEcCtD": 0.3443660057110583,
-    "CrCbGaD": 0.010457129853163261
+    "CbGbCtD": 0.02064063431214328,
+    "CbGeAlD": 0.4872003932913215,
+    "CbGpPWpGaD": 0.13733583683231368,
+    "CcSEcCtD": 0.3443660057110582,
+    "CrCbGaD": 0.010457129853163258
   },
+  "n_trials": 0.0,
   "prediction": 0.0014297310875059,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

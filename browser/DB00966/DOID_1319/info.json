@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
     "CbGbCtD": 0.6108787100480285,
     "CbGdCrCtD": 0.00666635199762065,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2909853280820295,
     "CrCbGaD": 0.005761870293281549
   },
+  "n_trials": 0.0,
   "prediction": 0.0015792786865219698,
   "status": 0,
   "training_prediction": 0.00480270082848809

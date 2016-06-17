@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.552665799739922,
   "metapath_contribution": {
     "CbGaD": 0.2842397395694542,
     "CbGbCtD": 0.4014772480174891,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18958090747384101,
     "CrCbGaD": 0.002206234545669181
   },
+  "n_trials": 0.0,
   "prediction": 0.0024848845185546898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

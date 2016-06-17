@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04575",
   "compound_name": "Quinestrol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.808192457737321,
   "metapath_contribution": {
     "CbGaD": 0.22904759425227852,
     "CbGbCtD": 0.3870920415949995,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003870301952811124,
     "CrCrCtD": 0.32977572028635094
   },
+  "n_trials": 0.0,
   "prediction": 0.00479717898202317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

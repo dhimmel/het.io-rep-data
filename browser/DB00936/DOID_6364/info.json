@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.26527958387516304,
   "metapath_contribution": {
     "CbGbCtD": 0.8460316966312765,
     "CcSEcCtD": 0.15071409561337115,
     "CrCbGaD": 0.0032542077553523187
   },
+  "n_trials": 6.0,
   "prediction": 0.0017719295305927,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

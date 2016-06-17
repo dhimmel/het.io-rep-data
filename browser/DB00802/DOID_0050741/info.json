@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.4482034343524512,
     "CbGbCtD": 0.3838856237908909,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09943149082891353,
     "CrCbGaD": 0.006853118586757036
   },
+  "n_trials": 0.0,
   "prediction": 0.00645122951753941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

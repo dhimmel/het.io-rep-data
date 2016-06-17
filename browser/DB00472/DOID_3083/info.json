@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.49300616675802983,
     "CbGbCtD": 0.3093095195408382,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14456514163573886,
     "CrCbGaD": 0.002306226418088195
   },
+  "n_trials": 0.0,
   "prediction": 0.00456143413020706,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

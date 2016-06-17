@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00204",
   "compound_name": "Dofetilide",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.5156046814044211,
   "metapath_contribution": {
     "CbGbCtD": 0.49723588179080275,
     "CbGeAlD": 0.054183137559046225,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.30501966036841266,
     "CrCbGaD": 0.009121991050404964
   },
+  "n_trials": 0.0,
   "prediction": 0.00250519318614945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00990",
   "compound_name": "Exemestane",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.533810143042913,
   "metapath_contribution": {
     "CbGaD": 0.34856762873875136,
     "CbGbCtD": 0.3698573209408138,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2406868813079075,
     "CrCbGaD": 0.005733728237967402
   },
+  "n_trials": 0.0,
   "prediction": 0.00263187419510927,
   "status": 0,
   "training_prediction": 0.0115350411423814

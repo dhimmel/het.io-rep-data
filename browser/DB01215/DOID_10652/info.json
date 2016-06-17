@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01215",
   "compound_name": "Estazolam",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.420676202860858,
   "metapath_contribution": {
     "CbGbCtD": 0.1356830832325327,
     "CbGeAlD": 0.15635696170785113,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5189532761003395,
     "CrCbGaD": 0.003493484011945996
   },
+  "n_trials": 0.0,
   "prediction": 0.00160217205686975,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

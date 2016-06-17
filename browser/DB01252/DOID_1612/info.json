@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01252",
   "compound_name": "Mitiglinide",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.20611183355006502,
   "metapath_contribution": {
-    "CbGbCtD": 0.05543699488816561,
-    "CbGdCrCtD": 0.007246292110761038,
-    "CbGeAlD": 0.07959953751365194,
-    "CbGpPWpGaD": 0.3324919119258787,
-    "CrCbGaD": 0.012686842764680777,
-    "CrCrCtD": 0.5125384207968618
+    "CbGbCtD": 0.055436994888165614,
+    "CbGdCrCtD": 0.007246292110761039,
+    "CbGeAlD": 0.07959953751365195,
+    "CbGpPWpGaD": 0.33249191192587874,
+    "CrCbGaD": 0.01268684276468078,
+    "CrCrCtD": 0.512538420796862
   },
+  "n_trials": 0.0,
   "prediction": 0.00131425627633135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

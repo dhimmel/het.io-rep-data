@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.8059776866118155,
     "CbGeAlD": 0.07319955695408399,
     "CbGpPWpGaD": 0.1183779295991633,
     "CrCbGaD": 0.0024448268349373183
   },
+  "n_trials": 8.0,
   "prediction": 0.00413582436256093,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGbCtD": 0.6525735832259674,
     "CbGdCrCtD": 0.0039027941614398222,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1025934792447238,
     "CcSEcCtD": 0.2049210077051026
   },
+  "n_trials": 0.0,
   "prediction": 0.00457326451641914,
   "status": 0,
   "training_prediction": 0.09055623394654701

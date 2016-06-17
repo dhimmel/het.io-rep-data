@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01168",
   "compound_name": "Procarbazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.17054429372219895,
     "CbGbCtD": 0.14534004591132943,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0005145076815795697,
     "CrCrCtD": 0.14508997457563358
   },
+  "n_trials": 0.0,
   "prediction": 0.0428766330686213,
   "status": 0,
   "training_prediction": 0.151510652719943

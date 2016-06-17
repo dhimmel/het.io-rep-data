@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00206",
   "compound_name": "Reserpine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.4053893569208636,
     "CbGeAlD": 0.01187497312419765,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0019050113182421885,
     "CtDrD": 0.513911751848087
   },
+  "n_trials": 0.0,
   "prediction": 0.007123492197272691,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

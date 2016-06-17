@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.334850455136541,
   "metapath_contribution": {
     "CbGaD": 0.31424153635489743,
     "CbGbCtD": 0.4100752414116743,
@@ -12,6 +14,5 @@
     "CrCbGaD": 0.003385497050031112
   },
   "prediction": 0.00167151648890016,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

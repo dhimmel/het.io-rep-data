@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
-    "CbGaD": 0.5895727677762282,
-    "CbGbCtD": 0.2733081857581056,
-    "CbGeAlD": 0.005922195285332507,
-    "CbGpPWpGaD": 0.07316568740672962,
-    "CcSEcCtD": 0.05624373615343085,
-    "CrCbGaD": 0.001787427620173209
+    "CbGaD": 0.5895727677762281,
+    "CbGbCtD": 0.27330818575810556,
+    "CbGeAlD": 0.005922195285332506,
+    "CbGpPWpGaD": 0.0731656874067296,
+    "CcSEcCtD": 0.05624373615343084,
+    "CrCbGaD": 0.0017874276201732089
   },
+  "n_trials": 0.0,
   "prediction": 0.00460387712484942,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

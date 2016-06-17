@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.169117647058824,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.332899869960988,
   "metapath_contribution": {
-    "CbGaD": 0.6787692497082204,
-    "CbGeAlD": 0.10548813351007709,
-    "CbGpPWpGaD": 0.21027582704555753,
-    "CrCbGaD": 0.005466789736144929
+    "CbGaD": 0.6787692497082205,
+    "CbGeAlD": 0.1054881335100771,
+    "CbGpPWpGaD": 0.21027582704555758,
+    "CrCbGaD": 0.00546678973614493
   },
+  "n_trials": 0.0,
   "prediction": 0.00124326658096927,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

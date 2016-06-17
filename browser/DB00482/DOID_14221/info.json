@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.5299089726918079,
   "metapath_contribution": {
     "CbGaD": 0.6604732094726089,
     "CbGeAlD": 0.05638701557800119,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0624339523107442,
     "CrCbGaD": 0.0015416066330106567
   },
+  "n_trials": 0.0,
   "prediction": 0.00144280366945791,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

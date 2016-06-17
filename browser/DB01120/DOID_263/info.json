@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7080624187256179,
   "metapath_contribution": {
     "CbGaD": 0.5706687108985135,
     "CbGbCtD": 0.08713956490043205,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21762364770148257,
     "CrCbGaD": 0.00048712002337461557
   },
+  "n_trials": 0.0,
   "prediction": 0.00248348366849281,
   "status": 0,
   "training_prediction": 0.007214859427483141

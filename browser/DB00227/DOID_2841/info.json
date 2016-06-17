@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGbCtD": 0.719852669798889,
     "CbGdCrCtD": 0.00011312051205772366,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06702595509952167,
     "CcSEcCtD": 0.17775118972770293
   },
+  "n_trials": 1.0,
   "prediction": 0.0023028056014182,
   "status": 0,
   "training_prediction": 0.0256651195530057

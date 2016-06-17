@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.08173778307420915,
     "CbGbCtD": 0.15702690696157193,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.16829558035985065,
     "CrCtD": 0.2199682452998627
   },
+  "n_trials": 0.0,
   "prediction": 0.0585857217611212,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

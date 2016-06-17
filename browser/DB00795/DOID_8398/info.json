@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.1674593296097544,
     "CbGeAlD": 0.07724795639604669,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0009049462990217888,
     "CtDrD": 0.694664367617008
   },
+  "n_trials": 0.0,
   "prediction": 0.00552785221841828,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

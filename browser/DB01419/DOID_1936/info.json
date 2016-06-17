@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.555266579973992,
   "metapath_contribution": {
     "CbGaD": 0.7962524683765216,
     "CbGeAlD": 0.05009418275397781,
     "CbGpPWpGaD": 0.15074302974655365,
     "CrCbGaD": 0.0029103191229469605
   },
+  "n_trials": 0.0,
   "prediction": 0.00201495677021491,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

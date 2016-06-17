@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.2944935882634324,
     "CbGbCtD": 0.5489334656721901,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1326141574562414,
     "CrCbGaD": 0.0028710362376540037
   },
+  "n_trials": 0.0,
   "prediction": 0.0033769786527582803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0383615084525358,
   "metapath_contribution": {
     "CbGbCtD": 0.6296686918169825,
     "CbGpPWpGaD": 0.1840471279686254,
     "CcSEcCtD": 0.17885228135106307,
     "CrCbGaD": 0.007431898863329095
   },
+  "n_trials": 1.0,
   "prediction": 0.00063839916792139,
   "status": 0,
   "training_prediction": 0.0036440423106978603

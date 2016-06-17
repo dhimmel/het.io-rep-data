@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00663",
   "compound_name": "Flumethasone Pivalate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.306241872561769,
   "metapath_contribution": {
-    "CbGaD": 0.40630651044789157,
-    "CbGbCtD": 0.05469515709527404,
-    "CbGeAlD": 0.0070641746152284215,
-    "CbGpPWpGaD": 0.027137996723688922,
-    "CcSEcCtD": 0.02747569902003362,
-    "CrCbGaD": 0.006104424004988558,
-    "CrCrCtD": 0.47121603809289486
+    "CbGaD": 0.4063065104478915,
+    "CbGbCtD": 0.05469515709527403,
+    "CbGeAlD": 0.007064174615228421,
+    "CbGpPWpGaD": 0.02713799672368892,
+    "CcSEcCtD": 0.027475699020033616,
+    "CrCbGaD": 0.006104424004988557,
+    "CrCrCtD": 0.4712160380928948
   },
+  "n_trials": 0.0,
   "prediction": 0.0015471321998419,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

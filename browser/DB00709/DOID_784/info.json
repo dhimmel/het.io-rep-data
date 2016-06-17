@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.537711313394018,
   "metapath_contribution": {
     "CbGaD": 0.7700601603113854,
     "CbGeAlD": 0.07831480167440943,
     "CbGpPWpGaD": 0.14920577345732444,
     "CrCbGaD": 0.002419264556880741
   },
+  "n_trials": 0.0,
   "prediction": 0.0016380166681503,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

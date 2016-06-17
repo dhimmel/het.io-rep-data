@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.649544863459038,
   "metapath_contribution": {
     "CbGbCtD": 0.76035746070471,
     "CbGeAlD": 0.06409186899669236,
     "CbGpPWpGaD": 0.14361563147951317,
     "CcSEcCtD": 0.031935038819084445
   },
+  "n_trials": 0.0,
   "prediction": 0.0015970425636158301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00323",
   "compound_name": "Tolcapone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.6859557867360211,
   "metapath_contribution": {
     "CbGaD": 0.8302598592603242,
     "CbGeAlD": 0.03964696327133221,
     "CbGpPWpGaD": 0.12345170745773237,
     "CrCbGaD": 0.006641470010611237
   },
+  "n_trials": 1.0,
   "prediction": 0.0020174905926256302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

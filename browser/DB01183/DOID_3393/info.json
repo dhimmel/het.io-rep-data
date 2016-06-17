@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7399219765929781,
   "metapath_contribution": {
     "CbGaD": 0.42421229435622304,
     "CbGbCtD": 0.38267316337341817,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.08256512701442882,
     "CrCbGaD": 0.002570693334177629
   },
+  "n_trials": 0.0,
   "prediction": 0.00398864562554876,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

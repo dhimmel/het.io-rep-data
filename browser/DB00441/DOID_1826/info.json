@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0591677503250975,
   "metapath_contribution": {
     "CbGaD": 0.13050326669999096,
     "CbGbCtD": 0.20623554806017402,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.339731591535915,
     "CrCbGaD": 0.0049498236272905284
   },
+  "n_trials": 0.0,
   "prediction": 0.00099054801173414,
   "status": 0,
   "training_prediction": 0.0189887525297238

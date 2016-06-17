@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00950",
   "compound_name": "Fexofenadine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGbCtD": 0.23419104915614103,
     "CbGeAlD": 0.0016611232170504347,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.6492663008345498,
     "CrCbGaD": 0.00020791216527152418
   },
+  "n_trials": 3.0,
   "prediction": 0.00695797419518329,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

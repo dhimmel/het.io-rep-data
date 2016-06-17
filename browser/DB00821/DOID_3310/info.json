@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGbCtD": 0.5931780967260346,
     "CbGdCrCtD": 0.009320368284684974,
     "CrCbGaD": 0.003769133479262433,
     "CrCrCtD": 0.39373240151001804
   },
+  "n_trials": 0.0,
   "prediction": 0.00220304981995177,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

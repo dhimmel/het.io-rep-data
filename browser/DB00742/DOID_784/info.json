@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00742",
   "compound_name": "Mannitol",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6410923276983089,
   "metapath_contribution": {
     "CbGaD": 0.9597777312343024,
     "CbGpPWpGaD": 0.0402222687656975
   },
+  "n_trials": 1.0,
   "prediction": 0.00191397785834173,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

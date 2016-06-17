@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.3745123537061121,
   "metapath_contribution": {
     "CbGbCtD": 0.8254716806374172,
     "CbGpPWpGaD": 0.17127443025650071,
     "CcSEcCtD": 0.003030324540475904,
     "CrCbGaD": 0.00022356456560625876
   },
+  "n_trials": 0.0,
   "prediction": 0.0013462010692249099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

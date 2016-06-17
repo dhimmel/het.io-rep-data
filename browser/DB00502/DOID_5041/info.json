@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.35695708712613794,
   "metapath_contribution": {
     "CbGaD": 0.40601786349639013,
     "CbGeAlD": 0.0755923726660149,
     "CbGpPWpGaD": 0.3590388291676867,
     "CcSEcCtD": 0.1593509346699082
   },
+  "n_trials": 0.0,
   "prediction": 0.00115018598012196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

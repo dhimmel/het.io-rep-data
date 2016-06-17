@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.32964889466840097,
   "metapath_contribution": {
     "CbGbCtD": 0.4679864842892131,
     "CbGeAlD": 0.03452289670010949,
     "CbGpPWpGaD": 0.2731577897935983,
     "CcSEcCtD": 0.22433282921707906
   },
+  "n_trials": 0.0,
   "prediction": 0.00134452125401096,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.1405841625375487,
     "CbGbCtD": 0.2188771579577539,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5436265546492566,
     "CrCbGaD": 0.000657261288124923
   },
+  "n_trials": 1.0,
   "prediction": 0.0123927495707386,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

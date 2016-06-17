@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.5643693107932379,
   "metapath_contribution": {
     "CbGaD": 0.3507088715734175,
     "CbGbCtD": 0.5648389504773049,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06726802301513196,
     "CrCbGaD": 0.0027559363132695783
   },
+  "n_trials": 0.0,
   "prediction": 0.00279188088943198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

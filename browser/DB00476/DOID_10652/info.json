@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.773081924577373,
   "metapath_contribution": {
     "CbGaD": 0.48845930102745755,
     "CbGbCtD": 0.2430820357922903,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15885095557585246,
     "CrCbGaD": 0.002276752763196662
   },
+  "n_trials": 0.0,
   "prediction": 0.0029783442177876897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.6703511053315989,
   "metapath_contribution": {
     "CbGaD": 0.7210846182397201,
     "CbGeAlD": 0.0954211641507826,
     "CbGpPWpGaD": 0.17677767672550845,
     "CrCbGaD": 0.006716540883988833
   },
+  "n_trials": 1.0,
   "prediction": 0.0017647143748617602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

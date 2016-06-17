@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.159947984395319,
   "metapath_contribution": {
     "CbGeAlD": 0.11046254000432378,
     "CbGpPWpGaD": 0.3001762057651554,
     "CcSEcCtD": 0.5717429814337373,
     "CrCbGaD": 0.017618272796783623
   },
+  "n_trials": 0.0,
   "prediction": 0.000995110241694166,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

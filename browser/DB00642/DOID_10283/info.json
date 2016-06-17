@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.334200260078023,
   "metapath_contribution": {
     "CbGaD": 0.3672823056607477,
     "CbGbCtD": 0.23377521407711577,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.19275744441804493,
     "CrCbGaD": 0.004559049435239619
   },
+  "n_trials": 0.0,
   "prediction": 0.00167095833301241,
   "status": 0,
   "training_prediction": 0.00707618421539045

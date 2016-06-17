@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.260078023407022,
   "metapath_contribution": {
     "CbGbCtD": 0.9259093498677292,
     "CbGpPWpGaD": 0.06556680127860065,
     "CcSEcCtD": 0.008188378362387519,
     "CrCbGaD": 0.0003354704912826624
   },
+  "n_trials": 0.0,
   "prediction": 0.00100795083907323,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

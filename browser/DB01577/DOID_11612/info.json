@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
     "CbGbCtD": 0.11664872629548965,
     "CbGeAlD": 0.031745267139962584,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0033294418414540144,
     "CtDrD": 0.781353345614562
   },
+  "n_trials": 0.0,
   "prediction": 0.00273159917553895,
   "status": 0,
   "training_prediction": 0.00123233781385104

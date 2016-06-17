@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.0325097529258778,
   "metapath_contribution": {
     "CbGaD": 0.6784262002019777,
     "CbGeAlD": 0.18621635620390295,
     "CbGpPWpGaD": 0.13279228269748933,
     "CrCbGaD": 0.0025651608966299785
   },
+  "n_trials": 0.0,
   "prediction": 0.0005491178624515991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

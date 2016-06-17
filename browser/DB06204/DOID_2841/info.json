@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06204",
   "compound_name": "Tapentadol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8289986996098829,
   "metapath_contribution": {
     "CbGbCtD": 0.3109269339708465,
     "CbGeAlD": 0.0029863611723246596,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13618233038057304,
     "CrCrCtD": 0.4843270590824113
   },
+  "n_trials": 0.0,
   "prediction": 0.005562975356377929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

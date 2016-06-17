@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7210663198959691,
   "metapath_contribution": {
     "CbGbCtD": 0.477879265166113,
     "CbGeAlD": 0.11081288743565915,
     "CbGpPWpGaD": 0.07906168518840323,
     "CcSEcCtD": 0.33224616220982467
   },
+  "n_trials": 2.0,
   "prediction": 0.0021193815783062397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.45838751625487606,
   "metapath_contribution": {
     "CbGaD": 0.6117480374608986,
     "CbGpPWpGaD": 0.1763003669435241,
     "CcSEcCtD": 0.20559847724808392,
     "CrCbGaD": 0.006353118347493381
   },
+  "n_trials": 0.0,
   "prediction": 0.00138540311568609,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.448634590377113,
   "metapath_contribution": {
     "CbGaD": 0.6629351394737518,
     "CbGeAlD": 0.08206291797593127,
     "CbGpPWpGaD": 0.2501956274558876,
     "CrCbGaD": 0.004806315094429294
   },
+  "n_trials": 0.0,
   "prediction": 0.0014533963629988198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

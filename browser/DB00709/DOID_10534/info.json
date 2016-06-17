@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.6918075422626789,
   "metapath_contribution": {
     "CbGbCtD": 0.3291221685908745,
     "CbGdCrCtD": 0.0015802028133383602,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0026174290389544964,
     "CrCrCtD": 0.4415225664851805
   },
+  "n_trials": 0.0,
   "prediction": 0.0020504901039178,
   "status": 0,
   "training_prediction": 0.007503770831861841

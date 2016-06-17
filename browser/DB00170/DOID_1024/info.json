@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGbCtD": 0.18791628336217145,
     "CbGeAlD": 0.03619127040282315,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0011999593763465895,
     "CrCtD": 0.7733722436458662
   },
+  "n_trials": 0.0,
   "prediction": 0.0123130954863127,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

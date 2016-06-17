@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.294117647058824,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.0370611183355007,
   "metapath_contribution": {
     "CbGaD": 0.6197369295440563,
     "CbGeAlD": 0.07937898640717152,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.047379754186567626,
     "CrCbGaD": 0.011221397272747647
   },
+  "n_trials": 0.0,
   "prediction": 0.0005983007061443781,
   "status": 0,
   "training_prediction": 0.00247578743691268

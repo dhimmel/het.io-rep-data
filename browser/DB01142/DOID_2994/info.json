@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.331599479843953,
   "metapath_contribution": {
     "CbGbCtD": 0.39315001753307116,
     "CbGeAlD": 0.2529272422625725,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3310650886617852,
     "CrCbGaD": 0.001405657027477581
   },
+  "n_trials": 0.0,
   "prediction": 0.0013108088378583,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

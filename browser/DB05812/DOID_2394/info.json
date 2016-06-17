@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05812",
   "compound_name": "Abiraterone",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGbCtD": 0.6577161348825188,
     "CbGeAlD": 0.09464577984947228,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20330369633403184,
     "CrCbGaD": 0.0014923464630693078
   },
+  "n_trials": 0.0,
   "prediction": 0.00258079886789315,
   "status": 0,
   "training_prediction": 0.00614145911901745

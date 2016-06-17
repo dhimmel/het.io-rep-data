@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.0214564369310793,
   "metapath_contribution": {
     "CbGaD": 0.4851103137288618,
     "CbGbCtD": 0.16884921099787423,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2682452259344684,
     "CrCbGaD": 0.008077498634165865
   },
+  "n_trials": 0.0,
   "prediction": 0.000742128656443068,
   "status": 0,
   "training_prediction": 0.0158413510800075

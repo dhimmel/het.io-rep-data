@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00951",
   "compound_name": "Isoniazid",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.7388487406256371,
     "CbGbCtD": 0.1651607046819501,
     "CbGpPWpGaD": 0.08134682337136734,
     "CcSEcCtD": 0.014643731321045376
   },
+  "n_trials": 0.0,
   "prediction": 0.00602487268110141,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

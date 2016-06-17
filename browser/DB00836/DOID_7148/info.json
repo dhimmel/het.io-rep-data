@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.7009102730819251,
   "metapath_contribution": {
     "CbGaD": 0.5678297972836339,
     "CbGbCtD": 0.23132275027463356,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1287401161447262,
     "CcSEcCtD": 0.07020448328739243
   },
+  "n_trials": 0.0,
   "prediction": 0.00239047425093676,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

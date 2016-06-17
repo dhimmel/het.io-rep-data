@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.09773584829030424,
     "CbGbCtD": 0.1413872854588703,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.15827500893581115,
     "CrCtD": 0.22040143448082172
   },
+  "n_trials": 0.0,
   "prediction": 0.0676451059316376,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

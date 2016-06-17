@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.66881707910412,
     "CbGbCtD": 0.19624927807108553,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11616092577354582,
     "CrCbGaD": 0.0019502546925319146
   },
+  "n_trials": 0.0,
   "prediction": 0.0038016536854095103,
   "status": 0,
   "training_prediction": 0.015988879497057

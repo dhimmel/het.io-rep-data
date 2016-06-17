@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08912",
   "compound_name": "Dabrafenib",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.39707059070409206,
     "CbGbCtD": 0.4061058662862839,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07268428683181931,
     "CcSEcCtD": 0.10656088198634892
   },
+  "n_trials": 3.0,
   "prediction": 0.0078146454894822,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

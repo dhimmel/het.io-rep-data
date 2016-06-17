@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.296488946684005,
   "metapath_contribution": {
     "CbGdCrCtD": 0.011711448915006584,
     "CbGeAlD": 0.10753686417549234,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.45873163834974345,
     "CrCbGaD": 0.014754972847607037
   },
+  "n_trials": 0.0,
   "prediction": 0.00164534139242682,
   "status": 0,
   "training_prediction": 0.00362519650185597

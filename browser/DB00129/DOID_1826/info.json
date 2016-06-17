@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00129",
   "compound_name": "L-Ornithine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.310143042912874,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0035538848000584303,
     "CbGeAlD": 0.10274415195299633,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.006468803914840953,
     "CrCrCtD": 0.665397749720219
   },
+  "n_trials": 0.0,
   "prediction": 0.0022196682115243897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGbCtD": 0.18684306564703543,
     "CbGdCrCtD": 0.00032572809921087824,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.22116465384178538,
     "CrCtD": 0.36634740629617857
   },
+  "n_trials": 0.0,
   "prediction": 0.0405977499781163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

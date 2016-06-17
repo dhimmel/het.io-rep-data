@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00455",
   "compound_name": "Loratadine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.9464434918271951,
     "CbGeAlD": 0.004996919054185584,
     "CbGpPWpGaD": 0.04495597820586935,
     "CrCbGaD": 0.0036036109127499045
   },
+  "n_trials": 0.0,
   "prediction": 0.00241685597335732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

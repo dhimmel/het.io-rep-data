@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.5136540962288689,
   "metapath_contribution": {
     "CbGbCtD": 0.7482705110639611,
     "CbGeAlD": 0.0645216949429284,
     "CcSEcCtD": 0.18720779399311036
   },
+  "n_trials": 3.0,
   "prediction": 0.00211579711712556,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

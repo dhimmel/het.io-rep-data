@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.347854356306892,
   "metapath_contribution": {
     "CbGaD": 0.3753980020154419,
     "CbGbCtD": 0.5955586488718331,
     "CbGpPWpGaD": 0.020253214816013304,
     "CrCbGaD": 0.008790134296711742
   },
+  "n_trials": 0.0,
   "prediction": 0.00170386624524592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

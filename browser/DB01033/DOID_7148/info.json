@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01033",
   "compound_name": "Mercaptopurine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGbCtD": 0.41359908964163705,
     "CbGdCrCtD": 0.002055014672424499,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07012076349980312,
     "CrCrCtD": 0.4783194636707683
   },
+  "n_trials": 0.0,
   "prediction": 0.008653218635799891,
   "status": 0,
   "training_prediction": 0.0608481859394669

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00343",
   "compound_name": "Diltiazem",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGaD": 0.3171340079763391,
     "CbGeAlD": 0.018725620978762708,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.001936075553733474,
     "CtDrD": 0.5977340624942038
   },
+  "n_trials": 0.0,
   "prediction": 0.00322833286069047,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

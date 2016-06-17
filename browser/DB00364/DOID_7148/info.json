@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00364",
   "compound_name": "Sucralfate",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGaD": 0.3237507862479046,
     "CbGbCtD": 0.20104038168545374,
     "CbGeAlD": 0.11885836546473826,
     "CbGpPWpGaD": 0.3563504666019034
   },
+  "n_trials": 0.0,
   "prediction": 0.00362392858140746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

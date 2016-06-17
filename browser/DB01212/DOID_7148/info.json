@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGaD": 0.3151433844417434,
     "CbGbCtD": 0.432218214371805,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23167693478097084,
     "CrCbGaD": 0.0044141501286381595
   },
+  "n_trials": 0.0,
   "prediction": 0.00162763876273227,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

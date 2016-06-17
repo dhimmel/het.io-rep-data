@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.6142711166309355,
     "CbGbCtD": 0.09910256008679716,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1427300272334344,
     "CcSEcCtD": 0.10263632372383961
   },
+  "n_trials": 0.0,
   "prediction": 0.0038594067686469296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

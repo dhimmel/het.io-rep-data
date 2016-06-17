@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.756827048114434,
   "metapath_contribution": {
-    "CbGaD": 0.7580867951624248,
-    "CbGeAlD": 0.07308745630095012,
-    "CbGpPWpGaD": 0.16260375652685574,
-    "CrCbGaD": 0.0062219920097693745
+    "CbGaD": 0.7580867951624247,
+    "CbGeAlD": 0.07308745630095011,
+    "CbGpPWpGaD": 0.16260375652685571,
+    "CrCbGaD": 0.006221992009769374
   },
+  "n_trials": 3.0,
   "prediction": 0.0022134513441384803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

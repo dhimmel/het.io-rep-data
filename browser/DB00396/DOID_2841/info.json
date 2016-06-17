@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.07064561502094083,
     "CbGbCtD": 0.294031823334332,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.241911576289606,
     "CrCtD": 0.2699476481962085
   },
+  "n_trials": 0.0,
   "prediction": 0.012421462961937,
   "status": 0,
   "training_prediction": 0.0791394902153659

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01392",
   "compound_name": "Yohimbine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.5652113570353963,
     "CbGbCtD": 0.26630249841659226,
     "CbGeAlD": 0.046747039021270316,
     "CbGpPWpGaD": 0.12173910552674107
   },
+  "n_trials": 1.0,
   "prediction": 0.00571101125367611,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

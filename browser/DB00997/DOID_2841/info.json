@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.40377113133940207,
   "metapath_contribution": {
     "CbGaD": 0.4297695078748976,
     "CbGbCtD": 0.2835313512037518,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14547944569038657,
     "CrCbGaD": 0.0013803983077281326
   },
+  "n_trials": 0.0,
   "prediction": 0.00211641657142958,
   "status": 0,
   "training_prediction": 0.13107150349087

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08808",
   "compound_name": "Bupranolol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.540962288686606,
   "metapath_contribution": {
     "CbGaD": 0.5829061765554158,
     "CbGbCtD": 0.31497485299431915,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08165101609242555,
     "CrCbGaD": 0.0060499201923001995
   },
+  "n_trials": 0.0,
   "prediction": 0.00270726541462265,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

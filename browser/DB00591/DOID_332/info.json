@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00591",
   "compound_name": "Fluocinolone Acetonide",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.131339401820546,
   "metapath_contribution": {
     "CbGaD": 0.8920080821742984,
     "CbGeAlD": 0.013858439638111982,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08241967952914271,
     "CrCbGaD": 0.0009055285920971549
   },
+  "n_trials": 0.0,
   "prediction": 0.000750196015109854,
   "status": 0,
   "training_prediction": 0.0005641433316598349

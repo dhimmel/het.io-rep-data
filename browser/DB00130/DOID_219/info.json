@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGbCtD": 0.6359938336123543,
     "CbGeAlD": 0.19561237039317927,
     "CbGpPWpGaD": 0.09322287173073636,
     "CcSEcCtD": 0.0751709242637301
   },
+  "n_trials": 0.0,
   "prediction": 0.0021532781428738198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

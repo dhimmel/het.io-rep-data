@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01085",
   "compound_name": "Pilocarpine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.18138728722770858,
     "CbGbCtD": 0.5046861856620518,
     "CbGpPWpGaD": 0.07718671087252149,
     "CcSEcCtD": 0.23673981623771811
   },
+  "n_trials": 1.0,
   "prediction": 0.0049502337609819,
   "status": 0,
   "training_prediction": 0.0268744543088653

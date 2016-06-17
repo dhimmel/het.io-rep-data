@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.3849154746423929,
   "metapath_contribution": {
     "CbGbCtD": 0.5804387078882647,
     "CbGdCrCtD": 0.005133756289819084,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.24505248251002693,
     "CrCbGaD": 0.018081044297878525
   },
+  "n_trials": 1.0,
   "prediction": 0.0013493482767405,
   "status": 0,
   "training_prediction": 0.0069923746971995

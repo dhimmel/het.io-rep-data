@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.208062418725618,
   "metapath_contribution": {
     "CbGbCtD": 0.09332039426277343,
     "CbGeAlD": 0.017229833827338257,
     "CcSEcCtD": 0.8894497719098883
   },
+  "n_trials": 0.0,
   "prediction": 0.00102388300695781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

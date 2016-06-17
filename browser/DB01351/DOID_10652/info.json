@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01351",
   "compound_name": "Amobarbital",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.4397067751262082,
     "CbGbCtD": 0.38237050042929654,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.059611020974161696,
     "CrCbGaD": 0.004579445742792187
   },
+  "n_trials": 0.0,
   "prediction": 0.0077473849215262,
   "status": 0,
   "training_prediction": 0.009391149763559729

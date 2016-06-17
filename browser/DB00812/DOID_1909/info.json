@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.4148244473342,
   "metapath_contribution": {
     "CbGaD": 0.6273843102916107,
     "CbGbCtD": 0.06911222921396314,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.18437694518719724,
     "CrCbGaD": 0.011430204695013367
   },
+  "n_trials": 0.0,
   "prediction": 0.00125623312305366,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

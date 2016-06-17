@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.17148206091125642,
     "CbGbCtD": 0.40420420907036614,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.3443675579147354,
     "CrCbGaD": 0.0011928742816191046
   },
+  "n_trials": 0.0,
   "prediction": 0.00625667738312569,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

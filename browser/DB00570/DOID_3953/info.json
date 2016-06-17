@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.41234803737862846,
     "CbGeAlD": 0.035720235679896024,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.001342574459573879,
     "CtDrD": 0.5127116010150663
   },
+  "n_trials": 0.0,
   "prediction": 0.00337978530827746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

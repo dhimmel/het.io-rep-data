@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.211963589076723,
   "metapath_contribution": {
     "CbGaD": 0.47508983721631376,
     "CbGbCtD": 0.1422465066565281,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.2816594112693342,
     "CrCbGaD": 0.006802111052547931
   },
+  "n_trials": 0.0,
   "prediction": 0.0010545035388794199,
   "status": 0,
   "training_prediction": 0.00360796459316061

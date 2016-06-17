@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00835",
   "compound_name": "Brompheniramine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.2720846972127114,
     "CbGpPWpGaD": 0.0038322057425312197,
     "CrCrCtD": 0.28421736073773757,
     "CrCtD": 0.4398657363070198
   },
+  "n_trials": 0.0,
   "prediction": 0.00845554639181721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

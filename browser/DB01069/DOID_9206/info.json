@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.125487646293888,
   "metapath_contribution": {
     "CbGbCtD": 0.5398412441509287,
     "CbGeAlD": 0.08284562902741613,
     "CbGpPWpGaD": 0.10555442041647635,
     "CcSEcCtD": 0.2717587064051788
   },
+  "n_trials": 0.0,
   "prediction": 0.00103537840815476,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

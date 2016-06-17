@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.327698309492848,
   "metapath_contribution": {
     "CbGaD": 0.4494301372997294,
     "CbGeAlD": 0.07405361778850143,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04061370096062284,
     "CrCbGaD": 0.008670526222332949
   },
+  "n_trials": 0.0,
   "prediction": 0.0011126584225297199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

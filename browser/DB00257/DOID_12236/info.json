@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.3746923014367822,
     "CbGbCtD": 0.4318412492234937,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.067956041265303,
     "CrCbGaD": 0.0005667867884677076
   },
+  "n_trials": 0.0,
   "prediction": 0.00347224766828354,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

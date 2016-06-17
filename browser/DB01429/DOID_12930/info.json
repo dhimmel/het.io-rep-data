@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01429",
   "compound_name": "Aprindine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.5510360217950931,
     "CbGeAlD": 0.07803609029345403,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0019794711765473995,
     "CrCrCtD": 0.29077176216879036
   },
+  "n_trials": 0.0,
   "prediction": 0.0044473657746309705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

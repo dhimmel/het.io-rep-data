@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5091027308192461,
   "metapath_contribution": {
-    "CbGaD": 0.4120190618108877,
-    "CbGbCtD": 0.042956147098332245,
-    "CbGeAlD": 0.01531377786946545,
-    "CbGpPWpGaD": 0.09789120186053427,
-    "CcSEcCtD": 0.0988725784500314,
-    "CpDpCtD": 0.32940145176301416,
-    "CrCbGaD": 0.0035457811477347012
+    "CbGaD": 0.41201906181088777,
+    "CbGbCtD": 0.04295614709833225,
+    "CbGeAlD": 0.015313777869465452,
+    "CbGpPWpGaD": 0.09789120186053428,
+    "CcSEcCtD": 0.09887257845003142,
+    "CpDpCtD": 0.3294014517630142,
+    "CrCbGaD": 0.003545781147734702
   },
+  "n_trials": 0.0,
   "prediction": 0.00233190104956926,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

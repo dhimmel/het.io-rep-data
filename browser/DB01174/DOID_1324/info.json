@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGaD": 0.3769422490350599,
     "CbGbCtD": 0.4378285905681406,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06921230364071847,
     "CrCbGaD": 0.0003031414834423251
   },
+  "n_trials": 0.0,
   "prediction": 0.0049745370542483,
   "status": 0,
   "training_prediction": 0.0168600779660381

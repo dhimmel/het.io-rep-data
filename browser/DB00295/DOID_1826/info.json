@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGaD": 0.3124245169223558,
     "CbGbCtD": 0.41999672052274667,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16373862951592022,
     "CrCbGaD": 0.00395240293606571
   },
+  "n_trials": 0.0,
   "prediction": 0.00495731242616449,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

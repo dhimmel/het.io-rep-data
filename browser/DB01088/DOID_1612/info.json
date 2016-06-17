@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01088",
   "compound_name": "Iloprost",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.422626788036411,
   "metapath_contribution": {
     "CbGaD": 0.740995322487644,
     "CbGbCtD": 0.03631632377529378,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15043432589879435,
     "CrCbGaD": 0.0039768523400873414
   },
+  "n_trials": 0.0,
   "prediction": 0.00206900646042163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

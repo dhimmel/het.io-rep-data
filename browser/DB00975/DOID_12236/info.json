@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.5364114392842126,
     "CbGbCtD": 0.22275282950819622,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09601844690845819,
     "CcSEcCtD": 0.12268195474153418
   },
+  "n_trials": 0.0,
   "prediction": 0.00625940537662037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

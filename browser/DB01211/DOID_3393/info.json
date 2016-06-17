@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8511053315994799,
   "metapath_contribution": {
     "CbGaD": 0.09696072343485128,
     "CbGbCtD": 0.30904479650629235,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10005544411354908,
     "CiPCiCtD": 0.4758103639537689
   },
+  "n_trials": 2.0,
   "prediction": 0.0057430514712306395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

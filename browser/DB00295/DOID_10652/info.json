@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.0669542778601127,
     "CbGbCtD": 0.08196805120639299,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.27498644201499384,
     "CrCtD": 0.4726628699999025
   },
+  "n_trials": 0.0,
   "prediction": 0.0140183488286105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

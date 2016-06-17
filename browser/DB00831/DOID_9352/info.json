@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.27178153446033804,
   "metapath_contribution": {
     "CbGaD": 0.4146336910621649,
     "CbGbCtD": 0.2978284599116387,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12525100539585535,
     "CrCbGaD": 0.0038232830212043107
   },
+  "n_trials": 1.0,
   "prediction": 0.0016006269950655301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

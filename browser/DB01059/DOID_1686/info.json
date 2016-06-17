@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.28998699609883005,
   "metapath_contribution": {
     "CbGbCtD": 0.6512342573339416,
     "CbGdCrCtD": 0.0027567218132560503,
     "CbGpPWpGaD": 0.027132799946022627,
     "CcSEcCtD": 0.3188762209067797
   },
+  "n_trials": 0.0,
   "prediction": 0.0014002682328155599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

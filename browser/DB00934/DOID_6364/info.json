@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00934",
   "compound_name": "Maprotiline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.2806855522475028,
     "CbGbCtD": 0.2702982044350573,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002339290728143158,
     "CrCrCtD": 0.27745679706747034
   },
+  "n_trials": 0.0,
   "prediction": 0.0123871227216074,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

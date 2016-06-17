@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08868",
   "compound_name": "Fingolimod",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.851755526657997,
   "metapath_contribution": {
     "CbGaD": 0.2828098197739986,
     "CbGbCtD": 0.308774879455979,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.18659000380185356,
     "CcSEcCtD": 0.13930573391244666
   },
+  "n_trials": 0.0,
   "prediction": 0.00553325009028203,
   "status": 0,
   "training_prediction": 0.0231426177990687

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00332",
   "compound_name": "Ipratropium bromide",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5884265279583879,
   "metapath_contribution": {
     "CbGaD": 0.19205026429106506,
     "CbGbCtD": 0.4019125967477006,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10918533509009008,
     "CcSEcCtD": 0.2486681171963573
   },
+  "n_trials": 0.0,
   "prediction": 0.0026780190169759,
   "status": 0,
   "training_prediction": 0.0113040046674155

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00728",
   "compound_name": "Rocuronium",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.4473342002600779,
   "metapath_contribution": {
     "CbGeAlD": 0.10103765353018553,
     "CbGpPWpGaD": 0.5443976771648061,
     "CcSEcCtD": 0.35446299785245294,
     "CrCbGaD": 0.0001016714525553489
   },
+  "n_trials": 1.0,
   "prediction": 0.00166783183709877,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00324",
   "compound_name": "Fluorometholone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.59297789336801,
   "metapath_contribution": {
     "CbGaD": 0.09114220567334372,
     "CbGbCtD": 0.19710948843736892,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2628615924270105,
     "CrCtD": 0.3964601801487442
   },
+  "n_trials": 0.0,
   "prediction": 0.00285699430959998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

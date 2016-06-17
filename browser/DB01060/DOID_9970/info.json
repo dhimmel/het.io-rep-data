@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0728218465539662,
   "metapath_contribution": {
     "CbGbCtD": 0.4760142693712058,
     "CbGpPWpGaD": 0.04911195799297205,
     "CcSEcCtD": 0.47487377263582203
   },
+  "n_trials": 1.0,
   "prediction": 0.000878982106365571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

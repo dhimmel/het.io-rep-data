@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00536",
   "compound_name": "Guanidine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3277",
   "disease_name": "thymus cancer",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.7221393549344076,
     "CbGeAlD": 0.07952924133676821,
     "CbGpPWpGaD": 0.17332574016326296,
     "CcSEcCtD": 0.025005663565561217
   },
+  "n_trials": 0.0,
   "prediction": 0.00786229571692243,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

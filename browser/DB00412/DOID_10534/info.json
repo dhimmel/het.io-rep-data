@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.44473342002600796,
   "metapath_contribution": {
     "CbGaD": 0.5360610718908417,
     "CbGbCtD": 0.26627499167128876,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08678172508746651,
     "CrCbGaD": 0.0015530705934712582
   },
+  "n_trials": 0.0,
   "prediction": 0.00142776406623659,
   "status": 0,
   "training_prediction": 0.00314663147450335

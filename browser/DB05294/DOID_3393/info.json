@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.254226267880364,
   "metapath_contribution": {
     "CbGaD": 0.3764329926113965,
     "CbGbCtD": 0.27696217381005356,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13871035102811752,
     "CrCbGaD": 0.0012837958558921593
   },
+  "n_trials": 0.0,
   "prediction": 0.0014353414680931,
   "status": 0,
   "training_prediction": 0.007693424575483941

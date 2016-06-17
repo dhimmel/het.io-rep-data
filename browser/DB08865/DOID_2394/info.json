@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.3481177108145353,
     "CbGbCtD": 0.2675644274143411,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.16469067777126783,
     "CcSEcCtD": 0.09994708503425156
   },
+  "n_trials": 0.0,
   "prediction": 0.00464270116705817,
   "status": 0,
   "training_prediction": 0.0110166928813685

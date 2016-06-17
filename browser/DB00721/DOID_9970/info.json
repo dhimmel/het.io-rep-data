@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.2501391197171735,
     "CbGbCtD": 0.5646210951773455,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09431047973380703,
     "CrCbGaD": 0.0037080085432923547
   },
+  "n_trials": 0.0,
   "prediction": 0.00388396186015118,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

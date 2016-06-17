@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.150195058517555,
   "metapath_contribution": {
     "CbGaD": 0.7232085052765472,
     "CbGeAlD": 0.06489265666060783,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12437235328634418,
     "CrCbGaD": 0.008103332839545325
   },
+  "n_trials": 0.0,
   "prediction": 0.0011828506898189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

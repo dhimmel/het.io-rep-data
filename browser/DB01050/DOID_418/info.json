@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGbCtD": 0.4037296023653463,
     "CbGdCrCtD": 0.001127799403661157,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1314113915890846,
     "CpDpCtD": 0.372894610029119
   },
+  "n_trials": 0.0,
   "prediction": 0.00356037910412397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

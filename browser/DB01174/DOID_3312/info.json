@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.7737321196358911,
   "metapath_contribution": {
     "CbGaD": 0.7710345397792056,
     "CbGeAlD": 0.09853400604241108,
     "CbGpPWpGaD": 0.12137461548052189,
     "CrCbGaD": 0.009056838697861539
   },
+  "n_trials": 0.0,
   "prediction": 0.0020200335585944,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.8601849636301389,
     "CbGbCtD": 0.023372574160082236,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0012458975772862563,
     "CrCbGaD": 0.0015422965595966545
   },
+  "n_trials": 0.0,
   "prediction": 0.00416051014196666,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

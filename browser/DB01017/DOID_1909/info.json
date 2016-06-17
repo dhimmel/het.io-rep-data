@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.6841648239175485,
     "CbGeAlD": 0.09951247815027849,
     "CbGpPWpGaD": 0.21306187901479975,
     "CrCbGaD": 0.0032608189173731934
   },
+  "n_trials": 0.0,
   "prediction": 0.00366183252257896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

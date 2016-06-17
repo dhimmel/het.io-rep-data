@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6892067620286091,
   "metapath_contribution": {
     "CbGbCtD": 0.4560382710935753,
     "CbGeAlD": 0.08460828938027878,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2537093033062577,
     "CrCbGaD": 0.004045048839992956
   },
+  "n_trials": 0.0,
   "prediction": 0.00340816948696595,
   "status": 0,
   "training_prediction": 0.0237431034716001

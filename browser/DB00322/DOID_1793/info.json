@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00322",
   "compound_name": "Floxuridine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.2929910806538372,
     "CbGbCtD": 0.22157855956387842,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.10939885171555902,
     "CtDrD": 0.3015858554664277
   },
+  "n_trials": 0.0,
   "prediction": 0.0203514937851102,
   "status": 0,
   "training_prediction": 0.0472680095968786

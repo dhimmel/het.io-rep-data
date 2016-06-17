@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00438",
   "compound_name": "Ceftazidime",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.636540962288687,
   "metapath_contribution": {
     "CbGaD": 0.854083565357305,
     "CbGpPWpGaD": 0.008779515855389946,
     "CcSEcCtD": 0.13058533504724001,
     "CrCbGaD": 0.006551583740065051
   },
+  "n_trials": 0.0,
   "prediction": 0.0018946283388813802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

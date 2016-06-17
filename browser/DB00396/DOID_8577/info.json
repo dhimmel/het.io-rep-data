@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.044292124601756896,
     "CbGbCtD": 0.26542369095199936,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.25973615985669796,
     "CrCtD": 0.31961555904614397
   },
+  "n_trials": 0.0,
   "prediction": 0.0119084986775453,
   "status": 0,
   "training_prediction": 0.0397001792784533

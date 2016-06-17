@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.269180754226268,
   "metapath_contribution": {
     "CbGaD": 0.36277083342973593,
     "CbGbCtD": 0.3825175790783058,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08371401441576272,
     "CrCbGaD": 0.00229518731462806
   },
+  "n_trials": 0.0,
   "prediction": 0.00100959859093213,
   "status": 0,
   "training_prediction": 0.00551309499448105

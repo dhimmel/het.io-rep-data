@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8407022106631992,
   "metapath_contribution": {
     "CbGaD": 0.165591917233199,
     "CbGbCtD": 0.5433432707117951,
     "CbGpPWpGaD": 0.18444867348847016,
     "CcSEcCtD": 0.10661613856653568
   },
+  "n_trials": 0.0,
   "prediction": 0.0039280053537344,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

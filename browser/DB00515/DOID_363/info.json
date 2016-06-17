@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.2741444494558329,
     "CbGdCrCtD": 0.0006685727239253002,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.4414243922886427,
     "CtDrD": 0.19267319578898912
   },
+  "n_trials": 16.0,
   "prediction": 0.0829602133407586,
   "status": 0,
   "training_prediction": 0.456684429527974

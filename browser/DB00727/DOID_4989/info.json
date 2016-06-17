@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00727",
   "compound_name": "Nitroglycerin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.8553622896806042,
     "CbGeAlD": 0.014231675153626673,
     "CbGpPWpGaD": 0.05217746827235919,
     "CcSEcCtD": 0.07822856689340987
   },
+  "n_trials": 1.0,
   "prediction": 0.00312448584141682,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

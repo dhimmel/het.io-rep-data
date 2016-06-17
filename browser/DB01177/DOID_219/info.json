@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGbCtD": 0.1155293260703619,
     "CbGdCrCtD": 0.001230934904259657,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.00020437497334793912,
     "CtDrD": 0.3258124877776553
   },
+  "n_trials": 0.0,
   "prediction": 0.00635524491656463,
   "status": 0,
   "training_prediction": 0.0150033222178448

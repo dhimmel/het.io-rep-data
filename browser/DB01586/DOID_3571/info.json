@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01586",
   "compound_name": "Ursodeoxycholic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.3261665669729469,
     "CbGbCtD": 0.11192467194460523,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0024204190679399857,
     "CtDrD": 0.4141326052004294
   },
+  "n_trials": 1.0,
   "prediction": 0.0183391482836302,
   "status": 0,
   "training_prediction": 0.018095156981441003

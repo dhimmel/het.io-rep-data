@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.4378971373008596,
     "CbGbCtD": 0.308431414933516,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1438605469337285,
     "CrCbGaD": 0.0024616401496718224
   },
+  "n_trials": 0.0,
   "prediction": 0.0032237253373011802,
   "status": 0,
   "training_prediction": 0.00588113444362292

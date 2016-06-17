@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01436",
   "compound_name": "Alfacalcidol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.22763063148713264,
     "CbGbCtD": 0.21130908469929163,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2187037290972389,
     "CrCtD": 0.325290737953348
   },
+  "n_trials": 1.0,
   "prediction": 0.0498937153690131,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

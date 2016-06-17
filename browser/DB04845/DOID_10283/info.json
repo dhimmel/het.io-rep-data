@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04845",
   "compound_name": "Ixabepilone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.038067543864224083,
     "CbGbCtD": 0.3082454496903593,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06439641952162149,
     "CiPCiCtD": 0.5365558381594446
   },
+  "n_trials": 0.0,
   "prediction": 0.0336198099341239,
   "status": 0,
   "training_prediction": 0.129017326509561

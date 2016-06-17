@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGaD": 0.4736427457679217,
     "CbGbCtD": 0.02446506164295446,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1099829885485705,
     "CpDpCtD": 0.3327244263462328
   },
+  "n_trials": 0.0,
   "prediction": 0.0041654073150381,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

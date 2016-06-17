@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGaD": 0.41812254969382034,
     "CbGbCtD": 0.3006387860030391,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12659295365575668,
     "CrCbGaD": 0.001617544940024502
   },
+  "n_trials": 0.0,
   "prediction": 0.00624760052265833,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.631989596879064,
   "metapath_contribution": {
     "CbGaD": 0.840410257552588,
     "CbGpPWpGaD": 0.020242052150986487,
     "CcSEcCtD": 0.13285483520488525,
     "CrCbGaD": 0.006492855091540327
   },
+  "n_trials": 0.0,
   "prediction": 0.00208299068743358,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

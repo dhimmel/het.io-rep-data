@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7340702210663199,
   "metapath_contribution": {
     "CbGaD": 0.2601048042228518,
     "CbGbCtD": 0.5186693465617227,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12917377158136062,
     "CrCbGaD": 0.0007907880440531133
   },
+  "n_trials": 0.0,
   "prediction": 0.0026185502017082897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

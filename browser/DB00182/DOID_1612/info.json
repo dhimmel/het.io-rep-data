@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.433680104031209,
   "metapath_contribution": {
-    "CbGaD": 0.12492254690951476,
-    "CbGbCtD": 0.35292883799469704,
-    "CbGeAlD": 0.033516273248250246,
-    "CbGpPWpGaD": 0.09796707635251338,
-    "CcSEcCtD": 0.14949287260636573,
-    "CrCbGaD": 0.0029665578469538116,
-    "CrCrCtD": 0.23820583504170492
+    "CbGaD": 0.12492254690951479,
+    "CbGbCtD": 0.3529288379946971,
+    "CbGeAlD": 0.03351627324825025,
+    "CbGpPWpGaD": 0.09796707635251341,
+    "CcSEcCtD": 0.14949287260636576,
+    "CrCbGaD": 0.0029665578469538125,
+    "CrCrCtD": 0.23820583504170498
   },
+  "n_trials": 0.0,
   "prediction": 0.0020954942004321802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

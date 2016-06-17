@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06207",
   "compound_name": "Silodosin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.43713445816845414,
     "CbGbCtD": 0.4364247273038745,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02232048928380514,
     "CcSEcCtD": 0.03541096466133932
   },
+  "n_trials": 0.0,
   "prediction": 0.0150260837496031,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

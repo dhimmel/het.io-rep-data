@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGbCtD": 0.758536081074539,
     "CbGeAlD": 0.054987289023546715,
     "CbGpPWpGaD": 0.015091395370300131,
     "CcSEcCtD": 0.17138523453161417
   },
+  "n_trials": 0.0,
   "prediction": 0.0036203761252288705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

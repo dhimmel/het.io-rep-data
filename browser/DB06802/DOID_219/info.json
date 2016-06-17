@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.135240572171652,
   "metapath_contribution": {
     "CbGaD": 0.9265728948954283,
     "CbGeAlD": 0.02393016933989173,
     "CcSEcCtD": 0.041322980061023584,
     "CrCbGaD": 0.008173955703656413
   },
+  "n_trials": 0.0,
   "prediction": 0.000867547052414883,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

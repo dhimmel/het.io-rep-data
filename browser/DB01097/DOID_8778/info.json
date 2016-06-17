@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01097",
   "compound_name": "Leflunomide",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGbCtD": 0.13950520763805466,
     "CbGeAlD": 0.07788254638832555,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5710061307291153,
     "CrCbGaD": 0.003727730211995413
   },
+  "n_trials": 0.0,
   "prediction": 0.00242752182538264,
   "status": 0,
   "training_prediction": 0.00895520258047399

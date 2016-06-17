@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.908972691807542,
   "metapath_contribution": {
     "CbGaD": 0.41363480853571694,
     "CbGbCtD": 0.377640784416871,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.06674592408934742,
     "CbGpPWpGaD": 0.13921405918390575
   },
+  "n_trials": 0.0,
   "prediction": 0.00964554330104025,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

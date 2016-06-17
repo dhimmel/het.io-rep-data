@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01608",
   "compound_name": "Propericiazine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.338101430429129,
   "metapath_contribution": {
     "CbGaD": 0.8087349766015396,
     "CbGeAlD": 0.032227367268250186,
     "CbGpPWpGaD": 0.1458556745518445,
     "CrCbGaD": 0.013181981578365583
   },
+  "n_trials": 0.0,
   "prediction": 0.00123826728246462,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

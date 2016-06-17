@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.48713945816357074,
     "CbGbCtD": 0.32731964693044585,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.0400065519202639,
     "CbGpPWpGaD": 0.14140399790967528
   },
+  "n_trials": 0.0,
   "prediction": 0.00907353351324062,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

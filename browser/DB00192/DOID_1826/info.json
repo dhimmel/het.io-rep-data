@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00192",
   "compound_name": "Indecainide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8894668400520159,
   "metapath_contribution": {
     "CbGbCtD": 0.31062150496307345,
     "CbGpPWpGaD": 0.028503579030131128,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.266040885424121,
     "CrCtD": 0.39246908280667475
   },
+  "n_trials": 0.0,
   "prediction": 0.0156850940795531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

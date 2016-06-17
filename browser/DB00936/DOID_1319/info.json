@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.397269180754226,
   "metapath_contribution": {
     "CbGaD": 0.8086079287204426,
     "CbGbCtD": 0.05256367531464549,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07455198762032514,
     "CrCbGaD": 0.004662238684502286
   },
+  "n_trials": 0.0,
   "prediction": 0.0013739805481281198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

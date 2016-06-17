@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.717815344603381,
   "metapath_contribution": {
     "CbGaD": 0.8524633421128825,
     "CbGeAlD": 0.0246829548672505,
     "CbGpPWpGaD": 0.12230561109133238,
     "CrCbGaD": 0.0005480919285346204
   },
+  "n_trials": 0.0,
   "prediction": 0.0018954961724216399,
   "status": 0,
   "training_prediction": 0.00317201184425223

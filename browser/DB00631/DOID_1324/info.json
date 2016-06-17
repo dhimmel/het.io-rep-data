@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.20040278912636414,
     "CbGbCtD": 0.22806678324553012,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0012276939371046983,
     "CrCrCtD": 0.12979067621826998
   },
+  "n_trials": 0.0,
   "prediction": 0.0177739053187621,
   "status": 0,
   "training_prediction": 0.0584444294137047

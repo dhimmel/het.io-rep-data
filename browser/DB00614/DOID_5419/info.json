@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00614",
   "compound_name": "Furazolidone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGaD": 0.8052302932598195,
     "CbGeAlD": 0.046270533677092864,
     "CbGpPWpGaD": 0.14637887369956645,
     "CrCbGaD": 0.0021202993635210565
   },
+  "n_trials": 0.0,
   "prediction": 0.00217998800409801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

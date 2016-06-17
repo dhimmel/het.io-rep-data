@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.7796274407517049,
     "CbGeAlD": 0.07949085650987751,
     "CbGpPWpGaD": 0.13459800890381945,
     "CrCbGaD": 0.006283693834598227
   },
+  "n_trials": 0.0,
   "prediction": 0.0039396817800073,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.1676218937896751,
     "CbGbCtD": 0.2048811647446668,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.509140867435643,
     "CrCbGaD": 0.0010368151123717995
   },
+  "n_trials": 0.0,
   "prediction": 0.0092739936887346,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

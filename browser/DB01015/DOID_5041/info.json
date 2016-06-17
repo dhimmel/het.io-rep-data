@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.41092327698309494,
   "metapath_contribution": {
     "CbGaD": 0.6736571170849065,
     "CbGbCtD": 0.057217955079729,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10427907597529468,
     "CrCbGaD": 0.0041486981417398075
   },
+  "n_trials": 0.0,
   "prediction": 0.00124873511318972,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

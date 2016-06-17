@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.8449534656168153,
     "CbGeAlD": 0.05091154105000971,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.0026308532245766943
   },
   "prediction": 0.0025622421772694103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

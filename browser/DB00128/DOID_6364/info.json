@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.0728218465539662,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.01903227518489207,
-    "CbGeAlD": 0.8266199077067582,
-    "CbGpPWpGaD": 0.15157571546851953,
-    "CrCbGaD": 0.002772101639830266
+    "CbGdCrCtD": 0.019032275184892068,
+    "CbGeAlD": 0.8266199077067581,
+    "CbGpPWpGaD": 0.1515757154685195,
+    "CrCbGaD": 0.0027721016398302655
   },
+  "n_trials": 0.0,
   "prediction": 0.00114076218188729,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

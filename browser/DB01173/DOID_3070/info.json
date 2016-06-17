@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.29258777633290006,
   "metapath_contribution": {
     "CbGaD": 0.7918183182446318,
     "CbGeAlD": 0.10115767252604979,
     "CbGpPWpGaD": 0.09678003593549496,
     "CrCbGaD": 0.010243973293823476
   },
+  "n_trials": 0.0,
   "prediction": 0.00105081033672055,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

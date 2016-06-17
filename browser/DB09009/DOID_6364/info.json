@@ -1,8 +1,10 @@
 {
   "compound_id": "DB09009",
   "compound_name": "Articaine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.6925961102154049,
     "CbGbCtD": 0.16492950787215513,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08997010126739112,
     "CrCbGaD": 0.005385415859655669
   },
+  "n_trials": 0.0,
   "prediction": 0.00790819106603506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

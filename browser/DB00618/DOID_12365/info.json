@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00618",
   "compound_name": "Demeclocycline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CiPCiCtD": 0.4430619001733214,
     "CrCbGaD": 0.00047696238373374274,
     "CrCrCtD": 0.2268500408133235,
     "CrCtD": 0.32961109662962135
   },
+  "n_trials": 0.0,
   "prediction": 0.0581271382514495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

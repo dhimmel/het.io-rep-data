@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06274",
   "compound_name": "Alvimopan",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.542704243534985,
     "CbGbCtD": 0.41151376214217134,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0026759615622186975,
     "CrCbGaD": 0.0016623548241894964
   },
+  "n_trials": 0.0,
   "prediction": 0.0117686919599487,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

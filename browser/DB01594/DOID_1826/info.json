@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01594",
   "compound_name": "Cinolazepam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.19743983315873254,
     "CbGbCtD": 0.24111362696833788,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.21916955908426491,
     "CrCtD": 0.278841188434801
   },
+  "n_trials": 0.0,
   "prediction": 0.0814032357811441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

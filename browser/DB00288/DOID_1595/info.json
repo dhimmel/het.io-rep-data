@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.0344603381014304,
   "metapath_contribution": {
     "CbGaD": 0.906987504196523,
     "CbGeAlD": 0.05336920692015593,
     "CbGpPWpGaD": 0.029302744854027316,
     "CrCbGaD": 0.01034054402929378
   },
+  "n_trials": 0.0,
   "prediction": 0.000804242321716774,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

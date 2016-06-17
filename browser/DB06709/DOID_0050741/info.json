@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06709",
   "compound_name": "Methacholine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.8336153365772886,
     "CbGpPWpGaD": 0.057505801556304095,
     "CcSEcCtD": 0.1041523716683806,
     "CrCbGaD": 0.004726490198026663
   },
+  "n_trials": 0.0,
   "prediction": 0.00424252003258247,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

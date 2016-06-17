@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.299089726918075,
   "metapath_contribution": {
     "CbGbCtD": 0.6056133069576409,
     "CbGpPWpGaD": 0.13736293283891704,
     "CcSEcCtD": 0.25537899660915875,
     "CrCbGaD": 0.0016447635942833476
   },
+  "n_trials": 0.0,
   "prediction": 0.0018096285739920602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

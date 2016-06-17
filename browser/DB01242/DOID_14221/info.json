@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.325747724317295,
   "metapath_contribution": {
     "CbGaD": 0.7941209370092507,
     "CbGeAlD": 0.052682877844904163,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.02028445420378208,
     "CrCbGaD": 0.005618158457203593
   },
+  "n_trials": 0.0,
   "prediction": 0.00110504890673916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

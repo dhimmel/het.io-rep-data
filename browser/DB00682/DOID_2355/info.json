@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.609882964889467,
   "metapath_contribution": {
     "CbGaD": 0.7273744151161632,
     "CbGeAlD": 0.10510843878644964,
     "CbGpPWpGaD": 0.1603966378673283,
     "CrCbGaD": 0.007120508230058954
   },
+  "n_trials": 0.0,
   "prediction": 0.0014078670912141401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

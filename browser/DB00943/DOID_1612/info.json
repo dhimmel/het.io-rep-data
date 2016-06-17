@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00943",
   "compound_name": "Zalcitabine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.08592577970593948,
     "CbGbCtD": 0.2272389291984128,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.19173315399614296,
     "CrCtD": 0.3707573764253392
   },
+  "n_trials": 0.0,
   "prediction": 0.0127589020396085,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

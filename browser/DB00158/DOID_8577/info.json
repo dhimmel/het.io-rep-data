@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.563068920676203,
   "metapath_contribution": {
     "CbGbCtD": 0.754457880744251,
     "CbGdCrCtD": 0.0039427334339667275,
@@ -12,6 +14,5 @@
     "CcSEcCtD": 0.07522196957000249
   },
   "prediction": 0.00228933529707929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

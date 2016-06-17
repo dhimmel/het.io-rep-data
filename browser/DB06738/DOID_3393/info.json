@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06738",
   "compound_name": "Ketobemidone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.4004423476757785,
     "CbGbCtD": 0.5069821172505775,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09130138230108334,
     "CrCbGaD": 0.000341871841784283
   },
+  "n_trials": 0.0,
   "prediction": 0.00603572556208063,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

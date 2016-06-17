@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.7536263857140133,
     "CbGeAlD": 0.0789004355557337,
     "CbGpPWpGaD": 0.006826885105140199,
     "CcSEcCtD": 0.16064629362511282
   },
+  "n_trials": 1.0,
   "prediction": 0.00496383765825436,
   "status": 0,
   "training_prediction": 0.0143526357204369

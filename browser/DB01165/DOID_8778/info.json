@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.5936280884265279,
   "metapath_contribution": {
     "CbGaD": 0.8025113713792905,
     "CbGbCtD": 0.03669483254748396,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12893346342140766,
     "CrCbGaD": 0.004518866947546
   },
+  "n_trials": 0.0,
   "prediction": 0.0017672014243386,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

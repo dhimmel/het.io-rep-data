@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGaD": 0.4712165576191288,
     "CbGbCtD": 0.28987172631449387,
     "CbGpPWpGaD": 0.11174480767808372,
     "CcSEcCtD": 0.12716690838829364
   },
+  "n_trials": 0.0,
   "prediction": 0.00246593869568143,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

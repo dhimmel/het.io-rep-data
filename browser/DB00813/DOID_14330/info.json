@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.0728218465539662,
   "metapath_contribution": {
     "CbGaD": 0.7762772254156023,
     "CbGeAlD": 0.047773020173753206,
     "CbGpPWpGaD": 0.15879069903739174,
     "CrCbGaD": 0.017159055373252873
   },
+  "n_trials": 0.0,
   "prediction": 0.000666639094338375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00933",
   "compound_name": "Mesoridazine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.10208062418725601,
   "metapath_contribution": {
     "CbGbCtD": 0.42710627270036294,
     "CbGeAlD": 0.013766813951290141,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0010255626279424075,
     "CrCrCtD": 0.4422593599561203
   },
+  "n_trials": 0.0,
   "prediction": 0.00116735208150731,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

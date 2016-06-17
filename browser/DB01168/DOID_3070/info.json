@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01168",
   "compound_name": "Procarbazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.004249108826925316,
     "CcSEcCtD": 0.028435275686635418,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0011269580098339689,
     "CtDrD": 0.3615784033784837
   },
+  "n_trials": 8.0,
   "prediction": 0.0175989961006904,
   "status": 0,
   "training_prediction": 0.0215233261095218

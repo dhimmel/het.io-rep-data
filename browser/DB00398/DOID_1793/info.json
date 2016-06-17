@@ -1,18 +1,21 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
-    "CbGaD": 0.13143196127631337,
-    "CbGbCtD": 0.3567307077766466,
-    "CbGdCrCtD": 0.0014782341663627423,
-    "CbGeAlD": 0.021189725739183436,
+    "CbGaD": 0.13143196127631335,
+    "CbGbCtD": 0.35673070777664656,
+    "CbGdCrCtD": 0.001478234166362742,
+    "CbGeAlD": 0.021189725739183433,
     "CbGpPWpGaD": 0.06285558475551785,
-    "CcSEcCtD": 0.06679513014998247,
-    "CrCbGaD": 0.0022624113294720575,
-    "CtDrD": 0.35725624480652146
+    "CcSEcCtD": 0.06679513014998245,
+    "CrCbGaD": 0.002262411329472057,
+    "CtDrD": 0.3572562448065214
   },
+  "n_trials": 14.0,
   "prediction": 0.0256870779451074,
   "status": 0,
   "training_prediction": 0.125189484154661

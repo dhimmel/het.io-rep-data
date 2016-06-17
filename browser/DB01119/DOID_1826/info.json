@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01119",
   "compound_name": "Diazoxide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGaD": 0.44209623597521663,
     "CbGbCtD": 0.32308969328643533,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10895665191444222,
     "CrCbGaD": 0.0013882396350983486
   },
+  "n_trials": 0.0,
   "prediction": 0.0104506197207817,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

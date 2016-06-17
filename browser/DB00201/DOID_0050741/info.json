@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
-    "CbGaD": 0.32055256970231605,
-    "CbGbCtD": 0.3940979123128468,
-    "CbGeAlD": 0.09994670785885153,
-    "CbGpPWpGaD": 0.12762686823193164,
-    "CcSEcCtD": 0.055833150952039085,
-    "CrCbGaD": 0.00194279094201507
+    "CbGaD": 0.320552569702316,
+    "CbGbCtD": 0.39409791231284674,
+    "CbGeAlD": 0.0999467078588515,
+    "CbGpPWpGaD": 0.12762686823193162,
+    "CcSEcCtD": 0.05583315095203908,
+    "CrCbGaD": 0.0019427909420150697
   },
+  "n_trials": 0.0,
   "prediction": 0.0036235592550312,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

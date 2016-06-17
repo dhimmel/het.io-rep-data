@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00204",
   "compound_name": "Dofetilide",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.595578673602081,
   "metapath_contribution": {
     "CbGaD": 0.9706084659274317,
     "CbGeAlD": 0.0013313100306889603,
     "CbGpPWpGaD": 0.01634587433338836,
     "CrCbGaD": 0.011714349708490935
   },
+  "n_trials": 0.0,
   "prediction": 0.00179794753024177,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

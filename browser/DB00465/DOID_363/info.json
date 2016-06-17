@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.104681404421326,
   "metapath_contribution": {
     "CbGbCtD": 0.39708127833955253,
     "CbGeAlD": 0.06456088664290288,
     "CcSEcCtD": 0.531408026340777,
     "CrCbGaD": 0.006949808676767498
   },
+  "n_trials": 0.0,
   "prediction": 0.000928364074743402,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.45318595578673604,
   "metapath_contribution": {
     "CbGaD": 0.7943305866726867,
     "CbGeAlD": 0.03521555474735238,
     "CbGpPWpGaD": 0.1596316027787708,
     "CrCbGaD": 0.010822255801190114
   },
+  "n_trials": 0.0,
   "prediction": 0.00146329981327905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

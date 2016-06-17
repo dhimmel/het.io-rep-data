@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.651473301621596,
     "CbGeAlD": 0.11789440130275106,
     "CbGpPWpGaD": 0.2235161973132562,
     "CrCbGaD": 0.007116099762396748
   },
+  "n_trials": 0.0,
   "prediction": 0.00339647828283473,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

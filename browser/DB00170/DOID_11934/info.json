@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.436934251448215,
     "CbGbCtD": 0.3603274845505591,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.08667277022112595,
     "CrCbGaD": 0.002776972079300691
   },
+  "n_trials": 0.0,
   "prediction": 0.00293851162885549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

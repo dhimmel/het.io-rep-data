@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.726918075422627,
   "metapath_contribution": {
     "CbGaD": 0.19610059841231853,
     "CbGbCtD": 0.5543836872413447,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11858080863179747,
     "CrCbGaD": 0.0001311871935429529
   },
+  "n_trials": 0.0,
   "prediction": 0.00409026273196352,
   "status": 0,
   "training_prediction": 0.0178386625189116

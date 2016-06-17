@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06813",
   "compound_name": "Pralatrexate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.22030576447434994,
     "CbGbCtD": 0.2107238543415902,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2149583595701041,
     "CrCtD": 0.3245595310428539
   },
+  "n_trials": 0.0,
   "prediction": 0.0461030206381287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

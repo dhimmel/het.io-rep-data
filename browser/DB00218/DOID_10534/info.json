@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.364109232769831,
   "metapath_contribution": {
     "CbGbCtD": 0.6735341807393544,
     "CbGdCrCtD": 0.007201028473054549,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.31650766436174915,
     "CrCbGaD": 0.0007748820470031634
   },
+  "n_trials": 0.0,
   "prediction": 0.0012490865158753,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

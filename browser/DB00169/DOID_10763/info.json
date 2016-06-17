@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.733420026007802,
   "metapath_contribution": {
     "CbGaD": 0.2870021397116495,
     "CbGbCtD": 0.25150858571836643,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.349406600377525,
     "CrCbGaD": 0.00213586598516696
   },
+  "n_trials": 9.0,
   "prediction": 0.0077225999740496,
   "status": 0,
   "training_prediction": 0.17319582828443603

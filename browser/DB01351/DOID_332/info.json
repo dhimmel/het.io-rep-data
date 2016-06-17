@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01351",
   "compound_name": "Amobarbital",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.7674183238292452,
     "CbGeAlD": 0.06794865076738976,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09345150523249736,
     "CrCbGaD": 0.008016505773879573
   },
+  "n_trials": 0.0,
   "prediction": 0.00299516902842947,
   "status": 0,
   "training_prediction": 0.00135144115727223

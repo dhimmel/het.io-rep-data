@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.41027308192457707,
   "metapath_contribution": {
     "CbGaD": 0.29020115177095657,
     "CbGbCtD": 0.4381421905104737,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15051070428681831,
     "CrCbGaD": 0.004455708452840553
   },
+  "n_trials": 0.0,
   "prediction": 0.0012512609193173,
   "status": 0,
   "training_prediction": 0.00228644080699041

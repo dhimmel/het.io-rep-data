@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01146",
   "compound_name": "Diphenylpyraline",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
     "CbGaD": 0.8651102873109773,
     "CbGeAlD": 0.013544413526947732,
     "CbGpPWpGaD": 0.10934781657286483,
     "CrCbGaD": 0.011997482589210174
   },
+  "n_trials": 0.0,
   "prediction": 0.0015748162555068099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

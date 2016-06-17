@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.121586475942783,
   "metapath_contribution": {
     "CbGaD": 0.47341203389650954,
     "CbGbCtD": 0.5033336981054773,
     "CbGpPWpGaD": 0.01993241829351441,
     "CrCbGaD": 0.003321849704498588
   },
+  "n_trials": 0.0,
   "prediction": 0.000859063897620152,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

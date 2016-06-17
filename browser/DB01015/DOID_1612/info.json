@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.503250975292588,
   "metapath_contribution": {
     "CbGaD": 0.4339147610452206,
     "CbGbCtD": 0.3219573358985069,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1272214468846262,
     "CrCbGaD": 0.0018363847421240846
   },
+  "n_trials": 0.0,
   "prediction": 0.00236858255034694,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

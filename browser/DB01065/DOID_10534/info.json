@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.49804941482444703,
   "metapath_contribution": {
     "CbGbCtD": 0.2776495038753952,
     "CbGeAlD": 0.18281223127631444,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22712293944920942,
     "CrCbGaD": 0.005035683309575754
   },
+  "n_trials": 0.0,
   "prediction": 0.00155021751493904,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

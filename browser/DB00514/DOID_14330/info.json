@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.569570871261378,
   "metapath_contribution": {
     "CbGaD": 0.7209107554927029,
     "CbGeAlD": 0.10947258394448806,
     "CbGpPWpGaD": 0.16710989091548695,
     "CrCbGaD": 0.002506769647322157
   },
+  "n_trials": 2.0,
   "prediction": 0.00152612032861369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

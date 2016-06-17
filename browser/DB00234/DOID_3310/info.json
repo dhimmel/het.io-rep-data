@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGbCtD": 0.1613949977300499,
     "CcSEcCtD": 0.06649914727806563,
     "CrCrCtD": 0.29668362701415957,
     "CrCtD": 0.47542222797772493
   },
+  "n_trials": 0.0,
   "prediction": 0.0126979021900127,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

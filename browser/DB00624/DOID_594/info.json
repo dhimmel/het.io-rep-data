@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.38036410923277003,
   "metapath_contribution": {
     "CbGaD": 0.9388608632969863,
     "CbGeAlD": 0.0024213772159581708,
     "CbGpPWpGaD": 0.054477151017488006,
     "CrCbGaD": 0.004240608469567642
   },
+  "n_trials": 0.0,
   "prediction": 0.00126932440202886,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

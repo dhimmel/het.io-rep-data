@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.9286208821572144,
     "CbGpPWpGaD": 0.015481747949379017,
     "CcSEcCtD": 0.05379313332874558,
     "CrCbGaD": 0.0021042365646610026
   },
+  "n_trials": 0.0,
   "prediction": 0.00100959587326306,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

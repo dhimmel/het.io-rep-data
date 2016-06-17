@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.3365743756891804,
     "CbGbCtD": 0.37876149689969835,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10175415955826006,
     "CcSEcCtD": 0.1707383327657914
   },
+  "n_trials": 0.0,
   "prediction": 0.00417080264262335,
   "status": 0,
   "training_prediction": 0.0141633348287443

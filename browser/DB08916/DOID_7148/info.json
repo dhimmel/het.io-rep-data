@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.779583875162549,
   "metapath_contribution": {
     "CbGaD": 0.556748135740085,
     "CbGbCtD": 0.1984925928409268,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.06927916127093937,
     "CrCbGaD": 0.0033438732504025284
   },
+  "n_trials": 0.0,
   "prediction": 0.00282640595210708,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

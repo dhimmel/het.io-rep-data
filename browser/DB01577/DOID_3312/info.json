@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.683355006501951,
   "metapath_contribution": {
     "CbGaD": 0.7557257679659546,
     "CbGeAlD": 0.07674033381878334,
     "CbGpPWpGaD": 0.1608571181073027,
     "CrCbGaD": 0.00667678010795941
   },
+  "n_trials": 0.0,
   "prediction": 0.00179366415897107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

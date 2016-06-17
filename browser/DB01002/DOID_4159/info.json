@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01002",
   "compound_name": "Levobupivacaine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.5943603951617613,
     "CbGbCtD": 0.30858974413285656,
     "CcSEcCtD": 0.09209006981358091,
     "CrCbGaD": 0.004959790891801222
   },
+  "n_trials": 0.0,
   "prediction": 0.0045973811251785795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

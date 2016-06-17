@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.492847854356307,
   "metapath_contribution": {
     "CbGaD": 0.13890583964300263,
     "CbGbCtD": 0.5906003155951358,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17673302392760984,
     "CrCbGaD": 0.0011691676128984712
   },
+  "n_trials": 0.0,
   "prediction": 0.0018347431267021301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,18 +1,21 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
-    "CbGbCtD": 0.1414043265793158,
-    "CbGeAlD": 0.011686216103212268,
-    "CcSEcCtD": 0.02906340493338542,
-    "CiPCiCtD": 0.3068960250264065,
+    "CbGbCtD": 0.14140432657931581,
+    "CbGeAlD": 0.01168621610321227,
+    "CcSEcCtD": 0.029063404933385422,
+    "CiPCiCtD": 0.30689602502640656,
     "CrCbGaD": 0.000996435972285712,
-    "CrCrCtD": 0.14431211347681475,
-    "CrCtD": 0.2324601147761092,
-    "CtDrD": 0.13318136313247034
+    "CrCrCtD": 0.14431211347681477,
+    "CrCtD": 0.23246011477610923,
+    "CtDrD": 0.13318136313247037
   },
+  "n_trials": 1.0,
   "prediction": 0.13855927036935,
   "status": 0,
   "training_prediction": 0.456003360432788

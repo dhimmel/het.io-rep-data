@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.5599082532394576,
     "CbGbCtD": 0.2224024876666984,
     "CbGeAlD": 0.04652186188227038,
     "CbGpPWpGaD": 0.17116739721157356
   },
+  "n_trials": 0.0,
   "prediction": 0.005720374302545171,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

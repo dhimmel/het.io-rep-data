@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01034",
   "compound_name": "Cerulenin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.8483558720861412,
     "CbGdCrCtD": 0.0024173210493405465,
     "CbGeAlD": 0.04521066275127177,
     "CbGpPWpGaD": 0.10401614411324649
   },
+  "n_trials": 0.0,
   "prediction": 0.0048827394391556,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.19470675812515165,
     "CbGbCtD": 0.29261166651007414,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.38231425677329023,
     "CrCbGaD": 0.0019365816935505249
   },
+  "n_trials": 1.0,
   "prediction": 0.0126228549165389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

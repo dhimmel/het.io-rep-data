@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00306",
   "compound_name": "Talbutal",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.4765805251800134,
     "CbGbCtD": 0.37692286145775905,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08070577406993512,
     "CrCbGaD": 0.005334373662815501
   },
+  "n_trials": 0.0,
   "prediction": 0.00585089592953094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

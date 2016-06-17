@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01073",
   "compound_name": "Fludarabine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.298977895530691,
     "CbGbCtD": 0.3802626819866917,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0025090706528890314,
     "CrCrCtD": 0.1768759138309734
   },
+  "n_trials": 0.0,
   "prediction": 0.007348438802123859,
   "status": 0,
   "training_prediction": 0.0406602393776789

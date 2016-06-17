@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.39661898569570897,
   "metapath_contribution": {
     "CbGaD": 0.853147991678177,
     "CbGdCrCtD": 0.004696356941269757,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11590602603397937,
     "CrCbGaD": 0.006835336346468566
   },
+  "n_trials": 0.0,
   "prediction": 0.00150049298381216,
   "status": 0,
   "training_prediction": 0.0035760274000365797

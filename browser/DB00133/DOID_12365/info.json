@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00133",
   "compound_name": "L-Serine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.18660598179453797,
   "metapath_contribution": {
-    "CbGeAlD": 0.5814150391803949,
-    "CbGpPWpGaD": 0.40626187344260106,
-    "CrCbGaD": 0.012323087377003829
+    "CbGeAlD": 0.581415039180395,
+    "CbGpPWpGaD": 0.4062618734426012,
+    "CrCbGaD": 0.01232308737700383
   },
+  "n_trials": 0.0,
   "prediction": 0.00129020151987279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

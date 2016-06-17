@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7451235370611179,
   "metapath_contribution": {
     "CbGaD": 0.3175650273726141,
     "CbGbCtD": 0.4976647611506564,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11696395406370745,
     "CrCbGaD": 0.0006340814612052064
   },
+  "n_trials": 0.0,
   "prediction": 0.00400194619916538,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

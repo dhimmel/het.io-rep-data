@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
     "CbGaD": 0.20717560778358818,
     "CbGbCtD": 0.40139777395477527,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06678126933927593,
     "CcSEcCtD": 0.17541419115618995
   },
+  "n_trials": 0.0,
   "prediction": 0.00341271116134519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

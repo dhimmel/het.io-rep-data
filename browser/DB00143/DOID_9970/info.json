@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGaD": 0.6877611799389743,
     "CbGeAlD": 0.11850779199398022,
     "CbGpPWpGaD": 0.18820956050371956,
     "CrCbGaD": 0.0055214675633257675
   },
+  "n_trials": 0.0,
   "prediction": 0.0034643114310553198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

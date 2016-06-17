@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGaD": 0.17559343524510165,
     "CbGbCtD": 0.5511274195962267,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14539541957077518,
     "CrCbGaD": 0.0003320736020199941
   },
+  "n_trials": 0.0,
   "prediction": 0.00221868682753335,
   "status": 0,
   "training_prediction": 0.00644884979745095

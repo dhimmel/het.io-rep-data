@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.5240572171651501,
   "metapath_contribution": {
     "CbGbCtD": 0.4639175177881998,
     "CbGeAlD": 0.060132288532821716,
     "CbGpPWpGaD": 0.375022727513481,
     "CcSEcCtD": 0.10092746616549748
   },
+  "n_trials": 0.0,
   "prediction": 0.0015529695787337599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.15181346589252956,
     "CbGbCtD": 0.22362639054627137,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0025677716776320103,
     "CrCtD": 0.4937571537385803
   },
+  "n_trials": 0.0,
   "prediction": 0.0363972826378342,
   "status": 0,
   "training_prediction": 0.159331121874612

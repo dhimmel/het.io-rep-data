@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGbCtD": 0.44411662904639315,
     "CbGeAlD": 0.0035687011356394594,
@@ -11,7 +13,7 @@
     "CrCbGaD": 8.618444383622221e-05,
     "CrCrCtD": 0.4731973995761211
   },
+  "n_trials": 0.0,
   "prediction": 0.00302908907984035,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

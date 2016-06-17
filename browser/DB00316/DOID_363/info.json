@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGbCtD": 0.6384504209878777,
     "CbGeAlD": 0.07884300399568768,
     "CbGpPWpGaD": 0.10734024500058163,
     "CcSEcCtD": 0.17536633001585294
   },
+  "n_trials": 0.0,
   "prediction": 0.00287280926740439,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.2046778669791666,
     "CbGbCtD": 0.5299919474216658,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03192517908864354,
     "CcSEcCtD": 0.1837761831724621
   },
+  "n_trials": 0.0,
   "prediction": 0.0029084568425516303,
   "status": 0,
   "training_prediction": 0.0069180427048979795

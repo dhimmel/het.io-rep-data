@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.7698309492847851,
   "metapath_contribution": {
     "CbGaD": 0.3834101599082451,
     "CbGbCtD": 0.5223293674095077,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08618891733484352,
     "CrCbGaD": 0.0025126385670507616
   },
+  "n_trials": 0.0,
   "prediction": 0.00276223681286135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

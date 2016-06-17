@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00705",
   "compound_name": "Delavirdine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7555266579973992,
   "metapath_contribution": {
     "CbGaD": 0.19652485268885728,
     "CbGbCtD": 0.5320759843511884,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07118944189413971,
     "CcSEcCtD": 0.20005065297122018
   },
+  "n_trials": 0.0,
   "prediction": 0.008319531670421,
   "status": 0,
   "training_prediction": 0.0911992198729139

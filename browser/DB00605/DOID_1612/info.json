@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.4773709977953632,
     "CbGbCtD": 0.1899068041284087,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1436364638027965,
     "CcSEcCtD": 0.13604392091493964
   },
+  "n_trials": 3.0,
   "prediction": 0.00536809402452263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

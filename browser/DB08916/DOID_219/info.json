@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7009102730819251,
   "metapath_contribution": {
     "CbGaD": 0.5418483139496632,
     "CbGbCtD": 0.1875805954251869,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.06989989479050573,
     "CrCbGaD": 0.0048670475658966735
   },
+  "n_trials": 0.0,
   "prediction": 0.00209167944953055,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGaD": 0.4290304146471184,
     "CbGbCtD": 0.5026596728140108,
     "CbGpPWpGaD": 0.0035388481017524856,
     "CcSEcCtD": 0.06477106443711822
   },
+  "n_trials": 0.0,
   "prediction": 0.00242286175911641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

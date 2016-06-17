@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.26740992202871033,
     "CbGbCtD": 0.2657087763561998,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.11552693448034665,
     "CpDpCtD": 0.2240586675439843
   },
+  "n_trials": 1.0,
   "prediction": 0.0113731962362974,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

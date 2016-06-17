@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.786736020806242,
   "metapath_contribution": {
     "CbGaD": 0.7699019016526942,
     "CbGbCtD": 0.023051665942329633,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08340079759625237,
     "CrCbGaD": 0.003129479142821121
   },
+  "n_trials": 0.0,
   "prediction": 0.00216074819008151,
   "status": 0,
   "training_prediction": 0.00213153336856336

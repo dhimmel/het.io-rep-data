@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00117",
   "compound_name": "L-Histidine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGaD": 0.5526334879632865,
     "CbGeAlD": 0.0511362517633573,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002556297344133958,
     "CrCrCtD": 0.2983452555158057
   },
+  "n_trials": 0.0,
   "prediction": 0.0051369207946413,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

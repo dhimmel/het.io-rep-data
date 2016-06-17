@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00286",
   "compound_name": "Conjugated Estrogens",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.384265279583875,
   "metapath_contribution": {
     "CbGaD": 0.16697669765196302,
     "CbGbCtD": 0.6324354460178763,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09145816150881766,
     "CrCbGaD": 0.0011594152820896548
   },
+  "n_trials": 0.0,
   "prediction": 0.00131420192826169,
   "status": 0,
   "training_prediction": 0.00312410659285156

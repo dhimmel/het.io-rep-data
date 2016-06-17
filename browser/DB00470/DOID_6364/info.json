@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.750325097529259,
   "metapath_contribution": {
     "CbGbCtD": 0.7490613627598262,
     "CbGeAlD": 0.0005605373341639902,
     "CbGpPWpGaD": 0.06507645126409885,
     "CcSEcCtD": 0.185301648641911
   },
+  "n_trials": 1.0,
   "prediction": 0.00392744636831911,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

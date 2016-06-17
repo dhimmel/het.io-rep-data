@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.600130039011703,
   "metapath_contribution": {
     "CbGaD": 0.8434496091497943,
     "CbGeAlD": 0.044670046277779527,
     "CbGpPWpGaD": 0.10494559732030445,
     "CrCbGaD": 0.006934747252121852
   },
+  "n_trials": 0.0,
   "prediction": 0.0015978202273913599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

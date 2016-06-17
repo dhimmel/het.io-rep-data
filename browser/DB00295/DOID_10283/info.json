@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7932379713914169,
   "metapath_contribution": {
-    "CbGaD": 0.30719883421219424,
-    "CbGbCtD": 0.2520345545719154,
-    "CbGeAlD": 0.017600946530268214,
-    "CbGpPWpGaD": 0.08770809434034248,
-    "CcSEcCtD": 0.1021855116104903,
-    "CrCbGaD": 0.0016651620663105699,
-    "CrCrCtD": 0.23160689666847858
+    "CbGaD": 0.30719883421219435,
+    "CbGbCtD": 0.2520345545719155,
+    "CbGeAlD": 0.017600946530268217,
+    "CbGpPWpGaD": 0.08770809434034249,
+    "CcSEcCtD": 0.10218551161049033,
+    "CrCbGaD": 0.00166516206631057,
+    "CrCrCtD": 0.2316068966684786
   },
+  "n_trials": 1.0,
   "prediction": 0.00459771174932157,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

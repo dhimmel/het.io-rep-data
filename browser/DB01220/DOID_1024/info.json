@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01220",
   "compound_name": "Rifaximin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGbCtD": 0.12414636124408909,
     "CcSEcCtD": 0.011286719667956798,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.19189741461807192,
     "CrCtD": 0.30526593068392843
   },
+  "n_trials": 0.0,
   "prediction": 0.27887097072542405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

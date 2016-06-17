@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00911",
   "compound_name": "Tinidazole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8068920676202859,
   "metapath_contribution": {
     "CbGaD": 0.3240101441893643,
     "CbGbCtD": 0.4694236184707413,
     "CcSEcCtD": 0.2049325559717312,
     "CrCbGaD": 0.0016336813681631559
   },
+  "n_trials": 0.0,
   "prediction": 0.00478220267847938,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

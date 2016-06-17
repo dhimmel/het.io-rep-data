@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00374",
   "compound_name": "Treprostinil",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.7365233896126946,
     "CbGbCtD": 0.06349543541621172,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10285526136882704,
     "CrCbGaD": 0.004072694263379312
   },
+  "n_trials": 0.0,
   "prediction": 0.0036990372490556,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05109",
   "compound_name": "Trabectedin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGbCtD": 0.10485899824839942,
     "CbGpPWpGaD": 0.0051997659518823935,
     "CcSEcCtD": 0.05870533708341669,
     "CiPCiCtD": 0.8312358987163014
   },
+  "n_trials": 10.0,
   "prediction": 0.008967288369983659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

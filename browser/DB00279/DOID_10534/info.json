@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.6027308192457739,
   "metapath_contribution": {
     "CbGaD": 0.1590708619107803,
     "CbGbCtD": 0.6105656145751731,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12829895694676624,
     "CcSEcCtD": 0.013255261164609684
   },
+  "n_trials": 0.0,
   "prediction": 0.00181054840071939,
   "status": 0,
   "training_prediction": 0.00398840450858938

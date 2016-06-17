@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.23992197659297798,
   "metapath_contribution": {
     "CbGaD": 0.5505727971865778,
     "CbGbCtD": 0.2827016665186886,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13029713023076545,
     "CrCbGaD": 0.0027767837119357605
   },
+  "n_trials": 0.0,
   "prediction": 0.00146404921317104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

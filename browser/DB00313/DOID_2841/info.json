@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGbCtD": 0.39577614313378406,
     "CbGdCrCtD": 4.4449973150375964e-05,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12689457901075912,
     "CrCrCtD": 0.392455111527086
   },
+  "n_trials": 1.0,
   "prediction": 0.00793216535165522,
   "status": 0,
   "training_prediction": 0.0836186491645355

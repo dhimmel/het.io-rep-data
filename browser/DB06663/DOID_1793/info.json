@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06663",
   "compound_name": "Pasireotide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.829734013121401,
     "CbGpPWpGaD": 0.10776715830210577,
     "CcSEcCtD": 0.05675984993656092,
     "CrCbGaD": 0.005738978639932327
   },
+  "n_trials": 0.0,
   "prediction": 0.00632293832145933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

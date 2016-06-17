@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01102",
   "compound_name": "Arbutamine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.10759546440493052,
     "CbGbCtD": 0.24408369866507468,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.25082297993492714,
     "CrCtD": 0.37643813492441486
   },
+  "n_trials": 0.0,
   "prediction": 0.0490912901845395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.29109461812349824,
     "CbGbCtD": 0.4700102640364688,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09971042479814876,
     "CrCbGaD": 0.0020423504082780052
   },
+  "n_trials": 0.0,
   "prediction": 0.00266261227888451,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

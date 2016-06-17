@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGaD": 0.38328955084910676,
     "CbGbCtD": 0.3733859720910608,
     "CbGpPWpGaD": 0.12598384618062045,
     "CcSEcCtD": 0.11734063087921215
   },
+  "n_trials": 0.0,
   "prediction": 0.0017929199134074398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

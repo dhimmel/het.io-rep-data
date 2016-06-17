@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.611183355006502,
   "metapath_contribution": {
     "CbGaD": 0.3951673766702549,
     "CbGbCtD": 0.46517417278668916,
     "CbGeAlD": 0.018505821293103294,
     "CcSEcCtD": 0.12115262924995268
   },
+  "n_trials": 0.0,
   "prediction": 0.00184384065759495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

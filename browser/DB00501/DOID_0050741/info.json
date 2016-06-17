@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00501",
   "compound_name": "Cimetidine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.3133213783666798,
     "CbGbCtD": 0.4065532260212468,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12505243538517075,
     "CcSEcCtD": 0.0802905368158919
   },
+  "n_trials": 0.0,
   "prediction": 0.00669935683119592,
   "status": 0,
   "training_prediction": 0.00812258150068348

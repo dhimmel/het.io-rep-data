@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
     "CbGbCtD": 0.8050409361068525,
     "CbGeAlD": 0.001120672796431823,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05732087699176709,
     "CrCbGaD": 0.0023421214939689755
   },
+  "n_trials": 0.0,
   "prediction": 0.0021368039508725,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

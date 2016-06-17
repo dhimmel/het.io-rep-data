@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.485045513654096,
   "metapath_contribution": {
     "CbGaD": 0.6129273765299873,
     "CbGeAlD": 0.07599769321698917,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11502429037666644,
     "CrCbGaD": 0.005457318554356815
   },
+  "n_trials": 0.0,
   "prediction": 0.00137732256390192,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

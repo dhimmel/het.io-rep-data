@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.264629388816645,
   "metapath_contribution": {
     "CbGaD": 0.36580267047056614,
     "CbGbCtD": 0.3153665636638918,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14623719086477566,
     "CrCbGaD": 0.0021619399799303876
   },
+  "n_trials": 0.0,
   "prediction": 0.00216394966249204,
   "status": 0,
   "training_prediction": 0.20628727802868801

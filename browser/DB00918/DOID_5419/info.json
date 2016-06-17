@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.779583875162549,
   "metapath_contribution": {
     "CbGaD": 0.7651388955718061,
     "CbGeAlD": 0.08965166827022492,
     "CbGpPWpGaD": 0.13654463877328266,
     "CrCbGaD": 0.008664797384686323
   },
+  "n_trials": 0.0,
   "prediction": 0.00226356933459111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGaD": 0.20893755148797852,
     "CbGbCtD": 0.3723300781840384,
     "CbGeAlD": 0.204344852529213,
     "CbGpPWpGaD": 0.21438751779877013
   },
+  "n_trials": 0.0,
   "prediction": 0.00170033899613354,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

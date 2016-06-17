@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00842",
   "compound_name": "Oxazepam",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.278933680104031,
   "metapath_contribution": {
     "CbGbCtD": 0.5806515717721257,
     "CbGeAlD": 0.2182077673922803,
     "CbGpPWpGaD": 0.058279575696489096,
     "CcSEcCtD": 0.14286108513910484
   },
+  "n_trials": 0.0,
   "prediction": 0.00137794091598205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

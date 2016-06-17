@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6521456436931079,
   "metapath_contribution": {
     "CbGaD": 0.09296582268136964,
     "CbGbCtD": 0.5263325250798101,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0004132201710048205,
     "CrCrCtD": 0.19275546591865933
   },
+  "n_trials": 0.0,
   "prediction": 0.00338463633975368,
   "status": 0,
   "training_prediction": 0.014796486950435

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.657997399219766,
   "metapath_contribution": {
     "CbGaD": 0.23665799520515515,
     "CbGbCtD": 0.26538533865900465,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002500015818521517,
     "CrCrCtD": 0.3085627968607632
   },
+  "n_trials": 0.0,
   "prediction": 0.00500574420315538,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.4941482444733421,
   "metapath_contribution": {
     "CbGaD": 0.2151679745020526,
     "CbGbCtD": 0.4422720492766163,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.270813051127455,
     "CrCbGaD": 0.00024253361903312884
   },
+  "n_trials": 0.0,
   "prediction": 0.0018345485034713602,
   "status": 0,
   "training_prediction": 0.00222660031925021

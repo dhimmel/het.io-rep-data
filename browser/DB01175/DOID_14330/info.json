@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.7582205945513919,
     "CbGeAlD": 0.07797519698797262,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.008155338696756203
   },
   "prediction": 0.00240763892366849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

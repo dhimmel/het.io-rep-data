@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.4603381014304289,
   "metapath_contribution": {
     "CbGbCtD": 0.6827128350566629,
     "CbGeAlD": 0.09241115836727003,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16976725178347393,
     "CrCbGaD": 0.00469892694789836
   },
+  "n_trials": 0.0,
   "prediction": 0.00148523513171915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

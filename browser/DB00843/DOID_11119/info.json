@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.9140765791412989,
     "CbGeAlD": 0.019547696215434517,
     "CbGpPWpGaD": 0.05813275770896258,
     "CrCbGaD": 0.008242966934303979
   },
+  "n_trials": 0.0,
   "prediction": 0.00288652993232443,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

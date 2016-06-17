@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.14549655676194478,
     "CbGbCtD": 0.2402236374655663,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00345957555680573,
     "CrCrCtD": 0.4550726046218528
   },
+  "n_trials": 0.0,
   "prediction": 0.0031192364486120803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

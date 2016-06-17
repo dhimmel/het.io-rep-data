@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.00520156046814044,
   "metapath_contribution": {
     "CbGaD": 0.1542524615089378,
     "CbGbCtD": 0.15238224669721576,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3909826447829694,
     "CrCbGaD": 0.0049403521492925985
   },
+  "n_trials": 0.0,
   "prediction": 0.0006100418252908411,
   "status": 0,
   "training_prediction": 0.0072487046616712

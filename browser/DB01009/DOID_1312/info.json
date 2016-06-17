@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.38361508452535803,
   "metapath_contribution": {
     "CbGaD": 0.4022796928092741,
     "CbGbCtD": 0.3972004912669709,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0767574504415999,
     "CrCbGaD": 0.002166293834038183
   },
+  "n_trials": 0.0,
   "prediction": 0.00126248482068317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

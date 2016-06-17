@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00336",
   "compound_name": "Nitrofural",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGbCtD": 0.9462134976671904,
     "CbGeAlD": 0.01000128715962941,
     "CbGpPWpGaD": 0.030567798615852487,
     "CrCbGaD": 0.013217416557327675
   },
+  "n_trials": 0.0,
   "prediction": 0.00305057872449581,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

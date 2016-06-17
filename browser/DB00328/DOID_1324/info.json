@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.842002600780234,
   "metapath_contribution": {
     "CbGaD": 0.3610911340380831,
     "CbGbCtD": 0.4185036637884937,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.09648357470120941,
     "CrCbGaD": 0.001818040919047187
   },
+  "n_trials": 0.0,
   "prediction": 0.00395492359900411,
   "status": 0,
   "training_prediction": 0.0134372253618982

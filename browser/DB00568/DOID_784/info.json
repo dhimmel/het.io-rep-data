@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.570221066319896,
   "metapath_contribution": {
     "CbGaD": 0.7724870954859165,
     "CbGeAlD": 0.0373628841631416,
     "CbGpPWpGaD": 0.181856767448718,
     "CrCbGaD": 0.008293252902223838
   },
+  "n_trials": 0.0,
   "prediction": 0.00172548335165053,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

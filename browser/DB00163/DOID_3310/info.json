@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.43433029908972703,
   "metapath_contribution": {
     "CbGdCrCtD": 0.03351198028134453,
-    "CbGeAlD": 0.31652436989058197,
-    "CbGpPWpGaD": 0.6499636498280736
+    "CbGeAlD": 0.31652436989058186,
+    "CbGpPWpGaD": 0.6499636498280735
   },
+  "n_trials": 0.0,
   "prediction": 0.00195671761488049,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

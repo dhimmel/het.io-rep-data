@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.485045513654096,
   "metapath_contribution": {
     "CbGaD": 0.13071271125716336,
     "CbGbCtD": 0.6128386808225637,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17056757070973985,
     "CrCbGaD": 0.0025327899406284255
   },
+  "n_trials": 0.0,
   "prediction": 0.00181640625300568,
   "status": 0,
   "training_prediction": 0.00296214175565835

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00467",
   "compound_name": "Enoxacin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.36605981794538395,
   "metapath_contribution": {
     "CbGbCtD": 0.9652491557730613,
     "CbGdCrCtD": 0.010989721554187407,
     "CbGpPWpGaD": 0.022874923390021465,
     "CrCbGaD": 0.0008861992827297606
   },
+  "n_trials": 0.0,
   "prediction": 0.00124941507905636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0403120936280884,
   "metapath_contribution": {
     "CbGaD": 0.5522777716945959,
     "CbGeAlD": 0.03371037348796847,
     "CbGpPWpGaD": 0.40385744262494966,
     "CrCbGaD": 0.010154412192485926
   },
+  "n_trials": 0.0,
   "prediction": 0.000693192422314182,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

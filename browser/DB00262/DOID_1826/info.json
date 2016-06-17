@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00262",
   "compound_name": "Carmustine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.401170351105332,
   "metapath_contribution": {
     "CbGbCtD": 0.3942985191750863,
     "CbGeAlD": 0.031925521725455,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.446475600907662,
     "CrCbGaD": 0.0035175292400718983
   },
+  "n_trials": 0.0,
   "prediction": 0.00264665724766693,
   "status": 0,
   "training_prediction": 0.0425349625180623

@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.900520156046814,
   "metapath_contribution": {
-    "CbGbCtD": 0.2779698068475738,
-    "CbGpPWpGaD": 0.03921433028728119,
-    "CcSEcCtD": 0.055575040354537954,
-    "CpDpCtD": 0.37327767173797366,
-    "CrCbGaD": 0.0016205559440843566,
-    "CrCrCtD": 0.252342594828549
+    "CbGbCtD": 0.27796980684757383,
+    "CbGpPWpGaD": 0.0392143302872812,
+    "CcSEcCtD": 0.05557504035453797,
+    "CpDpCtD": 0.3732776717379737,
+    "CrCbGaD": 0.0016205559440843568,
+    "CrCrCtD": 0.25234259482854904
   },
+  "n_trials": 0.0,
   "prediction": 0.009669441098039659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

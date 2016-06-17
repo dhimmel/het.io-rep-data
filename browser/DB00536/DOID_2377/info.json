@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00536",
   "compound_name": "Guanidine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.6367150674543292,
     "CbGbCtD": 0.05562428517567907,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.14436231192149435,
     "CcSEcCtD": 0.050374625433330655
   },
+  "n_trials": 0.0,
   "prediction": 0.00656733326759875,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

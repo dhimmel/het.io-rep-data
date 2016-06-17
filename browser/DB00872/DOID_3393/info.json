@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00872",
   "compound_name": "Conivaptan",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.20469751945811895,
     "CbGbCtD": 0.07907436851754619,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.23762616185042584,
     "CrCtD": 0.392652955569806
   },
+  "n_trials": 0.0,
   "prediction": 0.0365382319641783,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.36756327117864723,
     "CbGbCtD": 0.4303976233244637,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10486961709651627,
     "CrCbGaD": 0.0033105798454606855
   },
+  "n_trials": 0.0,
   "prediction": 0.0136765334450431,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

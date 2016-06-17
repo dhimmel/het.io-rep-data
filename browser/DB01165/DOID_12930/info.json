@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.507013014072352,
     "CbGbCtD": 0.3666583512891689,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10820748335236899,
     "CrCbGaD": 0.003103306053089892
   },
+  "n_trials": 0.0,
   "prediction": 0.00338346017501225,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

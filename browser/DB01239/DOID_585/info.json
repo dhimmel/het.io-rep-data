@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.756176853055917,
   "metapath_contribution": {
-    "CbGaD": 0.8877745990160384,
-    "CbGeAlD": 0.003741135641289068,
-    "CbGpPWpGaD": 0.1038409331995347,
+    "CbGaD": 0.8877745990160383,
+    "CbGeAlD": 0.0037411356412890675,
+    "CbGpPWpGaD": 0.10384093319953469,
     "CrCbGaD": 0.004643332143137907
   },
+  "n_trials": 0.0,
   "prediction": 0.00206245746373825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

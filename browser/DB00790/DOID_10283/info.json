@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.611833550065019,
   "metapath_contribution": {
     "CbGaD": 0.3832760457842171,
     "CbGbCtD": 0.2651157554608396,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.25881691632585757,
     "CrCbGaD": 0.0038972475354302626
   },
+  "n_trials": 0.0,
   "prediction": 0.00284198076306777,
   "status": 0,
   "training_prediction": 0.0198660753408728

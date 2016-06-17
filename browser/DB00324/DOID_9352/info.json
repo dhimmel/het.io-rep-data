@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00324",
   "compound_name": "Fluorometholone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.0416124837451235,
   "metapath_contribution": {
     "CbGaD": 0.5669328211164969,
     "CbGbCtD": 0.32220936169641734,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.060813163553265215,
     "CrCbGaD": 0.007447158152281063
   },
+  "n_trials": 0.0,
   "prediction": 0.000743044824297606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

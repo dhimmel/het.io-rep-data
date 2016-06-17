@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.389466840052016,
   "metapath_contribution": {
     "CbGaD": 0.6087388441735401,
     "CbGeAlD": 0.1386389061725597,
     "CbGpPWpGaD": 0.24384563315194574,
     "CrCbGaD": 0.008776616501954446
   },
+  "n_trials": 0.0,
   "prediction": 0.00119630095723353,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

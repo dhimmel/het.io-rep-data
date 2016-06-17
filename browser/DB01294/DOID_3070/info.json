@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.7495989468485107,
     "CbGeAlD": 0.11735290815643831,
     "CbGpPWpGaD": 0.1110324197915221,
     "CcSEcCtD": 0.022015725203528905
   },
+  "n_trials": 0.0,
   "prediction": 0.0037013759869114204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

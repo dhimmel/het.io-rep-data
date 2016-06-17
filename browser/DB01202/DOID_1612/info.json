@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01202",
   "compound_name": "Levetiracetam",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7197659297789342,
   "metapath_contribution": {
     "CbGaD": 0.18057082829653937,
     "CbGbCtD": 0.4868405666723969,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06614637847115748,
     "CcSEcCtD": 0.2307630226834181
   },
+  "n_trials": 0.0,
   "prediction": 0.00374928911769265,
   "status": 0,
   "training_prediction": 0.0204640017134722

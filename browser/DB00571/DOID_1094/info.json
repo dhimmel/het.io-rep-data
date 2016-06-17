@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGaD": 0.790978145808504,
     "CbGeAlD": 0.022240968254840968,
     "CbGpPWpGaD": 0.17760569904284387,
     "CrCbGaD": 0.009175186893811135
   },
+  "n_trials": 0.0,
   "prediction": 0.00168954860774236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

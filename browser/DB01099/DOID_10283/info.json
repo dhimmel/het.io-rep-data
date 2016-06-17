@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01099",
   "compound_name": "Flucytosine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.710663198959688,
   "metapath_contribution": {
     "CbGaD": 0.7424888500981224,
     "CbGdCrCtD": 0.0035166194680583073,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09358676203688904,
     "CcSEcCtD": 0.13512226055599805
   },
+  "n_trials": 0.0,
   "prediction": 0.00358016528379735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

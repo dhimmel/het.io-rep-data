@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGaD": 0.09458344760635766,
     "CbGbCtD": 0.35278044316916113,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.000840976156275327,
     "CrCrCtD": 0.4221000005113621
   },
+  "n_trials": 0.0,
   "prediction": 0.0076327201433545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

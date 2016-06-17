@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.349804941482445,
   "metapath_contribution": {
     "CbGbCtD": 0.2843828857867597,
     "CbGeAlD": 0.21172413329670464,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2054640561564824,
     "CrCbGaD": 0.0005181214793112038
   },
+  "n_trials": 0.0,
   "prediction": 0.00152003944939855,
   "status": 0,
   "training_prediction": 0.00389570197795648

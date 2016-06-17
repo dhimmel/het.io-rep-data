@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.27393575558359207,
     "CbGbCtD": 0.43995774557500583,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16011650559225338,
     "CrCbGaD": 0.00020279478524424323
   },
+  "n_trials": 0.0,
   "prediction": 0.00670148992885595,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

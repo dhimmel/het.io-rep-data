@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGaD": 0.4134432715923334,
     "CbGbCtD": 0.387742152954721,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12891628185987683,
     "CrCbGaD": 0.001177078125366918
   },
+  "n_trials": 0.0,
   "prediction": 0.00311187343484182,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

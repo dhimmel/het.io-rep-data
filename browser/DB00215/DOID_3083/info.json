@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.4302065832416117,
     "CbGbCtD": 0.3461667600144632,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17947397442495683,
     "CrCbGaD": 0.002770094518432257
   },
+  "n_trials": 1.0,
   "prediction": 0.00565872695044592,
   "status": 0,
   "training_prediction": 0.0124079066491614

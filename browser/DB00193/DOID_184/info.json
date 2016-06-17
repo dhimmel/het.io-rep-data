@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00193",
   "compound_name": "Tramadol",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.779583875162549,
   "metapath_contribution": {
     "CbGaD": 0.7152512226342944,
     "CbGbCtD": 0.005486718880373898,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2674392274121426,
     "CrCbGaD": 0.003691312890370035
   },
+  "n_trials": 0.0,
   "prediction": 0.00228532087723631,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

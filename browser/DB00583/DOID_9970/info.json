@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGaD": 0.47554220075079456,
     "CbGbCtD": 0.24078833111340991,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09130817819334719,
     "CrCbGaD": 0.0009664645816871332
   },
+  "n_trials": 0.0,
   "prediction": 0.00577830214414585,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGbCtD": 0.1665428587341602,
     "CbGeAlD": 0.008917191329569887,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.020776450303658416,
     "CtDrD": 0.7862679011365477
   },
+  "n_trials": 0.0,
   "prediction": 0.00475892972816644,
   "status": 0,
   "training_prediction": 0.0035822534325466297

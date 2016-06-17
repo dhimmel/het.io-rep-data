@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01068",
   "compound_name": "Clonazepam",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0910273081924577,
   "metapath_contribution": {
     "CbGbCtD": 0.36201368738929146,
     "CbGeAlD": 0.08810166584562519,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4990348925038357,
     "CrCbGaD": 0.004339658339001274
   },
+  "n_trials": 0.0,
   "prediction": 0.000786707062133941,
   "status": 0,
   "training_prediction": 0.00229292205329368

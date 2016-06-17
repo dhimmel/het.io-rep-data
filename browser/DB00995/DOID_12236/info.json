@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00995",
   "compound_name": "Auranofin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.23901685313938736,
     "CbGeAlD": 0.005929825683511412,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06453189578004034,
     "CtDrD": 0.6355231041844039
   },
+  "n_trials": 0.0,
   "prediction": 0.0107760096353762,
   "status": 0,
   "training_prediction": 0.0176072865237298

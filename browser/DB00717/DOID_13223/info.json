@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGaD": 0.9418761340621826,
     "CbGeAlD": 0.046612120584515096,
     "CrCbGaD": 0.011511745353302292
   },
+  "n_trials": 4.0,
   "prediction": 0.00166916311679189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

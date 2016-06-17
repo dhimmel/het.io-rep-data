@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.43888166449934995,
   "metapath_contribution": {
     "CbGbCtD": 0.22995341556116908,
     "CbGpPWpGaD": 0.012109311998361409,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0015268836177667047,
     "CtDrD": 0.6227316469850759
   },
+  "n_trials": 0.0,
   "prediction": 0.00174156054064417,
   "status": 0,
   "training_prediction": 0.0403418764503405

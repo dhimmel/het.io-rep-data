@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00674",
   "compound_name": "Galantamine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7964889466840049,
   "metapath_contribution": {
     "CbGaD": 0.44575242001756654,
     "CbGbCtD": 0.24394235164352182,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18518686889914032,
     "CrCbGaD": 0.0025223438166960353
   },
+  "n_trials": 0.0,
   "prediction": 0.00463676994868009,
   "status": 0,
   "training_prediction": 0.0252078527391581

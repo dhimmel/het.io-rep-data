@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.41222366710013003,
   "metapath_contribution": {
     "CbGaD": 0.1597498735321556,
     "CbGbCtD": 0.5089114010008211,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18857497262713457,
     "CrCbGaD": 0.000604688492718721
   },
+  "n_trials": 0.0,
   "prediction": 0.00130144553515393,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

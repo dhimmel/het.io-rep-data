@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.8155310532422704,
     "CbGeAlD": 0.05117431487495706,
     "CbGpPWpGaD": 0.12627373731982916,
     "CrCbGaD": 0.007020894562943346
   },
+  "n_trials": 0.0,
   "prediction": 0.00343901826356024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7074122236670999,
   "metapath_contribution": {
-    "CbGbCtD": 0.30354240490366363,
+    "CbGbCtD": 0.3035424049036636,
     "CbGpPWpGaD": 0.04487136840931236,
     "CcSEcCtD": 0.1394320420683153,
-    "CpDpCtD": 0.37800884973319004,
-    "CrCbGaD": 0.0008849198957804981,
-    "CrCrCtD": 0.13326041498973826
+    "CpDpCtD": 0.37800884973319,
+    "CrCbGaD": 0.000884919895780498,
+    "CrCrCtD": 0.13326041498973823
   },
+  "n_trials": 0.0,
   "prediction": 0.00368595205526154,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

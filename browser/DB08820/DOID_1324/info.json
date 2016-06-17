@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08820",
   "compound_name": "Ivacaftor",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.15098361107546465,
     "CbGbCtD": 0.22334454155293335,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.046761286078905666,
     "CiPCiCtD": 0.5598694272241098
   },
+  "n_trials": 0.0,
   "prediction": 0.012938845211435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

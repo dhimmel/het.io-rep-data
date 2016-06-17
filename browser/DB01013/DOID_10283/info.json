@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.21015495756667896,
     "CbGbCtD": 0.18996797587818962,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.19783244408924477,
     "CrCtD": 0.2977032727526675
   },
+  "n_trials": 0.0,
   "prediction": 0.00565015761061574,
   "status": 0,
   "training_prediction": 0.0236227414263151

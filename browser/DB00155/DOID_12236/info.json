@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.7009102730819251,
   "metapath_contribution": {
-    "CbGaD": 0.8148943462337297,
-    "CbGeAlD": 0.04233732372760449,
+    "CbGaD": 0.8148943462337298,
+    "CbGeAlD": 0.0423373237276045,
     "CbGpPWpGaD": 0.13456379362570756,
-    "CrCbGaD": 0.008204536412958232
+    "CrCbGaD": 0.008204536412958234
   },
+  "n_trials": 0.0,
   "prediction": 0.00214158937502031,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

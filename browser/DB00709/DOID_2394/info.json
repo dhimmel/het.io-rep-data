@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.4820961000393863,
     "CbGbCtD": 0.31663207615475936,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08993466676305698,
     "CrCbGaD": 0.0009308870294844798
   },
+  "n_trials": 0.0,
   "prediction": 0.00231616788087559,
   "status": 0,
   "training_prediction": 0.00916897349744083

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGbCtD": 0.12218351142608452,
     "CbGpPWpGaD": 0.0024500225423250864,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.1755644456953261,
     "CrCtD": 0.29497015975491275
   },
+  "n_trials": 0.0,
   "prediction": 0.0129611645875428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

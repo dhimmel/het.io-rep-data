@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7607282184655401,
   "metapath_contribution": {
     "CbGaD": 0.47852157266016127,
     "CbGbCtD": 0.2392612928978261,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15517311791880653,
     "CrCbGaD": 0.0012446844913999071
   },
+  "n_trials": 0.0,
   "prediction": 0.00296902221941581,
   "status": 0,
   "training_prediction": 0.0101115290321199

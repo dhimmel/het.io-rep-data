@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGaD": 0.24172343926033282,
     "CbGbCtD": 0.458193592830828,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09973483538740438,
     "CcSEcCtD": 0.18776662175319989
   },
+  "n_trials": 0.0,
   "prediction": 0.0043568660579443395,
   "status": 0,
   "training_prediction": 0.014788554474506001

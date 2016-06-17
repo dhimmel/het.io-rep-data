@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00967",
   "compound_name": "Desloratadine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7139141742522759,
   "metapath_contribution": {
     "CbGaD": 0.2700264995936125,
     "CbGbCtD": 0.37416407187057754,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0021004308184961393,
     "CrCrCtD": 0.19567105153889058
   },
+  "n_trials": 0.0,
   "prediction": 0.00597814870321881,
   "status": 0,
   "training_prediction": 0.0286807159962724

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.404421326397919,
   "metapath_contribution": {
     "CbGaD": 0.6364061683593195,
     "CbGbCtD": 0.12116056997885023,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16449035855752236,
     "CrCbGaD": 0.006942834612432664
   },
+  "n_trials": 0.0,
   "prediction": 0.00163207491640867,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

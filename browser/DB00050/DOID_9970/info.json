@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00050",
   "compound_name": "Cetrorelix",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.32444733420026,
   "metapath_contribution": {
     "CbGeAlD": 0.29179554887799714,
     "CbGpPWpGaD": 0.542928527631832,
     "CcSEcCtD": 0.1445713189486623,
     "CrCbGaD": 0.02070460454150866
   },
+  "n_trials": 1.0,
   "prediction": 0.0017611555896342,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

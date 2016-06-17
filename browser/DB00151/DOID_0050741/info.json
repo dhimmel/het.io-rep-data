@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00151",
   "compound_name": "L-Cysteine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.6742522756827048,
   "metapath_contribution": {
     "CbGaD": 0.7158462094728766,
     "CbGeAlD": 0.12433105060543065,
     "CbGpPWpGaD": 0.1556609538230545,
     "CrCbGaD": 0.0041617860986380905
   },
+  "n_trials": 0.0,
   "prediction": 0.00285811073802489,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

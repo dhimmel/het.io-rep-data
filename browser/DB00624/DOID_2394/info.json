@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.232769830949285,
   "metapath_contribution": {
     "CbGaD": 0.33087737512216425,
     "CbGbCtD": 0.4417506924292167,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11248587118480419,
     "CrCbGaD": 0.0046790421988512675
   },
+  "n_trials": 0.0,
   "prediction": 0.00098383232420387,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

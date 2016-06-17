@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.15472715740732068,
     "CbGbCtD": 0.26332720772897195,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0009501046891296552,
     "CtDrD": 0.42589493569327114
   },
+  "n_trials": 1.0,
   "prediction": 0.0096361532545104,
   "status": 0,
   "training_prediction": 0.0412535127449367

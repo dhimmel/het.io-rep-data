@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.064369310793238,
   "metapath_contribution": {
     "CbGaD": 0.5535531425484523,
     "CbGbCtD": 0.23401132738565691,
     "CcSEcCtD": 0.20492502179052,
     "CrCbGaD": 0.007510508275370836
   },
+  "n_trials": 5.0,
   "prediction": 0.0008889089893857061,
   "status": 0,
   "training_prediction": 0.0230652045218715

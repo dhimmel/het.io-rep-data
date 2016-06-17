@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.485695708712614,
   "metapath_contribution": {
     "CbGbCtD": 0.4085303974055529,
     "CbGeAlD": 0.28855329237167054,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2397970586986842,
     "CrCbGaD": 0.005859579968993006
   },
+  "n_trials": 0.0,
   "prediction": 0.00152598328441733,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

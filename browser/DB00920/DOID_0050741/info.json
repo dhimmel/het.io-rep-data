@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.40702210663199,
   "metapath_contribution": {
     "CbGbCtD": 0.2532089966389795,
     "CbGeAlD": 0.20141970186536653,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2539780980641808,
     "CrCbGaD": 0.006956765419860107
   },
+  "n_trials": 0.0,
   "prediction": 0.0018517987730688398,
   "status": 0,
   "training_prediction": 0.00224752875354776

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00647",
   "compound_name": "Dextropropoxyphene",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.323146944083225,
   "metapath_contribution": {
     "CbGaD": 0.3165195350218189,
     "CbGbCtD": 0.45549666781108855,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15787353953080127,
     "CrCbGaD": 0.005094244820948537
   },
+  "n_trials": 0.0,
   "prediction": 0.00135773213358666,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

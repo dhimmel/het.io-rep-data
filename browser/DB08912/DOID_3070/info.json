@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08912",
   "compound_name": "Dabrafenib",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.7422116235398594,
     "CbGeAlD": 0.04738724556488783,
     "CbGpPWpGaD": 0.13915197549895628,
     "CcSEcCtD": 0.07124915539629657
   },
+  "n_trials": 1.0,
   "prediction": 0.00323521208516227,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

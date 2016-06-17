@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00494",
   "compound_name": "Entacapone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.738621586475943,
   "metapath_contribution": {
     "CbGaD": 0.5658447039492995,
     "CbGbCtD": 0.08358312418060537,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.24173798326241083,
     "CrCbGaD": 0.0038912925975707704
   },
+  "n_trials": 0.0,
   "prediction": 0.0040028314273092705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.0110533159947984,
   "metapath_contribution": {
     "CbGbCtD": 0.2655258059521588,
     "CbGdCrCtD": 0.014873325149878982,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.5123695817919288,
     "CrCbGaD": 0.0015691079054434552
   },
+  "n_trials": 0.0,
   "prediction": 0.000429842807694362,
   "status": 0,
   "training_prediction": 0.000521859223784732

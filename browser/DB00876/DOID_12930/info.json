@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00876",
   "compound_name": "Eprosartan",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.589420626062761,
     "CbGbCtD": 0.29693232887575144,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06838348101479441,
     "CrCbGaD": 0.0030129842144693466
   },
+  "n_trials": 0.0,
   "prediction": 0.00538613493883578,
   "status": 0,
   "training_prediction": 0.00531354286305845

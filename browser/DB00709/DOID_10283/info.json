@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.364109232769831,
   "metapath_contribution": {
     "CbGaD": 0.30321499299766397,
     "CbGbCtD": 0.4122456307531463,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1303468406421908,
     "CrCbGaD": 0.002849508675608958
   },
+  "n_trials": 0.0,
   "prediction": 0.00178402151888189,
   "status": 0,
   "training_prediction": 0.012550469937271

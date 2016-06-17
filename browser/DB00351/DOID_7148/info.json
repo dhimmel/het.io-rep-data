@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.11961431114691316,
     "CbGbCtD": 0.1951907151302837,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2241163971012178,
     "CrCtD": 0.24529694758953627
   },
+  "n_trials": 0.0,
   "prediction": 0.0127824103601977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

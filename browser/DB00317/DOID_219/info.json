@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.2550088548281892,
     "CbGbCtD": 0.1493741146796977,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0032720225505068297,
     "CtDrD": 0.4497404557919439
   },
+  "n_trials": 0.0,
   "prediction": 0.00491973422288692,
   "status": 0,
   "training_prediction": 0.00700989105989099

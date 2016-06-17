@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGbCtD": 0.2306457961849752,
     "CbGdCrCtD": 0.0015988431207081225,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06768993835648136,
     "CiPCiCtD": 0.6703167914971658
   },
+  "n_trials": 0.0,
   "prediction": 0.0144089338401385,
   "status": 0,
   "training_prediction": 0.0657106405392573

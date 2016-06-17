@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00193",
   "compound_name": "Tramadol",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.7750836632972513,
     "CbGeAlD": 0.09444039518614995,
     "CbGpPWpGaD": 0.12347433938400172,
     "CrCbGaD": 0.007001602132597104
   },
+  "n_trials": 0.0,
   "prediction": 0.00245305634777043,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

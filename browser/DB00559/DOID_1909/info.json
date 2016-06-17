@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00559",
   "compound_name": "Bosentan",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.7315795686422755,
     "CbGbCtD": 0.048496814301322015,
     "CbGpPWpGaD": 0.09616390306469338,
     "CcSEcCtD": 0.12375971399170914
   },
+  "n_trials": 1.0,
   "prediction": 0.0051831860858132205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

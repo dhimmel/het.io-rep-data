@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGbCtD": 0.3612811516303259,
     "CbGdCrCtD": 0.002700086361531998,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11586731081555078,
     "CpDpCtD": 0.5071524815583588
   },
+  "n_trials": 0.0,
   "prediction": 0.0028992304337692397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.540312093628088,
   "metapath_contribution": {
     "CbGaD": 0.6504068417794098,
     "CbGbCtD": 0.30456269063537317,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03373069016271377,
     "CrCbGaD": 0.009563321809275275
   },
+  "n_trials": 0.0,
   "prediction": 0.0016906727623451,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

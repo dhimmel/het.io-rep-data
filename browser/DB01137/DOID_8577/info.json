@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.570221066319896,
   "metapath_contribution": {
     "CbGaD": 0.49672550941732163,
     "CbGbCtD": 0.32387204627685423,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14593244638313124,
     "CrCbGaD": 0.0036874907285712522
   },
+  "n_trials": 0.0,
   "prediction": 0.00230297182792424,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

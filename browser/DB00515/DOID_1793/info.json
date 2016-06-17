@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.07460705645471832,
     "CbGbCtD": 0.2871851769587039,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08765421051412896,
     "CtDrD": 0.4677017177311553
   },
+  "n_trials": 36.0,
   "prediction": 0.0150477240922219,
   "status": 0,
   "training_prediction": 0.156631089651324

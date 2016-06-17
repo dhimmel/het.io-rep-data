@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8237971391417429,
   "metapath_contribution": {
     "CbGaD": 0.26236998728929206,
     "CbGbCtD": 0.33715553849395224,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0019315254109486075,
     "CrCrCtD": 0.19237665893857755
   },
+  "n_trials": 0.0,
   "prediction": 0.0110274495576352,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

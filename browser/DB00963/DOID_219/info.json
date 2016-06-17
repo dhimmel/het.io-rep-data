@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.332249674902471,
   "metapath_contribution": {
     "CbGaD": 0.9643464060530881,
     "CbGeAlD": 0.024905728331035226,
     "CcSEcCtD": 1.2611386666888473e-05,
     "CrCbGaD": 0.010735254229209738
   },
+  "n_trials": 0.0,
   "prediction": 0.00121447172913675,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.7886866059817951,
   "metapath_contribution": {
     "CbGbCtD": 0.7199331795460433,
     "CbGeAlD": 0.08076671294608104,
     "CbGpPWpGaD": 0.06318547807338115,
     "CcSEcCtD": 0.13611462943449448
   },
+  "n_trials": 1.0,
   "prediction": 0.00263253041071266,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

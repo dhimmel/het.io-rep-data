@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00939",
   "compound_name": "Meclofenamic acid",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
     "CbGaD": 0.3337986969315454,
     "CbGbCtD": 0.44850836038702196,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.10306070067214622,
     "CrCbGaD": 0.005839931063154533
   },
+  "n_trials": 0.0,
   "prediction": 0.00224536023961865,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01051",
   "compound_name": "Novobiocin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.5504138095263861,
     "CbGbCtD": 0.3726214104213934,
     "CbGpPWpGaD": 0.07696478005222042
   },
+  "n_trials": 0.0,
   "prediction": 0.0141899109528675,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00973",
   "compound_name": "Ezetimibe",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.3887103386584644,
     "CbGbCtD": 0.3545270286520849,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0830315496592494,
     "CcSEcCtD": 0.096859803640212
   },
+  "n_trials": 0.0,
   "prediction": 0.00562626646884471,
   "status": 0,
   "training_prediction": 0.00922338566831148

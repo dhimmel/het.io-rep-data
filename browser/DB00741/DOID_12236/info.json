@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.21282670438917367,
     "CbGbCtD": 0.1879418361906357,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0007506986958049914,
     "CtDrD": 0.5070968768824408
   },
+  "n_trials": 0.0,
   "prediction": 0.00269292443835186,
   "status": 0,
   "training_prediction": 0.0133491600467045

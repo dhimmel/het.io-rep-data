@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.40620575530882286,
     "CbGbCtD": 0.49998185367309467,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06887218086882563,
     "CrCbGaD": 0.0037944574504684106
   },
+  "n_trials": 0.0,
   "prediction": 0.00733001941579223,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

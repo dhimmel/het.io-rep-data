@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.637841352405722,
   "metapath_contribution": {
     "CbGaD": 0.2979514238901407,
     "CbGbCtD": 0.40486814979716346,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1607974390603117,
     "CrCbGaD": 0.0023035004672334863
   },
+  "n_trials": 0.0,
   "prediction": 0.0054987198398126205,
   "status": 0,
   "training_prediction": 0.156690472719007

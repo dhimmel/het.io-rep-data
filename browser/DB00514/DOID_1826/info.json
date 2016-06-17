@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8862158647594279,
   "metapath_contribution": {
     "CbGaD": 0.2739562269947397,
     "CbGbCtD": 0.29401698398090326,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.27837149470352385,
     "CrCbGaD": 0.0022329107222339504
   },
+  "n_trials": 0.0,
   "prediction": 0.0152241747311286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

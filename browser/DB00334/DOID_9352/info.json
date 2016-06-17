@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.676853055916775,
   "metapath_contribution": {
     "CbGaD": 0.33561312286165895,
     "CbGbCtD": 0.5167899844144858,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11421282246409147,
     "CrCbGaD": 0.0016053863875957273
   },
+  "n_trials": 5.0,
   "prediction": 0.0036269170813106296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

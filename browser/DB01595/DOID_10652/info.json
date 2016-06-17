@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.39596879063719104,
   "metapath_contribution": {
-    "CbGbCtD": 0.09256725075954308,
-    "CbGeAlD": 0.20974875087669648,
+    "CbGbCtD": 0.0925672507595431,
+    "CbGeAlD": 0.2097487508766965,
     "CbGpPWpGaD": 0.2559472388000353,
-    "CcSEcCtD": 0.4415459508105849,
-    "CrCbGaD": 0.00019080875314010962
+    "CcSEcCtD": 0.441545950810585,
+    "CrCbGaD": 0.00019080875314010965
   },
+  "n_trials": 0.0,
   "prediction": 0.00154712434316698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

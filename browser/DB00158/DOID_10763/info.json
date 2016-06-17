@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.492197659297789,
   "metapath_contribution": {
-    "CbGaD": 0.226239934307405,
-    "CbGbCtD": 0.44624967351830186,
-    "CbGdCrCtD": 0.0024015654701785203,
-    "CbGeAlD": 0.06297319403458965,
-    "CbGpPWpGaD": 0.11975408063004583,
-    "CcSEcCtD": 0.1411355472139989,
-    "CrCbGaD": 0.0012460048254802926
+    "CbGaD": 0.22623993430740497,
+    "CbGbCtD": 0.44624967351830175,
+    "CbGdCrCtD": 0.00240156547017852,
+    "CbGeAlD": 0.06297319403458963,
+    "CbGpPWpGaD": 0.11975408063004582,
+    "CcSEcCtD": 0.14113554721399887,
+    "CrCbGaD": 0.0012460048254802924
   },
+  "n_trials": 7.0,
   "prediction": 0.0038418539981168705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

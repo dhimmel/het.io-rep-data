@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.236091231123753,
     "CbGbCtD": 0.3401017905532979,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0029747329474518313,
     "CrCrCtD": 0.26165545785292915
   },
+  "n_trials": 0.0,
   "prediction": 0.00901425264517383,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.45594475025727366,
     "CbGeAlD": 0.02747793679703806,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003394428746831055,
     "CrCrCtD": 0.36430837190880583
   },
+  "n_trials": 0.0,
   "prediction": 0.00225928880281618,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

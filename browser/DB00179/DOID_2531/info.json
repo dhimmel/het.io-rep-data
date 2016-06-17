@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.55331599479844,
   "metapath_contribution": {
     "CbGaD": 0.4872824341021269,
     "CbGbCtD": 0.03646401794025038,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.004179424429062267,
     "CrCrCtD": 0.25803387372555464
   },
+  "n_trials": 1.0,
   "prediction": 0.00254121328305588,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

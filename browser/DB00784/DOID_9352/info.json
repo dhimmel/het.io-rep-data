@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.42327698309492895,
   "metapath_contribution": {
     "CbGaD": 0.16684688152358002,
     "CbGbCtD": 0.5365454534492097,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18516364076260272,
     "CrCbGaD": 0.0035902102887608684
   },
+  "n_trials": 0.0,
   "prediction": 0.00220843086713203,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

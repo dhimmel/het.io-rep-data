@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06698",
   "compound_name": "Betahistine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGbCtD": 0.8553954545543926,
     "CbGeAlD": 0.019889133628100086,
     "CbGpPWpGaD": 0.024782291426190605,
     "CcSEcCtD": 0.09993312039131665
   },
+  "n_trials": 0.0,
   "prediction": 0.00652480772331791,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

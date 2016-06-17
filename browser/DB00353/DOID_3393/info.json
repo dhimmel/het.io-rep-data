@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00353",
   "compound_name": "Methylergometrine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.626788036410923,
   "metapath_contribution": {
     "CbGaD": 0.15802305383959617,
     "CbGbCtD": 0.14740819159736057,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.45217727758523135,
     "CrCbGaD": 0.002305631811991371
   },
+  "n_trials": 0.0,
   "prediction": 0.00302384197347282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

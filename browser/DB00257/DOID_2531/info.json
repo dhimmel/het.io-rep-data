@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.5890767230169051,
   "metapath_contribution": {
     "CbGaD": 0.27456739964072674,
     "CbGbCtD": 0.5083796387589143,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11027819610035469,
     "CrCbGaD": 0.0005634267117363864
   },
+  "n_trials": 0.0,
   "prediction": 0.00267887219886314,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

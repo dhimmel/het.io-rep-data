@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06702",
   "compound_name": "Fesoterodine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8198959687906371,
   "metapath_contribution": {
     "CbGaD": 0.23562433273707378,
     "CbGbCtD": 0.5080196174237138,
     "CbGpPWpGaD": 0.07587070682499109,
     "CcSEcCtD": 0.1804853430142213
   },
+  "n_trials": 0.0,
   "prediction": 0.00365471480168561,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

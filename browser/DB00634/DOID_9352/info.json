@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00634",
   "compound_name": "Sulfacetamide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
-    "CcSEcCtD": 0.03599741657371042,
-    "CrCbGaD": 0.002482850945234939,
-    "CrCrCtD": 0.3818148531820493,
-    "CrCtD": 0.5797048792990053
+    "CcSEcCtD": 0.035997416573710424,
+    "CrCbGaD": 0.0024828509452349394,
+    "CrCrCtD": 0.38181485318204933,
+    "CrCtD": 0.5797048792990054
   },
+  "n_trials": 0.0,
   "prediction": 0.007883005823687441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

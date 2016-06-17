@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.22556828190032763,
     "CbGbCtD": 0.08078582182184571,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.001725033890492124,
     "CtDrD": 0.5700673825752522
   },
+  "n_trials": 0.0,
   "prediction": 0.008898914352970709,
   "status": 0,
   "training_prediction": 0.0144474266958562

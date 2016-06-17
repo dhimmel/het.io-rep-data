@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.41027308192457707,
   "metapath_contribution": {
     "CbGaD": 0.7482760131508006,
     "CbGeAlD": 0.03929546604140257,
     "CbGpPWpGaD": 0.20195520645684162,
     "CrCbGaD": 0.010473314350955332
   },
+  "n_trials": 0.0,
   "prediction": 0.00122783244241805,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

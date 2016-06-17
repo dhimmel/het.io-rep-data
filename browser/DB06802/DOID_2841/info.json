@@ -1,18 +1,20 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.5942782834850461,
   "metapath_contribution": {
-    "CbGaD": 0.2318839824471854,
-    "CbGbCtD": 0.29075608874285674,
-    "CbGdCrCtD": 0.003369528771403279,
-    "CbGpPWpGaD": 0.04404482621502658,
-    "CcSEcCtD": 0.1256606601323985,
-    "CrCbGaD": 0.002733644767012448,
-    "CrCrCtD": 0.3015512689241169
+    "CbGaD": 0.23188398244718547,
+    "CbGbCtD": 0.29075608874285686,
+    "CbGdCrCtD": 0.0033695287714032803,
+    "CbGpPWpGaD": 0.044044826215026596,
+    "CcSEcCtD": 0.12566066013239852,
+    "CrCbGaD": 0.0027336447670124487,
+    "CrCrCtD": 0.301551268924117
   },
+  "n_trials": 0.0,
   "prediction": 0.00292447559213258,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7594278283485051,
   "metapath_contribution": {
     "CbGaD": 0.5220262726349097,
     "CbGbCtD": 0.22457392882854962,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.17771637369365836,
     "CrCbGaD": 0.003557272628343855
   },
+  "n_trials": 0.0,
   "prediction": 0.00421475435389333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

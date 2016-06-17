@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.11225202648243575,
     "CbGbCtD": 0.16533325065846766,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.18843030051286172,
     "CrCtD": 0.406686761309946
   },
+  "n_trials": 3.0,
   "prediction": 0.0107621295899406,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

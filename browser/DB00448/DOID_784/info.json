@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.774382314694408,
   "metapath_contribution": {
     "CbGaD": 0.7575263757686115,
     "CbGeAlD": 0.07609083951138244,
     "CbGpPWpGaD": 0.15905616063179762,
     "CrCbGaD": 0.007326624088208413
   },
+  "n_trials": 0.0,
   "prediction": 0.00227809456246537,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

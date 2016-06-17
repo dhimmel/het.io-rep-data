@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.45123537061118296,
   "metapath_contribution": {
     "CbGaD": 0.4426953452942463,
     "CbGeAlD": 0.20718392364310323,
     "CbGpPWpGaD": 0.3404388373925885,
     "CrCbGaD": 0.009681893670062038
   },
+  "n_trials": 0.0,
   "prediction": 0.0014575781307306,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

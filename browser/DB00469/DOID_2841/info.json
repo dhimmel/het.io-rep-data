@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.801690507152146,
   "metapath_contribution": {
     "CbGaD": 0.2747108269592181,
     "CbGbCtD": 0.4811439911943939,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1842655053092674,
     "CrCbGaD": 0.002605137108718758
   },
+  "n_trials": 0.0,
   "prediction": 0.00491184371776092,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGaD": 0.312892929506277,
     "CbGbCtD": 0.397070598386766,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09864543486046239,
     "CcSEcCtD": 0.13417726255795304
   },
+  "n_trials": 4.0,
   "prediction": 0.00649424157756983,
   "status": 0,
   "training_prediction": 0.0938152383255039

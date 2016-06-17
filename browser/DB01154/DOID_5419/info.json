@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01154",
   "compound_name": "Thiamylal",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGaD": 0.6382646134705529,
     "CbGeAlD": 0.10261296612905803,
     "CbGpPWpGaD": 0.24512192764329496,
     "CrCbGaD": 0.014000492757094076
   },
+  "n_trials": 0.0,
   "prediction": 0.00227422671532538,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

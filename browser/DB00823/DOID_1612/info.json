@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00823",
   "compound_name": "Ethynodiol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.637841352405722,
   "metapath_contribution": {
     "CbGaD": 0.31453554778986914,
     "CbGbCtD": 0.3566504288179719,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003399120030513167,
     "CrCrCtD": 0.2408806326333025
   },
+  "n_trials": 0.0,
   "prediction": 0.00314779757500705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

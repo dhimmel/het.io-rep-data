@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.892717815344603,
   "metapath_contribution": {
     "CbGaD": 0.31978864100187115,
     "CbGbCtD": 0.2532457693422377,
@@ -13,6 +15,7 @@
     "CpDpCtD": 0.24677754225913795,
     "CrCbGaD": 0.0010563648831941608
   },
+  "n_trials": 1.0,
   "prediction": 0.008666496562463141,
   "status": 0,
   "training_prediction": 0.0563670340135273

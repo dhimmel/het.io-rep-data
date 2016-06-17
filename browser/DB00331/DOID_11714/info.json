@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGeAlD": 0.08973676659063039,
     "CbGpPWpGaD": 0.03392710438313536,
     "CcSEcCtD": 0.01943908087680794,
     "CtDrD": 0.8568970481494262
   },
+  "n_trials": 26.0,
   "prediction": 0.00944726210068998,
   "status": 0,
   "training_prediction": 0.00967020438235883

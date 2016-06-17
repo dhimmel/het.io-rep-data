@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.8116370255707832,
     "CbGeAlD": 0.05342902170370534,
     "CbGpPWpGaD": 0.12635484522704704,
     "CrCbGaD": 0.00857910749846441
   },
+  "n_trials": 0.0,
   "prediction": 0.0027161218371826103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

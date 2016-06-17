@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.4733420026007801,
   "metapath_contribution": {
     "CbGaD": 0.4976367706797826,
     "CbGbCtD": 0.41838362745993124,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0009714977785446059,
     "CrCbGaD": 0.004296588430423826
   },
+  "n_trials": 0.0,
   "prediction": 0.00223409335990724,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

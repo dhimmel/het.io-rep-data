@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
     "CbGaD": 0.8597095464082848,
     "CbGpPWpGaD": 0.02942757941690448,
     "CcSEcCtD": 0.10105725222923681,
     "CrCbGaD": 0.009805621945574002
   },
+  "n_trials": 0.0,
   "prediction": 0.00156387964720945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

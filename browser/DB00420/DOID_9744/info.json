@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.302990897269181,
   "metapath_contribution": {
     "CbGaD": 0.8142927327969374,
     "CbGeAlD": 0.010021668893843743,
     "CbGpPWpGaD": 0.1660383337501953,
     "CrCbGaD": 0.009647264559023504
   },
+  "n_trials": 0.0,
   "prediction": 0.0011178870955153599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

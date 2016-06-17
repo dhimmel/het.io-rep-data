@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00599",
   "compound_name": "Thiopental",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.20139936335735734,
     "CbGbCtD": 0.25516855831287366,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.20029927744766088,
     "CrCtD": 0.27220485919763127
   },
+  "n_trials": 1.0,
   "prediction": 0.0986791967499402,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

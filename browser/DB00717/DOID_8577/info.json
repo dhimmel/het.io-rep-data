@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.15333236291811544,
     "CbGbCtD": 0.22089345357893794,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.24845534492304505,
     "CrCtD": 0.325828155131042
   },
+  "n_trials": 0.0,
   "prediction": 0.00664406564447758,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

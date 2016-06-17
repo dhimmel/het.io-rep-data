@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.213235294117647,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.14109232769830898,
   "metapath_contribution": {
     "CbGbCtD": 0.48453160015373287,
     "CbGeAlD": 0.15634186914445736,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11020430174117327,
     "CrCbGaD": 0.016631074914562116
   },
+  "n_trials": 0.0,
   "prediction": 0.0008106797884059769,
   "status": 0,
   "training_prediction": 0.000995242537875916

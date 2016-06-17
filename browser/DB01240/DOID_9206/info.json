@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.8725617685305591,
   "metapath_contribution": {
-    "CbGbCtD": 0.03343517150660376,
-    "CbGeAlD": 0.013013103184117384,
-    "CbGpPWpGaD": 0.057619728372913244,
-    "CcSEcCtD": 0.08714408280922921,
-    "CpDpCtD": 0.8087879141271367
+    "CbGbCtD": 0.03343517150660375,
+    "CbGeAlD": 0.013013103184117381,
+    "CbGpPWpGaD": 0.05761972837291323,
+    "CcSEcCtD": 0.0871440828092292,
+    "CpDpCtD": 0.8087879141271365
   },
+  "n_trials": 0.0,
   "prediction": 0.00286719624093391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

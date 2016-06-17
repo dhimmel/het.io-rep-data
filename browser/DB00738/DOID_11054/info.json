@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.5684993641519972,
     "CbGbCtD": 0.2124625707505055,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11533643298588504,
     "CrCbGaD": 0.0015351425710441223
   },
+  "n_trials": 0.0,
   "prediction": 0.0068559905672875105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

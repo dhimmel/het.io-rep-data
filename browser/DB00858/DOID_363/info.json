@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00858",
   "compound_name": "Drostanolone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.1599836489253529,
     "CbGbCtD": 0.2233392766409934,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2373199246591094,
     "CrCtD": 0.348613088809768
   },
+  "n_trials": 0.0,
   "prediction": 0.0271739876770918,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

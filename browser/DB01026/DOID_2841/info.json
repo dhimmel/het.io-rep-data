@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.48179453836150804,
   "metapath_contribution": {
     "CbGbCtD": 0.6919076059957434,
     "CbGeAlD": 0.030991967697130744,
     "CbGpPWpGaD": 0.09908355521332503,
     "CcSEcCtD": 0.17801687109380082
   },
+  "n_trials": 0.0,
   "prediction": 0.0023927763472533802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGbCtD": 0.3853687228069274,
     "CbGeAlD": 0.20902137350774988,
     "CbGpPWpGaD": 0.09110725466175808,
     "CcSEcCtD": 0.3145026490235646
   },
+  "n_trials": 0.0,
   "prediction": 0.00248534162759533,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

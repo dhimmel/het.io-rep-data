@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.038507815588487516,
     "CbGbCtD": 0.27991213812808474,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21700006150295564,
     "CrCtD": 0.35080836776059005
   },
+  "n_trials": 0.0,
   "prediction": 0.0237134644397742,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

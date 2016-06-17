@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01400",
   "compound_name": "Neostigmine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.798439531859558,
   "metapath_contribution": {
     "CbGaD": 0.5926962068760966,
     "CbGbCtD": 0.23683473036068822,
     "CbGeAlD": 0.039077424707226686,
     "CcSEcCtD": 0.13139163805598855
   },
+  "n_trials": 0.0,
   "prediction": 0.00230306871328316,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

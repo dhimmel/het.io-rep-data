@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06695",
   "compound_name": "Dabigatran etexilate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGbCtD": 0.6452919312339258,
     "CbGeAlD": 0.078232773394872,
     "CbGpPWpGaD": 0.02091865131271627,
     "CcSEcCtD": 0.2555566440584859
   },
+  "n_trials": 0.0,
   "prediction": 0.00377735879895944,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

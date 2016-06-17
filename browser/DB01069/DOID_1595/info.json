@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.49479843953186,
   "metapath_contribution": {
     "CbGaD": 0.754519432855245,
     "CbGeAlD": 0.1036064394815508,
     "CbGpPWpGaD": 0.13117285540747153,
     "CrCbGaD": 0.010701272255732664
   },
+  "n_trials": 1.0,
   "prediction": 0.00149451994930286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

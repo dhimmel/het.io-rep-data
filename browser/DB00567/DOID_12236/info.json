@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.37256176853055895,
   "metapath_contribution": {
     "CbGaD": 0.6177306083598181,
     "CbGbCtD": 0.0933794329638895,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.27964717451536286,
     "CrCbGaD": 0.0023161780465743584
   },
+  "n_trials": 0.0,
   "prediction": 0.0013444730014442901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

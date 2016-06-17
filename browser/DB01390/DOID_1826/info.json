@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01390",
   "compound_name": "Sodium bicarbonate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.6456150137936995,
     "CbGeAlD": 0.06972140355627836,
     "CbGpPWpGaD": 0.14151144228537993,
     "CcSEcCtD": 0.14315214036464222
   },
+  "n_trials": 0.0,
   "prediction": 0.00751733253836705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGbCtD": 0.13523773462887034,
     "CcSEcCtD": 0.02912102710150419,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.1962504109819011,
     "CrCtD": 0.2718751830571058
   },
+  "n_trials": 0.0,
   "prediction": 0.0398428883999533,
   "status": 0,
   "training_prediction": 0.0963344543244907

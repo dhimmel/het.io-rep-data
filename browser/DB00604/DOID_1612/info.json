@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7899869960988299,
   "metapath_contribution": {
     "CbGaD": 0.13639468380746095,
     "CbGbCtD": 0.3745847088402277,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0026640007390320297,
     "CrCrCtD": 0.41254097511460747
   },
+  "n_trials": 0.0,
   "prediction": 0.00459195268307933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

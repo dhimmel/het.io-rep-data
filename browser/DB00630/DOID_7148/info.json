@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00630",
   "compound_name": "Alendronate",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.26527958387516304,
   "metapath_contribution": {
     "CbGeAlD": 0.07973102751149835,
     "CbGpPWpGaD": 0.3934553673503541,
     "CcSEcCtD": 0.5229747194424208,
     "CrCbGaD": 0.0038388856957267937
   },
+  "n_trials": 2.0,
   "prediction": 0.00123053744905688,
   "status": 0,
   "training_prediction": 0.00666167465124379

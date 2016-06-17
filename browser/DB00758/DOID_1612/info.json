@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00758",
   "compound_name": "Clopidogrel",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.18811122952719905,
     "CbGbCtD": 0.5413711381822862,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17715743563919856,
     "CrCbGaD": 0.0029226320341387323
   },
+  "n_trials": 1.0,
   "prediction": 0.0050879472358056795,
   "status": 0,
   "training_prediction": 0.0276051698304648

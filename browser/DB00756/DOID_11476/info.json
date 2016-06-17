@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00756",
   "compound_name": "Hexachlorophene",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.4162809707964118,
     "CbGbCtD": 0.5332977043871249,
     "CbGpPWpGaD": 0.03156514910537691,
     "CcSEcCtD": 0.01885617571108641
   },
+  "n_trials": 0.0,
   "prediction": 0.0106505075437157,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

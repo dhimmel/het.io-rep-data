@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8433029908972691,
   "metapath_contribution": {
     "CbGaD": 0.7900375368053322,
     "CbGeAlD": 0.0633138919659875,
     "CbGpPWpGaD": 0.14664857122868044
   },
+  "n_trials": 1.0,
   "prediction": 0.0027253211478443697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

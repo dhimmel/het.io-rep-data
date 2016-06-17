@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.622886866059818,
   "metapath_contribution": {
     "CbGaD": 0.7004572802068512,
     "CbGeAlD": 0.05510591456524243,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04480786565610427,
     "CrCbGaD": 0.00402877509178371
   },
+  "n_trials": 0.0,
   "prediction": 0.00165526664251756,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

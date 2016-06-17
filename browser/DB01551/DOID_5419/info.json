@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01551",
   "compound_name": "Dihydrocodeine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.266579973992198,
   "metapath_contribution": {
     "CbGaD": 0.8695604966257393,
     "CbGeAlD": 0.06283927645931281,
     "CbGpPWpGaD": 0.05102882079903936,
     "CrCbGaD": 0.016571406115908485
   },
+  "n_trials": 0.0,
   "prediction": 0.00109940422363572,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

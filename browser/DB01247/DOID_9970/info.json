@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01247",
   "compound_name": "Isocarboxazid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGbCtD": 0.21786377683054398,
     "CbGeAlD": 0.005276544886261333,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21736278696985217,
     "CrCtD": 0.31349970564929663
   },
+  "n_trials": 0.0,
   "prediction": 0.0591076450686836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

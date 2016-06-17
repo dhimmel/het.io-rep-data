@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.559167750325098,
   "metapath_contribution": {
     "CbGaD": 0.8026852404688525,
     "CbGbCtD": 0.06542831614653659,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0824808604789716,
     "CrCbGaD": 0.004500702159857333
   },
+  "n_trials": 0.0,
   "prediction": 0.0014980420486895099,
   "status": 0,
   "training_prediction": 0.0011048304075023199

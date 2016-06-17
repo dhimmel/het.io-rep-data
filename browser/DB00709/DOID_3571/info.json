@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGbCtD": 0.22957090119375304,
     "CbGdCrCtD": 0.001133725422345274,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.052532374205871486,
     "CtDrD": 0.612536485873794
   },
+  "n_trials": 6.0,
   "prediction": 0.0028490304919543898,
   "status": 0,
   "training_prediction": 0.00467889568036821

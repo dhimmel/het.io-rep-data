@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00555",
   "compound_name": "Lamotrigine",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.402470741222367,
   "metapath_contribution": {
     "CbGaD": 0.5833927300505182,
     "CbGeAlD": 0.215950116454619,
     "CbGpPWpGaD": 0.19374650104577176,
     "CrCbGaD": 0.006910652449091116
   },
+  "n_trials": 0.0,
   "prediction": 0.00123382490949256,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

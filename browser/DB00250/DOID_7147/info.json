@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGbCtD": 0.21698380924335556,
     "CbGdCrCtD": 0.0016463275108632581,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.2801996306108374,
     "CtDrD": 0.48876471234469254
   },
+  "n_trials": 0.0,
   "prediction": 0.00638298842420928,
   "status": 0,
   "training_prediction": 0.0286603394482415

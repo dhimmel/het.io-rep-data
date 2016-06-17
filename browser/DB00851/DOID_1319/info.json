@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00851",
   "compound_name": "Dacarbazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.033845398399917494,
     "CbGeAlD": 0.0067073445951191645,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.6627182872719889,
     "CtDrD": 0.27467928269379893
   },
+  "n_trials": 43.0,
   "prediction": 0.0274188404388605,
   "status": 0,
   "training_prediction": 0.18916931149098898

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00308",
   "compound_name": "Ibutilide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.31755411708423714,
     "CbGbCtD": 0.3719253369927781,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10031675299229546,
     "CrCbGaD": 0.005054646496375378
   },
+  "n_trials": 0.0,
   "prediction": 0.00709434807773787,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

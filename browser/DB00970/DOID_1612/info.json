@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00970",
   "compound_name": "Dactinomycin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGaD": 0.38228270929965874,
     "CbGbCtD": 0.4261895398760535,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0416578989540357,
     "CcSEcCtD": 0.14093773836013299
   },
+  "n_trials": 0.0,
   "prediction": 0.00944071333000874,
   "status": 0,
   "training_prediction": 0.24737160622073198

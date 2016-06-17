@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00819",
   "compound_name": "Acetazolamide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGaD": 0.33209419176393895,
     "CbGbCtD": 0.415837939037498,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11612654353204363,
     "CrCbGaD": 0.003167253161540861
   },
+  "n_trials": 0.0,
   "prediction": 0.0048705777390516,
   "status": 0,
   "training_prediction": 0.0422029362530919

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.31788969527680166,
     "CbGbCtD": 0.4707877028034927,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16944609900147892,
     "CrCbGaD": 0.0037351878326697605
   },
+  "n_trials": 0.0,
   "prediction": 0.00328919615272612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

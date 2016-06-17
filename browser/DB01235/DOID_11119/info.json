@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.8355282493611322,
     "CbGeAlD": 0.04349263395660159,
     "CbGpPWpGaD": 0.11420150368780341,
     "CrCbGaD": 0.0067776129944627055
   },
+  "n_trials": 1.0,
   "prediction": 0.00246924002293038,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

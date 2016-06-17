@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01072",
   "compound_name": "Atazanavir",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.09018124745343979,
     "CbGbCtD": 0.2809498980496412,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.5218566824591507,
     "CrCbGaD": 0.0015087508607032874
   },
+  "n_trials": 0.0,
   "prediction": 0.00754539102931449,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

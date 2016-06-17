@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.793888166449935,
   "metapath_contribution": {
     "CbGaD": 0.5210126218416419,
     "CbGbCtD": 0.3249721164604492,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05029173544574463,
     "CcSEcCtD": 0.08922490041927642
   },
+  "n_trials": 0.0,
   "prediction": 0.00236668597519593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.24707412223667105,
   "metapath_contribution": {
     "CbGaD": 0.26369969265183024,
     "CbGbCtD": 0.058843888189671276,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10744464346479814,
     "CrCbGaD": 0.0022242335606540787
   },
+  "n_trials": 0.0,
   "prediction": 0.0009762986783082039,
   "status": 0,
   "training_prediction": 0.0011851561608029698

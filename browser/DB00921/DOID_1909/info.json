@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.648244473342003,
   "metapath_contribution": {
     "CbGaD": 0.1393865969700082,
     "CbGbCtD": 0.5752333889931882,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15028743269103373,
     "CrCbGaD": 0.0033695087408993694
   },
+  "n_trials": 0.0,
   "prediction": 0.0018054288019141698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

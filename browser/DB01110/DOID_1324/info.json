@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7737321196358911,
   "metapath_contribution": {
     "CbGaD": 0.3383495112806984,
     "CbGbCtD": 0.384398490873071,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10745399060100443,
     "CrCbGaD": 0.0006220310889424918
   },
+  "n_trials": 0.0,
   "prediction": 0.00309343542018228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

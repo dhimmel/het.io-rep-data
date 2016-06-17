@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.447984395318596,
   "metapath_contribution": {
     "CbGbCtD": 0.5620638833969808,
     "CbGeAlD": 0.12069054017009684,
     "CbGpPWpGaD": 0.17668592997301924,
     "CcSEcCtD": 0.14055964645990307
   },
+  "n_trials": 0.0,
   "prediction": 0.0017287436517310199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

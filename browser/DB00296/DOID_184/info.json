@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.5890767230169051,
   "metapath_contribution": {
     "CbGaD": 0.705530184296644,
     "CbGpPWpGaD": 0.01225274813300426,
     "CcSEcCtD": 0.27395592518490103,
     "CrCbGaD": 0.00826114238545063
   },
+  "n_trials": 0.0,
   "prediction": 0.00175447086898506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

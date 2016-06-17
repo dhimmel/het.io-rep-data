@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.832249674902471,
   "metapath_contribution": {
     "CbGaD": 0.29408211857000577,
     "CbGbCtD": 0.47876059031632445,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11154777426288703,
     "CrCbGaD": 0.0012213940464080933
   },
+  "n_trials": 0.0,
   "prediction": 0.0027792916573862896,
   "status": 0,
   "training_prediction": 0.00274173667625717

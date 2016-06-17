@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06730",
   "compound_name": "Gestodene",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7113133940182049,
   "metapath_contribution": {
     "CbGaD": 0.25960088629414096,
     "CbGbCtD": 0.2390866708268913,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0037166897976959948,
     "CrCrCtD": 0.46298909992320636
   },
+  "n_trials": 0.0,
   "prediction": 0.00359124294286114,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

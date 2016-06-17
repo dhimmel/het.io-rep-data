@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00666",
   "compound_name": "Nafarelin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.16263757685745572,
     "CbGpPWpGaD": 0.006680980794760391,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.16144030963003034,
     "CrCtD": 0.24152956832199776
   },
+  "n_trials": 0.0,
   "prediction": 0.15433334177826402,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

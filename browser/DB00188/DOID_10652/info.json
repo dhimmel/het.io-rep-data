@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.33203624632869044,
     "CbGbCtD": 0.2822268027465535,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2109314191747217,
     "CrCbGaD": 0.002338642283420861
   },
+  "n_trials": 0.0,
   "prediction": 0.0044549437392714395,
   "status": 0,
   "training_prediction": 0.00540395485923266

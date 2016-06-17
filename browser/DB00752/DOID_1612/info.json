@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.605981794538362,
   "metapath_contribution": {
     "CbGaD": 0.25678369421088976,
     "CbGbCtD": 0.49821157283521755,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1464125612858005,
     "CrCbGaD": 0.0012093428868208507
   },
+  "n_trials": 0.0,
   "prediction": 0.00294375503826571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

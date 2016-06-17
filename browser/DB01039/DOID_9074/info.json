@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01039",
   "compound_name": "Fenofibrate",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.677503250975293,
   "metapath_contribution": {
     "CbGbCtD": 0.6053701742275832,
     "CbGeAlD": 0.06702662665212028,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2949901644799334,
     "CrCbGaD": 0.0036032030062526726
   },
+  "n_trials": 0.0,
   "prediction": 0.00245501355093743,
   "status": 0,
   "training_prediction": 0.0071325376737032

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.06587105304710034,
     "CbGbCtD": 0.10432261772062763,
@@ -12,6 +14,7 @@
     "CrCtD": 0.18101072857686185,
     "CtDrD": 0.2332783118135251
   },
+  "n_trials": 0.0,
   "prediction": 0.0323935691413736,
   "status": 0,
   "training_prediction": 0.287525813964584

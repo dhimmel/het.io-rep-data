@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.673602080624187,
   "metapath_contribution": {
     "CbGaD": 0.32057881133678934,
     "CbGbCtD": 0.3973091119482344,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15634051486250694,
     "CrCbGaD": 0.0003741693700138122
   },
+  "n_trials": 0.0,
   "prediction": 0.00266868964316015,
   "status": 0,
   "training_prediction": 0.00909528439096585

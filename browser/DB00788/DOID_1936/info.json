@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8289986996098829,
   "metapath_contribution": {
     "CbGaD": 0.24187041948417767,
     "CbGbCtD": 0.5371948884540357,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1282510915325274,
     "CrCbGaD": 0.004580083006751779
   },
+  "n_trials": 0.0,
   "prediction": 0.0032305415970224,
   "status": 0,
   "training_prediction": 0.00526356835532058

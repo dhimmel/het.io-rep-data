@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.1619163069864013,
     "CbGbCtD": 0.16203122036176018,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.4084844992921471,
     "CtDrD": 0.21008681802714668
   },
+  "n_trials": 2.0,
   "prediction": 0.0165190970702341,
   "status": 0,
   "training_prediction": 0.108592402829499

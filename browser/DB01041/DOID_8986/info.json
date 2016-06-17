@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.9639451161980637,
     "CbGeAlD": 0.014283292603914997,
     "CbGpPWpGaD": 0.015171705673257093,
     "CrCbGaD": 0.006599885524764159
   },
+  "n_trials": 0.0,
   "prediction": 0.0020247682561641803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

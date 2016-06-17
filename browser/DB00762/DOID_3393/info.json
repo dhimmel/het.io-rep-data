@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.3777633289987,
   "metapath_contribution": {
     "CbGaD": 0.23850539045245844,
     "CbGbCtD": 0.5358010797454655,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08474016348141712,
     "CcSEcCtD": 0.13046159653948677
   },
+  "n_trials": 0.0,
   "prediction": 0.0019091616931927,
   "status": 0,
   "training_prediction": 0.0393532803713604

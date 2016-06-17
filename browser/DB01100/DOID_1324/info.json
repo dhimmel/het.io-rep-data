@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6508452535760729,
   "metapath_contribution": {
     "CbGaD": 0.28595385673677703,
     "CbGbCtD": 0.4319494629086088,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11288446298098898,
     "CrCbGaD": 0.0037275863721298453
   },
+  "n_trials": 0.0,
   "prediction": 0.00234656679982049,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

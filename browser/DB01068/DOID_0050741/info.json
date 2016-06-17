@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01068",
   "compound_name": "Clonazepam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.20682857357481949,
     "CbGbCtD": 0.24543499763872442,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.3734553470498289,
     "CrCbGaD": 0.004180680006674795
   },
+  "n_trials": 0.0,
   "prediction": 0.00646339144331106,
   "status": 0,
   "training_prediction": 0.00783688266156007

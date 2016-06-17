@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.24435544854821445,
     "CbGbCtD": 0.46666561126903433,
     "CbGpPWpGaD": 0.11490082198516346,
     "CcSEcCtD": 0.1740781181975877
   },
+  "n_trials": 0.0,
   "prediction": 0.00526228321741866,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.243172951885566,
   "metapath_contribution": {
     "CbGbCtD": 0.23863708977344741,
     "CbGeAlD": 0.05352779136589149,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0048808945647945455,
     "CrCrCtD": 0.5430394687915524
   },
+  "n_trials": 0.0,
   "prediction": 0.0014731371277916599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

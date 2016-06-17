@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8400520156046809,
   "metapath_contribution": {
     "CbGaD": 0.06960827692798813,
     "CbGbCtD": 0.24613554374182667,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1143774185993466,
     "CtDrD": 0.4977160740542234
   },
+  "n_trials": 3.0,
   "prediction": 0.0058538476436105205,
   "status": 0,
   "training_prediction": 0.038677515826554

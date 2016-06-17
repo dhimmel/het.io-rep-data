@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01084",
   "compound_name": "Emedastine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGbCtD": 0.1215356077332265,
     "CbGeAlD": 0.00603329204909038,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.7678149606319931,
     "CrCbGaD": 0.0015404322441156103
   },
+  "n_trials": 0.0,
   "prediction": 0.0101307550677605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.46098829648894707,
   "metapath_contribution": {
     "CbGaD": 0.30896630404507924,
-    "CbGbCtD": 0.4472788212111276,
-    "CbGeAlD": 0.02944901455535937,
-    "CbGpPWpGaD": 0.049378050538053844,
-    "CcSEcCtD": 0.1595945577776783,
-    "CrCbGaD": 0.005333251872701499
+    "CbGbCtD": 0.4472788212111277,
+    "CbGeAlD": 0.029449014555359376,
+    "CbGpPWpGaD": 0.04937805053805385,
+    "CcSEcCtD": 0.15959455777767834,
+    "CrCbGaD": 0.0053332518727015
   },
+  "n_trials": 0.0,
   "prediction": 0.00173941535847582,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

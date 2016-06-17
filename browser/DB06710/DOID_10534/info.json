@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.0370611183355007,
   "metapath_contribution": {
     "CbGaD": 0.34858766851174366,
     "CbGbCtD": 0.45145671389975656,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07813989137848452,
     "CrCbGaD": 0.003452582778377714
   },
+  "n_trials": 0.0,
   "prediction": 0.000538566722875138,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

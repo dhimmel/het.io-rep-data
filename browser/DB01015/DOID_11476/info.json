@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.37256176853055895,
   "metapath_contribution": {
     "CbGbCtD": 0.6785128853583714,
     "CbGpPWpGaD": 0.05982580162038287,
     "CcSEcCtD": 0.2588966788802192,
     "CrCbGaD": 0.002764634141026486
   },
+  "n_trials": 0.0,
   "prediction": 0.00157024219604399,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

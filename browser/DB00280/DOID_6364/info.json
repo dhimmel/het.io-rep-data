@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00280",
   "compound_name": "Disopyramide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGbCtD": 0.5053964009587704,
     "CbGeAlD": 0.01224432359972006,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00018373065408399075,
     "CrCrCtD": 0.3357327122624191
   },
+  "n_trials": 0.0,
   "prediction": 0.007548334145665379,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

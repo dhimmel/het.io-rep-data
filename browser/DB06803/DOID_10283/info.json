@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06803",
   "compound_name": "Niclosamide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.726918075422627,
   "metapath_contribution": {
     "CbGaD": 0.5325571298576693,
     "CbGbCtD": 0.28673209222582896,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14494871442987525,
     "CrCbGaD": 0.0054177143646228195
   },
+  "n_trials": 1.0,
   "prediction": 0.0037981963403899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

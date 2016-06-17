@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.835500650195058,
   "metapath_contribution": {
     "CbGaD": 0.6593748447896939,
     "CbGbCtD": 0.1940357446803594,
@@ -10,6 +12,7 @@
     "CbGeAlD": 0.035897140131450456,
     "CbGpPWpGaD": 0.10659918756062227
   },
+  "n_trials": 0.0,
   "prediction": 0.0037749477445205705,
   "status": 0,
   "training_prediction": 0.0128312992545314

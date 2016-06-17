@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.6698981684486623,
     "CbGbCtD": 0.3065624117769254,
     "CbGpPWpGaD": 0.005839652512850131,
     "CcSEcCtD": 0.017699767261562114
   },
+  "n_trials": 0.0,
   "prediction": 0.00423729747384641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

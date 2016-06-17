@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.4709352969135539,
     "CbGbCtD": 0.4339431148019193,
     "CbGpPWpGaD": 0.09217078095895996,
     "CrCbGaD": 0.00295080732556677
   },
+  "n_trials": 0.0,
   "prediction": 0.00710624517376172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

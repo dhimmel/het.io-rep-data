@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01222",
   "compound_name": "Budesonide",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.00845253576072822,
   "metapath_contribution": {
     "CbGbCtD": 0.5018836053491408,
     "CbGpPWpGaD": 0.07817153908190869,
     "CcSEcCtD": 0.41080223337582245,
     "CrCbGaD": 0.009142622193128004
   },
+  "n_trials": 4.0,
   "prediction": 0.000438137088291254,
   "status": 0,
   "training_prediction": 0.00250328932307613

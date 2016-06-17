@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.470091027308192,
   "metapath_contribution": {
     "CbGaD": 0.3113324186274334,
     "CbGbCtD": 0.29267197098571324,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0038896426817696637,
     "CrCrCtD": 0.31915225962398
   },
+  "n_trials": 0.0,
   "prediction": 0.00360894442909934,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

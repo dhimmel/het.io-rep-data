@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.41803887654836547,
     "CbGbCtD": 0.3773187622304819,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.08709663473069022,
     "CbGpPWpGaD": 0.11432351474555087
   },
+  "n_trials": 0.0,
   "prediction": 0.00301711460687341,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.49389698042533925,
     "CbGbCtD": 0.31963203291163056,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1142263270422451,
     "CcSEcCtD": 0.029340750906553133
   },
+  "n_trials": 1.0,
   "prediction": 0.010940271176269,
   "status": 0,
   "training_prediction": 0.0346293836075832

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGaD": 0.7289280779482453,
     "CbGeAlD": 0.10878173879238143,
     "CbGpPWpGaD": 0.156791247735904,
     "CrCbGaD": 0.005498935523469253
   },
+  "n_trials": 0.0,
   "prediction": 0.00170024114424515,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

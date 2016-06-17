@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01083",
   "compound_name": "Orlistat",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.4771017212792841,
     "CbGbCtD": 0.22349126111243123,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09831635151482049,
     "CcSEcCtD": 0.1340225449302398
   },
+  "n_trials": 0.0,
   "prediction": 0.0060871610498961,
   "status": 0,
   "training_prediction": 0.0537338423481188

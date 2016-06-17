@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.6723016905071519,
   "metapath_contribution": {
     "CbGbCtD": 0.3880002247956546,
     "CbGeAlD": 0.05726733053599186,
     "CbGpPWpGaD": 0.2144232025683848,
     "CcSEcCtD": 0.3403092420999688
   },
+  "n_trials": 1.0,
   "prediction": 0.0022177805869662104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

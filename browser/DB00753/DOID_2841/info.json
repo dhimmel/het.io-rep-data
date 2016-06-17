@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.46749024707412196,
   "metapath_contribution": {
     "CbGaD": 0.19869572892404674,
     "CbGbCtD": 0.12110286608951061,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3111821410336793,
     "CrCbGaD": 0.01353062470563693
   },
+  "n_trials": 0.0,
   "prediction": 0.00232001517496715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

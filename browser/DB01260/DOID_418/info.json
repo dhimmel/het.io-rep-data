@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGbCtD": 0.1433531561745919,
     "CcSEcCtD": 0.03366337732268577,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.21397672400760243,
     "CrCtD": 0.2973051747963677
   },
+  "n_trials": 0.0,
   "prediction": 0.0130226189458176,
   "status": 0,
   "training_prediction": 0.0305483558196302

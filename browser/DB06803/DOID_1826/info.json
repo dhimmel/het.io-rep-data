@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06803",
   "compound_name": "Niclosamide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8361508452535759,
   "metapath_contribution": {
     "CbGbCtD": 0.19866696093581787,
     "CbGeAlD": 0.014572681871793105,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.17886323593611003,
     "CrCtD": 0.538138775304917
   },
+  "n_trials": 0.0,
   "prediction": 0.0103569768528855,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

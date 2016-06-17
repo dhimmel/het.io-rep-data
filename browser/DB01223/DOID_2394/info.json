@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.565019505851756,
   "metapath_contribution": {
     "CbGeAlD": 0.1852319979785486,
     "CbGpPWpGaD": 0.23369379726873743,
     "CcSEcCtD": 0.5726543106687402,
     "CrCbGaD": 0.008419894083973782
   },
+  "n_trials": 0.0,
   "prediction": 0.00162548792446178,
   "status": 0,
   "training_prediction": 0.006447997860551999

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.31554473491061685,
     "CbGeAlD": 0.025191283268652408,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0022436647898012242,
     "CtDrD": 0.6145022106526936
   },
+  "n_trials": 0.0,
   "prediction": 0.00551363385925056,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.509752925877763,
   "metapath_contribution": {
     "CbGbCtD": 0.6432826244306522,
     "CbGeAlD": 0.05838846790207468,
     "CbGpPWpGaD": 0.18125527074875655,
     "CcSEcCtD": 0.11707363691851654
   },
+  "n_trials": 0.0,
   "prediction": 0.00144472593039189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

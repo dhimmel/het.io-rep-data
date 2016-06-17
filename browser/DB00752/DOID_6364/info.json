@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.490897269180754,
   "metapath_contribution": {
     "CbGbCtD": 0.7759743573796997,
     "CbGeAlD": 0.013671737557975183,
     "CcSEcCtD": 0.20440465902629737,
     "CrCbGaD": 0.005949246036027836
   },
+  "n_trials": 0.0,
   "prediction": 0.00244821313159738,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

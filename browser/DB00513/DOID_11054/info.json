@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00513",
   "compound_name": "Aminocaproic Acid",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.5299089726918079,
   "metapath_contribution": {
     "CbGbCtD": 0.28565157976063443,
     "CbGeAlD": 0.1522683812000983,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.26943487025175156,
     "CrCbGaD": 0.014322464229098306
   },
+  "n_trials": 0.0,
   "prediction": 0.00164257517016391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

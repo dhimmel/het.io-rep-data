@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01064",
   "compound_name": "Isoprenaline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.524707412223667,
   "metapath_contribution": {
     "CbGaD": 0.6861562513339172,
     "CbGeAlD": 0.043390532898946475,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.045993128340983326,
     "CrCbGaD": 0.0023077752106832427
   },
+  "n_trials": 0.0,
   "prediction": 0.0018957472134624,
   "status": 0,
   "training_prediction": 0.00551359375284595

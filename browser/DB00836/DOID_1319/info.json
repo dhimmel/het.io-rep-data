@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.30754226267880397,
   "metapath_contribution": {
     "CbGbCtD": 0.47636864423532677,
     "CbGeAlD": 0.26820907523893783,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07241517859371961,
     "CrCbGaD": 0.004878801440771147
   },
+  "n_trials": 0.0,
   "prediction": 0.0011969167124071698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

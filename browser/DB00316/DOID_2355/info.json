@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.6477478686350733,
     "CbGeAlD": 0.13104799369452957,
     "CbGpPWpGaD": 0.21396516424558448,
     "CrCbGaD": 0.007238973424812593
   },
+  "n_trials": 0.0,
   "prediction": 0.0024989683193048103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

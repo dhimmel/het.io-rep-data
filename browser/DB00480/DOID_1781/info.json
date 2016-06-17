@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.5876190485045271,
     "CbGeAlD": 0.05003892155948896,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.32910878791857895,
     "CrCbGaD": 0.004387248941969957
   },
+  "n_trials": 2.0,
   "prediction": 0.00312824814820018,
   "status": 0,
   "training_prediction": 0.00379571845380194

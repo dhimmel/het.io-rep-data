@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.41027308192457707,
   "metapath_contribution": {
     "CbGbCtD": 0.23636373697759755,
     "CbGeAlD": 0.01350843093316527,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.635276979696616,
     "CrCbGaD": 0.0023007450289359
   },
+  "n_trials": 0.0,
   "prediction": 0.00185504165337956,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8010403120936279,
   "metapath_contribution": {
     "CbGaD": 0.20176794093763953,
     "CbGbCtD": 0.23584925690032654,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0018730673467375536,
     "CtDrD": 0.37380270744229366
   },
+  "n_trials": 0.0,
   "prediction": 0.005243678365731421,
   "status": 0,
   "training_prediction": 0.0227803174484975

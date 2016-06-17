@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGaD": 0.56937232575172,
     "CbGbCtD": 0.22004052187502018,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11952708347753485,
     "CrCbGaD": 0.0011908209649958517
   },
+  "n_trials": 0.0,
   "prediction": 0.00205413279615676,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

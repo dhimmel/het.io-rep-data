@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.17945383615084498,
   "metapath_contribution": {
     "CbGaD": 0.6863325743089269,
     "CbGeAlD": 0.12002804242238013,
     "CbGpPWpGaD": 0.18400915943216828,
     "CrCbGaD": 0.009630223836524567
   },
+  "n_trials": 1.0,
   "prediction": 0.000979580741607228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

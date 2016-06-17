@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.0364109232769831,
   "metapath_contribution": {
     "CbGbCtD": 0.23440546808892254,
     "CbGeAlD": 0.0258761629146166,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4347109824927784,
     "CrCbGaD": 0.0001595680223710545
   },
+  "n_trials": 0.0,
   "prediction": 0.000695196569236674,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

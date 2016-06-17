@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01408",
   "compound_name": "Bambuterol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.12985391943263386,
     "CbGbCtD": 0.2504380479015088,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.24730990612903703,
     "CrCtD": 0.36027791905962453
   },
+  "n_trials": 1.0,
   "prediction": 0.0525256019679176,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

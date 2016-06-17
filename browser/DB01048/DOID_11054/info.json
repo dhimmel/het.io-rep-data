@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01048",
   "compound_name": "Abacavir",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.270481144343303,
   "metapath_contribution": {
     "CbGbCtD": 0.1690593249606789,
     "CbGeAlD": 0.14840392744075215,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.40564877298769775,
     "CrCbGaD": 0.009446221101212961
   },
+  "n_trials": 0.0,
   "prediction": 0.00109172478513039,
   "status": 0,
   "training_prediction": 0.0027998534390249697

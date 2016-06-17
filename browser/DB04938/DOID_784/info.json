@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04938",
   "compound_name": "Ospemifene",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.44668400520156,
   "metapath_contribution": {
     "CbGaD": 0.8544996747520308,
     "CbGeAlD": 0.03855158271271336,
     "CbGpPWpGaD": 0.09830381947217531,
     "CrCbGaD": 0.008644923063080387
   },
+  "n_trials": 0.0,
   "prediction": 0.00145029707617183,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00867",
   "compound_name": "Ritodrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.11729428979303907,
     "CbGbCtD": 0.24418908098346562,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.24626711434654658,
     "CrCtD": 0.3574395622915483
   },
+  "n_trials": 0.0,
   "prediction": 0.0335976471628607,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

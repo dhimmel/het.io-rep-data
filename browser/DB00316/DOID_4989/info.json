@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.7467878758952824,
     "CbGeAlD": 0.03386003436115287,
     "CbGpPWpGaD": 0.08367404132387642,
     "CcSEcCtD": 0.13567804841968817
   },
+  "n_trials": 1.0,
   "prediction": 0.0037635233036553205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

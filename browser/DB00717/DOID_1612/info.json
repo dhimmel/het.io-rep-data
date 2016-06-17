@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.900520156046814,
   "metapath_contribution": {
     "CbGaD": 0.19381573009302275,
     "CbGbCtD": 0.1957579451499024,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19212746339583792,
     "CrCtD": 0.30802928657347334
   },
+  "n_trials": 1.0,
   "prediction": 0.007276541663366379,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00774",
   "compound_name": "Hydroflumethiazide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGaD": 0.4176936172281173,
     "CbGbCtD": 0.3448075442952254,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12036150926812207,
     "CrCbGaD": 0.002049043899617503
   },
+  "n_trials": 0.0,
   "prediction": 0.00346652748245395,
   "status": 0,
   "training_prediction": 0.0184172367448186

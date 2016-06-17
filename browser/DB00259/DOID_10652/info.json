@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.561768530559168,
   "metapath_contribution": {
     "CbGaD": 0.3372166099986044,
     "CbGbCtD": 0.5553837892326261,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10153240041315448,
     "CrCbGaD": 0.0013259007476221114
   },
+  "n_trials": 0.0,
   "prediction": 0.0020437505346663897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

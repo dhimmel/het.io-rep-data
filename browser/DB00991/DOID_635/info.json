@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.36150845253576097,
   "metapath_contribution": {
     "CbGbCtD": 0.6680462472166481,
     "CbGeAlD": 0.019135673469767158,
     "CcSEcCtD": 0.31191335678961585,
     "CrCbGaD": 0.0009047225239689943
   },
+  "n_trials": 0.0,
   "prediction": 0.00197352618127707,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

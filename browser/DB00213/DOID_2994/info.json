@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGbCtD": 0.7461766411218561,
     "CbGeAlD": 0.03857610719607324,
     "CbGpPWpGaD": 0.007375133463712068,
     "CcSEcCtD": 0.20787211821835852
   },
+  "n_trials": 0.0,
   "prediction": 0.0024548397445090303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

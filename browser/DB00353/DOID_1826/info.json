@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00353",
   "compound_name": "Methylergometrine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.325747724317295,
   "metapath_contribution": {
     "CbGaD": 0.2523373825460673,
     "CbGbCtD": 0.314371837693304,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18495437352558297,
     "CrCbGaD": 0.00493085533174266
   },
+  "n_trials": 0.0,
   "prediction": 0.00230249794993158,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

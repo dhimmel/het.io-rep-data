@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01113",
   "compound_name": "Papaverine",
+  "compound_percentile": 0.279411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.347854356306892,
   "metapath_contribution": {
     "CbGeAlD": 0.10972206875368805,
     "CbGpPWpGaD": 0.5174492346067978,
     "CcSEcCtD": 0.3505467675251655,
     "CrCbGaD": 0.02228192911434863
   },
+  "n_trials": 0.0,
   "prediction": 0.0013712322423982302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01025",
   "compound_name": "Amlexanox",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.392717815344603,
   "metapath_contribution": {
     "CbGdCrCtD": 0.017724245620558094,
     "CbGeAlD": 0.2671676954440355,
     "CbGpPWpGaD": 0.6298666394293796,
     "CcSEcCtD": 0.08524141950602683
   },
+  "n_trials": 1.0,
   "prediction": 0.00203990762559151,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

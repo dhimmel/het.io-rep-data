@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06777",
   "compound_name": "Chenodeoxycholic acid",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGaD": 0.14114313362439987,
     "CbGbCtD": 0.5544677071728551,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17839006655068132,
     "CrCbGaD": 0.0020603343239501606
   },
+  "n_trials": 0.0,
   "prediction": 0.00617493291708945,
   "status": 0,
   "training_prediction": 0.033341508335201

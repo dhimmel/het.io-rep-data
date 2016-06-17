@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00501",
   "compound_name": "Cimetidine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.4438136964815498,
     "CbGbCtD": 0.39776773305714525,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05018669567994866,
     "CcSEcCtD": 0.06419792794440644
   },
+  "n_trials": 0.0,
   "prediction": 0.00774066966142115,
   "status": 0,
   "training_prediction": 0.0140689708338838

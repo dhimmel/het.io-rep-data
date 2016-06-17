@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.850455136540962,
   "metapath_contribution": {
     "CbGaD": 0.6811045115564197,
     "CbGeAlD": 0.1011197479718924,
     "CbGpPWpGaD": 0.14621178162387072,
     "CcSEcCtD": 0.0715639588478172
   },
+  "n_trials": 0.0,
   "prediction": 0.0063352237462287395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

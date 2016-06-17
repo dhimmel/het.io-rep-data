@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01588",
   "compound_name": "Prazepam",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.284135240572172,
   "metapath_contribution": {
     "CbGbCtD": 0.28102068019395304,
     "CbGeAlD": 0.3238394845206821,
     "CbGpPWpGaD": 0.3842265593250636,
     "CrCbGaD": 0.010913275960301175
   },
+  "n_trials": 0.0,
   "prediction": 0.00125184050576976,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

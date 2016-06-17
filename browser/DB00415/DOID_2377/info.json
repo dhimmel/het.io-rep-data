@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00415",
   "compound_name": "Ampicillin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.581924577373212,
   "metapath_contribution": {
     "CbGaD": 0.7836396223015341,
     "CbGbCtD": 0.17611034814597049,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.014912046597028336,
     "CrCbGaD": 0.0065244678210028976
   },
+  "n_trials": 0.0,
   "prediction": 0.00208691989270038,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00275",
   "compound_name": "Olmesartan",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.47510633999375224,
     "CbGbCtD": 0.2450781472018492,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13661020564717177,
     "CrCbGaD": 0.0029811754882123655
   },
+  "n_trials": 0.0,
   "prediction": 0.00431023169288418,
   "status": 0,
   "training_prediction": 0.00707193605994017

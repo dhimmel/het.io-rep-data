@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.7550294364435974,
     "CbGpPWpGaD": 0.08222281276673206,
     "CcSEcCtD": 0.1559192683754604,
     "CrCbGaD": 0.006828482414210153
   },
+  "n_trials": 3.0,
   "prediction": 0.00366180603772956,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

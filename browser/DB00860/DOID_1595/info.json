@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.00130039011703511,
   "metapath_contribution": {
     "CbGaD": 0.9149975088913046,
     "CbGeAlD": 0.059631681209364566,
     "CbGpPWpGaD": 0.012619503194319358,
     "CrCbGaD": 0.012751306705011595
   },
+  "n_trials": 0.0,
   "prediction": 0.0006500402142099371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

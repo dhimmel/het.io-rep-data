@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.373211963589077,
   "metapath_contribution": {
     "CbGaD": 0.07981991550876993,
     "CbGbCtD": 0.5735405619473903,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2594789328967224,
     "CrCbGaD": 0.0032149964897231703
   },
+  "n_trials": 0.0,
   "prediction": 0.00180913557885621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

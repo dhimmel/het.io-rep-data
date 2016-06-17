@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01621",
   "compound_name": "Pipotiazine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.611183355006502,
   "metapath_contribution": {
     "CbGaD": 0.5844261660503974,
     "CbGbCtD": 0.36077601842852025,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04192496903241938,
     "CrCbGaD": 0.004488592057630608
   },
+  "n_trials": 0.0,
   "prediction": 0.00252496441287229,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.544863459037711,
   "metapath_contribution": {
     "CbGaD": 0.7480665257242947,
     "CbGeAlD": 0.05436490573165286,
     "CbGpPWpGaD": 0.19167961762784658,
     "CrCbGaD": 0.005888950916205882
   },
+  "n_trials": 0.0,
   "prediction": 0.00130810204283213,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

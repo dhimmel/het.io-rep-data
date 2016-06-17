@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGbCtD": 0.3414482677579813,
     "CbGdCrCtD": 0.011230164334754471,
     "CbGeAlD": 0.20629393082257025,
     "CbGpPWpGaD": 0.44102763708469395
   },
+  "n_trials": 0.0,
   "prediction": 0.00250201196657374,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

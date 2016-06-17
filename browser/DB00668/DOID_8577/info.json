@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.864109232769831,
   "metapath_contribution": {
     "CbGaD": 0.3613717641688838,
     "CbGbCtD": 0.17365246433397663,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0029497334086128267,
     "CrCrCtD": 0.35506241779797065
   },
+  "n_trials": 0.0,
   "prediction": 0.00462804268149705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

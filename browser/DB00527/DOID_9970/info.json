@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.101430429128739,
   "metapath_contribution": {
     "CbGaD": 0.5742320220833133,
     "CbGbCtD": 0.1050211137065715,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2294970735740355,
     "CrCbGaD": 0.004728670692145617
   },
+  "n_trials": 0.0,
   "prediction": 0.00101921244454605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

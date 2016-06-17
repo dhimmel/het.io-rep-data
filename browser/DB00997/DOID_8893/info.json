@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.35370611183354994,
   "metapath_contribution": {
     "CbGaD": 0.3160197008731705,
     "CbGbCtD": 0.38874372589021283,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.08194867087132418,
     "CcSEcCtD": 0.18109100904966957
   },
+  "n_trials": 0.0,
   "prediction": 0.00150418981787841,
   "status": 0,
   "training_prediction": 0.0631948342575146

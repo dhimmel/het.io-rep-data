@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00686",
   "compound_name": "Pentosan Polysulfate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.7096184632883616,
     "CbGeAlD": 0.06847467626110129,
     "CbGpPWpGaD": 0.17423561303241886,
     "CcSEcCtD": 0.047671247418118234
   },
+  "n_trials": 0.0,
   "prediction": 0.00650880751298414,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

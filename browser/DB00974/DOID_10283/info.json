@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00974",
   "compound_name": "Edetic Acid",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGaD": 0.4492270717905334,
     "CbGbCtD": 0.17092265940443788,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15032931858421864,
     "CcSEcCtD": 0.16618914164407242
   },
+  "n_trials": 0.0,
   "prediction": 0.00399383040212574,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

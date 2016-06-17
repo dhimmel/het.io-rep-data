@@ -1,15 +1,17 @@
 {
   "compound_id": "DB02300",
   "compound_name": "Calcipotriol",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.92542072723081,
     "CbGeAlD": 0.041842108936104475,
     "CbGpPWpGaD": 0.02469038850356444,
     "CrCbGaD": 0.008046775329521076
   },
+  "n_trials": 0.0,
   "prediction": 0.00283978935444657,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

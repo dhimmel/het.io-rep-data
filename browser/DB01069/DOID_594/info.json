@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.559167750325098,
   "metapath_contribution": {
     "CbGaD": 0.7159941056511555,
     "CbGeAlD": 0.0765526530503456,
     "CbGpPWpGaD": 0.19561665538146594,
     "CrCbGaD": 0.011836585917033019
   },
+  "n_trials": 0.0,
   "prediction": 0.0015041406746144801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

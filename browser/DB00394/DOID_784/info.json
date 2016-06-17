@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00394",
   "compound_name": "Beclomethasone",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.160598179453836,
   "metapath_contribution": {
     "CbGaD": 0.9080867084728571,
     "CbGeAlD": 0.04273447533742125,
     "CbGpPWpGaD": 0.036450016671246394,
     "CrCbGaD": 0.012728799518475272
   },
+  "n_trials": 0.0,
   "prediction": 0.000939695743506481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00180",
   "compound_name": "Flunisolide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.141742522756827,
   "metapath_contribution": {
     "CbGaD": 0.46522249815708006,
     "CbGbCtD": 0.24041440105018513,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21556474831767744,
     "CrCbGaD": 0.007218521257112727
   },
+  "n_trials": 0.0,
   "prediction": 0.0011524493993866,
   "status": 0,
   "training_prediction": 0.0049194325800986

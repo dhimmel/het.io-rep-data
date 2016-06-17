@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.609882964889467,
   "metapath_contribution": {
     "CbGaD": 0.6362309297998232,
     "CbGeAlD": 0.12356246490208818,
     "CbGpPWpGaD": 0.2369529447627363,
     "CrCbGaD": 0.003253660535352327
   },
+  "n_trials": 1.0,
   "prediction": 0.0018263306782384302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

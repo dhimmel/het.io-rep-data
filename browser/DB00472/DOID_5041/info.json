@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.609882964889467,
   "metapath_contribution": {
     "CbGaD": 0.36246791556743146,
     "CbGbCtD": 0.20576988102290392,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15847612415869836,
     "CcSEcCtD": 0.2671458187458929
   },
+  "n_trials": 0.0,
   "prediction": 0.0017053697429961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

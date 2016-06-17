@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8777633289986999,
   "metapath_contribution": {
     "CbGaD": 0.4565620598249265,
     "CbGbCtD": 0.34281459790681285,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07561137197780533,
     "CrCbGaD": 0.003044179309339758
   },
+  "n_trials": 1.0,
   "prediction": 0.0031427971138240397,
   "status": 0,
   "training_prediction": 0.0133287668627576

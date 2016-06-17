@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.5424793727062959,
     "CbGbCtD": 0.34599363028713326,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.029230833470136275,
     "CrCbGaD": 0.006191197923915154
   },
+  "n_trials": 0.0,
   "prediction": 0.0029455008294462398,
   "status": 0,
   "training_prediction": 0.00217318173626723

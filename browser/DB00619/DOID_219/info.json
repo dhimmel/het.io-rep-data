@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.4789252941120329,
     "CbGbCtD": 0.24490377393601917,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10455712550451773,
     "CrCbGaD": 0.005084570848357391
   },
+  "n_trials": 0.0,
   "prediction": 0.00293892197938326,
   "status": 0,
   "training_prediction": 0.00419107205284158

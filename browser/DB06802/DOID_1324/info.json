@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.13849154746423903,
   "metapath_contribution": {
     "CbGaD": 0.5508499107524628,
     "CbGbCtD": 0.25724725500262197,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12405239420286988,
     "CrCbGaD": 0.008656760914447078
   },
+  "n_trials": 0.0,
   "prediction": 0.00089787614764835,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

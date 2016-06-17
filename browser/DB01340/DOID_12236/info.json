@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGaD": 0.7130900598560601,
     "CbGbCtD": 0.00816083649058471,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18499566341746043,
     "CrCbGaD": 0.009668282271496284
   },
+  "n_trials": 0.0,
   "prediction": 0.00283421202421886,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

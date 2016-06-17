@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00706",
   "compound_name": "Tamsulosin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6762028608582571,
   "metapath_contribution": {
     "CbGaD": 0.3358900208521556,
     "CbGbCtD": 0.3340769424386118,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2417278809315067,
     "CrCbGaD": 0.005221888713431613
   },
+  "n_trials": 0.0,
   "prediction": 0.00342879791943385,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

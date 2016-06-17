@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7925877763329001,
   "metapath_contribution": {
     "CbGaD": 0.5296966769008551,
     "CbGbCtD": 0.3699513939842104,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.05791166411981812,
     "CrCbGaD": 0.003088825470284612
   },
+  "n_trials": 0.0,
   "prediction": 0.00475729980357218,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

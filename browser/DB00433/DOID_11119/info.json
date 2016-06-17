@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00433",
   "compound_name": "Prochlorperazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
     "CbGaD": 0.8995643971913387,
     "CbGeAlD": 0.009351623750446268,
     "CbGpPWpGaD": 0.08192105349508857,
     "CrCbGaD": 0.00916292556312645
   },
+  "n_trials": 0.0,
   "prediction": 0.00189545711888607,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

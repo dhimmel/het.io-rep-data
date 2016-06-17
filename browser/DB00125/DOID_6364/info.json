@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.366710013003901,
   "metapath_contribution": {
     "CbGbCtD": 0.6341018314764868,
     "CbGeAlD": 0.1535512452916189,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18294263004331673,
     "CrCbGaD": 0.0015573494219318662
   },
+  "n_trials": 0.0,
   "prediction": 0.00209234072512097,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

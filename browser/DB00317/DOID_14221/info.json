@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.15279583875162603,
   "metapath_contribution": {
     "CbGaD": 0.5258283715269878,
     "CbGeAlD": 0.09141882186734356,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.03594454160392431,
     "CrCbGaD": 0.016788945509064505
   },
+  "n_trials": 0.0,
   "prediction": 0.000859914285529921,
   "status": 0,
   "training_prediction": 0.000387543830488687

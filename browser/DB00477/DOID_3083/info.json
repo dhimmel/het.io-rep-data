@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.27568270481144297,
   "metapath_contribution": {
     "CbGaD": 0.43701451495432486,
     "CbGbCtD": 0.34885697134826626,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07310418118750973,
     "CrCbGaD": 0.004259616507018583
   },
+  "n_trials": 0.0,
   "prediction": 0.00154089154041231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

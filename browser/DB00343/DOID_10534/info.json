@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00343",
   "compound_name": "Diltiazem",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.20481144343302998,
   "metapath_contribution": {
     "CbGbCtD": 0.6111414915305146,
     "CbGeAlD": 0.006343182011688891,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.26866212161095443,
     "CrCbGaD": 0.002728890553603378
   },
+  "n_trials": 0.0,
   "prediction": 0.0009054759407255199,
   "status": 0,
   "training_prediction": 0.0019968245190777603

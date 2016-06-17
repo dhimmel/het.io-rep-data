@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.569570871261378,
   "metapath_contribution": {
-    "CbGbCtD": 0.38716570807522466,
-    "CbGpPWpGaD": 0.039409342482492365,
-    "CcSEcCtD": 0.17653209149861646,
-    "CrCrCtD": 0.3968928579436663
+    "CbGbCtD": 0.38716570807522477,
+    "CbGpPWpGaD": 0.03940934248249237,
+    "CcSEcCtD": 0.1765320914986165,
+    "CrCrCtD": 0.3968928579436664
   },
+  "n_trials": 0.0,
   "prediction": 0.0019326923862899399,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

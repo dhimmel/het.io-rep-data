@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.769063411722681,
     "CbGeAlD": 0.07825825025292087,
     "CbGpPWpGaD": 0.14564945015969133,
     "CrCbGaD": 0.00702888786470674
   },
+  "n_trials": 0.0,
   "prediction": 0.00326124368248054,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

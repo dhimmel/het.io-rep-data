@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.389466840052016,
   "metapath_contribution": {
     "CbGeAlD": 0.03935026975713363,
     "CbGpPWpGaD": 0.03214445671477385,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0016756208269015876,
     "CrCrCtD": 0.7228530584156427
   },
+  "n_trials": 0.0,
   "prediction": 0.0019613308841468897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

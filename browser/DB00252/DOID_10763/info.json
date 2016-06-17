@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.64629388816645,
   "metapath_contribution": {
     "CbGaD": 0.2802185269926138,
     "CbGbCtD": 0.3451258872563452,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0021958943911397862,
     "CrCrCtD": 0.14942983802808357
   },
+  "n_trials": 0.0,
   "prediction": 0.00563081341446826,
   "status": 0,
   "training_prediction": 0.0634387991212468

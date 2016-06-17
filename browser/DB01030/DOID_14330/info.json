@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.0494148244473342,
   "metapath_contribution": {
     "CbGaD": 0.890625170107004,
     "CbGeAlD": 0.027289853493334258,
     "CbGpPWpGaD": 0.07906650217111462,
     "CrCbGaD": 0.003018474228547008
   },
+  "n_trials": 0.0,
   "prediction": 0.0005944914452931509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

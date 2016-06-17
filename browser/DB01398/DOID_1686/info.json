@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.6079323797139139,
   "metapath_contribution": {
     "CbGaD": 0.6772838820587868,
     "CbGpPWpGaD": 0.012779305976870475,
     "CcSEcCtD": 0.3042018747827174,
     "CrCbGaD": 0.005734937181625276
   },
+  "n_trials": 0.0,
   "prediction": 0.00223957794470631,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
     "CbGaD": 0.6247257444704817,
     "CbGbCtD": 0.18645422191267272,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.053630747296468405,
     "CrCbGaD": 0.0041290714721677075
   },
+  "n_trials": 0.0,
   "prediction": 0.00221336001174474,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

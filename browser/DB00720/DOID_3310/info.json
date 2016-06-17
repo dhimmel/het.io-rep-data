@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.4473342002600779,
   "metapath_contribution": {
     "CbGbCtD": 0.5655894271058952,
     "CbGdCrCtD": 0.015571895595779931,
     "CbGeAlD": 0.1292047108593319,
     "CcSEcCtD": 0.2896339664389931
   },
+  "n_trials": 0.0,
   "prediction": 0.0019821125988823103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

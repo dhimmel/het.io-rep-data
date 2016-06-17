@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.5514936867132285,
     "CbGbCtD": 0.17883710156063456,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09942802379745762,
     "CrCbGaD": 0.004372762625256302
   },
+  "n_trials": 0.0,
   "prediction": 0.006876115597403179,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.38036410923277003,
   "metapath_contribution": {
     "CbGbCtD": 0.5311224928186,
     "CbGpPWpGaD": 0.014969351615446904,
     "CcSEcCtD": 0.4407530815229576,
     "CrCbGaD": 0.013155074042995435
   },
+  "n_trials": 0.0,
   "prediction": 0.00119960300362123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01551",
   "compound_name": "Dihydrocodeine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.38166449934980495,
   "metapath_contribution": {
     "CbGaD": 0.3166914411083141,
     "CbGbCtD": 0.4585008950292756,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18713802403178467,
     "CrCbGaD": 0.0022826121794918735
   },
+  "n_trials": 0.0,
   "prediction": 0.0020460929211078,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

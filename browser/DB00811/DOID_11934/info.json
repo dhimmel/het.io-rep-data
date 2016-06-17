@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.355656697009103,
   "metapath_contribution": {
     "CbGbCtD": 0.6434748387641378,
     "CbGeAlD": 0.07627314678574819,
     "CbGpPWpGaD": 0.07659137469553354,
     "CcSEcCtD": 0.20366063975458049
   },
+  "n_trials": 1.0,
   "prediction": 0.0011678324486192,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

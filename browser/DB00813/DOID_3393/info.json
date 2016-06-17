@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.683355006501951,
   "metapath_contribution": {
     "CbGaD": 0.22227639944055264,
     "CbGbCtD": 0.3152372487531166,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002414217612479062,
     "CrCrCtD": 0.28517927940892557
   },
+  "n_trials": 3.0,
   "prediction": 0.0033635918861822604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.169117647058824,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.099479843953186,
   "metapath_contribution": {
     "CbGbCtD": 0.20938584203109625,
     "CbGeAlD": 0.08286102980418562,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3523976714513592,
     "CrCbGaD": 0.002361891934864596
   },
+  "n_trials": 0.0,
   "prediction": 0.000744726155670292,
   "status": 0,
   "training_prediction": 0.000549138922282196

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.6872561768530561,
   "metapath_contribution": {
     "CbGbCtD": 0.7517030050643289,
     "CbGdCrCtD": 0.0033983870908591268,
     "CcSEcCtD": 0.2403981074262904,
     "CrCbGaD": 0.004500500418521559
   },
+  "n_trials": 0.0,
   "prediction": 0.00287119164066331,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

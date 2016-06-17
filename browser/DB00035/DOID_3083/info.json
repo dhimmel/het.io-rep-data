@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.308842652795839,
   "metapath_contribution": {
     "CbGbCtD": 0.19964296932601217,
     "CbGeAlD": 0.08713108774080487,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5345232276622522,
     "CrCbGaD": 0.0037066967935582857
   },
+  "n_trials": 0.0,
   "prediction": 0.00161420171536111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

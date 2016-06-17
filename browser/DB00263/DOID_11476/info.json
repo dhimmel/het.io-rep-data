@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00263",
   "compound_name": "Sulfisoxazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.130689206762029,
   "metapath_contribution": {
     "CbGbCtD": 0.9401609296159699,
     "CbGpPWpGaD": 0.04657137997962733,
     "CrCbGaD": 0.01326769040440282
   },
+  "n_trials": 0.0,
   "prediction": 0.0010842109777681901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

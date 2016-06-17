@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.153205668194053,
     "CbGbCtD": 0.22526289067541286,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.22073137133149767,
     "CrCtD": 0.3420167491802263
   },
+  "n_trials": 0.0,
   "prediction": 0.278226967018042,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

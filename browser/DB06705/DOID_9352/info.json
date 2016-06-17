@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06705",
   "compound_name": "Gadofosveset trisodium",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.835500650195058,
   "metapath_contribution": {
     "CbGaD": 0.2918720081971264,
     "CbGbCtD": 0.47855971968254307,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18371240918035414,
     "CrCbGaD": 0.0016266481456415562
   },
+  "n_trials": 0.0,
   "prediction": 0.00577573126284082,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

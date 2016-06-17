@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.23864413686289465,
     "CbGbCtD": 0.17146607039524062,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19234717084519903,
     "CrCtD": 0.2841626696131658
   },
+  "n_trials": 0.0,
   "prediction": 0.0475366169727589,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

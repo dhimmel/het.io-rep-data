@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGbCtD": 0.2587067609340415,
     "CbGdCrCtD": 0.0017872867018365864,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03804605456186632,
     "CtDrD": 0.6452018161426963
   },
+  "n_trials": 0.0,
   "prediction": 0.00453257624811324,
   "status": 0,
   "training_prediction": 0.030069968635242

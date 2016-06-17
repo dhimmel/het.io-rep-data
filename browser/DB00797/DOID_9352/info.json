@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00797",
   "compound_name": "Tolazoline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGaD": 0.2885479697374852,
     "CbGbCtD": 0.2470244977153308,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002995836855700796,
     "CrCrCtD": 0.38892938702674557
   },
+  "n_trials": 0.0,
   "prediction": 0.00410025579157669,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

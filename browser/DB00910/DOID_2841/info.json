@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.391417425227568,
   "metapath_contribution": {
     "CbGaD": 0.4562541978285656,
     "CbGbCtD": 0.30257134923108797,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19347683230857268,
     "CrCbGaD": 0.004997428946372683
   },
+  "n_trials": 0.0,
   "prediction": 0.00207376900257193,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.09728142830601265,
     "CbGbCtD": 0.2477878521102678,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.3244991265377703,
     "CtDrD": 0.21820479341902027
   },
+  "n_trials": 0.0,
   "prediction": 0.053284592337504,
   "status": 0,
   "training_prediction": 0.11848959164978201

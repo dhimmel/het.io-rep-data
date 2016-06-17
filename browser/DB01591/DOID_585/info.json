@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01591",
   "compound_name": "Solifenacin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.8569306665045658,
     "CbGeAlD": 0.01165148387131854,
     "CbGpPWpGaD": 0.06585983176107618,
     "CcSEcCtD": 0.0655580178630395
   },
+  "n_trials": 0.0,
   "prediction": 0.00392978369155975,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

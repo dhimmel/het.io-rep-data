@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00264",
   "compound_name": "Metoprolol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGbCtD": 0.25229167416088244,
     "CbGdCrCtD": 0.0007304256693012586,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.26945256152036173,
     "CrCtD": 0.4019488214109599
   },
+  "n_trials": 0.0,
   "prediction": 0.0262431438899504,
   "status": 0,
   "training_prediction": 0.102938713291495

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7964889466840049,
   "metapath_contribution": {
     "CbGaD": 0.42210712101297265,
     "CbGbCtD": 0.30873200564061765,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13756867036080145,
     "CrCbGaD": 0.0025706997606988326
   },
+  "n_trials": 0.0,
   "prediction": 0.00830405222105279,
   "status": 0,
   "training_prediction": 0.327634465631032

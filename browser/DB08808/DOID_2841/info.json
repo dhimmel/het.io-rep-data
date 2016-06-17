@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08808",
   "compound_name": "Bupranolol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.11126008983150766,
     "CbGbCtD": 0.25239701682665355,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.24274942871187383,
     "CrCtD": 0.3720838642586031
   },
+  "n_trials": 0.0,
   "prediction": 0.0381698287662966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

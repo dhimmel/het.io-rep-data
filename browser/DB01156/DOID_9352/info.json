@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01156",
   "compound_name": "Bupropion",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.1861667101976452,
     "CbGbCtD": 0.2522600922363104,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09769444366849472,
     "CtDrD": 0.42931000037590306
   },
+  "n_trials": 3.0,
   "prediction": 0.0161524359777084,
   "status": 0,
   "training_prediction": 0.0676891674619567

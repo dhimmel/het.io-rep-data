@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.556566970091027,
   "metapath_contribution": {
     "CbGaD": 0.5369143800466253,
     "CbGbCtD": 0.313272340014429,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11825556157069676,
     "CrCbGaD": 0.005254729465941026
   },
+  "n_trials": 0.0,
   "prediction": 0.00150699655168421,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

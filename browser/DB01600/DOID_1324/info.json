@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.3745123537061121,
   "metapath_contribution": {
     "CbGaD": 0.491263003074468,
     "CbGbCtD": 0.2294201316155637,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21920292122110302,
     "CrCbGaD": 0.007323403501271438
   },
+  "n_trials": 0.0,
   "prediction": 0.00144552576507458,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

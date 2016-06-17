@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01198",
   "compound_name": "Zopiclone",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.841352405721717,
   "metapath_contribution": {
     "CbGaD": 0.6353895840015655,
     "CbGeAlD": 0.07374230256101924,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19929675769919816,
     "CrCbGaD": 0.005151930937430145
   },
+  "n_trials": 0.0,
   "prediction": 0.00227592432312077,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

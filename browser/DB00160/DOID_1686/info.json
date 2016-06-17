@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.0294117647058824,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.101430429128739,
   "metapath_contribution": {
     "CbGdCrCtD": 0.04049679101243991,
     "CbGeAlD": 0.19095747220456638,
     "CbGpPWpGaD": 0.7685239482471169,
     "CrCbGaD": 2.178853587673356e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0009879386252449269,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

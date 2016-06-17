@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.615084525357607,
   "metapath_contribution": {
     "CbGaD": 0.23542496600344362,
     "CbGbCtD": 0.5011135122618294,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.10741369800587254,
     "CrCbGaD": 0.0012290257225859489
   },
+  "n_trials": 0.0,
   "prediction": 0.00304510026569204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

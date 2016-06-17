@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.26332899869960996,
   "metapath_contribution": {
     "CbGaD": 0.19997670683338484,
     "CbGbCtD": 0.4421954854003262,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.2103933964328971,
     "CrCbGaD": 0.0036720264066133538
   },
+  "n_trials": 0.0,
   "prediction": 0.00149374253413119,
   "status": 0,
   "training_prediction": 0.00823612853471393

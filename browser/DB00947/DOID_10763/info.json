@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.46814044213264006,
   "metapath_contribution": {
     "CbGaD": 0.5195305629336059,
     "CbGbCtD": 0.15506696707801246,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17455831442981748,
     "CrCbGaD": 0.0014563227291688964
   },
+  "n_trials": 0.0,
   "prediction": 0.0035745886201081797,
   "status": 0,
   "training_prediction": 0.0411461316215326

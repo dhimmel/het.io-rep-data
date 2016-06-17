@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.35464348423345987,
     "CbGbCtD": 0.21870436296856471,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08374326266341665,
     "CrCrCtD": 0.33665463889261127
   },
+  "n_trials": 0.0,
   "prediction": 0.0136026335469899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

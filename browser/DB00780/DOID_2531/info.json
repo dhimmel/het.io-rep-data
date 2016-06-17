@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.6235370611183361,
   "metapath_contribution": {
     "CbGbCtD": 0.40600209852626734,
     "CbGeAlD": 0.03872847936497412,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00031925624699828307,
     "CrCrCtD": 0.358925040358496
   },
+  "n_trials": 0.0,
   "prediction": 0.00286503080175364,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00894",
   "compound_name": "Testolactone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGbCtD": 0.06759131144590008,
     "CcSEcCtD": 0.04181422111034501,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3643268918267693,
     "CrCtD": 0.524455327663235
   },
+  "n_trials": 0.0,
   "prediction": 0.007985222287774471,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.029258777633290003,
   "metapath_contribution": {
-    "CbGaD": 0.7315616113719218,
-    "CbGeAlD": 0.035596457013742255,
-    "CbGpPWpGaD": 0.22888538475672304,
-    "CrCbGaD": 0.003956546857613013
+    "CbGaD": 0.7315616113719217,
+    "CbGeAlD": 0.03559645701374225,
+    "CbGpPWpGaD": 0.22888538475672301,
+    "CrCbGaD": 0.003956546857613012
   },
+  "n_trials": 0.0,
   "prediction": 0.000534003717479539,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

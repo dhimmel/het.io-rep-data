@@ -1,15 +1,18 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.0968790637191157,
   "metapath_contribution": {
-    "CbGbCtD": 0.08724263474943536,
-    "CbGdCrCtD": 0.007849968163929272,
-    "CbGeAlD": 0.38358762366346966,
-    "CbGpPWpGaD": 0.3671933107739097,
-    "CcSEcCtD": 0.15412646264925614
+    "CbGbCtD": 0.08724263474943535,
+    "CbGdCrCtD": 0.00784996816392927,
+    "CbGeAlD": 0.3835876236634696,
+    "CbGpPWpGaD": 0.36719331077390965,
+    "CcSEcCtD": 0.1541264626492561
   },
+  "n_trials": 0.0,
   "prediction": 0.000884979960293648,
   "status": 0,
   "training_prediction": 0.00649545381962692

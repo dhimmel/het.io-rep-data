@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00186",
   "compound_name": "Lorazepam",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.41222366710013003,
   "metapath_contribution": {
     "CbGbCtD": 0.5861835958406617,
     "CbGeAlD": 0.008824284007023925,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.005413713972200015,
     "CrCrCtD": 0.20134993484183358
   },
+  "n_trials": 0.0,
   "prediction": 0.0022114881834393897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

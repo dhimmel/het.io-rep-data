@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.260078023407022,
   "metapath_contribution": {
     "CbGbCtD": 0.3837494724399535,
     "CbGeAlD": 0.16011687308921455,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3236723772346834,
     "CrCbGaD": 0.0005454155381405224
   },
+  "n_trials": 0.0,
   "prediction": 0.00164389606077037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

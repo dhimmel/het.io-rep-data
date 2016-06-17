@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06605",
   "compound_name": "Apixaban",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.32422100246701613,
     "CbGbCtD": 0.5007457512147695,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08171780728566556,
     "CcSEcCtD": 0.08720447689189587
   },
+  "n_trials": 0.0,
   "prediction": 0.0073486157115218295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

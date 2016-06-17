@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00205",
   "compound_name": "Pyrimethamine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.568920676202861,
   "metapath_contribution": {
     "CbGbCtD": 0.7910060664082749,
     "CbGeAlD": 0.026782101409705092,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1374666664776308,
     "CrCbGaD": 0.0013265966217854016
   },
+  "n_trials": 0.0,
   "prediction": 0.00202001614873052,
   "status": 0,
   "training_prediction": 0.00587362208722733

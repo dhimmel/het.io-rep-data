@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.5412572283835623,
     "CbGbCtD": 0.14227077834629098,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10669278329794234,
     "CrCbGaD": 0.0006225843880484355
   },
+  "n_trials": 0.0,
   "prediction": 0.00469824727613504,
   "status": 0,
   "training_prediction": 0.0231376460952098

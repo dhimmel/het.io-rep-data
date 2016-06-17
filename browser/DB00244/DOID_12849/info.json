@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.0441176470588235,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.165799739921977,
   "metapath_contribution": {
     "CbGaD": 0.5815302077435225,
     "CbGeAlD": 0.10505305995044571,
     "CbGpPWpGaD": 0.29938465203431036,
     "CrCbGaD": 0.014032080271721382
   },
+  "n_trials": 0.0,
   "prediction": 0.000811260829587091,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

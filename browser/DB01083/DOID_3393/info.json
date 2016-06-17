@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01083",
   "compound_name": "Orlistat",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.29968251777230254,
     "CbGbCtD": 0.0697679074332939,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0025950682215898414,
     "CtDrD": 0.4228455724169063
   },
+  "n_trials": 0.0,
   "prediction": 0.0129654628151358,
   "status": 0,
   "training_prediction": 0.105750544683099

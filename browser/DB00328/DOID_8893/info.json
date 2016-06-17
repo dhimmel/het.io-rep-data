@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.2633260368289444,
     "CbGbCtD": 0.3327349662842714,
@@ -13,6 +15,7 @@
     "CpDpCtD": 0.2642095095229057,
     "CrCbGaD": 0.001223927041905944
   },
+  "n_trials": 0.0,
   "prediction": 0.00606676696709845,
   "status": 0,
   "training_prediction": 0.0253307843893955

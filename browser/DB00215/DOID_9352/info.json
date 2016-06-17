@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGaD": 0.3765269936780837,
     "CbGbCtD": 0.3695112409160361,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1775669848290668,
     "CrCbGaD": 0.0024068659330777793
   },
+  "n_trials": 0.0,
   "prediction": 0.00632542522951279,
   "status": 0,
   "training_prediction": 0.0273802164137852

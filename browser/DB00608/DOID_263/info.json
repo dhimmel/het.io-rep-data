@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.655396618985696,
   "metapath_contribution": {
     "CbGaD": 0.34789404806747926,
     "CbGbCtD": 0.4499372137773744,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08838399551455613,
     "CrCbGaD": 0.0045976130087636595
   },
+  "n_trials": 0.0,
   "prediction": 0.00228462224248876,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

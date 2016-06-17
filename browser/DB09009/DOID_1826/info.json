@@ -1,8 +1,10 @@
 {
   "compound_id": "DB09009",
   "compound_name": "Articaine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.38791935298778296,
     "CbGbCtD": 0.42532481684473006,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09638739074659089,
     "CrCbGaD": 0.0029401555219233213
   },
+  "n_trials": 0.0,
   "prediction": 0.0151052377527841,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

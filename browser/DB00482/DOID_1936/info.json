@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.7002600780234071,
   "metapath_contribution": {
     "CbGaD": 0.2911078749030322,
     "CbGbCtD": 0.37582025358065935,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17350770867715298,
     "CrCbGaD": 0.00045619314838584314
   },
+  "n_trials": 0.0,
   "prediction": 0.0024352284557355897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

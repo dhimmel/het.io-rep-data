@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.37581274382314706,
   "metapath_contribution": {
     "CbGbCtD": 0.6192306208298491,
     "CbGeAlD": 0.012446802097670333,
     "CbGpPWpGaD": 0.1279984217140053,
     "CcSEcCtD": 0.2403241553584752
   },
+  "n_trials": 1.0,
   "prediction": 0.0014648600101121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

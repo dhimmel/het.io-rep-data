@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
     "CbGaD": 0.8596785170172065,
     "CbGeAlD": 0.02273695637307336,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.032050272308143904,
     "CrCbGaD": 0.007517113820081175
   },
+  "n_trials": 0.0,
   "prediction": 0.00208085477467387,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

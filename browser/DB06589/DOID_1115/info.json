@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.3669291719947784,
     "CbGbCtD": 0.11126055348960151,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.049990147348560436,
     "CtDrD": 0.3364600536880964
   },
+  "n_trials": 0.0,
   "prediction": 0.0122106662206173,
   "status": 0,
   "training_prediction": 0.024372340866492995

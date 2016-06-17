@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.5312999727279939,
     "CbGbCtD": 0.18377124021095895,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.10594894261523422,
     "CcSEcCtD": 0.07880771052206033
   },
+  "n_trials": 0.0,
   "prediction": 0.00510993421461578,
   "status": 0,
   "training_prediction": 0.009307680402168002

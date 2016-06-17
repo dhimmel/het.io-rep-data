@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.5457805876201799,
     "CbGbCtD": 0.23860581003786707,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.032139838738766247,
     "CrCbGaD": 0.002247173767669665
   },
+  "n_trials": 0.0,
   "prediction": 0.00246987022825886,
   "status": 0,
   "training_prediction": 0.0058620066672691205

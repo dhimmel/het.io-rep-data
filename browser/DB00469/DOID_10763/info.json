@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.2974152080820293,
     "CbGbCtD": 0.4249522579126075,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18099490666622314,
     "CrCbGaD": 0.0026971607247210042
   },
+  "n_trials": 0.0,
   "prediction": 0.007053793727250559,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

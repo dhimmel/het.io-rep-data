@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.6508452535760729,
   "metapath_contribution": {
     "CbGaD": 0.7768903803416569,
     "CbGeAlD": 0.11978390550946144,
     "CbGpPWpGaD": 0.0962146318004421,
     "CrCbGaD": 0.007111082348439554
   },
+  "n_trials": 0.0,
   "prediction": 0.0018053255861797102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

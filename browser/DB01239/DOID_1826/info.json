@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.21749906348649967,
     "CbGbCtD": 0.0503140323571447,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2780391856654363,
     "CrCtD": 0.3722289207738318
   },
+  "n_trials": 0.0,
   "prediction": 0.0139358546770565,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

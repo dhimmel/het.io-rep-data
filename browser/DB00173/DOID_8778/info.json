@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00173",
   "compound_name": "Adenine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGeAlD": 0.020381487579975623,
     "CbGpPWpGaD": 0.002738739755146077,
     "CrCrCtD": 0.33262938772405964,
     "CrCtD": 0.6442503849408187
   },
+  "n_trials": 0.0,
   "prediction": 0.0159328343421232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

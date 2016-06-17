@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGaD": 0.15963450499963733,
     "CbGbCtD": 0.46407951585684676,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1945754112891387,
     "CrCbGaD": 0.000726065111548272
   },
+  "n_trials": 0.0,
   "prediction": 0.00156075500242214,
   "status": 0,
   "training_prediction": 0.0037193354553009795

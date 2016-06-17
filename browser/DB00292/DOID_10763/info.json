@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.36904660582123044,
     "CbGbCtD": 0.28331324221825444,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002371481270243514,
     "CrCrCtD": 0.15951569577361324
   },
+  "n_trials": 0.0,
   "prediction": 0.0142923890259553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

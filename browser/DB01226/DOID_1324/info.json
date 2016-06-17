@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01226",
   "compound_name": "Mivacurium",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGbCtD": 0.19345127111462065,
     "CbGeAlD": 0.11789520734035545,
     "CbGpPWpGaD": 0.3719529294339145,
     "CcSEcCtD": 0.3167005921111094
   },
+  "n_trials": 0.0,
   "prediction": 0.0019552938023713697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

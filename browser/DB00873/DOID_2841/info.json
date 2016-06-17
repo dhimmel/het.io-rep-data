@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00873",
   "compound_name": "Loteprednol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.09184053604441847,
     "CbGbCtD": 0.1615863201786914,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.18165500959403236,
     "CrCtD": 0.2519389734622361
   },
+  "n_trials": 0.0,
   "prediction": 0.0860910368606964,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

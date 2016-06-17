@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.287386215864759,
   "metapath_contribution": {
     "CbGaD": 0.43213749789705724,
     "CbGbCtD": 0.34094274911808076,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08779364849662186,
     "CrCbGaD": 0.004773242093563292
   },
+  "n_trials": 0.0,
   "prediction": 0.00155711962224916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

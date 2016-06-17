@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00547",
   "compound_name": "Desoximetasone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGbCtD": 0.13824415439415186,
     "CcSEcCtD": 0.03239102033203833,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.1959893604092967,
     "CrCtD": 0.26908661995235417
   },
+  "n_trials": 0.0,
   "prediction": 0.0766237695097755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

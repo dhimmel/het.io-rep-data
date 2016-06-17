@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.5071521456436929,
   "metapath_contribution": {
     "CbGbCtD": 0.6581886477292714,
     "CbGeAlD": 0.10686825232044204,
     "CcSEcCtD": 0.23494309995028645
   },
+  "n_trials": 1.0,
   "prediction": 0.0024926645898469104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

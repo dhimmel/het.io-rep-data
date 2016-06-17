@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00800",
   "compound_name": "Fenoldopam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.19321410397513653,
     "CbGbCtD": 0.2925143772446536,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.050728639063036415,
     "CtDrD": 0.3974488081253082
   },
+  "n_trials": 0.0,
   "prediction": 0.0249234174136888,
   "status": 0,
   "training_prediction": 0.0616188442062614

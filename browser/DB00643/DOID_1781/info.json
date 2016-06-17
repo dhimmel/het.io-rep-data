@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.0955786736020806,
   "metapath_contribution": {
     "CbGbCtD": 0.46467432971285244,
     "CbGdCrCtD": 0.03949861093416455,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.294282960071901,
     "CrCbGaD": 0.02565189064460057
   },
+  "n_trials": 0.0,
   "prediction": 0.000827292672673854,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

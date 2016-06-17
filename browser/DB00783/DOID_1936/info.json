@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.788036410923277,
   "metapath_contribution": {
     "CbGaD": 0.2982120817747913,
     "CbGbCtD": 0.49921646166299605,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09627406155940219,
     "CrCbGaD": 0.0038210874279775405
   },
+  "n_trials": 1.0,
   "prediction": 0.0028681075455079,
   "status": 0,
   "training_prediction": 0.00776626825767773

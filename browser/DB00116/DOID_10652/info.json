@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.486996098829649,
   "metapath_contribution": {
-    "CbGaD": 0.596231399863583,
-    "CbGeAlD": 0.13505361817796596,
-    "CbGpPWpGaD": 0.2666455399927274,
+    "CbGaD": 0.5962313998635831,
+    "CbGeAlD": 0.135053618177966,
+    "CbGpPWpGaD": 0.26664553999272744,
     "CrCbGaD": 0.0020694419657235653
   },
+  "n_trials": 0.0,
   "prediction": 0.00181386968061248,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

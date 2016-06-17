@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.3508793646003846,
     "CbGeAlD": 0.052969396595141015,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0032046536603457655,
     "CtDrD": 0.5614269404232922
   },
+  "n_trials": 0.0,
   "prediction": 0.00581062728316407,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

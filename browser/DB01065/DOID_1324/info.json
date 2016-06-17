@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.46166414748317774,
     "CbGbCtD": 0.2829508210991732,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09450788501285838,
     "CrCbGaD": 0.0011460540436687016
   },
+  "n_trials": 1.0,
   "prediction": 0.004551678043283229,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

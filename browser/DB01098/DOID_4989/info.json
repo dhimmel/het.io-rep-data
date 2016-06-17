@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.33940182054616397,
   "metapath_contribution": {
     "CbGaD": 0.6224544549733807,
     "CbGeAlD": 0.16152920763201586,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05835525507391759,
     "CrCbGaD": 0.0008913094433952747
   },
+  "n_trials": 0.0,
   "prediction": 0.00121979687318565,
   "status": 0,
   "training_prediction": 0.0014973613490414802

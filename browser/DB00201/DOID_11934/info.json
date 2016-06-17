@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.5761846124833074,
     "CbGbCtD": 0.20466647209278682,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0363399933463961,
     "CrCbGaD": 0.0001738004441394445
   },
+  "n_trials": 0.0,
   "prediction": 0.0040773992277593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

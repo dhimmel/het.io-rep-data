@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.213235294117647,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.21131339401820498,
   "metapath_contribution": {
     "CbGaD": 0.5544373727415817,
     "CbGeAlD": 0.17288933207595486,
     "CbGpPWpGaD": 0.2665278875232303,
     "CrCbGaD": 0.006145407659233122
   },
+  "n_trials": 0.0,
   "prediction": 0.000910114793704543,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

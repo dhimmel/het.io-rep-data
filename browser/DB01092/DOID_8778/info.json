@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.18595578673602103,
   "metapath_contribution": {
     "CbGbCtD": 0.8157910954183067,
     "CbGeAlD": 0.09642095452888813,
     "CbGpPWpGaD": 0.08754284042926858,
     "CrCbGaD": 0.0002451096235364961
   },
+  "n_trials": 0.0,
   "prediction": 0.00103553749640449,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

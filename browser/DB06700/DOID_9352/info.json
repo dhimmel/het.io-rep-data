@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.3534400531368114,
     "CbGbCtD": 0.3712019099141066,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23788191708868958,
     "CrCbGaD": 0.00012045570669388948
   },
+  "n_trials": 0.0,
   "prediction": 0.00247374942856479,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

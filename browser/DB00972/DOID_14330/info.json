@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.527958387516255,
   "metapath_contribution": {
     "CbGaD": 0.8083565124070742,
     "CbGeAlD": 0.029585236183593103,
     "CbGpPWpGaD": 0.15553222157196156,
     "CrCbGaD": 0.006526029837371203
   },
+  "n_trials": 0.0,
   "prediction": 0.00145066585447734,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

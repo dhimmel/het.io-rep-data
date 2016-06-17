@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.610533159947984,
   "metapath_contribution": {
     "CbGaD": 0.35777044066550207,
     "CbGbCtD": 0.45649034230756097,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08500031005335416,
     "CrCbGaD": 0.0029557954416041705
   },
+  "n_trials": 0.0,
   "prediction": 0.0030190623288858603,
   "status": 0,
   "training_prediction": 0.0132146644519962

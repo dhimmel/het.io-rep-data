@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.43888166449934995,
   "metapath_contribution": {
     "CbGbCtD": 0.74886375215989,
     "CbGeAlD": 0.02478278268391963,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1046916519767337,
     "CrCbGaD": 0.002502323856431429
   },
+  "n_trials": 0.0,
   "prediction": 0.0028774021959538103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

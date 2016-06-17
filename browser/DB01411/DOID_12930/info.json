@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.5591443809642285,
     "CbGbCtD": 0.29844415751097786,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1295307884324929,
     "CrCbGaD": 0.0035482343942668153
   },
+  "n_trials": 0.0,
   "prediction": 0.004409789556642321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

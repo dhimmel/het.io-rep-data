@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.568920676202861,
   "metapath_contribution": {
     "CbGaD": 0.734406465063893,
     "CbGeAlD": 0.11528454598199588,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.044417573634378316,
     "CrCbGaD": 0.006461718009272395
   },
+  "n_trials": 0.0,
   "prediction": 0.00153049781253922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

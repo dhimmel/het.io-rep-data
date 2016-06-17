@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
-    "CbGaD": 0.34877073553875043,
-    "CbGbCtD": 0.3930980131414044,
-    "CbGeAlD": 0.00029632781320006895,
-    "CbGpPWpGaD": 0.10477472075358572,
+    "CbGaD": 0.3487707355387504,
+    "CbGbCtD": 0.39309801314140436,
+    "CbGeAlD": 0.0002963278132000689,
+    "CbGpPWpGaD": 0.10477472075358571,
     "CcSEcCtD": 0.15095075483634518,
     "CrCbGaD": 0.002109447916714238
   },
+  "n_trials": 0.0,
   "prediction": 0.00279778430577848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

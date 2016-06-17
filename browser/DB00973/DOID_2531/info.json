@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00973",
   "compound_name": "Ezetimibe",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.4312643656166175,
     "CbGbCtD": 0.33479843871900533,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07097240993428947,
     "CcSEcCtD": 0.1236500962919686
   },
+  "n_trials": 0.0,
   "prediction": 0.00611186863023195,
   "status": 0,
   "training_prediction": 0.0853493262055488

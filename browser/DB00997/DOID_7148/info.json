@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.392067620286086,
   "metapath_contribution": {
     "CbGaD": 0.33391276813920306,
     "CbGbCtD": 0.39735620454747966,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09214279328717817,
     "CcSEcCtD": 0.1305093368818072
   },
+  "n_trials": 0.0,
   "prediction": 0.0014968926678927698,
   "status": 0,
   "training_prediction": 0.0489942921046234

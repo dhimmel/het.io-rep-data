@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.24649528988642844,
     "CbGeAlD": 0.04788859222135499,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.001100206776445397,
     "CtDrD": 0.5819373272044037
   },
+  "n_trials": 0.0,
   "prediction": 0.00509304426930439,
   "status": 0,
   "training_prediction": 0.0120778123901475

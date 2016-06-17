@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.648244473342003,
   "metapath_contribution": {
     "CbGaD": 0.1341184293673513,
     "CbGbCtD": 0.5075664867008227,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1822457337964104,
     "CrCbGaD": 0.00119240581953788
   },
+  "n_trials": 0.0,
   "prediction": 0.00255530246031293,
   "status": 0,
   "training_prediction": 0.0244587139135152

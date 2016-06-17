@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGbCtD": 0.25071926499586594,
     "CbGdCrCtD": 0.0006624580153476273,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.29405978138335886,
     "CrCtD": 0.44278997421812605
   },
+  "n_trials": 0.0,
   "prediction": 0.0227894356532687,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

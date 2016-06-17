@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.4662767015466748,
     "CbGbCtD": 0.3292025563788008,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.062005572979329744,
     "CrCbGaD": 0.0038682122768649925
   },
+  "n_trials": 1.0,
   "prediction": 0.008287593466969091,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

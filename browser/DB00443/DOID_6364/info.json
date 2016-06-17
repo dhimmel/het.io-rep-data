@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.243172951885566,
   "metapath_contribution": {
     "CbGaD": 0.6155895886705016,
     "CbGbCtD": 0.18335065884950608,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17004770983021666,
     "CrCbGaD": 0.00117906798969888
   },
+  "n_trials": 1.0,
   "prediction": 0.00168739257309395,
   "status": 0,
   "training_prediction": 0.0205672604760362

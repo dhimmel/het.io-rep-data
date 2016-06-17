@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00337",
   "compound_name": "Pimecrolimus",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.511053315994798,
   "metapath_contribution": {
     "CbGaD": 0.5789676223262773,
     "CbGbCtD": 0.13965790143783338,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12257378793925301,
     "CrCbGaD": 0.005454013190959447
   },
+  "n_trials": 0.0,
   "prediction": 0.00188177943397942,
   "status": 0,
   "training_prediction": 0.00642558841283812

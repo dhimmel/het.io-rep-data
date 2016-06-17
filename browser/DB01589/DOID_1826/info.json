@@ -1,21 +1,23 @@
 {
   "compound_id": "DB01589",
   "compound_name": "Quazepam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
-    "CbGaD": 0.11209570388555977,
-    "CbGbCtD": 0.14120671886908936,
-    "CbGeAlD": 0.00865107269375054,
-    "CbGpPWpGaD": 0.02530319130484536,
+    "CbGaD": 0.11209570388555978,
+    "CbGbCtD": 0.1412067188690894,
+    "CbGeAlD": 0.008651072693750542,
+    "CbGpPWpGaD": 0.025303191304845363,
     "CcSEcCtD": 0.019282668546277963,
-    "CiPCiCtD": 0.25710863257439504,
+    "CiPCiCtD": 0.2571086325743951,
     "CpDpCtD": 0.12584714562442453,
-    "CrCbGaD": 0.001142981671252569,
-    "CrCrCtD": 0.12736480966623642,
-    "CrCtD": 0.18199707516416835
+    "CrCbGaD": 0.0011429816712525693,
+    "CrCrCtD": 0.12736480966623645,
+    "CrCtD": 0.18199707516416838
   },
+  "n_trials": 0.0,
   "prediction": 0.569973656713368,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

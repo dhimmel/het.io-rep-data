@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06292",
   "compound_name": "Dapagliflozin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.4890598888583064,
     "CbGbCtD": 0.30295383292646366,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09211833292400556,
     "CrCbGaD": 0.003879305346397115
   },
+  "n_trials": 0.0,
   "prediction": 0.0139734530163757,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

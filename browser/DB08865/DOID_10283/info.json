@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8289986996098829,
   "metapath_contribution": {
     "CbGaD": 0.4260204026141345,
     "CbGbCtD": 0.23392656616876029,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1478228127752639,
     "CcSEcCtD": 0.1050616143708343
   },
+  "n_trials": 1.0,
   "prediction": 0.00512028850797769,
   "status": 0,
   "training_prediction": 0.0214437599119531

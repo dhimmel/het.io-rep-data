@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00596",
   "compound_name": "Halobetasol Propionate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.27438231469440805,
   "metapath_contribution": {
     "CbGaD": 0.413230070554317,
     "CbGbCtD": 0.05562717565255009,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0062597350439379815,
     "CrCrCtD": 0.4900980342311971
   },
+  "n_trials": 0.0,
   "prediction": 0.00143460252701525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

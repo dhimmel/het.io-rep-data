@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.32182849067799596,
     "CbGbCtD": 0.4468778125388649,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1497406315656579,
     "CrCbGaD": 0.0013739451842116606
   },
+  "n_trials": 0.0,
   "prediction": 0.0045206865241757205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

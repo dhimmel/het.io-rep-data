@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.42782834850455104,
   "metapath_contribution": {
     "CbGaD": 0.6737668868481749,
     "CbGbCtD": 0.14394262995122026,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06346810103993357,
     "CrCbGaD": 0.011522002471297033
   },
+  "n_trials": 0.0,
   "prediction": 0.00136922841813735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

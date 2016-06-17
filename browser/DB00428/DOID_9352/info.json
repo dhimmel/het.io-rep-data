@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
     "CbGaD": 0.5682988281240974,
     "CbGbCtD": 0.20425529006515292,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0859531336609948,
     "CrCbGaD": 0.002137409430425294
   },
+  "n_trials": 0.0,
   "prediction": 0.0038817902134077103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

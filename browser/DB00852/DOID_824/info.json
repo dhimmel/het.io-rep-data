@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.7696964670873184,
     "CbGeAlD": 0.060905911809617436,
     "CbGpPWpGaD": 0.16925126584121494,
     "CrCbGaD": 0.00014635526184912382
   },
+  "n_trials": 0.0,
   "prediction": 0.0022770364207514698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

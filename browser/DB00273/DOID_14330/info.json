@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00273",
   "compound_name": "Topiramate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.702772054725743,
     "CbGeAlD": 0.12116103393140373,
     "CbGpPWpGaD": 0.1760669113428533
   },
+  "n_trials": 3.0,
   "prediction": 0.00474452642268389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

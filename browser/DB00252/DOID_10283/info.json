@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.47464239271781494,
   "metapath_contribution": {
     "CbGaD": 0.319769314196781,
     "CbGbCtD": 0.42847055969319986,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1384941423769893,
     "CrCbGaD": 0.0026500789681414777
   },
+  "n_trials": 0.0,
   "prediction": 0.0022028322123661603,
   "status": 0,
   "training_prediction": 0.00931251777449622

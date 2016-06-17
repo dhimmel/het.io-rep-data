@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.16501827025352322,
     "CbGbCtD": 0.4929518337633295,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15564623602956512,
     "CcSEcCtD": 0.1467012339073906
   },
+  "n_trials": 0.0,
   "prediction": 0.00354478987207298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

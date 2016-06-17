@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7373211963589079,
   "metapath_contribution": {
     "CbGbCtD": 0.2922383887133373,
     "CbGdCrCtD": 0.0021512025769267864,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05897523197103553,
     "CtDrD": 0.5324020030412284
   },
+  "n_trials": 15.0,
   "prediction": 0.0022387820935549,
   "status": 0,
   "training_prediction": 0.0253984818549603

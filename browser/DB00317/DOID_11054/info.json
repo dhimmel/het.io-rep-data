@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.5286085825747721,
   "metapath_contribution": {
     "CbGaD": 0.3717960082899964,
     "CbGbCtD": 0.2708750033552155,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13498219636591147,
     "CrCbGaD": 0.006660490151912465
   },
+  "n_trials": 3.0,
   "prediction": 0.00163420809728672,
   "status": 0,
   "training_prediction": 0.004187555931963879

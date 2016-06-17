@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.437581274382315,
   "metapath_contribution": {
     "CbGaD": 0.7138525604618607,
     "CbGeAlD": 0.0944451744067521,
     "CbGpPWpGaD": 0.1836273893927316,
     "CrCbGaD": 0.008074875738655575
   },
+  "n_trials": 0.0,
   "prediction": 0.00142842890114825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

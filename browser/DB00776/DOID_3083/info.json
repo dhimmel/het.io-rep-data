@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00776",
   "compound_name": "Oxcarbazepine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.524707412223667,
   "metapath_contribution": {
     "CbGaD": 0.3799049618517281,
     "CbGbCtD": 0.38770682743628304,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19789492768427383,
     "CrCbGaD": 0.005558026939056366
   },
+  "n_trials": 0.0,
   "prediction": 0.00222976170624603,
   "status": 0,
   "training_prediction": 0.00490939722823971

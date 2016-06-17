@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.579973992197659,
   "metapath_contribution": {
     "CbGaD": 0.4320407379734158,
     "CbGbCtD": 0.37377016336207564,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08061687514021526,
     "CcSEcCtD": 0.11004929553684596
   },
+  "n_trials": 0.0,
   "prediction": 0.00231804365904296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

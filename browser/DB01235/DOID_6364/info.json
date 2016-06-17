@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.56371911573472,
   "metapath_contribution": {
     "CbGbCtD": 0.1845615117943845,
     "CbGeAlD": 0.03894952565318495,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.57259724644186,
     "CrCbGaD": 0.0012452943901337464
   },
+  "n_trials": 0.0,
   "prediction": 0.00264744503231594,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

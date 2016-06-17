@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6196358907672299,
   "metapath_contribution": {
     "CbGaD": 0.27989487064334545,
     "CbGbCtD": 0.4687069240033293,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.140421493264099,
     "CrCbGaD": 0.0025220492220781594
   },
+  "n_trials": 0.0,
   "prediction": 0.00308294215630594,
   "status": 0,
   "training_prediction": 0.0134913520317997

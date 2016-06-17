@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01124",
   "compound_name": "Tolbutamide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.663198959687906,
   "metapath_contribution": {
     "CbGaD": 0.38222614343952305,
     "CbGbCtD": 0.4235023298464067,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08835914070708303,
     "CrCbGaD": 0.0035001529219408673
   },
+  "n_trials": 0.0,
   "prediction": 0.00513606172557457,
   "status": 0,
   "training_prediction": 0.0247202549827857

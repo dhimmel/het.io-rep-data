@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.35947743887468875,
     "CbGbCtD": 0.4342476082245549,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08993140796096037,
     "CrCbGaD": 0.0022280255561068674
   },
+  "n_trials": 0.0,
   "prediction": 0.00348885075759102,
   "status": 0,
   "training_prediction": 0.00423293567098505

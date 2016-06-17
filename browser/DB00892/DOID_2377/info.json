@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00892",
   "compound_name": "Oxybuprocaine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.6475942782834849,
   "metapath_contribution": {
     "CbGaD": 0.7997392464824643,
     "CbGbCtD": 0.09615238062431869,
     "CbGeAlD": 0.09930028074027952,
     "CrCbGaD": 0.004808092152937609
   },
+  "n_trials": 0.0,
   "prediction": 0.0022550648773100803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

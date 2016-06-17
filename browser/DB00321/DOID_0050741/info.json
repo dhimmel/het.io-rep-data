@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.3298581441824132,
     "CbGbCtD": 0.25516532570597905,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.2575645920280245,
     "CrCbGaD": 0.0023063368457818174
   },
+  "n_trials": 0.0,
   "prediction": 0.0157563863869118,
   "status": 0,
   "training_prediction": 0.0190667707230374

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01586",
   "compound_name": "Ursodeoxycholic acid",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.841352405721717,
   "metapath_contribution": {
     "CbGbCtD": 0.5707389124332413,
     "CbGeAlD": 0.0777676683022097,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2531312036936984,
     "CrCbGaD": 0.007764660251860081
   },
+  "n_trials": 0.0,
   "prediction": 0.00272792527545068,
   "status": 0,
   "training_prediction": 0.00697819341638869

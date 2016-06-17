@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.879063719115735,
   "metapath_contribution": {
     "CbGbCtD": 0.7651268470184038,
     "CbGpPWpGaD": 0.011970169274616107,
     "CcSEcCtD": 0.22290298370698014
   },
+  "n_trials": 0.0,
   "prediction": 0.00398036917527509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

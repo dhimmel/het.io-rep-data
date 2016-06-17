@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.18652363049997805,
     "CbGbCtD": 0.16542438236911206,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.21164652232524017,
     "CrCtD": 0.365048889478408
   },
+  "n_trials": 0.0,
   "prediction": 0.0455950121183043,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

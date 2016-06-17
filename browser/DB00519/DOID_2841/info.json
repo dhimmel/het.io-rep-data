@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00519",
   "compound_name": "Trandolapril",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.704161248374512,
   "metapath_contribution": {
     "CbGaD": 0.4007831744692995,
     "CbGbCtD": 0.3607548456280908,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.20216444747126625,
     "CrCbGaD": 0.004174738951439455
   },
+  "n_trials": 0.0,
   "prediction": 0.0036451166746609104,
   "status": 0,
   "training_prediction": 0.0400783365945482

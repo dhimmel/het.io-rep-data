@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.3377859810689059,
     "CbGeAlD": 0.029928083469963177,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0012570433854340276,
     "CtDrD": 0.5648430988758437
   },
+  "n_trials": 1.0,
   "prediction": 0.00354090250777591,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

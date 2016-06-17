@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00275",
   "compound_name": "Olmesartan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.4693038209395673,
     "CbGbCtD": 0.31044149133037496,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14858757273210668,
     "CrCbGaD": 0.005090049397544897
   },
+  "n_trials": 0.0,
   "prediction": 0.0041468206417809,
   "status": 0,
   "training_prediction": 0.0371737156132807

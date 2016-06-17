@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.728289446117731,
     "CbGeAlD": 0.049095109650762275,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12979671973033943,
     "CrCbGaD": 0.010298447849935059
   },
+  "n_trials": 0.0,
   "prediction": 0.0035131685656681,
   "status": 0,
   "training_prediction": 0.0042624176775238705

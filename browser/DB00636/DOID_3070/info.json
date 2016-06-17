@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00636",
   "compound_name": "Clofibrate",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.8222116131577468,
     "CbGbCtD": 0.023635847332499318,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14206384790138613,
     "CrCbGaD": 0.00405259116098783
   },
+  "n_trials": 0.0,
   "prediction": 0.00230329219321208,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

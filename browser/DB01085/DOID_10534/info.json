@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01085",
   "compound_name": "Pilocarpine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.6541722779246033,
     "CbGbCtD": 0.04528153600950273,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05717444295435551,
     "CcSEcCtD": 0.24136242413034228
   },
+  "n_trials": 0.0,
   "prediction": 0.00382313761491915,
   "status": 0,
   "training_prediction": 0.00840150289444485

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00353",
   "compound_name": "Methylergometrine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGaD": 0.3075387374606794,
     "CbGbCtD": 0.08093512195995994,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.4998611662165472,
     "CrCbGaD": 0.002915885845251454
   },
+  "n_trials": 0.0,
   "prediction": 0.00410006288041334,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.46684005201560497,
   "metapath_contribution": {
     "CbGaD": 0.3360993398137255,
     "CbGbCtD": 0.28459399378456585,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.19267141813624825,
     "CrCbGaD": 0.0033113574303731976
   },
+  "n_trials": 1.0,
   "prediction": 0.00221578438948584,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01154",
   "compound_name": "Thiamylal",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.5890767230169051,
   "metapath_contribution": {
     "CbGaD": 0.56687538083309,
     "CbGbCtD": 0.27204155263980034,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12120454424830943,
     "CrCbGaD": 0.006786344054883331
   },
+  "n_trials": 0.0,
   "prediction": 0.00297898941453553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

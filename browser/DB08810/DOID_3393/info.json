@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08810",
   "compound_name": "Cinitapride",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7581274382314691,
   "metapath_contribution": {
     "CbGaD": 0.5436027431444025,
     "CbGbCtD": 0.1925448470594449,
     "CbGeAlD": 0.05593802785739791,
     "CbGpPWpGaD": 0.20791438193875472
   },
+  "n_trials": 0.0,
   "prediction": 0.00428102014065813,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

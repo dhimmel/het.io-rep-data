@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00974",
   "compound_name": "Edetic Acid",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.633289986996099,
   "metapath_contribution": {
     "CbGbCtD": 0.28633414505977034,
     "CbGeAlD": 0.13686815910877184,
     "CbGpPWpGaD": 0.1972613538359855,
     "CcSEcCtD": 0.3795363419954723
   },
+  "n_trials": 1.0,
   "prediction": 0.00227882789678015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

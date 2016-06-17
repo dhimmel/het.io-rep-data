@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00433",
   "compound_name": "Prochlorperazine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.38296488946684004,
   "metapath_contribution": {
     "CbGaD": 0.09001239043223978,
     "CbGbCtD": 0.1846787909305066,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.5912580034691958,
     "CrCbGaD": 0.0026969920837939033
   },
+  "n_trials": 0.0,
   "prediction": 0.00188105561755142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

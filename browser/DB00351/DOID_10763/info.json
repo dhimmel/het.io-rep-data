@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.64889466840052,
   "metapath_contribution": {
     "CbGaD": 0.13041423701610458,
     "CbGbCtD": 0.23003624664350217,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.261200093265539,
     "CrCtD": 0.34251261122264604
   },
+  "n_trials": 0.0,
   "prediction": 0.0056802010237226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

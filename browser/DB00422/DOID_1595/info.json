@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00422",
   "compound_name": "Methylphenidate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.8988973964464598,
     "CbGeAlD": 0.06018464576341061,
     "CbGpPWpGaD": 0.03712252439807776,
     "CrCbGaD": 0.003795433392051703
   },
+  "n_trials": 3.0,
   "prediction": 0.00268153963246351,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

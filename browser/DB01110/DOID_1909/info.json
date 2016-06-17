@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6781534460338101,
   "metapath_contribution": {
     "CbGaD": 0.5531717505337398,
     "CbGbCtD": 0.21188622419051484,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05845756652093746,
     "CrCbGaD": 0.0024617765339839466
   },
+  "n_trials": 0.0,
   "prediction": 0.0018990556280317602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

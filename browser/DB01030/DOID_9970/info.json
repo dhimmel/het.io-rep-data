@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0214564369310793,
   "metapath_contribution": {
     "CbGbCtD": 0.42491504792274226,
     "CbGeAlD": 0.07102493381341941,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.32381020569297275,
     "CrCbGaD": 0.012812862683118438
   },
+  "n_trials": 0.0,
   "prediction": 0.000601866500516821,
   "status": 0,
   "training_prediction": 0.00438850033376857

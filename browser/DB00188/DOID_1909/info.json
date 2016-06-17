@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8328998699609879,
   "metapath_contribution": {
     "CbGbCtD": 0.3569435203269718,
     "CbGeAlD": 0.10501792790634239,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.24599589403117594,
     "CrCbGaD": 0.0036505142804141638
   },
+  "n_trials": 0.0,
   "prediction": 0.00243973342585784,
   "status": 0,
   "training_prediction": 0.00445376317912352

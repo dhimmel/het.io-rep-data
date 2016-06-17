@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01005",
   "compound_name": "Hydroxyurea",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8894668400520159,
   "metapath_contribution": {
     "CbGaD": 0.19764519874408026,
     "CbGbCtD": 0.4743149012918925,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.08939486913068276,
     "CcSEcCtD": 0.19417910278197326
   },
+  "n_trials": 0.0,
   "prediction": 0.006808370827392871,
   "status": 0,
   "training_prediction": 0.0979367568837217

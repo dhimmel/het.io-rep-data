@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00665",
   "compound_name": "Nilutamide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGbCtD": 0.8360317204212468,
     "CbGeAlD": 0.0037954989602303414,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12035993042340883,
     "CrCbGaD": 0.0041559675594488215
   },
+  "n_trials": 0.0,
   "prediction": 0.00289852534694158,
   "status": 0,
   "training_prediction": 0.00637671701749705

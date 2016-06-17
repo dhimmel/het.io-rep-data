@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.20502396949001916,
     "CbGbCtD": 0.2872799861998601,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.32114476514431434,
     "CrCbGaD": 0.0012039787275920008
   },
+  "n_trials": 1.0,
   "prediction": 0.0139729563662635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

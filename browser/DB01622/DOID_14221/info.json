@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.343953185955787,
   "metapath_contribution": {
     "CbGaD": 0.6310108411997338,
     "CbGbCtD": 0.20347413664640893,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1101890561644571,
     "CrCbGaD": 0.008933027301062227
   },
+  "n_trials": 0.0,
   "prediction": 0.00114052280519237,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

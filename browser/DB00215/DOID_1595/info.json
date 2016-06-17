@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.3476225506429625,
     "CbGeAlD": 0.025296573143447482,
@@ -12,6 +14,5 @@
     "CtDrD": 0.5874640866353698
   },
   "prediction": 0.0114778603817863,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

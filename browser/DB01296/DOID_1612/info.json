@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.581924577373212,
   "metapath_contribution": {
     "CbGaD": 0.46466340029320835,
     "CbGbCtD": 0.05726984574105679,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0047074921235560375,
     "CrCrCtD": 0.2879479651073448
   },
+  "n_trials": 0.0,
   "prediction": 0.00280971650273705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

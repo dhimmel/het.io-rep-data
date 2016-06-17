@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.48179453836150804,
   "metapath_contribution": {
     "CbGaD": 0.12927591316489337,
     "CbGeAlD": 0.13834649315322037,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.49943284099240054,
     "CrCbGaD": 0.012845301981788834
   },
+  "n_trials": 1.0,
   "prediction": 0.00226700709138733,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08604",
   "compound_name": "Triclosan",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.165149544863459,
   "metapath_contribution": {
     "CbGbCtD": 0.934342784765832,
     "CbGdCrCtD": 0.01651765643252065,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.004656584941758745,
     "CrCbGaD": 0.012011642352323094
   },
+  "n_trials": 0.0,
   "prediction": 0.00116903292702346,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

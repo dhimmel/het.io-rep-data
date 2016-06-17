@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.695058517555267,
   "metapath_contribution": {
     "CbGbCtD": 0.8062780998330976,
     "CbGeAlD": 0.03815200899549778,
     "CbGpPWpGaD": 0.02643437924168319,
     "CcSEcCtD": 0.12913551192972136
   },
+  "n_trials": 0.0,
   "prediction": 0.00174548479829789,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

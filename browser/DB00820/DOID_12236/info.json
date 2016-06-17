@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00820",
   "compound_name": "Tadalafil",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.4181506316817965,
     "CbGbCtD": 0.05572900778655312,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06885459232657053,
     "CpDpCtD": 0.43252367357180255
   },
+  "n_trials": 0.0,
   "prediction": 0.0175683126135621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

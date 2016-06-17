@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6449934980494151,
   "metapath_contribution": {
     "CbGaD": 0.2385789025248589,
     "CbGbCtD": 0.3743036669278989,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18797372315387387,
     "CrCbGaD": 0.0024611521305337204
   },
+  "n_trials": 0.0,
   "prediction": 0.00231345279782593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

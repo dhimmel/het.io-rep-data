@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00485",
   "compound_name": "Dicloxacillin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.28153446033810103,
   "metapath_contribution": {
     "CbGaD": 0.21390561645556488,
     "CbGbCtD": 0.5579992362695052,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1799539259245839,
     "CrCbGaD": 4.626696002923458e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00146564687483888,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

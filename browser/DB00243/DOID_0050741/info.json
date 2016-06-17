@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.31924577373212,
   "metapath_contribution": {
     "CbGbCtD": 0.4901411849576122,
     "CbGpPWpGaD": 0.09286790155009543,
     "CcSEcCtD": 0.4114446663933313,
     "CrCbGaD": 0.005546247098961045
   },
+  "n_trials": 0.0,
   "prediction": 0.00160512782212709,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.714564369310793,
   "metapath_contribution": {
     "CbGaD": 0.5297432613168814,
     "CbGbCtD": 0.2641756286495865,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.08552287491483193,
     "CcSEcCtD": 0.06901457985731192
   },
+  "n_trials": 0.0,
   "prediction": 0.00192074051389962,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

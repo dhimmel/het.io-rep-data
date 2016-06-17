@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00855",
   "compound_name": "Aminolevulinic acid",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.48764629388816605,
   "metapath_contribution": {
     "CbGbCtD": 0.7845776039418758,
     "CbGeAlD": 0.03624742932456922,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1431457665160594,
     "CrCbGaD": 0.00508133081878631
   },
+  "n_trials": 1.0,
   "prediction": 0.0024654343528753,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

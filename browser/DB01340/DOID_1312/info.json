@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.838652916427239,
     "CbGeAlD": 0.07770757286343477,
     "CcSEcCtD": 0.0748353035228893,
     "CrCbGaD": 0.008804207186436961
   },
+  "n_trials": 0.0,
   "prediction": 0.00269607968295504,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

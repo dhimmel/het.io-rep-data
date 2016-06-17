@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00875",
   "compound_name": "Flupentixol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.3736197912736215,
     "CbGbCtD": 0.581990094442778,
     "CbGpPWpGaD": 0.04174537595393661,
     "CrCbGaD": 0.002644738329663839
   },
+  "n_trials": 0.0,
   "prediction": 0.00289834274185487,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

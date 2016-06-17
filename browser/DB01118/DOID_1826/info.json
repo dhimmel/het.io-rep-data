@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.2192270455857236,
     "CbGbCtD": 0.2566051536267856,
@@ -13,7 +15,7 @@
     "CiPCiCtD": 0.39323404928552086,
     "CrCbGaD": 0.0024822331706936904
   },
+  "n_trials": 0.0,
   "prediction": 0.0185823390665037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

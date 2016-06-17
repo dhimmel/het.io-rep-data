@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.6020806241872559,
   "metapath_contribution": {
     "CbGbCtD": 0.9141904831892408,
     "CbGdCrCtD": 0.0027708056513704,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06664359171799575,
     "CrCbGaD": 3.130760493602911e-06
   },
+  "n_trials": 0.0,
   "prediction": 0.0017871220323104398,
   "status": 0,
   "training_prediction": 0.00291443984447136

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.49674902470741206,
   "metapath_contribution": {
     "CbGaD": 0.19702622847722365,
     "CbGbCtD": 0.7187188578876161,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07906173792323674,
     "CrCbGaD": 0.0023950651198497673
   },
+  "n_trials": 0.0,
   "prediction": 0.00180825072069232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00435",
   "compound_name": "Nitric Oxide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.8523395285329297,
     "CbGeAlD": 0.030820485299267446,
     "CbGpPWpGaD": 0.11683998616780272
   },
+  "n_trials": 1.0,
   "prediction": 0.00335264099336234,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

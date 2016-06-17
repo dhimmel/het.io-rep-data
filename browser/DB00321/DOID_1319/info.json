@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.545513654096229,
   "metapath_contribution": {
     "CbGaD": 0.4118455974847571,
     "CbGbCtD": 0.2149716137098152,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10950863173906493,
     "CrCbGaD": 0.001499255729639639
   },
+  "n_trials": 0.0,
   "prediction": 0.00167208139712005,
   "status": 0,
   "training_prediction": 0.00305434531213899

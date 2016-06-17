@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00770",
   "compound_name": "Alprostadil",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.43628088426528,
   "metapath_contribution": {
     "CbGbCtD": 0.8389667717751308,
     "CbGeAlD": 0.026553244416493604,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10195421387296282,
     "CrCbGaD": 0.0012003193205768665
   },
+  "n_trials": 0.0,
   "prediction": 0.00128478443462321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

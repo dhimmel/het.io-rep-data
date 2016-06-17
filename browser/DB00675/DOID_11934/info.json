@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.31461654625764807,
     "CbGbCtD": 0.41669611687142455,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12422378658483145,
     "CrCbGaD": 0.0005999847134693102
   },
+  "n_trials": 1.0,
   "prediction": 0.00237892275959387,
   "status": 0,
   "training_prediction": 0.00480590191826433

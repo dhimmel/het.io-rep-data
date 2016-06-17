@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00120",
   "compound_name": "L-Phenylalanine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGeAlD": 0.04888167353284406,
     "CbGpPWpGaD": 0.07271779588906518,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.36729096782516657,
     "CrCtD": 0.5087529968623752
   },
+  "n_trials": 0.0,
   "prediction": 0.00376404588943375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

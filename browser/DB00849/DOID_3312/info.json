@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00849",
   "compound_name": "Methylphenobarbital",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.8091121468750542,
     "CbGeAlD": 0.07359970663034149,
     "CbGpPWpGaD": 0.10992966356776107,
     "CrCbGaD": 0.007358482926843282
   },
+  "n_trials": 0.0,
   "prediction": 0.00251454858018653,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

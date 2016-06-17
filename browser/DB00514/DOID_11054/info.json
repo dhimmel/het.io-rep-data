@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.30039011703511104,
   "metapath_contribution": {
     "CbGbCtD": 0.6580870365220345,
     "CbGdCrCtD": 0.005473876429671055,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0744168436384908,
     "CrCbGaD": 0.006798598187213673
   },
+  "n_trials": 0.0,
   "prediction": 0.00112526290653071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

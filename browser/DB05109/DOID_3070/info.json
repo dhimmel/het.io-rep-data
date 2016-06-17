@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05109",
   "compound_name": "Trabectedin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.1512424328001541,
     "CbGbCtD": 0.00821463066930694,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.028889902673423996,
     "CiPCiCtD": 0.7563782855867421
   },
+  "n_trials": 0.0,
   "prediction": 0.0141923351089829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

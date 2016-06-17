@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01056",
   "compound_name": "Tocainide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.697009102730819,
   "metapath_contribution": {
     "CbGaD": 0.10157427419395905,
     "CbGbCtD": 0.2792611063385002,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.000370211597389378,
     "CrCrCtD": 0.5459051444126879
   },
+  "n_trials": 0.0,
   "prediction": 0.00378957072715683,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

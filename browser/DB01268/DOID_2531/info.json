@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.19988184234530204,
     "CbGbCtD": 0.2540507546694007,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.3621002431009934,
     "CrCbGaD": 2.0014055437766126e-06
   },
+  "n_trials": 8.0,
   "prediction": 0.0519383004322112,
   "status": 0,
   "training_prediction": 0.45394078506477403

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.39561392562050945,
     "CbGbCtD": 0.4222061602596267,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0863210694075016,
     "CcSEcCtD": 0.08063717161479962
   },
+  "n_trials": 0.0,
   "prediction": 0.00637279452220984,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

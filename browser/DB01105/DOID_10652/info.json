@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01105",
   "compound_name": "Sibutramine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.4514472627459452,
     "CbGbCtD": 0.17388462297396087,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03912461854238163,
     "CcSEcCtD": 0.2980555133192706
   },
+  "n_trials": 0.0,
   "prediction": 0.0034740889090136,
   "status": 0,
   "training_prediction": 0.00421503880483003

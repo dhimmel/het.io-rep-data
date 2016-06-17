@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0721716514954486,
   "metapath_contribution": {
     "CbGaD": 0.22700273561395717,
     "CbGbCtD": 0.4995880177153946,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19496782191492643,
     "CrCbGaD": 0.004347385328306781
   },
+  "n_trials": 0.0,
   "prediction": 0.00105931474124417,
   "status": 0,
   "training_prediction": 0.0051794928662237

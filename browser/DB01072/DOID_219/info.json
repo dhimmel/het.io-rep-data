@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01072",
   "compound_name": "Atazanavir",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGaD": 0.3832256133612751,
     "CbGbCtD": 0.5030256452862221,
     "CcSEcCtD": 0.11146932504617915,
     "CrCbGaD": 0.002279416306323686
   },
+  "n_trials": 0.0,
   "prediction": 0.00210035380375152,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.47789336801040294,
   "metapath_contribution": {
     "CbGaD": 0.058653987957528096,
     "CbGbCtD": 0.4968367902053182,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002020830391477158,
     "CrCrCtD": 0.19073017791243072
   },
+  "n_trials": 0.0,
   "prediction": 0.00367700112232481,
   "status": 0,
   "training_prediction": 0.0422793004995841

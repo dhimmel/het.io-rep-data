@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01263",
   "compound_name": "Posaconazole",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.49609882964889507,
   "metapath_contribution": {
     "CbGbCtD": 0.6908615273482257,
     "CbGpPWpGaD": 0.0008959675686871548,
     "CcSEcCtD": 0.30534917001615197,
     "CrCbGaD": 0.0028933350669351006
   },
+  "n_trials": 0.0,
   "prediction": 0.00235787416589954,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

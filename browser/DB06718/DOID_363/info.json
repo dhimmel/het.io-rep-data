@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06718",
   "compound_name": "Stanozolol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGbCtD": 0.24352161057046803,
     "CbGeAlD": 0.014474439379141876,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.29404636085251135,
     "CrCtD": 0.44082468128601865
   },
+  "n_trials": 0.0,
   "prediction": 0.013684730419552,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

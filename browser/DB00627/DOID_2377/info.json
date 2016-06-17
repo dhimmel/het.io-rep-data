@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGbCtD": 0.2801119370928686,
     "CbGdCrCtD": 0.007610512988720315,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.2740274846847375,
     "CcSEcCtD": 0.32792316471696104
   },
+  "n_trials": 0.0,
   "prediction": 0.0023797423913531,
   "status": 0,
   "training_prediction": 0.0101177128984819

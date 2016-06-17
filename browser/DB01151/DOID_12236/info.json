@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.40962288686605997,
   "metapath_contribution": {
     "CbGbCtD": 0.7159737429577268,
     "CbGeAlD": 0.013695087589827702,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16321354484466857,
     "CrCbGaD": 0.002466398187855952
   },
+  "n_trials": 0.0,
   "prediction": 0.00141314818325435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

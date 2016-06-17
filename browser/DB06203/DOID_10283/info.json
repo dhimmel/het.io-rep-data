@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06203",
   "compound_name": "Alogliptin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.64629388816645,
   "metapath_contribution": {
     "CbGaD": 0.282937479406351,
     "CbGbCtD": 0.5224222852224882,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08756945714888217,
     "CrCbGaD": 0.0020487120687053785
   },
+  "n_trials": 0.0,
   "prediction": 0.00308200794742504,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

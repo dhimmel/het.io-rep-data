@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01107",
   "compound_name": "Methyprylon",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8335500650195059,
   "metapath_contribution": {
     "CbGaD": 0.5184801143351859,
     "CbGbCtD": 0.42171011816775944,
     "CbGeAlD": 0.02300336549478195,
     "CbGpPWpGaD": 0.036806402002272566
   },
+  "n_trials": 0.0,
   "prediction": 0.0036734872542910795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.3390977529352301,
     "CbGbCtD": 0.38369827547877766,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23985906319716202,
     "CrCbGaD": 0.002179566190809196
   },
+  "n_trials": 2.0,
   "prediction": 0.00404352173733158,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

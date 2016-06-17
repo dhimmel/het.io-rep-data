@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.16007356424017397,
     "CbGbCtD": 0.5982280446811341,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10161662849065588,
     "CrCbGaD": 0.0004702248232688356
   },
+  "n_trials": 0.0,
   "prediction": 0.00325223418266609,
   "status": 0,
   "training_prediction": 0.00943433303501127

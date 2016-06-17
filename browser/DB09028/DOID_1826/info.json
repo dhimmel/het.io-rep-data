@@ -1,15 +1,17 @@
 {
   "compound_id": "DB09028",
   "compound_name": "Cytisine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.371205469244052,
     "CbGbCtD": 0.4630223892008076,
     "CbGeAlD": 0.04444265505102332,
     "CbGpPWpGaD": 0.12132948650411704
   },
+  "n_trials": 0.0,
   "prediction": 0.013324928559745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

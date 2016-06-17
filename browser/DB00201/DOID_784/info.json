@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.598179453836151,
   "metapath_contribution": {
     "CbGaD": 0.5964901950837286,
     "CbGeAlD": 0.13819597719208138,
     "CbGpPWpGaD": 0.26476204846584744,
     "CrCbGaD": 0.0005517792583426019
   },
+  "n_trials": 0.0,
   "prediction": 0.0018022869439994601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

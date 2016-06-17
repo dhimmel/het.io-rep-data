@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.360208062418726,
   "metapath_contribution": {
     "CbGbCtD": 0.7183839483914042,
     "CbGeAlD": 0.06988903370683686,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1681680520705213,
     "CrCbGaD": 0.0023256927807135067
   },
+  "n_trials": 0.0,
   "prediction": 0.00127172063994631,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

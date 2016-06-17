@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGbCtD": 0.3236192081894146,
     "CbGpPWpGaD": 0.0008440191509579116,
     "CcSEcCtD": 0.09268082394176676,
     "CiPCiCtD": 0.5828559487178607
   },
+  "n_trials": 0.0,
   "prediction": 0.00932123992079246,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00297",
   "compound_name": "Bupivacaine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.368010403120936,
   "metapath_contribution": {
     "CbGbCtD": 0.537738523659219,
     "CbGpPWpGaD": 0.1326718637529483,
     "CcSEcCtD": 0.3268543319715149,
     "CrCbGaD": 0.0027352806163177357
   },
+  "n_trials": 2.0,
   "prediction": 0.0014254107428298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

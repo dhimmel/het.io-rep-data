@@ -1,15 +1,18 @@
 {
   "compound_id": "DB01033",
   "compound_name": "Mercaptopurine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
-    "CbGbCtD": 0.36896471065107816,
+    "CbGbCtD": 0.3689647106510781,
     "CbGeAlD": 0.0333508166514252,
-    "CbGpPWpGaD": 0.001617948930027947,
-    "CcSEcCtD": 0.030927074133179935,
-    "CtDrD": 0.5651394496342889
+    "CbGpPWpGaD": 0.0016179489300279467,
+    "CcSEcCtD": 0.03092707413317993,
+    "CtDrD": 0.5651394496342887
   },
+  "n_trials": 0.0,
   "prediction": 0.0119465599776025,
   "status": 0,
   "training_prediction": 0.0377314790678657

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.317295188556567,
   "metapath_contribution": {
     "CbGbCtD": 0.6106732455241952,
     "CbGeAlD": 0.026855702365118507,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.27631267275932636,
     "CrCbGaD": 0.004633979221854476
   },
+  "n_trials": 0.0,
   "prediction": 0.00111661783201945,
   "status": 0,
   "training_prediction": 0.00135545276215954

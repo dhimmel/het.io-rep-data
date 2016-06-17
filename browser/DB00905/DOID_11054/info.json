@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00905",
   "compound_name": "Bimatoprost",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.556566970091027,
   "metapath_contribution": {
     "CbGbCtD": 0.603076186563988,
     "CbGdCrCtD": 0.009140358032043869,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.219936292629496,
     "CrCbGaD": 0.01128435309254855
   },
+  "n_trials": 0.0,
   "prediction": 0.00172907210833875,
   "status": 0,
   "training_prediction": 0.00442998133833525

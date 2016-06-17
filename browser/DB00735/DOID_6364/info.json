@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00735",
   "compound_name": "Naftifine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.544863459037711,
   "metapath_contribution": {
     "CbGbCtD": 0.2972487654787704,
     "CcSEcCtD": 0.029993553762988415,
     "CrCbGaD": 0.003236085462465512,
     "CrCrCtD": 0.6695215952957757
   },
+  "n_trials": 0.0,
   "prediction": 0.0025918553988428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

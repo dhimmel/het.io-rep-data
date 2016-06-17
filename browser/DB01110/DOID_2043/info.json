@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.7326175453252001,
     "CbGeAlD": 0.031637429824608015,
     "CbGpPWpGaD": 0.130287611449277,
     "CcSEcCtD": 0.10545741340091494
   },
+  "n_trials": 0.0,
   "prediction": 0.0024580114962537898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.023407022106632005,
   "metapath_contribution": {
     "CbGeAlD": 0.9626039095469383,
     "CrCbGaD": 0.03739609045306179
   },
+  "n_trials": 1.0,
   "prediction": 0.000594178681477964,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

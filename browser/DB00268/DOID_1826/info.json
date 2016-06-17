@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00268",
   "compound_name": "Ropinirole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
-    "CbGaD": 0.19318088503057,
-    "CbGbCtD": 0.13642655188880148,
-    "CbGeAlD": 0.042425949732435034,
-    "CbGpPWpGaD": 0.07353525108885862,
-    "CcSEcCtD": 0.15276913430258438,
-    "CpDpCtD": 0.40166222795675055
+    "CbGaD": 0.19318088503056993,
+    "CbGbCtD": 0.13642655188880146,
+    "CbGeAlD": 0.04242594973243502,
+    "CbGpPWpGaD": 0.07353525108885861,
+    "CcSEcCtD": 0.15276913430258435,
+    "CpDpCtD": 0.4016622279567505
   },
+  "n_trials": 1.0,
   "prediction": 0.017336280674721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

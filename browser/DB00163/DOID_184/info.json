@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.4225068185248562,
     "CbGbCtD": 0.44972319813148276,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.03683937572567544,
     "CbGpPWpGaD": 0.08842909342427152
   },
+  "n_trials": 0.0,
   "prediction": 0.009947621389465491,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

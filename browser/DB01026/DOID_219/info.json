@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGaD": 0.24150706830913463,
     "CbGbCtD": 0.4986825087014742,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09720390401819105,
     "CrCbGaD": 0.0028793153436611693
   },
+  "n_trials": 0.0,
   "prediction": 0.00180517864523327,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.38231469440832205,
   "metapath_contribution": {
     "CbGaD": 0.6952585733265967,
     "CbGeAlD": 0.025355754685868644,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0354691985167741,
     "CrCbGaD": 0.011983324262435396
   },
+  "n_trials": 0.0,
   "prediction": 0.00119470512879715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

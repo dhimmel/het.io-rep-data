@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.429778933680104,
   "metapath_contribution": {
     "CbGaD": 0.24695613394077853,
     "CbGbCtD": 0.12019117380458276,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004223109091560888,
     "CrCrCtD": 0.6078343650480874
   },
+  "n_trials": 0.0,
   "prediction": 0.0028425600609767103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

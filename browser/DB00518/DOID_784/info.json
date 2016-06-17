@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.47594278283485,
   "metapath_contribution": {
     "CbGaD": 0.8340967741624484,
     "CbGeAlD": 0.054040864069607494,
     "CbGpPWpGaD": 0.10711672560715277,
     "CrCbGaD": 0.004745636160791256
   },
+  "n_trials": 0.0,
   "prediction": 0.00150758120147503,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

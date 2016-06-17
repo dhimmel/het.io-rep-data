@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00118",
   "compound_name": "S-Adenosylmethionine",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.09362808842652802,
   "metapath_contribution": {
     "CbGdCrCtD": 0.018451566903824133,
     "CbGeAlD": 0.3990449646169279,
     "CbGpPWpGaD": 0.5541675954284329,
     "CrCbGaD": 0.028335873050815252
   },
+  "n_trials": 0.0,
   "prediction": 0.000711894103402236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

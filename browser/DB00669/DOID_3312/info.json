@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.7926704013951685,
     "CbGeAlD": 0.0567708798408177,
     "CbGpPWpGaD": 0.14335617750062815,
     "CrCbGaD": 0.007202541263385575
   },
+  "n_trials": 0.0,
   "prediction": 0.00243343856693983,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.250975292587776,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.6149767168548274,
     "CcSEcCtD": 0.38058143383511567,
     "CrCbGaD": 0.004441849310057047
   },
+  "n_trials": 1.0,
   "prediction": 0.000989404870716259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

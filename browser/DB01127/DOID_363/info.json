@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01127",
   "compound_name": "Econazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.850455136540962,
   "metapath_contribution": {
     "CbGaD": 0.4631991767780826,
     "CbGbCtD": 0.4302412627660755,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07685725550728773,
     "CrCbGaD": 0.003990801314413768
   },
+  "n_trials": 0.0,
   "prediction": 0.00297462055185701,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

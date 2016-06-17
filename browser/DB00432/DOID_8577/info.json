@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.622886866059818,
   "metapath_contribution": {
     "CbGdCrCtD": 0.003460870979104832,
     "CbGeAlD": 0.013918611175110633,
     "CcSEcCtD": 0.02341243778729016,
     "CiPCiCtD": 0.9592080800584944
   },
+  "n_trials": 0.0,
   "prediction": 0.00247145582421806,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

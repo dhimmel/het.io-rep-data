@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.40702210663199,
   "metapath_contribution": {
     "CbGbCtD": 0.6719034284519192,
     "CbGeAlD": 0.04569480429084235,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12127908569893615,
     "CrCbGaD": 0.00091521177308468
   },
+  "n_trials": 0.0,
   "prediction": 0.00153431912775024,
   "status": 0,
   "training_prediction": 0.00498648732084111

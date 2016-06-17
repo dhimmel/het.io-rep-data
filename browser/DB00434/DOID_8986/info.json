@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00434",
   "compound_name": "Cyproheptadine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.8699609882964889,
   "metapath_contribution": {
     "CbGaD": 0.7164347647238677,
     "CbGeAlD": 0.10017115927124925,
     "CbGpPWpGaD": 0.1790311963661691,
     "CrCbGaD": 0.0043628796387138865
   },
+  "n_trials": 0.0,
   "prediction": 0.00197006882723782,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

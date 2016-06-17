@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.618985695708713,
   "metapath_contribution": {
     "CbGaD": 0.39898051487108827,
     "CbGbCtD": 0.35112726687253204,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07028252635522478,
     "CrCbGaD": 0.0017703287245684012
   },
+  "n_trials": 0.0,
   "prediction": 0.00172510383429288,
   "status": 0,
   "training_prediction": 0.0031510615972614197

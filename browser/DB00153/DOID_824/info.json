@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00153",
   "compound_name": "Ergocalciferol",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.9245015565320978,
     "CbGeAlD": 0.027435180753420572,
     "CbGpPWpGaD": 0.036733228759573265,
     "CrCbGaD": 0.011330033954908418
   },
+  "n_trials": 0.0,
   "prediction": 0.0022638733770731397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

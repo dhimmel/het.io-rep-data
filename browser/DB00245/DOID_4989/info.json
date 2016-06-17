@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00245",
   "compound_name": "Benzatropine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGbCtD": 0.2089861218687795,
     "CbGpPWpGaD": 0.006662289535138423,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.1440223124225152,
     "CrCtD": 0.39590172811594454
   },
+  "n_trials": 0.0,
   "prediction": 0.0277649156490567,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

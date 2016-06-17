@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8159947984395319,
   "metapath_contribution": {
     "CbGaD": 0.2432718752550423,
     "CbGbCtD": 0.49520663969096435,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20183171855900778,
     "CrCbGaD": 0.0004921001811339807
   },
+  "n_trials": 0.0,
   "prediction": 0.00376209851672916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

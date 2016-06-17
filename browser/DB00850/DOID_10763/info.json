@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGaD": 0.21799976717523953,
     "CbGbCtD": 0.25225534350352746,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.001986924475813501,
     "CrCrCtD": 0.13066597603547095
   },
+  "n_trials": 0.0,
   "prediction": 0.0104776261562752,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.409509618413108,
     "CbGbCtD": 0.48165983068228835,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03275028693130018,
     "CrCbGaD": 0.005473865845067263
   },
+  "n_trials": 0.0,
   "prediction": 0.00258052063179044,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

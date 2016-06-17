@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04938",
   "compound_name": "Ospemifene",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.376462938881664,
   "metapath_contribution": {
     "CbGaD": 0.47606009123780274,
     "CbGbCtD": 0.4682308022012653,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0005026276596554219,
     "CrCbGaD": 0.0052072468637458826
   },
+  "n_trials": 0.0,
   "prediction": 0.00150989915922516,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

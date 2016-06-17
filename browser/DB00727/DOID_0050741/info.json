@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00727",
   "compound_name": "Nitroglycerin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.41455675767725697,
     "CbGbCtD": 0.4145117212609301,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07285942238643835,
     "CcSEcCtD": 0.06234107710992122
   },
+  "n_trials": 0.0,
   "prediction": 0.009365571650710109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

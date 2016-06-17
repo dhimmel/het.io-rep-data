@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01329",
   "compound_name": "Cefoperazone",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.123537061118335,
   "metapath_contribution": {
     "CbGaD": 0.39290691260459787,
     "CbGbCtD": 0.5601637558708745,
     "CbGpPWpGaD": 0.04213643736356623,
     "CrCbGaD": 0.004792894160961235
   },
+  "n_trials": 0.0,
   "prediction": 0.00105219708163581,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

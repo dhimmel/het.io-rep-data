@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.786736020806242,
   "metapath_contribution": {
     "CbGaD": 0.3671553153481882,
     "CbGbCtD": 0.18822554284217,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12828164006519466,
     "CcSEcCtD": 0.21934177508588754
   },
+  "n_trials": 0.0,
   "prediction": 0.00257666896428582,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

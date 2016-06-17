@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00535",
   "compound_name": "Cefdinir",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.161898569570871,
   "metapath_contribution": {
     "CbGbCtD": 0.6202690724674874,
     "CbGeAlD": 0.015397526046553872,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.275812729251013,
     "CrCbGaD": 0.0042565648812950465
   },
+  "n_trials": 0.0,
   "prediction": 0.00122457746140119,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

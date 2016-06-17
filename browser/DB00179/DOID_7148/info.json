@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8107932379713909,
   "metapath_contribution": {
     "CbGaD": 0.5488796333636013,
     "CbGbCtD": 0.3499503971809637,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09787668483579397,
     "CrCbGaD": 0.0017305554792799763
   },
+  "n_trials": 0.0,
   "prediction": 0.00308778996955398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

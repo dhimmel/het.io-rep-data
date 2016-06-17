@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00190",
   "compound_name": "Carbidopa",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.636540962288687,
   "metapath_contribution": {
     "CbGeAlD": 0.035124119045292564,
     "CbGpPWpGaD": 0.05516862766901162,
@@ -12,6 +14,5 @@
     "CrCbGaD": 0.0027661333910687144
   },
   "prediction": 0.00224237194579344,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

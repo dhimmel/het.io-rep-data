@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.173602080624187,
   "metapath_contribution": {
     "CbGeAlD": 0.058248121518131586,
     "CbGpPWpGaD": 0.6376456663795278,
     "CcSEcCtD": 0.278242560082543,
     "CrCbGaD": 0.02586365201979758
   },
+  "n_trials": 0.0,
   "prediction": 0.000870579432665396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

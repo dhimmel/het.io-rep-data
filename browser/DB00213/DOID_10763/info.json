@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.48049414824447295,
   "metapath_contribution": {
     "CbGbCtD": 0.608417599134258,
     "CbGeAlD": 0.013793786429140236,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2641889436505726,
     "CrCbGaD": 0.0039658604629731605
   },
+  "n_trials": 0.0,
   "prediction": 0.00370493847158832,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

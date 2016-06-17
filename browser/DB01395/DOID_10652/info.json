@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.47399219765929795,
   "metapath_contribution": {
     "CbGaD": 0.43932892340016405,
     "CbGbCtD": 0.41517458561664383,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05240609228409681,
     "CcSEcCtD": 0.0758888483098493
   },
+  "n_trials": 0.0,
   "prediction": 0.00178013596937345,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

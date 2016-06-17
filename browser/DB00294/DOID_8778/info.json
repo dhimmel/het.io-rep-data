@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00294",
   "compound_name": "Etonogestrel",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.16970091027308198,
   "metapath_contribution": {
-    "CcSEcCtD": 0.2146750272316981,
-    "CrCbGaD": 0.0015177802554370513,
-    "CrCrCtD": 0.783807192512865
+    "CcSEcCtD": 0.21467502723169807,
+    "CrCbGaD": 0.0015177802554370511,
+    "CrCrCtD": 0.7838071925128648
   },
+  "n_trials": 0.0,
   "prediction": 0.00100605651994887,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

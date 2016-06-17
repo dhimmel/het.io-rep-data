@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.06325878069608175,
     "CbGbCtD": 0.3365814587973223,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0633399818285213,
     "CiPCiCtD": 0.49081186902648594
   },
+  "n_trials": 0.0,
   "prediction": 0.0104086648198277,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

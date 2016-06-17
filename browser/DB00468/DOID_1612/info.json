@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.40986248160823247,
     "CbGbCtD": 0.3679859291331621,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11781913212156164,
     "CrCbGaD": 0.0021342311722954113
   },
+  "n_trials": 0.0,
   "prediction": 0.0070889649382056,
   "status": 0,
   "training_prediction": 0.0381225641002981

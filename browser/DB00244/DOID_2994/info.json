@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.386866059817945,
   "metapath_contribution": {
     "CbGbCtD": 0.557651982502025,
     "CbGdCrCtD": 0.003817689365292166,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.26398947770029363,
     "CrCbGaD": 0.007028719833575635
   },
+  "n_trials": 0.0,
   "prediction": 0.00139906181955974,
   "status": 0,
   "training_prediction": 0.00425621635263242

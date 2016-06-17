@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.386215864759428,
   "metapath_contribution": {
     "CbGaD": 0.7413896308826213,
     "CbGeAlD": 0.057649439735672055,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10886525108264732,
     "CrCbGaD": 0.004100893941401043
   },
+  "n_trials": 0.0,
   "prediction": 0.0014806793544749099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

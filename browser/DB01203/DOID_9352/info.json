@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01203",
   "compound_name": "Nadolol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.830299089726918,
   "metapath_contribution": {
     "CbGaD": 0.2895655507397654,
     "CbGbCtD": 0.15616489054615967,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0013785457910412064,
     "CtDrD": 0.42909625482190517
   },
+  "n_trials": 0.0,
   "prediction": 0.00567121340342115,
   "status": 0,
   "training_prediction": 0.0246023123090739

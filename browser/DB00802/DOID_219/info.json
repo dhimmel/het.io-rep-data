@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGaD": 0.4025636740305694,
     "CbGbCtD": 0.526392529845943,
     "CbGeAlD": 0.017701918377817972,
     "CcSEcCtD": 0.05334187774566968
   },
+  "n_trials": 0.0,
   "prediction": 0.0030519465035579603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

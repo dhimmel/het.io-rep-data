@@ -1,19 +1,21 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
-    "CbGaD": 0.24382231036857097,
-    "CbGbCtD": 0.28712275906827905,
-    "CbGdCrCtD": 0.0027826112858060385,
-    "CbGeAlD": 9.543159678173062e-06,
-    "CbGpPWpGaD": 0.026946911558855726,
-    "CcSEcCtD": 0.05556404683173392,
-    "CrCbGaD": 0.004299512080543227,
-    "CrCrCtD": 0.37945230564653276
+    "CbGaD": 0.24382231036857102,
+    "CbGbCtD": 0.2871227590682791,
+    "CbGdCrCtD": 0.002782611285806039,
+    "CbGeAlD": 9.543159678173063e-06,
+    "CbGpPWpGaD": 0.02694691155885573,
+    "CcSEcCtD": 0.055564046831733924,
+    "CrCbGaD": 0.004299512080543228,
+    "CrCrCtD": 0.3794523056465328
   },
+  "n_trials": 0.0,
   "prediction": 0.0031286406731538398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

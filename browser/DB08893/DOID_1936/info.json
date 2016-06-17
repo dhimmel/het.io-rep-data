@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8159947984395319,
   "metapath_contribution": {
     "CbGaD": 0.21542282017631614,
     "CbGbCtD": 0.6046938576326768,
     "CbGpPWpGaD": 0.0809433986057529,
     "CcSEcCtD": 0.09893992358525423
   },
+  "n_trials": 0.0,
   "prediction": 0.00311017799612752,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

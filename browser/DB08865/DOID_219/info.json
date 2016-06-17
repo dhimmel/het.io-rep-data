@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.26159346086384494,
     "CbGdCrCtD": 0.0024722924941660072,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.046089214777802444,
     "CtDrD": 0.5018228263693325
   },
+  "n_trials": 0.0,
   "prediction": 0.00688285494835363,
   "status": 0,
   "training_prediction": 0.009798833743708291

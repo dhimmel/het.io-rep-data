@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01355",
   "compound_name": "Hexobarbital",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.5851137428171587,
     "CbGbCtD": 0.19853660962515662,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09305410583334597,
     "CrCbGaD": 0.0015938191783495329
   },
+  "n_trials": 0.0,
   "prediction": 0.00300595750203291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

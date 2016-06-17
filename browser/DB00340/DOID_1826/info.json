@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00340",
   "compound_name": "Metixene",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.535760728218466,
   "metapath_contribution": {
     "CbGaD": 0.4601186506620861,
     "CbGeAlD": 0.019596129959325293,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004069417270318262,
     "CrCrCtD": 0.4310399261541407
   },
+  "n_trials": 0.0,
   "prediction": 0.0036502808099721203,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

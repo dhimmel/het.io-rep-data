@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.551365409622887,
   "metapath_contribution": {
     "CbGbCtD": 0.2934257057481829,
     "CbGeAlD": 0.10540398352798556,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.008199464132148204,
     "CrCrCtD": 0.5702933944553212
   },
+  "n_trials": 0.0,
   "prediction": 0.00249242356596441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

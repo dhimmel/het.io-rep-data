@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGaD": 0.21478167807515725,
     "CbGbCtD": 0.40107539859154134,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0016005659255971649,
     "CrCrCtD": 0.19311801654391547
   },
+  "n_trials": 0.0,
   "prediction": 0.0030345601562882397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

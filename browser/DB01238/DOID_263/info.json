@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.6690507152145639,
   "metapath_contribution": {
     "CbGaD": 0.08856572281888778,
     "CbGbCtD": 0.5336058218158894,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.058838691620583174,
     "CcSEcCtD": 0.28772256759012926
   },
+  "n_trials": 0.0,
   "prediction": 0.0023334223913446398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

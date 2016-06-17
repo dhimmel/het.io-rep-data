@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.11330848925914036,
     "CbGbCtD": 0.27541897437408686,
@@ -13,6 +15,7 @@
     "CpDpCtD": 0.486029167920802,
     "CrCbGaD": 0.002190674274516671
   },
+  "n_trials": 0.0,
   "prediction": 0.007316195252083259,
   "status": 0,
   "training_prediction": 0.0246579556901807

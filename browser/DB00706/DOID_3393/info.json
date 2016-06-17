@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00706",
   "compound_name": "Tamsulosin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
     "CbGaD": 0.1749951726222642,
     "CbGbCtD": 0.2509320193779071,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0037979345156481897,
     "CrCrCtD": 0.36758950963953846
   },
+  "n_trials": 0.0,
   "prediction": 0.00894701458325484,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

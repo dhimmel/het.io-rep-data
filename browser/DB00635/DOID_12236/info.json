@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
     "CbGaD": 0.1514077451014529,
     "CbGbCtD": 0.2082490805664977,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.00039492806631497853,
     "CtDrD": 0.5596692226767082
   },
+  "n_trials": 0.0,
   "prediction": 0.00274134377526928,
   "status": 0,
   "training_prediction": 0.0243153756408235

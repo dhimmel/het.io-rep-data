@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.50520156046814,
   "metapath_contribution": {
     "CbGaD": 0.2756201101781333,
     "CbGbCtD": 0.4831034825755463,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11081886461171656,
     "CrCbGaD": 0.0013200313260472941
   },
+  "n_trials": 0.0,
   "prediction": 0.00401868758673104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

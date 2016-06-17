@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.44083224967490203,
   "metapath_contribution": {
     "CbGbCtD": 0.3524084737333595,
     "CbGdCrCtD": 0.010164947899626357,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.25042368506159857,
     "CcSEcCtD": 0.03233074285019247
   },
+  "n_trials": 0.0,
   "prediction": 0.00171174034403719,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

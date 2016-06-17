@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06725",
   "compound_name": "Lornoxicam",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.624837451235371,
   "metapath_contribution": {
     "CbGaD": 0.3579522188317885,
     "CbGbCtD": 0.4840474189090668,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15488624674271248,
     "CrCbGaD": 0.002987710284489494
   },
+  "n_trials": 0.0,
   "prediction": 0.00294428673155858,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

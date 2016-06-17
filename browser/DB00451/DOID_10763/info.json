@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.45578673602080605,
   "metapath_contribution": {
     "CbGaD": 0.0661482676052716,
     "CbGbCtD": 0.577805303657807,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1173508280457902,
     "CcSEcCtD": 0.19127427205921682
   },
+  "n_trials": 0.0,
   "prediction": 0.00345389472137227,
   "status": 0,
   "training_prediction": 0.0398075367537266

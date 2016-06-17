@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.626788036410923,
   "metapath_contribution": {
     "CbGaD": 0.34653258124556213,
     "CbGbCtD": 0.4610212641001406,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07048731173759912,
     "CcSEcCtD": 0.08853279112053729
   },
+  "n_trials": 0.0,
   "prediction": 0.00169044357875404,
   "status": 0,
   "training_prediction": 0.0020517627828694897

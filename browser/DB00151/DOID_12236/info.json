@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00151",
   "compound_name": "L-Cysteine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.7693573759552879,
     "CbGeAlD": 0.09455860817104537,
     "CbGpPWpGaD": 0.13179605105562092,
     "CrCbGaD": 0.004287964818045942
   },
+  "n_trials": 0.0,
   "prediction": 0.00243749859015641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

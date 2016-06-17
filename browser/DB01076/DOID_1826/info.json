@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.533810143042913,
   "metapath_contribution": {
     "CbGaD": 0.3720910484552453,
     "CbGbCtD": 0.530911455335988,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0797577260031211,
     "CrCbGaD": 0.0020213971897835342
   },
+  "n_trials": 0.0,
   "prediction": 0.00364183694810205,
   "status": 0,
   "training_prediction": 0.0291014276089564

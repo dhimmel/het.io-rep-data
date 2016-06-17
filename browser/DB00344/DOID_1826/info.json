@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00344",
   "compound_name": "Protriptyline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.17535622021310474,
     "CbGbCtD": 0.09897665224077984,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.23660534330263272,
     "CrCtD": 0.37563458638956315
   },
+  "n_trials": 0.0,
   "prediction": 0.0176029053150988,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

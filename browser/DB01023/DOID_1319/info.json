@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.489596879063719,
   "metapath_contribution": {
     "CbGaD": 0.5238762570067536,
     "CbGbCtD": 0.207421830534197,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06839967183574612,
     "CrCbGaD": 0.004026402209759401
   },
+  "n_trials": 0.0,
   "prediction": 0.00153403821183754,
   "status": 0,
   "training_prediction": 0.00280250595262307

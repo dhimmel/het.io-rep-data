@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.159297789336801,
   "metapath_contribution": {
     "CbGaD": 0.12597288042284394,
     "CbGbCtD": 0.6316701409108605,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1344166316246039,
     "CrCbGaD": 0.002815104088843424
   },
+  "n_trials": 1.0,
   "prediction": 0.000939235381306569,
   "status": 0,
   "training_prediction": 0.00535365604944773

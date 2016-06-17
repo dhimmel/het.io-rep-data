@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00521",
   "compound_name": "Carteolol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6274382314694411,
   "metapath_contribution": {
     "CbGaD": 0.45277033286783547,
     "CbGbCtD": 0.4041085795637763,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07895804930244188,
     "CrCbGaD": 0.005634564396062454
   },
+  "n_trials": 0.0,
   "prediction": 0.0032166054622707,
   "status": 0,
   "training_prediction": 0.008221988812760591

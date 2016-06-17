@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00792",
   "compound_name": "Tripelennamine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.782834850455137,
   "metapath_contribution": {
     "CbGaD": 0.1486081390490115,
     "CbGbCtD": 0.0491854649108206,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.33138048139947074,
     "CrCtD": 0.46726656400007605
   },
+  "n_trials": 0.0,
   "prediction": 0.00451817319179395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

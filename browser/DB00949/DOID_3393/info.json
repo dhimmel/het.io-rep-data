@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00949",
   "compound_name": "Felbamate",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.591677503250975,
   "metapath_contribution": {
     "CbGaD": 0.26589815261656347,
     "CbGbCtD": 0.4253381794755717,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.24248150091928672,
     "CrCbGaD": 0.001258005669021241
   },
+  "n_trials": 0.0,
   "prediction": 0.00283745811051664,
   "status": 0,
   "training_prediction": 0.0151162225489282

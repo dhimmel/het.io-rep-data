@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.34313661225344333,
     "CbGbCtD": 0.41220897154715924,
@@ -12,6 +14,5 @@
     "CrCbGaD": 0.0048901011066241964
   },
   "prediction": 0.00446983960453746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

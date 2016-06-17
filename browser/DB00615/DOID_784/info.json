@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00615",
   "compound_name": "Rifabutin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGaD": 0.6184927026998689,
     "CbGeAlD": 0.11727046575335523,
     "CbGpPWpGaD": 0.2536716271435881,
     "CrCbGaD": 0.01056520440318777
   },
+  "n_trials": 0.0,
   "prediction": 0.0021545113321095,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

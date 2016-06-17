@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGbCtD": 0.7542872768458821,
     "CbGdCrCtD": 0.00442319411994574,
     "CbGeAlD": 0.06673309349071009,
     "CbGpPWpGaD": 0.17455643554346192
   },
+  "n_trials": 0.0,
   "prediction": 0.00266449159853636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGbCtD": 0.2694479154716001,
     "CbGdCrCtD": 0.0016550061217722313,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.5727324036648347,
     "CrCrCtD": 0.12825467777607782
   },
+  "n_trials": 0.0,
   "prediction": 0.00568726376020516,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.264705882352941,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.0130039011703511,
   "metapath_contribution": {
     "CbGbCtD": 0.4972274271280811,
     "CbGeAlD": 0.12072535307184085,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.24696178202608934,
     "CrCbGaD": 0.002488985259180169
   },
+  "n_trials": 0.0,
   "prediction": 0.000575047448714534,
   "status": 0,
   "training_prediction": 0.00709761276568967

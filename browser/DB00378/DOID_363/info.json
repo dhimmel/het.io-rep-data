@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00378",
   "compound_name": "Dydrogesterone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.19560632752945456,
     "CbGbCtD": 0.19214267690482,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.23270553121981663,
     "CrCtD": 0.36034273798423205
   },
+  "n_trials": 0.0,
   "prediction": 0.0408253448718546,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

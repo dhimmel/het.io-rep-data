@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGbCtD": 0.3022401559223014,
     "CbGdCrCtD": 0.002475048126502039,
     "CcSEcCtD": 0.05407966076334541,
     "CpDpCtD": 0.641205135187851
   },
+  "n_trials": 0.0,
   "prediction": 0.0041926668219895895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00929",
   "compound_name": "Misoprostol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.78937911817791,
     "CbGeAlD": 0.05443328921550963,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.012414037412443336,
     "CrCbGaD": 0.003701016776388211
   },
+  "n_trials": 0.0,
   "prediction": 0.00431130254960759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

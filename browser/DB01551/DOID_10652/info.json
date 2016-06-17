@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01551",
   "compound_name": "Dihydrocodeine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.10603774910757288,
     "CbGbCtD": 0.12819108716403535,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2770390077642829,
     "CrCtD": 0.4548631174726965
   },
+  "n_trials": 0.0,
   "prediction": 0.0198205651036531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

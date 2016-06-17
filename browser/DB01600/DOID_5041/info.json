@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.5994798439531861,
   "metapath_contribution": {
     "CbGaD": 0.8205573070395922,
     "CbGbCtD": 0.08215240540233643,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04462041025745366,
     "CrCbGaD": 0.00699250264421208
   },
+  "n_trials": 0.0,
   "prediction": 0.00168674981681851,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

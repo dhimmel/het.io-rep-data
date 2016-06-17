@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
-    "CbGaD": 0.3929704984354828,
-    "CbGbCtD": 0.4351436587222972,
-    "CbGeAlD": 0.011452749746234621,
-    "CbGpPWpGaD": 0.04324710355816232,
-    "CcSEcCtD": 0.11063125039818264,
-    "CrCbGaD": 0.006554739139640551
+    "CbGaD": 0.39297049843548276,
+    "CbGbCtD": 0.4351436587222971,
+    "CbGeAlD": 0.01145274974623462,
+    "CbGpPWpGaD": 0.04324710355816231,
+    "CcSEcCtD": 0.11063125039818263,
+    "CrCbGaD": 0.00655473913964055
   },
+  "n_trials": 2.0,
   "prediction": 0.00286338085026057,
   "status": 0,
   "training_prediction": 0.0153477578535431

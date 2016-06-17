@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01392",
   "compound_name": "Yohimbine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGaD": 0.5074082316638776,
     "CbGbCtD": 0.3457811377191437,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08861176261957422,
     "CrCbGaD": 0.001882698953139703
   },
+  "n_trials": 0.0,
   "prediction": 0.008906174857152241,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

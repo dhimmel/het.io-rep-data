@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.135240572171652,
   "metapath_contribution": {
     "CbGaD": 0.42779719414742273,
     "CbGbCtD": 0.505846652679227,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05917098230239789,
     "CrCbGaD": 0.004340602557466309
   },
+  "n_trials": 2.0,
   "prediction": 0.0008906081059160539,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.85630689206762,
   "metapath_contribution": {
     "CbGaD": 0.4837523628905332,
     "CbGeAlD": 0.11852968275336354,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21500237740338826,
     "CrCbGaD": 0.007685035038759141
   },
+  "n_trials": 6.0,
   "prediction": 0.00254903549867012,
   "status": 0,
   "training_prediction": 0.0046528745919976605

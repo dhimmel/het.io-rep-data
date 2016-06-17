@@ -1,16 +1,18 @@
 {
   "compound_id": "DB04839",
   "compound_name": "Cyproterone acetate",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
-    "CbGaD": 0.829422547370685,
-    "CbGeAlD": 0.09513900668766145,
+    "CbGaD": 0.8294225473706851,
+    "CbGeAlD": 0.09513900668766147,
     "CbGpPWpGaD": 0.06412300642116774,
-    "CcSEcCtD": 0.004448111795626543,
-    "CrCbGaD": 0.0068673277248592094
+    "CcSEcCtD": 0.004448111795626544,
+    "CrCbGaD": 0.00686732772485921
   },
+  "n_trials": 9.0,
   "prediction": 0.00308748027539672,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

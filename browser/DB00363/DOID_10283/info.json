@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.3673294771736663,
     "CbGbCtD": 0.44427375482027043,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12822328750363815,
     "CrCbGaD": 0.003532165582543172
   },
+  "n_trials": 0.0,
   "prediction": 0.00243895549362477,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

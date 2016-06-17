@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8198959687906371,
   "metapath_contribution": {
     "CbGaD": 0.5031613297264571,
     "CbGbCtD": 0.273553683150233,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11679987913555712,
     "CrCbGaD": 0.003874892435914608
   },
+  "n_trials": 0.0,
   "prediction": 0.00259050442782549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

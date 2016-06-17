@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.484395318595579,
   "metapath_contribution": {
     "CbGbCtD": 0.8046192123381283,
     "CbGeAlD": 0.011551757153338288,
     "CbGpPWpGaD": 0.08409554727042845,
     "CcSEcCtD": 0.09973348323810495
   },
+  "n_trials": 0.0,
   "prediction": 0.00156781290111709,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.5741222366710009,
   "metapath_contribution": {
     "CbGaD": 0.8580936063496758,
     "CbGeAlD": 0.03679124989451766,
     "CbGpPWpGaD": 0.09890902973493669,
     "CrCbGaD": 0.0062061140208699095
   },
+  "n_trials": 0.0,
   "prediction": 0.0015596529536678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

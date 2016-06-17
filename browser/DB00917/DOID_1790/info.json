@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1790",
   "disease_name": "malignant mesothelioma",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.8356495201427385,
     "CbGeAlD": 0.07555906407181492,
     "CbGpPWpGaD": 0.08185837619679846,
     "CrCbGaD": 0.006933039588648047
   },
+  "n_trials": 0.0,
   "prediction": 0.0036361522463339204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

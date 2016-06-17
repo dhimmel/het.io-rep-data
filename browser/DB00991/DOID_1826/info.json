@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.06537438158198734,
     "CbGbCtD": 0.10952814836115661,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2338240703116831,
     "CrCtD": 0.3477604045055842
   },
+  "n_trials": 0.0,
   "prediction": 0.0233969046432702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

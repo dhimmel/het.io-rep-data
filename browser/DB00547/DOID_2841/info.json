@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00547",
   "compound_name": "Desoximetasone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.08724464799434199,
     "CbGbCtD": 0.1535002106027858,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1772558559528083,
     "CrCtD": 0.24666072233511724
   },
+  "n_trials": 0.0,
   "prediction": 0.114929874858376,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

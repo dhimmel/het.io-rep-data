@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.321196358907672,
   "metapath_contribution": {
     "CbGaD": 0.19864627992746753,
     "CbGbCtD": 0.5139912442025707,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16694682308404052,
     "CrCbGaD": 0.0004722895820366878
   },
+  "n_trials": 0.0,
   "prediction": 0.00250491139387302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

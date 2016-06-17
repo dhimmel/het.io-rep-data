@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6872561768530561,
   "metapath_contribution": {
     "CbGaD": 0.23541466922752832,
     "CbGbCtD": 0.3892422979080427,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12154828985420846,
     "CcSEcCtD": 0.22075098132628165
   },
+  "n_trials": 0.0,
   "prediction": 0.00338297917098375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.12288686605981801,
   "metapath_contribution": {
     "CbGbCtD": 0.5788291357960632,
     "CbGeAlD": 0.10140077633588739,
     "CbGpPWpGaD": 0.11325108094575637,
     "CcSEcCtD": 0.20651900692229305
   },
+  "n_trials": 0.0,
   "prediction": 0.00123585626183333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

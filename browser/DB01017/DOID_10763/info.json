@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.697009102730819,
   "metapath_contribution": {
     "CbGaD": 0.40918938847331676,
     "CbGbCtD": 0.38408601957019484,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.12939932899464307,
     "CrCbGaD": 0.0019728062714425855
   },
+  "n_trials": 2.0,
   "prediction": 0.00684278961056172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

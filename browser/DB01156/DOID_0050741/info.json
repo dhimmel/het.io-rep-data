@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01156",
   "compound_name": "Bupropion",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGaD": 0.2557026188774491,
     "CbGbCtD": 0.23826959074607848,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11957972474663993,
     "CpDpCtD": 0.31698696931212467
   },
+  "n_trials": 1.0,
   "prediction": 0.0214316176032237,
   "status": 0,
   "training_prediction": 0.0259029763696305

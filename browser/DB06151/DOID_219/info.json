@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.5240572171651501,
   "metapath_contribution": {
     "CbGbCtD": 0.3162895170381837,
     "CbGeAlD": 0.1362074535545805,
     "CbGpPWpGaD": 0.3707681243749865,
     "CcSEcCtD": 0.17673490503224915
   },
+  "n_trials": 0.0,
   "prediction": 0.0016061142360445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

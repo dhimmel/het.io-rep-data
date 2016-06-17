@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08815",
   "compound_name": "Lurasidone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
     "CbGaD": 0.3323606209926239,
     "CbGbCtD": 0.38054284705725316,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15103517947734543,
     "CrCbGaD": 0.00297618311062369
   },
+  "n_trials": 0.0,
   "prediction": 0.0132340466437132,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

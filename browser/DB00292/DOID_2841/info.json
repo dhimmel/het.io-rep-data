@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.48374512353706106,
   "metapath_contribution": {
     "CbGbCtD": 0.675102139257445,
     "CbGeAlD": 0.05235920340405917,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11504464591138343,
     "CrCbGaD": 0.006005847550038866
   },
+  "n_trials": 0.0,
   "prediction": 0.00240234584735006,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

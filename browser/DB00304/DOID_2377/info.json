@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.5747724317295191,
   "metapath_contribution": {
     "CbGaD": 0.5321276182328738,
     "CbGbCtD": 0.28937115521395207,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004642008703933455,
     "CrCrCtD": 0.11457615888088726
   },
+  "n_trials": 0.0,
   "prediction": 0.0020641828663848396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

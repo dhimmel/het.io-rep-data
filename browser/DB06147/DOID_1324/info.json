@@ -1,14 +1,16 @@
 {
   "compound_id": "DB06147",
   "compound_name": "Sulfathiazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.273081924577373,
   "metapath_contribution": {
     "CbGbCtD": 0.8549103784918417,
     "CbGpPWpGaD": 0.1303499963765633,
     "CrCbGaD": 0.014739625131595059
   },
+  "n_trials": 0.0,
   "prediction": 0.0011916461811903,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

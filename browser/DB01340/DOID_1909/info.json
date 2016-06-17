@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGaD": 0.8099373431509106,
     "CbGeAlD": 0.03456109592202683,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13292859161652903,
     "CrCbGaD": 0.007911409515697973
   },
+  "n_trials": 0.0,
   "prediction": 0.00222492711396496,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

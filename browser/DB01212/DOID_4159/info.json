@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.258127438231469,
   "metapath_contribution": {
     "CbGbCtD": 0.6369871279865948,
     "CbGeAlD": 0.015980152306987603,
     "CcSEcCtD": 0.34703271970641764
   },
+  "n_trials": 0.0,
   "prediction": 0.00124543094284035,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

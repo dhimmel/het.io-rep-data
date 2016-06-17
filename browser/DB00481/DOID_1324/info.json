@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00481",
   "compound_name": "Raloxifene",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGbCtD": 0.5481059230069486,
     "CbGdCrCtD": 0.0017705800580277787,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.16627436450901012,
     "CcSEcCtD": 0.2611388508767428
   },
+  "n_trials": 0.0,
   "prediction": 0.0023916212400489,
   "status": 0,
   "training_prediction": 0.0135397651543974

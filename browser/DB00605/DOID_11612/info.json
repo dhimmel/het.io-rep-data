@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.5493353893263306,
     "CbGeAlD": 0.12576547413894612,
     "CbGpPWpGaD": 0.3109679394367255,
     "CcSEcCtD": 0.013931197097997594
   },
+  "n_trials": 0.0,
   "prediction": 0.0027790126866919103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

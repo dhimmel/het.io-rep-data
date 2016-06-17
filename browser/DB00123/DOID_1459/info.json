@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00123",
   "compound_name": "L-Lysine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGbCtD": 0.7903470818840632,
     "CbGeAlD": 0.13350186376300838,
     "CbGpPWpGaD": 0.0704729488211176,
     "CrCbGaD": 0.005678105531810873
   },
+  "n_trials": 0.0,
   "prediction": 0.00250369531426263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

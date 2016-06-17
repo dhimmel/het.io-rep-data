@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00714",
   "compound_name": "Apomorphine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
-    "CbGaD": 0.12198739270933741,
-    "CbGbCtD": 0.15541977404189627,
-    "CbGeAlD": 0.055168873605975235,
-    "CbGpPWpGaD": 0.05521825244062394,
-    "CcSEcCtD": 0.07331460668332679,
-    "CpDpCtD": 0.5388911005188403
+    "CbGaD": 0.12198739270933744,
+    "CbGbCtD": 0.15541977404189633,
+    "CbGeAlD": 0.05516887360597525,
+    "CbGpPWpGaD": 0.055218252440623956,
+    "CcSEcCtD": 0.0733146066833268,
+    "CpDpCtD": 0.5388911005188404
   },
+  "n_trials": 0.0,
   "prediction": 0.0127790825163949,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

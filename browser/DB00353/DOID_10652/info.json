@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00353",
   "compound_name": "Methylergometrine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.676853055916775,
   "metapath_contribution": {
     "CbGaD": 0.3305275464315337,
     "CbGbCtD": 0.382160875642128,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10665484633645564,
     "CrCbGaD": 0.004887508947695721
   },
+  "n_trials": 0.0,
   "prediction": 0.0024144836239404603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.424577373211964,
   "metapath_contribution": {
     "CbGaD": 0.7130855351062851,
     "CbGeAlD": 0.06189925518030744,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14205311453543842,
     "CrCbGaD": 0.0031269465515528006
   },
+  "n_trials": 0.0,
   "prediction": 0.00142167473599231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

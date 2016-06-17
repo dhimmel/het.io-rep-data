@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.615084525357607,
   "metapath_contribution": {
     "CbGbCtD": 0.7680696562420436,
     "CbGdCrCtD": 0.004308817619652405,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.16343796369894778,
     "CrCbGaD": 0.00322581408568853
   },
+  "n_trials": 0.0,
   "prediction": 0.0021586517392370103,
   "status": 0,
   "training_prediction": 0.0155870171336377

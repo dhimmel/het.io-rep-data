@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGaD": 0.2800238418652131,
     "CbGbCtD": 0.5135774303285786,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1751182686818189,
     "CrCbGaD": 0.0011571452253220957
   },
+  "n_trials": 0.0,
   "prediction": 0.00143548633721184,
   "status": 0,
   "training_prediction": 0.00204840218667805

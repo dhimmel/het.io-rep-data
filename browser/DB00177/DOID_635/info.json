@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00177",
   "compound_name": "Valsartan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.2953201847944516,
     "CbGbCtD": 0.5120315540499945,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.012930905682088607,
     "CcSEcCtD": 0.16326567691806038
   },
+  "n_trials": 0.0,
   "prediction": 0.00481652914690805,
   "status": 0,
   "training_prediction": 0.0328923188437428

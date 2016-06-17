@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.7181232152456181,
     "CbGeAlD": 0.11915949229937928,
     "CbGpPWpGaD": 0.16238272713139545,
     "CrCbGaD": 0.00033456532360721974
   },
+  "n_trials": 0.0,
   "prediction": 0.00158645679744483,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00691",
   "compound_name": "Moexipril",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.3352883237694774,
     "CbGeAlD": 0.046008572490054495,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.003373014302247564,
     "CtDrD": 0.5804986806105479
   },
+  "n_trials": 0.0,
   "prediction": 0.00490745537547526,
   "status": 0,
   "training_prediction": 0.00221661130525582

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGbCtD": 0.6627201514378904,
     "CbGeAlD": 0.06594519610491077,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.25952867165917654,
     "CrCbGaD": 0.008321751747396206
   },
+  "n_trials": 0.0,
   "prediction": 0.0013881577551456599,
   "status": 0,
   "training_prediction": 0.00592102793266147

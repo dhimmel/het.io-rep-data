@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGbCtD": 0.6739098002272166,
     "CbGeAlD": 0.1449128828446294,
     "CbGpPWpGaD": 0.05418934096348884,
     "CcSEcCtD": 0.1269879759646651
   },
+  "n_trials": 1.0,
   "prediction": 0.00250466854443357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

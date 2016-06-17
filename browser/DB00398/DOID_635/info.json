@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGbCtD": 0.6649884016808096,
     "CbGeAlD": 0.10043330663169028,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18200774305817483,
     "CrCbGaD": 0.0005514184309592962
   },
+  "n_trials": 0.0,
   "prediction": 0.00600373706718483,
   "status": 0,
   "training_prediction": 0.0407166860233611

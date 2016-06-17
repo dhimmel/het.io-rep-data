@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.2356181575042597,
     "CbGbCtD": 0.30038991486731415,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0016699442838182046,
     "CrCrCtD": 0.2977839176937618
   },
+  "n_trials": 0.0,
   "prediction": 0.009625276129542441,
   "status": 0,
   "training_prediction": 0.161741768368697

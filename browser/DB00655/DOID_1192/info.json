@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGaD": 0.21204074356484195,
     "CbGbCtD": 0.6815610542691287,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08271204581929749,
     "CrCbGaD": 0.0011210320942555575
   },
+  "n_trials": 0.0,
   "prediction": 0.0019223658378776398,
   "status": 0,
   "training_prediction": 0.00525769005312492

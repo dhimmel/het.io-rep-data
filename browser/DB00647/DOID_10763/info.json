@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00647",
   "compound_name": "Dextropropoxyphene",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGbCtD": 0.24703310641390067,
     "CbGpPWpGaD": 0.04627770706538517,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2444411097357289,
     "CrCtD": 0.3773841139791912
   },
+  "n_trials": 0.0,
   "prediction": 0.00914271528324523,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

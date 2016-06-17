@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00280",
   "compound_name": "Disopyramide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGbCtD": 0.11985674222484083,
     "CbGeAlD": 0.00420207794991883,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1192388894922552,
     "CrCrCtD": 0.7232753475248325
   },
+  "n_trials": 0.0,
   "prediction": 0.00296892234610583,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

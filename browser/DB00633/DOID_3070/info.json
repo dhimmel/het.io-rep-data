@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00633",
   "compound_name": "Dexmedetomidine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGbCtD": 0.3270254067575244,
     "CbGpPWpGaD": 0.33938737611434244,
     "CcSEcCtD": 0.33358721712813316
   },
+  "n_trials": 1.0,
   "prediction": 0.0020715416777968,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

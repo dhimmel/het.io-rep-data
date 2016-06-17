@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.746423927178153,
   "metapath_contribution": {
     "CbGaD": 0.7972008342416695,
     "CbGeAlD": 0.09302623463956694,
     "CbGpPWpGaD": 0.10182228390608575,
     "CrCbGaD": 0.007950647212677771
   },
+  "n_trials": 0.0,
   "prediction": 0.00166291927536274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

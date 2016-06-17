@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.0806241872561769,
   "metapath_contribution": {
     "CbGaD": 0.5259159255455544,
     "CbGeAlD": 0.19701729850414165,
     "CbGpPWpGaD": 0.27326841580635275,
     "CrCbGaD": 0.003798360143951141
   },
+  "n_trials": 0.0,
   "prediction": 0.000734256018067725,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

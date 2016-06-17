@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.26477619870008795,
     "CbGbCtD": 0.1152459899279914,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.475559794958462,
     "CrCbGaD": 0.0017307958343373766
   },
+  "n_trials": 0.0,
   "prediction": 0.0195258396407204,
   "status": 0,
   "training_prediction": 0.305494407968136

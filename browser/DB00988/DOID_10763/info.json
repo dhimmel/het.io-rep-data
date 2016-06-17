@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.20632300199807688,
     "CbGbCtD": 0.2240963018426706,
@@ -15,6 +17,5 @@
     "CrCtD": 0.2639070263780242
   },
   "prediction": 0.0252831062731926,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

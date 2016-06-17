@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.662548764629389,
   "metapath_contribution": {
     "CbGaD": 0.6605797567882017,
     "CbGeAlD": 0.1414414598619891,
     "CbGpPWpGaD": 0.1945201510802458,
     "CrCbGaD": 0.0034586322695634654
   },
+  "n_trials": 0.0,
   "prediction": 0.0015239255719021,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

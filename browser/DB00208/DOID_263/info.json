@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.5572171651495451,
   "metapath_contribution": {
     "CbGaD": 0.31472777502987687,
     "CbGbCtD": 0.459850668273221,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.155302032553116,
     "CrCbGaD": 0.0006654536798762825
   },
+  "n_trials": 0.0,
   "prediction": 0.00199184329455356,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGaD": 0.29892426189264903,
     "CbGbCtD": 0.4574651541553176,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09196188434916419,
     "CcSEcCtD": 0.12432817571441304
   },
+  "n_trials": 0.0,
   "prediction": 0.00710607980909001,
   "status": 0,
   "training_prediction": 0.0605310116220803

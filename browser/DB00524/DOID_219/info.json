@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00524",
   "compound_name": "Metolazone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.827288504344322,
     "CbGeAlD": 0.0076474266128196315,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06346892806366213,
     "CrCbGaD": 0.005342949415683695
   },
+  "n_trials": 0.0,
   "prediction": 0.0031208195018032603,
   "status": 0,
   "training_prediction": 0.00445012250304382

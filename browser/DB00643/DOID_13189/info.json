@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.7184655396618991,
   "metapath_contribution": {
     "CbGbCtD": 0.3458390587662435,
     "CcSEcCtD": 0.04706589054170301,
     "CrCbGaD": 0.0027776820825921263,
     "CrCrCtD": 0.6043173686094614
   },
+  "n_trials": 0.0,
   "prediction": 0.00307591740795663,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

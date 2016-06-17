@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00212",
   "compound_name": "Remikiren",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.276332899869961,
   "metapath_contribution": {
-    "CbGeAlD": 0.42154037785728304,
-    "CbGpPWpGaD": 0.5355790001944614,
-    "CrCbGaD": 0.04288062194825568
+    "CbGeAlD": 0.421540377857283,
+    "CbGpPWpGaD": 0.5355790001944613,
+    "CrCbGaD": 0.042880621948255676
   },
+  "n_trials": 0.0,
   "prediction": 0.0020753483657662,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

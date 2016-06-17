@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.711963589076723,
   "metapath_contribution": {
     "CbGbCtD": 0.15830913630971982,
     "CbGeAlD": 0.023600182321493694,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11187956478872127,
     "CrCrCtD": 0.5758155043071703
   },
+  "n_trials": 0.0,
   "prediction": 0.00233191022514868,
   "status": 0,
   "training_prediction": 0.00555109646459516

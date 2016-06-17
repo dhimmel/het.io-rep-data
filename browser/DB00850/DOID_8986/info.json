@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.476592977893368,
   "metapath_contribution": {
     "CbGaD": 0.6915169864731612,
     "CbGeAlD": 0.14585827332480056,
     "CbGpPWpGaD": 0.15443392649660942,
     "CrCbGaD": 0.008190813705428842
   },
+  "n_trials": 0.0,
   "prediction": 0.00132615636323569,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.8465539661898571,
   "metapath_contribution": {
     "CbGaD": 0.7428591551834991,
     "CbGeAlD": 0.06548564183866636,
     "CbGpPWpGaD": 0.1916552029778346
   },
+  "n_trials": 1.0,
   "prediction": 0.00349326770161952,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

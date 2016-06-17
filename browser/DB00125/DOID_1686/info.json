@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.791287386215865,
   "metapath_contribution": {
     "CbGaD": 0.6237742417961994,
     "CbGbCtD": 0.2007708876077158,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09597634466561736,
     "CrCbGaD": 0.001967372781427137
   },
+  "n_trials": 0.0,
   "prediction": 0.00302931341459373,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

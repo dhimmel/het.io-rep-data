@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.403120936280884,
   "metapath_contribution": {
     "CbGaD": 0.7146640615950108,
     "CbGeAlD": 0.07370080071923568,
     "CbGpPWpGaD": 0.20090904814864396,
     "CrCbGaD": 0.010726089537109582
   },
+  "n_trials": 0.0,
   "prediction": 0.00138066154243004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

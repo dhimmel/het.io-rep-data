@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01011",
   "compound_name": "Metyrapone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.905071521456437,
   "metapath_contribution": {
     "CbGaD": 0.5577418916248765,
     "CbGbCtD": 0.29834543048972334,
     "CbGpPWpGaD": 0.07698991885741269,
     "CcSEcCtD": 0.06692275902798743
   },
+  "n_trials": 0.0,
   "prediction": 0.00538738589022543,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

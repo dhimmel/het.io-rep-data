@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.5253576072821851,
   "metapath_contribution": {
     "CbGaD": 0.37584875352470803,
     "CbGbCtD": 0.3674269744084229,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.139464499987096,
     "CrCbGaD": 0.004115912265556223
   },
+  "n_trials": 1.0,
   "prediction": 0.0019857589581631896,
   "status": 0,
   "training_prediction": 0.0057743902322636

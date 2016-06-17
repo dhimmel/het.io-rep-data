@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.22263786727086418,
     "CbGbCtD": 0.224769278143731,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0016796521158875958,
     "CrCrCtD": 0.15563207985552405
   },
+  "n_trials": 1.0,
   "prediction": 0.019007452381319002,
   "status": 0,
   "training_prediction": 0.0762117484177643

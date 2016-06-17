@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.485695708712614,
   "metapath_contribution": {
     "CbGaD": 0.8846425773595811,
     "CbGeAlD": 0.05421944067197563,
     "CbGpPWpGaD": 0.05264694124009732,
     "CrCbGaD": 0.008491040728346
   },
+  "n_trials": 0.0,
   "prediction": 0.00151915502151428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

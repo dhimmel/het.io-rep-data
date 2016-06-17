@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01356",
   "compound_name": "Lithium",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.706075856284065,
     "CbGeAlD": 0.05509810158040567,
     "CbGpPWpGaD": 0.13292789225880852,
     "CcSEcCtD": 0.10589814987672093
   },
+  "n_trials": 2.0,
   "prediction": 0.00864590814854832,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGaD": 0.3558795469184977,
     "CbGbCtD": 0.2221021593928339,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.265900257461179,
     "CrCbGaD": 0.003742981914254242
   },
+  "n_trials": 0.0,
   "prediction": 0.00335483146109822,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

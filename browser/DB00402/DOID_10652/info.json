@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00402",
   "compound_name": "Eszopiclone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.3773348907426357,
     "CbGbCtD": 0.19371158891263757,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2903785152711187,
     "CrCbGaD": 0.0028950382650712414
   },
+  "n_trials": 0.0,
   "prediction": 0.00323356623867092,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0494148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.41523073912211816,
-    "CbGeAlD": 0.0779662759256798,
-    "CbGpPWpGaD": 0.19909097416229937,
+    "CbGeAlD": 0.07796627592567978,
+    "CbGpPWpGaD": 0.19909097416229934,
     "CcSEcCtD": 0.30499440695066277,
-    "CrCbGaD": 0.0027176038392399365
+    "CrCbGaD": 0.002717603839239936
   },
+  "n_trials": 0.0,
   "prediction": 0.000685072897232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

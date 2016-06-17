@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00309",
   "compound_name": "Vindesine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGbCtD": 0.23201654637177688,
     "CbGpPWpGaD": 0.0012103557386243732,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.29470783861133737,
     "CrCtD": 0.47068746632839614
   },
+  "n_trials": 3.0,
   "prediction": 0.0121102874280799,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00402",
   "compound_name": "Eszopiclone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.831599479843953,
   "metapath_contribution": {
     "CbGaD": 0.36745609174720845,
     "CbGbCtD": 0.4620598294420534,
     "CcSEcCtD": 0.16756275800445958,
     "CrCbGaD": 0.002921320806278593
   },
+  "n_trials": 0.0,
   "prediction": 0.004094325062548279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

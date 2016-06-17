@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.489596879063719,
   "metapath_contribution": {
     "CbGbCtD": 0.612854818599128,
     "CbGdCrCtD": 0.008662824932254572,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1223052224136594,
     "CcSEcCtD": 0.13926981072126612
   },
+  "n_trials": 0.0,
   "prediction": 0.00157249705288234,
   "status": 0,
   "training_prediction": 0.00670326553161381

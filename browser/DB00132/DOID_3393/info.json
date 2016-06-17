@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00132",
   "compound_name": "Alpha-Linolenic Acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.644343302990897,
   "metapath_contribution": {
     "CbGaD": 0.7622602977083591,
     "CbGeAlD": 0.041984634851524254,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08084436104927692,
     "CrCbGaD": 0.004993384514596009
   },
+  "n_trials": 0.0,
   "prediction": 0.00313158285235686,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

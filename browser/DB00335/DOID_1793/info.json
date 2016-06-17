@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00335",
   "compound_name": "Atenolol",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.252925877763329,
   "metapath_contribution": {
     "CbGbCtD": 0.5168823395243823,
     "CbGpPWpGaD": 0.04892474998689771,
     "CcSEcCtD": 0.4301336973431848,
     "CrCbGaD": 0.004059213145535118
   },
+  "n_trials": 0.0,
   "prediction": 0.0012078948786975801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

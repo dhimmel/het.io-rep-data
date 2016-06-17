@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGbCtD": 0.24137328928489413,
     "CbGeAlD": 0.00719842925125171,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.26232831483764074,
     "CrCtD": 0.4292925940778299
   },
+  "n_trials": 0.0,
   "prediction": 0.0225073874988991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

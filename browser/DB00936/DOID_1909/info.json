@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.318595578673602,
   "metapath_contribution": {
     "CbGaD": 0.5697270971283815,
     "CbGbCtD": 0.2271647818530417,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08105681960696698,
     "CrCbGaD": 0.007402362079740116
   },
+  "n_trials": 0.0,
   "prediction": 0.00110052090658064,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

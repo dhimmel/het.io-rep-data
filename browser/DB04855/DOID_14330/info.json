@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGaD": 0.7547564723482326,
     "CbGeAlD": 0.08448157458706217,
     "CbGpPWpGaD": 0.1603212463061873,
     "CrCbGaD": 0.00044070675851796113
   },
+  "n_trials": 0.0,
   "prediction": 0.00319643813567537,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

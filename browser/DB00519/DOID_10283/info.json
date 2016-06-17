@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00519",
   "compound_name": "Trandolapril",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6137841352405721,
   "metapath_contribution": {
     "CbGaD": 0.38996316916453966,
     "CbGbCtD": 0.2756411403405981,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.24530518766050893,
     "CrCbGaD": 0.004522784716317724
   },
+  "n_trials": 0.0,
   "prediction": 0.00285491782142397,
   "status": 0,
   "training_prediction": 0.0199549574119879

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.2906406256063086,
     "CbGeAlD": 0.017070453948047085,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0019312700352296054,
     "CtDrD": 0.610021080349836
   },
+  "n_trials": 17.0,
   "prediction": 0.00501722739058095,
   "status": 0,
   "training_prediction": 0.00226633047734881

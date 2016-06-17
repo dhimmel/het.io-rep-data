@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00154",
   "compound_name": "Dihomo-gamma-linolenic acid",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.250975292587776,
   "metapath_contribution": {
     "CbGaD": 0.6869670132257455,
     "CbGbCtD": 0.08280538851862225,
     "CbGpPWpGaD": 0.21497472080779778,
     "CrCbGaD": 0.015252877447834594
   },
+  "n_trials": 0.0,
   "prediction": 0.0013549963975209,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

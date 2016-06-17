@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06204",
   "compound_name": "Tapentadol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.4503836426675949,
     "CbGbCtD": 0.4049212440834969,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.021231383013147233,
     "CcSEcCtD": 0.10116403851558937
   },
+  "n_trials": 0.0,
   "prediction": 0.007748768868831809,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

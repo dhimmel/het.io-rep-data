@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.737971391417425,
   "metapath_contribution": {
     "CbGaD": 0.7219434018345645,
     "CbGeAlD": 0.0010971926976440925,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11210651705932904,
     "CrCbGaD": 0.0032240595146391677
   },
+  "n_trials": 0.0,
   "prediction": 0.0019491039455578102,
   "status": 0,
   "training_prediction": 0.00143766637217742

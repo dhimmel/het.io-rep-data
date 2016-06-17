@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.624837451235371,
   "metapath_contribution": {
     "CbGbCtD": 0.6246576116702763,
     "CbGeAlD": 0.008875149546306076,
     "CbGpPWpGaD": 0.11514842579732147,
     "CcSEcCtD": 0.2513188129860961
   },
+  "n_trials": 0.0,
   "prediction": 0.0026037935348965603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

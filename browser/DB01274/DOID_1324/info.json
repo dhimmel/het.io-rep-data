@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01274",
   "compound_name": "Arformoterol",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.555266579973992,
   "metapath_contribution": {
     "CbGaD": 0.4720985486460967,
     "CbGbCtD": 0.2707744996548677,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18377124761647326,
     "CrCbGaD": 0.000995261404243992
   },
+  "n_trials": 0.0,
   "prediction": 0.0020167105793701,
   "status": 0,
   "training_prediction": 0.0114373064836947

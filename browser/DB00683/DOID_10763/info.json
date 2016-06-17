@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.583875162548765,
   "metapath_contribution": {
     "CbGaD": 0.11812613384561592,
     "CbGbCtD": 0.3753424622177318,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.001654000725847281,
     "CrCrCtD": 0.24257111497479744
   },
+  "n_trials": 1.0,
   "prediction": 0.00476613624883336,
   "status": 0,
   "training_prediction": 0.0541807213613946

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.076072821846554,
   "metapath_contribution": {
     "CbGaD": 0.5805117965483743,
     "CbGbCtD": 0.2188243841183929,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.14401697531082397,
     "CrCbGaD": 0.004792326465230743
   },
+  "n_trials": 0.0,
   "prediction": 0.00107180012294398,
   "status": 0,
   "training_prediction": 0.00872188716021221

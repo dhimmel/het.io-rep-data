@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8068920676202859,
   "metapath_contribution": {
     "CbGaD": 0.2467529206472417,
     "CbGbCtD": 0.23936736937879344,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.001634127344475988,
     "CrCrCtD": 0.2896060437193494
   },
+  "n_trials": 1.0,
   "prediction": 0.004899169369839029,
   "status": 0,
   "training_prediction": 0.0424413325024089

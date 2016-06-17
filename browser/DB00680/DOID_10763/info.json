@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00680",
   "compound_name": "Moricizine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0806241872561769,
   "metapath_contribution": {
     "CbGbCtD": 0.10845587436142677,
     "CbGeAlD": 0.08878071662122276,
     "CrCbGaD": 0.011956669803413195,
     "CrCrCtD": 0.7908067392139373
   },
+  "n_trials": 0.0,
   "prediction": 0.00118569550453005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

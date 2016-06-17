@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.20545573951575422,
     "CbGpPWpGaD": 0.013894987611421276,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.15905066779137453,
     "CrCtD": 0.24802305802658114
   },
+  "n_trials": 0.0,
   "prediction": 0.18627025834206898,
   "status": 0,
   "training_prediction": 0.493584552559469

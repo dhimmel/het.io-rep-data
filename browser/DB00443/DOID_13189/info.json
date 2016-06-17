@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGbCtD": 0.09717189281138511,
     "CbGdCrCtD": 0.00027241439476362686,
@@ -14,6 +16,7 @@
     "CrCtD": 0.17919892023698314,
     "CtDrD": 0.1739497066516348
   },
+  "n_trials": 0.0,
   "prediction": 0.223332394106319,
   "status": 0,
   "training_prediction": 0.8117347500214259

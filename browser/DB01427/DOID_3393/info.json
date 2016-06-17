@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01427",
   "compound_name": "Amrinone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7373211963589079,
   "metapath_contribution": {
     "CbGaD": 0.8280508731319419,
     "CbGeAlD": 0.01232043613387621,
     "CbGpPWpGaD": 0.1532225268150002,
     "CrCbGaD": 0.006406163919181644
   },
+  "n_trials": 0.0,
   "prediction": 0.00394503098068887,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

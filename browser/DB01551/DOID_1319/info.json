@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01551",
   "compound_name": "Dihydrocodeine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.365409622886866,
   "metapath_contribution": {
     "CbGbCtD": 0.8676643889580492,
     "CbGeAlD": 0.01963225678717339,
     "CcSEcCtD": 0.10976794551806243,
     "CrCbGaD": 0.002935408736714877
   },
+  "n_trials": 0.0,
   "prediction": 0.00131615809970905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

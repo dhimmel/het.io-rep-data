@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.26587312309811695,
     "CbGbCtD": 0.13387527739875202,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002447080587803759,
     "CtDrD": 0.45622829151704547
   },
+  "n_trials": 0.0,
   "prediction": 0.0040116452373614294,
   "status": 0,
   "training_prediction": 0.0048666846531805

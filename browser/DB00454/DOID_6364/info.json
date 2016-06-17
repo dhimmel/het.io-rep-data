@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.3140045228278965,
     "CbGbCtD": 0.4893791206683123,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11330210398770636,
     "CrCbGaD": 0.0024434581954053936
   },
+  "n_trials": 0.0,
   "prediction": 0.00485617120687077,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

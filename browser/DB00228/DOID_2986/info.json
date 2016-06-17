@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
     "CbGaD": 0.6223361567206543,
     "CbGeAlD": 0.11319883489461717,
     "CbGpPWpGaD": 0.2636975106033089,
     "CrCbGaD": 0.0007674977814195979
   },
+  "n_trials": 0.0,
   "prediction": 0.00149301978229271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

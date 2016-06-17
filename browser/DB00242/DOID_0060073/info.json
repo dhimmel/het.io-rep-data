@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGbCtD": 0.32212600319957413,
     "CbGdCrCtD": 0.0011859459421112207,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.26415983603664017,
     "CrCtD": 0.36054161925065453
   },
+  "n_trials": 2.0,
   "prediction": 0.0263641286077936,
   "status": 0,
   "training_prediction": 0.09060857463610901

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.19960988296488896,
   "metapath_contribution": {
     "CbGaD": 0.5910887731666935,
     "CbGbCtD": 0.2177127426176027,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.14128718665268747,
     "CrCbGaD": 0.006227404068933478
   },
+  "n_trials": 0.0,
   "prediction": 0.0010296687536159698,
   "status": 0,
   "training_prediction": 0.00586663176875852

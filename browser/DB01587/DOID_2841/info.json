@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01587",
   "compound_name": "Ketazolam",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7223667100130041,
   "metapath_contribution": {
     "CbGaD": 0.6378590377479549,
     "CbGbCtD": 0.35716693221370654,
     "CbGeAlD": 0.002803864293296373,
     "CrCbGaD": 0.002170165745042238
   },
+  "n_trials": 0.0,
   "prediction": 0.0038580596296474297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

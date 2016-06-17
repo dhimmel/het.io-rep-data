@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.41677503250975295,
   "metapath_contribution": {
     "CbGaD": 0.18612423520894475,
     "CbGbCtD": 0.47940991656915877,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16022842164054407,
     "CrCbGaD": 0.0013589174455502354
   },
+  "n_trials": 0.0,
   "prediction": 0.00131044540543645,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

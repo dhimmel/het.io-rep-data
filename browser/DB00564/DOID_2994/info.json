@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.17685305591677497,
   "metapath_contribution": {
     "CbGbCtD": 0.75311759261722,
     "CbGeAlD": 0.04931933085397056,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1917236571079941,
     "CrCbGaD": 0.0008171861951836209
   },
+  "n_trials": 0.0,
   "prediction": 0.00103271710803816,
   "status": 0,
   "training_prediction": 0.0018874353341978198

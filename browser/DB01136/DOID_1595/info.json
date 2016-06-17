@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.5851930683820009,
     "CbGeAlD": 0.19186590955947166,
     "CbGpPWpGaD": 0.21311943276354772,
     "CrCbGaD": 0.009821589294979713
   },
+  "n_trials": 0.0,
   "prediction": 0.00173624746192744,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

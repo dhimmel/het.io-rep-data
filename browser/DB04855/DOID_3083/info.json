@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
     "CbGaD": 0.22492095498572318,
     "CbGbCtD": 0.5526751698050612,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12614599217525502,
     "CrCbGaD": 0.002186400299934178
   },
+  "n_trials": 0.0,
   "prediction": 0.0033407965663250602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

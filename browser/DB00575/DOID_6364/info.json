@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.758777633289987,
   "metapath_contribution": {
     "CbGbCtD": 0.3933930174740995,
     "CbGeAlD": 0.016219196180067574,
@@ -11,6 +13,7 @@
     "CpDpCtD": 0.4228633860370129,
     "CrCbGaD": 0.0021852685973001405
   },
+  "n_trials": 0.0,
   "prediction": 0.00403633371654817,
   "status": 0,
   "training_prediction": 0.0122134354740439

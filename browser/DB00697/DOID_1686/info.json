@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00697",
   "compound_name": "Tizanidine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGbCtD": 0.15612219828653318,
     "CcSEcCtD": 0.03829248921329475,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.1913947139787402,
     "CrCtD": 0.31536447297364206
   },
+  "n_trials": 0.0,
   "prediction": 0.231201276154432,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

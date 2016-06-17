@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.809339193500549,
     "CbGeAlD": 0.059582960755245044,
     "CbGpPWpGaD": 0.12824611119273466,
     "CrCbGaD": 0.0028317345514713636
   },
+  "n_trials": 0.0,
   "prediction": 0.00197093004072604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

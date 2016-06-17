@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.0520156046814044,
   "metapath_contribution": {
     "CbGbCtD": 0.513974739200649,
     "CbGeAlD": 0.007065076424607662,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.34423109137033725,
     "CrCbGaD": 0.013234213436017902
   },
+  "n_trials": 0.0,
   "prediction": 0.000873696001086371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGbCtD": 0.17291527300830084,
     "CbGdCrCtD": 0.00072283612045409,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.16752338819373,
     "CrCtD": 0.261280336325261
   },
+  "n_trials": 3.0,
   "prediction": 0.0661560670587942,
   "status": 0,
   "training_prediction": 0.125234789886015

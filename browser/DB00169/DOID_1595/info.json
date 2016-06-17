@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.622886866059818,
   "metapath_contribution": {
     "CbGaD": 0.7359908889033809,
     "CbGeAlD": 0.11564869516964754,
     "CbGpPWpGaD": 0.14836041592697155
   },
+  "n_trials": 5.0,
   "prediction": 0.00173798194103576,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.523407022106632,
   "metapath_contribution": {
     "CbGaD": 0.2615830354102667,
     "CbGbCtD": 0.4044880517578789,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17762256957851652,
     "CrCbGaD": 0.002432547064073899
   },
+  "n_trials": 0.0,
   "prediction": 0.0025129069778535,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

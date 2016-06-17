@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.07809417627567526,
     "CbGbCtD": 0.13831447615241332,
@@ -15,6 +17,7 @@
     "CrCtD": 0.16990021966021876,
     "CtDrD": 0.15142626297431633
   },
+  "n_trials": 5.0,
   "prediction": 0.471138579312261,
   "status": 0,
   "training_prediction": 0.867995430239284

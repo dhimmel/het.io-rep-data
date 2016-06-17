@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.660598179453836,
   "metapath_contribution": {
     "CbGaD": 0.3095226855958751,
     "CbGbCtD": 0.42790691845208756,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24618270666894715,
     "CrCbGaD": 0.0015894041307477071
   },
+  "n_trials": 0.0,
   "prediction": 0.00215044826819606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

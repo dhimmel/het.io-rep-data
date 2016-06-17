@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00178",
   "compound_name": "Ramipril",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGaD": 0.6090112584629315,
     "CbGbCtD": 0.07484313727025174,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1841096961739139,
     "CrCbGaD": 0.00679165061070086
   },
+  "n_trials": 0.0,
   "prediction": 0.00281713624464513,
   "status": 0,
   "training_prediction": 0.0229707899966702

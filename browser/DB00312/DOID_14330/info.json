@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.7435893194656016,
     "CbGeAlD": 0.10621149995789289,
     "CbGpPWpGaD": 0.1419476464142761,
     "CrCbGaD": 0.008251534162229478
   },
+  "n_trials": 0.0,
   "prediction": 0.00296650931698363,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

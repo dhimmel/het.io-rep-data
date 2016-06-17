@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7659297789336801,
   "metapath_contribution": {
     "CbGaD": 0.08974810836929052,
     "CbGbCtD": 0.19704738762113774,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.22495867842652983,
     "CrCtD": 0.38634077202772926
   },
+  "n_trials": 5.0,
   "prediction": 0.00429065383405878,
   "status": 0,
   "training_prediction": 0.160279445322262

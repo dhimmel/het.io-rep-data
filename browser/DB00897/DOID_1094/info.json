@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00897",
   "compound_name": "Triazolam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.7986555126603484,
     "CbGeAlD": 0.07086496284203678,
     "CbGpPWpGaD": 0.12486888661777885,
     "CrCbGaD": 0.005610637879835921
   },
+  "n_trials": 0.0,
   "prediction": 0.00263079936600562,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

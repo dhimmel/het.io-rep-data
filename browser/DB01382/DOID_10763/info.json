@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01382",
   "compound_name": "Glycodiazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
     "CbGaD": 0.5056117076184542,
     "CbGbCtD": 0.36712012664540766,
     "CbGeAlD": 0.06321643097929323,
     "CbGpPWpGaD": 0.06405173475684493
   },
+  "n_trials": 0.0,
   "prediction": 0.008010751302834159,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

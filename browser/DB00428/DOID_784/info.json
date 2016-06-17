@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.47399219765929795,
   "metapath_contribution": {
     "CbGaD": 0.7508364869586196,
     "CbGeAlD": 0.07076329753298316,
     "CbGpPWpGaD": 0.1743575660684652,
     "CrCbGaD": 0.004042649439931992
   },
+  "n_trials": 0.0,
   "prediction": 0.00150434546716211,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

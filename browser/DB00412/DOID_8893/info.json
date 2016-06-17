@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.805591677503251,
   "metapath_contribution": {
     "CbGaD": 0.3929354720963653,
     "CbGbCtD": 0.4541446455552263,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11917429288453671,
     "CrCbGaD": 0.0022371951914845647
   },
+  "n_trials": 0.0,
   "prediction": 0.00313764773832667,
   "status": 0,
   "training_prediction": 0.0132244811900701

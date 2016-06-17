@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.635240572171652,
   "metapath_contribution": {
     "CbGaD": 0.843400536176491,
     "CbGpPWpGaD": 0.04074086187319486,
     "CcSEcCtD": 0.11562040227764396,
     "CrCbGaD": 0.00023819967267009145
   },
+  "n_trials": 0.0,
   "prediction": 0.0018865439625488,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

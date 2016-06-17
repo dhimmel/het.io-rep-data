@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01320",
   "compound_name": "Fosphenytoin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.679453836150845,
   "metapath_contribution": {
     "CbGaD": 0.7261846576792128,
     "CbGbCtD": 0.030926698552220886,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16782903947897668,
     "CrCbGaD": 0.004843055773158833
   },
+  "n_trials": 0.0,
   "prediction": 0.00179474543945393,
   "status": 0,
   "training_prediction": 0.00132375723883019

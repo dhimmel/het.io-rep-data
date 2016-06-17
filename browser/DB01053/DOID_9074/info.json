@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.218465539661899,
   "metapath_contribution": {
     "CbGbCtD": 0.5754032632694002,
     "CbGeAlD": 0.10694445555370957,
     "CbGpPWpGaD": 0.05653517073068224,
     "CcSEcCtD": 0.26111711044620817
   },
+  "n_trials": 0.0,
   "prediction": 0.00119186080573073,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

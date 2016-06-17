@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00903",
   "compound_name": "Ethacrynic acid",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.4807746120992085,
     "CbGbCtD": 0.22058265895643578,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06574024391754563,
     "CcSEcCtD": 0.15272157150604582
   },
+  "n_trials": 0.0,
   "prediction": 0.0029785309642353396,
   "status": 0,
   "training_prediction": 0.00655209743897826

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06201",
   "compound_name": "Rufinamide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.09001361490505974,
     "CbGbCtD": 0.4583972897043831,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1330358059572236,
     "CcSEcCtD": 0.25933478315799724
   },
+  "n_trials": 0.0,
   "prediction": 0.005955002300619711,
   "status": 0,
   "training_prediction": 0.066867418287751

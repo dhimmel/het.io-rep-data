@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.07381948624604642,
     "CbGbCtD": 0.12987967681516044,
@@ -14,6 +16,7 @@
     "CrCtD": 0.20392617257336412,
     "CtDrD": 0.16098108954868523
   },
+  "n_trials": 0.0,
   "prediction": 0.279099721530196,
   "status": 0,
   "training_prediction": 0.725677626326965

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.3163131865689008,
     "CbGbCtD": 0.4457668993323758,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11086069605898534,
     "CrCbGaD": 0.0026468544471488385
   },
+  "n_trials": 0.0,
   "prediction": 0.00585295615904033,
   "status": 0,
   "training_prediction": 0.0162432359835016

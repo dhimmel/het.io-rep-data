@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.36764705882352894,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.484395318595579,
   "metapath_contribution": {
     "CbGaD": 0.6858045794484611,
     "CbGeAlD": 0.2199989494109502,
     "CbGpPWpGaD": 0.08767408195783236,
     "CrCbGaD": 0.006522389182756369
   },
+  "n_trials": 0.0,
   "prediction": 0.00117924967129613,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

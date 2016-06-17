@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGaD": 0.14277761874671055,
     "CbGbCtD": 0.06948849302243107,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0006619910959959707,
     "CrCrCtD": 0.3478003138498068
   },
+  "n_trials": 0.0,
   "prediction": 0.0108211986260089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

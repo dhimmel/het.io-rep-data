@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGaD": 0.4787444309431903,
     "CbGbCtD": 0.44451995016830415,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0349078116673717,
     "CrCbGaD": 0.0007917395009227092
   },
+  "n_trials": 0.0,
   "prediction": 0.00211067767284822,
   "status": 0,
   "training_prediction": 0.00256158817928729

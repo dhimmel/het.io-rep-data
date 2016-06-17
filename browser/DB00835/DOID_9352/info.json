@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00835",
   "compound_name": "Brompheniramine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6781534460338101,
   "metapath_contribution": {
     "CbGaD": 0.21548460977079212,
     "CbGbCtD": 0.3751133077382844,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0011229711639889658,
     "CrCrCtD": 0.34541404681693644
   },
+  "n_trials": 0.0,
   "prediction": 0.00363047170557536,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

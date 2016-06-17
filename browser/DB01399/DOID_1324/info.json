@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.378413524057217,
   "metapath_contribution": {
     "CbGaD": 0.5309703975611212,
     "CbGbCtD": 0.24796350983095555,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15413413885095983,
     "CrCbGaD": 0.009874503576836344
   },
+  "n_trials": 0.0,
   "prediction": 0.00145170507572908,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

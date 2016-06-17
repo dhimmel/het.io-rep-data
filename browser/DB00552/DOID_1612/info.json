@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00552",
   "compound_name": "Pentostatin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.733420026007802,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.04016966487994248,
     "CcSEcCtD": 0.09688429162445307,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0026657440634267333,
     "CrCrCtD": 0.17073304793378258
   },
+  "n_trials": 1.0,
   "prediction": 0.0039557494583370295,
   "status": 0,
   "training_prediction": 0.0215709541882807

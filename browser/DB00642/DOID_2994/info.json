@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGbCtD": 0.13672327634039305,
     "CbGdCrCtD": 0.0006227107935022131,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.16891469308248666,
     "CrCtD": 0.25526714004004086
   },
+  "n_trials": 0.0,
   "prediction": 0.0914813211650151,
   "status": 0,
   "training_prediction": 0.15553939734297

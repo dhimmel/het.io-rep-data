@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00440",
   "compound_name": "Trimethoprim",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6274382314694411,
   "metapath_contribution": {
     "CbGaD": 0.3304806318340007,
     "CbGbCtD": 0.44759875282537825,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.08652552112054021,
     "CcSEcCtD": 0.11703275076339677
   },
+  "n_trials": 0.0,
   "prediction": 0.0029533753447602397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

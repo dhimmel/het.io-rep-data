@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.684655396618986,
   "metapath_contribution": {
     "CbGaD": 0.7852776069823963,
     "CbGeAlD": 0.06634042856373287,
     "CbGpPWpGaD": 0.14334511149411286,
     "CrCbGaD": 0.005036852959757903
   },
+  "n_trials": 0.0,
   "prediction": 0.00188100145320651,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

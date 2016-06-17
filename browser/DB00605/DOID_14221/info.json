@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.6680249271976457,
     "CbGeAlD": 0.08001549987819032,
     "CbGpPWpGaD": 0.2396667345194111,
     "CcSEcCtD": 0.012292838404752928
   },
+  "n_trials": 0.0,
   "prediction": 0.00278426895201601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

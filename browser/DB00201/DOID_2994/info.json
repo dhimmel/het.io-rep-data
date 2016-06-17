@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.5728218465539661,
   "metapath_contribution": {
     "CbGbCtD": 0.5458824165529362,
     "CbGeAlD": 0.21343344883300078,
     "CbGpPWpGaD": 0.2007798847258382,
     "CcSEcCtD": 0.03990424988822486
   },
+  "n_trials": 0.0,
   "prediction": 0.00177210117256437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

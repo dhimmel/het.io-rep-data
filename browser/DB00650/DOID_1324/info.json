@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.1742692153276593,
     "CbGbCtD": 0.18446570266716403,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.23069014154963274,
     "CrCtD": 0.34656981441941775
   },
+  "n_trials": 0.0,
   "prediction": 0.0598028884355287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

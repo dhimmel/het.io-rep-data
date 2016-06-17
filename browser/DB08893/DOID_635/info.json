@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.1279261603482821,
     "CbGbCtD": 0.2829921429105527,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07025329951678436,
     "CiPCiCtD": 0.5089739190719833
   },
+  "n_trials": 0.0,
   "prediction": 0.0201123075422426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

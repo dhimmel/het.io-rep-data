@@ -1,18 +1,20 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
-    "CbGaD": 0.432782234380142,
-    "CbGbCtD": 0.2849954173381959,
-    "CbGdCrCtD": 0.003934070048237716,
-    "CbGeAlD": 0.09907161833025296,
-    "CbGpPWpGaD": 0.06674481048754768,
-    "CcSEcCtD": 0.10683607226352139,
-    "CrCbGaD": 0.0056357771521023965
+    "CbGaD": 0.43278223438014196,
+    "CbGbCtD": 0.28499541733819583,
+    "CbGdCrCtD": 0.0039340700482377155,
+    "CbGeAlD": 0.09907161833025295,
+    "CbGpPWpGaD": 0.06674481048754767,
+    "CcSEcCtD": 0.10683607226352136,
+    "CrCbGaD": 0.005635777152102396
   },
+  "n_trials": 0.0,
   "prediction": 0.00221181985619798,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

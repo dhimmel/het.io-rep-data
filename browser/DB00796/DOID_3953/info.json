@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00796",
   "compound_name": "Candesartan",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.28010411318572,
     "CbGpPWpGaD": 0.008049752538865135,
     "CrCbGaD": 0.0004353220230335941,
     "CtDrD": 0.7114108122523811
   },
+  "n_trials": 0.0,
   "prediction": 0.00382137626680852,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

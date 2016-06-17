@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00273",
   "compound_name": "Topiramate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.3719211820617225,
     "CbGbCtD": 0.45286980041230396,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04863948930179631,
     "CcSEcCtD": 0.07581631294625575
   },
+  "n_trials": 0.0,
   "prediction": 0.007206293520493121,
   "status": 0,
   "training_prediction": 0.0160023786755128

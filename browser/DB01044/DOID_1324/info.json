@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01044",
   "compound_name": "Gatifloxacin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.5721716514954489,
   "metapath_contribution": {
     "CbGaD": 0.45260244602089444,
     "CbGbCtD": 0.3329901784324872,
     "CcSEcCtD": 0.21280615734441535,
     "CrCbGaD": 0.0016012182022030268
   },
+  "n_trials": 0.0,
   "prediction": 0.0020737722494682,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.805591677503251,
   "metapath_contribution": {
     "CbGaD": 0.4312171534597534,
     "CbGbCtD": 0.40544223435842297,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.11031714466466673,
     "CrCbGaD": 0.005450498989955572
   },
+  "n_trials": 0.0,
   "prediction": 0.00280549435039626,
   "status": 0,
   "training_prediction": 0.0187959107274718

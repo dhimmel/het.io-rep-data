@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.243172951885566,
   "metapath_contribution": {
     "CbGaD": 0.703090441261406,
     "CbGbCtD": 0.1072917854010883,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.065758930538717,
     "CrCbGaD": 0.0011065038072391423
   },
+  "n_trials": 0.0,
   "prediction": 0.00119518629217248,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

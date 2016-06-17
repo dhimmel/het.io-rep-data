@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01420",
   "compound_name": "Testosterone Propionate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGbCtD": 0.13945884336523184,
     "CbGeAlD": 0.010686704138316027,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2712514868653532,
     "CrCtD": 0.28017788184828896
   },
+  "n_trials": 0.0,
   "prediction": 0.00851250296511893,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01320",
   "compound_name": "Fosphenytoin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.7711313394018209,
   "metapath_contribution": {
     "CbGaD": 0.6958489904298258,
     "CbGbCtD": 0.12100425397370808,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15678938008257198,
     "CrCbGaD": 0.0025271969531853833
   },
+  "n_trials": 0.0,
   "prediction": 0.00231664765701669,
   "status": 0,
   "training_prediction": 0.004229499409599429

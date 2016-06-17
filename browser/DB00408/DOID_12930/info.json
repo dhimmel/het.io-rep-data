@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.48049414824447295,
   "metapath_contribution": {
     "CbGaD": 0.6482273701792461,
     "CbGeAlD": 0.03576707882404389,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11163792493444044,
     "CrCbGaD": 0.004732956136153437
   },
+  "n_trials": 0.0,
   "prediction": 0.00158707564576358,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

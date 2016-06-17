@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00822",
   "compound_name": "Disulfiram",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.3585546068052213,
     "CbGeAlD": 0.004506668440911401,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.009097703103239542,
     "CtDrD": 0.6020589941246736
   },
+  "n_trials": 0.0,
   "prediction": 0.0136555362622593,
   "status": 0,
   "training_prediction": 0.0101034703858401

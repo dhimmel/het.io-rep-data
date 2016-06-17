@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00615",
   "compound_name": "Rifabutin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.4902310600825476,
     "CbGbCtD": 0.24541010877898883,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11143156728113068,
     "CrCbGaD": 0.0023691980684681247
   },
+  "n_trials": 0.0,
   "prediction": 0.00722612011681434,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

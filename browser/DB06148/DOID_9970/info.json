@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.22606575651833474,
     "CbGbCtD": 0.4343689833235667,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002294008110582665,
     "CrCrCtD": 0.15925099589987632
   },
+  "n_trials": 0.0,
   "prediction": 0.00753680316440484,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

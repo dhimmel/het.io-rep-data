@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.38166449934980495,
   "metapath_contribution": {
     "CbGaD": 0.6594215470468381,
     "CbGeAlD": 0.11443569664550002,
     "CbGpPWpGaD": 0.22085289487354032,
     "CrCbGaD": 0.005289861434121655
   },
+  "n_trials": 0.0,
   "prediction": 0.00122774622238396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

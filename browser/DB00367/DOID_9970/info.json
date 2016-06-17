@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.314694408322497,
   "metapath_contribution": {
-    "CbGaD": 0.6345567486524049,
-    "CbGbCtD": 0.08924887199691668,
-    "CbGeAlD": 0.04640443211650299,
-    "CbGpPWpGaD": 0.0850141871801108,
-    "CcSEcCtD": 0.13946736077586686,
-    "CrCbGaD": 0.005308399278197737
+    "CbGaD": 0.634556748652405,
+    "CbGbCtD": 0.0892488719969167,
+    "CbGeAlD": 0.046404432116503004,
+    "CbGpPWpGaD": 0.08501418718011082,
+    "CcSEcCtD": 0.13946736077586688,
+    "CrCbGaD": 0.0053083992781977375
   },
+  "n_trials": 1.0,
   "prediction": 0.00171853451425731,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

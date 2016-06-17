@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00337",
   "compound_name": "Pimecrolimus",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.293237971391417,
   "metapath_contribution": {
     "CbGaD": 0.7292573140760196,
     "CbGeAlD": 0.05596117077800854,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11326875174890383,
     "CrCbGaD": 0.005892728056820099
   },
+  "n_trials": 0.0,
   "prediction": 0.0011262006911195099,
   "status": 0,
   "training_prediction": 0.00160727205879406

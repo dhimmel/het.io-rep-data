@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00415",
   "compound_name": "Ampicillin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.303641092327698,
   "metapath_contribution": {
     "CbGaD": 0.47476722493167867,
     "CbGbCtD": 0.35729193095314704,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07703872543530839,
     "CcSEcCtD": 0.04850975139867163
   },
+  "n_trials": 0.0,
   "prediction": 0.00136138929655408,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

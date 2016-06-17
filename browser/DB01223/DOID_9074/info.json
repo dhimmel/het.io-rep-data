@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.64889466840052,
   "metapath_contribution": {
     "CbGbCtD": 0.5162787208370494,
     "CbGdCrCtD": 0.008658962378150756,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12064796007383215,
     "CcSEcCtD": 0.24605383155542984
   },
+  "n_trials": 0.0,
   "prediction": 0.00233713527080121,
   "status": 0,
   "training_prediction": 0.0112843438076784

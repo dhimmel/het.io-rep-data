@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.35554145894750927,
     "CbGbCtD": 0.5454473893877491,
     "CbGpPWpGaD": 0.040857348387673194,
     "CcSEcCtD": 0.058153803277068525
   },
+  "n_trials": 0.0,
   "prediction": 0.0031832820461689198,
   "status": 0,
   "training_prediction": 0.005322428215710729

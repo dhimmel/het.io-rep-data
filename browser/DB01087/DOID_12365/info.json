@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGbCtD": 0.8123468316881461,
     "CbGeAlD": 0.08674227761271298,
     "CcSEcCtD": 0.08716701215562703,
     "CrCbGaD": 0.013743878543513966
   },
+  "n_trials": 44.0,
   "prediction": 0.00319637722872808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

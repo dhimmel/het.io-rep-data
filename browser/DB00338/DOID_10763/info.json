@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.805591677503251,
   "metapath_contribution": {
     "CbGaD": 0.2282214512843348,
     "CbGbCtD": 0.311835576722329,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.23705058192814474,
     "CrCbGaD": 0.0014640148419471717
   },
+  "n_trials": 1.0,
   "prediction": 0.0101278829424887,
   "status": 0,
   "training_prediction": 0.10904162368172599

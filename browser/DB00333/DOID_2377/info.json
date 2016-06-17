@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.081924577373212,
   "metapath_contribution": {
     "CbGbCtD": 0.6273042384065683,
     "CbGeAlD": 0.05850215571715747,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20614030238119002,
     "CrCbGaD": 0.0011655311694731079
   },
+  "n_trials": 0.0,
   "prediction": 0.000973976470625991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.2779913584249485,
     "CbGbCtD": 0.4801808221544438,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1508209272808245,
     "CrCbGaD": 0.0007780593833012538
   },
+  "n_trials": 0.0,
   "prediction": 0.00672265089327031,
   "status": 0,
   "training_prediction": 0.0290609770711559

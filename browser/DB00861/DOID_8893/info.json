@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.5156046814044211,
   "metapath_contribution": {
-    "CbGbCtD": 0.45588388346241043,
-    "CbGdCrCtD": 0.0033919752970256968,
-    "CbGeAlD": 0.012219324416876499,
-    "CcSEcCtD": 0.09120830185976127,
-    "CpDpCtD": 0.4322289545831532,
-    "CrCbGaD": 0.005067560380772728
+    "CbGbCtD": 0.45588388346241054,
+    "CbGdCrCtD": 0.0033919752970256976,
+    "CbGeAlD": 0.012219324416876502,
+    "CcSEcCtD": 0.0912083018597613,
+    "CpDpCtD": 0.43222895458315325,
+    "CrCbGaD": 0.005067560380772729
   },
+  "n_trials": 0.0,
   "prediction": 0.00191559248101035,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

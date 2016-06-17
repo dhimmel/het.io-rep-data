@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.358907672301691,
   "metapath_contribution": {
     "CbGbCtD": 0.20661070488236363,
     "CcSEcCtD": 0.19380791089175342,
     "CrCbGaD": 0.0018808283289278441,
     "CrCrCtD": 0.597700555896955
   },
+  "n_trials": 0.0,
   "prediction": 0.0018138925799144,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

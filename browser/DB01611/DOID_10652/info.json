@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6449934980494151,
   "metapath_contribution": {
     "CbGaD": 0.4003064594421181,
     "CbGbCtD": 0.3338163851598414,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17704942387112418,
     "CrCbGaD": 0.0033850325105299036
   },
+  "n_trials": 0.0,
   "prediction": 0.00226315884552851,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

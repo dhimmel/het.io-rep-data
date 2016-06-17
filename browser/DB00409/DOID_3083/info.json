@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00409",
   "compound_name": "Remoxipride",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.684655396618986,
   "metapath_contribution": {
     "CbGaD": 0.7259572446639879,
     "CbGbCtD": 0.19496734711503372,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03600759801070806,
     "CrCbGaD": 0.0023570258017818458
   },
+  "n_trials": 0.0,
   "prediction": 0.0029251090513273603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

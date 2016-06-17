@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.37711313394018203,
   "metapath_contribution": {
     "CbGaD": 0.8497959400636534,
     "CbGeAlD": 0.03801950867842465,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.022758430731388085,
     "CrCbGaD": 0.007900959706184754
   },
+  "n_trials": 0.0,
   "prediction": 0.0011913414330991699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

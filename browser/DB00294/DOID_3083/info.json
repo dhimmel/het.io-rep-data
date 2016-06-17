@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00294",
   "compound_name": "Etonogestrel",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.20416124837451202,
   "metapath_contribution": {
     "CbGbCtD": 0.23504217396711166,
     "CbGpPWpGaD": 0.026011305149317324,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0003006782714001046,
     "CrCrCtD": 0.49970545926392684
   },
+  "n_trials": 0.0,
   "prediction": 0.00138153374480073,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

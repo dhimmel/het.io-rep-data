@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.44018205461638504,
   "metapath_contribution": {
     "CbGaD": 0.38400684380400646,
     "CbGbCtD": 0.3337815203907823,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07512898621728646,
     "CrCbGaD": 0.0007397515369116117
   },
+  "n_trials": 0.0,
   "prediction": 0.00131003481800188,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.37679380018739933,
     "CbGbCtD": 0.2774820606488661,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0033564974397618107,
     "CrCrCtD": 0.21317574473461184
   },
+  "n_trials": 0.0,
   "prediction": 0.0036971216282560204,
   "status": 0,
   "training_prediction": 0.00674212533641617

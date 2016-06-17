@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGbCtD": 0.26590168419020227,
     "CbGdCrCtD": 0.002656885282381141,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.010685880233266486,
     "CtDrD": 0.6565674329768109
   },
+  "n_trials": 1.0,
   "prediction": 0.00331853418076349,
   "status": 0,
   "training_prediction": 0.016432319169360998

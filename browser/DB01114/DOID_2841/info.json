@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGbCtD": 0.25990580748675496,
     "CbGeAlD": 0.0024347913080732036,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.6427651406044443,
     "CrCbGaD": 0.00013808052988438152
   },
+  "n_trials": 0.0,
   "prediction": 0.0055341810368422705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

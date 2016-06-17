@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.639791937581274,
   "metapath_contribution": {
     "CbGaD": 0.3113026862582735,
     "CbGbCtD": 0.4460104147497281,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09963901812213635,
     "CrCbGaD": 0.0038012370397273064
   },
+  "n_trials": 0.0,
   "prediction": 0.00174979211203662,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

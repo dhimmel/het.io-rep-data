@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.23883974610872297,
     "CbGbCtD": 0.21135172782693837,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0020115488606300062,
     "CrCrCtD": 0.1731122193154772
   },
+  "n_trials": 0.0,
   "prediction": 0.016803451230685,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.7223667100130041,
   "metapath_contribution": {
     "CbGaD": 0.4707410767810341,
     "CbGbCtD": 0.2307384265071713,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1092452405959504,
     "CrCbGaD": 0.0013206693072813885
   },
+  "n_trials": 0.0,
   "prediction": 0.00214182163808542,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00302",
   "compound_name": "Tranexamic Acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.825097529258778,
   "metapath_contribution": {
     "CbGbCtD": 0.6166638904273347,
     "CbGeAlD": 0.07131575645960092,
     "CbGpPWpGaD": 0.12799206571215763,
     "CcSEcCtD": 0.18402828740090676
   },
+  "n_trials": 0.0,
   "prediction": 0.00560346310726298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

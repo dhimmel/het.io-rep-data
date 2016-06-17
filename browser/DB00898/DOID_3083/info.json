@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.5192118182051879,
     "CbGbCtD": 0.35331921334944805,
     "CbGeAlD": 0.025429226822599463,
     "CbGpPWpGaD": 0.10203974162276465
   },
+  "n_trials": 0.0,
   "prediction": 0.00559393037236395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

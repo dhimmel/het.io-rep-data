@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.862158647594278,
   "metapath_contribution": {
     "CbGaD": 0.60382454189709,
     "CbGbCtD": 0.24306900162292222,
     "CbGeAlD": 0.03460344631679383,
     "CbGpPWpGaD": 0.11850301016319381
   },
+  "n_trials": 1.0,
   "prediction": 0.0038628378898751103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

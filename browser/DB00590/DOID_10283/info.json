@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.639791937581274,
   "metapath_contribution": {
     "CbGaD": 0.19856592829792333,
     "CbGbCtD": 0.4321842197710221,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.22658439539603203,
     "CrCbGaD": 0.003955035747361126
   },
+  "n_trials": 0.0,
   "prediction": 0.0030304257069920302,
   "status": 0,
   "training_prediction": 0.0127769824077627

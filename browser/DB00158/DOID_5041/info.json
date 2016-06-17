@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.2558576864467578,
     "CbGeAlD": 0.017084247529421857,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2744250692890576,
     "CrCtD": 0.41409576002450965
   },
+  "n_trials": 6.0,
   "prediction": 0.0177704081984212,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

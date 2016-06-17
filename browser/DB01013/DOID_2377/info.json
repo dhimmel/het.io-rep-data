@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGbCtD": 0.18376776714148013,
     "CbGpPWpGaD": 0.0025952035190594065,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.31856138703090303,
     "CrCtD": 0.4439117095579355
   },
+  "n_trials": 0.0,
   "prediction": 0.0109551101246985,
   "status": 0,
   "training_prediction": 0.027668183459983998

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.653446033810143,
   "metapath_contribution": {
     "CbGbCtD": 0.44259773661587043,
     "CbGeAlD": 0.039295696738751835,
     "CbGpPWpGaD": 0.04244867737421537,
     "CcSEcCtD": 0.47565788927116237
   },
+  "n_trials": 0.0,
   "prediction": 0.00226590690353935,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.0396618985695709,
   "metapath_contribution": {
     "CbGeAlD": 0.6214785857078151,
     "CbGpPWpGaD": 0.3347411144127538,
     "CrCbGaD": 0.04378029987943107
   },
+  "n_trials": 1.0,
   "prediction": 0.00081968077849065,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.5343488859159511,
     "CbGbCtD": 0.21601185644514845,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0638846672344567,
     "CrCbGaD": 0.0025477829695905218
   },
+  "n_trials": 0.0,
   "prediction": 0.0033440002347499198,
   "status": 0,
   "training_prediction": 0.00405731792333699

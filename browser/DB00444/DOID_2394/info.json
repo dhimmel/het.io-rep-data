@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGbCtD": 0.19102955180565143,
     "CbGdCrCtD": 0.001956197258263966,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.6763954652632391,
     "CrCbGaD": 3.907384779690439e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00451866920883021,
   "status": 0,
   "training_prediction": 0.0240460837382098

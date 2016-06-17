@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.11958327981120331,
     "CbGbCtD": 0.17549986401495618,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.08602071228807365,
     "CrCtD": 0.22760568734147454
   },
+  "n_trials": 0.0,
   "prediction": 0.15462066028604599,
   "status": 0,
   "training_prediction": 0.496609889205062

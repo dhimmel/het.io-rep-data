@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.00975292587776333,
   "metapath_contribution": {
     "CbGbCtD": 0.2491627376023536,
     "CbGdCrCtD": 0.028869078869723203,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.4746643983659802,
     "CrCbGaD": 0.02660337767872581
   },
+  "n_trials": 0.0,
   "prediction": 0.00047512917040574406,
   "status": 0,
   "training_prediction": 0.0012918505035658901

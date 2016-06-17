@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01367",
   "compound_name": "Rasagiline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGbCtD": 0.6503806205505968,
     "CbGdCrCtD": 0.004104810430435935,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1344306378369306,
     "CcSEcCtD": 0.2019843685367114
   },
+  "n_trials": 0.0,
   "prediction": 0.0051119618127508605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

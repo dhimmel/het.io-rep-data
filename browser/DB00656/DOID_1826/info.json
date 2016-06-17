@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.179072953284343,
     "CbGbCtD": 0.19203747622201092,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0020640084734757395,
     "CrCrCtD": 0.1580075323775433
   },
+  "n_trials": 0.0,
   "prediction": 0.0150484641655754,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

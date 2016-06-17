@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00865",
   "compound_name": "Benzphetamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.11199734744057482,
     "CbGbCtD": 0.178197817718795,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.26140322262338567,
     "CrCtD": 0.3344400554651715
   },
+  "n_trials": 0.0,
   "prediction": 0.0106884934936923,
   "status": 0,
   "training_prediction": 0.0503725451456033

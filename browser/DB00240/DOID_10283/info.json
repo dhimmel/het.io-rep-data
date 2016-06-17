@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.14251068957234655,
     "CbGbCtD": 0.12242320761467117,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.15181405257574246,
     "CrCtD": 0.2247924197523208
   },
+  "n_trials": 0.0,
   "prediction": 0.00679961961044055,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

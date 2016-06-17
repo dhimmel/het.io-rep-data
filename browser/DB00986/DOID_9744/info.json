@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00986",
   "compound_name": "Glycopyrrolate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.8847214354769414,
     "CbGpPWpGaD": 0.08552113127583341,
     "CcSEcCtD": 0.021484633036750043,
     "CrCbGaD": 0.008272800210475151
   },
+  "n_trials": 0.0,
   "prediction": 0.00225311213049241,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

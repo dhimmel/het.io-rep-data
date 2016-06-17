@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.50520156046814,
   "metapath_contribution": {
     "CbGaD": 0.2878886056903453,
     "CbGbCtD": 0.42008613355535024,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1721680506091952,
     "CrCbGaD": 0.005051738094743084
   },
+  "n_trials": 0.0,
   "prediction": 0.00231748693124075,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

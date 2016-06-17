@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.6170857076327475,
     "CbGeAlD": 0.09911633397179773,
     "CbGpPWpGaD": 0.2837979583954547
   },
+  "n_trials": 1.0,
   "prediction": 0.00486870144045643,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

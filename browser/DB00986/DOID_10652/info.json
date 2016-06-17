@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00986",
   "compound_name": "Glycopyrrolate",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.308842652795839,
   "metapath_contribution": {
     "CbGeAlD": 0.05889623623769987,
     "CbGpPWpGaD": 0.1554818781848422,
     "CcSEcCtD": 0.7844029566262344,
     "CrCbGaD": 0.001218928951223563
   },
+  "n_trials": 0.0,
   "prediction": 0.00130936344406435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

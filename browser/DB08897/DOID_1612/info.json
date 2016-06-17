@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08897",
   "compound_name": "Aclidinium",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.363459037711313,
   "metapath_contribution": {
     "CbGaD": 0.6389011643839465,
     "CbGeAlD": 0.017694725617276284,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22498434430063963,
     "CrCbGaD": 0.0025904408783595373
   },
+  "n_trials": 0.0,
   "prediction": 0.00184163795340057,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

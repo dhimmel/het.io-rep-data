@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00104",
   "compound_name": "Octreotide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGbCtD": 0.08813681853128344,
     "CbGeAlD": 0.04414287067300691,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06964428264405292,
     "CtDrD": 0.7837660160303532
   },
+  "n_trials": 0.0,
   "prediction": 0.005648223562413721,
   "status": 0,
   "training_prediction": 0.0102835968853352

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01131",
   "compound_name": "Proguanil",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.23083483477635847,
     "CbGbCtD": 0.5560136232334111,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07403325240532778,
     "CcSEcCtD": 0.12998330265582192
   },
+  "n_trials": 0.0,
   "prediction": 0.0054770925881369795,
   "status": 0,
   "training_prediction": 0.028848102027362002

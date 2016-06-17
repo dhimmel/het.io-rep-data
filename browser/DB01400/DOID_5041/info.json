@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01400",
   "compound_name": "Neostigmine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.5980716057272533,
     "CbGbCtD": 0.3023551408980347,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.029767957811859033,
     "CcSEcCtD": 0.05174026178862675
   },
+  "n_trials": 0.0,
   "prediction": 0.00233621942036579,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

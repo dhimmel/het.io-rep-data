@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00704",
   "compound_name": "Naltrexone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.34621748132353086,
     "CcSEcCtD": 0.06775580307286785,
     "CrCbGaD": 0.0036595341956205322,
     "CtDrD": 0.5823671814079806
   },
+  "n_trials": 3.0,
   "prediction": 0.0110294650897266,
   "status": 0,
   "training_prediction": 0.0049986777904456

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.653446033810143,
   "metapath_contribution": {
     "CbGaD": 0.5405824866272599,
     "CbGbCtD": 0.3190985836936359,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09090939654111421,
     "CrCbGaD": 0.0032249342482548043
   },
+  "n_trials": 3.0,
   "prediction": 0.0022618647030829397,
   "status": 0,
   "training_prediction": 0.008347816010555191

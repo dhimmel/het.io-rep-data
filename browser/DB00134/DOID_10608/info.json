@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:10608",
   "disease_name": "celiac disease",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
-    "CbGeAlD": 0.6021922799755263,
-    "CbGpPWpGaD": 0.38237221419525375,
-    "CrCbGaD": 0.015435505829219908
+    "CbGeAlD": 0.6021922799755264,
+    "CbGpPWpGaD": 0.3823722141952538,
+    "CrCbGaD": 0.01543550582921991
   },
+  "n_trials": 0.0,
   "prediction": 0.00147235232574687,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

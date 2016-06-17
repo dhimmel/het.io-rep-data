@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGaD": 0.5284567867681086,
     "CbGbCtD": 0.35057034294904793,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0604727515027635,
     "CrCbGaD": 0.0019209156955645194
   },
+  "n_trials": 1.0,
   "prediction": 0.004348412442003071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

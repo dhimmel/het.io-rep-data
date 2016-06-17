@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.45383615084525397,
   "metapath_contribution": {
     "CbGbCtD": 0.323813754788831,
     "CbGdCrCtD": 0.011360364667101159,
     "CbGpPWpGaD": 0.3159668881449894,
     "CcSEcCtD": 0.34885899239907847
   },
+  "n_trials": 0.0,
   "prediction": 0.0017574015784721099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

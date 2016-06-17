@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00104",
   "compound_name": "Octreotide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.6358907672301689,
   "metapath_contribution": {
     "CbGaD": 0.4629753831991436,
     "CbGbCtD": 0.006948540358272787,
     "CbGpPWpGaD": 0.1768508546797995,
     "CcSEcCtD": 0.3532252217627842
   },
+  "n_trials": 1.0,
   "prediction": 0.00295507443730034,
   "status": 0,
   "training_prediction": 0.0262745097513865

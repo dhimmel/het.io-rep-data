@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:13241",
   "disease_name": "Behcet's disease",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGeAlD": 0.03507620073580493,
     "CbGpPWpGaD": 0.010736140457938302,
     "CtDrD": 0.9541876588062569
   },
+  "n_trials": 0.0,
   "prediction": 0.00138456710135273,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.511053315994798,
   "metapath_contribution": {
     "CbGaD": 0.7590724278603015,
     "CbGpPWpGaD": 0.04103935098954934,
     "CcSEcCtD": 0.19883354462348682,
     "CrCbGaD": 0.0010546765266623893
   },
+  "n_trials": 0.0,
   "prediction": 0.0015270427543598699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

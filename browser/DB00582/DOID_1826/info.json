@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.09143465850506786,
     "CbGbCtD": 0.3080618849578448,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.45365932220881067,
     "CrCbGaD": 0.0011109736612705463
   },
+  "n_trials": 0.0,
   "prediction": 0.0124407327418919,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

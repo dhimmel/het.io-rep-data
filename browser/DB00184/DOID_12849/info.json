@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.7038448463589382,
     "CbGeAlD": 0.1026070766368566,
     "CbGpPWpGaD": 0.1935480770042051
   },
+  "n_trials": 1.0,
   "prediction": 0.00486203984409001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

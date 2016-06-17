@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00418",
   "compound_name": "Secobarbital",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.7665601282850567,
     "CbGbCtD": 0.14756085497942517,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.007736748044876377,
     "CrCbGaD": 0.007660415690826445
   },
+  "n_trials": 0.0,
   "prediction": 0.0035632742546435297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

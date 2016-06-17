@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.19363212429580595,
     "CbGbCtD": 0.2930767432591545,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.3740010887003921,
     "CrCbGaD": 0.001951768134364802
   },
+  "n_trials": 0.0,
   "prediction": 0.0038663832443759797,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.486345903771131,
   "metapath_contribution": {
     "CbGbCtD": 0.6842746893651526,
     "CbGeAlD": 0.0065255127487246515,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21327930402666784,
     "CrCbGaD": 0.007415869404497153
   },
+  "n_trials": 0.0,
   "prediction": 0.00181772502529201,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00946",
   "compound_name": "Phenprocoumon",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.601430429128739,
   "metapath_contribution": {
     "CbGaD": 0.5310823437594181,
     "CbGbCtD": 0.43617400623448704,
     "CbGeAlD": 0.030488484708344903,
     "CrCbGaD": 0.002255165297750079
   },
+  "n_trials": 0.0,
   "prediction": 0.0018798655101496399,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

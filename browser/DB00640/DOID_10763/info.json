@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00640",
   "compound_name": "Adenosine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.27178153446033804,
   "metapath_contribution": {
     "CbGaD": 0.5266870708286631,
     "CbGbCtD": 0.1276023219526389,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.19344310200224293,
     "CrCbGaD": 0.0044250680383100816
   },
+  "n_trials": 0.0,
   "prediction": 0.00220702089505301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

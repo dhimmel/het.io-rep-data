@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGbCtD": 0.11334013613115232,
     "CbGdCrCtD": 0.0013051378745017135,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2139989354071719,
     "CrCtD": 0.294201701017543
   },
+  "n_trials": 0.0,
   "prediction": 0.0217474215638929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

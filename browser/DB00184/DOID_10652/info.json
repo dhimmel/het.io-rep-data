@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.3419838480117288,
     "CbGbCtD": 0.45824838705851223,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07756166918817282,
     "CcSEcCtD": 0.07464297587414341
   },
+  "n_trials": 0.0,
   "prediction": 0.0243531050803403,
   "status": 0,
   "training_prediction": 0.0294156626032075

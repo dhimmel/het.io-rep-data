@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGaD": 0.33214279319195833,
     "CbGbCtD": 0.3860168038706688,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20840849902337202,
     "CrCbGaD": 0.0039369907156289324
   },
+  "n_trials": 0.0,
   "prediction": 0.00400006898716824,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

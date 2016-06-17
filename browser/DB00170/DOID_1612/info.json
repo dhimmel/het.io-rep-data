@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
-    "CbGaD": 0.4625489562796232,
-    "CbGbCtD": 0.35969049714331996,
-    "CbGdCrCtD": 0.0020858562643164135,
-    "CbGeAlD": 0.06069992880183465,
-    "CbGpPWpGaD": 0.11270562128675422,
-    "CrCbGaD": 0.00226914022415148
+    "CbGaD": 0.4625489562796233,
+    "CbGbCtD": 0.35969049714332,
+    "CbGdCrCtD": 0.002085856264316414,
+    "CbGeAlD": 0.060699928801834654,
+    "CbGpPWpGaD": 0.11270562128675424,
+    "CrCbGaD": 0.0022691402241514806
   },
+  "n_trials": 0.0,
   "prediction": 0.0049859705777241,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

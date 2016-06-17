@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06228",
   "compound_name": "Rivaroxaban",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGbCtD": 0.611537876111293,
     "CbGeAlD": 0.15464828344913484,
     "CbGpPWpGaD": 0.19007293804679695,
     "CcSEcCtD": 0.04374090239277516
   },
+  "n_trials": 0.0,
   "prediction": 0.00228255288709939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00718",
   "compound_name": "Adefovir Dipivoxil",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.579973992197659,
   "metapath_contribution": {
     "CbGbCtD": 0.4432086374667796,
     "CbGdCrCtD": 0.009062475053933788,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.18460787835024375,
     "CcSEcCtD": 0.2646929061165433
   },
+  "n_trials": 0.0,
   "prediction": 0.00209689991518475,
   "status": 0,
   "training_prediction": 0.0071564218445802795

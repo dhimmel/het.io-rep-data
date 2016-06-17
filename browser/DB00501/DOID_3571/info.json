@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00501",
   "compound_name": "Cimetidine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.3276504555936005,
     "CbGbCtD": 0.37577505482733337,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.13593718716948297,
     "CcSEcCtD": 0.0610075500606049
   },
+  "n_trials": 0.0,
   "prediction": 0.00272463894089468,
   "status": 0,
   "training_prediction": 0.00268782046025244

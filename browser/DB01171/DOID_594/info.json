@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.9005468651842702,
     "CbGeAlD": 0.005001202858349244,
     "CbGpPWpGaD": 0.08789457654682048,
     "CrCbGaD": 0.006557355410560021
   },
+  "n_trials": 0.0,
   "prediction": 0.0033946652583162896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

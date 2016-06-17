@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.45838751625487606,
   "metapath_contribution": {
     "CbGaD": 0.5286257910595566,
     "CbGbCtD": 0.25479696492724085,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1332106813847989,
     "CrCbGaD": 0.003928490481335019
   },
+  "n_trials": 0.0,
   "prediction": 0.00157033639105221,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

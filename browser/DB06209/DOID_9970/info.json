@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06209",
   "compound_name": "Prasugrel",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.30039011703511104,
   "metapath_contribution": {
     "CbGaD": 0.183546960967146,
     "CbGbCtD": 0.5003853362767721,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11690067191692007,
     "CrCbGaD": 0.005798447323307813
   },
+  "n_trials": 0.0,
   "prediction": 0.00166143166990935,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.2619935289591527,
     "CbGbCtD": 0.6164378669488985,
     "CbGeAlD": 0.016335499833550326,
     "CcSEcCtD": 0.1052331042583986
   },
+  "n_trials": 0.0,
   "prediction": 0.00608859650345055,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

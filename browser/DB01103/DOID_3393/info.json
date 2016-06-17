@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.24707412223667105,
   "metapath_contribution": {
     "CbGbCtD": 0.759407664821154,
     "CbGdCrCtD": 0.0051849365740620715,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.18875566403925673,
     "CrCbGaD": 4.009669011887473e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0014088746299230801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

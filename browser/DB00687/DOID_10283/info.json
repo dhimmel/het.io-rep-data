@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.18893514103328107,
     "CbGbCtD": 0.2430975231248009,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2139538162292789,
     "CrCtD": 0.23729526884218108
   },
+  "n_trials": 0.0,
   "prediction": 0.00906256443418531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

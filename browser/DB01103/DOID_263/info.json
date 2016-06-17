@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.46553966189857,
   "metapath_contribution": {
     "CbGaD": 0.23497096337432127,
     "CbGbCtD": 0.5830558214741131,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0936088951938617,
     "CrCbGaD": 0.0035376750525144196
   },
+  "n_trials": 1.0,
   "prediction": 0.0017164573954246,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

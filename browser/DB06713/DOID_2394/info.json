@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06713",
   "compound_name": "Norelgestromin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.23927178153446,
   "metapath_contribution": {
     "CbGaD": 0.8275388878836573,
     "CbGeAlD": 0.11367809491031015,
     "CbGpPWpGaD": 0.050219938197437065,
     "CrCbGaD": 0.008563079008595627
   },
+  "n_trials": 0.0,
   "prediction": 0.000996702333361441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

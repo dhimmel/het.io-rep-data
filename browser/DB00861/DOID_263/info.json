@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.21911573472041604,
   "metapath_contribution": {
     "CbGaD": 0.6730931469585555,
     "CbGeAlD": 0.03780302089293801,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22356202075731235,
     "CrCbGaD": 0.005995620205938034
   },
+  "n_trials": 0.0,
   "prediction": 0.0010735301359402,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

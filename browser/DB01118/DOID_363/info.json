@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.442132639791938,
   "metapath_contribution": {
     "CbGbCtD": 0.6963489726326202,
     "CbGdCrCtD": 0.0021228315874904985,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06241285230859737,
     "CcSEcCtD": 0.18249130371554728
   },
+  "n_trials": 0.0,
   "prediction": 0.00153810701437827,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

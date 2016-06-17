@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.3544702470605589,
     "CbGbCtD": 0.5159763572588555,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04520378483836116,
     "CrCbGaD": 0.0022443225646187376
   },
+  "n_trials": 0.0,
   "prediction": 0.0043430504801877,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06201",
   "compound_name": "Rufinamide",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGaD": 0.26784398577217566,
     "CbGbCtD": 0.4199582986572511,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1143311020872018,
     "CcSEcCtD": 0.16965424735598605
   },
+  "n_trials": 0.0,
   "prediction": 0.00619726843661508,
   "status": 0,
   "training_prediction": 0.0258648882758977

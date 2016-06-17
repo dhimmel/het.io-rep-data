@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00132",
   "compound_name": "Alpha-Linolenic Acid",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.9089767300852722,
     "CbGeAlD": 0.011340354623185897,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0093622941894656,
     "CrCbGaD": 0.0006403746873773899
   },
+  "n_trials": 0.0,
   "prediction": 0.00295581624765799,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

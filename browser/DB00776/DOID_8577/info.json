@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00776",
   "compound_name": "Oxcarbazepine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.559817945383615,
   "metapath_contribution": {
     "CbGaD": 0.21747709043917968,
     "CbGbCtD": 0.2641310859065186,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0038344144079678986,
     "CrCrCtD": 0.38363456076067204
   },
+  "n_trials": 0.0,
   "prediction": 0.00228435253540049,
   "status": 0,
   "training_prediction": 0.007792639046278609

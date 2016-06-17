@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGaD": 0.3652542854215296,
     "CbGbCtD": 0.40676411917369976,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08991078332100085,
     "CrCbGaD": 0.0012059829866204138
   },
+  "n_trials": 2.0,
   "prediction": 0.0025616377547183398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

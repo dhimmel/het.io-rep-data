@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00892",
   "compound_name": "Oxybuprocaine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGaD": 0.3674507769175954,
     "CbGpPWpGaD": 0.04830669431795019,
     "CrCbGaD": 0.0029085302126568087,
     "CrCrCtD": 0.5813339985517976
   },
+  "n_trials": 0.0,
   "prediction": 0.0033781400947252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

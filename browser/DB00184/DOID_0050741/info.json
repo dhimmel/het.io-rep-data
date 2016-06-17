@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.4488131624565791,
     "CbGbCtD": 0.2350706089995149,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.116354566687509,
     "CcSEcCtD": 0.12310656925516016
   },
+  "n_trials": 3.0,
   "prediction": 0.0105216746313375,
   "status": 0,
   "training_prediction": 0.0127464998533799

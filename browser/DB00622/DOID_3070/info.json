@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.22366710013003896,
   "metapath_contribution": {
     "CbGaD": 0.5806964005047286,
     "CbGeAlD": 0.09834192629956386,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08428202524558683,
     "CrCbGaD": 0.0024064526196455236
   },
+  "n_trials": 0.0,
   "prediction": 0.000932557997031374,
   "status": 0,
   "training_prediction": 0.0006876744852224151

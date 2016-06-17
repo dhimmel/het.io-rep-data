@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06795",
   "compound_name": "Mafenide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.2969038848227517,
     "CbGbCtD": 0.5778415526005659,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05605732684383861,
     "CrCbGaD": 0.0007126115687467897
   },
+  "n_trials": 0.0,
   "prediction": 0.0113631324593929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

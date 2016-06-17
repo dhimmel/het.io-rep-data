@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGbCtD": 0.20023351528189365,
     "CcSEcCtD": 0.06809459982185932,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.24183591710354865,
     "CrCtD": 0.27839858299038583
   },
+  "n_trials": 0.0,
   "prediction": 0.0122305126159826,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

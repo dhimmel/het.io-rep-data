@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.46406228776753444,
     "CbGbCtD": 0.43763561890002073,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07995894779128228,
     "CrCbGaD": 0.004420588008472146
   },
+  "n_trials": 0.0,
   "prediction": 0.00248851049915753,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

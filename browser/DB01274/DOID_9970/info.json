@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01274",
   "compound_name": "Arformoterol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.581924577373212,
   "metapath_contribution": {
     "CbGaD": 0.3756290897747039,
     "CbGbCtD": 0.42217362417345256,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13258736723025058,
     "CrCbGaD": 0.005090177379187638
   },
+  "n_trials": 0.0,
   "prediction": 0.00291880728574454,
   "status": 0,
   "training_prediction": 0.0123878357516934

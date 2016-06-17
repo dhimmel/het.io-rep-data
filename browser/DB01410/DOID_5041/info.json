@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01410",
   "compound_name": "Ciclesonide",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.41807542262678793,
   "metapath_contribution": {
     "CbGbCtD": 0.8003788149846541,
     "CbGeAlD": 0.03300410026698764,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07416268183199957,
     "CrCbGaD": 0.007000899954057185
   },
+  "n_trials": 0.0,
   "prediction": 0.00126524069324627,
   "status": 0,
   "training_prediction": 0.0015358158955652

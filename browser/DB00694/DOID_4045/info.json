@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGbCtD": 0.15384874391543724,
     "CbGdCrCtD": 0.0006872687710159035,
@@ -14,6 +16,7 @@
     "CrCtD": 0.21574827884717568,
     "CtDrD": 0.16993198677693122
   },
+  "n_trials": 0.0,
   "prediction": 0.1276753667059,
   "status": 0,
   "training_prediction": 0.192869790282587

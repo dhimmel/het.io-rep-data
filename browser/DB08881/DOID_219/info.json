@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.49734777635922783,
     "CbGbCtD": 0.327743041000447,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.05731964944548584,
     "CrCbGaD": 0.0011861735018611661
   },
+  "n_trials": 0.0,
   "prediction": 0.00314567079330066,
   "status": 0,
   "training_prediction": 0.00745901606869988

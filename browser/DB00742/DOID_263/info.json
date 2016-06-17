@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00742",
   "compound_name": "Mannitol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.832249674902471,
   "metapath_contribution": {
     "CbGaD": 0.38605520911680646,
     "CbGbCtD": 0.41923967542011376,
     "CcSEcCtD": 0.19470511546307973
   },
+  "n_trials": 2.0,
   "prediction": 0.00353455700378564,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

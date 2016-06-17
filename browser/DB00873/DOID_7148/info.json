@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00873",
   "compound_name": "Loteprednol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.09987120876520865,
     "CbGbCtD": 0.1252103579985498,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.18084785188405647,
     "CrCtD": 0.2504488741674998
   },
+  "n_trials": 0.0,
   "prediction": 0.0428317479983628,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

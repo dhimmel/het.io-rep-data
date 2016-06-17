@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.6840052015604681,
   "metapath_contribution": {
     "CbGaD": 0.4943158158257419,
     "CbGeAlD": 0.11545834334856732,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.26875892359709724,
     "CrCbGaD": 0.0019379623198503234
   },
+  "n_trials": 0.0,
   "prediction": 0.0018562933592424198,
   "status": 0,
   "training_prediction": 0.0013691755271600802

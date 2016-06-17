@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.0735294117647059,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.0338101430429129,
   "metapath_contribution": {
-    "CbGaD": 0.8245329926277404,
-    "CbGeAlD": 0.11775923046486994,
-    "CbGpPWpGaD": 0.055557899092646974,
+    "CbGaD": 0.8245329926277405,
+    "CbGeAlD": 0.11775923046486995,
+    "CbGpPWpGaD": 0.05555789909264698,
     "CrCbGaD": 0.0021498778147426593
   },
+  "n_trials": 0.0,
   "prediction": 0.0005808300192804129,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

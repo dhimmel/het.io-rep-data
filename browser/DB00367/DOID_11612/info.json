@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.605981794538362,
   "metapath_contribution": {
     "CbGaD": 0.7884858840071155,
     "CbGeAlD": 0.0854261527421004,
@@ -12,6 +14,5 @@
     "CrCbGaD": 0.006016364065840211
   },
   "prediction": 0.00161277722143221,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

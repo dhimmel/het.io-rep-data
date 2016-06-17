@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.45123537061118296,
   "metapath_contribution": {
     "CbGaD": 0.4408999479311122,
     "CbGbCtD": 0.12517660833388233,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004517345236433889,
     "CrCrCtD": 0.282387566334306
   },
+  "n_trials": 0.0,
   "prediction": 0.0022715487590308603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

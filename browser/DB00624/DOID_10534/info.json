@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.0676202860858258,
   "metapath_contribution": {
-    "CbGaD": 0.092721357612536,
-    "CbGbCtD": 0.5779528737599205,
-    "CbGeAlD": 0.061771174789642135,
-    "CbGpPWpGaD": 0.09810654064688314,
-    "CcSEcCtD": 0.16732671082126332,
-    "CrCbGaD": 0.002121342369754772
+    "CbGaD": 0.09272135761253601,
+    "CbGbCtD": 0.5779528737599207,
+    "CbGeAlD": 0.06177117478964214,
+    "CbGpPWpGaD": 0.09810654064688315,
+    "CcSEcCtD": 0.16732671082126335,
+    "CrCbGaD": 0.0021213423697547724
   },
+  "n_trials": 0.0,
   "prediction": 0.000654806974643536,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

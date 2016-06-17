@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7581274382314691,
   "metapath_contribution": {
     "CbGaD": 0.363184104726077,
     "CbGbCtD": 0.39452957171995,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08537673913273329,
     "CrCbGaD": 0.004109211230953542
   },
+  "n_trials": 1.0,
   "prediction": 0.00418751682661511,
   "status": 0,
   "training_prediction": 0.0175898894439921

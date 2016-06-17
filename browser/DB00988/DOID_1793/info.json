@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.28676470588235303,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.0897269180754226,
   "metapath_contribution": {
     "CbGbCtD": 0.6371276596182368,
     "CbGeAlD": 0.005826221734676937,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07895700207864126,
     "CrCbGaD": 0.0037363312393624976
   },
+  "n_trials": 0.0,
   "prediction": 0.0008847046501325811,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

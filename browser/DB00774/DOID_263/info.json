@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00774",
   "compound_name": "Hydroflumethiazide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.659297789336801,
   "metapath_contribution": {
     "CbGaD": 0.741022660152649,
     "CbGeAlD": 0.0928377754049407,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07054673368559457,
     "CrCbGaD": 0.0060298590402347065
   },
+  "n_trials": 0.0,
   "prediction": 0.0023054010368932,
   "status": 0,
   "training_prediction": 0.00669978375399588

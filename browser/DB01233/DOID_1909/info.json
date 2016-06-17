@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.456436931079324,
   "metapath_contribution": {
     "CbGaD": 0.809805092018592,
     "CbGpPWpGaD": 0.12208207058170265,
     "CcSEcCtD": 0.05732395368624193,
     "CrCbGaD": 0.010788883713463402
   },
+  "n_trials": 0.0,
   "prediction": 0.00134273788403682,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

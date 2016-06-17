@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGbCtD": 0.6367563972434619,
     "CbGeAlD": 0.05121645319882573,
     "CbGpPWpGaD": 0.06628161441985997,
     "CcSEcCtD": 0.24574553513785238
   },
+  "n_trials": 0.0,
   "prediction": 0.0030662811291635103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGaD": 0.39569544076084523,
     "CbGeAlD": 0.018449830443788073,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004072642466516123,
     "CtDrD": 0.5389698015879211
   },
+  "n_trials": 0.0,
   "prediction": 0.00188180265537143,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

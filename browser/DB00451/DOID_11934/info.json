@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.581274382314694,
   "metapath_contribution": {
     "CbGbCtD": 0.7462839767327544,
     "CbGeAlD": 0.11935429896201978,
     "CbGpPWpGaD": 0.08218765088915754,
     "CcSEcCtD": 0.052174073416068334
   },
+  "n_trials": 0.0,
   "prediction": 0.00156301885909054,
   "status": 0,
   "training_prediction": 0.0018971537761275602

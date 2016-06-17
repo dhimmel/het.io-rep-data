@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.655396618985696,
   "metapath_contribution": {
     "CbGaD": 0.6796566273144012,
     "CbGeAlD": 0.11875468401122402,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12299264665641328,
     "CrCbGaD": 0.005735381533861858
   },
+  "n_trials": 0.0,
   "prediction": 0.00198710261470709,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

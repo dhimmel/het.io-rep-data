@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.791287386215865,
   "metapath_contribution": {
     "CbGaD": 0.43800094658129496,
     "CbGbCtD": 0.20928489947363843,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19311587623698837,
     "CrCbGaD": 0.0016671039386603084
   },
+  "n_trials": 0.0,
   "prediction": 0.00314876062422409,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01295",
   "compound_name": "Bevantolol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7522756827048109,
   "metapath_contribution": {
     "CbGaD": 0.3621104289904483,
     "CbGbCtD": 0.40156876016434684,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0033227849498249236,
     "CrCrCtD": 0.17084994684846863
   },
+  "n_trials": 0.0,
   "prediction": 0.004453145978382721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.2788772598636394,
     "CbGbCtD": 0.35266501463996036,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2027510923135184,
     "CrCbGaD": 0.002334557985239162
   },
+  "n_trials": 0.0,
   "prediction": 0.0021356652331655603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

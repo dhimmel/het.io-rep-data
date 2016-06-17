@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGaD": 0.20942945786651604,
     "CbGbCtD": 0.31731497865322494,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.27483786061724713,
     "CrCbGaD": 0.002163241714941344
   },
+  "n_trials": 0.0,
   "prediction": 0.00275255700179327,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

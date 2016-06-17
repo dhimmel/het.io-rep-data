@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00591",
   "compound_name": "Fluocinolone Acetonide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.345903771131339,
   "metapath_contribution": {
     "CbGbCtD": 0.477813419608112,
     "CbGeAlD": 0.03358294898457677,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0015833654931176361,
     "CrCrCtD": 0.43238435909907386
   },
+  "n_trials": 0.0,
   "prediction": 0.00136034284343794,
   "status": 0,
   "training_prediction": 0.00413875346327419

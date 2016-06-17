@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.272058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0578673602080624,
   "metapath_contribution": {
     "CbGaD": 0.6801984740186896,
     "CbGeAlD": 0.07936838314092538,
     "CbGpPWpGaD": 0.23061745102973863,
     "CrCbGaD": 0.009815691810646385
   },
+  "n_trials": 0.0,
   "prediction": 0.000740699246667666,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

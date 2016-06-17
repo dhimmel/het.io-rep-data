@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.271131339401821,
   "metapath_contribution": {
     "CbGaD": 0.302481518196181,
     "CbGbCtD": 0.49408592694717673,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18880337726128005,
     "CrCbGaD": 0.001891266515529965
   },
+  "n_trials": 3.0,
   "prediction": 0.00105515444941753,
   "status": 0,
   "training_prediction": 0.0041927005865022

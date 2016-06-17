@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGbCtD": 0.13419185320780438,
     "CbGdCrCtD": 0.0010776848639309367,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.24008576370660922,
     "CrCtD": 0.5353060782708943
   },
+  "n_trials": 0.0,
   "prediction": 0.0163069295693304,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

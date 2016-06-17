@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00561",
   "compound_name": "Doxapram",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.13849154746423903,
   "metapath_contribution": {
-    "CcSEcCtD": 0.2541871168987586,
-    "CrCbGaD": 0.006714635834517839,
+    "CcSEcCtD": 0.25418711689875856,
+    "CrCbGaD": 0.0067146358345178386,
     "CrCrCtD": 0.7390982472667236
   },
+  "n_trials": 0.0,
   "prediction": 0.0011096448219426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

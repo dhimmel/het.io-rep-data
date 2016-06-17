@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04574",
   "compound_name": "Estropipate",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.6931079323797139,
   "metapath_contribution": {
     "CbGaD": 0.21518958023701865,
     "CbGbCtD": 0.2433459107110926,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1335714657040436,
     "CrCrCtD": 0.3839906526541672
   },
+  "n_trials": 0.0,
   "prediction": 0.00239884031650378,
   "status": 0,
   "training_prediction": 0.00613953127758601

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.601430429128739,
   "metapath_contribution": {
     "CbGaD": 0.6143255478341693,
     "CbGbCtD": 0.20833568922207912,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14578407927368192,
     "CrCbGaD": 0.006807240512363833
   },
+  "n_trials": 0.0,
   "prediction": 0.00160206255030841,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00183",
   "compound_name": "Pentagastrin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.530559167750325,
   "metapath_contribution": {
     "CbGaD": 0.6393049602411938,
     "CbGeAlD": 0.12414428952201932,
     "CbGpPWpGaD": 0.2287554504064567,
     "CrCbGaD": 0.0077952998303302155
   },
+  "n_trials": 0.0,
   "prediction": 0.00267050034639326,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

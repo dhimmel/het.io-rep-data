@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGbCtD": 0.3851092006059941,
     "CbGdCrCtD": 0.0015427804171739157,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11354157385840417,
     "CtDrD": 0.4639748598458147
   },
+  "n_trials": 0.0,
   "prediction": 0.012888429045739,
   "status": 0,
   "training_prediction": 0.13831331916257902

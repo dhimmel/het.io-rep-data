@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.804941482444733,
   "metapath_contribution": {
     "CbGaD": 0.5022596225099587,
     "CbGbCtD": 0.2165112499786393,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17421252686180816,
     "CrCbGaD": 6.118020165050286e-06
   },
+  "n_trials": 0.0,
   "prediction": 0.00227335355691835,
   "status": 0,
   "training_prediction": 0.00459312678683156

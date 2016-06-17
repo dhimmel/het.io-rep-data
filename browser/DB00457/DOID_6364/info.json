@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.42311636492189814,
     "CbGbCtD": 0.3793923701703907,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06738595202873865,
     "CcSEcCtD": 0.08254930654109342
   },
+  "n_trials": 0.0,
   "prediction": 0.008067054900906,
   "status": 0,
   "training_prediction": 0.0146582470007005

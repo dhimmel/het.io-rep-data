@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08807",
   "compound_name": "Bopindolol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.25647503148125933,
     "CbGbCtD": 0.3051886173438735,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003521158961871573,
     "CrCrCtD": 0.3799861418858576
   },
+  "n_trials": 0.0,
   "prediction": 0.00500616506737856,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

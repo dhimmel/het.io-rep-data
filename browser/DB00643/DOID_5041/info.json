@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.19180754226267901,
   "metapath_contribution": {
     "CbGaD": 0.6901400424816113,
     "CbGeAlD": 0.0715715153186429,
     "CbGpPWpGaD": 0.2261642713557834,
     "CrCbGaD": 0.012124170843962317
   },
+  "n_trials": 0.0,
   "prediction": 0.00089307220266347,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

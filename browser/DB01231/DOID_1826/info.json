@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01231",
   "compound_name": "Diphenidol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.39661898569570897,
   "metapath_contribution": {
     "CbGaD": 0.5503021140174928,
     "CbGpPWpGaD": 0.06483194101420232,
     "CrCbGaD": 0.006045683496426806,
     "CrCrCtD": 0.3788202614718781
   },
+  "n_trials": 0.0,
   "prediction": 0.00261342812632961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

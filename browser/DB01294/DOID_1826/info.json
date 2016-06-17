@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.728218465539662,
   "metapath_contribution": {
     "CbGaD": 0.3070660549297832,
     "CbGbCtD": 0.4100917000598931,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08026816019563258,
     "CcSEcCtD": 0.16128933723385727
   },
+  "n_trials": 0.0,
   "prediction": 0.00625486915146454,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.7566920989441877,
     "CbGeAlD": 0.08508032947963991,
     "CbGpPWpGaD": 0.1582275715761725
   },
+  "n_trials": 2.0,
   "prediction": 0.0034919088444184,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

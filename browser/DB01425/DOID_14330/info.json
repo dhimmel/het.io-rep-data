@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01425",
   "compound_name": "Alizapride",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGaD": 0.9295039993702493,
     "CbGeAlD": 0.01152367842101913,
     "CbGpPWpGaD": 0.047536881266495995,
     "CrCbGaD": 0.011435440942235562
   },
+  "n_trials": 0.0,
   "prediction": 0.00235316395889808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

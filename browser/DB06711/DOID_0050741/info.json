@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06711",
   "compound_name": "Naphazoline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.379063719115735,
   "metapath_contribution": {
     "CbGbCtD": 0.5448836787088276,
     "CbGeAlD": 0.06083944600018159,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13201146479283196,
     "CrCbGaD": 0.009674729551598107
   },
+  "n_trials": 0.0,
   "prediction": 0.0017802193059037199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

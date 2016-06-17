@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGbCtD": 0.1545863049655546,
     "CbGeAlD": 0.012405406818058405,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.16668221625525156,
     "CrCtD": 0.29193491191559323
   },
+  "n_trials": 0.0,
   "prediction": 0.0500593332379714,
   "status": 0,
   "training_prediction": 0.10421495156333901

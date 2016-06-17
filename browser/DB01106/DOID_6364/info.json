@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01106",
   "compound_name": "Levocabastine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.704161248374512,
   "metapath_contribution": {
     "CbGbCtD": 0.28614046989347863,
     "CbGeAlD": 0.07414989566835087,
     "CbGpPWpGaD": 0.3741783760933668,
     "CcSEcCtD": 0.26553125834480373
   },
+  "n_trials": 0.0,
   "prediction": 0.00341777792001252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

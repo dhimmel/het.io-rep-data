@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.20416124837451202,
   "metapath_contribution": {
-    "CbGbCtD": 0.36941276717653304,
-    "CbGeAlD": 0.018344442317942824,
-    "CcSEcCtD": 0.16242230590444698,
-    "CrCbGaD": 0.0006242084539123279,
-    "CrCrCtD": 0.4491962761471649
+    "CbGbCtD": 0.36941276717653293,
+    "CbGeAlD": 0.01834444231794282,
+    "CcSEcCtD": 0.16242230590444692,
+    "CrCbGaD": 0.0006242084539123278,
+    "CrCrCtD": 0.4491962761471648
   },
+  "n_trials": 0.0,
   "prediction": 0.00114447994589346,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

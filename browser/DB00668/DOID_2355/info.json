@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.46553966189857,
   "metapath_contribution": {
     "CbGaD": 0.7187345771635639,
     "CbGeAlD": 0.10220614606579355,
     "CbGpPWpGaD": 0.1774534693018219,
     "CrCbGaD": 0.001605807468820646
   },
+  "n_trials": 1.0,
   "prediction": 0.001165954938935,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

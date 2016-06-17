@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.23759666286146988,
     "CbGeAlD": 0.008283083680679334,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.43529949899890724,
     "CtDrD": 0.2711392020656901
   },
+  "n_trials": 3.0,
   "prediction": 0.0233562138478462,
   "status": 0,
   "training_prediction": 0.110819871072138

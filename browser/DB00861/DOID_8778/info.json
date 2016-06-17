@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.11115445403857291,
     "CbGbCtD": 0.14828087157467362,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.22520381994068958,
     "CrCtD": 0.3446122752274348
   },
+  "n_trials": 0.0,
   "prediction": 0.0279607811523181,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

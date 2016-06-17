@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00869",
   "compound_name": "Dorzolamide",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.6891320234777375,
     "CbGeAlD": 0.03275595054816241,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14735201486644853,
     "CrCbGaD": 0.006309214316633954
   },
+  "n_trials": 0.0,
   "prediction": 0.00396458919312579,
   "status": 0,
   "training_prediction": 0.008710867350257109

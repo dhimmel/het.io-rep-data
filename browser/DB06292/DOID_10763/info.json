@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06292",
   "compound_name": "Dapagliflozin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.3587079374053175,
     "CbGbCtD": 0.36907955208829113,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1199546858106227,
     "CrCbGaD": 0.00345990114309035
   },
+  "n_trials": 0.0,
   "prediction": 0.0121160080817694,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

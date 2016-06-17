@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGaD": 0.2328098478583161,
     "CbGbCtD": 0.6953358423680107,
     "CbGpPWpGaD": 0.06980579586360128,
     "CrCbGaD": 0.0020485139100719567
   },
+  "n_trials": 0.0,
   "prediction": 0.00298909134629047,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

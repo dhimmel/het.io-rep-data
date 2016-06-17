@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00393",
   "compound_name": "Nimodipine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGaD": 0.3678371929835598,
     "CbGbCtD": 0.40243884044238415,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10006058033418039,
     "CrCbGaD": 0.0029707027962752445
   },
+  "n_trials": 0.0,
   "prediction": 0.00208193936528455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

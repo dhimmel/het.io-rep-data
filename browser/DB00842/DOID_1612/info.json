@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00842",
   "compound_name": "Oxazepam",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.251625487646294,
   "metapath_contribution": {
     "CbGaD": 0.10389613154241698,
     "CbGbCtD": 0.5427126620531002,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17025986369258625,
     "CrCbGaD": 0.0035833511553980614
   },
+  "n_trials": 0.0,
   "prediction": 0.0014464475861790099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00577",
   "compound_name": "Valaciclovir",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.553966189856957,
   "metapath_contribution": {
     "CbGaD": 0.6289904615381693,
     "CbGbCtD": 0.12502131060016713,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14453166630748407,
     "CrCbGaD": 0.004792713583370061
   },
+  "n_trials": 0.0,
   "prediction": 0.00277419809051936,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

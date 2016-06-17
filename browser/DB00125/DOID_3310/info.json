@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
     "CbGbCtD": 0.7106435709022622,
     "CbGdCrCtD": 0.009379526244751836,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09944589213744516,
     "CcSEcCtD": 0.1405114121753037
   },
+  "n_trials": 0.0,
   "prediction": 0.00213521702946119,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

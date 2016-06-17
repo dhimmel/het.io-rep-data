@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.392717815344603,
   "metapath_contribution": {
     "CbGbCtD": 0.5792326945459899,
     "CbGeAlD": 0.04167322736145107,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.229304242203026,
     "CrCbGaD": 0.002311549818003981
   },
+  "n_trials": 0.0,
   "prediction": 0.0020772798776357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

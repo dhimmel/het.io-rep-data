@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.201560468140442,
   "metapath_contribution": {
     "CbGaD": 0.3045624007982887,
     "CbGbCtD": 0.4807083728426915,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13891601793971697,
     "CrCbGaD": 0.005962230909622379
   },
+  "n_trials": 0.0,
   "prediction": 0.00123144973965205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

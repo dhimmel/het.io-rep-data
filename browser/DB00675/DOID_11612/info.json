@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.48374512353706106,
   "metapath_contribution": {
     "CbGaD": 0.5955154891864368,
     "CbGeAlD": 0.16175990946600555,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.033967829480671036,
     "CrCbGaD": 0.006798573189646263
   },
+  "n_trials": 0.0,
   "prediction": 0.00137379630765293,
   "status": 0,
   "training_prediction": 0.00103324728517786

@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.64369310793238,
   "metapath_contribution": {
     "CbGaD": 0.23276180464526616,
     "CbGbCtD": 0.5148512628403705,
@@ -13,6 +15,5 @@
     "CrCbGaD": 0.003290635192363813
   },
   "prediction": 0.00312885325367582,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

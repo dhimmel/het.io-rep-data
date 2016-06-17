@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.351320678431854,
     "CbGeAlD": 0.06356090077265898,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0031769825744949547,
     "CtDrD": 0.492190460317672
   },
+  "n_trials": 2.0,
   "prediction": 0.0039824628781640605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

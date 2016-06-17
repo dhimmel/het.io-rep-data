@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00943",
   "compound_name": "Zalcitabine",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.26527958387516304,
   "metapath_contribution": {
     "CbGbCtD": 0.5120556660284856,
     "CbGdCrCtD": 0.0063519312419964115,
     "CbGeAlD": 0.05825512722021745,
     "CcSEcCtD": 0.42333727550930056
   },
+  "n_trials": 1.0,
   "prediction": 0.0010446536297518,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

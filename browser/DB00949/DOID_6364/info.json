@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00949",
   "compound_name": "Felbamate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGbCtD": 0.0832670666786566,
     "CbGeAlD": 0.005602071907353979,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.12476534226974856,
     "CtDrD": 0.3091202396415366
   },
+  "n_trials": 0.0,
   "prediction": 0.0772271224249333,
   "status": 0,
   "training_prediction": 0.132762529254286

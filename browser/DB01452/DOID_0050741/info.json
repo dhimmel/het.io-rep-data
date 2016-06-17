@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01452",
   "compound_name": "Heroin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.3881728175056803,
     "CbGbCtD": 0.294337953675484,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003144341360086413,
     "CrCrCtD": 0.28470202134147526
   },
+  "n_trials": 0.0,
   "prediction": 0.0246200861156448,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

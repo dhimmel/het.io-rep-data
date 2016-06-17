@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08896",
   "compound_name": "Regorafenib",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.5723216185455953,
     "CbGbCtD": 0.19118139486658223,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.05200197883478752,
     "CrCbGaD": 0.0042990482152906
   },
+  "n_trials": 0.0,
   "prediction": 0.00348738430287966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

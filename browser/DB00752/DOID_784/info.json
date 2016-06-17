@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6449934980494151,
   "metapath_contribution": {
     "CbGaD": 0.7286226676651266,
     "CbGeAlD": 0.07610792736771987,
     "CbGpPWpGaD": 0.19070664255472178,
     "CrCbGaD": 0.0045627624124317066
   },
+  "n_trials": 0.0,
   "prediction": 0.0019248707926275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

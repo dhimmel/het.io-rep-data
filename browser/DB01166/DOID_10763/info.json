@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01166",
   "compound_name": "Cilostazol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGaD": 0.24605061619413085,
     "CbGbCtD": 0.3090542533194714,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.27259309800022413,
     "CrCbGaD": 0.0021638858176400147
   },
+  "n_trials": 0.0,
   "prediction": 0.0177800558834378,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

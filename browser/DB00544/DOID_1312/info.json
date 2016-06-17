@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.3554442531683869,
     "CbGbCtD": 0.4717024845449972,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.00802528798708412,
     "CcSEcCtD": 0.07879939717477204
   },
+  "n_trials": 0.0,
   "prediction": 0.00315736250464466,
   "status": 0,
   "training_prediction": 0.00640015207130538

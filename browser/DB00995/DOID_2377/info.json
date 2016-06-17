@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00995",
   "compound_name": "Auranofin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.6158289615219098,
     "CbGbCtD": 0.0188563684316257,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.20726516971759626,
     "CcSEcCtD": 0.12087982568363212
   },
+  "n_trials": 0.0,
   "prediction": 0.00428160386829263,
   "status": 0,
   "training_prediction": 0.0180915207468708

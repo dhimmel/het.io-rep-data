@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00644",
   "compound_name": "Gonadorelin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGbCtD": 0.2635316671208053,
     "CbGpPWpGaD": 0.010825604026235685,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.28268518572293433,
     "CrCtD": 0.38710046216548993
   },
+  "n_trials": 0.0,
   "prediction": 0.0306008065806625,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

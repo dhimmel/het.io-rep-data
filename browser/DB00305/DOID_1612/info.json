@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00305",
   "compound_name": "Mitomycin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.08846391002185092,
     "CbGbCtD": 0.16223142612904334,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08427618619620647,
     "CiPCiCtD": 0.6564036400780855
   },
+  "n_trials": 3.0,
   "prediction": 0.0143190878624067,
   "status": 0,
   "training_prediction": 0.11870485507906697

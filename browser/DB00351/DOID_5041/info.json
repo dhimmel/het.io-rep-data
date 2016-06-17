@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.0741222366710013,
   "metapath_contribution": {
     "CbGaD": 0.9276765067371259,
     "CbGpPWpGaD": 0.060730609404066105,
     "CrCbGaD": 0.011592883858808014
   },
+  "n_trials": 1.0,
   "prediction": 0.0007028282712813969,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

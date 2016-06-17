@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7035110533159951,
   "metapath_contribution": {
     "CbGaD": 0.34315285336521434,
     "CbGbCtD": 0.5727833227999115,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.0386115993676322,
     "CrCbGaD": 0.0033793916035270172
   },
+  "n_trials": 0.0,
   "prediction": 0.00246579745329266,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

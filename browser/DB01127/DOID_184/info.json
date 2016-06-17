@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01127",
   "compound_name": "Econazole",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.33875162548764604,
   "metapath_contribution": {
     "CbGaD": 0.91855168088826,
     "CbGpPWpGaD": 0.07638705121472383,
     "CrCbGaD": 0.005061267897016214
   },
+  "n_trials": 0.0,
   "prediction": 0.00119995173925531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

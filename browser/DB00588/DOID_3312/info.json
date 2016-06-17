@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.029258777633290003,
   "metapath_contribution": {
     "CbGaD": 0.8831212318009056,
     "CbGeAlD": 0.07518101605204205,
     "CbGpPWpGaD": 0.028621434920449062,
     "CrCbGaD": 0.01307631722660319
   },
+  "n_trials": 0.0,
   "prediction": 0.00069293004930086,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

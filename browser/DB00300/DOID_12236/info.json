@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.41307659826523807,
     "CbGbCtD": 0.3943255034124113,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.036546105696480397,
     "CcSEcCtD": 0.09462052798635515
   },
+  "n_trials": 0.0,
   "prediction": 0.00441738321006376,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

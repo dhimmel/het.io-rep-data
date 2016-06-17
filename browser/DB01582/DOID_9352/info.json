@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01582",
   "compound_name": "Sulfamethazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.758777633289987,
   "metapath_contribution": {
     "CbGaD": 0.23054141871047618,
     "CbGbCtD": 0.37800074558293156,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0021639165463330653,
     "CrCrCtD": 0.35435851720061096
   },
+  "n_trials": 0.0,
   "prediction": 0.00461213856638623,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

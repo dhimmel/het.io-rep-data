@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.167750325097529,
   "metapath_contribution": {
     "CbGaD": 0.30034639654629197,
     "CbGbCtD": 0.376117358796546,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19836816290842874,
     "CrCbGaD": 0.005146993103451274
   },
+  "n_trials": 0.0,
   "prediction": 0.0011173055523291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

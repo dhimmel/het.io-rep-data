@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.514304291287386,
   "metapath_contribution": {
     "CbGaD": 0.31890001936027607,
     "CbGbCtD": 0.3941004660605301,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1718107834484881,
     "CrCbGaD": 0.0032064070307521223
   },
+  "n_trials": 0.0,
   "prediction": 0.0023463865392707897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

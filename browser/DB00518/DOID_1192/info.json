@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.704161248374512,
   "metapath_contribution": {
     "CbGaD": 0.32209756437929093,
     "CbGbCtD": 0.5401919242568021,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11717349199246328,
     "CrCbGaD": 0.0009354578381854614
   },
+  "n_trials": 0.0,
   "prediction": 0.00227870795943199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

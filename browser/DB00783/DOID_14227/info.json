@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.882314694408322,
   "metapath_contribution": {
     "CbGaD": 0.384318958261908,
     "CbGbCtD": 0.4116720499558694,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11940062296090748,
     "CrCbGaD": 0.0016082221686062115
   },
+  "n_trials": 1.0,
   "prediction": 0.0026623828283537897,
   "status": 0,
   "training_prediction": 0.00200304806085067

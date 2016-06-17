@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.399219765929779,
   "metapath_contribution": {
     "CbGbCtD": 0.6561717568967742,
     "CbGdCrCtD": 0.005042379146729233,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.24369749659048773,
     "CrCbGaD": 0.0019341448822908142
   },
+  "n_trials": 0.0,
   "prediction": 0.00151969201239838,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

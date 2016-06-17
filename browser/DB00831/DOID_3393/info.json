@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.36764705882352894,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0624187256176853,
   "metapath_contribution": {
     "CbGaD": 0.14168620293667092,
     "CbGbCtD": 0.37332925145374446,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20462231650072787,
     "CrCbGaD": 0.004188920657503683
   },
+  "n_trials": 0.0,
   "prediction": 0.0007555633053381981,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

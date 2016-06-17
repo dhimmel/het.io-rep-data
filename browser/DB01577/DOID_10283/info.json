@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.18465539661898603,
   "metapath_contribution": {
     "CbGaD": 0.5327303758619444,
     "CbGbCtD": 0.15848238744689191,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09190873229359363,
     "CrCbGaD": 0.006121694004609341
   },
+  "n_trials": 0.0,
   "prediction": 0.00116910118690425,
   "status": 0,
   "training_prediction": 0.004958980545049

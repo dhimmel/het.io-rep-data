@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00175",
   "compound_name": "Pravastatin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGaD": 0.21561201172938224,
     "CbGbCtD": 0.6214411761757285,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09710844132590249,
     "CrCbGaD": 0.0018370633557102697
   },
+  "n_trials": 0.0,
   "prediction": 0.0021486752971368803,
   "status": 0,
   "training_prediction": 0.0051019366465981705

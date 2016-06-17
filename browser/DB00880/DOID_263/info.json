@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00880",
   "compound_name": "Chlorothiazide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.38036410923277003,
   "metapath_contribution": {
     "CbGaD": 0.6839349980974978,
     "CbGeAlD": 0.10721083053036848,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15063040506578526,
     "CrCbGaD": 0.01002126168707062
   },
+  "n_trials": 0.0,
   "prediction": 0.00144745064960888,
   "status": 0,
   "training_prediction": 0.00421337893944559

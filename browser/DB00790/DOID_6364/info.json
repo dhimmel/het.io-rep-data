@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.6181385555481296,
     "CbGbCtD": 0.12731540072892097,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21810218003617612,
     "CrCbGaD": 0.00618256020847866
   },
+  "n_trials": 0.0,
   "prediction": 0.00397965424777511,
   "status": 0,
   "training_prediction": 0.0120433190518227

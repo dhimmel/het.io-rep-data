@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.419117647058824,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.0838751625487646,
   "metapath_contribution": {
     "CbGbCtD": 0.04073287918224155,
     "CbGeAlD": 0.33200494526401714,
     "CbGpPWpGaD": 0.03187748080200243,
     "CcSEcCtD": 0.5953846947517388
   },
+  "n_trials": 0.0,
   "prediction": 0.000766711835870052,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

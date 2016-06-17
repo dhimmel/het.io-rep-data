@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
-    "CbGaD": 0.46920445066710376,
+    "CbGaD": 0.4692044506671038,
     "CbGbCtD": 0.2761798419760453,
-    "CbGeAlD": 0.068699796504236,
-    "CbGpPWpGaD": 0.18449355824404212,
-    "CrCbGaD": 0.0014223526085728007
+    "CbGeAlD": 0.06869979650423601,
+    "CbGpPWpGaD": 0.18449355824404215,
+    "CrCbGaD": 0.0014223526085728009
   },
+  "n_trials": 0.0,
   "prediction": 0.004218184110016471,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

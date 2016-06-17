@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.793888166449935,
   "metapath_contribution": {
     "CbGbCtD": 0.7105190770349722,
     "CbGdCrCtD": 0.00048127039059153313,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02756083747419361,
     "CcSEcCtD": 0.25627839299167643
   },
+  "n_trials": 0.0,
   "prediction": 0.00476192515360254,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00593",
   "compound_name": "Ethosuximide",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5936280884265279,
   "metapath_contribution": {
     "CbGaD": 0.17596344782231485,
     "CbGbCtD": 0.5476697374663513,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18125947747158086,
     "CrCbGaD": 0.001899696216166107
   },
+  "n_trials": 0.0,
   "prediction": 0.00286643028786987,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

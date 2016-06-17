@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGbCtD": 0.12906319462220925,
     "CbGeAlD": 0.00857373230608597,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0011199987805123872,
     "CtDrD": 0.8331222409966998
   },
+  "n_trials": 0.0,
   "prediction": 0.00247581714667421,
   "status": 0,
   "training_prediction": 0.00111678670660011

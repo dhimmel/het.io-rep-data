@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.6464153354065966,
     "CbGbCtD": 0.08875371223291433,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.10440401450519504,
     "CcSEcCtD": 0.07925813451681268
   },
+  "n_trials": 0.0,
   "prediction": 0.00284157422657077,
   "status": 0,
   "training_prediction": 0.00344808885619471

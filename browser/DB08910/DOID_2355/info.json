@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.8103848297574537,
     "CbGeAlD": 0.0661126300050665,
     "CbGpPWpGaD": 0.12005272344481197,
     "CrCbGaD": 0.00344981679266786
   },
+  "n_trials": 0.0,
   "prediction": 0.00228576222019079,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

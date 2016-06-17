@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.11983053056469545,
     "CbGbCtD": 0.1042252813877235,
@@ -16,6 +18,7 @@
     "CrCtD": 0.18944143337494398,
     "CtDrD": 0.13865454502546704
   },
+  "n_trials": 0.0,
   "prediction": 0.269528983792024,
   "status": 0,
   "training_prediction": 0.345055941515894

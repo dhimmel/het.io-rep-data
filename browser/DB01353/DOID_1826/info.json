@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01353",
   "compound_name": "Butethal",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.1907509314881703,
     "CbGbCtD": 0.2361687261762471,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.20520270440588387,
     "CrCtD": 0.3005616966480893
   },
+  "n_trials": 0.0,
   "prediction": 0.103799002700379,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

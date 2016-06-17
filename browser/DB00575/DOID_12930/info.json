@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.6126477854826066,
     "CbGbCtD": 0.20722118982117926,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08107935947774769,
     "CcSEcCtD": 0.09561186637687191
   },
+  "n_trials": 0.0,
   "prediction": 0.00291026403212211,
   "status": 0,
   "training_prediction": 0.00477926958102405

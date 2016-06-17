@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00585",
   "compound_name": "Nizatidine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.862158647594278,
   "metapath_contribution": {
     "CbGaD": 0.4047434856849708,
     "CbGbCtD": 0.46268236600649576,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10392629682249928,
     "CrCbGaD": 0.001528359698808761
   },
+  "n_trials": 0.0,
   "prediction": 0.004060416968881071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

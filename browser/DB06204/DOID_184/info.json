@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06204",
   "compound_name": "Tapentadol",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.5006501950585179,
   "metapath_contribution": {
     "CbGbCtD": 0.680785424574674,
     "CbGpPWpGaD": 0.10189953378156599,
     "CcSEcCtD": 0.21138378455780363,
     "CrCbGaD": 0.005931257085956428
   },
+  "n_trials": 0.0,
   "prediction": 0.00152592968238347,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

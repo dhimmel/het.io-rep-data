@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.262678803641092,
   "metapath_contribution": {
     "CbGbCtD": 0.6466766024201507,
     "CbGeAlD": 0.031470518879965506,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16837795438042027,
     "CrCbGaD": 0.019296882521536936
   },
+  "n_trials": 0.0,
   "prediction": 0.0010039610574594801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

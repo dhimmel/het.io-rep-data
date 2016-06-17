@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGbCtD": 0.8285663997868169,
     "CbGpPWpGaD": 0.01450093784277777,
     "CcSEcCtD": 0.15625541237833385,
     "CrCbGaD": 0.0006772499920714328
   },
+  "n_trials": 0.0,
   "prediction": 0.0016814341854801099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

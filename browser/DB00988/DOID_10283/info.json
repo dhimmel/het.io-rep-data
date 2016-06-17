@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.40702210663199,
   "metapath_contribution": {
     "CbGaD": 0.39595074086864734,
     "CbGbCtD": 0.4145237518331055,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04434395073159379,
     "CrCbGaD": 0.0032337704543851063
   },
+  "n_trials": 0.0,
   "prediction": 0.0019500200679586,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7997399219765929,
   "metapath_contribution": {
     "CbGaD": 0.39177831843258404,
     "CbGbCtD": 0.39412125456850133,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08793804533609068,
     "CrCbGaD": 0.00373250911983833
   },
+  "n_trials": 0.0,
   "prediction": 0.00468323218050701,
   "status": 0,
   "training_prediction": 0.0254551736692619

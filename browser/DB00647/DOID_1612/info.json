@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00647",
   "compound_name": "Dextropropoxyphene",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
-    "CbGaD": 0.10111845794585068,
-    "CbGbCtD": 0.18022573294007646,
-    "CbGpPWpGaD": 0.024770977861851735,
-    "CcSEcCtD": 0.05656047760766967,
-    "CrCbGaD": 0.0015208126802611702,
-    "CrCrCtD": 0.22829899735650824,
-    "CrCtD": 0.40750454360778204
+    "CbGaD": 0.10111845794585067,
+    "CbGbCtD": 0.18022573294007643,
+    "CbGpPWpGaD": 0.02477097786185173,
+    "CcSEcCtD": 0.056560477607669656,
+    "CrCbGaD": 0.00152081268026117,
+    "CrCrCtD": 0.22829899735650822,
+    "CrCtD": 0.407504543607782
   },
+  "n_trials": 0.0,
   "prediction": 0.00790215677743358,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

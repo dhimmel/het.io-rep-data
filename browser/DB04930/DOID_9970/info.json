@@ -1,16 +1,18 @@
 {
   "compound_id": "DB04930",
   "compound_name": "Permethrin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.710663198959688,
   "metapath_contribution": {
-    "CbGbCtD": 0.6019966991699912,
-    "CbGpPWpGaD": 0.026725663461001102,
+    "CbGbCtD": 0.6019966991699913,
+    "CbGpPWpGaD": 0.026725663461001106,
     "CcSEcCtD": 0.06641775079009522,
-    "CrCbGaD": 0.0002628062236180528,
-    "CrCrCtD": 0.3045970803552943
+    "CrCbGaD": 0.00026280622361805287,
+    "CrCrCtD": 0.30459708035529437
   },
+  "n_trials": 0.0,
   "prediction": 0.00392015703042492,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

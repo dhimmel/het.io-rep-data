@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGaD": 0.34605289560795094,
     "CbGbCtD": 0.30546738065679346,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11304251219677422,
     "CrCbGaD": 0.0025273180251516878
   },
+  "n_trials": 0.0,
   "prediction": 0.00163517604903525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

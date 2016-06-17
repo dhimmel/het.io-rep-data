@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01582",
   "compound_name": "Sulfamethazine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.404421326397919,
   "metapath_contribution": {
     "CbGaD": 0.3569174993797867,
     "CbGbCtD": 0.5645940085796868,
     "CbGpPWpGaD": 0.07568897176422394,
     "CrCbGaD": 0.002799520276302677
   },
+  "n_trials": 0.0,
   "prediction": 0.0020175120258814102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

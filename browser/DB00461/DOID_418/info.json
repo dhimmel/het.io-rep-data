@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.698309492847854,
   "metapath_contribution": {
-    "CbGbCtD": 0.0845306460914664,
-    "CbGdCrCtD": 0.0030943723579065986,
-    "CbGeAlD": 0.04565733188482805,
-    "CcSEcCtD": 0.19686190918833496,
-    "CpDpCtD": 0.669855740477464
+    "CbGbCtD": 0.08453064609146642,
+    "CbGdCrCtD": 0.003094372357906599,
+    "CbGeAlD": 0.045657331884828053,
+    "CcSEcCtD": 0.196861909188335,
+    "CpDpCtD": 0.6698557404774641
   },
+  "n_trials": 0.0,
   "prediction": 0.00220212637904356,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

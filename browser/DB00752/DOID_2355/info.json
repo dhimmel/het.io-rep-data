@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.728218465539662,
   "metapath_contribution": {
     "CbGaD": 0.8176047641199341,
     "CbGeAlD": 0.0806730830843778,
     "CbGpPWpGaD": 0.09738603399690703,
     "CrCbGaD": 0.004336118798781198
   },
+  "n_trials": 0.0,
   "prediction": 0.00175318292971426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

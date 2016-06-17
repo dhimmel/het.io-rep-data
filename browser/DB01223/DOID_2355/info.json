@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGaD": 0.6920668247429407,
     "CbGeAlD": 0.13550953805093885,
     "CbGpPWpGaD": 0.16327711261343308,
     "CrCbGaD": 0.00914652459268747
   },
+  "n_trials": 0.0,
   "prediction": 0.00214443088860419,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

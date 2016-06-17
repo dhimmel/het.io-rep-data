@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01124",
   "compound_name": "Tolbutamide",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.150845253576073,
   "metapath_contribution": {
     "CbGbCtD": 0.6115107236031659,
     "CbGeAlD": 0.03883184813269722,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18675931459065995,
     "CrCbGaD": 0.0045554054917528964
   },
+  "n_trials": 0.0,
   "prediction": 0.00113684557817656,
   "status": 0,
   "training_prediction": 0.006278415910136521

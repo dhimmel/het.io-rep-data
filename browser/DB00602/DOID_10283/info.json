@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.12485716303787675,
     "CbGbCtD": 0.6101545824364041,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11124492963674178,
     "CcSEcCtD": 0.13319696581510024
   },
+  "n_trials": 0.0,
   "prediction": 0.00634648327509484,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

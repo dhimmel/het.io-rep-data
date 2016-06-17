@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.7213755702935702,
     "CbGeAlD": 0.12652232144245498,
     "CbGpPWpGaD": 0.1504454829815512,
     "CrCbGaD": 0.0016566252824236276
   },
+  "n_trials": 0.0,
   "prediction": 0.0034520687099882,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

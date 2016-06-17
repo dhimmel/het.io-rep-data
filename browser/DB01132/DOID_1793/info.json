@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.6690507152145639,
   "metapath_contribution": {
     "CbGaD": 0.4768548399194821,
     "CbGbCtD": 0.36725497922855826,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15045240943792976,
     "CrCbGaD": 0.0022399401558916674
   },
+  "n_trials": 2.0,
   "prediction": 0.00220907548146943,
   "status": 0,
   "training_prediction": 0.0052595831563998705

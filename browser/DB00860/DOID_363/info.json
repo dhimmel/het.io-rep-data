@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGbCtD": 0.23669325240433886,
     "CbGeAlD": 0.011480655066605524,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.29710938760203903,
     "CrCtD": 0.4045912318768389
   },
+  "n_trials": 0.0,
   "prediction": 0.00457858376419405,
   "status": 0,
   "training_prediction": 0.0630107896859842

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.33615084525357597,
   "metapath_contribution": {
     "CbGaD": 0.38901105575813427,
     "CbGbCtD": 0.2988765620258729,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08360486678955073,
     "CcSEcCtD": 0.1280703560954452
   },
+  "n_trials": 0.0,
   "prediction": 0.0014995796927225302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

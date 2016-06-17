@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00485",
   "compound_name": "Dicloxacillin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.335500650195059,
   "metapath_contribution": {
     "CbGaD": 0.5084844170096059,
     "CbGbCtD": 0.3114499882279432,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15098776740351064,
     "CrCbGaD": 0.0015115867747096127
   },
+  "n_trials": 0.0,
   "prediction": 0.00175170116720725,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

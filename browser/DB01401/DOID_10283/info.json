@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.610533159947984,
   "metapath_contribution": {
     "CbGaD": 0.4899541797857354,
     "CbGbCtD": 0.09623427320751694,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2574734235936039,
     "CrCbGaD": 0.0008905337991914767
   },
+  "n_trials": 0.0,
   "prediction": 0.00283391918518701,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

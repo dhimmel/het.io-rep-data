@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.3205290032704411,
     "CbGbCtD": 0.1716506271002298,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0011694181310679384,
     "CrCrCtD": 0.08912611901687617
   },
+  "n_trials": 0.0,
   "prediction": 0.00834660974020776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

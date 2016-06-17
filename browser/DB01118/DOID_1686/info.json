@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.39401820546163896,
   "metapath_contribution": {
     "CbGbCtD": 0.7000342889270129,
     "CbGdCrCtD": 0.0020454602534356542,
     "CbGpPWpGaD": 0.045606117861853576,
     "CcSEcCtD": 0.25231413295769795
   },
+  "n_trials": 0.0,
   "prediction": 0.00162327898424532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

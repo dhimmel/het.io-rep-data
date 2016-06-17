@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.12239989005643544,
     "CbGbCtD": 0.2801215956399495,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0008560484543010272,
     "CrCrCtD": 0.2558610554556676
   },
+  "n_trials": 0.0,
   "prediction": 0.0105926705976444,
   "status": 0,
   "training_prediction": 0.0283083394606941

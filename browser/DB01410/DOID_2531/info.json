@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01410",
   "compound_name": "Ciclesonide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGaD": 0.1052716699660303,
     "CbGbCtD": 0.22137415809572528,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2622935561169104,
     "CrCtD": 0.3025038553914788
   },
+  "n_trials": 0.0,
   "prediction": 0.0106190577603438,
   "status": 0,
   "training_prediction": 0.0890177741419575

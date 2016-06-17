@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01324",
   "compound_name": "Polythiazide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGbCtD": 0.14449471716036683,
     "CbGeAlD": 0.02447964719835402,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.18298083854914038,
     "CrCtD": 0.26568694427292855
   },
+  "n_trials": 0.0,
   "prediction": 0.23772994020138302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.8624560803037866,
     "CbGeAlD": 0.023769766397053756,
     "CbGpPWpGaD": 0.1103188211578916,
     "CrCbGaD": 0.0034553321412681315
   },
+  "n_trials": 0.0,
   "prediction": 0.00235073962380864,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

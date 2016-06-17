@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
     "CbGaD": 0.18971476306559176,
     "CbGbCtD": 0.3141192448219282,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0025539098383787393,
     "CrCrCtD": 0.39982890773956076
   },
+  "n_trials": 0.0,
   "prediction": 0.0036436021628582205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

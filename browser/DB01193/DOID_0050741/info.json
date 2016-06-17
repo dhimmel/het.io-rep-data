@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01193",
   "compound_name": "Acebutolol",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.391417425227568,
   "metapath_contribution": {
     "CbGbCtD": 0.49964411656195196,
     "CbGeAlD": 0.006164721024646705,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3170311220743206,
     "CrCbGaD": 0.0031949406819890705
   },
+  "n_trials": 0.0,
   "prediction": 0.0018137228604894898,
   "status": 0,
   "training_prediction": 0.0022013339515903

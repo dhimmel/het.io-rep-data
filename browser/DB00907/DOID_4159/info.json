@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.6582542551982731,
     "CbGbCtD": 0.33765653423749853,
     "CbGeAlD": 0.0009359881274629487,
     "CrCbGaD": 0.0031532224367653724
   },
+  "n_trials": 0.0,
   "prediction": 0.0037702426439847705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

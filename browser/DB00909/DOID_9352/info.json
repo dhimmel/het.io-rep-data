@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.5061421250396625,
     "CbGbCtD": 0.16831375108744354,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11464287986172977,
     "CcSEcCtD": 0.1548443482943347
   },
+  "n_trials": 0.0,
   "prediction": 0.0049450444113447,
   "status": 0,
   "training_prediction": 0.0215045407689484

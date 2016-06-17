@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGaD": 0.4286799187862293,
     "CbGbCtD": 0.34500926963580764,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0017444241046118902,
     "CrCrCtD": 0.08270080020175154
   },
+  "n_trials": 0.0,
   "prediction": 0.00696238922583022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

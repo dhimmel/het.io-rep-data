@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGbCtD": 0.07941865181559768,
     "CbGeAlD": 0.0007902310330128224,
@@ -14,6 +16,7 @@
     "CrCtD": 0.20411676862524764,
     "CtDrD": 0.20924760373120635
   },
+  "n_trials": 0.0,
   "prediction": 0.0289163016939173,
   "status": 0,
   "training_prediction": 0.250330378942567

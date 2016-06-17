@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7639791937581271,
   "metapath_contribution": {
     "CbGbCtD": 0.316965412555291,
     "CbGeAlD": 0.036794935875241186,
     "CbGpPWpGaD": 0.19784703761482533,
     "CcSEcCtD": 0.4483926139546426
   },
+  "n_trials": 0.0,
   "prediction": 0.00292026144004793,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

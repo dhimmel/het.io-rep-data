@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.611833550065019,
   "metapath_contribution": {
     "CbGaD": 0.3210360435582556,
     "CbGbCtD": 0.4528987848575823,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12002423383308931,
     "CrCbGaD": 0.0027134999147250716
   },
+  "n_trials": 0.0,
   "prediction": 0.00302194726689542,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

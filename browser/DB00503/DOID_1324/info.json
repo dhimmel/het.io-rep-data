@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.16462831294319083,
     "CbGbCtD": 0.26233982117665494,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.4574539679669656,
     "CrCbGaD": 0.0005555870413830349
   },
+  "n_trials": 0.0,
   "prediction": 0.0107140670403934,
   "status": 0,
   "training_prediction": 0.0358192711087303

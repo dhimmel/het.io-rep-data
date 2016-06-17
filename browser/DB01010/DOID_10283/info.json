@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01010",
   "compound_name": "Edrophonium",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.512353706111834,
   "metapath_contribution": {
     "CbGaD": 0.7818690481794908,
     "CbGpPWpGaD": 0.08285016325227296,
     "CcSEcCtD": 0.13210365843343383,
     "CrCbGaD": 0.0031771301348024485
   },
+  "n_trials": 0.0,
   "prediction": 0.0023372281498433897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

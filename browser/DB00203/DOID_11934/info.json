@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.39436475373869834,
     "CbGbCtD": 0.48770304269933024,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.019656583924222298,
     "CcSEcCtD": 0.09641984947471668
   },
+  "n_trials": 0.0,
   "prediction": 0.003961768164655321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

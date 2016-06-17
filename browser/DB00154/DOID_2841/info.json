@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00154",
   "compound_name": "Dihomo-gamma-linolenic acid",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.526007802340702,
   "metapath_contribution": {
     "CbGaD": 0.40748306564554826,
     "CbGbCtD": 0.5146161375590562,
     "CbGdCrCtD": 0.0064266498758711816,
     "CbGpPWpGaD": 0.07147414691952436
   },
+  "n_trials": 0.0,
   "prediction": 0.00254433454320325,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

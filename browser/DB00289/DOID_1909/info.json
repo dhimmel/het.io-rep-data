@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.0786736020806242,
   "metapath_contribution": {
     "CbGbCtD": 0.23613683249188244,
     "CbGeAlD": 0.10471714050224391,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.28771070576736224,
     "CrCbGaD": 0.014490187821813074
   },
+  "n_trials": 0.0,
   "prediction": 0.000649113784421338,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

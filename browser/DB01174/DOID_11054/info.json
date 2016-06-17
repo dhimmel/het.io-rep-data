@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.4844794210324928,
     "CbGbCtD": 0.36077191984367196,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06888918332405392,
     "CcSEcCtD": 0.05339602215834008
   },
+  "n_trials": 0.0,
   "prediction": 0.00496499149409215,
   "status": 0,
   "training_prediction": 0.0126565057968563

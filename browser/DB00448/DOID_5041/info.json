@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.5210620863446647,
     "CbGbCtD": 0.25950798890335347,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08146868134777804,
     "CrCbGaD": 0.005003663394890162
   },
+  "n_trials": 0.0,
   "prediction": 0.00401014923619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

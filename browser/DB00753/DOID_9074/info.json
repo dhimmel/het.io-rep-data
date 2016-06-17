@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.630039011703511,
   "metapath_contribution": {
     "CbGaD": 0.33932090218155725,
     "CbGbCtD": 0.13923745123692466,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1605515520214162,
     "CrCbGaD": 0.004903083937496449
   },
+  "n_trials": 0.0,
   "prediction": 0.00226952310898463,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00933",
   "compound_name": "Mesoridazine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.0981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.36854080226206204,
     "CbGbCtD": 0.5081073301504095,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10256654040710605,
     "CrCbGaD": 0.0056533630180037805
   },
+  "n_trials": 0.0,
   "prediction": 0.000974562959126964,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

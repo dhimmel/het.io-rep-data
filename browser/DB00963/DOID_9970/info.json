@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0884265279583875,
   "metapath_contribution": {
     "CbGaD": 0.7226107603488223,
     "CbGeAlD": 0.033117928343649156,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08814827354633986,
     "CrCbGaD": 0.012481338218289622
   },
+  "n_trials": 0.0,
   "prediction": 0.000952432584346348,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

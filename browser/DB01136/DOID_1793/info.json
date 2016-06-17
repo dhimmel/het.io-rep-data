@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGaD": 0.4785305403286065,
     "CbGbCtD": 0.26542320328748087,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10926750470889622,
     "CcSEcCtD": 0.11014508349401513
   },
+  "n_trials": 0.0,
   "prediction": 0.00448974173769705,
   "status": 0,
   "training_prediction": 0.010655982734882

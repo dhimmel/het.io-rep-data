@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.30494148244473307,
   "metapath_contribution": {
-    "CbGaD": 0.3265591930047467,
-    "CbGbCtD": 0.3241042331715025,
+    "CbGaD": 0.3265591930047466,
+    "CbGbCtD": 0.32410423317150244,
     "CbGeAlD": 0.01752726077845473,
-    "CbGpPWpGaD": 0.09189725825381417,
-    "CcSEcCtD": 0.10370087592362015,
-    "CrCbGaD": 0.004009237606663982,
-    "CrCrCtD": 0.13220194126119786
+    "CbGpPWpGaD": 0.09189725825381416,
+    "CcSEcCtD": 0.10370087592362012,
+    "CrCbGaD": 0.004009237606663981,
+    "CrCrCtD": 0.13220194126119783
   },
+  "n_trials": 5.0,
   "prediction": 0.00164126348358149,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

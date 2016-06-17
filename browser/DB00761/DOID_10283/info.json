@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00761",
   "compound_name": "Potassium Chloride",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.798439531859558,
   "metapath_contribution": {
     "CbGaD": 0.6654451153738402,
     "CbGeAlD": 0.08598593758725122,
     "CbGpPWpGaD": 0.1216567442558966,
     "CcSEcCtD": 0.12691220278301188
   },
+  "n_trials": 0.0,
   "prediction": 0.00470688008593518,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

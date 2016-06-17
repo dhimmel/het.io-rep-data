@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.0864759427828349,
   "metapath_contribution": {
     "CbGbCtD": 0.6315131671191313,
     "CbGeAlD": 0.2417358890196238,
     "CbGpPWpGaD": 0.019363840132906172,
     "CcSEcCtD": 0.10738710372833872
   },
+  "n_trials": 1.0,
   "prediction": 0.0008584066175784,
   "status": 0,
   "training_prediction": 0.00174416998617966

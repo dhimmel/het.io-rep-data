@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.6638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.7492584586506328,
     "CbGeAlD": 0.020461704914862516,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14847693452825786,
     "CrCbGaD": 0.004006372957846251
   },
+  "n_trials": 0.0,
   "prediction": 0.0017649072063620301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

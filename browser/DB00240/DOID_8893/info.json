@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGbCtD": 0.17868933963007588,
     "CcSEcCtD": 0.044874313145562394,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.18695936381642317,
     "CrCtD": 0.26025303208542816
   },
+  "n_trials": 1.0,
   "prediction": 0.0819806608278313,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

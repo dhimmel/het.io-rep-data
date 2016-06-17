@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
-    "CbGbCtD": 0.3458952502929986,
-    "CbGeAlD": 0.04880214997859689,
-    "CbGpPWpGaD": 0.06186052531940966,
+    "CbGbCtD": 0.34589525029299867,
+    "CbGeAlD": 0.048802149978596894,
+    "CbGpPWpGaD": 0.061860525319409665,
     "CcSEcCtD": 0.03957304478051911,
-    "CrCbGaD": 0.0011107273864408795,
-    "CtDrD": 0.5027583022420348
+    "CrCbGaD": 0.0011107273864408797,
+    "CtDrD": 0.5027583022420349
   },
+  "n_trials": 4.0,
   "prediction": 0.00286337412886729,
   "status": 0,
   "training_prediction": 0.0126445185018794

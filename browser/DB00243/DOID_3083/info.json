@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.13979193758127403,
   "metapath_contribution": {
     "CbGbCtD": 0.702082609150872,
     "CbGpPWpGaD": 0.005669475178761229,
     "CcSEcCtD": 0.28128443802661945,
     "CrCbGaD": 0.010963477643747364
   },
+  "n_trials": 0.0,
   "prediction": 0.00120718310154916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.652795838751626,
   "metapath_contribution": {
     "CbGaD": 0.564271783239649,
     "CbGbCtD": 0.29907571355072926,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10581635438249229,
     "CrCbGaD": 0.0048463085231035645
   },
+  "n_trials": 0.0,
   "prediction": 0.00309964917076134,
   "status": 0,
   "training_prediction": 0.00939705062473844

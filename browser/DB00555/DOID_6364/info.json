@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00555",
   "compound_name": "Lamotrigine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.14872545152451758,
     "CbGbCtD": 0.1033045207007085,
@@ -13,6 +15,7 @@
     "CpDpCtD": 0.1522214565109482,
     "CtDrD": 0.22208538786024168
   },
+  "n_trials": 0.0,
   "prediction": 0.22991066679008104,
   "status": 0,
   "training_prediction": 0.353215665784479

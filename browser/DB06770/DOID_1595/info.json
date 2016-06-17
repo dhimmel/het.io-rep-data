@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.6703511053315989,
   "metapath_contribution": {
     "CbGaD": 0.8106521722440732,
     "CbGeAlD": 0.03697171518775275,
     "CbGpPWpGaD": 0.13987994831789508,
     "CrCbGaD": 0.012496164250278986
   },
+  "n_trials": 0.0,
   "prediction": 0.0018406598810721102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

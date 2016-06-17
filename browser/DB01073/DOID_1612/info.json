@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01073",
   "compound_name": "Fludarabine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.563068920676203,
   "metapath_contribution": {
     "CbGbCtD": 0.4637618007643475,
     "CbGdCrCtD": 0.002654832621099415,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.004744322555922132,
     "CrCrCtD": 0.24619214015067103
   },
+  "n_trials": 0.0,
   "prediction": 0.00268838619511422,
   "status": 0,
   "training_prediction": 0.0243841556580675

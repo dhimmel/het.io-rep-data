@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.35110533159948,
   "metapath_contribution": {
     "CbGaD": 0.27695752367200105,
     "CbGbCtD": 0.45148403376954915,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.20621242793652148,
     "CrCbGaD": 0.0006964332825923847
   },
+  "n_trials": 0.0,
   "prediction": 0.00268818842936817,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

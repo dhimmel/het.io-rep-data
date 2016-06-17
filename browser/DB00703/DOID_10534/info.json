@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.7046111201910966,
     "CbGbCtD": 0.018298271701261908,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10276724927576672,
     "CrCbGaD": 0.006470040085626692
   },
+  "n_trials": 0.0,
   "prediction": 0.00431480114227145,
   "status": 0,
   "training_prediction": 0.00947635284273955

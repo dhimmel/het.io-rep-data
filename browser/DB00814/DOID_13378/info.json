@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGbCtD": 0.11852149156476909,
     "CbGeAlD": 0.0024091033199295816,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.23622171854073126,
     "CrCrCtD": 0.22803389336243496
   },
+  "n_trials": 0.0,
   "prediction": 0.0495516258051304,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

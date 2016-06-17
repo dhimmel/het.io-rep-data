@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.31280866711944655,
     "CbGeAlD": 0.024426134806975256,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.001343957605832398,
     "CtDrD": 0.5860765439566019
   },
+  "n_trials": 0.0,
   "prediction": 0.0043537179264736,
   "status": 0,
   "training_prediction": 0.00196589799846452

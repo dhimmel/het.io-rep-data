@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.28289060887421563,
     "CbGbCtD": 0.2789424513699855,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.33151207480962924,
     "CrCbGaD": 0.0010377923045328872
   },
+  "n_trials": 0.0,
   "prediction": 0.00489569039239694,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.598179453836151,
   "metapath_contribution": {
     "CbGbCtD": 0.710960583869037,
     "CbGeAlD": 0.09546733755919487,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1503182251772122,
     "CrCbGaD": 0.000769990104028868
   },
+  "n_trials": 0.0,
   "prediction": 0.00216352033581665,
   "status": 0,
   "training_prediction": 0.00628916547836667

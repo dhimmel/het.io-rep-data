@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06262",
   "compound_name": "Droxidopa",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.255526657997399,
   "metapath_contribution": {
     "CbGaD": 0.37906344370975054,
     "CbGbCtD": 0.3701276224650779,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09839363742813831,
     "CrCbGaD": 0.004526537468584047
   },
+  "n_trials": 0.0,
   "prediction": 0.00143862219491331,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

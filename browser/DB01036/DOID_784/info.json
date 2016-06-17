@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.591677503250975,
   "metapath_contribution": {
     "CbGaD": 0.802120555723679,
     "CbGeAlD": 0.05728798945224699,
     "CbGpPWpGaD": 0.13279324047952526,
     "CrCbGaD": 0.007798214344548843
   },
+  "n_trials": 0.0,
   "prediction": 0.0017842125110094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

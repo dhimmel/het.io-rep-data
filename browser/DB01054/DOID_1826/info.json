@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7197659297789342,
   "metapath_contribution": {
     "CbGaD": 0.431021632912746,
     "CbGbCtD": 0.4590842357530649,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08907575299736706,
     "CrCbGaD": 0.003958173955394132
   },
+  "n_trials": 0.0,
   "prediction": 0.00606782955412804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

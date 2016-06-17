@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.37256176853055895,
   "metapath_contribution": {
     "CbGbCtD": 0.9330315029231331,
     "CbGeAlD": 0.01257082916741683,
     "CbGpPWpGaD": 0.05304262458301958,
     "CrCbGaD": 0.001355043326430538
   },
+  "n_trials": 0.0,
   "prediction": 0.0014633257502046,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

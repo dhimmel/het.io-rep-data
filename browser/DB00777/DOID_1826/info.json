@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00777",
   "compound_name": "Propiomazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.425227568270481,
   "metapath_contribution": {
     "CbGaD": 0.42977258473158003,
     "CbGeAlD": 0.050373425022504074,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004132390181146802,
     "CrCrCtD": 0.4064158422850165
   },
+  "n_trials": 0.0,
   "prediction": 0.00280856197112108,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

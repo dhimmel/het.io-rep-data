@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00774",
   "compound_name": "Hydroflumethiazide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGbCtD": 0.17958720381809617,
     "CbGeAlD": 0.021409446397369823,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.1689078803760983,
     "CrCtD": 0.2595341467669243
   },
+  "n_trials": 0.0,
   "prediction": 0.278237153932211,
   "status": 0,
   "training_prediction": 0.147959027229108

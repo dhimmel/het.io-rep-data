@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
-    "CbGaD": 0.5925766107795369,
-    "CbGbCtD": 0.11310270490508986,
-    "CbGdCrCtD": 0.00417703394990783,
-    "CbGeAlD": 0.10647366584327239,
-    "CbGpPWpGaD": 0.14058696292665784,
-    "CcSEcCtD": 0.0430830215955351
+    "CbGaD": 0.592576610779537,
+    "CbGbCtD": 0.11310270490508989,
+    "CbGdCrCtD": 0.0041770339499078305,
+    "CbGeAlD": 0.10647366584327242,
+    "CbGpPWpGaD": 0.14058696292665787,
+    "CcSEcCtD": 0.043083021595535106
   },
+  "n_trials": 1.0,
   "prediction": 0.0025199714448998303,
   "status": 0,
   "training_prediction": 0.008437495711642541

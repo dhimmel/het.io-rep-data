@@ -1,17 +1,19 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.717815344603381,
   "metapath_contribution": {
-    "CbGaD": 0.1785637863860955,
-    "CbGbCtD": 0.3635637238282274,
-    "CbGeAlD": 0.10582420204514108,
-    "CbGpPWpGaD": 0.12959498479375595,
-    "CcSEcCtD": 0.2200090061447282,
-    "CrCbGaD": 0.0024442968020520154
+    "CbGaD": 0.17856378638609544,
+    "CbGbCtD": 0.36356372382822727,
+    "CbGeAlD": 0.10582420204514105,
+    "CbGpPWpGaD": 0.12959498479375592,
+    "CcSEcCtD": 0.22000900614472818,
+    "CrCbGaD": 0.002444296802052015
   },
+  "n_trials": 0.0,
   "prediction": 0.00402103383294599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

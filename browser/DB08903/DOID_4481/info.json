@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08903",
   "compound_name": "Bedaquiline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGbCtD": 0.15315942335754112,
     "CcSEcCtD": 0.0353096162390621,
     "CrCrCtD": 0.3024341216947536,
     "CrCtD": 0.5090968387086432
   },
+  "n_trials": 0.0,
   "prediction": 0.00888580319676599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

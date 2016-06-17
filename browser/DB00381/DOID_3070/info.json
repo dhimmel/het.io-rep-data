@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.314044213263979,
   "metapath_contribution": {
     "CbGaD": 0.5600556107685088,
     "CbGbCtD": 0.1261626383907602,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11461932668479875,
     "CrCbGaD": 0.0021941418444128787
   },
+  "n_trials": 0.0,
   "prediction": 0.00109187333605439,
   "status": 0,
   "training_prediction": 0.0008051883951346571

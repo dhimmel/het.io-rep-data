@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.33400230288294624,
     "CbGbCtD": 0.4097779218494249,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10403577683490563,
     "CrCbGaD": 0.0022050220952135225
   },
+  "n_trials": 3.0,
   "prediction": 0.0037694492976814,
   "status": 0,
   "training_prediction": 0.0159539267549792

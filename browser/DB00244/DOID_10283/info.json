@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.17100130039011702,
   "metapath_contribution": {
     "CbGaD": 0.462511165989393,
     "CbGdCrCtD": 0.0020039468120873595,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.27610973114266985,
     "CrCbGaD": 0.003715020849528128
   },
+  "n_trials": 0.0,
   "prediction": 0.00112337303100449,
   "status": 0,
   "training_prediction": 0.007934544115629941

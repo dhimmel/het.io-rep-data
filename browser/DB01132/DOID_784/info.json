@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.652795838751626,
   "metapath_contribution": {
-    "CbGaD": 0.7745668568342209,
-    "CbGeAlD": 0.06085280230060707,
-    "CbGpPWpGaD": 0.16007053595097934,
-    "CrCbGaD": 0.004509804914192571
+    "CbGaD": 0.774566856834221,
+    "CbGeAlD": 0.06085280230060708,
+    "CbGpPWpGaD": 0.16007053595097936,
+    "CrCbGaD": 0.0045098049141925715
   },
+  "n_trials": 3.0,
   "prediction": 0.0019442152808828,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

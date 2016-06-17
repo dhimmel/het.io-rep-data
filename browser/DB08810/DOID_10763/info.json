@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08810",
   "compound_name": "Cinitapride",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.666449934980494,
   "metapath_contribution": {
     "CbGaD": 0.31521025345350956,
     "CbGbCtD": 0.4499434741720367,
     "CbGeAlD": 0.060370377320433787,
     "CbGpPWpGaD": 0.17447589505402
   },
+  "n_trials": 0.0,
   "prediction": 0.00608855217913382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

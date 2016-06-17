@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.6590012823404782,
     "CbGbCtD": 0.17732984129958015,
     "CbGeAlD": 0.035430371365209816,
     "CbGpPWpGaD": 0.12823850499473183
   },
+  "n_trials": 0.0,
   "prediction": 0.00371154880085331,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

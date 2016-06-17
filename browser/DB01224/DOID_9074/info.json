@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.271131339401821,
   "metapath_contribution": {
     "CbGbCtD": 0.5692298468471191,
     "CbGeAlD": 0.0927066264388237,
     "CbGpPWpGaD": 0.05993726101712723,
     "CcSEcCtD": 0.27812626569693005
   },
+  "n_trials": 0.0,
   "prediction": 0.00129652853227133,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

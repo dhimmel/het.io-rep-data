@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01062",
   "compound_name": "Oxybutynin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.5741222366710009,
   "metapath_contribution": {
     "CbGbCtD": 0.6587578235494468,
     "CbGeAlD": 0.024469362035878486,
     "CbGpPWpGaD": 0.01982278117200919,
     "CcSEcCtD": 0.2969500332426656
   },
+  "n_trials": 0.0,
   "prediction": 0.0020289060030287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

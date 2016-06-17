@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGbCtD": 0.20473887693705173,
     "CbGeAlD": 0.0030657729699467154,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.1834517750686114,
     "CrCtD": 0.3306132525036039
   },
+  "n_trials": 0.0,
   "prediction": 0.0287613844042693,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

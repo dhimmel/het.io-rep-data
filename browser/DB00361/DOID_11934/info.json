@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.1945471278273398,
     "CbGeAlD": 0.00537839443541249,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.16419967484470338,
     "CrCtD": 0.26338363991213903
   },
+  "n_trials": 1.0,
   "prediction": 0.0685356387521292,
   "status": 0,
   "training_prediction": 0.20265966075482603

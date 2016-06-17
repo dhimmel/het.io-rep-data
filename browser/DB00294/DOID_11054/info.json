@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00294",
   "compound_name": "Etonogestrel",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.22561768530559198,
   "metapath_contribution": {
     "CbGaD": 0.730157175776451,
     "CbGeAlD": 0.02470931990172782,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17635637080056388,
     "CrCbGaD": 0.006342670149772748
   },
+  "n_trials": 0.0,
   "prediction": 0.00101446180253965,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

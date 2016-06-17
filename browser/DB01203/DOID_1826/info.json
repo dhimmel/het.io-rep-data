@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01203",
   "compound_name": "Nadolol",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.212613784135241,
   "metapath_contribution": {
     "CbGaD": 0.23501403327203965,
     "CbGbCtD": 0.34476789732836066,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2985592122393534,
     "CrCbGaD": 0.00015202078517903195
   },
+  "n_trials": 0.0,
   "prediction": 0.00178941211119582,
   "status": 0,
   "training_prediction": 0.00872448449940887

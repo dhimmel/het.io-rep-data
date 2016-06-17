@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.0735294117647059,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.00910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.4889819308634888,
     "CbGeAlD": 0.18154426743317334,
     "CbGpPWpGaD": 0.320391863616437,
     "CrCbGaD": 0.0090819380869008
   },
+  "n_trials": 0.0,
   "prediction": 0.000346458801473658,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

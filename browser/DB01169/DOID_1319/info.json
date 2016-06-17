@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.4826484859086346,
     "CbGbCtD": 0.30933154582794015,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.06368921354389113,
     "CbGpPWpGaD": 0.14253312096474408
   },
+  "n_trials": 0.0,
   "prediction": 0.00840800806261571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

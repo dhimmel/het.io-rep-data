@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.569570871261378,
   "metapath_contribution": {
     "CbGbCtD": 0.7701182821468201,
     "CbGeAlD": 0.029789881112863056,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13585286788881057,
     "CrCbGaD": 0.0020218183321744874
   },
+  "n_trials": 0.0,
   "prediction": 0.0027530975633578898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

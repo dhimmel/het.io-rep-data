@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00489",
   "compound_name": "Sotalol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6358907672301689,
   "metapath_contribution": {
     "CbGaD": 0.4706219695908249,
     "CbGbCtD": 0.33992467462852405,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12540586827674047,
     "CrCbGaD": 0.005083258079816461
   },
+  "n_trials": 0.0,
   "prediction": 0.00326252198090905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

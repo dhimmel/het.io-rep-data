@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.886542108841041,
     "CbGeAlD": 0.01729106834114018,
     "CbGpPWpGaD": 0.08550064627424252,
     "CrCbGaD": 0.010666176543576236
   },
+  "n_trials": 0.0,
   "prediction": 0.00181659102531875,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGaD": 0.7893854840288739,
     "CbGeAlD": 0.04611449418121668,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1061926252397105,
     "CrCbGaD": 0.004966953149485207
   },
+  "n_trials": 0.0,
   "prediction": 0.0017128532827450302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

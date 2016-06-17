@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.7722350083250366,
     "CbGeAlD": 0.07370382425631065,
     "CbGpPWpGaD": 0.1540611674186529
   },
+  "n_trials": 3.0,
   "prediction": 0.0060515414763735705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

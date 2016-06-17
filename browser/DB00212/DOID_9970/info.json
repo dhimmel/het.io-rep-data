@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00212",
   "compound_name": "Remikiren",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
-    "CbGeAlD": 0.4819890471589751,
+    "CbGeAlD": 0.48198904715897517,
     "CbGpPWpGaD": 0.509808733417792,
     "CrCbGaD": 0.008202219423232857
   },
+  "n_trials": 0.0,
   "prediction": 0.0022065305035358,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

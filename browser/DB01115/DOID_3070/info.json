@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.25942782834850503,
   "metapath_contribution": {
     "CbGaD": 0.5203018616520243,
     "CbGbCtD": 0.10480119747504303,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11390281527310644,
     "CrCbGaD": 0.002118711192036824
   },
+  "n_trials": 0.0,
   "prediction": 0.00100088705315317,
   "status": 0,
   "training_prediction": 0.000738074042261356

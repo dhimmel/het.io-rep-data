@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
     "CbGaD": 0.3142899406824946,
     "CbGbCtD": 0.4764915998084129,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11353837018370962,
     "CrCbGaD": 0.0013477324435401574
   },
+  "n_trials": 0.0,
   "prediction": 0.00324869977791071,
   "status": 0,
   "training_prediction": 0.0384729628640023

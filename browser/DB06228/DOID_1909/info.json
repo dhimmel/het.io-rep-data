@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06228",
   "compound_name": "Rivaroxaban",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.427550222468097,
     "CbGbCtD": 0.3617692534638705,
     "CbGpPWpGaD": 0.0508341446692234,
     "CcSEcCtD": 0.1598463793988091
   },
+  "n_trials": 0.0,
   "prediction": 0.00230426356093715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

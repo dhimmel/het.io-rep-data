@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01567",
   "compound_name": "Fludiazepam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.849804941482445,
   "metapath_contribution": {
     "CbGaD": 0.8789878136818277,
     "CbGeAlD": 0.010372476344774404,
     "CbGpPWpGaD": 0.10155816739680991,
     "CrCbGaD": 0.009081542576588005
   },
+  "n_trials": 0.0,
   "prediction": 0.00235848858146269,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

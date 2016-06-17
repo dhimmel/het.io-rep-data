@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00356",
   "compound_name": "Chlorzoxazone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.440176227204494,
     "CbGbCtD": 0.39095891358052526,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10742175249238128,
     "CcSEcCtD": 0.04071359598205694
   },
+  "n_trials": 0.0,
   "prediction": 0.00654559425847515,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.6892067620286091,
   "metapath_contribution": {
     "CbGaD": 0.46423856874704084,
     "CbGbCtD": 0.4269005861720448,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05919904931236079,
     "CcSEcCtD": 0.036173987667871256
   },
+  "n_trials": 0.0,
   "prediction": 0.0018775535333667602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

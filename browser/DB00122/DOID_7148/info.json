@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.3067038091544831,
     "CbGeAlD": 0.04382126172299619,
@@ -12,6 +14,5 @@
     "CrCbGaD": 0.002523402672087935
   },
   "prediction": 0.00412582865404024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

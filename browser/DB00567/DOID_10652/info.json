@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.386215864759428,
   "metapath_contribution": {
     "CbGaD": 0.330417007445592,
     "CbGbCtD": 0.40333676304349575,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17711968138362696,
     "CrCbGaD": 0.0024307607459084185
   },
+  "n_trials": 0.0,
   "prediction": 0.00151742825231294,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

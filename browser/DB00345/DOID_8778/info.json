@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.21269074353506065,
     "CbGbCtD": 0.08869901509773687,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2425568216146384,
     "CrCtD": 0.4289668612022256
   },
+  "n_trials": 0.0,
   "prediction": 0.0248548345947099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

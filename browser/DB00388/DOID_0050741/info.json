@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00388",
   "compound_name": "Phenylephrine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.5525838900781769,
     "CbGbCtD": 0.2259304545566548,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08442744803440133,
     "CrCbGaD": 0.00502445140658623
   },
+  "n_trials": 0.0,
   "prediction": 0.00398268969031127,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

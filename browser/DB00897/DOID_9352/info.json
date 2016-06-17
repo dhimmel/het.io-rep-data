@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00897",
   "compound_name": "Triazolam",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.49024707412223706,
   "metapath_contribution": {
     "CbGaD": 0.12171745771620256,
     "CbGbCtD": 0.5481878151320696,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18231166562075454,
     "CrCbGaD": 0.002555581696486246
   },
+  "n_trials": 0.0,
   "prediction": 0.00247782878516964,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

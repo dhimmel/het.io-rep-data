@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.3780590307088347,
     "CbGbCtD": 0.3263572935633236,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.07696425538254359,
     "CcSEcCtD": 0.17206851089994252
   },
+  "n_trials": 0.0,
   "prediction": 0.00594509944969966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

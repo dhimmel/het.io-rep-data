@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.04818864437982107,
     "CbGbCtD": 0.20747361539283268,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.47028718909666506,
     "CtDrD": 0.19798424456456853
   },
+  "n_trials": 1.0,
   "prediction": 0.0127464944351131,
   "status": 0,
   "training_prediction": 0.173460410170214

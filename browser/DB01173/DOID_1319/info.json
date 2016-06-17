@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.0559167750325098,
   "metapath_contribution": {
     "CbGbCtD": 0.29721874469839715,
     "CbGeAlD": 0.45009341260634617,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18340709250173576,
     "CrCbGaD": 0.026313442364038576
   },
+  "n_trials": 0.0,
   "prediction": 0.000703294653216791,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

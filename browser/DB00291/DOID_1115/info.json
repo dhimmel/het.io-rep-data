@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00291",
   "compound_name": "Chlorambucil",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGbCtD": 0.12327069789338123,
     "CbGeAlD": 0.002192946076537692,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.5645383970300517,
     "CtDrD": 0.2643137413656021
   },
+  "n_trials": 0.0,
   "prediction": 0.0200991158729572,
   "status": 0,
   "training_prediction": 0.105489238662024

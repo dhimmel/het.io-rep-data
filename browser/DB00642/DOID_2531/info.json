@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.1254409855643118,
     "CbGbCtD": 0.18171950045393112,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.11891677014404105,
     "CrCtD": 0.18086194840519895
   },
+  "n_trials": 0.0,
   "prediction": 0.0769365898041171,
   "status": 0,
   "training_prediction": 0.43144094672922606

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.5994798439531861,
   "metapath_contribution": {
     "CbGaD": 0.2684567580704202,
     "CbGbCtD": 0.14091090432683878,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0027510645136965806,
     "CrCrCtD": 0.38874799103150226
   },
+  "n_trials": 0.0,
   "prediction": 0.0028674366916333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

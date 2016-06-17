@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00614",
   "compound_name": "Furazolidone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.73146944083225,
   "metapath_contribution": {
-    "CbGaD": 0.8634015533853219,
-    "CbGeAlD": 0.037148187206347126,
-    "CbGpPWpGaD": 0.09735309502549307,
-    "CrCbGaD": 0.0020971643828378897
+    "CbGaD": 0.863401553385322,
+    "CbGeAlD": 0.03714818720634713,
+    "CbGpPWpGaD": 0.09735309502549308,
+    "CrCbGaD": 0.00209716438283789
   },
+  "n_trials": 0.0,
   "prediction": 0.00267205618846849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

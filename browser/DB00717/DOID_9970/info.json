@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.14109232769830898,
   "metapath_contribution": {
     "CbGaD": 0.42822090643179955,
     "CbGbCtD": 0.32201087382368426,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13349354083454618,
     "CrCbGaD": 0.00724345784181034
   },
+  "n_trials": 0.0,
   "prediction": 0.0011517296613205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

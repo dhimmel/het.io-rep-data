@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00555",
   "compound_name": "Lamotrigine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.607282184655397,
   "metapath_contribution": {
     "CbGaD": 0.42250700497827687,
     "CbGbCtD": 0.13802086288738333,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.048514880703446034,
     "CcSEcCtD": 0.360471592233871
   },
+  "n_trials": 1.0,
   "prediction": 0.0020131123809936802,
   "status": 0,
   "training_prediction": 0.00550501435557645

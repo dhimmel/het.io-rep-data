@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00842",
   "compound_name": "Oxazepam",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.30234070221066306,
   "metapath_contribution": {
     "CbGbCtD": 0.05918835354718055,
     "CbGeAlD": 0.41597441086369175,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.42788112089740404,
     "CrCbGaD": 0.010759331105617708
   },
+  "n_trials": 0.0,
   "prediction": 0.0011865477072604302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

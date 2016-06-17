@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01348",
   "compound_name": "Spirapril",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.831599479843953,
   "metapath_contribution": {
     "CbGaD": 0.4107097504200713,
     "CbGeAlD": 0.028034950787455718,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004783845667978939,
     "CrCrCtD": 0.5499417078688212
   },
+  "n_trials": 0.0,
   "prediction": 0.0036526170513774205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

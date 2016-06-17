@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:8850",
   "disease_name": "salivary gland cancer",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGeAlD": 0.0065611716087873116,
     "CbGpPWpGaD": 0.02973237637819475,
     "CtDrD": 0.963706452013018
   },
+  "n_trials": 3.0,
   "prediction": 0.0027632660950657,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

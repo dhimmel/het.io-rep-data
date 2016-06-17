@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00943",
   "compound_name": "Zalcitabine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.578673602080624,
   "metapath_contribution": {
     "CbGbCtD": 0.8542667824016164,
     "CbGdCrCtD": 0.001425693330481021,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1354720918437683,
     "CrCbGaD": 0.0056967943545645945
   },
+  "n_trials": 0.0,
   "prediction": 0.0017356956648126901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

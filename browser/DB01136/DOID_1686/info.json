@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.17808979186674428,
     "CbGbCtD": 0.37822888180419506,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0014100734893604115,
     "CrCrCtD": 0.2709665585088478
   },
+  "n_trials": 0.0,
   "prediction": 0.0125535211135809,
   "status": 0,
   "training_prediction": 0.0513509918250531

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00353",
   "compound_name": "Methylergometrine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.5936280884265279,
   "metapath_contribution": {
     "CbGbCtD": 0.13461217289715596,
     "CbGeAlD": 0.00796914774408237,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.7489169737649786,
     "CrCbGaD": 0.0009730394520578912
   },
+  "n_trials": 0.0,
   "prediction": 0.00236379949778022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

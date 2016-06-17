@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00671",
   "compound_name": "Cefixime",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.366710013003901,
   "metapath_contribution": {
     "CbGbCtD": 0.8063430819085285,
     "CbGpPWpGaD": 0.0003714799593250043,
     "CcSEcCtD": 0.1927396720590058,
     "CrCbGaD": 0.0005457660731405352
   },
+  "n_trials": 0.0,
   "prediction": 0.0018462202130365,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.5988296488946679,
   "metapath_contribution": {
     "CbGbCtD": 0.760819998550084,
     "CcSEcCtD": 0.2314434535154816,
     "CrCbGaD": 0.007736547934434549
   },
+  "n_trials": 0.0,
   "prediction": 0.00194834522963235,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

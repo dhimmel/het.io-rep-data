@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01094",
   "compound_name": "Hesperetin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.3699398465610734,
     "CbGbCtD": 0.5522515927923016,
     "CbGeAlD": 0.0035751636954696876,
     "CbGpPWpGaD": 0.0742333969511553
   },
+  "n_trials": 0.0,
   "prediction": 0.00640436202933914,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

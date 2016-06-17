@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.43628088426528,
   "metapath_contribution": {
     "CbGaD": 0.7017187546066248,
     "CbGeAlD": 0.10355703306635215,
     "CbGpPWpGaD": 0.18235271342585654,
     "CrCbGaD": 0.01237149890116647
   },
+  "n_trials": 0.0,
   "prediction": 0.0012782225775291199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

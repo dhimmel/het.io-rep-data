@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGbCtD": 0.5567233992933373,
     "CbGdCrCtD": 0.0063281011302655146,
     "CbGeAlD": 0.1634900799419581,
     "CbGpPWpGaD": 0.2734584196344391
   },
+  "n_trials": 0.0,
   "prediction": 0.003035292515415,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

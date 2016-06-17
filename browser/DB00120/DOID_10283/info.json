@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00120",
   "compound_name": "L-Phenylalanine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.291937581274382,
   "metapath_contribution": {
     "CbGaD": 0.6980399715517938,
     "CbGeAlD": 0.10960503166294201,
     "CbGpPWpGaD": 0.18671267939906896,
     "CrCbGaD": 0.005642317386195305
   },
+  "n_trials": 0.0,
   "prediction": 0.00151399355565568,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
     "CbGaD": 0.6501132826856187,
     "CbGeAlD": 0.08247043689695314,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0685342095427136,
     "CrCbGaD": 0.007219976767410137
   },
+  "n_trials": 0.0,
   "prediction": 0.0014203805430158599,
   "status": 0,
   "training_prediction": 0.0010682961533747199

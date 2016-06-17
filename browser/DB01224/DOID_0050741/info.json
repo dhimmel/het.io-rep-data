@@ -1,18 +1,20 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
-    "CbGaD": 0.3249231094997577,
-    "CbGbCtD": 0.18476651829401358,
-    "CbGeAlD": 0.0348058170285161,
-    "CbGpPWpGaD": 0.0727845530254502,
-    "CcSEcCtD": 0.09635649039596048,
+    "CbGaD": 0.3249231094997578,
+    "CbGbCtD": 0.1847665182940136,
+    "CbGeAlD": 0.03480581702851611,
+    "CbGpPWpGaD": 0.07278455302545021,
+    "CcSEcCtD": 0.0963564903959605,
     "CpDpCtD": 0.2833923086285322,
-    "CrCbGaD": 0.002971203127769632
+    "CrCbGaD": 0.0029712031277696325
   },
+  "n_trials": 0.0,
   "prediction": 0.0126207008252357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

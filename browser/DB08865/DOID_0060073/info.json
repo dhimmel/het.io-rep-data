@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.8754936665658601,
     "CbGbCtD": 0.006212929413962282,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.00037909017653193903,
     "CcSEcCtD": 0.11366661526076259
   },
+  "n_trials": 5.0,
   "prediction": 0.0037872890214010204,
   "status": 0,
   "training_prediction": 0.00832308281146818

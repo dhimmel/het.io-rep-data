@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04552",
   "compound_name": "Niflumic Acid",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8361508452535759,
   "metapath_contribution": {
     "CbGaD": 0.5000350849257907,
     "CbGbCtD": 0.3922667636880327,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.013078299201434026,
     "CrCbGaD": 0.0026436384309240337
   },
+  "n_trials": 0.0,
   "prediction": 0.00254917605991233,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

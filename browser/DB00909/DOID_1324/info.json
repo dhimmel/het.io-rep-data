@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGbCtD": 0.07535656639098724,
     "CbGeAlD": 0.04030858364242335,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11953599758853581,
     "CiPCiCtD": 0.671247131385596
   },
+  "n_trials": 0.0,
   "prediction": 0.0048860267500511,
   "status": 0,
   "training_prediction": 0.0165636124461149

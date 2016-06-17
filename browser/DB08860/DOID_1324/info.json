@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7418725617685309,
   "metapath_contribution": {
     "CbGaD": 0.3218837963311244,
     "CbGbCtD": 0.5058069310567561,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07458424050400972,
     "CrCbGaD": 0.0037652163758513293
   },
+  "n_trials": 0.0,
   "prediction": 0.00280884837028275,
   "status": 0,
   "training_prediction": 0.00956972717713915

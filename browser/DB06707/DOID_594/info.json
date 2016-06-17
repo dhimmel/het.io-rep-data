@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06707",
   "compound_name": "Levonordefrin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.8328641244829411,
     "CbGeAlD": 0.046936423070061004,
     "CbGpPWpGaD": 0.11197911142223088,
     "CrCbGaD": 0.00822034102476697
   },
+  "n_trials": 0.0,
   "prediction": 0.00300704081392661,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

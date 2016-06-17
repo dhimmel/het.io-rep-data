@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00967",
   "compound_name": "Desloratadine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.2545590137746448,
     "CbGbCtD": 0.540334150112645,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15652226881392448,
     "CrCbGaD": 0.0015725448745028733
   },
+  "n_trials": 0.0,
   "prediction": 0.0036611331025642705,
   "status": 0,
   "training_prediction": 0.0159902797898175

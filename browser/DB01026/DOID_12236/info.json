@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGbCtD": 0.2416756588798661,
     "CbGeAlD": 0.03966390146763797,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.051249732099066025,
     "CiPCiCtD": 0.6248086417596814
   },
+  "n_trials": 0.0,
   "prediction": 0.00699438012357619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

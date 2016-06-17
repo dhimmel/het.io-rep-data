@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.37798344672507894,
     "CbGbCtD": 0.2067689527049896,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.16566662416942707,
     "CcSEcCtD": 0.17314260784667113
   },
+  "n_trials": 0.0,
   "prediction": 0.00307529860836453,
   "status": 0,
   "training_prediction": 0.0214669305428563

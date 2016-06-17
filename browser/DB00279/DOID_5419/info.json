@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.284785435630689,
   "metapath_contribution": {
     "CbGaD": 0.4262510337638499,
     "CbGeAlD": 0.2786085752830236,
     "CbGpPWpGaD": 0.2805559823261639,
     "CrCbGaD": 0.014584408626962725
   },
+  "n_trials": 0.0,
   "prediction": 0.00113464916618213,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:14268",
   "disease_name": "sclerosing cholangitis",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.9329610117080132,
     "CbGeAlD": 0.006479803294463057,
     "CbGpPWpGaD": 0.06055918499752373
   },
+  "n_trials": 0.0,
   "prediction": 0.00251535836755587,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00411",
   "compound_name": "Carbachol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.6268559230928872,
     "CbGbCtD": 0.18133759390133722,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08529148683620949,
     "CrCbGaD": 0.005399029215717358
   },
+  "n_trials": 0.0,
   "prediction": 0.00458911348874268,
   "status": 0,
   "training_prediction": 0.00556654620939436

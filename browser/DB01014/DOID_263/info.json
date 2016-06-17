@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.323146944083225,
   "metapath_contribution": {
     "CbGaD": 0.8896122601790533,
     "CbGdCrCtD": 0.004765694642486567,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0884724950514299,
     "CrCbGaD": 0.007429864682406395
   },
+  "n_trials": 0.0,
   "prediction": 0.0012998882815577698,
   "status": 0,
   "training_prediction": 0.006301305063553001

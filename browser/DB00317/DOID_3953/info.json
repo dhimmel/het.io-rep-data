@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.33401505011202415,
     "CbGeAlD": 0.04545141414417484,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003742646954140709,
     "CtDrD": 0.5537074588714628
   },
+  "n_trials": 1.0,
   "prediction": 0.00319144473713431,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

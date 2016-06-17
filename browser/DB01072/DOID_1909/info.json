@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01072",
   "compound_name": "Atazanavir",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGaD": 0.2286838418872988,
     "CbGbCtD": 0.627018463241998,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12723877185366794,
     "CrCbGaD": 0.0013694844567588831
   },
+  "n_trials": 0.0,
   "prediction": 0.00173109126740766,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

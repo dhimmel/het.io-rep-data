@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1964",
   "disease_name": "fallopian tube cancer",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGeAlD": 0.027425986863697512,
     "CtDrD": 0.9725740131363024
   },
+  "n_trials": 22.0,
   "prediction": 0.0036497414148114297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

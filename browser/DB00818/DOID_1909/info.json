@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.4303865144457365,
     "CbGbCtD": 0.3843892285565698,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07533288867862721,
     "CrCbGaD": 0.0006587580343187231
   },
+  "n_trials": 0.0,
   "prediction": 0.004219668190509,
   "status": 0,
   "training_prediction": 0.00769172630053792

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01321",
   "compound_name": "Josamycin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.46749024707412196,
   "metapath_contribution": {
     "CbGaD": 0.3979722127769226,
     "CbGbCtD": 0.5630100226373803,
     "CbGpPWpGaD": 0.03223300487856981,
     "CrCbGaD": 0.006784759707127236
   },
+  "n_trials": 0.0,
   "prediction": 0.00217468364237848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

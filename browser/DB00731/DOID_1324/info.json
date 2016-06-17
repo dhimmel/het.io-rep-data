@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.407672301690507,
   "metapath_contribution": {
     "CbGaD": 0.13118577333906314,
     "CbGbCtD": 0.6232888090149055,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1050455244652334,
     "CrCbGaD": 0.0011256730953059166
   },
+  "n_trials": 0.0,
   "prediction": 0.00155082750575779,
   "status": 0,
   "training_prediction": 0.00529975180398529

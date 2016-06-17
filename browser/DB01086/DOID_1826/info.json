@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.3372564353445445,
     "CbGbCtD": 0.4046533799980076,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0021742034255043522,
     "CrCrCtD": 0.12815344967735992
   },
+  "n_trials": 0.0,
   "prediction": 0.019695470417753002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

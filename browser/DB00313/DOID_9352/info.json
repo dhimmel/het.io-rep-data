@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.1766064584872368,
     "CbGbCtD": 0.5194641022251039,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10587927036482618,
     "CcSEcCtD": 0.14811391080133135
   },
+  "n_trials": 0.0,
   "prediction": 0.00524782601413007,
   "status": 0,
   "training_prediction": 0.0374797012410811

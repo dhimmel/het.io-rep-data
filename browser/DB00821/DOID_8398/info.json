@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.9637521746863044,
     "CbGeAlD": 0.012588916503475834,
     "CbGpPWpGaD": 0.014801752647387534,
     "CrCbGaD": 0.008857156162832324
   },
+  "n_trials": 0.0,
   "prediction": 0.0022369455441165,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.835500650195058,
   "metapath_contribution": {
-    "CbGaD": 0.4267823397533991,
-    "CbGeAlD": 0.030538955026056542,
-    "CbGpPWpGaD": 0.034799809052099805,
-    "CcSEcCtD": 0.09697086174539843,
-    "CrCbGaD": 0.003139941645279266,
-    "CrCrCtD": 0.407768092777767
+    "CbGaD": 0.426782339753399,
+    "CbGeAlD": 0.030538955026056535,
+    "CbGpPWpGaD": 0.0347998090520998,
+    "CcSEcCtD": 0.09697086174539842,
+    "CrCbGaD": 0.0031399416452792656,
+    "CrCrCtD": 0.40776809277776693
   },
+  "n_trials": 0.0,
   "prediction": 0.0036887926450790897,
   "status": 0,
   "training_prediction": 0.00447532867200113

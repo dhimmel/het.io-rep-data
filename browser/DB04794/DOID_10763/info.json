@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04794",
   "compound_name": "Bifonazole",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5858257477243171,
   "metapath_contribution": {
     "CbGaD": 0.35209256451759746,
     "CbGbCtD": 0.3157938143032511,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0031272997843320976,
     "CrCrCtD": 0.18375894924355943
   },
+  "n_trials": 0.0,
   "prediction": 0.0047841796263142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

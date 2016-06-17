@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.59297789336801,
   "metapath_contribution": {
     "CbGaD": 0.6186632980321822,
     "CbGbCtD": 0.11106626274816671,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08849909921119628,
     "CrCbGaD": 0.0094535010538642
   },
+  "n_trials": 0.0,
   "prediction": 0.0018535013671081102,
   "status": 0,
   "training_prediction": 0.0018284331246714

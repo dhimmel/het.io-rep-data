@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8166449934980491,
   "metapath_contribution": {
     "CbGaD": 0.27005558068916,
     "CbGbCtD": 0.3284141048086751,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.27661144120033426,
     "CrCbGaD": 0.0021088639370866473
   },
+  "n_trials": 0.0,
   "prediction": 0.0106053400177755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

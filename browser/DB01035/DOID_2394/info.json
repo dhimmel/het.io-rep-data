@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.39596879063719104,
   "metapath_contribution": {
     "CbGbCtD": 0.5581444212075446,
     "CbGdCrCtD": 0.0050039323040473645,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2019456048075126,
     "CrCbGaD": 0.011503466413376935
   },
+  "n_trials": 0.0,
   "prediction": 0.00127927395736785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

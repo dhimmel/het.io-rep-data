@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00168",
   "compound_name": "Aspartame",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.21105387811365553,
     "CbGbCtD": 0.11229301184003847,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.27468473494727635,
     "CrCtD": 0.36761438920328865
   },
+  "n_trials": 0.0,
   "prediction": 0.0164618777468099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

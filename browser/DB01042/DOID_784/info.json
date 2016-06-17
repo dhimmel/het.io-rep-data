@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.0661764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.116384915474642,
   "metapath_contribution": {
-    "CbGeAlD": 0.05193357729222216,
-    "CbGpPWpGaD": 0.9069289634452862,
-    "CrCbGaD": 0.04113745926249152
+    "CbGeAlD": 0.051933577292222165,
+    "CbGpPWpGaD": 0.9069289634452864,
+    "CrCbGaD": 0.04113745926249153
   },
+  "n_trials": 0.0,
   "prediction": 0.00086859256659115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

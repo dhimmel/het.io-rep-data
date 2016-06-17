@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00283",
   "compound_name": "Clemastine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.661248374512354,
   "metapath_contribution": {
     "CbGaD": 0.2635272511312165,
     "CbGbCtD": 0.27325641439461756,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0014417313097333667,
     "CrCrCtD": 0.3624335312677937
   },
+  "n_trials": 0.0,
   "prediction": 0.00333471983339097,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

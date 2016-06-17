@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.4029097869806165,
     "CbGbCtD": 0.4682437728611015,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03499261142600135,
     "CrCbGaD": 0.0023447482441620506
   },
+  "n_trials": 0.0,
   "prediction": 0.00448277655912444,
   "status": 0,
   "training_prediction": 0.004422305436542271

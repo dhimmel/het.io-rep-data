@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.406371911573472,
   "metapath_contribution": {
     "CbGbCtD": 0.8345596714284308,
     "CbGdCrCtD": 0.006846994429566686,
     "CbGeAlD": 0.06679349571260015,
     "CcSEcCtD": 0.0917998384294024
   },
+  "n_trials": 0.0,
   "prediction": 0.00151107829770964,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

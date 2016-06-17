@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8179453836150848,
   "metapath_contribution": {
     "CbGaD": 0.22130612655556642,
     "CbGbCtD": 0.23732824659856536,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0020059620425980445,
     "CrCrCtD": 0.05251109445376817
   },
+  "n_trials": 0.0,
   "prediction": 0.00928087433082257,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

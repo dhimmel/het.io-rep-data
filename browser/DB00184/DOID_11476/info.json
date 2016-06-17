@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.29967093938704414,
     "CbGbCtD": 0.47578210619778954,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04595387789059114,
     "CcSEcCtD": 0.17580296819286728
   },
+  "n_trials": 0.0,
   "prediction": 0.00579876540345025,
   "status": 0,
   "training_prediction": 0.0186664221477376

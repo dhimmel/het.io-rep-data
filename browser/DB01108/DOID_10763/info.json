@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01108",
   "compound_name": "Trilostane",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.560468140442133,
   "metapath_contribution": {
     "CbGaD": 0.5295349100485727,
     "CbGeAlD": 0.08201819569568845,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0029804877001199776,
     "CrCrCtD": 0.26902044001900516
   },
+  "n_trials": 0.0,
   "prediction": 0.00450700378739926,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

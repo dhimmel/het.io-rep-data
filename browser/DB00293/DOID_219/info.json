@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00293",
   "compound_name": "Raltitrexed",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.20261599672320735,
     "CbGbCtD": 0.22889896965494655,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.21600743436236178,
     "CrCtD": 0.3261434993206402
   },
+  "n_trials": 0.0,
   "prediction": 0.0447834563276535,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00663",
   "compound_name": "Flumethasone Pivalate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
-    "CbGaD": 0.11308609845298369,
-    "CbGbCtD": 0.25687513279314106,
-    "CbGeAlD": 0.0002582764670253656,
-    "CcSEcCtD": 0.013610177596426869,
-    "CrCbGaD": 0.0013440043555047459,
-    "CrCrCtD": 0.2583389142224958,
-    "CrCtD": 0.3564873961124226
+    "CbGaD": 0.11308609845298366,
+    "CbGbCtD": 0.256875132793141,
+    "CbGeAlD": 0.00025827646702536553,
+    "CcSEcCtD": 0.013610177596426866,
+    "CrCbGaD": 0.0013440043555047454,
+    "CrCrCtD": 0.2583389142224957,
+    "CrCtD": 0.3564873961124225
   },
+  "n_trials": 0.0,
   "prediction": 0.0338357315458206,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

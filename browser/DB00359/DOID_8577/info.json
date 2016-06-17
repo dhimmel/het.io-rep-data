@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00359",
   "compound_name": "Sulfadiazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGbCtD": 0.17267189883512393,
     "CcSEcCtD": 0.035947350324027474,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.30099276852326207,
     "CrCtD": 0.4889265359674897
   },
+  "n_trials": 0.0,
   "prediction": 0.00830633285068082,
   "status": 0,
   "training_prediction": 0.0279290101548809

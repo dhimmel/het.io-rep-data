@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05109",
   "compound_name": "Trabectedin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGaD": 0.2065482515336919,
     "CbGbCtD": 0.48745012386025927,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11343481663200831,
     "CcSEcCtD": 0.17359432742944117
   },
+  "n_trials": 0.0,
   "prediction": 0.004531272232230521,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGbCtD": 0.1773325924501579,
     "CbGeAlD": 0.006886229437136854,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.21414918718417394,
     "CrCtD": 0.307721024704458
   },
+  "n_trials": 0.0,
   "prediction": 0.0332064011409753,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

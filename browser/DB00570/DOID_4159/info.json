@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGbCtD": 0.39625552751918797,
     "CbGdCrCtD": 0.001996313694190576,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.04723686456487124,
     "CtDrD": 0.49443275008535653
   },
+  "n_trials": 2.0,
   "prediction": 0.0033612442574366,
   "status": 0,
   "training_prediction": 0.0325650521981006

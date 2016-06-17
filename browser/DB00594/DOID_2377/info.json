@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00594",
   "compound_name": "Amiloride",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGbCtD": 0.3937463683774778,
     "CbGdCrCtD": 0.009933786310455038,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.19089778226299794,
     "CcSEcCtD": 0.21813921358209334
   },
+  "n_trials": 2.0,
   "prediction": 0.00256507285562473,
   "status": 0,
   "training_prediction": 0.00656327722084021

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGaD": 0.4515969984737168,
     "CbGbCtD": 0.35747807517444435,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10021712996673635,
     "CrCbGaD": 0.00264142024321584
   },
+  "n_trials": 1.0,
   "prediction": 0.00549456166266264,
   "status": 0,
   "training_prediction": 0.0306619919973633

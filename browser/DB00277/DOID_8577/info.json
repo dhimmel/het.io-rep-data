@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.44018205461638504,
   "metapath_contribution": {
     "CbGbCtD": 0.6917799621055177,
     "CbGdCrCtD": 0.00040736620327968924,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.13591980000292636,
     "CcSEcCtD": 0.13536673641427122
   },
+  "n_trials": 0.0,
   "prediction": 0.00193064517170728,
   "status": 0,
   "training_prediction": 0.00659166779588236

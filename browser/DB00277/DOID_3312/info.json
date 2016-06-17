@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.849804941482445,
   "metapath_contribution": {
     "CbGaD": 0.7401842826959056,
     "CbGeAlD": 0.09073678932391246,
     "CbGpPWpGaD": 0.15990352919858325,
     "CrCbGaD": 0.009175398781598646
   },
+  "n_trials": 0.0,
   "prediction": 0.00223003426831796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

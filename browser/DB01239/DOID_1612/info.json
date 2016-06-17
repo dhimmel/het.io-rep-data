@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.217165149544863,
   "metapath_contribution": {
     "CbGaD": 0.10680474481174204,
     "CbGbCtD": 0.3898242893524843,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003959312000362143,
     "CrCrCtD": 0.3700668232458812
   },
+  "n_trials": 0.0,
   "prediction": 0.0013399989978095301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

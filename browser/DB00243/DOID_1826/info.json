@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGaD": 0.18019111711907257,
     "CbGbCtD": 0.23973163982860946,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001671204801618232,
     "CrCrCtD": 0.13770737067046215
   },
+  "n_trials": 0.0,
   "prediction": 0.0327346017068439,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

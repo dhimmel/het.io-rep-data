@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00393",
   "compound_name": "Nimodipine",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.19960988296488896,
   "metapath_contribution": {
-    "CbGaD": 0.5992890124797495,
-    "CbGeAlD": 0.084089360375536,
-    "CbGpPWpGaD": 0.30210565108831805,
-    "CrCbGaD": 0.01451597605639656
+    "CbGaD": 0.5992890124797494,
+    "CbGeAlD": 0.08408936037553598,
+    "CbGpPWpGaD": 0.302105651088318,
+    "CrCbGaD": 0.014515976056396556
   },
+  "n_trials": 0.0,
   "prediction": 0.00101186623441097,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

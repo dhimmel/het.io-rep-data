@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.8699609882964889,
   "metapath_contribution": {
     "CbGbCtD": 0.41997014398138743,
     "CrCrCtD": 0.5800298560186127
   },
+  "n_trials": 0.0,
   "prediction": 0.00236031714118231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

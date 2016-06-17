@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.47816889863333767,
     "CbGbCtD": 0.37017484817766844,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10488544037314361,
     "CrCbGaD": 0.003916051457684252
   },
+  "n_trials": 0.0,
   "prediction": 0.004599401392065,
   "status": 0,
   "training_prediction": 0.0180851151293784

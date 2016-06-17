@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.6918075422626789,
   "metapath_contribution": {
     "CbGaD": 0.25614850663444383,
     "CbGbCtD": 0.5734033219506278,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15370152751566385,
     "CrCbGaD": 0.0011699639895618415
   },
+  "n_trials": 0.0,
   "prediction": 0.00333899704043275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

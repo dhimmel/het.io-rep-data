@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.367360208062419,
   "metapath_contribution": {
     "CbGaD": 0.13314671820893215,
     "CbGbCtD": 0.36635594499319507,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3131010936954704,
     "CrCbGaD": 0.0019396112281717295
   },
+  "n_trials": 1.0,
   "prediction": 0.0018577148763065398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

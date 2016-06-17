@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00628",
   "compound_name": "Clorazepate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.1293217393138803,
     "CbGbCtD": 0.15588804008668486,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.14743868610000288,
     "CrCtD": 0.2116061416195614
   },
+  "n_trials": 0.0,
   "prediction": 0.361936024677252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

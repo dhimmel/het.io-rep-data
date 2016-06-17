@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01166",
   "compound_name": "Cilostazol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.34114670595927693,
     "CbGbCtD": 0.4043742781895157,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15858521948109675,
     "CrCbGaD": 0.00041360864838127276
   },
+  "n_trials": 0.0,
   "prediction": 0.00647959429902271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

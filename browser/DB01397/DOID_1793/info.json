@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGaD": 0.6343472191314129,
     "CbGbCtD": 0.22717550558453953,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13064067152117909,
     "CrCbGaD": 0.007173466331652949
   },
+  "n_trials": 0.0,
   "prediction": 0.00220756630665952,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB01020",
   "compound_name": "Isosorbide Mononitrate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.693758127438232,
   "metapath_contribution": {
     "CbGaD": 0.5121508882745763,
     "CbGbCtD": 0.18494486034352708,
@@ -13,6 +15,5 @@
     "CrCbGaD": 0.0043834148932025505
   },
   "prediction": 0.00344278691835473,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

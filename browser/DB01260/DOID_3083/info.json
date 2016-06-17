@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGbCtD": 0.09610900767103622,
     "CcSEcCtD": 0.032269824529548866,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.20356817721699674,
     "CrCtD": 0.2783401065292277
   },
+  "n_trials": 0.0,
   "prediction": 0.0124393670546244,
   "status": 0,
   "training_prediction": 0.0270557823123056

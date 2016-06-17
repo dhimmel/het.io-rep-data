@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05812",
   "compound_name": "Abiraterone",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGaD": 0.32918989947627336,
     "CbGbCtD": 0.401503415929764,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08059018638855202,
     "CcSEcCtD": 0.18674597717516273
   },
+  "n_trials": 0.0,
   "prediction": 0.00379528958481219,
   "status": 0,
   "training_prediction": 0.00460442828313575

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.4089726918075421,
   "metapath_contribution": {
     "CbGbCtD": 0.8831819023110384,
     "CbGdCrCtD": 0.004494217689270047,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0925410276209819,
     "CrCbGaD": 0.0022698011749934578
   },
+  "n_trials": 0.0,
   "prediction": 0.00193188747996307,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

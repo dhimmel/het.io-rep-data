@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.400630280760407,
     "CbGbCtD": 0.5106104884677194,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04308809852838641,
     "CcSEcCtD": 0.04452779284881544
   },
+  "n_trials": 0.0,
   "prediction": 0.011297870695003001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

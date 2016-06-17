@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00337",
   "compound_name": "Pimecrolimus",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.245123537061118,
   "metapath_contribution": {
     "CbGaD": 0.29708009446294154,
     "CbGbCtD": 0.31200962506482144,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.20241636999405088,
     "CrCbGaD": 0.002561468573900791
   },
+  "n_trials": 0.0,
   "prediction": 0.00152269583336236,
   "status": 0,
   "training_prediction": 0.00669890937593389

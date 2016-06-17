@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00559",
   "compound_name": "Bosentan",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.4233185612836438,
     "CbGbCtD": 0.33412329306297195,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06687425375133993,
     "CcSEcCtD": 0.15017778053222433
   },
+  "n_trials": 0.0,
   "prediction": 0.00963696455414182,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

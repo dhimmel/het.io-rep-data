@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.8335500650195059,
   "metapath_contribution": {
     "CbGbCtD": 0.3647642074612021,
     "CbGdCrCtD": 0.00193430788863151,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.35996696986305704,
     "CrCrCtD": 0.09083481886384276
   },
+  "n_trials": 0.0,
   "prediction": 0.00465526515790502,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

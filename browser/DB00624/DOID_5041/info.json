@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.21651495448634603,
   "metapath_contribution": {
     "CbGaD": 0.5082690382356408,
     "CbGbCtD": 0.25812477438480447,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08013033087774259,
     "CrCbGaD": 0.004781682807181015
   },
+  "n_trials": 0.0,
   "prediction": 0.000929632065187258,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

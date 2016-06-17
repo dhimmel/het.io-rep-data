@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.484395318595579,
   "metapath_contribution": {
     "CbGaD": 0.4448582224147563,
     "CbGdCrCtD": 0.008032907586531034,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2850662704152241,
     "CrCbGaD": 0.0024966746491991237
   },
+  "n_trials": 0.0,
   "prediction": 0.00177690217692774,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

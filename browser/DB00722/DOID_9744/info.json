@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.13124959786334928,
     "CbGbCtD": 0.20201036862161664,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.24873780808143475,
     "CrCtD": 0.3656554094550044
   },
+  "n_trials": 1.0,
   "prediction": 0.0503777895618156,
   "status": 0,
   "training_prediction": 0.063618904060396

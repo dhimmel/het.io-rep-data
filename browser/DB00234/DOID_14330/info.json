@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.7711313394018209,
   "metapath_contribution": {
     "CbGaD": 0.8229810423076297,
     "CbGeAlD": 0.07852020722661524,
     "CbGpPWpGaD": 0.09300938215829851,
     "CrCbGaD": 0.005489368307456522
   },
+  "n_trials": 0.0,
   "prediction": 0.00205479547994674,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

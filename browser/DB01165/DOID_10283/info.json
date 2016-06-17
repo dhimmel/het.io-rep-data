@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5546163849154749,
   "metapath_contribution": {
     "CbGaD": 0.2687222404311387,
     "CbGbCtD": 0.461621309433862,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.18272891935824176,
     "CrCbGaD": 0.0035016387648841556
   },
+  "n_trials": 1.0,
   "prediction": 0.0025008616087393303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

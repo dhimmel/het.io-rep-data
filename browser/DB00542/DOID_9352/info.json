@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.13641035912844116,
     "CbGbCtD": 0.18072934673085989,
@@ -14,6 +16,7 @@
     "CrCtD": 0.22067154564297034,
     "CtDrD": 0.20315782672718175
   },
+  "n_trials": 4.0,
   "prediction": 0.0575563859687336,
   "status": 0,
   "training_prediction": 0.21264568742652104

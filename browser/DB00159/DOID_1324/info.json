@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.435630689206762,
   "metapath_contribution": {
     "CbGaD": 0.3833223485888649,
     "CbGbCtD": 0.06616803311922549,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.15262229528112642,
     "CrCbGaD": 0.00044548896942547036
   },
+  "n_trials": 0.0,
   "prediction": 0.00162658458179325,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.6547190081564911,
     "CbGbCtD": 0.0004303014104940503,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.21729944537128104,
     "CrCbGaD": 0.0036031932397598463
   },
+  "n_trials": 0.0,
   "prediction": 0.0023761440705310603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

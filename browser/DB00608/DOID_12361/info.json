@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.7836610231228611,
     "CbGbCtD": 0.1460874719787607,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03481297370104442,
     "CrCbGaD": 0.0012093260758136242
   },
+  "n_trials": 0.0,
   "prediction": 0.0022137954361771102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

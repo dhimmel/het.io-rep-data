@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.36605981794538395,
   "metapath_contribution": {
     "CbGbCtD": 0.3613663978028878,
     "CbGeAlD": 0.06090770327717519,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4515719312113009,
     "CrCbGaD": 0.000868886051639493
   },
+  "n_trials": 1.0,
   "prediction": 0.00146464373508278,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

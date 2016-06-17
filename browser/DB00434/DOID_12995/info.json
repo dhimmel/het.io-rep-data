@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00434",
   "compound_name": "Cyproheptadine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
     "CbGaD": 0.8583112577604723,
     "CbGeAlD": 0.014118270459979742,
     "CbGpPWpGaD": 0.11921720637945633,
     "CrCbGaD": 0.008353265400091577
   },
+  "n_trials": 0.0,
   "prediction": 0.0020752675186604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

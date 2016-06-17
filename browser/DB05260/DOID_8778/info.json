@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.7448713596054924,
     "CbGdCrCtD": 0.004266312907406225,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15623681668986564,
     "CcSEcCtD": 0.006122528127108199
   },
+  "n_trials": 0.0,
   "prediction": 0.00559365483671985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

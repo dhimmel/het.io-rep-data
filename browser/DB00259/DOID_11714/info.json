@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.35435630689206804,
   "metapath_contribution": {
     "CbGbCtD": 0.9849049643684629,
     "CrCbGaD": 0.015095035631537152
   },
+  "n_trials": 0.0,
   "prediction": 0.00135044810579288,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.7836770469485529,
     "CbGeAlD": 0.0447283833293143,
     "CbGpPWpGaD": 0.16387113941994982,
     "CrCbGaD": 0.0077234303021829565
   },
+  "n_trials": 0.0,
   "prediction": 0.00240419635910307,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

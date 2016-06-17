@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.355656697009103,
   "metapath_contribution": {
     "CbGaD": 0.46911515582695285,
     "CbGbCtD": 0.2778320927762328,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.051118001096156614,
     "CrCbGaD": 0.004017829076457599
   },
+  "n_trials": 0.0,
   "prediction": 0.00178914345673375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

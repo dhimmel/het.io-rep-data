@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.9331128951772728,
     "CbGeAlD": 0.04254828136841066,
     "CbGpPWpGaD": 0.013745854711742207,
     "CrCbGaD": 0.010592968742574352
   },
+  "n_trials": 0.0,
   "prediction": 0.0030509531286505103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06218",
   "compound_name": "Lacosamide",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.19180754226267901,
   "metapath_contribution": {
     "CbGaD": 0.7478831140944228,
     "CbGeAlD": 0.04156526351259463,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09771857756549382,
     "CrCbGaD": 0.003918404450163486
   },
+  "n_trials": 0.0,
   "prediction": 0.000859528381174844,
   "status": 0,
   "training_prediction": 0.0015711340853386

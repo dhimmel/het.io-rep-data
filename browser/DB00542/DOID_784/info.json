@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.38803861347229585,
     "CbGeAlD": 0.05104335170612975,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0032772824672313516,
     "CtDrD": 0.5319490509758669
   },
+  "n_trials": 1.0,
   "prediction": 0.00469294818904906,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

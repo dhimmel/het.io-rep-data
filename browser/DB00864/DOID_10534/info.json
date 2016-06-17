@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.317945383615085,
   "metapath_contribution": {
     "CbGaD": 0.16446868036095405,
     "CbGbCtD": 0.3745011902539263,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1424461989098131,
     "CcSEcCtD": 0.23826569105240575
   },
+  "n_trials": 0.0,
   "prediction": 0.00114723892677969,
   "status": 0,
   "training_prediction": 0.00252924100578152

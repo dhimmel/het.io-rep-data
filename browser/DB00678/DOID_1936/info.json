@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
-    "CbGaD": 0.20008767424534663,
+    "CbGaD": 0.2000876742453466,
     "CbGbCtD": 0.29693244901897003,
-    "CbGeAlD": 0.02286802074187806,
+    "CbGeAlD": 0.022868020741878055,
     "CbGpPWpGaD": 0.03855717070868714,
-    "CcSEcCtD": 0.05791805063080197,
-    "CrCbGaD": 0.0026436799592259594,
-    "CtDrD": 0.3809929546950902
+    "CcSEcCtD": 0.057918050630801965,
+    "CrCbGaD": 0.002643679959225959,
+    "CtDrD": 0.38099295469509015
   },
+  "n_trials": 2.0,
   "prediction": 0.0151814768253751,
   "status": 0,
   "training_prediction": 0.0541435215914365

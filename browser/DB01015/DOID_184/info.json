@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.36150845253576097,
   "metapath_contribution": {
     "CbGaD": 0.7932378352836217,
     "CbGpPWpGaD": 0.0432279041630161,
     "CcSEcCtD": 0.16208104429454243,
     "CrCbGaD": 0.0014532162588198208
   },
+  "n_trials": 0.0,
   "prediction": 0.0012261487255899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

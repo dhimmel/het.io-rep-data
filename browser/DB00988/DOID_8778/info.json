@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.17046241717016022,
     "CbGeAlD": 0.010346566662365686,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2775609321429419,
     "CrCtD": 0.511790783764095
   },
+  "n_trials": 0.0,
   "prediction": 0.00873398213759991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

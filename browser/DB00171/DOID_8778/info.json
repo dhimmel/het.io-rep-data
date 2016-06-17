@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGaD": 0.744220830303344,
     "CbGdCrCtD": 0.0030755965160000156,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13421942325541483,
     "CrCbGaD": 0.0038617066325357698
   },
+  "n_trials": 0.0,
   "prediction": 0.0022689903743627602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

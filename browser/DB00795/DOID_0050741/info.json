@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.280234070221066,
   "metapath_contribution": {
     "CbGbCtD": 0.18938390115329687,
     "CbGeAlD": 0.38336682365171015,
     "CbGpPWpGaD": 0.42492893951563915,
     "CrCbGaD": 0.0023203356793538143
   },
+  "n_trials": 1.0,
   "prediction": 0.00151702230901141,
   "status": 0,
   "training_prediction": 0.00522097094634114

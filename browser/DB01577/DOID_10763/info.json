@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.15974814159021491,
     "CbGbCtD": 0.19499849214905737,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.13584190191880346,
     "CtDrD": 0.24703527929340066
   },
+  "n_trials": 0.0,
   "prediction": 0.0390097607318403,
   "status": 0,
   "training_prediction": 0.326856577536912

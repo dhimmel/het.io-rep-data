@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.6902103509594084,
     "CbGbCtD": 0.12777371707383647,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03938556503630066,
     "CrCbGaD": 0.00317773885720285
   },
+  "n_trials": 0.0,
   "prediction": 0.0038628734700865397,
   "status": 0,
   "training_prediction": 0.007043427724917459

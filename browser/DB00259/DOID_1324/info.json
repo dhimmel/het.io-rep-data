@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.531209362808843,
   "metapath_contribution": {
     "CbGaD": 0.42726425540093793,
     "CbGbCtD": 0.46583467446946225,
     "CbGpPWpGaD": 0.10364636285389522,
     "CrCbGaD": 0.003254707275704708
   },
+  "n_trials": 0.0,
   "prediction": 0.00193783003748277,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

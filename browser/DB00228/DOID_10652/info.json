@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.7617957139544528,
     "CbGeAlD": 0.10511324001439679,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0017587828352027344,
     "CrCbGaD": 0.00900427194983827
   },
+  "n_trials": 0.0,
   "prediction": 0.00342672946848388,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00808",
   "compound_name": "Indapamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.8583053895577523,
     "CbGeAlD": 0.05911538830362198,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.031796845217161196,
     "CrCbGaD": 0.008113727456093229
   },
+  "n_trials": 0.0,
   "prediction": 0.00323271487914616,
   "status": 0,
   "training_prediction": 0.00145881424948595

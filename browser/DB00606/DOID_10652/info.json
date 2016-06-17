@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00606",
   "compound_name": "Cyclothiazide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.47464239271781494,
   "metapath_contribution": {
     "CbGaD": 0.9292055650098437,
     "CbGeAlD": 0.00019712718366576563,
     "CbGpPWpGaD": 0.061740868736724054,
     "CrCbGaD": 0.008856439069766462
   },
+  "n_trials": 0.0,
   "prediction": 0.00178340151075722,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

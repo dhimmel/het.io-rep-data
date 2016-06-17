@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.0390117035110533,
   "metapath_contribution": {
     "CbGbCtD": 0.232625849216407,
     "CbGdCrCtD": 0.0019304721509886375,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.38395844656424644,
     "CrCbGaD": 0.008231869533547721
   },
+  "n_trials": 0.0,
   "prediction": 0.0007356201796210731,
   "status": 0,
   "training_prediction": 0.0127878061532925

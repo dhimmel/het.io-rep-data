@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.681404421326398,
   "metapath_contribution": {
     "CbGaD": 0.8296558188105085,
     "CbGeAlD": 0.07821255349878943,
     "CbGpPWpGaD": 0.08544818905547935,
     "CrCbGaD": 0.0066834386352226435
   },
+  "n_trials": 0.0,
   "prediction": 0.0017915782645814102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

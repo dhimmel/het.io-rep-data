@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
-    "CbGaD": 0.3802730105816126,
-    "CbGbCtD": 0.38869778724537396,
+    "CbGaD": 0.38027301058161256,
+    "CbGbCtD": 0.3886977872453739,
     "CbGeAlD": 0.016280113939106975,
-    "CbGpPWpGaD": 0.07591356274808163,
+    "CbGpPWpGaD": 0.07591356274808161,
     "CcSEcCtD": 0.13519983694290066,
-    "CrCbGaD": 0.003635688542924282
+    "CrCbGaD": 0.0036356885429242817
   },
+  "n_trials": 0.0,
   "prediction": 0.00419488582004858,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

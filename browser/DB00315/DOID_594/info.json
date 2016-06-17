@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00315",
   "compound_name": "Zolmitriptan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.8457077154257968,
     "CbGeAlD": 0.018645743881699792,
     "CbGpPWpGaD": 0.128353993683885,
     "CrCbGaD": 0.007292547008618418
   },
+  "n_trials": 0.0,
   "prediction": 0.0033788477037314303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

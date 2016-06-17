@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
     "CbGaD": 0.2172139320891347,
     "CbGbCtD": 0.19125879971462748,
@@ -13,7 +15,7 @@
     "CiPCiCtD": 0.44686100828240205,
     "CrCbGaD": 0.0017739533256614128
   },
+  "n_trials": 2.0,
   "prediction": 0.00587110275689827,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

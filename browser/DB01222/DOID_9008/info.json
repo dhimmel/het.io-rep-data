@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01222",
   "compound_name": "Budesonide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGbCtD": 0.13062013209880194,
     "CcSEcCtD": 0.03481308594555178,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.19517372626721963,
     "CrCtD": 0.27289344937938326
   },
+  "n_trials": 0.0,
   "prediction": 0.0752281564495365,
   "status": 0,
   "training_prediction": 0.21506960065556302

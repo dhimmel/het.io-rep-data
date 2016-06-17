@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01001",
   "compound_name": "Salbutamol",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.27568270481144297,
   "metapath_contribution": {
     "CbGaD": 0.9102632296505343,
     "CbGpPWpGaD": 0.07836236275900926,
     "CrCbGaD": 0.011374407590456425
   },
+  "n_trials": 0.0,
   "prediction": 0.000991408472344893,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

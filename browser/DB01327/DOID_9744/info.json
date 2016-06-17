@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.42847854356306897,
   "metapath_contribution": {
     "CbGaD": 0.8323338785350051,
     "CbGeAlD": 0.06408312765997995,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04850645097803825,
     "CrCbGaD": 0.006962802914790069
   },
+  "n_trials": 0.0,
   "prediction": 0.00129476554684314,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

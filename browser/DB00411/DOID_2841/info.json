@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00411",
   "compound_name": "Carbachol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.4041944896940182,
     "CbGbCtD": 0.40621467846674736,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11776183285939437,
     "CrCbGaD": 0.003951685979990327
   },
+  "n_trials": 0.0,
   "prediction": 0.007329623109037379,
   "status": 0,
   "training_prediction": 0.0480284788133536

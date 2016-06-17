@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGaD": 0.40379912309701166,
     "CbGbCtD": 0.4010535502242875,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12966189225248834,
     "CrCbGaD": 0.0009651948869580323
   },
+  "n_trials": 0.0,
   "prediction": 0.00337607768659692,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

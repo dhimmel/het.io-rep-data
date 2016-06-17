@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00816",
   "compound_name": "Orciprenaline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.45383615084525397,
   "metapath_contribution": {
     "CbGaD": 0.4401785802158875,
     "CbGbCtD": 0.35884703860241746,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16713524118483836,
     "CrCbGaD": 0.004688173898733254
   },
+  "n_trials": 0.0,
   "prediction": 0.0021723691597989,
   "status": 0,
   "training_prediction": 0.0116065395756278

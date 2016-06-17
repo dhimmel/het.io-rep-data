@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01424",
   "compound_name": "Aminophenazone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7997399219765929,
   "metapath_contribution": {
     "CbGaD": 0.20612363232493144,
     "CbGbCtD": 0.7133281655755471,
     "CbGpPWpGaD": 0.07905240420161735,
     "CrCbGaD": 0.001495797897904125
   },
+  "n_trials": 0.0,
   "prediction": 0.0048046956566272,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

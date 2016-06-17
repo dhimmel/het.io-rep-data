@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGbCtD": 0.7820764401038133,
     "CbGdCrCtD": 0.0017148121247985528,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.045762365637723415,
     "CcSEcCtD": 0.16594625994170625
   },
+  "n_trials": 0.0,
   "prediction": 0.00465239219612683,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

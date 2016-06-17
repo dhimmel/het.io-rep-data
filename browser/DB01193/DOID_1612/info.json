@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01193",
   "compound_name": "Acebutolol",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.349154746423927,
   "metapath_contribution": {
     "CbGaD": 0.3748615736738862,
     "CbGbCtD": 0.32436223955720894,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.23556394364161537,
     "CrCbGaD": 0.0025334154192784837
   },
+  "n_trials": 0.0,
   "prediction": 0.00180044019320983,
   "status": 0,
   "training_prediction": 0.009913439632827259

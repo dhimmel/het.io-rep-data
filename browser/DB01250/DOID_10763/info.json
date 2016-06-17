@@ -1,16 +1,19 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.589726918075423,
   "metapath_contribution": {
     "CbGaD": 0.3339549077728476,
     "CbGbCtD": 0.32222398446822037,
     "CbGeAlD": 0.03684256517038364,
-    "CbGpPWpGaD": 0.09186416744514124,
-    "CrCbGaD": 0.0036226176960695924,
-    "CrCrCtD": 0.21149175744733753
+    "CbGpPWpGaD": 0.09186416744514125,
+    "CrCbGaD": 0.003622617696069593,
+    "CrCrCtD": 0.21149175744733756
   },
+  "n_trials": 0.0,
   "prediction": 0.00482617104766215,
   "status": 0,
   "training_prediction": 0.0548288972595019

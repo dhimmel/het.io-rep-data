@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08819",
   "compound_name": "Tafluprost",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.448634590377113,
   "metapath_contribution": {
     "CbGbCtD": 0.7619239445314706,
     "CbGdCrCtD": 0.01117355385104748,
     "CbGpPWpGaD": 0.15808251420244931,
     "CcSEcCtD": 0.0688199874150326
   },
+  "n_trials": 0.0,
   "prediction": 0.00172996748499845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

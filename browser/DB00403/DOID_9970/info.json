@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00403",
   "compound_name": "Ceruletide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.7776985457875785,
     "CbGeAlD": 0.08258432315582401,
     "CbGpPWpGaD": 0.13887410119570226,
     "CrCbGaD": 0.0008430298608953497
   },
+  "n_trials": 0.0,
   "prediction": 0.00521986979076226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

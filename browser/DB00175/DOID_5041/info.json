@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00175",
   "compound_name": "Pravastatin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.3855719814040585,
     "CbGbCtD": 0.45794954557219764,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05922541087433398,
     "CrCbGaD": 0.0036046142378719946
   },
+  "n_trials": 1.0,
   "prediction": 0.00216935883495988,
   "status": 0,
   "training_prediction": 0.004383480098521721

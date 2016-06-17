@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.17598969200456258,
     "CbGbCtD": 0.29036795208691374,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0018782775810346087,
     "CtDrD": 0.43608649914508335
   },
+  "n_trials": 0.0,
   "prediction": 0.00783790136565481,
   "status": 0,
   "training_prediction": 0.0127333667782657

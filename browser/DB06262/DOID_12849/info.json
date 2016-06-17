@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06262",
   "compound_name": "Droxidopa",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.235370611183355,
   "metapath_contribution": {
     "CbGaD": 0.5898630432951016,
     "CbGeAlD": 0.10557935110380597,
     "CbGpPWpGaD": 0.2945822340938782,
     "CrCbGaD": 0.00997537150721417
   },
+  "n_trials": 0.0,
   "prediction": 0.000907303618787231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

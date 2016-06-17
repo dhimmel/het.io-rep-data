@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.746423927178153,
   "metapath_contribution": {
     "CbGaD": 0.48999776746947926,
     "CbGbCtD": 0.341962008317646,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1135595065637398,
     "CrCbGaD": 0.0046574884088129796
   },
+  "n_trials": 0.0,
   "prediction": 0.00283843846050542,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

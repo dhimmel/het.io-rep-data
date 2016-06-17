@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00273",
   "compound_name": "Topiramate",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8725617685305591,
   "metapath_contribution": {
     "CbGaD": 0.5556536143733262,
     "CbGbCtD": 0.04875887690043478,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11448574754493211,
     "CcSEcCtD": 0.24641706920595738
   },
+  "n_trials": 0.0,
   "prediction": 0.00404388660712998,
   "status": 0,
   "training_prediction": 0.0262488310786944

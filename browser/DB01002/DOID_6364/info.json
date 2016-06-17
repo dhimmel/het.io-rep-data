@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01002",
   "compound_name": "Levobupivacaine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.681404421326398,
   "metapath_contribution": {
     "CbGbCtD": 0.28512903591668637,
     "CbGeAlD": 0.0012133819046175965,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00845019434384425,
     "CrCrCtD": 0.487390784981371
   },
+  "n_trials": 0.0,
   "prediction": 0.0032179322820029897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

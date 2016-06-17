@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08889",
   "compound_name": "Carfilzomib",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5214564369310789,
   "metapath_contribution": {
     "CbGbCtD": 0.16015968948449627,
     "CbGdCrCtD": 0.003405493027555044,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002375713590598867,
     "CrCrCtD": 0.48331290176678965
   },
+  "n_trials": 0.0,
   "prediction": 0.00236842388426283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

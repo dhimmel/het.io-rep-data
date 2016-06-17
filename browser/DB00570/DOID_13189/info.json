@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.674902470741222,
   "metapath_contribution": {
     "CbGbCtD": 0.8068042167562466,
     "CbGdCrCtD": 0.0029848474596187277,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1264403284252874,
     "CrCbGaD": 0.0018951386009869037
   },
+  "n_trials": 0.0,
   "prediction": 0.00278028135690087,
   "status": 0,
   "training_prediction": 0.0270735742087604

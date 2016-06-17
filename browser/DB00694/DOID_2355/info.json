@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.0367647058823529,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.0221066319895969,
   "metapath_contribution": {
-    "CbGaD": 0.5009193032724315,
-    "CbGeAlD": 0.2008584451044986,
-    "CbGpPWpGaD": 0.29592854141800934,
-    "CrCbGaD": 0.00229371020506068
+    "CbGaD": 0.5009193032724314,
+    "CbGeAlD": 0.20085844510449857,
+    "CbGpPWpGaD": 0.2959285414180093,
+    "CrCbGaD": 0.0022937102050606794
   },
+  "n_trials": 2.0,
   "prediction": 0.000405681838273832,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.8383537549841461,
     "CbGeAlD": 0.0024794215133033238,
     "CbGpPWpGaD": 0.14983598846083873,
     "CrCbGaD": 0.009330835041711814
   },
+  "n_trials": 0.0,
   "prediction": 0.00231946426538515,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

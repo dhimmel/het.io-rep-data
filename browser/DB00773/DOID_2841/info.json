@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.317945383615085,
   "metapath_contribution": {
     "CbGaD": 0.38024372733658685,
     "CbGbCtD": 0.41181221302009274,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.12622642635865558,
     "CrCbGaD": 0.001067516074456179
   },
+  "n_trials": 0.0,
   "prediction": 0.00186101786446928,
   "status": 0,
   "training_prediction": 0.079266100692435

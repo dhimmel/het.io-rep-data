@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
-    "CbGaD": 0.260061983324718,
-    "CbGdCrCtD": 0.007645536904630207,
-    "CbGeAlD": 0.2368151509903923,
-    "CbGpPWpGaD": 0.2506289038854415,
-    "CcSEcCtD": 0.2448484248948178
+    "CbGaD": 0.2600619833247181,
+    "CbGdCrCtD": 0.007645536904630209,
+    "CbGeAlD": 0.23681515099039233,
+    "CbGpPWpGaD": 0.25062890388544157,
+    "CcSEcCtD": 0.24484842489481787
   },
+  "n_trials": 1.0,
   "prediction": 0.00287289990118254,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

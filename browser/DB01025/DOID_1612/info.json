@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01025",
   "compound_name": "Amlexanox",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7906371911573471,
   "metapath_contribution": {
     "CbGaD": 0.6810410329440868,
     "CbGeAlD": 0.0724230592414882,
     "CbGpPWpGaD": 0.1731981597254122,
     "CcSEcCtD": 0.07333774808901282
   },
+  "n_trials": 0.0,
   "prediction": 0.0046004650335177205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

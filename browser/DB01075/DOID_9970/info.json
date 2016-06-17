@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8777633289986999,
   "metapath_contribution": {
     "CbGaD": 0.12119839561527636,
     "CbGbCtD": 0.20128583988211388,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2647314371989558,
     "CrCtD": 0.3166648673302768
   },
+  "n_trials": 0.0,
   "prediction": 0.00738241774226313,
   "status": 0,
   "training_prediction": 0.0308835164789545

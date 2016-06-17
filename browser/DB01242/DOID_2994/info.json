@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.44018205461638504,
   "metapath_contribution": {
     "CbGbCtD": 0.6956027447477023,
     "CbGeAlD": 0.12112453639421354,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18042142932226946,
     "CrCbGaD": 0.00038828247755710247
   },
+  "n_trials": 0.0,
   "prediction": 0.00149375702473514,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

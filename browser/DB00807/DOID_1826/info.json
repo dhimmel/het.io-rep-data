@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00807",
   "compound_name": "Proparacaine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.4008686208521868,
     "CbGbCtD": 0.46417598261094184,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.030475169664932664,
     "CrCbGaD": 0.0033973509280204126
   },
+  "n_trials": 0.0,
   "prediction": 0.00951143012536443,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

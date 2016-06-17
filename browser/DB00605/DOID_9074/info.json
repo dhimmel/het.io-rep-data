@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.2054746559557506,
     "CbGbCtD": 0.213565679321693,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.07439824097881827,
     "CpDpCtD": 0.38702753170898174
   },
+  "n_trials": 0.0,
   "prediction": 0.00897732019320714,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

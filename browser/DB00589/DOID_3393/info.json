@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.645643693107932,
   "metapath_contribution": {
     "CbGaD": 0.29955752427487364,
     "CbGbCtD": 0.3775520844438094,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1426288482980199,
     "CrCbGaD": 0.00321493868513458
   },
+  "n_trials": 0.0,
   "prediction": 0.00314432426930765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

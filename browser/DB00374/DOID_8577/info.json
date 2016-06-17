@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00374",
   "compound_name": "Treprostinil",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.330949284785436,
   "metapath_contribution": {
     "CbGbCtD": 0.049472587300677634,
     "CbGeAlD": 0.045813095122938,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5353934835190884,
     "CrCbGaD": 0.009168394239917239
   },
+  "n_trials": 0.0,
   "prediction": 0.0016665524032958,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

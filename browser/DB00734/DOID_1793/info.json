@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.808192457737321,
   "metapath_contribution": {
     "CbGbCtD": 0.5404488934243195,
     "CbGeAlD": 0.014629506823948259,
     "CbGpPWpGaD": 0.1487090252344609,
     "CcSEcCtD": 0.29621257451727134
   },
+  "n_trials": 0.0,
   "prediction": 0.00282471507675551,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00857",
   "compound_name": "Terbinafine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.2505258296300563,
     "CbGbCtD": 0.34770510287088446,
@@ -12,7 +14,7 @@
     "CrCbGaD": 1.6869738846780944e-06,
     "CrCrCtD": 0.21983753628261635
   },
+  "n_trials": 0.0,
   "prediction": 0.00869473476581707,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

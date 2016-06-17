@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06262",
   "compound_name": "Droxidopa",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.439531859557867,
   "metapath_contribution": {
     "CbGaD": 0.8509052596574271,
     "CbGeAlD": 0.03591508724552381,
     "CbGpPWpGaD": 0.1046912630207283,
     "CrCbGaD": 0.008488390076320865
   },
+  "n_trials": 1.0,
   "prediction": 0.00143870064763282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.661248374512354,
   "metapath_contribution": {
     "CbGaD": 0.858075486392958,
     "CbGbCtD": 0.08590864357577403,
     "CbGpPWpGaD": 0.04776587221781633,
     "CrCbGaD": 0.00824999781345167
   },
+  "n_trials": 0.0,
   "prediction": 0.0018507509417788602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

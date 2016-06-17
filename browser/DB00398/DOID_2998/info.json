@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.3433677244802139,
     "CbGbCtD": 0.19142793271140618,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.001874073603662744,
     "CtDrD": 0.320194876663656
   },
+  "n_trials": 1.0,
   "prediction": 0.0206888611649467,
   "status": 0,
   "training_prediction": 0.10980756335370001

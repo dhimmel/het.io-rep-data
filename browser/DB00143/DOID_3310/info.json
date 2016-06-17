@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.0955882352941176,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.16710013003901197,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.0328631123438993,
-    "CbGeAlD": 0.6503969981885831,
-    "CbGpPWpGaD": 0.31673988946751774
+    "CbGdCrCtD": 0.03286311234389929,
+    "CbGeAlD": 0.650396998188583,
+    "CbGpPWpGaD": 0.31673988946751763
   },
+  "n_trials": 0.0,
   "prediction": 0.00136704627040024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

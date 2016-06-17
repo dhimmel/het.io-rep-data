@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.386215864759428,
   "metapath_contribution": {
     "CbGaD": 0.2868912753051232,
     "CbGbCtD": 0.22607049976155133,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.22514352095702203,
     "CrCbGaD": 0.005409565512082874
   },
+  "n_trials": 0.0,
   "prediction": 0.00130520207594923,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

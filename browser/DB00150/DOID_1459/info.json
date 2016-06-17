@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00150",
   "compound_name": "L-Tryptophan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.3177876586681945,
     "CbGbCtD": 0.305211342450227,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0017087851139086742,
     "CrCrCtD": 0.29339366304567316
   },
+  "n_trials": 0.0,
   "prediction": 0.0255092949313432,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

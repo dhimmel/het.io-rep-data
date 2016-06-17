@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.782834850455137,
   "metapath_contribution": {
     "CbGaD": 0.24369750387370817,
     "CbGbCtD": 0.4786004659658806,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15327281181592492,
     "CrCbGaD": 0.0012287121451619218
   },
+  "n_trials": 0.0,
   "prediction": 0.00317950234342574,
   "status": 0,
   "training_prediction": 0.0108228597897613

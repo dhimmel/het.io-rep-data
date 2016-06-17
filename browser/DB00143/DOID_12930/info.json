@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.6551690714241638,
     "CbGbCtD": 0.11277436883433628,
     "CbGeAlD": 0.11508989575633409,
     "CbGpPWpGaD": 0.11696666398516585
   },
+  "n_trials": 0.0,
   "prediction": 0.00366141556833999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

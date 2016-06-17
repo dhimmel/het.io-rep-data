@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.697009102730819,
   "metapath_contribution": {
     "CbGbCtD": 0.7370874045644173,
     "CbGeAlD": 0.016069852815859435,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16125293099199886,
     "CrCbGaD": 0.006733600094091127
   },
+  "n_trials": 0.0,
   "prediction": 0.00248050383682578,
   "status": 0,
   "training_prediction": 0.0173770056574794

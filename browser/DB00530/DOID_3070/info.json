@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGaD": 0.48029531102027745,
     "CbGbCtD": 0.07926077665787282,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13169730298743684,
     "CrCbGaD": 0.0057449268180787706
   },
+  "n_trials": 0.0,
   "prediction": 0.00226468499164139,
   "status": 0,
   "training_prediction": 0.0037888858453377704

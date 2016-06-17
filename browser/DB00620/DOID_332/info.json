@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.49024707412223706,
   "metapath_contribution": {
     "CbGaD": 0.19996901913319312,
     "CbGeAlD": 0.01879850964198026,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0011034255849286813,
     "CtDrD": 0.7091958092141877
   },
+  "n_trials": 0.0,
   "prediction": 0.0012764278808024198,
   "status": 0,
   "training_prediction": 0.00422686407915286

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.3996609594127895,
     "CbGbCtD": 0.003983093759729896,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.08862308699033428,
     "CpDpCtD": 0.46503757152791747
   },
+  "n_trials": 0.0,
   "prediction": 0.00465858805939049,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

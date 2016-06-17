@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.701560468140442,
   "metapath_contribution": {
     "CbGaD": 0.5632704393552891,
     "CbGbCtD": 0.23929345939705565,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08029492637182888,
     "CrCbGaD": 0.00528334953709114
   },
+  "n_trials": 0.0,
   "prediction": 0.00301267375169741,
   "status": 0,
   "training_prediction": 0.00662693160905804

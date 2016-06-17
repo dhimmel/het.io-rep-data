@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.6931079323797139,
   "metapath_contribution": {
     "CbGaD": 0.41318748026654933,
     "CbGbCtD": 0.34127110713324577,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09986324246558076,
     "CrCbGaD": 0.003591513257314077
   },
+  "n_trials": 0.0,
   "prediction": 0.00195411401783902,
   "status": 0,
   "training_prediction": 0.00394941863372718

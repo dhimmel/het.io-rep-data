@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.19440832249674897,
   "metapath_contribution": {
     "CbGaD": 0.5322377577690254,
     "CbGbCtD": 0.1359382719351839,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24519484900671398,
     "CrCbGaD": 0.01045393747802084
   },
+  "n_trials": 0.0,
   "prediction": 0.00129775880976644,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00598",
   "compound_name": "Labetalol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.25973401735128687,
     "CbGbCtD": 0.10354752418183683,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.13240844902906287,
     "CtDrD": 0.3848900320171256
   },
+  "n_trials": 0.0,
   "prediction": 0.0085395717884836,
   "status": 0,
   "training_prediction": 0.0366922213285714

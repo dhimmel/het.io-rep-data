@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.36605981794538395,
   "metapath_contribution": {
     "CbGaD": 0.31609170451021645,
     "CbGbCtD": 0.28445172806999486,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002559149668702358,
     "CrCrCtD": 0.19880666894221644
   },
+  "n_trials": 0.0,
   "prediction": 0.00280386955050969,
   "status": 0,
   "training_prediction": 0.22848887105340498

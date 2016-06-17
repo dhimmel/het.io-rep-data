@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.365409622886866,
   "metapath_contribution": {
     "CbGbCtD": 0.22108432164150088,
     "CbGpPWpGaD": 0.07694117928173871,
     "CcSEcCtD": 0.7019744990767602
   },
+  "n_trials": 0.0,
   "prediction": 0.00133707131125854,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

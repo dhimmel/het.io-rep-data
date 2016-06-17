@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.7776989220565569,
     "CbGeAlD": 0.07964941779928802,
     "CbGpPWpGaD": 0.1344013606625894,
     "CrCbGaD": 0.008250299481565677
   },
+  "n_trials": 0.0,
   "prediction": 0.0019400462359616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01319",
   "compound_name": "Fosamprenavir",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.33270510065272374,
     "CbGbCtD": 0.48202081025215143,
     "CcSEcCtD": 0.1806403117083589,
     "CrCbGaD": 0.0046337773867658905
   },
+  "n_trials": 0.0,
   "prediction": 0.00501857700990532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

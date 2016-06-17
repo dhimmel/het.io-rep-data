@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGbCtD": 0.6785328603705785,
     "CbGeAlD": 0.05316854620869924,
     "CbGpPWpGaD": 0.01044193184805979,
     "CcSEcCtD": 0.25785666157266246
   },
+  "n_trials": 0.0,
   "prediction": 0.00277478717078294,
   "status": 0,
   "training_prediction": 0.0101347743465104

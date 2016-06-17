@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00191",
   "compound_name": "Phentermine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.200910273081925,
   "metapath_contribution": {
     "CbGbCtD": 0.6165291151441834,
     "CbGeAlD": 0.034363359622794694,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2196387912317314,
     "CrCbGaD": 0.006709842586534359
   },
+  "n_trials": 0.0,
   "prediction": 0.0012721298815549,
   "status": 0,
   "training_prediction": 0.00682347369514

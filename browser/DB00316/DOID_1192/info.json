@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.13481405103593297,
     "CbGbCtD": 0.32851086794876894,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.004920868259823697,
     "CrCrCtD": 0.3433791974600181
   },
+  "n_trials": 0.0,
   "prediction": 0.00561167967037226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

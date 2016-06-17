@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGbCtD": 0.0965854599749081,
     "CbGeAlD": 0.0119702602212933,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.8058207100890974,
     "CrCbGaD": 0.0026841500795296673
   },
+  "n_trials": 0.0,
   "prediction": 0.004155674752981371,
   "status": 0,
   "training_prediction": 0.0255761305632666

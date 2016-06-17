@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.0331599479843953,
   "metapath_contribution": {
     "CbGeAlD": 0.8951052128639941,
     "CrCbGaD": 0.10489478713600578
   },
+  "n_trials": 1.0,
   "prediction": 0.000802762936345373,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

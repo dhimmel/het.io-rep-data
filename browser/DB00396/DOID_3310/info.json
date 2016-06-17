@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.3032865884175987,
     "CbGdCrCtD": 0.00019185553209201934,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.288024980423992,
     "CrCtD": 0.337972702624128
   },
+  "n_trials": 0.0,
   "prediction": 0.010354108779995002,
   "status": 0,
   "training_prediction": 0.0346453968623782

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06218",
   "compound_name": "Lacosamide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.295838751625488,
   "metapath_contribution": {
     "CbGaD": 0.6482971502131034,
     "CbGeAlD": 0.042101671767743154,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19410368365049213,
     "CrCbGaD": 0.0063432693814707685
   },
+  "n_trials": 0.0,
   "prediction": 0.00128410966074202,
   "status": 0,
   "training_prediction": 0.00155871374599984

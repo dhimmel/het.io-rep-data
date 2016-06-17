@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.636540962288687,
   "metapath_contribution": {
     "CbGaD": 0.4741939289811613,
     "CbGbCtD": 0.22144886327144897,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24555288672717024,
     "CrCbGaD": 0.007848002922567161
   },
+  "n_trials": 0.0,
   "prediction": 0.00228966203188476,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

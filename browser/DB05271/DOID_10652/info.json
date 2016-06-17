@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05271",
   "compound_name": "Rotigotine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.129001289873027,
     "CbGbCtD": 0.2159079229642782,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08310038486676767,
     "CpDpCtD": 0.5086742329962569
   },
+  "n_trials": 0.0,
   "prediction": 0.014469936973458998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

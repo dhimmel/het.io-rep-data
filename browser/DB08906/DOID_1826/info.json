@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08906",
   "compound_name": "Fluticasone furoate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.293888166449935,
   "metapath_contribution": {
     "CbGaD": 0.38435703081674055,
     "CbGbCtD": 0.43488484609299294,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15961651144376862,
     "CrCbGaD": 0.004001736440690744
   },
+  "n_trials": 0.0,
   "prediction": 0.0021350408266159198,
   "status": 0,
   "training_prediction": 0.0103956868098262

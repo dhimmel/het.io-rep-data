@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.8400520156046809,
   "metapath_contribution": {
     "CbGaD": 0.22955959599262096,
     "CbGbCtD": 0.5790570858911733,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.008463940082986772,
     "CcSEcCtD": 0.12150560558075216
   },
+  "n_trials": 0.0,
   "prediction": 0.00456619766343807,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.8335500650195059,
   "metapath_contribution": {
     "CbGaD": 0.5007650290565286,
     "CbGeAlD": 0.16199470078190883,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07109737397491027,
     "CrCbGaD": 0.0006690477827418884
   },
+  "n_trials": 0.0,
   "prediction": 0.00215935459020908,
   "status": 0,
   "training_prediction": 0.00162439104861751

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6020806241872559,
   "metapath_contribution": {
     "CbGaD": 0.33743033472289996,
     "CbGbCtD": 0.4917655872062229,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06040295992828805,
     "CrCbGaD": 0.006005429100952939
   },
+  "n_trials": 0.0,
   "prediction": 0.0018184360541739699,
   "status": 0,
   "training_prediction": 0.0025944367856792

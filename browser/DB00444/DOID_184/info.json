@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.08800823727714997,
     "CbGbCtD": 0.16566270549519518,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0014305620903160663,
     "CtDrD": 0.23091470857629998
   },
+  "n_trials": 0.0,
   "prediction": 0.0123626764373251,
   "status": 0,
   "training_prediction": 0.0390102628290385

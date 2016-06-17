@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:9296",
   "disease_name": "cleft lip",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.8275678261927557,
     "CbGeAlD": 0.027927234387474367,
     "CbGpPWpGaD": 0.1366360165617037,
     "CrCbGaD": 0.007868922858066237
   },
+  "n_trials": 0.0,
   "prediction": 0.0032319606953378,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

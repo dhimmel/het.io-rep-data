@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.11103072480583519,
     "CbGbCtD": 0.21372823038523614,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06180773645648944,
     "CpDpCtD": 0.44714342852448014
   },
+  "n_trials": 2.0,
   "prediction": 0.00338925334316415,
   "status": 0,
   "training_prediction": 0.0143624920109171

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06268",
   "compound_name": "Sitaxentan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.44862972333637247,
     "CbGbCtD": 0.2893629685694831,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06883469253271551,
     "CcSEcCtD": 0.16671435199346502
   },
+  "n_trials": 0.0,
   "prediction": 0.00898880395930481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

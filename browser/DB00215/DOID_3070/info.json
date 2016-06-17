@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.633238933464298,
     "CbGbCtD": 0.1277988476765328,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1325637511107689,
     "CrCbGaD": 0.0037956360670004232
   },
+  "n_trials": 1.0,
   "prediction": 0.00382685287650425,
   "status": 0,
   "training_prediction": 0.0028240952077308603

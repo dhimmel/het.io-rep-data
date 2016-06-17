@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00808",
   "compound_name": "Indapamide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.42847854356306897,
   "metapath_contribution": {
     "CbGaD": 0.16935538553074447,
     "CbGbCtD": 0.27708502204895563,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3307653767972844,
     "CrCbGaD": 0.0041585780771624175
   },
+  "n_trials": 0.0,
   "prediction": 0.0020280700948252604,
   "status": 0,
   "training_prediction": 0.00857855678705887

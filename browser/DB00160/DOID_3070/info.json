@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.306241872561769,
   "metapath_contribution": {
-    "CbGeAlD": 0.553321899020124,
-    "CbGpPWpGaD": 0.43280575834811313,
-    "CrCbGaD": 0.01387234263176278
+    "CbGeAlD": 0.5533218990201241,
+    "CbGpPWpGaD": 0.4328057583481132,
+    "CrCbGaD": 0.013872342631762784
   },
+  "n_trials": 0.0,
   "prediction": 0.00107792463098514,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

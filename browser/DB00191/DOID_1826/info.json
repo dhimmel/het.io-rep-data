@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00191",
   "compound_name": "Phentermine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGaD": 0.12726997765411904,
     "CbGbCtD": 0.16194529987947662,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.23419651315274737,
     "CrCtD": 0.35645670788177947
   },
+  "n_trials": 0.0,
   "prediction": 0.0159305395152194,
   "status": 0,
   "training_prediction": 0.0736286819211285

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08884",
   "compound_name": "Gadoxetate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGbCtD": 0.6346721160642307,
     "CbGeAlD": 0.13411122805663012,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11768366483024298,
     "CrCbGaD": 0.0028405746438151026
   },
+  "n_trials": 0.0,
   "prediction": 0.00311377680991101,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

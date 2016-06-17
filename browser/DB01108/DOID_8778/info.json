@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01108",
   "compound_name": "Trilostane",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.34200260078023403,
   "metapath_contribution": {
     "CbGeAlD": 0.08448024100365996,
     "CbGpPWpGaD": 0.013367898421150283,
     "CrCbGaD": 0.002276452121803309,
     "CrCrCtD": 0.8998754084533864
   },
+  "n_trials": 0.0,
   "prediction": 0.00125289300491606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

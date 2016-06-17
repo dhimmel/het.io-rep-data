@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.296488946684005,
   "metapath_contribution": {
     "CbGaD": 0.5600177004103144,
     "CbGeAlD": 0.15493429838840886,
     "CbGpPWpGaD": 0.2740180320520295,
     "CrCbGaD": 0.011029969149247296
   },
+  "n_trials": 0.0,
   "prediction": 0.0010048165917834401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

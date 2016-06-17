@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01019",
   "compound_name": "Bethanechol",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.228218465539662,
   "metapath_contribution": {
     "CbGbCtD": 0.2980957089160847,
     "CbGpPWpGaD": 0.2380491549912667,
     "CcSEcCtD": 0.4582945814069858,
     "CrCbGaD": 0.005560554685662773
   },
+  "n_trials": 0.0,
   "prediction": 0.00198641459516833,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

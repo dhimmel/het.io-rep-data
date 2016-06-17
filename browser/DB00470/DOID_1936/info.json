@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.49301247687144156,
     "CbGbCtD": 0.37050445898565737,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06658630978728391,
     "CrCbGaD": 0.005673044327985325
   },
+  "n_trials": 0.0,
   "prediction": 0.007364013473590629,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

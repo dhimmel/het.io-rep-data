@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGbCtD": 0.22980157060270787,
     "CbGdCrCtD": 0.0002985850048941056,
@@ -13,6 +15,7 @@
     "CrCtD": 0.41529234710706686,
     "CtDrD": 0.27436086878093724
   },
+  "n_trials": 10.0,
   "prediction": 0.0499924153247342,
   "status": 0,
   "training_prediction": 0.20406162735879999

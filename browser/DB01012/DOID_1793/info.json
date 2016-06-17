@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGbCtD": 0.34808094497100506,
     "CbGpPWpGaD": 0.0809456472306867,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00019443009882279583,
     "CrCrCtD": 0.40704998006924636
   },
+  "n_trials": 0.0,
   "prediction": 0.00201008565848759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

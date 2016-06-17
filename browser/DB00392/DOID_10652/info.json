@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00392",
   "compound_name": "Ethopropazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7230169050715209,
   "metapath_contribution": {
     "CbGaD": 0.3662508754843447,
     "CbGbCtD": 0.5923505417193351,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.01829566776355452,
     "CrCbGaD": 0.004095602455718475
   },
+  "n_trials": 0.0,
   "prediction": 0.00265002371351013,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

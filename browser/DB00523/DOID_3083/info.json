@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.277633289986996,
   "metapath_contribution": {
     "CbGaD": 0.5682381474004669,
     "CbGbCtD": 0.017488359144722285,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2728630885561012,
     "CrCbGaD": 0.0034546537176664083
   },
+  "n_trials": 0.0,
   "prediction": 0.0015435300385159998,
   "status": 0,
   "training_prediction": 0.0056561915956889796

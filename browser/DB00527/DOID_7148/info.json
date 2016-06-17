@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.0364109232769831,
   "metapath_contribution": {
     "CbGbCtD": 0.18641264036639418,
     "CbGeAlD": 0.004095250374069332,
     "CbGpPWpGaD": 0.8024863759646093,
     "CrCbGaD": 0.007005733294927212
   },
+  "n_trials": 0.0,
   "prediction": 0.0007336172740758839,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

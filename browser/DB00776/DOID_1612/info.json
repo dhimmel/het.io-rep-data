@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00776",
   "compound_name": "Oxcarbazepine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.327698309492848,
   "metapath_contribution": {
     "CbGaD": 0.25204753562704224,
     "CbGbCtD": 0.363878779824776,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0035508121612798176,
     "CrCrCtD": 0.1342544194235984
   },
+  "n_trials": 0.0,
   "prediction": 0.00171578847984416,
   "status": 0,
   "training_prediction": 0.00945094872076795

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.626788036410923,
   "metapath_contribution": {
     "CbGbCtD": 0.6069284649556418,
     "CbGdCrCtD": 0.0036235190796193007,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10561391754073668,
     "CcSEcCtD": 0.24241937452625906
   },
+  "n_trials": 0.0,
   "prediction": 0.00308947477690116,
   "status": 0,
   "training_prediction": 0.0775461539360813

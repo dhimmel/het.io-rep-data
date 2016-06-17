@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00232",
   "compound_name": "Methyclothiazide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.710663198959688,
   "metapath_contribution": {
     "CbGaD": 0.6025126361597634,
     "CbGbCtD": 0.24162517089086544,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12272204126766974,
     "CrCbGaD": 0.005753542959797381
   },
+  "n_trials": 0.0,
   "prediction": 0.00246065315055395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

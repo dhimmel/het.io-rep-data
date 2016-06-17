@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.758777633289987,
   "metapath_contribution": {
     "CbGaD": 0.7462890660808343,
     "CbGbCtD": 0.059936074236714945,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05375873260800058,
     "CrCbGaD": 0.008006783230538734
   },
+  "n_trials": 0.0,
   "prediction": 0.0021185453080788,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGbCtD": 0.7625085492750486,
     "CbGeAlD": 0.14565501934774192,
     "CbGpPWpGaD": 0.005922447371116204,
     "CcSEcCtD": 0.08591398400609326
   },
+  "n_trials": 0.0,
   "prediction": 0.00366084524106824,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

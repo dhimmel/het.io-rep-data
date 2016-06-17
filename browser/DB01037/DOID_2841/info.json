@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.472041612483745,
   "metapath_contribution": {
     "CbGbCtD": 0.698674821336733,
     "CbGeAlD": 0.004688869930671324,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.25551049506328244,
     "CrCbGaD": 0.0024739575573566185
   },
+  "n_trials": 0.0,
   "prediction": 0.00233625371623905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

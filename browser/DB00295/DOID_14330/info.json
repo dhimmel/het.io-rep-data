@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.299089726918075,
   "metapath_contribution": {
-    "CbGaD": 0.7088224741585752,
-    "CbGeAlD": 0.07574413940096325,
-    "CbGpPWpGaD": 0.208714647868079,
-    "CrCbGaD": 0.0067187385723826406
+    "CbGaD": 0.7088224741585751,
+    "CbGeAlD": 0.07574413940096324,
+    "CbGpPWpGaD": 0.20871464786807897,
+    "CrCbGaD": 0.00671873857238264
   },
+  "n_trials": 0.0,
   "prediction": 0.00105724999220043,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

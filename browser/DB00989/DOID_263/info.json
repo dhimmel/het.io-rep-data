@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00989",
   "compound_name": "Rivastigmine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.5513657293264776,
     "CbGbCtD": 0.24246340966751534,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1850691921729313,
     "CrCbGaD": 0.005093472103765619
   },
+  "n_trials": 0.0,
   "prediction": 0.0053449605287002,
   "status": 0,
   "training_prediction": 0.0154434411370678

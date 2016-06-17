@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08932",
   "compound_name": "MACITENTAN",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGaD": 0.2810850977505988,
     "CbGbCtD": 0.3558971942716058,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.24220944295457056,
     "CcSEcCtD": 0.08995033971656273
   },
+  "n_trials": 0.0,
   "prediction": 0.00397256458364251,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

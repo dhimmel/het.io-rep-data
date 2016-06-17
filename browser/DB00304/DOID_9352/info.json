@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.159947984395319,
   "metapath_contribution": {
     "CbGaD": 0.7314465323621057,
     "CbGeAlD": 0.011059553797535579,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2003281077296374,
     "CrCbGaD": 0.0074248333980638185
   },
+  "n_trials": 0.0,
   "prediction": 0.00124403192188713,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

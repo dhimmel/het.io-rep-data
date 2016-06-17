@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00804",
   "compound_name": "Dicyclomine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7035110533159951,
   "metapath_contribution": {
     "CbGaD": 0.2772367708318483,
     "CbGbCtD": 0.3625871439104377,
     "CbGpPWpGaD": 0.11911595994803584,
     "CcSEcCtD": 0.2410601253096783
   },
+  "n_trials": 0.0,
   "prediction": 0.00701641600257047,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

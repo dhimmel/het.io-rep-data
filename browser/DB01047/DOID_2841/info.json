@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.05850708902650876,
     "CbGbCtD": 0.13880472185703613,
@@ -15,6 +17,7 @@
     "CrCtD": 0.21048898044735243,
     "CtDrD": 0.15108767641777252
   },
+  "n_trials": 0.0,
   "prediction": 0.298866133734579,
   "status": 0,
   "training_prediction": 0.8294870609013248

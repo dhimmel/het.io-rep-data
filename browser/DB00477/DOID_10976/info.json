@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.099479843953186,
   "metapath_contribution": {
     "CbGaD": 0.8063375891938677,
     "CbGeAlD": 0.078319785334531,
     "CbGpPWpGaD": 0.11392917866810265,
     "CrCbGaD": 0.0014134468034987097
   },
+  "n_trials": 0.0,
   "prediction": 0.000779009020671428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

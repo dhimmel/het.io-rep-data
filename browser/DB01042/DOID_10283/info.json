@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.24838825300125314,
     "CbGbCtD": 0.0637655022447907,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.5645645681333044,
     "CrCbGaD": 0.0020774599018501573
   },
+  "n_trials": 2.0,
   "prediction": 0.007098919317022909,
   "status": 0,
   "training_prediction": 0.0799642232492857

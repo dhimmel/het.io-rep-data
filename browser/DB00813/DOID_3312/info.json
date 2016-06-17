@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.0227568270481144,
   "metapath_contribution": {
-    "CbGeAlD": 0.22032366769233097,
-    "CbGpPWpGaD": 0.6579191205416424,
-    "CrCbGaD": 0.12175721176602677
+    "CbGeAlD": 0.22032366769233094,
+    "CbGpPWpGaD": 0.6579191205416423,
+    "CrCbGaD": 0.12175721176602675
   },
+  "n_trials": 0.0,
   "prediction": 0.00064712683783324,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

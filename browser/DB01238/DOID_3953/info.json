@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.50520156046814,
   "metapath_contribution": {
-    "CbGaD": 0.6735140271611916,
-    "CbGeAlD": 0.0651383520937091,
+    "CbGaD": 0.6735140271611915,
+    "CbGeAlD": 0.06513835209370909,
     "CbGpPWpGaD": 0.2609402200200806,
-    "CrCbGaD": 0.0004074007250187813
+    "CrCbGaD": 0.00040740072501878127
   },
+  "n_trials": 0.0,
   "prediction": 0.00130137928389611,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

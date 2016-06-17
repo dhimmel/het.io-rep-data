@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.64889466840052,
   "metapath_contribution": {
     "CbGbCtD": 0.548081486579351,
     "CbGeAlD": 0.03235743662804345,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2729064971066116,
     "CrCbGaD": 0.0006577852509263503
   },
+  "n_trials": 0.0,
   "prediction": 0.00233053390781895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

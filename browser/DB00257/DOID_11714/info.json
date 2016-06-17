@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.5218241636401872,
     "CbGbCtD": 0.43942032909851847,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0336004183518073,
     "CrCbGaD": 0.001914719219086532
   },
+  "n_trials": 0.0,
   "prediction": 0.00364661311703891,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

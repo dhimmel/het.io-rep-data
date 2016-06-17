@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.684655396618986,
   "metapath_contribution": {
     "CbGbCtD": 0.5997931392253466,
     "CbGeAlD": 0.08370997148592764,
     "CbGpPWpGaD": 0.01048530532486599,
     "CcSEcCtD": 0.3060115839638598
   },
+  "n_trials": 0.0,
   "prediction": 0.0020575295134445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0182054616384915,
   "metapath_contribution": {
     "CbGaD": 0.2609864739570428,
     "CbGbCtD": 0.4428818592770951,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19952545169165006,
     "CrCbGaD": 0.004525550680517298
   },
+  "n_trials": 2.0,
   "prediction": 0.000528963805323145,
   "status": 0,
   "training_prediction": 0.0121463251672905

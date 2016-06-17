@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.538361508452536,
   "metapath_contribution": {
     "CbGaD": 0.3039513840547632,
     "CbGbCtD": 0.3695638037724304,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12222416219226037,
     "CrCbGaD": 0.0010793730481580108
   },
+  "n_trials": 0.0,
   "prediction": 0.0018299488061205898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

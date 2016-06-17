@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.32645725664658204,
     "CbGbCtD": 0.156469779903591,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.4505928140093987,
     "CrCbGaD": 0.0012013362556525002
   },
+  "n_trials": 2.0,
   "prediction": 0.0166911063480251,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.12349631250537255,
     "CbGbCtD": 0.14742936028454018,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2262570374358693,
     "CtDrD": 0.1663686290764699
   },
+  "n_trials": 12.0,
   "prediction": 0.5379225258235389,
   "status": 0,
   "training_prediction": 0.7198923434452831

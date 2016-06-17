@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.617685305591678,
   "metapath_contribution": {
     "CbGaD": 0.22505818515753426,
     "CbGbCtD": 0.46260111425248035,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18659741342923616,
     "CrCbGaD": 0.0018045819356342955
   },
+  "n_trials": 7.0,
   "prediction": 0.00220297417412618,
   "status": 0,
   "training_prediction": 0.00445125134407113

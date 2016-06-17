@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08896",
   "compound_name": "Regorafenib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.864109232769831,
   "metapath_contribution": {
     "CbGaD": 0.47807606821507603,
     "CbGbCtD": 0.274575885742704,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.0913266965175973,
     "CrCbGaD": 0.005905889848632516
   },
+  "n_trials": 0.0,
   "prediction": 0.0025753976078872897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

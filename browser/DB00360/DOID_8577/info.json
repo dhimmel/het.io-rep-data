@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00360",
   "compound_name": "Tetrahydrobiopterin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.31221515615392,
     "CbGbCtD": 0.5118702872564264,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.08027976122704308,
     "CcSEcCtD": 0.08155085424832181
   },
+  "n_trials": 0.0,
   "prediction": 0.00581230325691979,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

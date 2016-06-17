@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.355656697009103,
   "metapath_contribution": {
     "CbGaD": 0.07350117830969127,
     "CbGbCtD": 0.5438843771572481,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2544063148057989,
     "CrCbGaD": 0.0019512433338335494
   },
+  "n_trials": 0.0,
   "prediction": 0.00174263387991375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.4421721865953558,
     "CbGbCtD": 0.1794582029827365,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19556974670767607,
     "CrCbGaD": 0.0034371594557338877
   },
+  "n_trials": 0.0,
   "prediction": 0.00286745310779592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

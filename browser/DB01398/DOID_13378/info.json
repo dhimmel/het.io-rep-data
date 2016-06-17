@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGbCtD": 0.16980481048412313,
     "CbGeAlD": 0.001694961456819525,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2730798539712456,
     "CrCtD": 0.5341757832552388
   },
+  "n_trials": 0.0,
   "prediction": 0.0250447816825786,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

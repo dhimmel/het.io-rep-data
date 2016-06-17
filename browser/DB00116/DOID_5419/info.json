@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGaD": 0.6020301121441843,
     "CbGeAlD": 0.18068345484407228,
     "CbGpPWpGaD": 0.21495668258947898,
     "CrCbGaD": 0.002329750422264479
   },
+  "n_trials": 0.0,
   "prediction": 0.00181544438898779,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

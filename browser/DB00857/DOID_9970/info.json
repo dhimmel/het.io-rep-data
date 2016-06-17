@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00857",
   "compound_name": "Terbinafine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.18286934404612215,
     "CbGbCtD": 0.2964171256417418,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0009315972276961315,
     "CrCrCtD": 0.3131462831043802
   },
+  "n_trials": 0.0,
   "prediction": 0.0067352649113115205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

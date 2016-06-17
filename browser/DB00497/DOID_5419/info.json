@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.269180754226268,
   "metapath_contribution": {
     "CbGaD": 0.7159075289560781,
     "CbGeAlD": 0.09104642669680388,
     "CbGpPWpGaD": 0.17675009733996877,
     "CrCbGaD": 0.0162959470071493
   },
+  "n_trials": 0.0,
   "prediction": 0.00110083328005578,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

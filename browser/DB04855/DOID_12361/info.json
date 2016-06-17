@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.58257477243173,
   "metapath_contribution": {
     "CbGbCtD": 0.20518913606937716,
     "CbGeAlD": 0.2766941843359801,
     "CbGpPWpGaD": 0.06657277939321168,
     "CcSEcCtD": 0.4515439002014311
   },
+  "n_trials": 0.0,
   "prediction": 0.00166402264704892,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

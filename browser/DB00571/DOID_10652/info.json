@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.3777633289987,
   "metapath_contribution": {
     "CbGaD": 0.23330667414036627,
     "CbGbCtD": 0.49187291523749777,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16513946866546766,
     "CrCbGaD": 0.005434174649847055
   },
+  "n_trials": 0.0,
   "prediction": 0.0014912187539830699,
   "status": 0,
   "training_prediction": 0.00301529875654295

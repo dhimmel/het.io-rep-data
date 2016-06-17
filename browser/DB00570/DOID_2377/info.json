@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.533159947984395,
   "metapath_contribution": {
     "CbGbCtD": 0.704601910639145,
     "CbGdCrCtD": 0.003769598392208199,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09378341995712759,
     "CcSEcCtD": 0.09840470348262349
   },
+  "n_trials": 0.0,
   "prediction": 0.0019484693437690102,
   "status": 0,
   "training_prediction": 0.0221716845380853

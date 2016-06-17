@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGaD": 0.4162213396881945,
     "CbGeAlD": 0.017249677960101722,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002701738023788507,
     "CtDrD": 0.5041108320115613
   },
+  "n_trials": 0.0,
   "prediction": 0.00337730672197872,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

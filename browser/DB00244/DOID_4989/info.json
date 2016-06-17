@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.741222366710013,
   "metapath_contribution": {
     "CbGaD": 0.7367858813177247,
     "CbGeAlD": 0.06285972857129607,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06847281266571768,
     "CrCbGaD": 0.00418250268181494
   },
+  "n_trials": 0.0,
   "prediction": 0.0020051232978275397,
   "status": 0,
   "training_prediction": 0.00246094829616711

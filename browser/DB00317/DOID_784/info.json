@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.293237971391417,
   "metapath_contribution": {
     "CbGaD": 0.7189913694524196,
     "CbGeAlD": 0.08694345751731798,
     "CbGpPWpGaD": 0.18654631822961062,
     "CrCbGaD": 0.007518854800651857
   },
+  "n_trials": 0.0,
   "prediction": 0.0011815852033997699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

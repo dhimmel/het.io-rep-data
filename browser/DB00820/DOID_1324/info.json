@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00820",
   "compound_name": "Tadalafil",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGbCtD": 0.41127552664931405,
     "CbGeAlD": 0.06309677783194421,
     "CbGpPWpGaD": 0.10288988452892854,
     "CcSEcCtD": 0.42273781098981317
   },
+  "n_trials": 0.0,
   "prediction": 0.00347537998531312,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

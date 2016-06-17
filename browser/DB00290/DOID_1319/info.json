@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00290",
   "compound_name": "Bleomycin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0027406479179201693,
     "CbGeAlD": 0.05805886489548717,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11463432710974829,
     "CtDrD": 0.7308540877002483
   },
+  "n_trials": 1.0,
   "prediction": 0.00715395689269871,
   "status": 0,
   "training_prediction": 0.0496642861935178

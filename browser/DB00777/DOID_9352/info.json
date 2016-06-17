@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00777",
   "compound_name": "Propiomazine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.25227568270481104,
   "metapath_contribution": {
     "CbGaD": 0.3327248709348967,
     "CbGbCtD": 0.5054914213989926,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13857281633418383,
     "CrCbGaD": 0.0058234026074381
   },
+  "n_trials": 0.0,
   "prediction": 0.00154570003164333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

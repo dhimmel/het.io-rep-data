@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01338",
   "compound_name": "Pipecuronium",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.8519831300920568,
     "CbGeAlD": 0.040786930292408624,
     "CbGpPWpGaD": 0.10055001137955634,
     "CrCbGaD": 0.006679928235978159
   },
+  "n_trials": 0.0,
   "prediction": 0.00344044058734824,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

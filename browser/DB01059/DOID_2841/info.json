@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.45318595578673604,
   "metapath_contribution": {
     "CbGbCtD": 0.7518300367395842,
     "CbGdCrCtD": 0.0035382031563043707,
     "CbGpPWpGaD": 0.011167727314224114,
     "CcSEcCtD": 0.23346403278988728
   },
+  "n_trials": 0.0,
   "prediction": 0.0022671423232221103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

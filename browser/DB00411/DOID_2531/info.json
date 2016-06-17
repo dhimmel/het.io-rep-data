@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00411",
   "compound_name": "Carbachol",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.46098829648894707,
   "metapath_contribution": {
     "CbGbCtD": 0.35457233143967426,
     "CbGdCrCtD": 0.006394582810583049,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4413405247281912,
     "CrCbGaD": 0.004967202911661514
   },
+  "n_trials": 0.0,
   "prediction": 0.00212650951860642,
   "status": 0,
   "training_prediction": 0.019032285530363

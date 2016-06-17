@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.0884265279583875,
   "metapath_contribution": {
     "CbGbCtD": 0.4997314567596027,
     "CbGeAlD": 0.0007082006460274923,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.26806127975641453,
     "CrCbGaD": 0.002387576337733569
   },
+  "n_trials": 0.0,
   "prediction": 0.000855724317338621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

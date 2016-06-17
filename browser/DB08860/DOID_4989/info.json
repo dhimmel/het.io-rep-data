@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.420026007802341,
   "metapath_contribution": {
     "CbGaD": 0.6390377775471163,
     "CbGeAlD": 0.2149333560150063,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0677148794084873,
     "CrCbGaD": 0.0007827020229378242
   },
+  "n_trials": 0.0,
   "prediction": 0.00132948968085327,
   "status": 0,
   "training_prediction": 0.000980476847653958

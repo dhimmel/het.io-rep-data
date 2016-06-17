@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01354",
   "compound_name": "Heptabarbital",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.43660805649446965,
     "CbGbCtD": 0.44622949578519694,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10458767172329159,
     "CrCbGaD": 0.004159822284079375
   },
+  "n_trials": 0.0,
   "prediction": 0.0125630797987867,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

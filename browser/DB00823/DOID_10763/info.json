@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00823",
   "compound_name": "Ethynodiol",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0812743823146944,
   "metapath_contribution": {
     "CbGbCtD": 0.2666033521979695,
     "CbGeAlD": 0.024500213432548046,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.008526988544560708,
     "CrCrCtD": 0.6074900719367416
   },
+  "n_trials": 0.0,
   "prediction": 0.00119286699540409,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

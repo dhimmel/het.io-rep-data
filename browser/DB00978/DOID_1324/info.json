@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00978",
   "compound_name": "Lomefloxacin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.464239271781534,
   "metapath_contribution": {
     "CbGbCtD": 0.701190998948663,
     "CbGdCrCtD": 0.006229174980418545,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20864065829943398,
     "CrCbGaD": 0.0021043199374456097
   },
+  "n_trials": 0.0,
   "prediction": 0.0017186589239848698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

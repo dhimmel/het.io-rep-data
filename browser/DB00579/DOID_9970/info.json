@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00579",
   "compound_name": "Mazindol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7405721716514949,
   "metapath_contribution": {
     "CbGaD": 0.23024511393440547,
     "CbGbCtD": 0.7168147208274039,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.032242986319427035,
     "CrCbGaD": 0.003118341820845433
   },
+  "n_trials": 0.0,
   "prediction": 0.00431532038421827,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

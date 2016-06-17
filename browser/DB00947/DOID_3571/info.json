@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.5254285301845154,
     "CbGbCtD": 0.31918899258405525,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.04229231658851769,
     "CrCbGaD": 0.0007195606669801352
   },
+  "n_trials": 0.0,
   "prediction": 0.005703507721163001,
   "status": 0,
   "training_prediction": 0.0056266624255781

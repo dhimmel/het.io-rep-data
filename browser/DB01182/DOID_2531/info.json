@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.5370611183355011,
   "metapath_contribution": {
     "CbGaD": 0.09769447584784578,
     "CbGbCtD": 0.567462795082397,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.26843199961517067,
     "CrCbGaD": 0.001180151998511317
   },
+  "n_trials": 0.0,
   "prediction": 0.0024643765301047603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

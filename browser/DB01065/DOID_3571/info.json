@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.85630689206762,
   "metapath_contribution": {
     "CbGaD": 0.5710793686655149,
     "CbGbCtD": 0.1057547669998771,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1867631626692618,
     "CcSEcCtD": 0.08334666626835724
   },
+  "n_trials": 0.0,
   "prediction": 0.00245008346493527,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.192457737321196,
   "metapath_contribution": {
     "CbGaD": 0.5097063866149202,
     "CbGbCtD": 0.16990530893290465,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17265128115588674,
     "CrCbGaD": 0.004417000342566453
   },
+  "n_trials": 0.0,
   "prediction": 0.00124006296444411,
   "status": 0,
   "training_prediction": 0.00665240465905331

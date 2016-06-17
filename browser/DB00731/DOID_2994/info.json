@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.355656697009103,
   "metapath_contribution": {
     "CbGbCtD": 0.8344872237929319,
     "CbGdCrCtD": 0.004105281045349602,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.04292609764876364,
     "CrCbGaD": 0.0032696786337922845
   },
+  "n_trials": 0.0,
   "prediction": 0.00134610367579799,
   "status": 0,
   "training_prediction": 0.00245955463593219

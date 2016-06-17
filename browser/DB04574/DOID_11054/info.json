@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04574",
   "compound_name": "Estropipate",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
     "CbGaD": 0.661858173602929,
     "CbGbCtD": 0.1261230613250961,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12459884852049229,
     "CrCbGaD": 0.005810951679126223
   },
+  "n_trials": 0.0,
   "prediction": 0.00226586879034697,
   "status": 0,
   "training_prediction": 0.00580041293612593

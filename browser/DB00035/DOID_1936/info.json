@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.517555266579974,
   "metapath_contribution": {
     "CbGaD": 0.5092080541751324,
     "CbGeAlD": 0.03045501880747616,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22710655932693713,
     "CrCbGaD": 0.001094305037242233
   },
+  "n_trials": 0.0,
   "prediction": 0.0018991587464678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

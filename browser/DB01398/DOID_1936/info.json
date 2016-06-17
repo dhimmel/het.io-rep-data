@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.31126042007276233,
     "CbGeAlD": 0.019582151373415593,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004338577846676897,
     "CrCrCtD": 0.5144314131629304
   },
+  "n_trials": 0.0,
   "prediction": 0.00378116847709789,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

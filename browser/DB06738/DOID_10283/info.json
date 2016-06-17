@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06738",
   "compound_name": "Ketobemidone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.809492847854356,
   "metapath_contribution": {
     "CbGaD": 0.3079734934049595,
     "CbGbCtD": 0.5453625790222252,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13615120492287047,
     "CrCbGaD": 0.0004267484523074521
   },
+  "n_trials": 0.0,
   "prediction": 0.00493105444319977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

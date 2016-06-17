@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5884265279583879,
   "metapath_contribution": {
     "CbGaD": 0.31542128524213564,
     "CbGbCtD": 0.28314514418411846,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00242252446983119,
     "CrCrCtD": 0.1407270836761441
   },
+  "n_trials": 0.0,
   "prediction": 0.0048053723938925,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

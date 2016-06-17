@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
     "CbGbCtD": 0.10113472342883904,
     "CbGeAlD": 0.008934308092726512,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.005502832678066578,
     "CrCrCtD": 0.6916512847317448
   },
+  "n_trials": 0.0,
   "prediction": 0.0043140134527070205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

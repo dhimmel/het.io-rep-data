@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.64629388816645,
   "metapath_contribution": {
     "CbGaD": 0.6596066270015909,
     "CbGeAlD": 0.12241755374114467,
     "CbGpPWpGaD": 0.2134616684620568,
     "CrCbGaD": 0.004514150795207511
   },
+  "n_trials": 0.0,
   "prediction": 0.00167984304972203,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

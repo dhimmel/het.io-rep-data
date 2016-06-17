@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.552665799739922,
   "metapath_contribution": {
     "CbGaD": 0.5865540416382042,
     "CbGbCtD": 0.1383580362248607,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11692495082707306,
     "CrCbGaD": 0.00584852068434788
   },
+  "n_trials": 0.0,
   "prediction": 0.0016787735493493901,
   "status": 0,
   "training_prediction": 0.0036987088530360296

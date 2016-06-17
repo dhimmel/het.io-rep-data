@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.3576996000909112,
     "CbGbCtD": 0.49550794337915394,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07974135759538038,
     "CrCbGaD": 0.004833605366156446
   },
+  "n_trials": 2.0,
   "prediction": 0.0029851827255231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01610",
   "compound_name": "Valganciclovir",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.17490247074122198,
   "metapath_contribution": {
     "CbGeAlD": 0.05949839616138363,
     "CbGpPWpGaD": 0.06059159324162409,
     "CcSEcCtD": 0.8273039627734645,
     "CrCbGaD": 0.0526060478235278
   },
+  "n_trials": 0.0,
   "prediction": 0.000873740287081496,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

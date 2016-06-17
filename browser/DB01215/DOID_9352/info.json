@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01215",
   "compound_name": "Estazolam",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.386215864759428,
   "metapath_contribution": {
     "CbGaD": 0.2500418705088149,
     "CbGbCtD": 0.2370203571356852,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3410985721605076,
     "CrCbGaD": 0.005111964260108022
   },
+  "n_trials": 0.0,
   "prediction": 0.0020566224742704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

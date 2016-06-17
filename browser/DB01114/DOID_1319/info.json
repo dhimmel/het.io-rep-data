@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.0773732119635891,
   "metapath_contribution": {
     "CbGbCtD": 0.6752742670608523,
     "CbGeAlD": 0.105299544712364,
     "CcSEcCtD": 0.213048626839658,
     "CrCbGaD": 0.00637756138712579
   },
+  "n_trials": 0.0,
   "prediction": 0.0007538112255844,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

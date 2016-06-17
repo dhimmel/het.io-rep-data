@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00291",
   "compound_name": "Chlorambucil",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGaD": 0.3781380633512914,
     "CbGeAlD": 0.011437073313579198,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10919815078711591,
     "CtDrD": 0.49934153829099753
   },
+  "n_trials": 0.0,
   "prediction": 0.00507460395377938,
   "status": 0,
   "training_prediction": 0.0407186145840915

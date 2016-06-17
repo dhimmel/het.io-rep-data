@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.0845718866688932,
     "CbGbCtD": 0.16924628620834298,
@@ -16,6 +18,7 @@
     "CrCtD": 0.18681984364908719,
     "CtDrD": 0.12935799800547051
   },
+  "n_trials": 1.0,
   "prediction": 0.29756949142839195,
   "status": 0,
   "training_prediction": 0.91441366588605

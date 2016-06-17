@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.415474642392718,
   "metapath_contribution": {
     "CbGbCtD": 0.6033938446497853,
     "CbGeAlD": 0.031769037145054344,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23182301600653824,
     "CrCbGaD": 0.0038305093112809656
   },
+  "n_trials": 0.0,
   "prediction": 0.0015943649315111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

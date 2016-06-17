@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00846",
   "compound_name": "Flurandrenolide",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0357607282184655,
   "metapath_contribution": {
     "CbGbCtD": 0.29089622518678726,
     "CbGeAlD": 0.006568111293849823,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004927494154817981,
     "CrCrCtD": 0.5821595447949358
   },
+  "n_trials": 0.0,
   "prediction": 0.000728825562336679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

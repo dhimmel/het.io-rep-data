@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.365409622886866,
   "metapath_contribution": {
     "CbGaD": 0.3372625709702384,
     "CbGbCtD": 0.40770521761857037,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05992533730974776,
     "CcSEcCtD": 0.1854189339173073
   },
+  "n_trials": 0.0,
   "prediction": 0.00155251491411604,
   "status": 0,
   "training_prediction": 0.00397873094330683

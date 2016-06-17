@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGaD": 0.36147894717054596,
     "CbGbCtD": 0.38984148124631735,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.12910682840036694,
     "CrCbGaD": 0.002529399867138697
   },
+  "n_trials": 0.0,
   "prediction": 0.0049644630997320105,
   "status": 0,
   "training_prediction": 0.0208015501499306

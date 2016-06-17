@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00808",
   "compound_name": "Indapamide",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.39401820546163896,
   "metapath_contribution": {
     "CbGbCtD": 0.2283892286794647,
     "CbGeAlD": 0.04672256179603616,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.7229032557302187,
     "CrCbGaD": 0.0014366604947295052
   },
+  "n_trials": 0.0,
   "prediction": 0.00161478318066446,
   "status": 0,
   "training_prediction": 0.0041379065912373605

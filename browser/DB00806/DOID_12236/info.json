@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00806",
   "compound_name": "Pentoxifylline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.386643164616061,
     "CbGeAlD": 0.002473201810465117,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07916986682100124,
     "CtDrD": 0.5225289973254623
   },
+  "n_trials": 1.0,
   "prediction": 0.00816756121973458,
   "status": 0,
   "training_prediction": 0.0133675996920337

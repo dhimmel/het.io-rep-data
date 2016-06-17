@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.2074122236671,
   "metapath_contribution": {
     "CbGaD": 0.3824805526574478,
     "CbGbCtD": 0.3732059599103485,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.2052769876039735,
     "CrCbGaD": 0.0023845335631387425
   },
+  "n_trials": 1.0,
   "prediction": 0.000996601773689451,
   "status": 0,
   "training_prediction": 0.00237014900128706

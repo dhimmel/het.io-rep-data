@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.85630689206762,
   "metapath_contribution": {
     "CbGaD": 0.6854083844416433,
     "CbGeAlD": 0.11696104424533144,
     "CbGpPWpGaD": 0.08381425351840681,
     "CcSEcCtD": 0.11381631779461851
   },
+  "n_trials": 0.0,
   "prediction": 0.00243680901718263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

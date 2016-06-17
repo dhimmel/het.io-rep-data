@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.31664499349804903,
   "metapath_contribution": {
     "CbGaD": 0.26214283086984624,
     "CbGbCtD": 0.4790618853195424,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18897569970989395,
     "CrCbGaD": 0.0003258295653097762
   },
+  "n_trials": 0.0,
   "prediction": 0.0022600197281234602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

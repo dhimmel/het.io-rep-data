@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.4129114477045462,
     "CbGbCtD": 0.43627675380602216,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07823964796203677,
     "CcSEcCtD": 0.0333750079300915
   },
+  "n_trials": 0.0,
   "prediction": 0.004057609087760429,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

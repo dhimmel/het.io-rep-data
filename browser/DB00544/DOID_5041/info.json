@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.15036928404917835,
     "CbGbCtD": 0.1997167201945277,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.3423174940527736,
     "CtDrD": 0.2377569205538311
   },
+  "n_trials": 106.0,
   "prediction": 0.0789395039993379,
   "status": 0,
   "training_prediction": 0.319786672825703

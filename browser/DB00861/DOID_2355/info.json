@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.22366710013003896,
   "metapath_contribution": {
     "CbGaD": 0.6101925733450506,
     "CbGeAlD": 0.13879966550775502,
     "CbGpPWpGaD": 0.24067878414466234,
     "CrCbGaD": 0.01032897700253202
   },
+  "n_trials": 0.0,
   "prediction": 0.000838002252246578,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

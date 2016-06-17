@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.29213756631798615,
     "CbGbCtD": 0.5309269852499297,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11328534945375608,
     "CrCbGaD": 0.0012597999897415429
   },
+  "n_trials": 0.0,
   "prediction": 0.00355203624678285,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

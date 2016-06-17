@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00967",
   "compound_name": "Desloratadine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.49371373662837015,
     "CbGbCtD": 0.39751591050826196,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08469186048387238,
     "CrCbGaD": 0.0039291026752893456
   },
+  "n_trials": 0.0,
   "prediction": 0.00360604595774016,
   "status": 0,
   "training_prediction": 0.00587399048178945

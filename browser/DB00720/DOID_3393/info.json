@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.42782834850455104,
   "metapath_contribution": {
     "CbGaD": 0.35079594085353616,
     "CbGbCtD": 0.02469408210288977,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.23067088715036502,
     "CcSEcCtD": 0.3050774199938114
   },
+  "n_trials": 0.0,
   "prediction": 0.0020704350137236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

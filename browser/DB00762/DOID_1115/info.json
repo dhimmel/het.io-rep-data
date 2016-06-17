@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGbCtD": 0.17955933813930436,
     "CbGeAlD": 0.015423263735889248,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.556220287314532,
     "CtDrD": 0.20490529324771398
   },
+  "n_trials": 16.0,
   "prediction": 0.0111689329248605,
   "status": 0,
   "training_prediction": 0.0830997268926354

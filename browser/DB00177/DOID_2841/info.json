@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00177",
   "compound_name": "Valsartan",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.546163849154746,
   "metapath_contribution": {
     "CbGaD": 0.5369649611538204,
     "CbGbCtD": 0.1960325459476849,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1911024524674115,
     "CrCbGaD": 0.006237615274276514
   },
+  "n_trials": 0.0,
   "prediction": 0.0026362390302599897,
   "status": 0,
   "training_prediction": 0.0395097068682059

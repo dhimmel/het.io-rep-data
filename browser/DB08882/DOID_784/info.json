@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08882",
   "compound_name": "Linagliptin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.76853055916775,
   "metapath_contribution": {
     "CbGaD": 0.9101890060165729,
     "CbGeAlD": 0.024509971564565514,
     "CbGpPWpGaD": 0.06005837563507969,
     "CrCbGaD": 0.005242646783781841
   },
+  "n_trials": 0.0,
   "prediction": 0.0022563131071382803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

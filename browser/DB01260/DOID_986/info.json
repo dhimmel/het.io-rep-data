@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:986",
   "disease_name": "alopecia areata",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGbCtD": 0.08950454903038034,
     "CcSEcCtD": 0.01191173753024654,
@@ -11,6 +13,7 @@
     "CrCtD": 0.21358248476019318,
     "CtDrD": 0.2345941635676435
   },
+  "n_trials": 0.0,
   "prediction": 0.0894362737741036,
   "status": 0,
   "training_prediction": 0.0423702819517551

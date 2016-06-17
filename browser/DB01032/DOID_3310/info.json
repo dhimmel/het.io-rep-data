@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGbCtD": 0.8512222265016022,
     "CbGdCrCtD": 0.00498996339464516,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04113253379817543,
     "CcSEcCtD": 0.0913982610072837
   },
+  "n_trials": 0.0,
   "prediction": 0.0026056517497442104,
   "status": 0,
   "training_prediction": 0.008881793939603729

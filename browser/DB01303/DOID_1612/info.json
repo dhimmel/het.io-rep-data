@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5942782834850461,
   "metapath_contribution": {
     "CbGaD": 0.5142916304762275,
     "CbGbCtD": 0.23146429217416478,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1807675182053316,
     "CrCbGaD": 0.007808568455956453
   },
+  "n_trials": 0.0,
   "prediction": 0.00286722217973004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

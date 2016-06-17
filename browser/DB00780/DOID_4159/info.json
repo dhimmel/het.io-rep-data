@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGbCtD": 0.804935665660695,
     "CbGeAlD": 0.09186430585312583,
     "CcSEcCtD": 0.10201473026426558,
     "CrCbGaD": 0.0011852982219135993
   },
+  "n_trials": 0.0,
   "prediction": 0.0016196050525937,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

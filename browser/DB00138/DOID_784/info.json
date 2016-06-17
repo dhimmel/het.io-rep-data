@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00138",
   "compound_name": "L-Cystine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.838849665117439,
     "CbGeAlD": 0.08346250268607536,
     "CbGpPWpGaD": 0.07491704616636174,
     "CrCbGaD": 0.002770786030123939
   },
+  "n_trials": 0.0,
   "prediction": 0.0038875633009557297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.4770746542839229,
     "CbGbCtD": 0.2901042412392809,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14459840589413542,
     "CrCbGaD": 0.002146216554258399
   },
+  "n_trials": 0.0,
   "prediction": 0.00403521835353505,
   "status": 0,
   "training_prediction": 0.00735662735472666

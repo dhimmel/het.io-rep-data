@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00576",
   "compound_name": "Sulfamethizole",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.3524057217165151,
   "metapath_contribution": {
     "CbGaD": 0.27860995226403595,
     "CbGbCtD": 0.6961348284564216,
     "CbGpPWpGaD": 0.02389005229155707,
     "CrCbGaD": 0.0013651669879853276
   },
+  "n_trials": 0.0,
   "prediction": 0.0024183232431636303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

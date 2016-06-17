@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.49233878672438924,
     "CbGbCtD": 0.2633523915719531,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18989052712731797,
     "CrCbGaD": 0.004869925523263855
   },
+  "n_trials": 0.0,
   "prediction": 0.0027098246751104398,
   "status": 0,
   "training_prediction": 0.00989921248819167

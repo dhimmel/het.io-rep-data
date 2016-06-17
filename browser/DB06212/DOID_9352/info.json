@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06212",
   "compound_name": "Tolvaptan",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.15499479572936417,
     "CbGbCtD": 0.26535166500271934,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002127247367095115,
     "CrCrCtD": 0.4080740473582627
   },
+  "n_trials": 0.0,
   "prediction": 0.0088524849612252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

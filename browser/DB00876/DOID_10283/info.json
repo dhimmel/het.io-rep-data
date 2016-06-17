@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00876",
   "compound_name": "Eprosartan",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.470091027308192,
   "metapath_contribution": {
     "CbGbCtD": 0.592718665793554,
     "CbGeAlD": 0.010324776799372383,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.28930209627204867,
     "CrCbGaD": 0.007866951257462097
   },
+  "n_trials": 0.0,
   "prediction": 0.00218510374753224,
   "status": 0,
   "training_prediction": 0.00923810009212768

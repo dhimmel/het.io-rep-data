@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.584525357607282,
   "metapath_contribution": {
     "CbGaD": 0.4479101506906362,
     "CbGbCtD": 0.33256728115568646,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08044896466103711,
     "CrCbGaD": 0.00260821647497036
   },
+  "n_trials": 0.0,
   "prediction": 0.00166521426469223,
   "status": 0,
   "training_prediction": 0.00336652446846321

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.5370611183355011,
   "metapath_contribution": {
     "CbGaD": 0.7536738964122295,
     "CbGeAlD": 0.002805135389215747,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15397463575724657,
     "CrCbGaD": 0.012768635928737
   },
+  "n_trials": 0.0,
   "prediction": 0.0015317587096489401,
   "status": 0,
   "training_prediction": 0.00112970700704871

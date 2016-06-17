@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00855",
   "compound_name": "Aminolevulinic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7080624187256179,
   "metapath_contribution": {
     "CbGaD": 0.4603927400419926,
     "CbGeAlD": 0.022583546775192545,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002663259116637789,
     "CrCrCtD": 0.3696871779680567
   },
+  "n_trials": 0.0,
   "prediction": 0.00591241065874922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

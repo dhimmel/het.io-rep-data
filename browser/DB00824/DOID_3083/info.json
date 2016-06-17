@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00824",
   "compound_name": "Enprofylline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.27639636085910807,
     "CbGbCtD": 0.3835114521155979,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002360592589968611,
     "CrCrCtD": 0.32658293540550154
   },
+  "n_trials": 0.0,
   "prediction": 0.0209282889414517,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.568270481144343,
   "metapath_contribution": {
     "CbGaD": 0.3505580739706253,
     "CbGbCtD": 0.5125076666126259,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10546292277946016,
     "CrCbGaD": 0.002100145669878493
   },
+  "n_trials": 0.0,
   "prediction": 0.00205794666838955,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

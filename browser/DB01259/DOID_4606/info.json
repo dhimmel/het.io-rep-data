@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.861929207560843,
     "CbGeAlD": 0.033405420541990485,
     "CbGpPWpGaD": 0.10230887267319384,
     "CrCbGaD": 0.002356499223972682
   },
+  "n_trials": 2.0,
   "prediction": 0.0036577773811084704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

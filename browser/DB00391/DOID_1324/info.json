@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00391",
   "compound_name": "Sulpiride",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.25942782834850503,
   "metapath_contribution": {
     "CbGbCtD": 0.5438653373636712,
     "CbGeAlD": 0.11973301073682822,
     "CbGpPWpGaD": 0.32123093944899184,
     "CrCbGaD": 0.015170712450508777
   },
+  "n_trials": 0.0,
   "prediction": 0.00116388824769765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

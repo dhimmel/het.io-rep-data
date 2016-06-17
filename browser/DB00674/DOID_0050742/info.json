@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00674",
   "compound_name": "Galantamine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.44475710424836484,
     "CbGbCtD": 0.3891993015716212,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03368666560660558,
     "CrCbGaD": 0.0021898587365304202
   },
+  "n_trials": 1.0,
   "prediction": 0.0379156732189701,
   "status": 0,
   "training_prediction": 0.0174431023264181

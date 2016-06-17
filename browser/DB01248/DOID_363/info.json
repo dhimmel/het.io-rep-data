@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGbCtD": 0.3350864810319247,
     "CbGdCrCtD": 0.0014825085140409984,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0008902493812482377,
     "CtDrD": 0.4295604698694858
   },
+  "n_trials": 7.0,
   "prediction": 0.00306774325393917,
   "status": 0,
   "training_prediction": 0.0308080365555629

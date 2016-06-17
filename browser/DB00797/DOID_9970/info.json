@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00797",
   "compound_name": "Tolazoline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGbCtD": 0.2273878209766831,
     "CbGeAlD": 0.0019051839919473185,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.29832444332438013,
     "CrCtD": 0.42773340086833067
   },
+  "n_trials": 0.0,
   "prediction": 0.0211107125241755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

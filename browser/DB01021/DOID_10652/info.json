@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01021",
   "compound_name": "Trichlormethiazide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.49544863459037697,
   "metapath_contribution": {
     "CbGaD": 0.8142249744667814,
     "CbGeAlD": 0.05423088995283473,
     "CbGpPWpGaD": 0.12231008034581292,
     "CrCbGaD": 0.009234055234570989
   },
+  "n_trials": 0.0,
   "prediction": 0.00183924436447855,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

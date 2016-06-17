@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGaD": 0.4776287453842567,
     "CbGdCrCtD": 0.003531181950503967,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1525912802236545,
     "CcSEcCtD": 0.1784011779047926
   },
+  "n_trials": 0.0,
   "prediction": 0.0026249520494579103,
   "status": 0,
   "training_prediction": 0.009678378026543779

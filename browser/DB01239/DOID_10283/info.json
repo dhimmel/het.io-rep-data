@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.0735294117647059,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.0487646293888166,
   "metapath_contribution": {
     "CbGbCtD": 0.5717586068753895,
     "CbGeAlD": 0.0817657842928691,
     "CbGpPWpGaD": 0.3293583219847217,
     "CrCbGaD": 0.017117286847019846
   },
+  "n_trials": 0.0,
   "prediction": 0.000741809399431999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

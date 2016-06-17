@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
-    "CbGbCtD": 0.19464201783342658,
+    "CbGbCtD": 0.19464201783342655,
     "CbGeAlD": 0.016126128129267742,
-    "CcSEcCtD": 0.05802002706017995,
-    "CpDpCtD": 0.21758891117810022,
-    "CrCrCtD": 0.22627748021045258,
-    "CrCtD": 0.28734543558857306
+    "CcSEcCtD": 0.058020027060179946,
+    "CpDpCtD": 0.2175889111781002,
+    "CrCrCtD": 0.22627748021045255,
+    "CrCtD": 0.287345435588573
   },
+  "n_trials": 0.0,
   "prediction": 0.0136110883224532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

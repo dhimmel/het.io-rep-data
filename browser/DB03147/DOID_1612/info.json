@@ -1,8 +1,10 @@
 {
   "compound_id": "DB03147",
   "compound_name": "Flavin adenine dinucleotide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.818595578673602,
   "metapath_contribution": {
     "CbGaD": 0.40930766493184545,
     "CbGbCtD": 0.36733605952911685,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.12987544991797126,
     "CrCbGaD": 0.0040651455835677905
   },
+  "n_trials": 0.0,
   "prediction": 0.00494519507591038,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01218",
   "compound_name": "Halofantrine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.9887216208148486,
     "CbGpPWpGaD": 0.0007979802957254151,
     "CrCbGaD": 0.010480398889425965
   },
+  "n_trials": 2.0,
   "prediction": 0.0031785465756673397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

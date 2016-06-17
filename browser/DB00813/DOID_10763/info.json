@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8686605981794541,
   "metapath_contribution": {
     "CbGaD": 0.09175613379846173,
     "CbGbCtD": 0.20765750618375511,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.22445140731979066,
     "CrCtD": 0.3470290986686665
   },
+  "n_trials": 0.0,
   "prediction": 0.0146046268142591,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

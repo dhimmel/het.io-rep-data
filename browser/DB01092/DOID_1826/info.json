@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.19635890767230202,
   "metapath_contribution": {
     "CbGaD": 0.4901288783287649,
     "CbGbCtD": 0.34033665586575473,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12939515141220467,
     "CrCbGaD": 0.004903980124783922
   },
+  "n_trials": 0.0,
   "prediction": 0.00171175818793302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

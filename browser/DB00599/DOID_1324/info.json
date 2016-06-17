@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00599",
   "compound_name": "Thiopental",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.5286085825747721,
   "metapath_contribution": {
     "CbGaD": 0.5877620684667142,
     "CbGbCtD": 0.15949870999939172,
     "CbGpPWpGaD": 0.25146430864267066,
     "CrCbGaD": 0.001274912891223394
   },
+  "n_trials": 0.0,
   "prediction": 0.00192821630837775,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

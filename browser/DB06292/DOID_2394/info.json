@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06292",
   "compound_name": "Dapagliflozin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
     "CbGaD": 0.29289975504783,
     "CbGbCtD": 0.411607573485531,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1762627262026376,
     "CrCbGaD": 0.00246260867357669
   },
+  "n_trials": 0.0,
   "prediction": 0.00338369634729829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

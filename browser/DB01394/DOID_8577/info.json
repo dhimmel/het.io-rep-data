@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01394",
   "compound_name": "Colchicine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.6898569570871259,
   "metapath_contribution": {
     "CbGaD": 0.21792678694544693,
     "CbGbCtD": 0.5158263916398877,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04669113648516689,
     "CcSEcCtD": 0.1475183850035205
   },
+  "n_trials": 0.0,
   "prediction": 0.0027525598840629803,
   "status": 0,
   "training_prediction": 0.0155569225717075

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.31189429765606674,
     "CbGbCtD": 0.6249262948643899,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04537538260558268,
     "CrCbGaD": 0.0030016321078884635
   },
+  "n_trials": 0.0,
   "prediction": 0.005339561733027879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

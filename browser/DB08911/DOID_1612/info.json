@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08911",
   "compound_name": "Trametinib",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGaD": 0.17425943328902457,
     "CbGbCtD": 0.36918338594975325,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.19708152810883803,
     "CcSEcCtD": 0.21646649030710782
   },
+  "n_trials": 6.0,
   "prediction": 0.007023872307112929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

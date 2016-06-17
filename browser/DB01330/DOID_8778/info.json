@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01330",
   "compound_name": "Cefotetan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.6716514954486351,
   "metapath_contribution": {
     "CbGaD": 0.8196554242176332,
     "CbGbCtD": 0.08944902077461302,
     "CcSEcCtD": 0.08720186141500566,
     "CrCbGaD": 0.0036936935927481753
   },
+  "n_trials": 0.0,
   "prediction": 0.0019774978193510396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

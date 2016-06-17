@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGaD": 0.19461757494039686,
     "CbGbCtD": 0.5303124802974679,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14886139063011214,
     "CrCbGaD": 0.0006257827820618952
   },
+  "n_trials": 0.0,
   "prediction": 0.0031422507000327,
   "status": 0,
   "training_prediction": 0.00803286249320375

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.14817344575712676,
     "CbGbCtD": 0.20164370519544544,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.00040760054915391016,
     "CtDrD": 0.2384132804018329
   },
+  "n_trials": 7.0,
   "prediction": 0.015314145648078998,
   "status": 0,
   "training_prediction": 0.15281300249413798

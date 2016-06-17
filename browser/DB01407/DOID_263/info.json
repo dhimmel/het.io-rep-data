@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01407",
   "compound_name": "Clenbuterol",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.65149544863459,
   "metapath_contribution": {
     "CbGaD": 0.6424387500252319,
     "CbGbCtD": 0.13583111155952382,
     "CbGpPWpGaD": 0.21561854440018238,
     "CrCbGaD": 0.006111594015061865
   },
+  "n_trials": 0.0,
   "prediction": 0.00226737363315719,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

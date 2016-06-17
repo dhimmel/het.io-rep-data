@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.25817445138418393,
     "CbGbCtD": 0.3036848992670456,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002629683082518636,
     "CrCrCtD": 0.20530976531242492
   },
+  "n_trials": 0.0,
   "prediction": 0.00405628255442146,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

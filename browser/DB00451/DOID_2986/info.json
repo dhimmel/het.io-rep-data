@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.8357608476244679,
     "CbGeAlD": 0.05169092692430331,
     "CbGpPWpGaD": 0.1054628514442119,
     "CrCbGaD": 0.007085374007016836
   },
+  "n_trials": 0.0,
   "prediction": 0.00184551115724585,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

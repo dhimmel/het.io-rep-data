@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.18705763652668655,
     "CbGbCtD": 0.3192634642640593,
     "CcSEcCtD": 0.11135489296992036,
     "CpDpCtD": 0.3823240062393339
   },
+  "n_trials": 0.0,
   "prediction": 0.0148638900737647,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

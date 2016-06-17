@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.717165149544863,
   "metapath_contribution": {
     "CbGbCtD": 0.8506004104408358,
     "CbGeAlD": 0.03258157314526324,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07422459786039806,
     "CrCbGaD": 0.007351955640125241
   },
+  "n_trials": 0.0,
   "prediction": 0.00215571901297737,
   "status": 0,
   "training_prediction": 0.00212657204452315

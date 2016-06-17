@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00198",
   "compound_name": "Oseltamivir",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.6328281505215557,
     "CbGbCtD": 0.0611861290149119,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12242173678650133,
     "CcSEcCtD": 0.1506652695965872
   },
+  "n_trials": 1.0,
   "prediction": 0.00689854851714913,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

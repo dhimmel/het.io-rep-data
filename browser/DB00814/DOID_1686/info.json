@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
     "CbGaD": 0.3872211790463045,
     "CbGbCtD": 0.27267848238774856,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2953477494113768,
     "CrCbGaD": 0.0037426721864375345
   },
+  "n_trials": 0.0,
   "prediction": 0.00242284059654836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

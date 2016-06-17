@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7522756827048109,
   "metapath_contribution": {
     "CbGaD": 0.1494047855930254,
     "CbGbCtD": 0.4865871611754235,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10434853864914075,
     "CcSEcCtD": 0.21259703396386642
   },
+  "n_trials": 0.0,
   "prediction": 0.00291698363342278,
   "status": 0,
   "training_prediction": 0.0223151166451283

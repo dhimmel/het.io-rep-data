@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01068",
   "compound_name": "Clonazepam",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.170351105331599,
   "metapath_contribution": {
     "CbGaD": 0.14569591613616148,
     "CbGbCtD": 0.4559743825842105,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2941644856628842,
     "CrCbGaD": 0.002086639974538426
   },
+  "n_trials": 0.0,
   "prediction": 0.00117337513550472,
   "status": 0,
   "training_prediction": 0.00629648808274625

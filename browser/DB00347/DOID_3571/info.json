@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00347",
   "compound_name": "Trimethadione",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.6790229578240347,
     "CbGbCtD": 0.1827909377269413,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05599546507099473,
     "CrCbGaD": 0.00532723555746551
   },
+  "n_trials": 0.0,
   "prediction": 0.00315529866477579,
   "status": 0,
   "training_prediction": 0.0031126787745392602

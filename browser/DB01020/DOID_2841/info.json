@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01020",
   "compound_name": "Isosorbide Mononitrate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.41157347204161204,
   "metapath_contribution": {
     "CbGbCtD": 0.5298990171616038,
     "CbGeAlD": 0.04564736253767624,
     "CbGpPWpGaD": 0.07334497074641057,
     "CcSEcCtD": 0.35110864955430926
   },
+  "n_trials": 0.0,
   "prediction": 0.0021638585392817302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

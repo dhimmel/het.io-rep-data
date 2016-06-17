@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
-    "CbGaD": 0.3246548893715361,
-    "CbGbCtD": 0.4103174815821716,
-    "CbGeAlD": 0.026752181178661634,
-    "CbGpPWpGaD": 0.07394432398467483,
-    "CcSEcCtD": 0.16044164848006856,
-    "CrCbGaD": 0.0038894754028872204
+    "CbGaD": 0.32465488937153614,
+    "CbGbCtD": 0.4103174815821717,
+    "CbGeAlD": 0.026752181178661637,
+    "CbGpPWpGaD": 0.07394432398467485,
+    "CcSEcCtD": 0.1604416484800686,
+    "CrCbGaD": 0.003889475402887221
   },
+  "n_trials": 0.0,
   "prediction": 0.00414467623109857,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

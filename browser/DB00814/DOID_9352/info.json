@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.605981794538362,
   "metapath_contribution": {
     "CbGaD": 0.246406036069937,
     "CbGbCtD": 0.502257205812422,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16983091234268693,
     "CrCbGaD": 0.0015831794402703355
   },
+  "n_trials": 0.0,
   "prediction": 0.00299522686734098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

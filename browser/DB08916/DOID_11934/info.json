@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.832249674902471,
   "metapath_contribution": {
     "CbGaD": 0.4753122557997692,
     "CbGbCtD": 0.30289099101486455,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.023070761054580707,
     "CrCbGaD": 0.004161648001776185
   },
+  "n_trials": 0.0,
   "prediction": 0.00225850201217933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

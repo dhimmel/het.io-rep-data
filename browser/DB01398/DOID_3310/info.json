@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.518855656697009,
   "metapath_contribution": {
     "CbGbCtD": 0.6558970639316859,
     "CbGdCrCtD": 0.009322033437802451,
     "CcSEcCtD": 0.32697032016802696,
     "CrCbGaD": 0.007810582462484741
   },
+  "n_trials": 0.0,
   "prediction": 0.00215592840252836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

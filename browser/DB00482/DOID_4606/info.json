@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.540962288686606,
   "metapath_contribution": {
     "CbGaD": 0.7444828288787089,
     "CbGeAlD": 0.07765012752891377,
     "CbGpPWpGaD": 0.17426848071333337,
     "CrCbGaD": 0.0035985628790440234
   },
+  "n_trials": 0.0,
   "prediction": 0.00125474617205297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01214",
   "compound_name": "Metipranolol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.1321822413220894,
     "CbGbCtD": 0.2208589508359089,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.22702787491820342,
     "CrCtD": 0.34002092819230195
   },
+  "n_trials": 0.0,
   "prediction": 0.0601294775410572,
   "status": 0,
   "training_prediction": 0.433514434278127

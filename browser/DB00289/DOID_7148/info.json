@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.0396618985695709,
   "metapath_contribution": {
     "CbGbCtD": 0.3894236153130571,
     "CbGpPWpGaD": 0.18396946374159404,
     "CcSEcCtD": 0.41485087721782427,
     "CrCbGaD": 0.011756043727524524
   },
+  "n_trials": 0.0,
   "prediction": 0.0007472216864980389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

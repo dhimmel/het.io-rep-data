@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06144",
   "compound_name": "Sertindole",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.35370611183354994,
   "metapath_contribution": {
     "CbGaD": 0.19221338673316432,
     "CbGbCtD": 0.47331031506878307,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.23157380385364962,
     "CrCbGaD": 0.00944297467061538
   },
+  "n_trials": 0.0,
   "prediction": 0.00175742975201735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.20517385774285263,
     "CbGbCtD": 0.27093005517433083,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05972291763987292,
     "CtDrD": 0.44338493136105633
   },
+  "n_trials": 3.0,
   "prediction": 0.0330908746125565,
   "status": 0,
   "training_prediction": 0.0589134690522748

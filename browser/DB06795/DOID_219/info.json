@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06795",
   "compound_name": "Mafenide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.8926260343843809,
     "CbGeAlD": 0.012488939517856047,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0009769006320240912,
     "CrCbGaD": 0.0036075422203535137
   },
+  "n_trials": 0.0,
   "prediction": 0.00376560527902966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

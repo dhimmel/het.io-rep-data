@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.50260078023407,
   "metapath_contribution": {
     "CbGbCtD": 0.6031093870683341,
     "CbGeAlD": 0.24408003086971405,
     "CbGpPWpGaD": 0.09528764898493665,
     "CcSEcCtD": 0.05752293307701525
   },
+  "n_trials": 2.0,
   "prediction": 0.00156077218273626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

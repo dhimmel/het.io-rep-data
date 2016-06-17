@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06287",
   "compound_name": "Temsirolimus",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.22886866059817898,
   "metapath_contribution": {
     "CbGaD": 0.2899536843555689,
     "CbGbCtD": 0.3994953403430536,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1745972391737239,
     "CrCbGaD": 0.00399079007097009
   },
+  "n_trials": 0.0,
   "prediction": 0.00129472696355379,
   "status": 0,
   "training_prediction": 0.00548960962240751

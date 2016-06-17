@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.429778933680104,
   "metapath_contribution": {
     "CbGaD": 0.9516521285848804,
     "CbGeAlD": 0.013988583674718166,
     "CbGpPWpGaD": 0.030126556314791747,
     "CrCbGaD": 0.004232731425609728
   },
+  "n_trials": 4.0,
   "prediction": 0.00138880627686715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.422626788036411,
   "metapath_contribution": {
     "CbGaD": 0.9638485850604129,
     "CbGdCrCtD": 0.005227187697213543,
     "CbGpPWpGaD": 0.024452900229568728,
     "CrCbGaD": 0.006471327012804749
   },
+  "n_trials": 0.0,
   "prediction": 0.00155746285455025,
   "status": 0,
   "training_prediction": 0.0061794046370888

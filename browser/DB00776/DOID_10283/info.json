@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00776",
   "compound_name": "Oxcarbazepine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.47789336801040294,
   "metapath_contribution": {
     "CbGaD": 0.36866069830256276,
     "CbGbCtD": 0.4074935292888074,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15954830993894487,
     "CrCbGaD": 0.0032989816508146343
   },
+  "n_trials": 0.0,
   "prediction": 0.00221268649057071,
   "status": 0,
   "training_prediction": 0.00935387877930568

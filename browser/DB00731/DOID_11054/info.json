@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.5351105331599479,
   "metapath_contribution": {
     "CbGaD": 0.4551983270191903,
     "CbGbCtD": 0.3356231509847238,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06030116259138293,
     "CrCbGaD": 0.004684232902983205
   },
+  "n_trials": 0.0,
   "prediction": 0.00165513237161037,
   "status": 0,
   "training_prediction": 0.00424103419632501

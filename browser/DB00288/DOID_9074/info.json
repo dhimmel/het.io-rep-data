@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.08959934934516343,
     "CbGbCtD": 0.15688902868067178,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1669773546632539,
     "CrCtD": 0.21855669121698024
   },
+  "n_trials": 0.0,
   "prediction": 0.07442056289151801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

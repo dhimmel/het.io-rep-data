@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGaD": 0.6888126880167857,
     "CbGbCtD": 0.12100000684567852,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.139274651171994,
     "CrCbGaD": 0.004690092678637459
   },
+  "n_trials": 0.0,
   "prediction": 0.0022941852655687,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

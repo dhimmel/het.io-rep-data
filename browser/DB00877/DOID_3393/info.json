@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.26527958387516304,
   "metapath_contribution": {
     "CbGaD": 0.29949427748564056,
     "CbGbCtD": 0.4368803430243776,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1053363278119484,
     "CcSEcCtD": 0.15060342156463455
   },
+  "n_trials": 185.0,
   "prediction": 0.0014733628648738802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

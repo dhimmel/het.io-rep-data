@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGbCtD": 0.5789776579489453,
     "CbGdCrCtD": 0.007986496865149382,
     "CbGeAlD": 0.19098747973387117,
     "CbGpPWpGaD": 0.22204836545203424
   },
+  "n_trials": 0.0,
   "prediction": 0.00291001788910557,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

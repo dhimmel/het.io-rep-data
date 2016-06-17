@@ -1,18 +1,20 @@
 {
   "compound_id": "DB08896",
   "compound_name": "Regorafenib",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
-    "CbGaD": 0.42056226030146865,
-    "CbGbCtD": 0.3397079101854529,
-    "CbGdCrCtD": 0.001716667994565069,
-    "CbGeAlD": 0.0431565027636322,
-    "CbGpPWpGaD": 0.10848362498559273,
-    "CcSEcCtD": 0.08299351011135721,
-    "CrCbGaD": 0.0033795236579311173
+    "CbGaD": 0.42056226030146876,
+    "CbGbCtD": 0.33970791018545293,
+    "CbGdCrCtD": 0.0017166679945650693,
+    "CbGeAlD": 0.043156502763632205,
+    "CbGpPWpGaD": 0.10848362498559276,
+    "CcSEcCtD": 0.08299351011135724,
+    "CrCbGaD": 0.003379523657931118
   },
+  "n_trials": 0.0,
   "prediction": 0.0039724629301224395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

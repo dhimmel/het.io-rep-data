@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.1346676698851498,
     "CbGbCtD": 0.2023268909689771,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2120592747455563,
     "CrCtD": 0.36864351366125486
   },
+  "n_trials": 0.0,
   "prediction": 0.0313908259436616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

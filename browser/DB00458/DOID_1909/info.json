@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.340052015604681,
   "metapath_contribution": {
     "CbGaD": 0.09891976607430779,
     "CbGbCtD": 0.5472324671218526,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14586557736653818,
     "CrCbGaD": 0.004797610323219574
   },
+  "n_trials": 0.0,
   "prediction": 0.0011374843684818698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

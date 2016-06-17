@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00871",
   "compound_name": "Terbutaline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8289986996098829,
   "metapath_contribution": {
     "CbGaD": 0.4266384847010698,
     "CbGbCtD": 0.48787189106242584,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.060918178092670965,
     "CrCbGaD": 0.00389305987282757
   },
+  "n_trials": 0.0,
   "prediction": 0.00361110930340464,
   "status": 0,
   "training_prediction": 0.00438115428031187

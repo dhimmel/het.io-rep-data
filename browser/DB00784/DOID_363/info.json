@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.4842500729616683,
     "CbGbCtD": 0.36874023025553365,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.06233976842792247,
     "CrCbGaD": 0.002842869747948646
   },
+  "n_trials": 0.0,
   "prediction": 0.005741991178287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

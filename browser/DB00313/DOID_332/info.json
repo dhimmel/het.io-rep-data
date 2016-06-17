@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.7230169050715209,
   "metapath_contribution": {
     "CbGbCtD": 0.17706146262441838,
     "CbGeAlD": 0.14152539050611246,
     "CbGpPWpGaD": 0.2077533413612005,
     "CcSEcCtD": 0.47365980550826864
   },
+  "n_trials": 1.0,
   "prediction": 0.00182019019213763,
   "status": 0,
   "training_prediction": 0.00136913673823625

@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.1252243455183826,
     "CbGbCtD": 0.15241479466255797,
@@ -15,6 +17,5 @@
     "CrCtD": 0.2521064805051662
   },
   "prediction": 0.0348182222545412,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

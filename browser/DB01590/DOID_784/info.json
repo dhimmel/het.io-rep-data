@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0182054616384915,
   "metapath_contribution": {
     "CbGaD": 0.7085468389749825,
     "CbGeAlD": 0.06266368206738153,
     "CbGpPWpGaD": 0.2206122985167281,
     "CrCbGaD": 0.008177180440907934
   },
+  "n_trials": 0.0,
   "prediction": 0.000589395681340437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.05851755526658001,
   "metapath_contribution": {
     "CbGaD": 0.4775633756874595,
     "CbGeAlD": 0.044647867601982034,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08939571611504223,
     "CrCbGaD": 0.00846293485781731
   },
+  "n_trials": 0.0,
   "prediction": 0.000684928561516807,
   "status": 0,
   "training_prediction": 0.00030865204621277403

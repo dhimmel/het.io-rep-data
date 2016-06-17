@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04837",
   "compound_name": "Clofedanol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGbCtD": 0.3162886102613455,
     "CbGeAlD": 0.003074739045293649,
     "CrCrCtD": 0.33540897836760786,
     "CrCtD": 0.3452276723257531
   },
+  "n_trials": 0.0,
   "prediction": 0.0105808149635355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

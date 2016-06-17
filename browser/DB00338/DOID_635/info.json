@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGbCtD": 0.3230180924071582,
     "CbGeAlD": 0.01884655699846245,
     "CcSEcCtD": 0.09635271600256083,
     "CiPCiCtD": 0.5617826345918185
   },
+  "n_trials": 1.0,
   "prediction": 0.0143966999996637,
   "status": 0,
   "training_prediction": 0.0431823989831144

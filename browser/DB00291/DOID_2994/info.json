@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00291",
   "compound_name": "Chlorambucil",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGbCtD": 0.1837073615839616,
     "CbGeAlD": 0.008431072598060361,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0018547768666717956,
     "CtDrD": 0.29517333261330453
   },
+  "n_trials": 0.0,
   "prediction": 0.0301068846220428,
   "status": 0,
   "training_prediction": 0.13924597322300303

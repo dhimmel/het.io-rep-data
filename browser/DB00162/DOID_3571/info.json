@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.168400520156047,
   "metapath_contribution": {
     "CbGaD": 0.5527275374063249,
     "CbGdCrCtD": 0.0077649539767635474,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2994990980426925,
     "CrCbGaD": 0.013011224067249706
   },
+  "n_trials": 0.0,
   "prediction": 0.000852807928829023,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

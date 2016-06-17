@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.6465608064845132,
     "CbGbCtD": 0.011628889694849494,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.17419162094935586,
     "CcSEcCtD": 0.09189467712626748
   },
+  "n_trials": 0.0,
   "prediction": 0.00271482748184206,
   "status": 0,
   "training_prediction": 0.00329437826117881

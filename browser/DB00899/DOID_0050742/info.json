@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00899",
   "compound_name": "Remifentanil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.8894256714828731,
     "CbGpPWpGaD": 0.003888531059359538,
     "CcSEcCtD": 0.09862108099373852,
     "CrCbGaD": 0.00806471646402874
   },
+  "n_trials": 0.0,
   "prediction": 0.00371995410959804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

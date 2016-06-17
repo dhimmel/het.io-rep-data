@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01354",
   "compound_name": "Heptabarbital",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.47977313371714314,
     "CbGbCtD": 0.39278799438068385,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07368148047332179,
     "CrCbGaD": 0.004809967777960143
   },
+  "n_trials": 0.0,
   "prediction": 0.00700266958497818,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

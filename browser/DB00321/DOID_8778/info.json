@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.264629388816645,
   "metapath_contribution": {
     "CbGaD": 0.37337184341534924,
     "CbGbCtD": 0.029793892587314484,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.135181696034393,
     "CrCbGaD": 0.005041274651818782
   },
+  "n_trials": 0.0,
   "prediction": 0.00114944710980972,
   "status": 0,
   "training_prediction": 0.0018752748123416101

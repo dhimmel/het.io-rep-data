@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.615084525357607,
   "metapath_contribution": {
     "CbGaD": 0.4532002517300865,
     "CbGbCtD": 0.34851061873623507,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16029643437000154,
     "CrCbGaD": 0.003203118091782275
   },
+  "n_trials": 0.0,
   "prediction": 0.00302758959902501,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

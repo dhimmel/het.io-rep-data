@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00255",
   "compound_name": "Diethylstilbestrol",
+  "compound_percentile": 0.264705882352941,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.553966189856957,
   "metapath_contribution": {
     "CbGbCtD": 0.7548445081979873,
     "CbGeAlD": 0.1080190638620221,
     "CbGpPWpGaD": 0.13387872994766364,
     "CrCbGaD": 0.0032576979923268803
   },
+  "n_trials": 0.0,
   "prediction": 0.0013888779754356,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

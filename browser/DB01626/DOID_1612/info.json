@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01626",
   "compound_name": "Pargyline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.19635890767230202,
   "metapath_contribution": {
     "CbGeAlD": 0.03616427761665344,
     "CbGpPWpGaD": 0.12401934629782242,
     "CrCbGaD": 0.0036074205061601364,
     "CrCrCtD": 0.8362089555793639
   },
+  "n_trials": 0.0,
   "prediction": 0.00128570674111632,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

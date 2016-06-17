@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGaD": 0.20328349737265225,
     "CbGbCtD": 0.5721658217017059,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16460818445087427,
     "CrCbGaD": 0.0005636798750562978
   },
+  "n_trials": 0.0,
   "prediction": 0.0027651615001387103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.690507152145644,
   "metapath_contribution": {
     "CbGaD": 0.15804731560133092,
     "CbGbCtD": 0.5058938465057891,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20715265832546617,
     "CrCbGaD": 0.00035836331210206516
   },
+  "n_trials": 0.0,
   "prediction": 0.00374290770234635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.517555266579974,
   "metapath_contribution": {
     "CbGaD": 0.5568322274496242,
     "CbGbCtD": 0.3720318784875928,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05741467409779379,
     "CrCbGaD": 0.0008206171123309394
   },
+  "n_trials": 0.0,
   "prediction": 0.00142893471844599,
   "status": 0,
   "training_prediction": 0.00288954237607166

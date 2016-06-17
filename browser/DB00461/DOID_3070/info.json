@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.7600780234070219,
   "metapath_contribution": {
     "CbGaD": 0.7212477486273672,
     "CbGbCtD": 0.13519047952208207,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07417602059931862,
     "CrCbGaD": 0.00638954423223724
   },
+  "n_trials": 0.0,
   "prediction": 0.0020242224335384803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

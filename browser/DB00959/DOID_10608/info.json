@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:10608",
   "disease_name": "celiac disease",
+  "disease_percentile": 0.104681404421326,
   "metapath_contribution": {
     "CbGeAlD": 0.005043291753884299,
     "CtDrD": 0.9949567082461156
   },
+  "n_trials": 1.0,
   "prediction": 0.000803243560036367,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

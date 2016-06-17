@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.556566970091027,
   "metapath_contribution": {
     "CbGaD": 0.5166328781817563,
     "CbGbCtD": 0.15703259236559836,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.014260315020475093,
     "CcSEcCtD": 0.22526600488200715
   },
+  "n_trials": 0.0,
   "prediction": 0.0018942808700946,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

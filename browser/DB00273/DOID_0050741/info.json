@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00273",
   "compound_name": "Topiramate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGbCtD": 0.19917409941853995,
     "CbGeAlD": 0.08111281493622739,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15145936637913832,
     "CpDpCtD": 0.4773585393027122
   },
+  "n_trials": 21.0,
   "prediction": 0.009180949334306491,
   "status": 0,
   "training_prediction": 0.0248991208428839

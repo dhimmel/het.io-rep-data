@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01586",
   "compound_name": "Ursodeoxycholic acid",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.648244473342003,
   "metapath_contribution": {
     "CbGaD": 0.25745159827029734,
     "CbGbCtD": 0.28218709088789046,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1949722598848558,
     "CrCbGaD": 0.0032357678658144
   },
+  "n_trials": 3.0,
   "prediction": 0.00341329426026585,
   "status": 0,
   "training_prediction": 0.0087220683235324

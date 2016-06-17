@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00475",
   "compound_name": "Chlordiazepoxide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.258127438231469,
   "metapath_contribution": {
     "CbGaD": 0.3481933968395581,
     "CbGbCtD": 0.5372390585074944,
     "CbGpPWpGaD": 0.10927805884790856,
     "CrCbGaD": 0.005289485805038944
   },
+  "n_trials": 0.0,
   "prediction": 0.00155973882894563,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

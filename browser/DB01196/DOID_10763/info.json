@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.271131339401821,
   "metapath_contribution": {
     "CbGaD": 0.26073087814975804,
     "CbGbCtD": 0.33332247935027665,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0030022425427832697,
     "CrCrCtD": 0.14350284362148616
   },
+  "n_trials": 0.0,
   "prediction": 0.0022060842244818898,
   "status": 0,
   "training_prediction": 0.0257655855610109

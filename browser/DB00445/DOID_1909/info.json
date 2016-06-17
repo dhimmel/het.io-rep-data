@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00445",
   "compound_name": "Epirubicin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.32159760805605897,
     "CbGbCtD": 0.16011791607830503,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0020331218776615447,
     "CtDrD": 0.34051896289027783
   },
+  "n_trials": 1.0,
   "prediction": 0.00210491170541993,
   "status": 0,
   "training_prediction": 0.0321307918218872

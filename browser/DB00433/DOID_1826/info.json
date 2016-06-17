@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00433",
   "compound_name": "Prochlorperazine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.1669050236220032,
     "CbGbCtD": 0.1060017664426357,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2485116559879226,
     "CrCtD": 0.3322922376660852
   },
+  "n_trials": 0.0,
   "prediction": 0.00678652675505054,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

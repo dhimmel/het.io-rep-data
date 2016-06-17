@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00751",
   "compound_name": "Epinastine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.44018205461638504,
   "metapath_contribution": {
     "CbGaD": 0.4674861987621393,
     "CbGbCtD": 0.3368662165665002,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08568828848309422,
     "CrCbGaD": 0.006512250761229027
   },
+  "n_trials": 0.0,
   "prediction": 0.00197291008485278,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

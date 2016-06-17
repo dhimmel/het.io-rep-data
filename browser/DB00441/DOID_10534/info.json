@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.08443943294955725,
     "CbGbCtD": 0.18733658989301635,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.1052862194900619,
     "CtDrD": 0.1717668712812999
   },
+  "n_trials": 5.0,
   "prediction": 0.0398399510235858,
   "status": 0,
   "training_prediction": 0.266572362508972

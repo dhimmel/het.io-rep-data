@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGaD": 0.7910424305114313,
     "CbGeAlD": 0.08083590388572925,
     "CbGpPWpGaD": 0.12080885638783433,
     "CrCbGaD": 0.007312809215005075
   },
+  "n_trials": 0.0,
   "prediction": 0.00241220785251635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

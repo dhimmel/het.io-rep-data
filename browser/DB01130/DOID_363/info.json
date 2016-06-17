@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01130",
   "compound_name": "Prednicarbate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGbCtD": 0.22956364648418934,
     "CbGeAlD": 0.00016313240269547893,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.28588827725141924,
     "CrCtD": 0.4789641961556471
   },
+  "n_trials": 0.0,
   "prediction": 0.0046674398844866105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

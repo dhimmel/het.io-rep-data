@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.394668400520156,
   "metapath_contribution": {
     "CbGaD": 0.2827071293872941,
     "CbGbCtD": 0.5851696494644509,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1295186388576277,
     "CrCbGaD": 0.0004578680147234671
   },
+  "n_trials": 0.0,
   "prediction": 0.00136722489324626,
   "status": 0,
   "training_prediction": 0.0022302630906270602

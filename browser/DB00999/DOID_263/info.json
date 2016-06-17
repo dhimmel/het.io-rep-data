@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00999",
   "compound_name": "Hydrochlorothiazide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.3321371972198799,
     "CbGeAlD": 0.031012768240834064,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002867516714564537,
     "CtDrD": 0.5221809775366633
   },
+  "n_trials": 0.0,
   "prediction": 0.00838872735050933,
   "status": 0,
   "training_prediction": 0.0395839289681228

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.4364128127261274,
     "CbGbCtD": 0.29970569136720354,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10129039629399739,
     "CcSEcCtD": 0.04681818194491469
   },
+  "n_trials": 0.0,
   "prediction": 0.00483710878588993,
   "status": 0,
   "training_prediction": 0.0021847523011900897

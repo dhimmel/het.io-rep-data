@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.17036621864745927,
     "CbGbCtD": 0.23185209171371907,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.1782163069500558,
     "CrCtD": 0.34331301082743476
   },
+  "n_trials": 0.0,
   "prediction": 0.061546856700750996,
   "status": 0,
   "training_prediction": 0.176197443522873

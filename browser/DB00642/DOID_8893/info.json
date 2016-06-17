@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGbCtD": 0.12243373235180283,
     "CbGdCrCtD": 0.001241163757754124,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.16778671097235756,
     "CrCtD": 0.25437588694403507
   },
+  "n_trials": 0.0,
   "prediction": 0.0323087354087563,
   "status": 0,
   "training_prediction": 0.12446517437299

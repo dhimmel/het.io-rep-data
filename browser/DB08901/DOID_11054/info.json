@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.5102668553408691,
     "CbGbCtD": 0.20408952928991728,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.11376400598431073,
     "CcSEcCtD": 0.10292031092634225
   },
+  "n_trials": 0.0,
   "prediction": 0.004059931898574971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

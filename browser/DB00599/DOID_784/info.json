@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00599",
   "compound_name": "Thiopental",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.5663198959687911,
   "metapath_contribution": {
-    "CbGaD": 0.7659447451064637,
+    "CbGaD": 0.7659447451064638,
     "CbGeAlD": 0.08485049899086095,
-    "CbGpPWpGaD": 0.14902529913984527,
-    "CrCbGaD": 0.00017945676283006044
+    "CbGpPWpGaD": 0.1490252991398453,
+    "CrCbGaD": 0.00017945676283006047
   },
+  "n_trials": 0.0,
   "prediction": 0.00171480290611182,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

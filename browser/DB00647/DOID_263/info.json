@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00647",
   "compound_name": "Dextropropoxyphene",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.212613784135241,
   "metapath_contribution": {
     "CbGbCtD": 0.8098145018444262,
     "CbGeAlD": 0.0024746790086227865,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17260891753207955,
     "CrCbGaD": 0.004257522392263961
   },
+  "n_trials": 0.0,
   "prediction": 0.00105654377808083,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

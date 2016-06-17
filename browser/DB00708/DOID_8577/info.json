@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.28998699609883005,
   "metapath_contribution": {
     "CbGbCtD": 0.709612422606154,
     "CbGpPWpGaD": 0.09248328429975408,
     "CcSEcCtD": 0.19185989712347196,
     "CrCbGaD": 0.006044395970620101
   },
+  "n_trials": 0.0,
   "prediction": 0.00153392983425812,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

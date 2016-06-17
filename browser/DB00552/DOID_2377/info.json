@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00552",
   "compound_name": "Pentostatin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CcSEcCtD": 0.04055356928321757,
     "CiPCiCtD": 0.37214989542543614,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.23323650394747195,
     "CrCtD": 0.3536275432938466
   },
+  "n_trials": 0.0,
   "prediction": 0.0178709684901963,
   "status": 0,
   "training_prediction": 0.0446584467434294

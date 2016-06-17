@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.785435630689207,
   "metapath_contribution": {
     "CbGaD": 0.3388746870820106,
     "CbGbCtD": 0.33717566107421554,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15228626333649178,
     "CrCbGaD": 0.0033524197042890695
   },
+  "n_trials": 2.0,
   "prediction": 0.00309126067696857,
   "status": 0,
   "training_prediction": 0.0148824063198706

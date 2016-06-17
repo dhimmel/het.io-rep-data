@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.628088426527958,
   "metapath_contribution": {
     "CbGaD": 0.14403265477355248,
     "CbGbCtD": 0.5370137405914077,
     "CbGpPWpGaD": 0.042314316028349404,
     "CcSEcCtD": 0.27663928860669046
   },
+  "n_trials": 0.0,
   "prediction": 0.00288348764126327,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

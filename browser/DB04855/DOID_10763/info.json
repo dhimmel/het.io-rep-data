@@ -1,17 +1,19 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.795838751625488,
   "metapath_contribution": {
-    "CbGaD": 0.2678560273486889,
-    "CbGbCtD": 0.49364365210003625,
-    "CbGeAlD": 0.05166683617681918,
-    "CbGpPWpGaD": 0.08908034492168937,
-    "CcSEcCtD": 0.09629273711623394,
-    "CrCbGaD": 0.0014604023365324009
+    "CbGaD": 0.26785602734868885,
+    "CbGbCtD": 0.49364365210003613,
+    "CbGeAlD": 0.05166683617681917,
+    "CbGpPWpGaD": 0.08908034492168934,
+    "CcSEcCtD": 0.09629273711623391,
+    "CrCbGaD": 0.0014604023365324007
   },
+  "n_trials": 0.0,
   "prediction": 0.009699324678273091,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

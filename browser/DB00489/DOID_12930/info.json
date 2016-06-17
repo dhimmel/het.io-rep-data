@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00489",
   "compound_name": "Sotalol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.815734029527715,
     "CbGeAlD": 0.08240785578362854,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08719852243435736,
     "CrCbGaD": 0.0068362033047267585
   },
+  "n_trials": 0.0,
   "prediction": 0.0030556833613457103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

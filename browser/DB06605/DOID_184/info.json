@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06605",
   "compound_name": "Apixaban",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.5114963609611551,
     "CbGbCtD": 0.37182476537715653,
     "CbGpPWpGaD": 0.0874816548807295,
     "CcSEcCtD": 0.029197218780958854
   },
+  "n_trials": 0.0,
   "prediction": 0.00411110533180804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

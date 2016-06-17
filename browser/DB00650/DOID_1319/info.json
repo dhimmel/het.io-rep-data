@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.5442132639791939,
   "metapath_contribution": {
     "CbGbCtD": 0.7009827821471398,
     "CbGdCrCtD": 0.0053224644491991786,
     "CbGpPWpGaD": 0.05763122483717347,
     "CcSEcCtD": 0.2360635285664875
   },
+  "n_trials": 1.0,
   "prediction": 0.00167089039971125,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7301690507152149,
   "metapath_contribution": {
     "CbGaD": 0.3556436508269248,
     "CbGbCtD": 0.40848186111870893,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11042142954619791,
     "CrCbGaD": 0.00038214701000637805
   },
+  "n_trials": 0.0,
   "prediction": 0.00385040380731582,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

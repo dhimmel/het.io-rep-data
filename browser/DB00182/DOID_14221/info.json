@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.30039011703511104,
   "metapath_contribution": {
     "CbGbCtD": 0.7514504488197726,
     "CbGeAlD": 0.03463398447974941,
     "CbGpPWpGaD": 0.21213372206322192,
     "CrCbGaD": 0.0017818446372559694
   },
+  "n_trials": 0.0,
   "prediction": 0.00107098734037017,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

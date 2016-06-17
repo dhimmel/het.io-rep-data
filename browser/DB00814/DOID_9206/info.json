@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.23416900329386145,
     "CbGbCtD": 0.1660909234271463,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.485667230409652,
     "CrCbGaD": 0.002312729886645488
   },
+  "n_trials": 0.0,
   "prediction": 0.0071302403456515,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

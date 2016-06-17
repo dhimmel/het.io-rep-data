@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGaD": 0.4263615670829776,
     "CbGbCtD": 0.3467914322691758,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13139190020195152,
     "CrCbGaD": 0.003869398571839519
   },
+  "n_trials": 0.0,
   "prediction": 0.0016496764036853,
   "status": 0,
   "training_prediction": 0.0036347288825176204

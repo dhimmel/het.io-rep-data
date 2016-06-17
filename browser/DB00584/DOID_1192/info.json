@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.6781534460338101,
   "metapath_contribution": {
     "CbGaD": 0.43057270352426913,
     "CbGbCtD": 0.2782316275082497,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.28412799506647257,
     "CrCbGaD": 0.005457863306170872
   },
+  "n_trials": 0.0,
   "prediction": 0.00219199424391728,
   "status": 0,
   "training_prediction": 0.009947802129042841

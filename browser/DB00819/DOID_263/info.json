@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00819",
   "compound_name": "Acetazolamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.6033560434211879,
     "CbGbCtD": 0.06585182862512852,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11615675228008433,
     "CrCbGaD": 0.005296253340198692
   },
+  "n_trials": 0.0,
   "prediction": 0.0038190295804809,
   "status": 0,
   "training_prediction": 0.0183350841127835

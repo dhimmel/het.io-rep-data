@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGbCtD": 0.15681098356522047,
     "CbGdCrCtD": 0.0014174210912033813,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.30698307038759437,
     "CrCtD": 0.46452161069617603
   },
+  "n_trials": 0.0,
   "prediction": 0.0104423466189917,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

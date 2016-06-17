@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.42782834850455104,
   "metapath_contribution": {
     "CbGaD": 0.39887371859322246,
     "CbGbCtD": 0.22725141774967308,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20366870200882542,
     "CrCbGaD": 0.007096940631580461
   },
+  "n_trials": 0.0,
   "prediction": 0.0028318165042397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

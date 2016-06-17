@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01219",
   "compound_name": "Dantrolene",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.5643693107932379,
   "metapath_contribution": {
     "CbGbCtD": 0.5527995793417136,
     "CbGeAlD": 0.11638135931744242,
     "CbGpPWpGaD": 0.053147426185848855,
     "CcSEcCtD": 0.27767163515499516
   },
+  "n_trials": 0.0,
   "prediction": 0.00272148017851592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

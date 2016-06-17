@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00715",
   "compound_name": "Paroxetine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGaD": 0.3572302436255447,
     "CbGbCtD": 0.3818307589558424,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07587066391936424,
     "CcSEcCtD": 0.15715978512752157
   },
+  "n_trials": 0.0,
   "prediction": 0.01040025377953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.3132458941721401,
     "CbGbCtD": 0.18227500285555126,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.025162796649146404,
     "CtDrD": 0.37588128467483717
   },
+  "n_trials": 0.0,
   "prediction": 0.0110212440975296,
   "status": 0,
   "training_prediction": 0.0156628345171091

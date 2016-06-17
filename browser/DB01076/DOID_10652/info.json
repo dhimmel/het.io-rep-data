@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.298439531859558,
   "metapath_contribution": {
     "CbGaD": 0.25889301244284946,
     "CbGbCtD": 0.5547887883021505,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15179112443831436,
     "CrCbGaD": 6.788536375117148e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00129172175007389,
   "status": 0,
   "training_prediction": 0.0026124419868355

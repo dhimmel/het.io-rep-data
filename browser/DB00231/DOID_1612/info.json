@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.24577373211963602,
   "metapath_contribution": {
     "CbGaD": 0.1061791043537146,
     "CbGbCtD": 0.5641030632456888,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20310854741137618,
     "CrCbGaD": 0.003146327455087019
   },
+  "n_trials": 0.0,
   "prediction": 0.00142438612732127,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

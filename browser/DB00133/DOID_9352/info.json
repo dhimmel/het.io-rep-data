@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00133",
   "compound_name": "L-Serine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.7913564228640072,
     "CbGeAlD": 0.06781520266938575,
     "CbGpPWpGaD": 0.13554775337144773,
     "CrCbGaD": 0.005280621095159346
   },
+  "n_trials": 0.0,
   "prediction": 0.0032890370290840102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

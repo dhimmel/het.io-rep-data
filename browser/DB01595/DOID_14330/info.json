@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.6866059817945379,
   "metapath_contribution": {
     "CbGaD": 0.6602514152346369,
     "CbGeAlD": 0.1580915505775957,
     "CbGpPWpGaD": 0.18018879925429682,
     "CrCbGaD": 0.0014682349334705703
   },
+  "n_trials": 0.0,
   "prediction": 0.00180543006965468,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

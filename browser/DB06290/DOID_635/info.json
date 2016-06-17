@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.12601800931506588,
     "CbGbCtD": 0.25464952325859697,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0469230009348513,
     "CiPCiCtD": 0.5606315062592147
   },
+  "n_trials": 0.0,
   "prediction": 0.0309271678302084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

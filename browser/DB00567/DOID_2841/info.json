@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.312743823146944,
   "metapath_contribution": {
     "CbGaD": 0.20755862884579512,
     "CbGbCtD": 0.6019948524066395,
     "CcSEcCtD": 0.18853051430267903,
     "CrCbGaD": 0.0019160044448863895
   },
+  "n_trials": 0.0,
   "prediction": 0.00184021928778666,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

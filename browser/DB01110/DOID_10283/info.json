@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.42927266365615335,
     "CbGbCtD": 0.33455863144425035,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07684947101524071,
     "CrCbGaD": 0.0033775364851614366
   },
+  "n_trials": 0.0,
   "prediction": 0.00495930372696111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.716514954486346,
   "metapath_contribution": {
     "CbGaD": 0.9665138359497807,
     "CbGeAlD": 0.01630428303200994,
     "CbGpPWpGaD": 0.010280955276329896,
     "CrCbGaD": 0.006900925741879346
   },
+  "n_trials": 0.0,
   "prediction": 0.0017834632511529302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

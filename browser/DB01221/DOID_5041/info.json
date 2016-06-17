@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.7215712753234189,
     "CbGbCtD": 0.08434716001237384,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14696654016759003,
     "CcSEcCtD": 0.01151044904848831
   },
+  "n_trials": 0.0,
   "prediction": 0.00353689283508115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

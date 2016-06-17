@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.862158647594278,
   "metapath_contribution": {
     "CbGaD": 0.3482490877782829,
     "CbGbCtD": 0.44193847088673,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.13571395754317717,
     "CcSEcCtD": 0.03185483982609487
   },
+  "n_trials": 0.0,
   "prediction": 0.0025826966364626397,
   "status": 0,
   "training_prediction": 0.0052164790479277395

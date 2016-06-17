@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00748",
   "compound_name": "Carbinoxamine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.24837451235370603,
   "metapath_contribution": {
     "CbGaD": 0.5585608758841545,
     "CbGbCtD": 0.3638006978516966,
     "CbGpPWpGaD": 0.07683324745529568,
     "CrCbGaD": 0.0008051788088532962
   },
+  "n_trials": 0.0,
   "prediction": 0.0009841260605393382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

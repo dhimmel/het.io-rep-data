@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00777",
   "compound_name": "Propiomazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8042912873862159,
   "metapath_contribution": {
     "CbGaD": 0.5603888394917207,
     "CbGbCtD": 0.2912977611574996,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10373120685086384,
     "CrCbGaD": 0.005216135347983596
   },
+  "n_trials": 0.0,
   "prediction": 0.0040956516149765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

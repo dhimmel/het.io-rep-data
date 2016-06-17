@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01094",
   "compound_name": "Hesperetin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.7447704465215951,
     "CbGeAlD": 0.11478033751490255,
     "CbGpPWpGaD": 0.1404492159635023
   },
+  "n_trials": 0.0,
   "prediction": 0.00333212629475751,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00756",
   "compound_name": "Hexachlorophene",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.539661898569571,
   "metapath_contribution": {
     "CbGaD": 0.6133308603133176,
     "CbGeAlD": 0.09920788663185183,
     "CbGpPWpGaD": 0.15876604795670082,
     "CcSEcCtD": 0.1286952050981297
   },
+  "n_trials": 0.0,
   "prediction": 0.00431120709051391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

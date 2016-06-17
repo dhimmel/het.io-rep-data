@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00730",
   "compound_name": "Thiabendazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGaD": 0.9586562320643147,
     "CbGpPWpGaD": 0.03634009761101298,
     "CrCbGaD": 0.00500367032467232
   },
+  "n_trials": 0.0,
   "prediction": 0.0025889476219506102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

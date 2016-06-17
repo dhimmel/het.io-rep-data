@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.00845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.47559149734607026,
     "CbGbCtD": 0.2864528622283502,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17844673361928137,
     "CrCbGaD": 0.005098472163567204
   },
+  "n_trials": 1.0,
   "prediction": 0.00033345497977152,
   "status": 0,
   "training_prediction": 0.0048531684184764294

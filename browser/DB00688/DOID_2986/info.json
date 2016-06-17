@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.06355092562228021,
     "CbGeAlD": 0.043115643552560784,
     "CbGpPWpGaD": 0.09806558522082971,
     "CtDrD": 0.7952678456043292
   },
+  "n_trials": 9.0,
   "prediction": 0.00194344444784859,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

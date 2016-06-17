@@ -1,17 +1,19 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.6853055916775029,
   "metapath_contribution": {
-    "CbGaD": 0.7012242863312069,
-    "CbGbCtD": 0.0013948381373105974,
-    "CbGeAlD": 0.07506841917643069,
-    "CbGpPWpGaD": 0.12523330248730555,
-    "CcSEcCtD": 0.09395929805192796,
-    "CrCbGaD": 0.0031198558158182614
+    "CbGaD": 0.701224286331207,
+    "CbGbCtD": 0.0013948381373105976,
+    "CbGeAlD": 0.0750684191764307,
+    "CbGpPWpGaD": 0.12523330248730558,
+    "CcSEcCtD": 0.09395929805192797,
+    "CrCbGaD": 0.003119855815818262
   },
+  "n_trials": 0.0,
   "prediction": 0.0020287685847594603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

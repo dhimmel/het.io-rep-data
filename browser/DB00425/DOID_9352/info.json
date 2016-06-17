@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGaD": 0.2554869532084472,
     "CbGbCtD": 0.5051664971418077,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17392208257296923,
     "CrCbGaD": 0.00012088997921731329
   },
+  "n_trials": 0.0,
   "prediction": 0.00526517446668795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

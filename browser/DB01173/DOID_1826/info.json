@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.2714325961761123,
     "CbGbCtD": 0.34918558736402205,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0023459237143509466,
     "CrCrCtD": 0.22972098908554356
   },
+  "n_trials": 0.0,
   "prediction": 0.0126159758961465,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

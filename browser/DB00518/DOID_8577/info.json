@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
     "CbGaD": 0.3488756373624736,
     "CbGbCtD": 0.5279360070878837,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08396219465387031,
     "CrCbGaD": 0.0007404015504926087
   },
+  "n_trials": 0.0,
   "prediction": 0.0021155126399002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

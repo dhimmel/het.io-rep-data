@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.5546163849154749,
   "metapath_contribution": {
     "CbGaD": 0.4115842512747334,
     "CbGbCtD": 0.3577051796655576,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11457120287528458,
     "CrCbGaD": 0.0024431170192298567
   },
+  "n_trials": 0.0,
   "prediction": 0.0026613723456274,
   "status": 0,
   "training_prediction": 0.0141889890969048

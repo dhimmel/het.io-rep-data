@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGaD": 0.3887524955862614,
     "CbGbCtD": 0.3108084426294495,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.12038398346014881,
     "CcSEcCtD": 0.1307296458785488
   },
+  "n_trials": 1.0,
   "prediction": 0.0064029298079021,
   "status": 0,
   "training_prediction": 0.0438205045876074

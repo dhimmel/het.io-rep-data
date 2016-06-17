@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.15604681404421303,
   "metapath_contribution": {
     "CbGaD": 0.770703663273652,
     "CbGeAlD": 0.09890388660381154,
     "CbGpPWpGaD": 0.12046681598057733,
     "CrCbGaD": 0.00992563414195909
   },
+  "n_trials": 0.0,
   "prediction": 0.000882287911623028,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

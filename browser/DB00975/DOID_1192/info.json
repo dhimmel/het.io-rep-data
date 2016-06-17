@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.8296488946684009,
   "metapath_contribution": {
     "CbGaD": 0.2935646285560383,
     "CbGbCtD": 0.2493247070055752,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1580959084108071,
     "CcSEcCtD": 0.2548866068894923
   },
+  "n_trials": 0.0,
   "prediction": 0.00282420132060524,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

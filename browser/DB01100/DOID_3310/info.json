@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.6235370611183361,
   "metapath_contribution": {
     "CbGbCtD": 0.7548132134080842,
     "CbGeAlD": 0.004101651195993284,
     "CbGpPWpGaD": 0.08753461742264909,
     "CcSEcCtD": 0.15355051797327346
   },
+  "n_trials": 0.0,
   "prediction": 0.00247302354626058,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

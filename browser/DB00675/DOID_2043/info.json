@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGaD": 0.48030626078603095,
     "CbGbCtD": 0.16389541026955062,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1571817795117394,
     "CrCbGaD": 0.0016157454202507667
   },
+  "n_trials": 0.0,
   "prediction": 0.00230959926406468,
   "status": 0,
   "training_prediction": 0.00466618532740612

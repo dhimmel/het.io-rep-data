@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00528",
   "compound_name": "Lercanidipine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.07328163142654173,
     "CbGbCtD": 0.23087677924942376,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2429187436035216,
     "CrCtD": 0.3486814382076882
   },
+  "n_trials": 6.0,
   "prediction": 0.0570165586920799,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

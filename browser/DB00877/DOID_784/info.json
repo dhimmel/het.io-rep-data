@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0312093628088427,
   "metapath_contribution": {
     "CbGaD": 0.6315029428611527,
     "CbGeAlD": 0.09591970990128224,
     "CbGpPWpGaD": 0.2657669260913561,
     "CrCbGaD": 0.006810421146208926
   },
+  "n_trials": 17.0,
   "prediction": 0.0006457486422730781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

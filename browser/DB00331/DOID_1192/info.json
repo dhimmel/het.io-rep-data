@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGbCtD": 0.5591408391308527,
     "CbGdCrCtD": 0.0029915596671193216,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.18514616632964961,
     "CcSEcCtD": 0.1519281675858964
   },
+  "n_trials": 0.0,
   "prediction": 0.00455232251896451,
   "status": 0,
   "training_prediction": 0.0277319452067122

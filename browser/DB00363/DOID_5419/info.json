@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGaD": 0.7379826147067456,
     "CbGeAlD": 0.09179436726258383,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.006928482154172242
   },
   "prediction": 0.0021170477370226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

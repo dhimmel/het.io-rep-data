@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.42587776332899896,
   "metapath_contribution": {
     "CbGbCtD": 0.568584021449488,
     "CbGdCrCtD": 0.013211000675793963,
     "CbGeAlD": 0.18104961964534713,
     "CbGpPWpGaD": 0.23715535822937087
   },
+  "n_trials": 0.0,
   "prediction": 0.00213644781469425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

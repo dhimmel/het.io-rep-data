@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7230169050715209,
   "metapath_contribution": {
     "CbGaD": 0.38886756557630625,
     "CbGbCtD": 0.4150319891492522,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14796784896080417,
     "CrCbGaD": 0.0033135243186024213
   },
+  "n_trials": 0.0,
   "prediction": 0.0038604220360016705,
   "status": 0,
   "training_prediction": 0.0257966031980988

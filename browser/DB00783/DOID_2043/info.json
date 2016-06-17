@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.5136540962288689,
   "metapath_contribution": {
     "CbGaD": 0.1732343365963347,
     "CbGbCtD": 0.5456437219013911,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08513351613478219,
     "CcSEcCtD": 0.14517796842287958
   },
+  "n_trials": 0.0,
   "prediction": 0.00158185597507043,
   "status": 0,
   "training_prediction": 0.00319827381312037

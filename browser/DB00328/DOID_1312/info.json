@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.21396318292910171,
     "CbGbCtD": 0.6136789445589881,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05818617750871692,
     "CcSEcCtD": 0.043799943796494684
   },
+  "n_trials": 0.0,
   "prediction": 0.00221238130364977,
   "status": 0,
   "training_prediction": 0.000997811939608674

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB09000",
   "compound_name": "Cyamemazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.7262678803641089,
   "metapath_contribution": {
     "CbGaD": 0.6791300827524103,
     "CbGbCtD": 0.22382976881056726,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.058320885649179276,
     "CrCbGaD": 0.0064240079907702825
   },
+  "n_trials": 0.0,
   "prediction": 0.00327109302156355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

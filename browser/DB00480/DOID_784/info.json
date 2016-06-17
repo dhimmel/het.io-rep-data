@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGaD": 0.7577010906633043,
     "CbGeAlD": 0.07542675668582814,
     "CbGpPWpGaD": 0.15415885129397763,
     "CrCbGaD": 0.012713301356890017
   },
+  "n_trials": 0.0,
   "prediction": 0.00226773878940586,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

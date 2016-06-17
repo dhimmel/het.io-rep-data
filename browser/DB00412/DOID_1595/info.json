@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.511703511053316,
   "metapath_contribution": {
     "CbGaD": 0.8634366063977493,
     "CbGeAlD": 0.07436778490176713,
     "CbGpPWpGaD": 0.05447479070630763,
     "CrCbGaD": 0.007720817994175881
   },
+  "n_trials": 0.0,
   "prediction": 0.00151739862781467,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

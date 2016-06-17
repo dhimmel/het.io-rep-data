@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06694",
   "compound_name": "Xylometazoline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGaD": 0.6680422229541267,
     "CbGbCtD": 0.15708416732463787,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13816881485445598,
     "CrCbGaD": 0.0057952171063167576
   },
+  "n_trials": 0.0,
   "prediction": 0.00471097672324705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

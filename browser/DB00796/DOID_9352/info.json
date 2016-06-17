@@ -1,18 +1,21 @@
 {
   "compound_id": "DB00796",
   "compound_name": "Candesartan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
-    "CbGbCtD": 0.1944708458147512,
-    "CbGeAlD": 0.0030163719617552287,
-    "CbGpPWpGaD": 0.018725851520044915,
-    "CcSEcCtD": 0.0448310849249629,
-    "CrCbGaD": 0.0015143383363558536,
-    "CrCrCtD": 0.21544056348279012,
-    "CrCtD": 0.322002161653455,
-    "CtDrD": 0.19999878230588491
+    "CbGbCtD": 0.19447084581475116,
+    "CbGeAlD": 0.003016371961755228,
+    "CbGpPWpGaD": 0.01872585152004491,
+    "CcSEcCtD": 0.044831084924962884,
+    "CrCbGaD": 0.0015143383363558534,
+    "CrCrCtD": 0.2154405634827901,
+    "CrCtD": 0.32200216165345497,
+    "CtDrD": 0.1999987823058849
   },
+  "n_trials": 2.0,
   "prediction": 0.0755108442667769,
   "status": 0,
   "training_prediction": 0.26535768656317604

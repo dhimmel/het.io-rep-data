@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGaD": 0.3626668450778459,
     "CbGbCtD": 0.5299282287746568,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06627145959765077,
     "CrCbGaD": 0.007061041704201098
   },
+  "n_trials": 0.0,
   "prediction": 0.00204384055172213,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

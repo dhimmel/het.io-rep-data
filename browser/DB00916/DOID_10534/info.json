@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00916",
   "compound_name": "Metronidazole",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.669700910273082,
   "metapath_contribution": {
     "CbGbCtD": 0.4115677716187009,
     "CcSEcCtD": 0.5884322283812992
   },
+  "n_trials": 2.0,
   "prediction": 0.00199419072585331,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

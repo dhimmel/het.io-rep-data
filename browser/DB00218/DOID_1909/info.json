@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.0367647058823529,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.0708712613784135,
   "metapath_contribution": {
     "CbGdCrCtD": 0.017476026288978687,
     "CbGpPWpGaD": 0.11402509563317137,
     "CcSEcCtD": 0.8637538263873222,
     "CrCbGaD": 0.004745051690527722
   },
+  "n_trials": 0.0,
   "prediction": 0.000628019810512847,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

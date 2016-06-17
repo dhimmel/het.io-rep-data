@@ -1,16 +1,19 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
-    "CbGbCtD": 0.41546103701037473,
-    "CbGeAlD": 0.03639130478591391,
-    "CbGpPWpGaD": 0.03105496529072009,
+    "CbGbCtD": 0.4154610370103748,
+    "CbGeAlD": 0.03639130478591392,
+    "CbGpPWpGaD": 0.031054965290720094,
     "CcSEcCtD": 0.09477078628666794,
-    "CrCbGaD": 0.0011406044797931864,
-    "CtDrD": 0.42118130214653005
+    "CrCbGaD": 0.0011406044797931867,
+    "CtDrD": 0.4211813021465301
   },
+  "n_trials": 10.0,
   "prediction": 0.0071670763199984,
   "status": 0,
   "training_prediction": 0.0398503879127995

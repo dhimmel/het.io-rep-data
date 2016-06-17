@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00593",
   "compound_name": "Ethosuximide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.1558631489811039,
     "CbGbCtD": 0.21129049025211058,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.5529699611659108,
     "CrCbGaD": 0.0019519816594409474
   },
+  "n_trials": 1.0,
   "prediction": 0.0725290853984016,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

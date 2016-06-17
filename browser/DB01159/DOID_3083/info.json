@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.20680027274678828,
     "CbGbCtD": 0.5805216470863954,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15786378009513527,
     "CrCbGaD": 0.000488447434797203
   },
+  "n_trials": 0.0,
   "prediction": 0.0038538056532400103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

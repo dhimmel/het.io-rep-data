@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.12366166936999225,
     "CbGbCtD": 0.08026075692675856,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1698170281387672,
     "CrCtD": 0.24674263522510617
   },
+  "n_trials": 0.0,
   "prediction": 0.21475321461939603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

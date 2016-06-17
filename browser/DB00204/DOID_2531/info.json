@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00204",
   "compound_name": "Dofetilide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.437581274382315,
   "metapath_contribution": {
     "CbGbCtD": 0.5465904647626166,
     "CbGeAlD": 0.005360408779816595,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3825882940318734,
     "CrCbGaD": 0.0011142592186350843
   },
+  "n_trials": 0.0,
   "prediction": 0.00204836095660087,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

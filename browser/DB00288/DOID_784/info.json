@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.011703511053316002,
   "metapath_contribution": {
     "CbGaD": 0.8313245137784574,
     "CbGeAlD": 0.07376938875029568,
     "CbGpPWpGaD": 0.08395628552166147,
     "CrCbGaD": 0.01094981194958549
   },
+  "n_trials": 0.0,
   "prediction": 0.000574519304594223,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

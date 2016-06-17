@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00493",
   "compound_name": "Cefotaxime",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.217815344603381,
   "metapath_contribution": {
     "CbGbCtD": 0.4793011882557233,
     "CbGpPWpGaD": 0.20046673804895454,
     "CcSEcCtD": 0.29094968016262157,
     "CrCbGaD": 0.029282393532700426
   },
+  "n_trials": 0.0,
   "prediction": 0.0010881694570056301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

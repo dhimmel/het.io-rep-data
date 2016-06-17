@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00869",
   "compound_name": "Dorzolamide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7522756827048109,
   "metapath_contribution": {
     "CbGaD": 0.4155100629729526,
     "CbGbCtD": 0.2927765298317016,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1905284475753306,
     "CrCbGaD": 0.003633902917870823
   },
+  "n_trials": 0.0,
   "prediction": 0.0041667333062045,
   "status": 0,
   "training_prediction": 0.0227000506174245

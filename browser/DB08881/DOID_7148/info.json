@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.08453951947718237,
     "CbGbCtD": 0.24498626783104052,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.5507494579231594,
     "CrCbGaD": 0.0003120674063380035
   },
+  "n_trials": 0.0,
   "prediction": 0.004882968277338379,
   "status": 0,
   "training_prediction": 0.0260146982730328

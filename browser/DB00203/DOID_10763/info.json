@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.236274889569468,
     "CbGbCtD": 0.3050809734687256,
@@ -14,6 +16,5 @@
     "CrCbGaD": 0.0026065128859311844
   },
   "prediction": 0.0165435086489754,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.21066319895968802,
   "metapath_contribution": {
     "CbGbCtD": 0.15194261725785796,
     "CbGeAlD": 0.35617001880680454,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3085900651160496,
     "CrCbGaD": 0.01918615885775477
   },
+  "n_trials": 0.0,
   "prediction": 0.0009170789365074571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

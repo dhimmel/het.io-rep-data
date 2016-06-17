@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01043",
   "compound_name": "Memantine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.6628887108024664,
     "CbGeAlD": 0.008706780320022738,
     "CbGpPWpGaD": 0.12479615302243229,
     "CcSEcCtD": 0.20360835585507855
   },
+  "n_trials": 3.0,
   "prediction": 0.00466266733526501,
   "status": 0,
   "training_prediction": 0.00210576081916932

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.508452535760728,
   "metapath_contribution": {
     "CbGbCtD": 0.7293647083476846,
     "CbGdCrCtD": 0.003890897450496981,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08727861883193166,
     "CcSEcCtD": 0.13580997530507508
   },
+  "n_trials": 0.0,
   "prediction": 0.00177737719303098,
   "status": 0,
   "training_prediction": 0.00704733248282065

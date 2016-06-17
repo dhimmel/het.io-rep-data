@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.5162548764629389,
   "metapath_contribution": {
     "CbGaD": 0.17080279996899694,
     "CbGbCtD": 0.48147588683522646,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1566989336145864,
     "CrCbGaD": 0.0011326782835335044
   },
+  "n_trials": 0.0,
   "prediction": 0.00255635367661252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

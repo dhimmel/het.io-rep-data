@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.8809795375422215,
     "CbGeAlD": 0.03410904776066132,
     "CbGpPWpGaD": 0.07680273480839998,
     "CrCbGaD": 0.008108679888717276
   },
+  "n_trials": 1.0,
   "prediction": 0.00426960439555153,
   "status": 0,
   "training_prediction": 0.00192782765989922

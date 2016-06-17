@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGaD": 0.8835554685992024,
     "CbGeAlD": 0.02485759461303375,
     "CbGpPWpGaD": 0.08280417972715749,
     "CrCbGaD": 0.008782757060606348
   },
+  "n_trials": 0.0,
   "prediction": 0.0014307302375968901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

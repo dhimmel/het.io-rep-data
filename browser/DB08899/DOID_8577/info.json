@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08899",
   "compound_name": "Enzalutamide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.6137841352405721,
   "metapath_contribution": {
     "CbGaD": 0.3855763271136276,
     "CbGbCtD": 0.5154828151794111,
     "CbGpPWpGaD": 0.002544408971493941,
     "CcSEcCtD": 0.0963964487354674
   },
+  "n_trials": 0.0,
   "prediction": 0.00244058334872295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

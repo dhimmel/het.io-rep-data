@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGaD": 0.765807462811553,
     "CbGeAlD": 0.011139976074080503,
     "CbGpPWpGaD": 0.0057142382684148806,
     "CcSEcCtD": 0.2173383228459516
   },
+  "n_trials": 0.0,
   "prediction": 0.00281188314945732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

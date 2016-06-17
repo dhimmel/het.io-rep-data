@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGbCtD": 0.6775557148189233,
     "CbGdCrCtD": 0.003910451347104371,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05730003948309876,
     "CcSEcCtD": 0.18190898870706698
   },
+  "n_trials": 0.0,
   "prediction": 0.00368767210559063,
   "status": 0,
   "training_prediction": 0.0067249455809042895

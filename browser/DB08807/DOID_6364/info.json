@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08807",
   "compound_name": "Bopindolol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.20718811483738483,
     "CbGbCtD": 0.21783157859079919,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.19144500741173234,
     "CrCtD": 0.32949296602118366
   },
+  "n_trials": 0.0,
   "prediction": 0.0375026557931414,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

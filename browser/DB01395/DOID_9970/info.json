@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.7308836419116451,
     "CbGeAlD": 0.07434604494648499,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.057639658540867146,
     "CrCbGaD": 0.006499058446036621
   },
+  "n_trials": 0.0,
   "prediction": 0.0009304327574917369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

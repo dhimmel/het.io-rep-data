@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
     "CbGaD": 0.7028064637306799,
     "CbGbCtD": 0.19385282396182482,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03346078590042145,
     "CrCbGaD": 0.00464161281601791
   },
+  "n_trials": 0.0,
   "prediction": 0.00301699232236781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

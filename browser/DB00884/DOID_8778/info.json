@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00884",
   "compound_name": "Risedronate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.3657179604706081,
     "CbGbCtD": 0.4880811833145378,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12793218022807895,
     "CrCbGaD": 0.0015176744206804092
   },
+  "n_trials": 0.0,
   "prediction": 0.0038244055250605796,
   "status": 0,
   "training_prediction": 0.0103388005780663

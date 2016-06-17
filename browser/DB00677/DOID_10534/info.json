@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00677",
   "compound_name": "Isoflurophate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.4602936160478391,
     "CbGbCtD": 0.4455136107365252,
     "CbGeAlD": 0.03399562165225855,
     "CbGpPWpGaD": 0.06019715156337708
   },
+  "n_trials": 0.0,
   "prediction": 0.0043683684997926605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

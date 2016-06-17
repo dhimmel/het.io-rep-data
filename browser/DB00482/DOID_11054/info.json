@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
-    "CbGaD": 0.2559814845657798,
+    "CbGaD": 0.25598148456577974,
     "CbGbCtD": 0.3002099353444012,
-    "CbGeAlD": 0.07774606006143264,
-    "CbGpPWpGaD": 0.15013684829926566,
-    "CcSEcCtD": 0.21506759534602804,
-    "CrCbGaD": 0.0008580763830927316
+    "CbGeAlD": 0.07774606006143263,
+    "CbGpPWpGaD": 0.15013684829926563,
+    "CcSEcCtD": 0.215067595346028,
+    "CrCbGaD": 0.0008580763830927315
   },
+  "n_trials": 0.0,
   "prediction": 0.00198581465191327,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

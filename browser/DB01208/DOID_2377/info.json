@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.503250975292588,
   "metapath_contribution": {
     "CbGbCtD": 0.7294793023466566,
     "CbGdCrCtD": 0.004582455433163141,
     "CcSEcCtD": 0.26577631430583476,
     "CrCbGaD": 0.00016192791434560267
   },
+  "n_trials": 0.0,
   "prediction": 0.0018814691156826603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

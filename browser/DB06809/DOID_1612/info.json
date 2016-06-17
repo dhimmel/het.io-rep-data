@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06809",
   "compound_name": "Plerixafor",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGaD": 0.7139203393461974,
     "CbGeAlD": 0.048661621842392415,
     "CbGpPWpGaD": 0.09889421556493952,
     "CcSEcCtD": 0.13852382324647072
   },
+  "n_trials": 1.0,
   "prediction": 0.0068546066420985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

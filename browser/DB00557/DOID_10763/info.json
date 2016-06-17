@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00557",
   "compound_name": "Hydroxyzine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.261378413524057,
   "metapath_contribution": {
     "CbGbCtD": 0.42104080841755565,
     "CbGpPWpGaD": 0.05775474588468488,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004675745007038127,
     "CrCrCtD": 0.3787597375128393
   },
+  "n_trials": 0.0,
   "prediction": 0.00215694158295283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

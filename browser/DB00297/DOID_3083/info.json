@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00297",
   "compound_name": "Bupivacaine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.666449934980494,
   "metapath_contribution": {
     "CbGaD": 0.4140265187393085,
     "CbGbCtD": 0.38350681715666596,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16547421404681026,
     "CrCbGaD": 0.0038843055915948705
   },
+  "n_trials": 0.0,
   "prediction": 0.00281797663053375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

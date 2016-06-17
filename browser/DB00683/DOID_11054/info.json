@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.6751546982066796,
     "CbGbCtD": 0.16610211046668813,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08198506330386522,
     "CrCbGaD": 0.0017299429366294731
   },
+  "n_trials": 0.0,
   "prediction": 0.00268328837915365,
   "status": 0,
   "training_prediction": 0.00686448831824452

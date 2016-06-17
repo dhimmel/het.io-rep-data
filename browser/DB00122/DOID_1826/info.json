@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.47594278283485,
   "metapath_contribution": {
     "CbGaD": 0.2386156435528708,
     "CbGbCtD": 0.3203409725388665,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.018970722856084116,
     "CrCbGaD": 0.00720829766767525
   },
+  "n_trials": 0.0,
   "prediction": 0.00320946291449019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

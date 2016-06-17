@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGbCtD": 0.11947854895981852,
     "CbGdCrCtD": 0.008031384625310256,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.2803454313375105,
     "CcSEcCtD": 0.3793577460829752
   },
+  "n_trials": 1.0,
   "prediction": 0.00238629323519318,
   "status": 0,
   "training_prediction": 0.0101453478478045

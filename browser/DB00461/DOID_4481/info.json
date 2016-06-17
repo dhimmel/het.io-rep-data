@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.7873862158647591,
   "metapath_contribution": {
     "CbGbCtD": 0.36143765168288744,
     "CbGdCrCtD": 0.0033438904475762113,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.47782144529983894,
     "CrCbGaD": 0.00531319990311544
   },
+  "n_trials": 0.0,
   "prediction": 0.0038931571611335297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

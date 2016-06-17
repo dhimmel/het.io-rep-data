@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.3985963773742145,
     "CbGbCtD": 0.37739805828595113,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.06246592892013502,
     "CcSEcCtD": 0.09884126982184724
   },
+  "n_trials": 0.0,
   "prediction": 0.0077088895405887405,
   "status": 0,
   "training_prediction": 0.0312666759866873

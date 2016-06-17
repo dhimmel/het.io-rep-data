@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00154",
   "compound_name": "Dihomo-gamma-linolenic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6872561768530561,
   "metapath_contribution": {
     "CbGaD": 0.20065870010619344,
     "CbGbCtD": 0.33352474000694154,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002138849645047278,
     "CrCrCtD": 0.4179860010867803
   },
+  "n_trials": 0.0,
   "prediction": 0.0037097879939060295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

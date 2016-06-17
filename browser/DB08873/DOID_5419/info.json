@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.581924577373212,
   "metapath_contribution": {
     "CbGaD": 0.5216102108072608,
     "CbGeAlD": 0.20046846967489135,
     "CbGpPWpGaD": 0.2744860560074769,
     "CrCbGaD": 0.003435263510371076
   },
+  "n_trials": 0.0,
   "prediction": 0.00174755580981851,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

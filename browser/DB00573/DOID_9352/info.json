@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.4661898569570871,
   "metapath_contribution": {
     "CbGaD": 0.27511293299447354,
     "CbGbCtD": 0.42040516742605083,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003766525181582933,
     "CrCrCtD": 0.10573509768488441
   },
+  "n_trials": 0.0,
   "prediction": 0.00236243525285112,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

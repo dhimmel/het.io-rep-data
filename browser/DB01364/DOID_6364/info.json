@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.673602080624187,
   "metapath_contribution": {
     "CbGbCtD": 0.40571152349415734,
     "CbGeAlD": 0.029001223436443516,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0039062948890216925,
     "CrCrCtD": 0.3984196071204476
   },
+  "n_trials": 0.0,
   "prediction": 0.00317517181459382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

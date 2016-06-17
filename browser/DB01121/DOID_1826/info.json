@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01121",
   "compound_name": "Phenacemide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.19218335910756323,
     "CbGbCtD": 0.20499605688676267,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.217647440580463,
     "CrCtD": 0.354462942118253
   },
+  "n_trials": 0.0,
   "prediction": 0.0323524269964922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

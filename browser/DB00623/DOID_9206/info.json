@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.120286085825748,
   "metapath_contribution": {
     "CbGbCtD": 0.656088721345931,
     "CbGeAlD": 0.03538421286798684,
     "CbGpPWpGaD": 0.043180152962999534,
     "CcSEcCtD": 0.2653469128230826
   },
+  "n_trials": 0.0,
   "prediction": 0.00102086673723853,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

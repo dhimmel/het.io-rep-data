@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.6774475745555126,
     "CbGeAlD": 0.10599406120459955,
     "CbGpPWpGaD": 0.1704022328166217,
     "CcSEcCtD": 0.04615613142326617
   },
+  "n_trials": 0.0,
   "prediction": 0.00564675730013343,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

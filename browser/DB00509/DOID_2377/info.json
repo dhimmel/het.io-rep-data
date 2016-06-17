@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00509",
   "compound_name": "Dextrothyroxine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.6742522756827048,
   "metapath_contribution": {
     "CbGbCtD": 0.5695582196676223,
     "CbGdCrCtD": 0.006753555508320658,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21228769482351556,
     "CrCbGaD": 0.0029527071207738013
   },
+  "n_trials": 0.0,
   "prediction": 0.00233396439298941,
   "status": 0,
   "training_prediction": 0.00597409530648839

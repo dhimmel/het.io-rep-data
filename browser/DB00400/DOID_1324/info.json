@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00400",
   "compound_name": "Griseofulvin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.10500480216451127,
     "CbGpPWpGaD": 0.011209393395615004,
     "CcSEcCtD": 0.05145669340327195,
     "CiPCiCtD": 0.8323291110366018
   },
+  "n_trials": 0.0,
   "prediction": 0.00881549560271015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

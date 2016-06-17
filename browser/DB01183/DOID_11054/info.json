@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.67295188556567,
   "metapath_contribution": {
     "CbGaD": 0.4574979537602295,
     "CbGbCtD": 0.2816082102058282,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06452218527745973,
     "CrCbGaD": 0.0015349841714150838
   },
+  "n_trials": 0.0,
   "prediction": 0.0020420051514877,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

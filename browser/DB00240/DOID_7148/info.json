@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.07792278798817123,
     "CbGbCtD": 0.13231875291275713,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.17591695888502745,
     "CrCtD": 0.24965453953190125
   },
+  "n_trials": 0.0,
   "prediction": 0.0500702850653204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

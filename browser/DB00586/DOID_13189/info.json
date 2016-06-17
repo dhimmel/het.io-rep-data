@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.13978195301334456,
     "CbGbCtD": 0.183552596946021,
@@ -14,7 +16,7 @@
     "CpDpCtD": 0.19246987835587007,
     "CrCrCtD": 0.10734984756486629
   },
+  "n_trials": 1.0,
   "prediction": 0.149212900388357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

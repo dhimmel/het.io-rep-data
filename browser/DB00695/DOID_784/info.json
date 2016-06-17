@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.3007529983163967,
     "CbGeAlD": 0.0541319745242737,
@@ -12,6 +14,5 @@
     "CtDrD": 0.5832648680057613
   },
   "prediction": 0.00508672950945002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

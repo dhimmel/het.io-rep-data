@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00278",
   "compound_name": "Argatroban",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGaD": 0.3754475272311883,
     "CbGbCtD": 0.36249719610887887,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09434808936149708,
     "CcSEcCtD": 0.13973796467408425
   },
+  "n_trials": 0.0,
   "prediction": 0.0121763747421038,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

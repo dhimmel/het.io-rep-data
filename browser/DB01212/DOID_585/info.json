@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.498699609882965,
   "metapath_contribution": {
     "CbGbCtD": 0.4793632690301726,
     "CbGeAlD": 0.11364900634196126,
     "CbGpPWpGaD": 0.3188643447048968,
     "CcSEcCtD": 0.08812337992296933
   },
+  "n_trials": 1.0,
   "prediction": 0.00152906319801549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

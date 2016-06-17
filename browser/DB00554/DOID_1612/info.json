@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.36215864759427796,
   "metapath_contribution": {
     "CbGaD": 0.48915630270701704,
     "CbGbCtD": 0.3973840648980269,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10171549719155404,
     "CrCbGaD": 0.004510705370488773
   },
+  "n_trials": 0.0,
   "prediction": 0.0018375730639897101,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8010403120936279,
   "metapath_contribution": {
     "CbGbCtD": 0.5413201425117887,
     "CbGdCrCtD": 0.014539151313885059,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06304489928422786,
     "CcSEcCtD": 0.34552181882008354
   },
+  "n_trials": 0.0,
   "prediction": 0.00243970487520774,
   "status": 0,
   "training_prediction": 0.00445371116478875

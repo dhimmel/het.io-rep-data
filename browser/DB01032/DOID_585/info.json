@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.752447173601983,
     "CbGbCtD": 0.059703162591414644,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11052981591715114,
     "CcSEcCtD": 0.007276579175026563
   },
+  "n_trials": 0.0,
   "prediction": 0.00642892942128713,
   "status": 0,
   "training_prediction": 0.0029062708960665698

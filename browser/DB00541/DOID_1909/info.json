@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.0378069787707014,
     "CbGbCtD": 0.3894450334346229,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0005142027804116393,
     "CtDrD": 0.44076102569196185
   },
+  "n_trials": 2.0,
   "prediction": 0.0024859209891971,
   "status": 0,
   "training_prediction": 0.0202069111809357

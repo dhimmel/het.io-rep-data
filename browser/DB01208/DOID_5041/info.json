@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8511053315994799,
   "metapath_contribution": {
     "CbGaD": 0.6173473700868203,
     "CbGbCtD": 0.2782138279561049,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07584981652372434,
     "CrCbGaD": 0.002229635639519306
   },
+  "n_trials": 0.0,
   "prediction": 0.00245117326801261,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

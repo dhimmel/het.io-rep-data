@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.10598179453836201,
   "metapath_contribution": {
     "CbGbCtD": 0.07773834666970246,
     "CbGeAlD": 0.01279520569046544,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.7301994764350959,
     "CrCbGaD": 0.02203862328639941
   },
+  "n_trials": 0.0,
   "prediction": 0.0007558162661249999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

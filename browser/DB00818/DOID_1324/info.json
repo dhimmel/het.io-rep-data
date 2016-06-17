@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.4171796566551619,
     "CbGbCtD": 0.36788441964818397,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10529976813402159,
     "CrCbGaD": 0.0004955013789786832
   },
+  "n_trials": 2.0,
   "prediction": 0.00775590303214955,
   "status": 0,
   "training_prediction": 0.0261124974669937

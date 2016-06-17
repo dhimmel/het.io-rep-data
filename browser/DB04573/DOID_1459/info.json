@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.4632335647677519,
     "CbGbCtD": 0.40903612914562787,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05836214291601217,
     "CrCbGaD": 0.0034452207068377057
   },
+  "n_trials": 0.0,
   "prediction": 0.0048141517044553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

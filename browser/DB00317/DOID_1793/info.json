@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.09688421280678321,
     "CbGbCtD": 0.26531408461361067,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.18069043923878142,
     "CrCtD": 0.36606740905423363
   },
+  "n_trials": 2.0,
   "prediction": 0.0270057067852287,
   "status": 0,
   "training_prediction": 0.0621645045829171

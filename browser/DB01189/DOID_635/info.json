@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.646944083224967,
   "metapath_contribution": {
     "CbGaD": 0.4366369224939155,
     "CbGbCtD": 0.010595959235346668,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3711934001101133,
     "CrCbGaD": 0.00407079565891833
   },
+  "n_trials": 0.0,
   "prediction": 0.00308725954350498,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

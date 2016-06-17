@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.5937924164418243,
     "CbGeAlD": 0.10328385885510613,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07189490408360355,
     "CrCbGaD": 0.005860047067248182
   },
+  "n_trials": 0.0,
   "prediction": 0.000996435872289991,
   "status": 0,
   "training_prediction": 0.000734790793185055

@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.743172951885566,
   "metapath_contribution": {
-    "CbGbCtD": 0.24783194485692217,
-    "CbGdCrCtD": 0.0029467002042994866,
-    "CbGeAlD": 0.011723740016853518,
-    "CbGpPWpGaD": 0.036166792096416094,
-    "CcSEcCtD": 0.07210258686831691,
-    "CpDpCtD": 0.5089641790662048,
-    "CrCrCtD": 0.12026405689098711
+    "CbGbCtD": 0.24783194485692214,
+    "CbGdCrCtD": 0.002946700204299486,
+    "CbGeAlD": 0.011723740016853517,
+    "CbGpPWpGaD": 0.03616679209641609,
+    "CcSEcCtD": 0.0721025868683169,
+    "CpDpCtD": 0.5089641790662047,
+    "CrCrCtD": 0.1202640568909871
   },
+  "n_trials": 0.0,
   "prediction": 0.00301882273008065,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

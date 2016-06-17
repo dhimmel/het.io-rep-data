@@ -1,14 +1,16 @@
 {
   "compound_id": "DB04786",
   "compound_name": "Suramin",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.61443433029909,
   "metapath_contribution": {
     "CbGdCrCtD": 0.01427789221847259,
     "CbGeAlD": 0.4028010050439541,
     "CbGpPWpGaD": 0.5829211027375734
   },
+  "n_trials": 4.0,
   "prediction": 0.0022147967085843,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01063",
   "compound_name": "Acetophenazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.489596879063719,
   "metapath_contribution": {
     "CbGaD": 0.4419486589654582,
     "CbGbCtD": 0.22530562236042306,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004473637080221819,
     "CrCrCtD": 0.2694181953369054
   },
+  "n_trials": 0.0,
   "prediction": 0.0024529462175071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

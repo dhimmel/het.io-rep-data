@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00310",
   "compound_name": "Chlorthalidone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.13077333431627203,
     "CbGbCtD": 0.2625671683401644,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.19637753937394298,
     "CrCtD": 0.3079757492912029
   },
+  "n_trials": 0.0,
   "prediction": 0.0444370479436012,
   "status": 0,
   "training_prediction": 0.18587960014543

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.314694408322497,
   "metapath_contribution": {
     "CbGbCtD": 0.592973482987246,
     "CbGeAlD": 0.04058086940702813,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1770103495853812,
     "CrCbGaD": 0.010507286308401448
   },
+  "n_trials": 0.0,
   "prediction": 0.00159742247861973,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

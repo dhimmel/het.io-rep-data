@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.5221066319895971,
   "metapath_contribution": {
     "CbGaD": 0.7532216406909302,
     "CbGeAlD": 0.21343195345349422,
     "CbGpPWpGaD": 0.029516261905677722,
     "CrCbGaD": 0.003830143949897755
   },
+  "n_trials": 0.0,
   "prediction": 0.00132948364411042,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

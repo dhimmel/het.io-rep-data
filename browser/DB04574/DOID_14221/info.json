@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04574",
   "compound_name": "Estropipate",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.7583410493733614,
     "CbGbCtD": 0.10484770111183721,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.032852335916858426,
     "CrCbGaD": 0.006351285693747847
   },
+  "n_trials": 0.0,
   "prediction": 0.00216880181539661,
   "status": 0,
   "training_prediction": 0.000978133586089842

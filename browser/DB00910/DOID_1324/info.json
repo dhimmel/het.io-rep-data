@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.162548764629389,
   "metapath_contribution": {
     "CbGbCtD": 0.30061862266728984,
     "CbGeAlD": 0.045549418201473346,
     "CbGpPWpGaD": 0.25861197119960366,
     "CcSEcCtD": 0.39521998793163304
   },
+  "n_trials": 0.0,
   "prediction": 0.000941488722467901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

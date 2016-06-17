@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00384",
   "compound_name": "Triamterene",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.317295188556567,
   "metapath_contribution": {
     "CbGbCtD": 0.5105669384161784,
     "CbGeAlD": 0.08467523055748463,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.29335668909631435,
     "CrCbGaD": 0.00013547979723085697
   },
+  "n_trials": 0.0,
   "prediction": 0.0016109840880032,
   "status": 0,
   "training_prediction": 0.0144777894863997

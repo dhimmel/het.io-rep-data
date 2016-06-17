@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGaD": 0.39910411482333763,
     "CbGbCtD": 0.19282314769887382,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.05395987622255647,
     "CpDpCtD": 0.24935551833943284
   },
+  "n_trials": 0.0,
   "prediction": 0.00534563717308953,
   "status": 0,
   "training_prediction": 0.0368135059607114

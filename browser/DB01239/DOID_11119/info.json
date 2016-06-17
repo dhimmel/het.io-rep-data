@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.8248607920865882,
     "CbGeAlD": 0.04239090845717843,
     "CbGpPWpGaD": 0.12613614360817613,
     "CrCbGaD": 0.006612155848057204
   },
+  "n_trials": 0.0,
   "prediction": 0.0025996937433726396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

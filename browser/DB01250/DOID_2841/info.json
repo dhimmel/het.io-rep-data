@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.761378413524057,
   "metapath_contribution": {
     "CbGaD": 0.4840997887437265,
     "CbGbCtD": 0.3622941593379526,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.11370276035550096,
     "CrCbGaD": 0.0031477759646079398
   },
+  "n_trials": 0.0,
   "prediction": 0.004258282277417071,
   "status": 0,
   "training_prediction": 0.0283908016400723

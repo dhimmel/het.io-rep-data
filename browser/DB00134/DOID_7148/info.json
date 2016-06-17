@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGaD": 0.28077417771140556,
     "CbGbCtD": 0.027433510520778002,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0049188136135937316,
     "CrCrCtD": 0.5306012787881295
   },
+  "n_trials": 0.0,
   "prediction": 0.0041970714871510705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

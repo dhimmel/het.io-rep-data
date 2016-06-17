@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.44928478543563105,
   "metapath_contribution": {
     "CbGbCtD": 0.7740399255121772,
     "CbGpPWpGaD": 0.11361554998123058,
     "CcSEcCtD": 0.10659927155975485,
     "CrCbGaD": 0.005745252946837463
   },
+  "n_trials": 0.0,
   "prediction": 0.00121008482649187,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

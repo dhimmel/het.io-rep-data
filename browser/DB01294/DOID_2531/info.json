@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGaD": 0.1652459687253923,
     "CbGbCtD": 0.49115234090287047,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.11438646454814497,
     "CcSEcCtD": 0.1938127283074287
   },
+  "n_trials": 1.0,
   "prediction": 0.00530637487480657,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

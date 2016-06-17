@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00341",
   "compound_name": "Cetirizine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.24122236671001301,
   "metapath_contribution": {
     "CbGbCtD": 0.2257563892776864,
     "CbGpPWpGaD": 0.040232980188963666,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.011139022172348665,
     "CrCrCtD": 0.35331271295222255
   },
+  "n_trials": 0.0,
   "prediction": 0.0016825447710936301,
   "status": 0,
   "training_prediction": 0.00307343184187443

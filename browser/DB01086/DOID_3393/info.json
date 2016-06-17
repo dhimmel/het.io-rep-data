@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.630039011703511,
   "metapath_contribution": {
     "CbGbCtD": 0.39091781520518765,
     "CbGeAlD": 0.05387342964873237,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0009255920860226477,
     "CrCrCtD": 0.42810672427799373
   },
+  "n_trials": 0.0,
   "prediction": 0.00304791859360343,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

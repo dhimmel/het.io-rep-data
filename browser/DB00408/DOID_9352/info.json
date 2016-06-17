@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.546814044213264,
   "metapath_contribution": {
     "CbGaD": 0.27719287352762156,
     "CbGbCtD": 0.4417095947219484,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12230614715307316,
     "CrCbGaD": 0.0035658173701760523
   },
+  "n_trials": 0.0,
   "prediction": 0.0027036469009153,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

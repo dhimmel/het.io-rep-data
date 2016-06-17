@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.905071521456437,
   "metapath_contribution": {
     "CbGaD": 0.1476254718016988,
     "CbGbCtD": 0.584579206377855,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.02305914943701279,
     "CcSEcCtD": 0.17203166367947997
   },
+  "n_trials": 2.0,
   "prediction": 0.0056391639643108,
   "status": 0,
   "training_prediction": 0.17275961989331398

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00205",
   "compound_name": "Pyrimethamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.3258378304588805,
     "CbGeAlD": 0.02228337856206662,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0017968818862067505,
     "CtDrD": 0.6185089997054423
   },
+  "n_trials": 5.0,
   "prediction": 0.0106268986828378,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

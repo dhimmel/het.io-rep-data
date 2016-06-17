@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.379713914174252,
   "metapath_contribution": {
     "CbGaD": 0.6732690194655242,
     "CbGbCtD": 0.08478841875466885,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10196857800240673,
     "CrCbGaD": 0.00028714996841782716
   },
+  "n_trials": 0.0,
   "prediction": 0.0010883687320174,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

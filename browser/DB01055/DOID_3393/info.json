@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01055",
   "compound_name": "Mimosine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.5858257477243171,
   "metapath_contribution": {
-    "CbGaD": 0.7205600291288785,
-    "CbGdCrCtD": 0.00662003101818107,
-    "CbGeAlD": 0.07088873554505581,
-    "CbGpPWpGaD": 0.20193120430788464
+    "CbGaD": 0.7205600291288784,
+    "CbGdCrCtD": 0.006620031018181069,
+    "CbGeAlD": 0.0708887355450558,
+    "CbGpPWpGaD": 0.2019312043078846
   },
+  "n_trials": 0.0,
   "prediction": 0.00280846464937638,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

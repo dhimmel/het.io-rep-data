@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.28283485045513695,
   "metapath_contribution": {
     "CbGaD": 0.20961518888962236,
     "CbGbCtD": 0.40762528342429405,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.22889665673700324,
     "CrCbGaD": 0.002379077308941444
   },
+  "n_trials": 0.0,
   "prediction": 0.0016084906693757,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

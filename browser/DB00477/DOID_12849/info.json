@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.124837451235371,
   "metapath_contribution": {
     "CbGaD": 0.6286436639785138,
     "CbGeAlD": 0.13137434967301004,
     "CbGpPWpGaD": 0.2316551312585001,
     "CrCbGaD": 0.008326855089976156
   },
+  "n_trials": 0.0,
   "prediction": 0.000748404376424749,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.340702210663199,
   "metapath_contribution": {
     "CbGbCtD": 0.1165085427836722,
     "CbGeAlD": 0.0533946325838503,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12688252132432126,
     "CtDrD": 0.6688900928957375
   },
+  "n_trials": 0.0,
   "prediction": 0.00135178083257894,
   "status": 0,
   "training_prediction": 0.0070049089376467795

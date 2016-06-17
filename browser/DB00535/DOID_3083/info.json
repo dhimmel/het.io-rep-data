@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00535",
   "compound_name": "Cefdinir",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.6705105420018043,
     "CbGbCtD": 0.21227051497662916,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11415555857658889,
     "CrCbGaD": 0.001397536197642021
   },
+  "n_trials": 0.0,
   "prediction": 0.0025695179237076103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

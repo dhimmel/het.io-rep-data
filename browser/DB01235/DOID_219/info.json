@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.0661764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.0260078023407022,
   "metapath_contribution": {
     "CbGdCrCtD": 0.02286813893389653,
     "CbGeAlD": 0.32319985700045706,
     "CcSEcCtD": 0.6414907403680066,
     "CrCbGaD": 0.012441263697639718
   },
+  "n_trials": 0.0,
   "prediction": 0.000585464525303632,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

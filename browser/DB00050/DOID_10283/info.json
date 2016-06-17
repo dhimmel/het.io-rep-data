@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00050",
   "compound_name": "Cetrorelix",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGbCtD": 0.31108577508826907,
     "CbGeAlD": 0.00027075566834396754,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.24391652594101734,
     "CrCtD": 0.3915869329423551
   },
+  "n_trials": 0.0,
   "prediction": 0.0635421920992317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

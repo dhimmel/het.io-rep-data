@@ -1,14 +1,16 @@
 {
   "compound_id": "DB08808",
   "compound_name": "Bupranolol",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.15864759427828304,
   "metapath_contribution": {
-    "CbGeAlD": 0.6337184503940788,
-    "CbGpPWpGaD": 0.3249276484594631,
-    "CrCbGaD": 0.04135390114645802
+    "CbGeAlD": 0.6337184503940789,
+    "CbGpPWpGaD": 0.32492764845946315,
+    "CrCbGaD": 0.041353901146458025
   },
+  "n_trials": 0.0,
   "prediction": 0.000828062062030283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

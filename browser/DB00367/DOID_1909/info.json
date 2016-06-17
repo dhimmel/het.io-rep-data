@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.0514705882352941,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.0435630689206762,
   "metapath_contribution": {
     "CbGbCtD": 0.12724412878163377,
     "CbGeAlD": 0.03479911241809467,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.42994471283689367,
     "CrCbGaD": 0.008488456484081025
   },
+  "n_trials": 0.0,
   "prediction": 0.000544231103348412,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

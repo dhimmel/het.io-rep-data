@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.7997399219765929,
   "metapath_contribution": {
     "CbGaD": 0.2097646997258417,
     "CbGbCtD": 0.5660877458181284,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1761510603006934,
     "CrCbGaD": 0.004646305448916579
   },
+  "n_trials": 0.0,
   "prediction": 0.00230646478481692,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

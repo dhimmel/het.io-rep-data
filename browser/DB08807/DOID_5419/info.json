@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08807",
   "compound_name": "Bopindolol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.581274382314694,
   "metapath_contribution": {
     "CbGaD": 0.8084515669745965,
     "CbGeAlD": 0.028799896585215756,
     "CbGpPWpGaD": 0.15866313456427178,
     "CrCbGaD": 0.004085401875915846
   },
+  "n_trials": 0.0,
   "prediction": 0.0017461774307891802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01004",
   "compound_name": "Ganciclovir",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGbCtD": 0.16305280317767432,
     "CcSEcCtD": 0.10064752916983627,
     "CiPCiCtD": 0.732931571620825,
     "CrCbGaD": 0.003368096031664477
   },
+  "n_trials": 0.0,
   "prediction": 0.003950975568430879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGbCtD": 0.6355931472761656,
     "CbGdCrCtD": 0.005202990880707792,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.060695687405238646,
     "CcSEcCtD": 0.24186023425685785
   },
+  "n_trials": 0.0,
   "prediction": 0.0040447151732052105,
   "status": 0,
   "training_prediction": 0.0662147977487761

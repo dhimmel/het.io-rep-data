@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.1342681041908076,
     "CcSEcCtD": 0.038504101534122606,
@@ -10,6 +12,7 @@
     "CrCtD": 0.3121222171372104,
     "CtDrD": 0.289999476142041
   },
+  "n_trials": 0.0,
   "prediction": 0.0183369292886424,
   "status": 0,
   "training_prediction": 0.0427051672817557

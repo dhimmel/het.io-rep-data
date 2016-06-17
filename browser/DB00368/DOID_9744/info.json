@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.6410923276983089,
   "metapath_contribution": {
     "CbGaD": 0.8577664407591178,
     "CbGeAlD": 0.004189633262228196,
     "CbGpPWpGaD": 0.1327954914805421,
     "CrCbGaD": 0.005248434498111936
   },
+  "n_trials": 0.0,
   "prediction": 0.00168847734016829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

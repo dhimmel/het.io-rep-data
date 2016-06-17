@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.42024942799176174,
     "CbGbCtD": 0.3170644458118478,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07764747403823519,
     "CcSEcCtD": 0.1822038754381503
   },
+  "n_trials": 0.0,
   "prediction": 0.00426207403906816,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00674",
   "compound_name": "Galantamine",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.636540962288687,
   "metapath_contribution": {
     "CbGaD": 0.6602592858317675,
     "CbGeAlD": 0.058264374021624175,
     "CbGpPWpGaD": 0.2688017695380466,
     "CrCbGaD": 0.012674570608561649
   },
+  "n_trials": 0.0,
   "prediction": 0.0019110599857312801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

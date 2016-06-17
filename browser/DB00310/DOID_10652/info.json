@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00310",
   "compound_name": "Chlorthalidone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6853055916775029,
   "metapath_contribution": {
     "CbGaD": 0.7289563095491044,
     "CbGeAlD": 0.03233867865350052,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12699414998586905,
     "CrCbGaD": 0.0056241603877789014
   },
+  "n_trials": 0.0,
   "prediction": 0.00245502910115163,
   "status": 0,
   "training_prediction": 0.00297928481889855

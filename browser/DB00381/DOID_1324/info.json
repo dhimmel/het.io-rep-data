@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.698309492847854,
   "metapath_contribution": {
     "CbGaD": 0.34864709810322464,
     "CbGbCtD": 0.39748232898297836,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12524543917411257,
     "CrCbGaD": 0.003002644306841725
   },
+  "n_trials": 0.0,
   "prediction": 0.00255747871140303,
   "status": 0,
   "training_prediction": 0.00871860247549627

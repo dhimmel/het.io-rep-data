@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.476592977893368,
   "metapath_contribution": {
     "CbGbCtD": 0.5900425330860609,
     "CbGeAlD": 0.1195063740027134,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23584155341180588,
     "CrCbGaD": 0.003988231625744206
   },
+  "n_trials": 0.0,
   "prediction": 0.00174787105861872,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.6656995729004411,
     "CbGbCtD": 0.12957026097370586,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0706280954083683,
     "CcSEcCtD": 0.12814757967966783
   },
+  "n_trials": 0.0,
   "prediction": 0.00419431635954953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

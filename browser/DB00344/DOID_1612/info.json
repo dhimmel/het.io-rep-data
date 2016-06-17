@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00344",
   "compound_name": "Protriptyline",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.472691807542263,
   "metapath_contribution": {
-    "CbGaD": 0.3370703465231214,
-    "CbGbCtD": 0.2961582522949855,
-    "CbGpPWpGaD": 0.03956787560676613,
-    "CcSEcCtD": 0.1661045035765153,
-    "CrCbGaD": 0.001977375295521078,
-    "CrCrCtD": 0.1591216467030905
+    "CbGaD": 0.33707034652312146,
+    "CbGbCtD": 0.2961582522949856,
+    "CbGpPWpGaD": 0.03956787560676614,
+    "CcSEcCtD": 0.16610450357651532,
+    "CrCbGaD": 0.001977375295521079,
+    "CrCrCtD": 0.15912164670309054
   },
+  "n_trials": 0.0,
   "prediction": 0.00223275965642019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

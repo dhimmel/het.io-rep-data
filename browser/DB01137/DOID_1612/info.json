@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
     "CbGaD": 0.3295723900801648,
     "CbGbCtD": 0.4219811169065424,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.17486976818780028,
     "CrCbGaD": 0.00332644696204696
   },
+  "n_trials": 0.0,
   "prediction": 0.00261451027187918,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.116384915474642,
   "metapath_contribution": {
     "CbGbCtD": 0.4377282254826691,
     "CbGeAlD": 0.1564179972274417,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2899076576794758,
     "CrCbGaD": 0.00894958483563267
   },
+  "n_trials": 0.0,
   "prediction": 0.000848242867300989,
   "status": 0,
   "training_prediction": 0.00155051976564447

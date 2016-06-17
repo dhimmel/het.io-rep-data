@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.58257477243173,
   "metapath_contribution": {
     "CbGaD": 0.45152946457132626,
     "CbGbCtD": 0.3442715192791913,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06418525820150876,
     "CcSEcCtD": 0.11850306568889035
   },
+  "n_trials": 0.0,
   "prediction": 0.0026482694984112398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

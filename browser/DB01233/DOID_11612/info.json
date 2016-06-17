@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.6918075422626789,
   "metapath_contribution": {
     "CbGaD": 0.7100187704929165,
     "CbGeAlD": 0.06819853629238755,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0030411527192338796,
     "CrCbGaD": 0.004991962625773134
   },
+  "n_trials": 0.0,
   "prediction": 0.0018255304671852602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

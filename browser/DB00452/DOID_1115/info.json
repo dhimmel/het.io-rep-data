@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00452",
   "compound_name": "Framycetin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.904845716885059,
     "CbGeAlD": 0.04571901422336184,
     "CbGpPWpGaD": 0.038456556906353044,
     "CcSEcCtD": 0.01097871198522611
   },
+  "n_trials": 0.0,
   "prediction": 0.004202292620477229,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

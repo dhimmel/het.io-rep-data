@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGbCtD": 0.2098641797977943,
     "CbGeAlD": 0.024967631035211334,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06494047340684284,
     "CiPCiCtD": 0.6593351494399498
   },
+  "n_trials": 3.0,
   "prediction": 0.00447667785579568,
   "status": 0,
   "training_prediction": 0.0438573419890738

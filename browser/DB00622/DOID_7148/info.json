@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.278933680104031,
   "metapath_contribution": {
     "CbGbCtD": 0.5865573137629201,
     "CbGeAlD": 0.004828139780446254,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1614713254588198,
     "CrCbGaD": 0.0013780683277656316
   },
+  "n_trials": 0.0,
   "prediction": 0.00125756628522569,
   "status": 0,
   "training_prediction": 0.00408960001870772

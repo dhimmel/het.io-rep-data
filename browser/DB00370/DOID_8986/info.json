@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.7826689012929384,
     "CbGeAlD": 0.0921948948642812,
     "CbGpPWpGaD": 0.12420117464676278,
     "CrCbGaD": 0.0009350291960175586
   },
+  "n_trials": 0.0,
   "prediction": 0.00362775298087821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

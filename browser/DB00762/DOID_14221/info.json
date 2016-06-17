@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.272058823529412,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.193107932379714,
   "metapath_contribution": {
     "CbGaD": 0.3844237065152959,
     "CbGbCtD": 0.2925745030154051,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.2225966173881167,
     "CcSEcCtD": 0.04613187994706257
   },
+  "n_trials": 0.0,
   "prediction": 0.0009167805073572859,
   "status": 0,
   "training_prediction": 0.00163740999554958

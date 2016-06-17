@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.900520156046814,
   "metapath_contribution": {
     "CbGbCtD": 0.34502571141075644,
     "CbGpPWpGaD": 0.026927289914021137,
@@ -10,6 +12,7 @@
     "CpDpCtD": 0.34853677873445077,
     "CrCrCtD": 0.22999347781226243
   },
+  "n_trials": 0.0,
   "prediction": 0.004590448028721571,
   "status": 0,
   "training_prediction": 0.0192574846681782

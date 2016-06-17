@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.530559167750325,
   "metapath_contribution": {
     "CbGbCtD": 0.44545449480080523,
     "CbGeAlD": 0.05995884050861855,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0010567986164434606,
     "CrCrCtD": 0.31361607531847485
   },
+  "n_trials": 0.0,
   "prediction": 0.00155173706154525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.173602080624187,
   "metapath_contribution": {
     "CbGdCrCtD": 0.022536044867567592,
     "CbGeAlD": 0.7490358990638146,
     "CbGpPWpGaD": 0.22709984699100993,
     "CrCbGaD": 0.0013282090776078061
   },
+  "n_trials": 0.0,
   "prediction": 0.00108372605305431,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

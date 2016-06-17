@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.294117647058824,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.831599479843953,
   "metapath_contribution": {
     "CbGaD": 0.7213816256921839,
     "CbGeAlD": 0.09838739544853298,
     "CbGpPWpGaD": 0.17455967417970636,
     "CrCbGaD": 0.005671304679576672
   },
+  "n_trials": 0.0,
   "prediction": 0.0026161559494621103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

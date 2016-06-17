@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00700",
   "compound_name": "Eplerenone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGbCtD": 0.2828958706263779,
     "CbGpPWpGaD": 0.03094197938240603,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0007683396520872963,
     "CtDrD": 0.6041369122673789
   },
+  "n_trials": 1.0,
   "prediction": 0.00455951456131687,
   "status": 0,
   "training_prediction": 0.0123106015443689

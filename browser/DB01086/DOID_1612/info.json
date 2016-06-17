@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.552665799739922,
   "metapath_contribution": {
     "CbGaD": 0.3275242453027345,
     "CbGbCtD": 0.31607115345228154,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.004135740173484594,
     "CrCrCtD": 0.1889923254152654
   },
+  "n_trials": 0.0,
   "prediction": 0.00263236217763266,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

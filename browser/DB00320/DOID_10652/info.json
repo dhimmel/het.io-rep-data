@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.5850275961752466,
     "CbGbCtD": 0.10264882851257395,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19893423505212587,
     "CrCbGaD": 0.002462704207463343
   },
+  "n_trials": 0.0,
   "prediction": 0.00343856201355022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

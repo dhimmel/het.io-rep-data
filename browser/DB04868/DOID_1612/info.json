@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.462938881664499,
   "metapath_contribution": {
     "CbGaD": 0.4396854974371588,
     "CbGbCtD": 0.2325215904026218,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.127386940576033,
     "CrCbGaD": 0.003943124724807795
   },
+  "n_trials": 0.0,
   "prediction": 0.00218984457873605,
   "status": 0,
   "training_prediction": 0.0120363885015227

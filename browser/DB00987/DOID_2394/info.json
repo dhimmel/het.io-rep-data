@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.0299089726918075,
   "metapath_contribution": {
     "CbGbCtD": 0.5833429533544962,
     "CbGdCrCtD": 0.004694165965810735,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.20889302411032576,
     "CrCbGaD": 0.007486122663080139
   },
+  "n_trials": 0.0,
   "prediction": 0.0005540447163768009,
   "status": 0,
   "training_prediction": 0.0022048087761772

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.17961914614902402,
     "CbGbCtD": 0.30493715770537533,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.3628218489060072,
     "CrCbGaD": 0.001983591209440587
   },
+  "n_trials": 0.0,
   "prediction": 0.00282531499762575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

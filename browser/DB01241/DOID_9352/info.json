@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01241",
   "compound_name": "Gemfibrozil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.15028778709703525,
     "CbGbCtD": 0.17571318564326274,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0007751623369588768,
     "CtDrD": 0.2317680109091821
   },
+  "n_trials": 2.0,
   "prediction": 0.122020651528004,
   "status": 0,
   "training_prediction": 0.38065411220132

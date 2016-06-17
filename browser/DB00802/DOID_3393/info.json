@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6723016905071519,
   "metapath_contribution": {
     "CbGaD": 0.11611489599359638,
     "CbGbCtD": 0.6683453078550761,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14520976251890902,
     "CrCbGaD": 0.00369952829836011
   },
+  "n_trials": 0.0,
   "prediction": 0.00329269280612953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

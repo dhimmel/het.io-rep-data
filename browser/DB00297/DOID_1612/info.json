@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00297",
   "compound_name": "Bupivacaine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGaD": 0.5238806376146845,
     "CbGbCtD": 0.2828659079879904,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13371770783631787,
     "CrCbGaD": 0.0033056898608342256
   },
+  "n_trials": 2.0,
   "prediction": 0.00306071260892921,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

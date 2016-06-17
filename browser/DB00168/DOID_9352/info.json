@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00168",
   "compound_name": "Aspartame",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGbCtD": 0.12044040802558752,
     "CbGeAlD": 0.02156325646190891,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.33795080328584665,
     "CrCtD": 0.49239700387073776
   },
+  "n_trials": 0.0,
   "prediction": 0.00903393019531218,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

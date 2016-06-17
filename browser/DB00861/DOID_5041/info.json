@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.322496749024707,
   "metapath_contribution": {
     "CbGaD": 0.7341138275632391,
     "CbGbCtD": 0.13950537783083325,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.039233174781521725,
     "CrCbGaD": 0.0065825446800750805
   },
+  "n_trials": 0.0,
   "prediction": 0.00110417508072868,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

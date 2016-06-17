@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00869",
   "compound_name": "Dorzolamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8335500650195059,
   "metapath_contribution": {
     "CbGaD": 0.23840912457078658,
     "CbGbCtD": 0.5412909572479918,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12794967226873072,
     "CrCbGaD": 0.002114243215621093
   },
+  "n_trials": 0.0,
   "prediction": 0.0102040127903345,
   "status": 0,
   "training_prediction": 0.048176888439222

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.04675517525735612,
     "CbGbCtD": 0.15285985554779452,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.1587503998902464,
     "CrCtD": 0.2568559320501041
   },
+  "n_trials": 2.0,
   "prediction": 0.0554488540023799,
   "status": 0,
   "training_prediction": 0.315339324264005

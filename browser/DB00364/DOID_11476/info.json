@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00364",
   "compound_name": "Sucralfate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.7561583586241272,
     "CbGbCtD": 0.0572389364551653,
     "CbGpPWpGaD": 0.1622391198351991,
     "CcSEcCtD": 0.024363585085508448
   },
+  "n_trials": 0.0,
   "prediction": 0.00944890766279586,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

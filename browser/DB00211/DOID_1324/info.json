@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00211",
   "compound_name": "Midodrine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.486996098829649,
   "metapath_contribution": {
     "CbGbCtD": 0.22686389699594336,
     "CbGpPWpGaD": 0.11413106395947915,
     "CcSEcCtD": 0.6417362160801441,
     "CrCbGaD": 0.017268822964433383
   },
+  "n_trials": 0.0,
   "prediction": 0.00181648892918411,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

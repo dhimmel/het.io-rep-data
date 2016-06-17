@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.220588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.0370611183355007,
   "metapath_contribution": {
     "CbGbCtD": 0.49764294285325855,
     "CbGeAlD": 0.07996521935510906,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19857635831618406,
     "CrCbGaD": 0.0067935980628669205
   },
+  "n_trials": 2.0,
   "prediction": 0.0006950594733772861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

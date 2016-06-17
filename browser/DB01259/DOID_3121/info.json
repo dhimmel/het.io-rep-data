@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3121",
   "disease_name": "gallbladder cancer",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.8546740520092578,
     "CbGeAlD": 0.02999858188909364,
     "CbGpPWpGaD": 0.11055022136742275,
     "CrCbGaD": 0.004777144734225824
   },
+  "n_trials": 2.0,
   "prediction": 0.0052224015944641105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

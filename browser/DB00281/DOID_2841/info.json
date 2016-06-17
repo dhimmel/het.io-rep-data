@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7477243172951891,
   "metapath_contribution": {
     "CbGaD": 0.1860901752770867,
     "CbGbCtD": 0.3799220368537674,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.2832273074632408,
     "CrCbGaD": 0.0005690778927244655
   },
+  "n_trials": 0.0,
   "prediction": 0.00410066477098733,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

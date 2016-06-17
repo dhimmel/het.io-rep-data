@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.21045058624229512,
     "CbGbCtD": 0.1964619500420538,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.16662232837651741,
     "CrCtD": 0.3208035819895393
   },
+  "n_trials": 0.0,
   "prediction": 0.0166577273043268,
   "status": 0,
   "training_prediction": 0.0762387286189717

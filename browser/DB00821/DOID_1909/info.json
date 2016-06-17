@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.511053315994798,
   "metapath_contribution": {
     "CbGaD": 0.9019582891926305,
     "CbGeAlD": 0.02051558030482229,
     "CbGpPWpGaD": 0.06126180349159205,
     "CrCbGaD": 0.01626432701095505
   },
+  "n_trials": 0.0,
   "prediction": 0.0014666993331396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.6866059817945379,
   "metapath_contribution": {
     "CbGaD": 0.8962439339193541,
     "CbGpPWpGaD": 0.020653248570641353,
     "CcSEcCtD": 0.08170553702167427,
     "CrCbGaD": 0.0013972804883303684
   },
+  "n_trials": 0.0,
   "prediction": 0.00186389181928061,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

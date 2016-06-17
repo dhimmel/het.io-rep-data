@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.2884242269900889,
     "CbGeAlD": 0.04288646689971591,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00427548318183548,
     "CtDrD": 0.5992909939495502
   },
+  "n_trials": 6.0,
   "prediction": 0.00218826739072963,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

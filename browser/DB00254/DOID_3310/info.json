@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.32964889466840097,
   "metapath_contribution": {
     "CbGbCtD": 0.44625938897477485,
     "CbGeAlD": 0.22109868040465586,
     "CbGpPWpGaD": 0.31383049285674247,
     "CrCbGaD": 0.01881143776382669
   },
+  "n_trials": 1.0,
   "prediction": 0.00173072184896818,
   "status": 0,
   "training_prediction": 0.00591194245628405

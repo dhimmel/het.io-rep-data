@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.162717202791107,
     "CbGbCtD": 0.24301175047230483,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19228973011169867,
     "CrCtD": 0.2850659028547814
   },
+  "n_trials": 0.0,
   "prediction": 0.0373723821868999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

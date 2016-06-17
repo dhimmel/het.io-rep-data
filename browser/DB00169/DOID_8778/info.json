@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0010839490394715886,
     "CbGeAlD": 0.030584508695029804,
     "CrCbGaD": 0.0016850484800965111,
     "CtDrD": 0.9666464937854021
   },
+  "n_trials": 10.0,
   "prediction": 0.00201557776735235,
   "status": 0,
   "training_prediction": 0.007443794077696791

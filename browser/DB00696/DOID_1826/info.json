@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.464889466840052,
   "metapath_contribution": {
     "CbGaD": 0.3367347263449727,
     "CbGbCtD": 0.3237648505241134,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11894529025256834,
     "CrCbGaD": 0.0033115369236580115
   },
+  "n_trials": 0.0,
   "prediction": 0.0031015847955200102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

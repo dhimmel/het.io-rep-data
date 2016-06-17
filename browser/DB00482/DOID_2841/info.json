@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGaD": 0.13401395657285614,
     "CbGbCtD": 0.22316087226535514,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.4279625107172928,
     "CrCbGaD": 0.00015430859616775422
   },
+  "n_trials": 0.0,
   "prediction": 0.0068117385356587104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

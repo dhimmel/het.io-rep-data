@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.362808842652796,
   "metapath_contribution": {
     "CbGaD": 0.6240819552816469,
     "CbGbCtD": 0.2735896365830598,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.010504591387220189,
     "CrCbGaD": 0.002551358308403083
   },
+  "n_trials": 0.0,
   "prediction": 0.00122134705814118,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

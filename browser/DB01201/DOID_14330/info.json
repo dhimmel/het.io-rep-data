@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01201",
   "compound_name": "Rifapentine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.64889466840052,
   "metapath_contribution": {
     "CbGaD": 0.8688461246920701,
     "CbGpPWpGaD": 0.12811836040909913,
     "CrCbGaD": 0.0030355148988307763
   },
+  "n_trials": 0.0,
   "prediction": 0.00171810541430277,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

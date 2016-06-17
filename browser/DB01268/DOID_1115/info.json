@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.3381497074238812,
     "CbGbCtD": 0.08299043608661523,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.07098908274171777,
     "CtDrD": 0.32972686724776434
   },
+  "n_trials": 9.0,
   "prediction": 0.00977079859196292,
   "status": 0,
   "training_prediction": 0.032166014903849

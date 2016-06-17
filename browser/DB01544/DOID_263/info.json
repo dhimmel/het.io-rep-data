@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01544",
   "compound_name": "Flunitrazepam",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGbCtD": 0.7508958056029171,
     "CbGeAlD": 0.05479311221487748,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08437608197089222,
     "CrCbGaD": 6.0376151702321616e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0016184579722945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

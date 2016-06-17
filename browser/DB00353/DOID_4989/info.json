@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00353",
   "compound_name": "Methylergometrine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.6820546163849152,
   "metapath_contribution": {
     "CbGaD": 0.7694039547540579,
     "CbGpPWpGaD": 0.15718843741875382,
     "CcSEcCtD": 0.06797553140671289,
     "CrCbGaD": 0.005432076420475365
   },
+  "n_trials": 0.0,
   "prediction": 0.0018540988886361302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00186",
   "compound_name": "Lorazepam",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.20416124837451202,
   "metapath_contribution": {
     "CbGeAlD": 0.10331703145881496,
     "CbGpPWpGaD": 0.10263822563257709,
     "CcSEcCtD": 0.7780756609397907,
     "CrCbGaD": 0.01596908196881722
   },
+  "n_trials": 2.0,
   "prediction": 0.0010521745799296901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

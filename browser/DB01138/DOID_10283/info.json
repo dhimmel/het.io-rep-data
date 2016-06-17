@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6866059817945379,
   "metapath_contribution": {
     "CbGaD": 0.10087348912276745,
     "CbGbCtD": 0.7412660683834147,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.11673668808548136,
     "CrCbGaD": 0.002532375560864722
   },
+  "n_trials": 0.0,
   "prediction": 0.0033824226850888,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

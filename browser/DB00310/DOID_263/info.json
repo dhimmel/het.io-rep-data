@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00310",
   "compound_name": "Chlorthalidone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7678803641092329,
   "metapath_contribution": {
     "CbGaD": 0.6778115501423486,
     "CbGeAlD": 0.10248945215451477,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11534171542637915,
     "CrCbGaD": 0.005131186094762957
   },
+  "n_trials": 0.0,
   "prediction": 0.00283044326355268,
   "status": 0,
   "training_prediction": 0.008217379207935359

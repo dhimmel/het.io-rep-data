@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.327698309492848,
   "metapath_contribution": {
     "CbGaD": 0.4507902846278696,
     "CbGbCtD": 0.1904269905262312,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10973950980024531,
     "CrCbGaD": 0.004864808636829663
   },
+  "n_trials": 0.0,
   "prediction": 0.00115998870220955,
   "status": 0,
   "training_prediction": 0.0029746060294988

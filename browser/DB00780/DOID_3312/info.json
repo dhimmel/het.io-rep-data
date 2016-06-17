@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.701560468140442,
   "metapath_contribution": {
     "CbGaD": 0.7385209022721584,
     "CbGeAlD": 0.09917673871574138,
     "CbGpPWpGaD": 0.15380762241418414,
     "CrCbGaD": 0.008494736597915975
   },
+  "n_trials": 0.0,
   "prediction": 0.0018296199308527699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

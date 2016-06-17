@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7139141742522759,
   "metapath_contribution": {
     "CbGaD": 0.37035255385027327,
     "CbGbCtD": 0.4647172450400166,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06166477218332387,
     "CrCbGaD": 0.001707814668017131
   },
+  "n_trials": 0.0,
   "prediction": 0.00265327260748117,
   "status": 0,
   "training_prediction": 0.00904307751580889

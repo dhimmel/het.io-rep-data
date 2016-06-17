@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0338101430429129,
   "metapath_contribution": {
     "CbGaD": 0.5095417130193766,
     "CbGbCtD": 0.1448775136075292,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1566877601469315,
     "CrCbGaD": 0.005727183353693111
   },
+  "n_trials": 0.0,
   "prediction": 0.000695929274452329,
   "status": 0,
   "training_prediction": 0.0120220744781116

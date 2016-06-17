@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
-    "CbGbCtD": 0.13951309471389506,
-    "CbGdCrCtD": 0.0014857219267575346,
-    "CcSEcCtD": 0.059640686230652495,
-    "CpDpCtD": 0.2212526565545573,
-    "CrCrCtD": 0.22951833256903142,
-    "CrCtD": 0.34858950800510613
+    "CbGbCtD": 0.13951309471389509,
+    "CbGdCrCtD": 0.0014857219267575348,
+    "CcSEcCtD": 0.0596406862306525,
+    "CpDpCtD": 0.22125265655455736,
+    "CrCrCtD": 0.22951833256903145,
+    "CrCtD": 0.3485895080051062
   },
+  "n_trials": 0.0,
   "prediction": 0.010330586863998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

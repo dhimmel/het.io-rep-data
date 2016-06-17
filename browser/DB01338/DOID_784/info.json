@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01338",
   "compound_name": "Pipecuronium",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.435630689206762,
   "metapath_contribution": {
-    "CbGeAlD": 0.2757776811710685,
-    "CbGpPWpGaD": 0.5470488534360796,
-    "CrCbGaD": 0.17717346539285203
+    "CbGeAlD": 0.27577768117106843,
+    "CbGpPWpGaD": 0.5470488534360795,
+    "CrCbGaD": 0.177173465392852
   },
+  "n_trials": 0.0,
   "prediction": 0.00143197598835074,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00224",
   "compound_name": "Indinavir",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.705461638491547,
   "metapath_contribution": {
     "CbGbCtD": 0.5736651725261984,
     "CbGeAlD": 0.04506093673649219,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.25874733433204683,
     "CrCbGaD": 0.010324731512282139
   },
+  "n_trials": 0.0,
   "prediction": 0.0030793277557420603,
   "status": 0,
   "training_prediction": 0.0037363991030116704

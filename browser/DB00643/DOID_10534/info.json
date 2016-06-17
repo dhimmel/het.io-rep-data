@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.21976592977893397,
   "metapath_contribution": {
     "CbGbCtD": 0.7022973272294804,
     "CbGdCrCtD": 0.008676247633854176,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.20691202367232506,
     "CrCbGaD": 0.006926531959259105
   },
+  "n_trials": 0.0,
   "prediction": 0.000952808496599527,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

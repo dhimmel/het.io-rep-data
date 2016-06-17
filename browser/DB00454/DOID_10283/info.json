@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.546163849154746,
   "metapath_contribution": {
     "CbGaD": 0.2558276765529277,
     "CbGbCtD": 0.4771270764374757,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1310680423344155,
     "CrCbGaD": 0.0024198457334501087
   },
+  "n_trials": 0.0,
   "prediction": 0.0024681182231433,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

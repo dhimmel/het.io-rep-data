@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.47854356306892104,
   "metapath_contribution": {
     "CbGaD": 0.6944729094481358,
     "CbGbCtD": 0.08689585258821511,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19116507707489036,
     "CrCbGaD": 0.000833240227898402
   },
+  "n_trials": 0.0,
   "prediction": 0.0016575887308704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

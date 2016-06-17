@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGbCtD": 0.7959651183777495,
     "CbGeAlD": 0.08532978443147636,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06044635598574232,
     "CrCbGaD": 0.0029197560482401887
   },
+  "n_trials": 0.0,
   "prediction": 0.0014731622570683198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.17815344603381,
   "metapath_contribution": {
     "CbGbCtD": 0.4387873436165595,
     "CbGdCrCtD": 0.01357804900475556,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07577342606155424,
     "CcSEcCtD": 0.433307909601441
   },
+  "n_trials": 0.0,
   "prediction": 0.0013856248197138198,
   "status": 0,
   "training_prediction": 0.00788153138928501

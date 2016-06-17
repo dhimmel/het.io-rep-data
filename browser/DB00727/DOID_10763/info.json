@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00727",
   "compound_name": "Nitroglycerin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
     "CbGaD": 0.39643674951828567,
     "CbGeAlD": 0.03380235610299973,
@@ -13,6 +15,5 @@
     "CrCbGaD": 0.0033520492337744553
   },
   "prediction": 0.0111577249169463,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6872561768530561,
   "metapath_contribution": {
     "CbGaD": 0.32527316855603405,
     "CbGbCtD": 0.3892622427879117,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1589065440955298,
     "CrCbGaD": 0.00490150307002426
   },
+  "n_trials": 0.0,
   "prediction": 0.00372431690518089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

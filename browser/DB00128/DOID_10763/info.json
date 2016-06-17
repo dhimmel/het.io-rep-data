@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.317295188556567,
   "metapath_contribution": {
     "CbGaD": 0.6473738296680949,
     "CbGdCrCtD": 0.003594692267510231,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.20106945464096382,
     "CrCbGaD": 0.0076760428683461815
   },
+  "n_trials": 0.0,
   "prediction": 0.0024716983991497896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

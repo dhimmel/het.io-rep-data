@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01056",
   "compound_name": "Tocainide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.45513654096228895,
   "metapath_contribution": {
     "CbGaD": 0.44156555875722336,
     "CbGbCtD": 0.28541063390352345,
     "CbGpPWpGaD": 0.26020766204210066,
     "CrCbGaD": 0.012816145297152446
   },
+  "n_trials": 0.0,
   "prediction": 0.00169506201877212,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00552",
   "compound_name": "Pentostatin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.006644097718871621,
     "CcSEcCtD": 0.07018958694785223,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0025757653153894284,
     "CrCrCtD": 0.20988720717304268
   },
+  "n_trials": 1.0,
   "prediction": 0.00495423526935949,
   "status": 0,
   "training_prediction": 0.0117508846050439

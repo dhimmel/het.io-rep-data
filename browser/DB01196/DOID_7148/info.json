@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.294117647058824,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.0721716514954486,
   "metapath_contribution": {
     "CbGbCtD": 0.42993427154514713,
     "CbGeAlD": 0.0069284137890927725,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0009656089781932613,
     "CrCrCtD": 0.309230923378359
   },
+  "n_trials": 0.0,
   "prediction": 0.000822870042285245,
   "status": 0,
   "training_prediction": 0.0026785952216409102

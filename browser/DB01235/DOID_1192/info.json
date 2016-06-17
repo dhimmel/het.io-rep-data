@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGbCtD": 0.24839987176014897,
     "CbGdCrCtD": 0.0022150209607565024,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1729330986945883,
     "CrCtD": 0.4831197110992764
   },
+  "n_trials": 0.0,
   "prediction": 0.00639000847893885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.38394158836354153,
     "CbGbCtD": 0.4130651079553194,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12470395316459115,
     "CrCbGaD": 0.0012935430595800077
   },
+  "n_trials": 0.0,
   "prediction": 0.00225854932685437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

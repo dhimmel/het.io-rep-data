@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
-    "CbGbCtD": 0.3444065293729651,
-    "CbGpPWpGaD": 0.08386960352623549,
-    "CcSEcCtD": 0.08447667433474487,
-    "CrCbGaD": 0.003824619501983662,
-    "CrCrCtD": 0.483422573264071
+    "CbGbCtD": 0.34440652937296506,
+    "CbGpPWpGaD": 0.08386960352623547,
+    "CcSEcCtD": 0.08447667433474486,
+    "CrCbGaD": 0.0038246195019836613,
+    "CrCrCtD": 0.4834225732640709
   },
+  "n_trials": 0.0,
   "prediction": 0.0027523290690992,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

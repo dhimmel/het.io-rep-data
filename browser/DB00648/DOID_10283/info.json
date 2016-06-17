@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00648",
   "compound_name": "Mitotane",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6196358907672299,
   "metapath_contribution": {
     "CbGaD": 0.3200118011966166,
     "CbGbCtD": 0.372082077802743,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13517180548460453,
     "CrCbGaD": 0.002509758162516701
   },
+  "n_trials": 1.0,
   "prediction": 0.0029013451531706698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

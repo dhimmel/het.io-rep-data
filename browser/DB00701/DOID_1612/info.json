@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00701",
   "compound_name": "Amprenavir",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.3681584363402324,
     "CbGbCtD": 0.46718108152330673,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10788693427653323,
     "CrCbGaD": 0.0018594142362795328
   },
+  "n_trials": 0.0,
   "prediction": 0.0040875889995030295,
   "status": 0,
   "training_prediction": 0.0222767532209968

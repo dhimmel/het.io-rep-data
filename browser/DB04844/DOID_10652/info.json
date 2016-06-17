@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04844",
   "compound_name": "Tetrabenazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.11278729522332984,
     "CbGbCtD": 0.14739495296108257,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0017447801668542427,
     "CrCtD": 0.6497380898809162
   },
+  "n_trials": 0.0,
   "prediction": 0.0223475795542192,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

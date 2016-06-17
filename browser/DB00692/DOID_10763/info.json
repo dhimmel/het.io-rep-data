@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00692",
   "compound_name": "Phentolamine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.900520156046814,
   "metapath_contribution": {
     "CbGaD": 0.3138144118961458,
     "CbGbCtD": 0.3602762921664082,
@@ -14,6 +16,5 @@
     "CrCrCtD": 0.16594365372526093
   },
   "prediction": 0.022183046263592996,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

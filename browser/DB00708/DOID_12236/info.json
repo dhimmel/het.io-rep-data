@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.509752925877763,
   "metapath_contribution": {
     "CbGbCtD": 0.6626561921603203,
     "CbGpPWpGaD": 0.14361358211578246,
     "CcSEcCtD": 0.19198406965220965,
     "CrCbGaD": 0.001746156071687559
   },
+  "n_trials": 0.0,
   "prediction": 0.00163846772457317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

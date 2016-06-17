@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.27632580421108116,
     "CbGbCtD": 0.4739723299901284,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09116365190351113,
     "CcSEcCtD": 0.11696485412482968
   },
+  "n_trials": 0.0,
   "prediction": 0.0070977295272363706,
   "status": 0,
   "training_prediction": 0.10614557020117801

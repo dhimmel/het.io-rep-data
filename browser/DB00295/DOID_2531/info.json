@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.485045513654096,
   "metapath_contribution": {
     "CbGaD": 0.3095324136640145,
     "CbGbCtD": 0.37993892095133946,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20882189666097467,
     "CrCbGaD": 0.0023136869765418397
   },
+  "n_trials": 2.0,
   "prediction": 0.00222137858748977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

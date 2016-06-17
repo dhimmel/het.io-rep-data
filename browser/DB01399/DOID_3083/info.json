@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.3810143042912871,
   "metapath_contribution": {
     "CbGbCtD": 0.20451428236783648,
     "CbGeAlD": 0.004330821150272959,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.006814556054811246,
     "CrCrCtD": 0.6968266841038386
   },
+  "n_trials": 0.0,
   "prediction": 0.0018056777908143,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

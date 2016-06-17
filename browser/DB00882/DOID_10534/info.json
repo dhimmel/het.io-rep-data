@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.4700483861416531,
     "CbGbCtD": 0.23236199008826883,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16120549072047224,
     "CrCbGaD": 0.0014817494494655337
   },
+  "n_trials": 0.0,
   "prediction": 0.0018127719858435898,
   "status": 0,
   "training_prediction": 0.0039932920795294

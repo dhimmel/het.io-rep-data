@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.25942782834850503,
   "metapath_contribution": {
     "CbGbCtD": 0.16128737680803074,
     "CbGeAlD": 0.2063788973838694,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4496981913902323,
     "CrCbGaD": 0.009143941938664342
   },
+  "n_trials": 0.0,
   "prediction": 0.0009138790620877789,
   "status": 0,
   "training_prediction": 0.000411876749371483

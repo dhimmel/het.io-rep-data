@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
     "CbGaD": 0.45549002373186104,
     "CbGbCtD": 0.25902025652894667,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15010211828475853,
     "CrCbGaD": 0.0017772707677410164
   },
+  "n_trials": 0.0,
   "prediction": 0.004139041162599021,
   "status": 0,
   "training_prediction": 0.0297645864600378

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00999",
   "compound_name": "Hydrochlorothiazide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGaD": 0.36270152685350593,
     "CbGbCtD": 0.3427576070334672,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1815758506895451,
     "CrCbGaD": 0.00282653323729671
   },
+  "n_trials": 4.0,
   "prediction": 0.00307490389268247,
   "status": 0,
   "training_prediction": 0.0270173269109365

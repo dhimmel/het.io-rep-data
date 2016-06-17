@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.5156046814044211,
   "metapath_contribution": {
     "CbGaD": 0.4857027778485542,
     "CbGbCtD": 0.07923999533624185,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.2696522915111403,
     "CrCbGaD": 0.0025505735448038934
   },
+  "n_trials": 0.0,
   "prediction": 0.00193783431484979,
   "status": 0,
   "training_prediction": 0.0447236065858285

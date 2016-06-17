@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7139141742522759,
   "metapath_contribution": {
     "CbGaD": 0.4226286080963642,
     "CbGbCtD": 0.3067141452534379,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08838622772311554,
     "CcSEcCtD": 0.13931777309921856
   },
+  "n_trials": 0.0,
   "prediction": 0.00250667002562103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

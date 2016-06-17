@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01018",
   "compound_name": "Guanfacine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.5039011703511049,
   "metapath_contribution": {
     "CbGbCtD": 0.14931568465480552,
     "CbGdCrCtD": 0.019214925087066747,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.6871025919067781,
     "CrCbGaD": 0.022313740668519013
   },
+  "n_trials": 0.0,
   "prediction": 0.00156895334749475,
   "status": 0,
   "training_prediction": 0.00402075533421584

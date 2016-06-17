@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01156",
   "compound_name": "Bupropion",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGaD": 0.4600222322505378,
     "CbGbCtD": 0.24943181822373708,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03326953798466467,
     "CcSEcCtD": 0.22198005094900616
   },
+  "n_trials": 2.0,
   "prediction": 0.00263791546252715,
   "status": 0,
   "training_prediction": 0.00580519948350688

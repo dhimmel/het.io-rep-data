@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.3994531144456706,
     "CbGbCtD": 0.4571393168359702,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.07895170406350888,
     "CrCbGaD": 0.004136041646001894
   },
+  "n_trials": 9.0,
   "prediction": 0.00487407580643025,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

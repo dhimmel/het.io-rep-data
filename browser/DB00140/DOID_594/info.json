@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.9000441067808026,
     "CbGeAlD": 0.04124319094843406,
     "CbGpPWpGaD": 0.054107662761434,
     "CrCbGaD": 0.004605039509329324
   },
+  "n_trials": 0.0,
   "prediction": 0.00444146977982765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

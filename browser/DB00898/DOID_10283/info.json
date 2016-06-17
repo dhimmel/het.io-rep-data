@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.34733552851572036,
     "CbGbCtD": 0.47733800340584515,
     "CbGeAlD": 0.040807382353735155,
     "CbGpPWpGaD": 0.13451908572469942
   },
+  "n_trials": 0.0,
   "prediction": 0.00692448666473107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

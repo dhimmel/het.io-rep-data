@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01392",
   "compound_name": "Yohimbine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.38361508452535803,
   "metapath_contribution": {
     "CbGaD": 0.3719171844949954,
     "CbGbCtD": 0.46892697480755435,
     "CbGeAlD": 0.008566421132803453,
     "CbGpPWpGaD": 0.15058941956464697
   },
+  "n_trials": 0.0,
   "prediction": 0.00194408908148743,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

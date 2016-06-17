@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00446",
   "compound_name": "Chloramphenicol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.798439531859558,
   "metapath_contribution": {
     "CbGaD": 0.14161358656777254,
     "CbGbCtD": 0.5743848763906076,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09128968501611999,
     "CcSEcCtD": 0.1554384599614292
   },
+  "n_trials": 0.0,
   "prediction": 0.00467587577123568,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

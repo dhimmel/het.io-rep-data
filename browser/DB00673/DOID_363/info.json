@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00673",
   "compound_name": "Aprepitant",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGbCtD": 0.2796041938415175,
     "CbGeAlD": 0.00480955891170585,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10983954734319538,
     "CpDpCtD": 0.6016919531879872
   },
+  "n_trials": 2.0,
   "prediction": 0.00400220674362246,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

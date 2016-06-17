@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.809492847854356,
   "metapath_contribution": {
     "CbGbCtD": 0.6158372891304744,
     "CbGeAlD": 0.11216583222081807,
     "CcSEcCtD": 0.2719968786487075
   },
+  "n_trials": 0.0,
   "prediction": 0.0024205152940768603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

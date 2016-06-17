@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00777",
   "compound_name": "Propiomazine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.730819245773732,
   "metapath_contribution": {
     "CbGaD": 0.7839951108752505,
     "CbGeAlD": 0.0729755367422125,
     "CbGpPWpGaD": 0.1338789680883345,
     "CrCbGaD": 0.00915038429420248
   },
+  "n_trials": 0.0,
   "prediction": 0.00196745881749073,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

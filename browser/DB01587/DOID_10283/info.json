@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01587",
   "compound_name": "Ketazolam",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
-    "CbGaD": 0.20945460404157532,
-    "CbGbCtD": 0.7070120695049502,
-    "CbGeAlD": 0.017006285137439556,
-    "CbGpPWpGaD": 0.06188214092189692,
-    "CrCbGaD": 0.004644900394137943
+    "CbGaD": 0.20945460404157534,
+    "CbGbCtD": 0.7070120695049503,
+    "CbGeAlD": 0.01700628513743956,
+    "CbGpPWpGaD": 0.061882140921896936,
+    "CrCbGaD": 0.004644900394137944
   },
+  "n_trials": 0.0,
   "prediction": 0.0020319107986355197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

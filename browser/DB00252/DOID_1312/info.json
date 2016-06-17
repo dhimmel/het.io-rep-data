@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.50260078023407,
   "metapath_contribution": {
     "CbGaD": 0.328131571819693,
     "CbGbCtD": 0.4918145092228946,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1319301241995216,
     "CrCbGaD": 0.0008139772343237151
   },
+  "n_trials": 0.0,
   "prediction": 0.00144342934151434,
   "status": 0,
   "training_prediction": 0.000650729571376488

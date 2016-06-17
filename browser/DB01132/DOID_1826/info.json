@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.568270481144343,
   "metapath_contribution": {
     "CbGaD": 0.26860097961783524,
     "CbGbCtD": 0.49683918053042564,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16800463506778993,
     "CrCbGaD": 0.0015045467118930376
   },
+  "n_trials": 0.0,
   "prediction": 0.00394231451609524,
   "status": 0,
   "training_prediction": 0.0190618737477127

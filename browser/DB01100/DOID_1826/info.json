@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7451235370611179,
   "metapath_contribution": {
     "CbGaD": 0.35274723376839984,
     "CbGbCtD": 0.3869200337203321,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12574700985421686,
     "CrCbGaD": 0.002626168335347079
   },
+  "n_trials": 0.0,
   "prediction": 0.0066776148817394,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01253",
   "compound_name": "Ergonovine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.8664629271837423,
     "CbGeAlD": 0.030893700415233125,
     "CbGpPWpGaD": 0.09105650304993652,
     "CrCbGaD": 0.011586869351087992
   },
+  "n_trials": 0.0,
   "prediction": 0.00251131208594837,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00862",
   "compound_name": "Vardenafil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.33383294766939264,
     "CbGbCtD": 0.38670408972845455,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14983847626351696,
     "CrCbGaD": 0.003421220867272339
   },
+  "n_trials": 0.0,
   "prediction": 0.00742748185394682,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

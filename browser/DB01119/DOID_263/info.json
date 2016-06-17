@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01119",
   "compound_name": "Diazoxide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.7316269237532889,
     "CbGeAlD": 0.07997310271960026,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1333333894801926,
     "CrCbGaD": 0.002316441220199136
   },
+  "n_trials": 0.0,
   "prediction": 0.004149898806151,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00336",
   "compound_name": "Nitrofural",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6989596879063721,
   "metapath_contribution": {
     "CbGaD": 0.43131619663333837,
     "CbGbCtD": 0.5129913049599191,
     "CbGpPWpGaD": 0.05288449303872747,
     "CrCbGaD": 0.002808005368015098
   },
+  "n_trials": 0.0,
   "prediction": 0.0036120313609635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

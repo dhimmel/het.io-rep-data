@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.0864759427828349,
   "metapath_contribution": {
     "CbGaD": 0.8133891004416466,
     "CbGbCtD": 0.057549924092585136,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.027287592855455293,
     "CcSEcCtD": 0.09668030307679586
   },
+  "n_trials": 0.0,
   "prediction": 0.000723498581344951,
   "status": 0,
   "training_prediction": 0.00392554948322503

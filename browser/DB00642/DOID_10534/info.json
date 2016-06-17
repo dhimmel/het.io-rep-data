@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.08677476207354465,
     "CbGbCtD": 0.17017892462607379,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.13860813936818556,
     "CrCtD": 0.20959389948961332
   },
+  "n_trials": 0.0,
   "prediction": 0.10270685390130499,
   "status": 0,
   "training_prediction": 0.20172333927416197

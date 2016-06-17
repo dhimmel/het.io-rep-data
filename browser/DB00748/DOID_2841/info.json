@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00748",
   "compound_name": "Carbinoxamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGbCtD": 0.2891076683323153,
     "CbGpPWpGaD": 0.00943909062919685,
@@ -10,7 +12,7 @@
     "CiPCiCtD": 0.6247309763557882,
     "CrCbGaD": 0.00015302036123587872
   },
+  "n_trials": 0.0,
   "prediction": 0.00722580022899287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.5126775717764254,
     "CbGbCtD": 0.1339804153266494,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1510393879555747,
     "CcSEcCtD": 0.11451640014764311
   },
+  "n_trials": 0.0,
   "prediction": 0.00819276742943927,
   "status": 0,
   "training_prediction": 0.0179098663365662

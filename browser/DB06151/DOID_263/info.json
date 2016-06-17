@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.7475317004437118,
     "CbGbCtD": 0.003926003355210763,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1026234945476474,
     "CrCbGaD": 0.0051765813497554915
   },
+  "n_trials": 0.0,
   "prediction": 0.00365478218435745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

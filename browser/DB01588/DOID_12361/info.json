@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01588",
   "compound_name": "Prazepam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.8814364922326722,
     "CbGeAlD": 0.009203794740880416,
     "CbGpPWpGaD": 0.10041043837428516,
     "CrCbGaD": 0.008949274652162177
   },
+  "n_trials": 0.0,
   "prediction": 0.00245021901255832,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

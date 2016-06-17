@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10941",
   "disease_name": "intracranial aneurysm",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.8775671724939961,
     "CbGeAlD": 0.014101197090569353,
     "CbGpPWpGaD": 0.099929223950866,
     "CrCbGaD": 0.00840240646456843
   },
+  "n_trials": 0.0,
   "prediction": 0.00483722327662172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

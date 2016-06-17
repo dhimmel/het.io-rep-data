@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01160",
   "compound_name": "Dinoprost Tromethamine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.6762028608582571,
   "metapath_contribution": {
     "CbGbCtD": 0.541193765173069,
     "CbGeAlD": 0.05788107374127599,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1579546643605205,
     "CrCbGaD": 0.0031749614590772415
   },
+  "n_trials": 0.0,
   "prediction": 0.00234004360284737,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

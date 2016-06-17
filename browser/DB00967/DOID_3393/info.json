@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00967",
   "compound_name": "Desloratadine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6053315994798439,
   "metapath_contribution": {
     "CbGaD": 0.22146330794841582,
     "CbGbCtD": 0.5591525746001378,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16853543763085768,
     "CrCbGaD": 0.0009152592509229476
   },
+  "n_trials": 0.0,
   "prediction": 0.00290312957146974,
   "status": 0,
   "training_prediction": 0.0154616730051722

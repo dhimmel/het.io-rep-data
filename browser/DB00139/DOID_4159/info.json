@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00139",
   "compound_name": "Succinic acid",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.323146944083225,
   "metapath_contribution": {
     "CbGdCrCtD": 0.023700978633280148,
     "CbGeAlD": 0.8184464075230165,
     "CbGpPWpGaD": 0.12089557535893855,
     "CrCbGaD": 0.03695703848476485
   },
+  "n_trials": 0.0,
   "prediction": 0.0013459919665640301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01064",
   "compound_name": "Isoprenaline",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.7036741298025124,
     "CbGeAlD": 0.05193428430255361,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.02777303346632118,
     "CrCbGaD": 0.0007874721617353696
   },
+  "n_trials": 0.0,
   "prediction": 0.00213113745717092,
   "status": 0,
   "training_prediction": 0.005456662701544821

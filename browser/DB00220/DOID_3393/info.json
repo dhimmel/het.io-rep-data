@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.10008927389465802,
     "CbGbCtD": 0.45837120050272645,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0010370602951389931,
     "CrCrCtD": 0.2805931683989182
   },
+  "n_trials": 0.0,
   "prediction": 0.00853757624425184,
   "status": 0,
   "training_prediction": 0.0443849863583029

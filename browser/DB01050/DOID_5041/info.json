@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.7451235370611179,
   "metapath_contribution": {
     "CbGaD": 0.49265661540127387,
     "CbGbCtD": 0.23178831285701082,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08737195406445583,
     "CrCbGaD": 0.003847087944067813
   },
+  "n_trials": 0.0,
   "prediction": 0.00209534306986179,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

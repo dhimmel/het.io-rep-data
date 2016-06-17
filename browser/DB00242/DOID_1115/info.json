@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.35630689206762,
   "metapath_contribution": {
     "CbGbCtD": 0.3722931583843877,
     "CbGdCrCtD": 0.009313803936420872,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.33593959080182795,
     "CrCbGaD": 0.0059758079871461015
   },
+  "n_trials": 0.0,
   "prediction": 0.00118570260662698,
   "status": 0,
   "training_prediction": 0.0039825389793367895

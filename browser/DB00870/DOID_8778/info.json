@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.20175966627279276,
     "CbGbCtD": 0.39029905018021765,
     "CrCbGaD": 0.0035271688195573823,
     "CrCrCtD": 0.40441411472743216
   },
+  "n_trials": 0.0,
   "prediction": 0.00473819532629021,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

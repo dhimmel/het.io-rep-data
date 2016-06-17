@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00979",
   "compound_name": "Cyclopentolate",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.284135240572172,
   "metapath_contribution": {
     "CbGbCtD": 0.5423156950001873,
     "CbGeAlD": 0.023178958281726128,
     "CcSEcCtD": 0.42702681670770065,
     "CrCbGaD": 0.007478530010385958
   },
+  "n_trials": 0.0,
   "prediction": 0.00151144971352074,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

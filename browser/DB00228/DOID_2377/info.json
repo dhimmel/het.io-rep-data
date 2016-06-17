@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.795838751625488,
   "metapath_contribution": {
     "CbGaD": 0.3998370657488996,
     "CbGbCtD": 0.31477400298646757,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0450557749817449,
     "CrCbGaD": 0.0015876493012561528
   },
+  "n_trials": 0.0,
   "prediction": 0.00286157625376316,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

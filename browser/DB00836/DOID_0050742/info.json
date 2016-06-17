@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.8102723957387562,
     "CbGeAlD": 0.033344190117172184,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.02669766493622512,
     "CrCbGaD": 0.009283427175683406
   },
+  "n_trials": 0.0,
   "prediction": 0.00225350797746819,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

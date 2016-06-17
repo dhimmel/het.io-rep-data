@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00881",
   "compound_name": "Quinapril",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.09375216400473478,
     "CbGbCtD": 0.23463227534526998,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.232204190519067,
     "CrCtD": 0.35038428681661477
   },
+  "n_trials": 1.0,
   "prediction": 0.0640324247046129,
   "status": 0,
   "training_prediction": 0.26954324107197003

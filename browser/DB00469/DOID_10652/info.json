@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGaD": 0.6950913827319561,
     "CbGbCtD": 0.07755426228442823,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15563405988254078,
     "CrCbGaD": 0.006177383544938726
   },
+  "n_trials": 0.0,
   "prediction": 0.00407808297325495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

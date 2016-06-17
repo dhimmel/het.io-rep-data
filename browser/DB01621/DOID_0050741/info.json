@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01621",
   "compound_name": "Pipotiazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.6501950585175551,
   "metapath_contribution": {
     "CbGaD": 0.5874144595926254,
     "CbGbCtD": 0.2389893989786547,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11836234956316147,
     "CrCbGaD": 0.007596763907049898
   },
+  "n_trials": 0.0,
   "prediction": 0.00270813257379659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

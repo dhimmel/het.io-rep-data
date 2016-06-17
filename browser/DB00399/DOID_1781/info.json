@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00399",
   "compound_name": "Zoledronate",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.7197659297789342,
   "metapath_contribution": {
     "CbGbCtD": 0.6374350786548526,
     "CbGeAlD": 0.0661966881263945,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2735846850170819,
     "CrCbGaD": 0.004176837125302512
   },
+  "n_trials": 0.0,
   "prediction": 0.0020352419585766,
   "status": 0,
   "training_prediction": 0.00411304322045415

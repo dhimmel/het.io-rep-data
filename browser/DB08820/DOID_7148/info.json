@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08820",
   "compound_name": "Ivacaftor",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.11372151825697141,
     "CbGbCtD": 0.20241039599581687,
     "CcSEcCtD": 0.023826635305407653,
     "CiPCiCtD": 0.6600414504418042
   },
+  "n_trials": 0.0,
   "prediction": 0.007881382477273829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

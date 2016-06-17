@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06616",
   "compound_name": "Bosutinib",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.10988296488946699,
   "metapath_contribution": {
     "CbGaD": 0.10125641814451238,
     "CbGbCtD": 0.03729944652959311,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.22403455079107928,
     "CrCbGaD": 0.00792275078931907
   },
+  "n_trials": 0.0,
   "prediction": 0.00104533112651615,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

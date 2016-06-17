@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.6755526657997399,
   "metapath_contribution": {
     "CbGaD": 0.5355550323252394,
     "CbGbCtD": 0.16976540651552877,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11981665324383647,
     "CrCbGaD": 0.0026199969745402583
   },
+  "n_trials": 0.0,
   "prediction": 0.00201255822420747,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

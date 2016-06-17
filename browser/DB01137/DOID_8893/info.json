@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.41157347204161204,
   "metapath_contribution": {
     "CbGbCtD": 0.583162713845235,
     "CbGdCrCtD": 0.001965085840425648,
     "CcSEcCtD": 0.4148722003143393
   },
+  "n_trials": 0.0,
   "prediction": 0.00165373211198531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

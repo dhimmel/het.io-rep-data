@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.3116312474356452,
     "CbGbCtD": 0.37512408265492836,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002233475295165395,
     "CrCrCtD": 0.28086529431939683
   },
+  "n_trials": 0.0,
   "prediction": 0.0262764016441024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

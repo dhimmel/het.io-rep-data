@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00820",
   "compound_name": "Tadalafil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.3103592264861097,
     "CbGbCtD": 0.13927924370428915,
@@ -13,6 +15,5 @@
     "CpDpCtD": 0.3244632088796795
   },
   "prediction": 0.0184774976459422,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

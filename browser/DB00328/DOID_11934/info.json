@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.646944083224967,
   "metapath_contribution": {
-    "CbGaD": 0.22406487633532873,
+    "CbGaD": 0.2240648763353287,
     "CbGbCtD": 0.5323235333324299,
-    "CbGdCrCtD": 0.0026580890203718724,
-    "CbGeAlD": 0.04588342476040476,
+    "CbGdCrCtD": 0.002658089020371872,
+    "CbGeAlD": 0.04588342476040475,
     "CbGpPWpGaD": 0.09671506387754364,
     "CcSEcCtD": 0.09544859446567244,
-    "CrCbGaD": 0.002906418208248716
+    "CrCbGaD": 0.0029064182082487156
   },
+  "n_trials": 1.0,
   "prediction": 0.00175343629903801,
   "status": 0,
   "training_prediction": 0.0021281910056299602

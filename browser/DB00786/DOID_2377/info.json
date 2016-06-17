@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00786",
   "compound_name": "Marimastat",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.6532566409775853,
     "CbGdCrCtD": 0.004272944563001965,
     "CbGeAlD": 0.13092024021208146,
     "CbGpPWpGaD": 0.21155017424733116
   },
+  "n_trials": 0.0,
   "prediction": 0.00369249088700701,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

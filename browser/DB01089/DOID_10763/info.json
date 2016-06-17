@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01089",
   "compound_name": "Deserpidine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGbCtD": 0.10214882172043618,
     "CbGpPWpGaD": 0.015083644975268413,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.183596848427229,
     "CrCtD": 0.2902707142635417
   },
+  "n_trials": 0.0,
   "prediction": 0.0441039190011037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

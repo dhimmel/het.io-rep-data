@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00492",
   "compound_name": "Fosinopril",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.33161338932245843,
     "CbGeAlD": 0.0575227304164942,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003063462742338619,
     "CtDrD": 0.6002418929041554
   },
+  "n_trials": 0.0,
   "prediction": 0.006409927363592621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.34201350974738265,
     "CbGeAlD": 0.004012083333363346,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0009742342849156611,
     "CrCrCtD": 0.4676796328323349
   },
+  "n_trials": 0.0,
   "prediction": 0.00304320282276068,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

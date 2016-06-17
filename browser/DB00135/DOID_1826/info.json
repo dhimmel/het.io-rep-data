@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00135",
   "compound_name": "L-Tyrosine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.505851755526658,
   "metapath_contribution": {
     "CbGaD": 0.4890287305569794,
     "CbGeAlD": 0.08824474510877828,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.005848544478332428,
     "CrCrCtD": 0.2997615862993311
   },
+  "n_trials": 0.0,
   "prediction": 0.00343726206056318,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

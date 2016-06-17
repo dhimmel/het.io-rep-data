@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00883",
   "compound_name": "Isosorbide Dinitrate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7184655396618991,
   "metapath_contribution": {
     "CbGaD": 0.5803525724833923,
     "CbGbCtD": 0.24239399706116543,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05856474276261186,
     "CrCbGaD": 0.005680607876148657
   },
+  "n_trials": 0.0,
   "prediction": 0.00374091567071818,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

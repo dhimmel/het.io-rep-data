@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00352",
   "compound_name": "Tioguanine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGbCtD": 0.4110495416878167,
     "CbGdCrCtD": 0.0025546234601027487,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05353340185542257,
     "CrCrCtD": 0.515726192638914
   },
+  "n_trials": 0.0,
   "prediction": 0.009339086030519491,
   "status": 0,
   "training_prediction": 0.0298271426258203

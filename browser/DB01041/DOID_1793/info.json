@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.345752334904671,
     "CbGbCtD": 0.3822053999314901,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16225143756093013,
     "CrCbGaD": 0.0027445025502024923
   },
+  "n_trials": 1.0,
   "prediction": 0.0032365419799053,
   "status": 0,
   "training_prediction": 0.0127775671281139

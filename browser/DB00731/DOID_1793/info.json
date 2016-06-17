@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGaD": 0.37441684499238526,
     "CbGbCtD": 0.5149332939998211,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06350226632156329,
     "CrCbGaD": 0.00025433907093265224
   },
+  "n_trials": 0.0,
   "prediction": 0.00201234520790401,
   "status": 0,
   "training_prediction": 0.004792493295222289

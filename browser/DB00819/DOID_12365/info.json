@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00819",
   "compound_name": "Acetazolamide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGbCtD": 0.11692040328580995,
     "CbGeAlD": 0.03373704338035093,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06049623451095254,
     "CiPCiCtD": 0.7464751317012375
   },
+  "n_trials": 0.0,
   "prediction": 0.0142985326186761,
   "status": 0,
   "training_prediction": 0.0585183456837782

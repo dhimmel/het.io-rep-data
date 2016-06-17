@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.817295188556567,
   "metapath_contribution": {
     "CbGaD": 0.3014615836904712,
     "CbGbCtD": 0.5683661250185992,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07461030188530363,
     "CrCbGaD": 0.002647955439425618
   },
+  "n_trials": 0.0,
   "prediction": 0.00346332409750207,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

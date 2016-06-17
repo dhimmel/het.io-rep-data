@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01295",
   "compound_name": "Bevantolol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.24029071961204818,
     "CbGbCtD": 0.529554609693388,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0024344685595624467,
     "CrCrCtD": 0.19218321997578539
   },
+  "n_trials": 0.0,
   "prediction": 0.00619347149709928,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

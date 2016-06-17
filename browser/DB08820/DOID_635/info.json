@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08820",
   "compound_name": "Ivacaftor",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.12270701612833093,
     "CbGbCtD": 0.1902402895746634,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04771493578830221,
     "CiPCiCtD": 0.6252402818870003
   },
+  "n_trials": 0.0,
   "prediction": 0.0364619115597882,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

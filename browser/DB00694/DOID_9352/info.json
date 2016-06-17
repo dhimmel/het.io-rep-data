@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.120936280884265,
   "metapath_contribution": {
     "CbGaD": 0.34897355012574915,
     "CbGbCtD": 0.35695743583411654,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14743026415958518,
     "CrCbGaD": 0.0029078669774089093
   },
+  "n_trials": 0.0,
   "prediction": 0.00108193144974149,
   "status": 0,
   "training_prediction": 0.00476697510317565

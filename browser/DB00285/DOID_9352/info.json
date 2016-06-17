@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.3901170351105329,
   "metapath_contribution": {
     "CbGaD": 0.14596654044547377,
     "CbGbCtD": 0.5314945297301509,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21008951075310547,
     "CrCbGaD": 0.002426893310666509
   },
+  "n_trials": 0.0,
   "prediction": 0.00207164632049162,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

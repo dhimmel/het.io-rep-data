@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.681404421326398,
   "metapath_contribution": {
     "CbGaD": 0.6453913739109132,
     "CbGeAlD": 0.1549591151275906,
     "CbGpPWpGaD": 0.19592782605594103,
     "CrCbGaD": 0.0037216849055550978
   },
+  "n_trials": 0.0,
   "prediction": 0.00179286898516185,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01342",
   "compound_name": "Forasartan",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGbCtD": 0.2360821608285081,
     "CbGeAlD": 0.005447435169453219,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2898288083993995,
     "CrCtD": 0.45059765191317547
   },
+  "n_trials": 0.0,
   "prediction": 0.0262286950307837,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

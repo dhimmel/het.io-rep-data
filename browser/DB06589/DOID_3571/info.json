@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.14710047106787902,
     "CbGbCtD": 0.36456300627764743,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.054954626751296795,
     "CtDrD": 0.34078452711716417
   },
+  "n_trials": 0.0,
   "prediction": 0.0116193409380521,
   "status": 0,
   "training_prediction": 0.011463708581435

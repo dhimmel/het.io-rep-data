@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.0852999710718932,
     "CbGbCtD": 0.19375892966590838,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.16533697206525796,
     "CrCtD": 0.18541913587711437
   },
+  "n_trials": 0.0,
   "prediction": 0.0853839645597138,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

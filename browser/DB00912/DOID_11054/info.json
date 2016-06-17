@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.6134452935187861,
     "CbGbCtD": 0.1926524229291828,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.045687673133281835,
     "CcSEcCtD": 0.10252207393080737
   },
+  "n_trials": 0.0,
   "prediction": 0.0048125239603891605,
   "status": 0,
   "training_prediction": 0.0122707560061687

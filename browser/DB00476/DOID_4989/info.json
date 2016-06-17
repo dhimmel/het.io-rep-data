@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGaD": 0.6363500143393405,
     "CbGpPWpGaD": 0.13604333491115933,
     "CcSEcCtD": 0.2179089504146677,
     "CrCbGaD": 0.009697700334832396
   },
+  "n_trials": 0.0,
   "prediction": 0.00134294173350521,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01264",
   "compound_name": "Darunavir",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGbCtD": 0.14055878959008652,
     "CbGpPWpGaD": 0.0023091360672981625,
@@ -10,7 +12,7 @@
     "CiPCiCtD": 0.7472722844420099,
     "CrCbGaD": 0.00010852822376614311
   },
+  "n_trials": 0.0,
   "prediction": 0.007516566155679021,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

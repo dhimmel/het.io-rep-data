@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.08018343147970242,
     "CbGbCtD": 0.12644068448125348,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.15679011440158547,
     "CrCtD": 0.24572031683757162
   },
+  "n_trials": 0.0,
   "prediction": 0.0600836511491288,
   "status": 0,
   "training_prediction": 0.31252933725247195

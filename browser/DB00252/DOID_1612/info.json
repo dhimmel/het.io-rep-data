@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.432379713914174,
   "metapath_contribution": {
-    "CbGaD": 0.15854493350655702,
-    "CbGbCtD": 0.36976714849535824,
-    "CbGeAlD": 0.012515354294411514,
-    "CbGpPWpGaD": 0.08192585439826457,
-    "CcSEcCtD": 0.1397345454504575,
-    "CrCbGaD": 0.001830340297855964,
-    "CrCrCtD": 0.23568182355709533
+    "CbGaD": 0.158544933506557,
+    "CbGbCtD": 0.3697671484953582,
+    "CbGeAlD": 0.012515354294411512,
+    "CbGpPWpGaD": 0.08192585439826455,
+    "CcSEcCtD": 0.13973454545045746,
+    "CrCbGaD": 0.0018303402978559638,
+    "CrCrCtD": 0.2356818235570953
   },
+  "n_trials": 0.0,
   "prediction": 0.00209459176560501,
   "status": 0,
   "training_prediction": 0.0115177793199968

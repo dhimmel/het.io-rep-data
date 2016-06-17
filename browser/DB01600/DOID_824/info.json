@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.724317295188557,
   "metapath_contribution": {
     "CbGaD": 0.9794655871377917,
     "CbGeAlD": 0.011685579631719989,
     "CbGpPWpGaD": 0.0008435930054224953,
     "CrCbGaD": 0.008005240225065836
   },
+  "n_trials": 0.0,
   "prediction": 0.00166714421298474,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

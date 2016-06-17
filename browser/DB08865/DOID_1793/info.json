@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.33345900891497615,
     "CbGbCtD": 0.4765204958667239,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09600473569079704,
     "CcSEcCtD": 0.06540078119391289
   },
+  "n_trials": 0.0,
   "prediction": 0.0109074371502044,
   "status": 0,
   "training_prediction": 0.0256605882971944

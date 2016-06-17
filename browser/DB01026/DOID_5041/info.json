@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.7248463011152665,
     "CbGbCtD": 0.061992681621440664,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.046405681266198616,
     "CrCbGaD": 0.0022618615848773354
   },
+  "n_trials": 0.0,
   "prediction": 0.00249217738925531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

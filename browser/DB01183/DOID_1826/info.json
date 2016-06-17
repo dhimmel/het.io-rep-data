@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGaD": 0.4018235433631538,
     "CbGbCtD": 0.3399922255408328,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.113921248851388,
     "CrCbGaD": 0.0039031994653226597
   },
+  "n_trials": 1.0,
   "prediction": 0.00514695080683889,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

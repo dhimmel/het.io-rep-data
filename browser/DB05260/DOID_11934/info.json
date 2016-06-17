@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGbCtD": 0.7678189103131777,
     "CbGdCrCtD": 0.0029903441470583935,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09973988373121304,
     "CcSEcCtD": 0.018883173139782106
   },
+  "n_trials": 0.0,
   "prediction": 0.00647889618243819,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

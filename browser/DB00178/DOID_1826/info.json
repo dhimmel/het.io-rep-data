@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00178",
   "compound_name": "Ramipril",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.5266579973992199,
   "metapath_contribution": {
     "CbGaD": 0.3221419162754354,
     "CbGeAlD": 0.02091506955362125,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.003334255695015624,
     "CrCrCtD": 0.368324063758209
   },
+  "n_trials": 0.0,
   "prediction": 0.0035794046845478104,
   "status": 0,
   "training_prediction": 0.04787651464506299

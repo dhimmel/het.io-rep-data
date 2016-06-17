@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.33963442517733555,
     "CbGbCtD": 0.46968553317988354,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03728024488236657,
     "CcSEcCtD": 0.13648998967332573
   },
+  "n_trials": 0.0,
   "prediction": 0.00333133332143188,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

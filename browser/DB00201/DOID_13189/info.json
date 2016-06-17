@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.842002600780234,
   "metapath_contribution": {
     "CbGbCtD": 0.29824869695855094,
     "CbGdCrCtD": 0.0036111099483276845,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0997047961463872,
     "CpDpCtD": 0.5673206814498911
   },
+  "n_trials": 0.0,
   "prediction": 0.00444761394874369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

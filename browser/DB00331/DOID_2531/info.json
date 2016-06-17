@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.14592704012181573,
     "CbGbCtD": 0.40795567296153784,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.13395858181835293,
     "CcSEcCtD": 0.17933641972460415
   },
+  "n_trials": 6.0,
   "prediction": 0.006099697375576221,
   "status": 0,
   "training_prediction": 0.112472064235122

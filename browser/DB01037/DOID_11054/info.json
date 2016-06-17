@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.5936280884265279,
   "metapath_contribution": {
     "CbGbCtD": 0.5704536815602599,
     "CbGeAlD": 0.05699633640949931,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2549301579342767,
     "CrCbGaD": 0.0038512807093197673
   },
+  "n_trials": 0.0,
   "prediction": 0.00182487638314495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

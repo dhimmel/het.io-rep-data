@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06155",
   "compound_name": "Rimonabant",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.674494119740585,
     "CbGbCtD": 0.17493825028668433,
     "CbGpPWpGaD": 0.07510449296497756,
     "CcSEcCtD": 0.07546313700775296
   },
+  "n_trials": 0.0,
   "prediction": 0.00647890109405175,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

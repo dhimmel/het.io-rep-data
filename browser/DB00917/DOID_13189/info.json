@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.40519893292889525,
     "CbGbCtD": 0.4483919638003739,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05980358046851763,
     "CrCbGaD": 0.001864554399985096
   },
+  "n_trials": 0.0,
   "prediction": 0.00813354354600084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

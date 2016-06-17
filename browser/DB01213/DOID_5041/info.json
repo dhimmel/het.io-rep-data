@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01213",
   "compound_name": "Fomepizole",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.7687428124595114,
     "CbGeAlD": 0.06227259949954855,
     "CbGpPWpGaD": 0.16609528862252826,
     "CcSEcCtD": 0.002889299418411884
   },
+  "n_trials": 0.0,
   "prediction": 0.00551425223620191,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

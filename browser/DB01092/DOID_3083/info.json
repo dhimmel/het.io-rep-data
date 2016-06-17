@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.27438231469440805,
   "metapath_contribution": {
     "CbGaD": 0.6845967647552054,
     "CbGbCtD": 0.17855710343001005,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07850395185204283,
     "CrCbGaD": 0.00048816145201081347
   },
+  "n_trials": 0.0,
   "prediction": 0.00153959613557086,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

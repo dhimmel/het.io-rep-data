@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8166449934980491,
   "metapath_contribution": {
     "CbGbCtD": 0.2637959490311287,
     "CbGeAlD": 0.01734619429603093,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0034737975720946354,
     "CrCrCtD": 0.5595901654995267
   },
+  "n_trials": 0.0,
   "prediction": 0.00334852007155799,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

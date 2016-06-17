@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00151",
   "compound_name": "L-Cysteine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.825097529258778,
   "metapath_contribution": {
     "CbGaD": 0.6986310887497703,
     "CbGeAlD": 0.09081894936595751,
     "CbGpPWpGaD": 0.20502776292124694,
     "CrCbGaD": 0.0055221989630252055
   },
+  "n_trials": 0.0,
   "prediction": 0.00228857786292562,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

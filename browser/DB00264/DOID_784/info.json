@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00264",
   "compound_name": "Metoprolol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.4212847219309102,
     "CbGeAlD": 0.009333518738005408,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00210686210802334,
     "CtDrD": 0.5300877389008617
   },
+  "n_trials": 0.0,
   "prediction": 0.00493465253687191,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

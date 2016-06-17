@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.636540962288687,
   "metapath_contribution": {
     "CbGbCtD": 0.4706609238622845,
     "CbGeAlD": 0.0673728963211027,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3182092967177527,
     "CrCbGaD": 0.001834735094454973
   },
+  "n_trials": 0.0,
   "prediction": 0.00210515780392676,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

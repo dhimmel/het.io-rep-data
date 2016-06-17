@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGaD": 0.7355009289645345,
     "CbGeAlD": 0.05254131542556674,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07377812035208063,
     "CrCbGaD": 0.008444005599018334
   },
+  "n_trials": 0.0,
   "prediction": 0.00157955064978429,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

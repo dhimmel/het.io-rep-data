@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGbCtD": 0.2872646851310197,
     "CbGeAlD": 0.01887757062863215,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07340284090448371,
     "CpDpCtD": 0.5910396770090529
   },
+  "n_trials": 0.0,
   "prediction": 0.0025474280245093603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.15301035129575377,
     "CbGeAlD": 0.0014320231981611827,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.006453673876435452,
     "CtDrD": 0.8220868461581311
   },
+  "n_trials": 1.0,
   "prediction": 0.00322520614968229,
   "status": 0,
   "training_prediction": 0.00145541979911438

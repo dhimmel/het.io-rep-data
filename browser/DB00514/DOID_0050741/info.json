@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.32386359963230227,
     "CbGbCtD": 0.2904579970824851,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0036895186175263744,
     "CrCrCtD": 0.2737362739817156
   },
+  "n_trials": 0.0,
   "prediction": 0.0156566221252011,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

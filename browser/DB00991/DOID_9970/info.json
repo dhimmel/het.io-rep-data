@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.10256921255278281,
     "CbGbCtD": 0.06759099992302038,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2770581334246934,
     "CrCtD": 0.44850184869540827
   },
+  "n_trials": 0.0,
   "prediction": 0.00622296960795345,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGaD": 0.38537984976507017,
     "CbGbCtD": 0.32657990611912424,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13764026542888302,
     "CrCbGaD": 0.0077313805253734404
   },
+  "n_trials": 3.0,
   "prediction": 0.00385042913101359,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

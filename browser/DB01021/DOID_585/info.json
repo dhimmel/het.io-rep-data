@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01021",
   "compound_name": "Trichlormethiazide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGbCtD": 0.26117701488956035,
     "CbGeAlD": 0.033959738954536675,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.28238612583907696,
     "CrCtD": 0.39670321752214815
   },
+  "n_trials": 0.0,
   "prediction": 0.0455585842445904,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

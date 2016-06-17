@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00377",
   "compound_name": "Palonosetron",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.5958913323635462,
     "CbGbCtD": 0.2873258265439886,
     "CbGeAlD": 0.0023380461450862302,
     "CcSEcCtD": 0.11444479494737897
   },
+  "n_trials": 0.0,
   "prediction": 0.00641233046248425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04841",
   "compound_name": "Flunarizine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGaD": 0.3405682733065121,
     "CbGbCtD": 0.4577813765880095,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003020413707591318,
     "CrCrCtD": 0.0675580822490405
   },
+  "n_trials": 0.0,
   "prediction": 0.00525983024237595,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

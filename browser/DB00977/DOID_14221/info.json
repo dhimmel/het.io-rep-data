@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.301690507152146,
   "metapath_contribution": {
     "CbGaD": 0.8391735900130828,
     "CbGeAlD": 0.01762390277868391,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0095103192113427,
     "CrCbGaD": 0.00697181214601528
   },
+  "n_trials": 2.0,
   "prediction": 0.00107249676270216,
   "status": 0,
   "training_prediction": 0.0008065762644824901

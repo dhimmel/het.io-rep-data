@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.48309492847854396,
   "metapath_contribution": {
     "CbGaD": 0.25730143809144934,
     "CbGbCtD": 0.45919414372095735,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15479640607288722,
     "CrCbGaD": 0.0010792190593544085
   },
+  "n_trials": 0.0,
   "prediction": 0.0037467076255471203,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00352",
   "compound_name": "Tioguanine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.658162259519774,
     "CbGbCtD": 0.20524702927167,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0447333847757271,
     "CrCbGaD": 0.004900485663369271
   },
+  "n_trials": 0.0,
   "prediction": 0.0122052039478444,
   "status": 0,
   "training_prediction": 0.0265538727471484

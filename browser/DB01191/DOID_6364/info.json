@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01191",
   "compound_name": "Dexfenfluramine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.42907750479038753,
     "CbGbCtD": 0.294971905866019,
@@ -10,7 +12,7 @@
     "CrCbGaD": 8.840067252748325e-05,
     "CrCrCtD": 0.24364484946114412
   },
+  "n_trials": 0.0,
   "prediction": 0.0121651482187361,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

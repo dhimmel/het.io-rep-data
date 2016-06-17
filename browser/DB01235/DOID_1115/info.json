@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.0663198959687906,
   "metapath_contribution": {
     "CbGdCrCtD": 0.029814451383293115,
     "CbGeAlD": 0.2841894525363404,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5967509939044359,
     "CrCbGaD": 0.019531116215310333
   },
+  "n_trials": 0.0,
   "prediction": 0.000725627882311146,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

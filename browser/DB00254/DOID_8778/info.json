@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.5091027308192461,
   "metapath_contribution": {
     "CbGbCtD": 0.43739001000783145,
     "CbGeAlD": 0.2930888850439169,
     "CbGpPWpGaD": 0.2569593523981106,
     "CrCbGaD": 0.012561752550141145
   },
+  "n_trials": 2.0,
   "prediction": 0.0015960735772073199,
   "status": 0,
   "training_prediction": 0.00260319217340445

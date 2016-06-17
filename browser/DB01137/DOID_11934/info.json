@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.38361508452535803,
   "metapath_contribution": {
     "CbGbCtD": 0.5621618159983022,
     "CbGdCrCtD": 0.011553916944172637,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.01763601938270818,
     "CcSEcCtD": 0.38169451779453617
   },
+  "n_trials": 0.0,
   "prediction": 0.0012147618919074801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

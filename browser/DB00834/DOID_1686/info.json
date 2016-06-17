@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.4484979414745769,
     "CbGbCtD": 0.34091616933943336,
     "CbGpPWpGaD": 0.018072096789559122,
     "CcSEcCtD": 0.19251379239643066
   },
+  "n_trials": 0.0,
   "prediction": 0.0045642613470698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

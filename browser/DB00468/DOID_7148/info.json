@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.37903818814327045,
     "CbGbCtD": 0.44076168479397587,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13082506553908396,
     "CrCbGaD": 0.0018552233424235242
   },
+  "n_trials": 0.0,
   "prediction": 0.005014925382253239,
   "status": 0,
   "training_prediction": 0.0161715068372969

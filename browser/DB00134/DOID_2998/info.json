@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.490897269180754,
   "metapath_contribution": {
-    "CbGbCtD": 0.25378026103310763,
-    "CbGdCrCtD": 0.02067326956068352,
-    "CbGeAlD": 0.40150930178361677,
+    "CbGbCtD": 0.2537802610331077,
+    "CbGdCrCtD": 0.020673269560683525,
+    "CbGeAlD": 0.4015093017836168,
     "CbGpPWpGaD": 0.32403716762259205
   },
+  "n_trials": 0.0,
   "prediction": 0.00157538191568857,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

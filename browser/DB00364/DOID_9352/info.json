@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00364",
   "compound_name": "Sucralfate",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.776332899869961,
   "metapath_contribution": {
     "CbGaD": 0.2074823029861616,
     "CbGbCtD": 0.4123511962935746,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2272789107019423,
     "CcSEcCtD": 0.044825557670035654
   },
+  "n_trials": 0.0,
   "prediction": 0.0048691006612029105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

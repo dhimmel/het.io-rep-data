@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00388",
   "compound_name": "Phenylephrine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.673602080624187,
   "metapath_contribution": {
     "CbGaD": 0.8010795048041296,
     "CbGeAlD": 0.037042476809319026,
     "CbGpPWpGaD": 0.15468605035889427,
     "CrCbGaD": 0.007191968027657125
   },
+  "n_trials": 0.0,
   "prediction": 0.00176928379757355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

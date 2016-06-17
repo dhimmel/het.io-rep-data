@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01213",
   "compound_name": "Fomepizole",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.805591677503251,
   "metapath_contribution": {
     "CbGaD": 0.6133159370042297,
     "CbGeAlD": 0.0839994101679495,
     "CbGpPWpGaD": 0.1580790691344932,
     "CcSEcCtD": 0.14460558369332763
   },
+  "n_trials": 0.0,
   "prediction": 0.00489181864497701,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

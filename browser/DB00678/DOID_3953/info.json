@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.21902087595388714,
     "CbGeAlD": 0.039836320792816834,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0007851239114831865,
     "CtDrD": 0.7134198854710573
   },
+  "n_trials": 0.0,
   "prediction": 0.0030921580773664897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

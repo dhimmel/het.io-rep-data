@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGbCtD": 0.36634654612635964,
     "CbGdCrCtD": 0.0012141556973675005,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08934601789620085,
     "CtDrD": 0.4769430290106786
   },
+  "n_trials": 1.0,
   "prediction": 0.00804574968009531,
   "status": 0,
   "training_prediction": 0.17550714615577304

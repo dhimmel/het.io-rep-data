@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.321196358907672,
   "metapath_contribution": {
-    "CbGaD": 0.09531472231890832,
-    "CbGbCtD": 0.6471921377526295,
-    "CbGeAlD": 0.023704287520971545,
-    "CbGpPWpGaD": 0.12026137646949456,
-    "CcSEcCtD": 0.10963229548206964,
-    "CrCbGaD": 0.00389518045592649
+    "CbGaD": 0.09531472231890831,
+    "CbGbCtD": 0.6471921377526294,
+    "CbGeAlD": 0.023704287520971538,
+    "CbGpPWpGaD": 0.12026137646949453,
+    "CcSEcCtD": 0.10963229548206961,
+    "CrCbGaD": 0.003895180455926489
   },
+  "n_trials": 4.0,
   "prediction": 0.00161571062511906,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

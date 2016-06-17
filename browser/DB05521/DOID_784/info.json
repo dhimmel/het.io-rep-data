@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6996098829648891,
   "metapath_contribution": {
     "CbGaD": 0.7528526405030106,
     "CbGeAlD": 0.09561347258753689,
     "CbGpPWpGaD": 0.14641988931649702,
     "CrCbGaD": 0.005113997592955527
   },
+  "n_trials": 0.0,
   "prediction": 0.0020769578002372,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

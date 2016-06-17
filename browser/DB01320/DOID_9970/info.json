@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01320",
   "compound_name": "Fosphenytoin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.05812773596056768,
     "CbGbCtD": 0.19283420214548588,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.00044913314333259167,
     "CrCrCtD": 0.1925226088123554
   },
+  "n_trials": 0.0,
   "prediction": 0.0110111200987075,
   "status": 0,
   "training_prediction": 0.0278072396238855

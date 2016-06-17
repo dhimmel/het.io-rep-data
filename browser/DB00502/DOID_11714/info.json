@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.378413524057217,
   "metapath_contribution": {
     "CbGbCtD": 0.6212722484341617,
     "CbGeAlD": 0.13078299768971538,
     "CbGpPWpGaD": 0.04461043574761947,
     "CcSEcCtD": 0.2033343181285034
   },
+  "n_trials": 0.0,
   "prediction": 0.0013843458092830802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

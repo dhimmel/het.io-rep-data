@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01203",
   "compound_name": "Nadolol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.1530526570418093,
     "CbGbCtD": 0.21420036337207715,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.2231439888634376,
     "CrCtD": 0.37547317645091444
   },
+  "n_trials": 0.0,
   "prediction": 0.0255235000359247,
   "status": 0,
   "training_prediction": 0.0546629634780985

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.533810143042913,
   "metapath_contribution": {
     "CbGaD": 0.18692178825667116,
     "CbGbCtD": 0.32826765444241346,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05613901478871189,
     "CcSEcCtD": 0.33168641199861776
   },
+  "n_trials": 0.0,
   "prediction": 0.0015616653022542599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

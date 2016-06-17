@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.6669338248676647,
     "CbGeAlD": 0.11741566685142521,
     "CbGpPWpGaD": 0.21210335849897974,
     "CrCbGaD": 0.003547149781930406
   },
+  "n_trials": 9.0,
   "prediction": 0.0024031341288809,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

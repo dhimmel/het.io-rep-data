@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.250975292587776,
   "metapath_contribution": {
     "CbGaD": 0.31667793825282203,
     "CbGbCtD": 0.4094635995461021,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1545744001136119,
     "CrCbGaD": 0.0008540021861762813
   },
+  "n_trials": 0.0,
   "prediction": 0.00124859283423568,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00756",
   "compound_name": "Hexachlorophene",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.3244731762873357,
     "CbGbCtD": 0.5424805193824668,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08111447943992169,
     "CcSEcCtD": 0.0070643304827888885
   },
+  "n_trials": 0.0,
   "prediction": 0.008604320625029391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

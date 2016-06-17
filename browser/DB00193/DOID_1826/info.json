@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00193",
   "compound_name": "Tramadol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.2595579186553178,
     "CbGbCtD": 0.21623528409470297,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.33488329792378474,
     "CrCbGaD": 0.0022131802337131794
   },
+  "n_trials": 0.0,
   "prediction": 0.020053784085166,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

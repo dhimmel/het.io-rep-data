@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
     "CbGbCtD": 0.14777203731686284,
     "CbGdCrCtD": 0.0013936712552887786,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0024960481002400743,
     "CrCrCtD": 0.15121921139170194
   },
+  "n_trials": 0.0,
   "prediction": 0.00569133890631821,
   "status": 0,
   "training_prediction": 0.0307962740467654

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.882314694408322,
   "metapath_contribution": {
     "CbGbCtD": 0.32521833563356034,
     "CbGpPWpGaD": 0.012546867839609453,
     "CcSEcCtD": 0.08291797127950805,
     "CpDpCtD": 0.5793168252473222
   },
+  "n_trials": 0.0,
   "prediction": 0.00572225086862481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

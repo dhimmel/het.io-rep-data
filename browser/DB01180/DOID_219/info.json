@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6521456436931079,
   "metapath_contribution": {
-    "CbGeAlD": 0.06063582691119211,
-    "CcSEcCtD": 0.08353880752405891,
-    "CrCbGaD": 0.0028885280344132696,
-    "CrCrCtD": 0.8529368375303358
+    "CbGeAlD": 0.060635826911192105,
+    "CcSEcCtD": 0.0835388075240589,
+    "CrCbGaD": 0.002888528034413269,
+    "CrCrCtD": 0.8529368375303357
   },
+  "n_trials": 0.0,
   "prediction": 0.0019850130905833103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

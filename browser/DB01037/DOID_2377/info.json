@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.49674902470741206,
   "metapath_contribution": {
     "CbGbCtD": 0.6836288310299766,
     "CbGeAlD": 0.0038363568699893266,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2598723476396673,
     "CrCbGaD": 0.0029676669653273626
   },
+  "n_trials": 0.0,
   "prediction": 0.0018604532277168102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

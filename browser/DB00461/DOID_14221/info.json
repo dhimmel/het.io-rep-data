@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.5156046814044211,
   "metapath_contribution": {
     "CbGaD": 0.7708024536969317,
     "CbGeAlD": 0.06782567139913576,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.013677445290921951,
     "CrCbGaD": 0.013236890901551302
   },
+  "n_trials": 0.0,
   "prediction": 0.0014157413001680802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

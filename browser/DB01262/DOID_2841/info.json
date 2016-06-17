@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.0676202860858258,
   "metapath_contribution": {
     "CbGaD": 0.7070567627207924,
     "CbGdCrCtD": 0.0059122300504865785,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2176860611633469,
     "CrCbGaD": 0.001391596920160775
   },
+  "n_trials": 0.0,
   "prediction": 0.00103663594163977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

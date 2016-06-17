@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.366710013003901,
   "metapath_contribution": {
     "CbGbCtD": 0.24285967846592793,
     "CbGeAlD": 0.2386924369854485,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14745117535642843,
     "CrCbGaD": 0.0030928374422811477
   },
+  "n_trials": 0.0,
   "prediction": 0.00117328891189389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

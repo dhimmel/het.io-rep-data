@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00422",
   "compound_name": "Methylphenidate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.342652795838752,
   "metapath_contribution": {
     "CbGaD": 0.5007092337162126,
     "CbGeAlD": 0.06265070069387972,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.34531449330177283,
     "CrCbGaD": 0.007779727948069075
   },
+  "n_trials": 2.0,
   "prediction": 0.00236493376285064,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

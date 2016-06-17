@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00768",
   "compound_name": "Olopatadine",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.21001300390117,
   "metapath_contribution": {
     "CbGbCtD": 0.10320689289329375,
     "CbGeAlD": 0.322434804633695,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1238806348334804,
     "CrCbGaD": 0.014802037553344508
   },
+  "n_trials": 0.0,
   "prediction": 0.000916400031466801,
   "status": 0,
   "training_prediction": 0.0006757566237811219

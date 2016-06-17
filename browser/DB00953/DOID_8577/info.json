@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00953",
   "compound_name": "Rizatriptan",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.531209362808843,
   "metapath_contribution": {
     "CbGbCtD": 0.2022377649810505,
     "CbGpPWpGaD": 0.024291895479175537,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.6291625267118318,
     "CrCbGaD": 0.00390134480517493
   },
+  "n_trials": 0.0,
   "prediction": 0.00219743924578107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

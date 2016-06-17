@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00353",
   "compound_name": "Methylergometrine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.43433029908972703,
   "metapath_contribution": {
     "CbGaD": 0.413430232120769,
     "CbGbCtD": 0.2345796784873788,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1819801547693816,
     "CrCbGaD": 0.0059953766523232
   },
+  "n_trials": 0.0,
   "prediction": 0.00326941677000225,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

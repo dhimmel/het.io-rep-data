@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.56371911573472,
   "metapath_contribution": {
     "CbGbCtD": 0.1669879081519784,
     "CbGeAlD": 0.05613795157909756,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.7158484427591464,
     "CrCbGaD": 0.009822859732137205
   },
+  "n_trials": 0.0,
   "prediction": 0.00164151622628237,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

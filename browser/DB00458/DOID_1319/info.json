@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.280884265279584,
   "metapath_contribution": {
     "CbGbCtD": 0.39447111280699604,
     "CbGeAlD": 0.22549899507884688,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.246068005692095,
     "CrCbGaD": 0.0038604426176666036
   },
+  "n_trials": 0.0,
   "prediction": 0.0011506418179696401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

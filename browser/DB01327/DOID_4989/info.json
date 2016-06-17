@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.44538361508452506,
   "metapath_contribution": {
     "CbGaD": 0.8453315859439254,
     "CbGeAlD": 0.007656059338885652,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09654876860841398,
     "CrCbGaD": 0.009041635507272957
   },
+  "n_trials": 0.0,
   "prediction": 0.00136647219943374,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00952",
   "compound_name": "Naratriptan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
-    "CbGbCtD": 0.0946599302970289,
-    "CbGpPWpGaD": 8.190466527382337e-05,
-    "CcSEcCtD": 0.17597065718906027,
-    "CpDpCtD": 0.7292875078486369
+    "CbGbCtD": 0.09465993029702892,
+    "CbGpPWpGaD": 8.190466527382338e-05,
+    "CcSEcCtD": 0.1759706571890603,
+    "CpDpCtD": 0.729287507848637
   },
+  "n_trials": 0.0,
   "prediction": 0.00334386054825915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

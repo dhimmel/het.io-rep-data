@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.31664499349804903,
   "metapath_contribution": {
     "CbGbCtD": 0.23685771425982502,
     "CbGeAlD": 0.11157109513047131,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.35155458355906594,
     "CrCbGaD": 0.007593021280419983
   },
+  "n_trials": 0.0,
   "prediction": 0.00163331912236225,
   "status": 0,
   "training_prediction": 0.0035987598659941705

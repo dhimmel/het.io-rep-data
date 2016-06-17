@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.773081924577373,
   "metapath_contribution": {
     "CbGaD": 0.7950335556329735,
     "CbGeAlD": 0.043349375148422194,
     "CbGpPWpGaD": 0.15464995812920523,
     "CrCbGaD": 0.006967111089399007
   },
+  "n_trials": 0.0,
   "prediction": 0.00227072972574078,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

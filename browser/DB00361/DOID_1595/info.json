@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.100780234070221,
   "metapath_contribution": {
     "CbGaD": 0.843880315856984,
     "CbGeAlD": 0.15504295687615258,
     "CrCbGaD": 0.00107672726686349
   },
+  "n_trials": 0.0,
   "prediction": 0.0009401580044965971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

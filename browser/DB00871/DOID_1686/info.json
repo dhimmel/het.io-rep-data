@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00871",
   "compound_name": "Terbutaline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGbCtD": 0.46951193150223486,
     "CbGdCrCtD": 0.0015164693742460052,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.002411991505903662,
     "CrCrCtD": 0.4599798262653337
   },
+  "n_trials": 0.0,
   "prediction": 0.00715344871365053,
   "status": 0,
   "training_prediction": 0.0297647123359517

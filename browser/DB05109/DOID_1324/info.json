@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05109",
   "compound_name": "Trabectedin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.41569397134111175,
     "CbGbCtD": 0.34806593530769,
     "CbGpPWpGaD": 0.09284324981146941,
     "CcSEcCtD": 0.1433968435397289
   },
+  "n_trials": 0.0,
   "prediction": 0.0059613012383612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

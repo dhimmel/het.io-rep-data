@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01355",
   "compound_name": "Hexobarbital",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7100130039011701,
   "metapath_contribution": {
     "CbGaD": 0.35817664364752444,
     "CbGbCtD": 0.4910755849113418,
     "CbGeAlD": 0.04978912794637835,
     "CbGpPWpGaD": 0.10095864349475542
   },
+  "n_trials": 0.0,
   "prediction": 0.00365427890332351,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

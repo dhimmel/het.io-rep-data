@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.4298923993695178,
     "CbGbCtD": 0.3548863442253933,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07268559928322957,
     "CrCbGaD": 0.003176236691056108
   },
+  "n_trials": 0.0,
   "prediction": 0.0168096577098784,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,20 +1,22 @@
 {
   "compound_id": "DB01420",
   "compound_name": "Testosterone Propionate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
-    "CbGaD": 0.14734348333488467,
-    "CbGbCtD": 0.167386568646765,
-    "CbGeAlD": 0.01114652669903315,
-    "CbGpPWpGaD": 0.03245270322048699,
-    "CcSEcCtD": 0.040530653112898024,
-    "CpDpCtD": 0.20246616419631888,
-    "CrCbGaD": 0.0015481357932933312,
-    "CrCrCtD": 0.1624876689131879,
-    "CrCtD": 0.23463809608313207
+    "CbGaD": 0.14734348333488465,
+    "CbGbCtD": 0.16738656864676496,
+    "CbGeAlD": 0.011146526699033148,
+    "CbGpPWpGaD": 0.03245270322048698,
+    "CcSEcCtD": 0.04053065311289802,
+    "CpDpCtD": 0.20246616419631885,
+    "CrCbGaD": 0.001548135793293331,
+    "CrCrCtD": 0.16248766891318786,
+    "CrCtD": 0.23463809608313205
   },
+  "n_trials": 0.0,
   "prediction": 0.0702369071598534,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

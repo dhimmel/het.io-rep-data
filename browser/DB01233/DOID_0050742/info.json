@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.7795075176471757,
     "CbGeAlD": 0.007881546607457737,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07345654974376496,
     "CrCbGaD": 0.009946966825611686
   },
+  "n_trials": 0.0,
   "prediction": 0.00218574767144324,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

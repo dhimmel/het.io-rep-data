@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00347",
   "compound_name": "Trimethadione",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.13485328991823461,
     "CbGbCtD": 0.22187178375204936,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.5683003393348938,
     "CrCbGaD": 0.0009968191681723531
   },
+  "n_trials": 0.0,
   "prediction": 0.0110047626596654,
   "status": 0,
   "training_prediction": 0.0277914571958689

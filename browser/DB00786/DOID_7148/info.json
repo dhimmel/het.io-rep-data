@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00786",
   "compound_name": "Marimastat",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.7037501737613004,
     "CbGdCrCtD": 0.0019477407598244944,
     "CbGeAlD": 0.10734418274754992,
     "CbGpPWpGaD": 0.1869579027313252
   },
+  "n_trials": 0.0,
   "prediction": 0.00759105174599135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

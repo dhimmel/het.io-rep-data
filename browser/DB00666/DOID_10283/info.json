@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00666",
   "compound_name": "Nafarelin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGbCtD": 0.19483355709553216,
     "CbGpPWpGaD": 0.006190240501663556,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.16691968645155658,
     "CrCtD": 0.2576647174517905
   },
+  "n_trials": 0.0,
   "prediction": 0.276912696991908,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

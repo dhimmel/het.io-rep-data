@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.5858257477243171,
   "metapath_contribution": {
     "CbGbCtD": 0.6030544365975666,
     "CbGdCrCtD": 0.001095129022831197,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15201484770213292,
     "CcSEcCtD": 0.24309080132595465
   },
+  "n_trials": 0.0,
   "prediction": 0.0023434336325776303,
   "status": 0,
   "training_prediction": 0.0132699468651411

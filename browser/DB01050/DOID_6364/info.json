@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7217165149544859,
   "metapath_contribution": {
     "CbGbCtD": 0.4568670118808058,
     "CbGeAlD": 0.024504183376209913,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14938338312695712,
     "CrCrCtD": 0.3358853335257454
   },
+  "n_trials": 2.0,
   "prediction": 0.00359368267763664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

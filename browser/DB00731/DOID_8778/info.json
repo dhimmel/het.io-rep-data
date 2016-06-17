@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.50520156046814,
   "metapath_contribution": {
     "CbGaD": 0.17934473179138977,
     "CbGbCtD": 0.7455857056724686,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.02428638055094604,
     "CrCbGaD": 0.0006600158643603572
   },
+  "n_trials": 0.0,
   "prediction": 0.00158647875702859,
   "status": 0,
   "training_prediction": 0.0025875587356459

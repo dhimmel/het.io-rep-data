@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.295838751625488,
   "metapath_contribution": {
     "CbGaD": 0.12532927902089264,
     "CbGbCtD": 0.4188299890916194,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0024422479001701023,
     "CrCrCtD": 0.21349779204668387
   },
+  "n_trials": 0.0,
   "prediction": 0.0016197925167427802,
   "status": 0,
   "training_prediction": 0.00892605095131532

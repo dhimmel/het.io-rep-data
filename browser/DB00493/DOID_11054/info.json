@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00493",
   "compound_name": "Cefotaxime",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.333550065019506,
   "metapath_contribution": {
     "CbGbCtD": 0.6649927748003387,
     "CbGeAlD": 0.040775591634741766,
     "CcSEcCtD": 0.2918875762970274,
     "CrCbGaD": 0.002344057267892043
   },
+  "n_trials": 0.0,
   "prediction": 0.00116939155262472,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

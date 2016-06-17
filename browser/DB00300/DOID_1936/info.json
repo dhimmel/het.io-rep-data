@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.7529258777633292,
   "metapath_contribution": {
     "CbGbCtD": 0.6930695170540446,
     "CbGdCrCtD": 0.006847499125328887,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17226714409559288,
     "CrCbGaD": 0.007110890341543735
   },
+  "n_trials": 0.0,
   "prediction": 0.00267446432584229,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

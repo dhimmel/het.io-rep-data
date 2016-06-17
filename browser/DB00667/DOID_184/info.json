@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.6840052015604681,
   "metapath_contribution": {
     "CbGaD": 0.7328208346496882,
     "CbGbCtD": 0.08952723807622878,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15882721677869724,
     "CrCbGaD": 0.0032579386520982918
   },
+  "n_trials": 0.0,
   "prediction": 0.00201093251997417,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

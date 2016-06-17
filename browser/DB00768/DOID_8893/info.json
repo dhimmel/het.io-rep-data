@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00768",
   "compound_name": "Olopatadine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.24187256176853103,
   "metapath_contribution": {
     "CbGbCtD": 0.21998734540364467,
     "CbGdCrCtD": 0.0090540573864782,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.22534703282113297,
     "CcSEcCtD": 0.41542026819178135
   },
+  "n_trials": 0.0,
   "prediction": 0.00127302092183791,
   "status": 0,
   "training_prediction": 0.005397956668185679

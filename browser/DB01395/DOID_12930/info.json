@@ -1,19 +1,21 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
-    "CbGaD": 0.21155622068010732,
-    "CbGbCtD": 0.21053882784801237,
+    "CbGaD": 0.2115562206801073,
+    "CbGbCtD": 0.21053882784801234,
     "CbGeAlD": 0.0019864671405176496,
-    "CbGpPWpGaD": 0.009453386466930003,
-    "CcSEcCtD": 0.002643074664977751,
-    "CrCbGaD": 0.0009738634615392832,
-    "CrCrCtD": 0.2145370258782175,
-    "CrCtD": 0.3483111338596982
+    "CbGpPWpGaD": 0.009453386466930001,
+    "CcSEcCtD": 0.0026430746649777504,
+    "CrCbGaD": 0.0009738634615392831,
+    "CrCrCtD": 0.21453702587821746,
+    "CrCtD": 0.34831113385969814
   },
+  "n_trials": 0.0,
   "prediction": 0.0307320059817295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

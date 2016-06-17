@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01195",
   "compound_name": "Flecainide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.3498661602018138,
     "CbGbCtD": 0.45947770657988474,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13847799858028892,
     "CrCbGaD": 0.0019544793815339553
   },
+  "n_trials": 0.0,
   "prediction": 0.012812678233916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.13678623479283822,
     "CbGeAlD": 0.041779268701748064,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0974912402107996,
     "CtDrD": 0.6651570623403812
   },
+  "n_trials": 1.0,
   "prediction": 0.00444360184309828,
   "status": 0,
   "training_prediction": 0.0146685458177352

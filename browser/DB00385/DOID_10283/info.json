@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00385",
   "compound_name": "Valrubicin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.12462741785994803,
     "CbGbCtD": 0.11687453790644516,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2921935502221288,
     "CtDrD": 0.23732369425782487
   },
+  "n_trials": 0.0,
   "prediction": 0.055032703229082006,
   "status": 0,
   "training_prediction": 0.19869729818500698

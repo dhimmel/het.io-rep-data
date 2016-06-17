@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.06402903258406249,
     "CbGbCtD": 0.21048404984621752,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2532560569278766,
     "CrCtD": 0.4031445934669718
   },
+  "n_trials": 0.0,
   "prediction": 0.0474738851542471,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00579",
   "compound_name": "Mazindol",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.900520156046814,
   "metapath_contribution": {
     "CbGaD": 0.9668221862534949,
     "CbGeAlD": 0.02111179112434887,
     "CbGpPWpGaD": 0.010919118086774905,
     "CrCbGaD": 0.0011469045353812853
   },
+  "n_trials": 0.0,
   "prediction": 0.00240811591447647,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

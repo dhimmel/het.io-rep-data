@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.542262678803641,
   "metapath_contribution": {
     "CbGbCtD": 0.45694743757230494,
     "CbGeAlD": 0.0951920090980935,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2866653697330904,
     "CrCbGaD": 0.0007352110788143016
   },
+  "n_trials": 0.0,
   "prediction": 0.0016598842618504401,
   "status": 0,
   "training_prediction": 0.0060806780039994604

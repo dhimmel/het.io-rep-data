@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.11703511053316001,
   "metapath_contribution": {
     "CbGbCtD": 0.5955168332783256,
     "CbGeAlD": 0.05846690843028113,
     "CbGpPWpGaD": 0.11775293897884741,
     "CcSEcCtD": 0.22826331931254595
   },
+  "n_trials": 2.0,
   "prediction": 0.000958166591796274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

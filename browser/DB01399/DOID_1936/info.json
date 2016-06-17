@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.6430429128738621,
   "metapath_contribution": {
-    "CbGaD": 0.36208381646098303,
+    "CbGaD": 0.3620838164609831,
     "CbGeAlD": 0.022779575064974546,
     "CbGpPWpGaD": 0.06854812221406364,
-    "CcSEcCtD": 0.04520700147384265,
+    "CcSEcCtD": 0.045207001473842656,
     "CrCbGaD": 0.006039451173011379,
-    "CrCrCtD": 0.4953420336131247
+    "CrCrCtD": 0.49534203361312473
   },
+  "n_trials": 1.0,
   "prediction": 0.00223853092989372,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

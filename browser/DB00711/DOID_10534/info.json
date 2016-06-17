@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00711",
   "compound_name": "Diethylcarbamazine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.8571250811466091,
     "CbGbCtD": 0.08069871874884604,
     "CbGeAlD": 0.04865677200580706,
     "CbGpPWpGaD": 0.013519428098737712
   },
+  "n_trials": 0.0,
   "prediction": 0.00472084212505614,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

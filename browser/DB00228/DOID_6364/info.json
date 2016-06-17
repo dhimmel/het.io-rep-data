@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.5394900826336861,
     "CbGbCtD": 0.33224740569280936,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.014699036534885048,
     "CrCbGaD": 0.004645953233776096
   },
+  "n_trials": 0.0,
   "prediction": 0.00939919952804966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01126",
   "compound_name": "Dutasteride",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8101430429128741,
   "metapath_contribution": {
     "CbGaD": 0.6063350317689097,
     "CbGbCtD": 0.19153969350437586,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10441084564369288,
     "CrCbGaD": 0.0035272610846425263
   },
+  "n_trials": 0.0,
   "prediction": 0.00551787458154227,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

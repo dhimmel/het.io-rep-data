@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.19629421556891846,
     "CbGbCtD": 0.2557822553492386,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.17724921875959523,
     "CrCtD": 0.2455297036231394
   },
+  "n_trials": 0.0,
   "prediction": 0.0349511369591775,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

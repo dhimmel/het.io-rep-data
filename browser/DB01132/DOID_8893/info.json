@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.40969781917575027,
     "CbGbCtD": 0.43374517139539487,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13639923429246342,
     "CrCbGaD": 0.002082167528673265
   },
+  "n_trials": 2.0,
   "prediction": 0.00447228100849741,
   "status": 0,
   "training_prediction": 0.018768878745058

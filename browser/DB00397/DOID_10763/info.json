@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.2089441186215119,
     "CbGbCtD": 0.25700029793891943,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.11786660367723535,
     "CtDrD": 0.3020715057107194
   },
+  "n_trials": 0.0,
   "prediction": 0.0344882707371186,
   "status": 0,
   "training_prediction": 0.29936499146140805

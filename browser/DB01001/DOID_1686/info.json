@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01001",
   "compound_name": "Salbutamol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGbCtD": 0.2670873761912857,
     "CbGdCrCtD": 0.0008082488844988378,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.2508688200484831,
     "CrCtD": 0.4159459230548016
   },
+  "n_trials": 0.0,
   "prediction": 0.0232951488114188,
   "status": 0,
   "training_prediction": 0.14501991671549302

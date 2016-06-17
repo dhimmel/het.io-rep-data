@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGaD": 0.3441236505157771,
     "CbGbCtD": 0.48204857534801027,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1306319737021515,
     "CrCbGaD": 0.0040316424916518575
   },
+  "n_trials": 0.0,
   "prediction": 0.00637459316291673,
   "status": 0,
   "training_prediction": 0.0311870585283237

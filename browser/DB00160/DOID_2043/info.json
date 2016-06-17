@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.256827048114434,
   "metapath_contribution": {
     "CbGdCrCtD": 0.034390505515352214,
     "CbGeAlD": 0.3716355927870568,
     "CbGpPWpGaD": 0.560054058914211,
     "CrCbGaD": 0.03391984278338003
   },
+  "n_trials": 0.0,
   "prediction": 0.00115762711409461,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

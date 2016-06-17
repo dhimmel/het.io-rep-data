@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.7607282184655401,
   "metapath_contribution": {
     "CbGaD": 0.7988726034304927,
     "CbGeAlD": 0.00477534111539302,
     "CbGpPWpGaD": 0.09943118463174527,
     "CcSEcCtD": 0.09692087082236903
   },
+  "n_trials": 0.0,
   "prediction": 0.00202514509030817,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

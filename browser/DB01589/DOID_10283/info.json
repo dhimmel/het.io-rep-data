@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01589",
   "compound_name": "Quazepam",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGaD": 0.3455466352710043,
     "CbGbCtD": 0.47972749942285925,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06470478760931761,
     "CrCbGaD": 0.005345462671829746
   },
+  "n_trials": 0.0,
   "prediction": 0.0021293656011477,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

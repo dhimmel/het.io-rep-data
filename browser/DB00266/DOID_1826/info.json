@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00266",
   "compound_name": "Dicoumarol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.516905071521456,
   "metapath_contribution": {
-    "CbGbCtD": 0.26761332613159444,
-    "CbGdCrCtD": 0.00331819859068487,
-    "CbGeAlD": 0.05730155971030072,
-    "CbGpPWpGaD": 0.0781027630752631,
-    "CrCbGaD": 0.0019060116689616185,
-    "CrCrCtD": 0.5917581408231953
+    "CbGbCtD": 0.2676133261315944,
+    "CbGdCrCtD": 0.003318198590684869,
+    "CbGeAlD": 0.05730155971030071,
+    "CbGpPWpGaD": 0.07810276307526308,
+    "CrCbGaD": 0.001906011668961618,
+    "CrCrCtD": 0.5917581408231952
   },
+  "n_trials": 0.0,
   "prediction": 0.00352225914773054,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

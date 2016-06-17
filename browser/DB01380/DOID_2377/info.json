@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGbCtD": 0.14580894545829973,
     "CiPCiCtD": 0.41040821511695486,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.18142627728963934,
     "CrCtD": 0.26126506465188404
   },
+  "n_trials": 0.0,
   "prediction": 0.0281670598744025,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

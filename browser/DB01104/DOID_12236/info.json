@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.7100130039011701,
   "metapath_contribution": {
     "CbGbCtD": 0.5741031828084259,
     "CbGpPWpGaD": 0.05671904208896788,
     "CcSEcCtD": 0.3691777751026063
   },
+  "n_trials": 1.0,
   "prediction": 0.00217331644404118,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.37061118335500604,
   "metapath_contribution": {
     "CbGaD": 0.42332795721601274,
     "CbGbCtD": 0.2348883932151354,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18443316254355197,
     "CrCbGaD": 0.004748153959923527
   },
+  "n_trials": 0.0,
   "prediction": 0.0018174699961808199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

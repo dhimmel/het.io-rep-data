@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.367360208062419,
   "metapath_contribution": {
     "CbGaD": 0.30738824562534667,
     "CbGbCtD": 0.4411053529399342,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1819480650676859,
     "CrCbGaD": 0.0029982252139516955
   },
+  "n_trials": 0.0,
   "prediction": 0.00200000360714414,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

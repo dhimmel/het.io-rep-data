@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01618",
   "compound_name": "Molindone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.49108238407466903,
     "CbGbCtD": 0.3217592584545884,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07672954265216758,
     "CcSEcCtD": 0.06053126136287808
   },
+  "n_trials": 0.0,
   "prediction": 0.0134560500210396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

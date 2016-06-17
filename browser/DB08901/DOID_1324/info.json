@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.36900615501349454,
     "CbGbCtD": 0.3812052211783836,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.09699774778309463,
     "CrCbGaD": 0.0028572795879920096
   },
+  "n_trials": 3.0,
   "prediction": 0.0073010246440615,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

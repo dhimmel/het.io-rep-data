@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.18485560473389012,
     "CbGbCtD": 0.17844633223747317,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.21658946543213095,
     "CrCtD": 0.2793837602474455
   },
+  "n_trials": 0.0,
   "prediction": 0.0129313612103639,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

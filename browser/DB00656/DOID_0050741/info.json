@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.23118763916815438,
     "CbGbCtD": 0.23840337843308432,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.36685490976319346,
     "CrCbGaD": 0.003439233762182351
   },
+  "n_trials": 1.0,
   "prediction": 0.0109045102946272,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

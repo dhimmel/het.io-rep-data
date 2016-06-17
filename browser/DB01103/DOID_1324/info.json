@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.48049414824447295,
   "metapath_contribution": {
     "CbGaD": 0.20683772092157535,
     "CbGbCtD": 0.5872693279897455,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.14343289980095109,
     "CrCbGaD": 0.004828942374241155
   },
+  "n_trials": 1.0,
   "prediction": 0.0017933827198869101,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

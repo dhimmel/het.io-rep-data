@@ -1,18 +1,21 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
-    "CbGaD": 0.2843923942783105,
-    "CbGbCtD": 0.28308183446903096,
-    "CbGdCrCtD": 0.0035462558897355395,
-    "CbGeAlD": 0.045032434078504706,
-    "CbGpPWpGaD": 0.07580223953564191,
-    "CcSEcCtD": 0.00929458561812228,
-    "CrCbGaD": 0.0012818117810491445,
-    "CrCrCtD": 0.29756844434960494
+    "CbGaD": 0.28439239427831053,
+    "CbGbCtD": 0.283081834469031,
+    "CbGdCrCtD": 0.0035462558897355403,
+    "CbGeAlD": 0.04503243407850472,
+    "CbGpPWpGaD": 0.07580223953564193,
+    "CcSEcCtD": 0.009294585618122282,
+    "CrCbGaD": 0.001281811781049145,
+    "CrCrCtD": 0.297568444349605
   },
+  "n_trials": 0.0,
   "prediction": 0.00339006087036261,
   "status": 0,
   "training_prediction": 0.0115337333392816

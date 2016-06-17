@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.5481144343302989,
   "metapath_contribution": {
     "CbGbCtD": 0.2580309306383527,
     "CbGpPWpGaD": 0.0017491018831023645,
     "CcSEcCtD": 0.2311911985264651,
     "CrCrCtD": 0.5090287689520797
   },
+  "n_trials": 0.0,
   "prediction": 0.0020054161572246603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

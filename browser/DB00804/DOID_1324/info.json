@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00804",
   "compound_name": "Dicyclomine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.570322425074711,
     "CbGbCtD": 0.17580969954565814,
     "CbGpPWpGaD": 0.05456275136266186,
     "CcSEcCtD": 0.19930512401696898
   },
+  "n_trials": 0.0,
   "prediction": 0.0047750797953813795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

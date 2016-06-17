@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00808",
   "compound_name": "Indapamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.15630646839258344,
     "CbGbCtD": 0.15672753696297773,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.18084959426416788,
     "CrCtD": 0.3728343917272373
   },
+  "n_trials": 0.0,
   "prediction": 0.0321664989473702,
   "status": 0,
   "training_prediction": 0.15201489907106197

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.243172951885566,
   "metapath_contribution": {
     "CbGaD": 0.8131506598393936,
     "CbGeAlD": 0.006737572906679203,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.060465627782204844,
     "CrCbGaD": 0.007720391164228443
   },
+  "n_trials": 0.0,
   "prediction": 0.00100644237143788,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08819",
   "compound_name": "Tafluprost",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.399219765929779,
   "metapath_contribution": {
     "CbGaD": 0.5770514506869565,
     "CbGeAlD": 0.023543932374608098,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21022521702762217,
     "CrCbGaD": 0.010193373181115623
   },
+  "n_trials": 0.0,
   "prediction": 0.00192573587348695,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

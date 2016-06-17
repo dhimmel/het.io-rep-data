@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01544",
   "compound_name": "Flunitrazepam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7288686605981791,
   "metapath_contribution": {
     "CbGaD": 0.33387010947658,
     "CbGbCtD": 0.4863412273386699,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0901625906846873,
     "CrCbGaD": 0.002231955811699639
   },
+  "n_trials": 0.0,
   "prediction": 0.0040964488608428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00191",
   "compound_name": "Phentermine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGaD": 0.7628437912463643,
     "CbGbCtD": 0.09597035182314807,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09259355438836056,
     "CrCbGaD": 0.006451856039259383
   },
+  "n_trials": 0.0,
   "prediction": 0.00167570374091272,
   "status": 0,
   "training_prediction": 0.00123591652018964

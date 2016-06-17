@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01621",
   "compound_name": "Pipotiazine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.3842224288971275,
     "CbGbCtD": 0.49528322309674816,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06241994042325757,
     "CrCbGaD": 0.005513981779134179
   },
+  "n_trials": 0.0,
   "prediction": 0.00197860439838911,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

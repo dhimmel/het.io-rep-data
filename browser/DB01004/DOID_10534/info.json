@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01004",
   "compound_name": "Ganciclovir",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.337451235370611,
   "metapath_contribution": {
     "CbGbCtD": 0.6323007503818773,
     "CcSEcCtD": 0.36769924961812284
   },
+  "n_trials": 1.0,
   "prediction": 0.00119127948528147,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

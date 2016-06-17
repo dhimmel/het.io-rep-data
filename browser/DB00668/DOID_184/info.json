@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.245123537061118,
   "metapath_contribution": {
     "CbGaD": 0.70846209660627,
     "CbGbCtD": 0.004052226292753448,
     "CbGpPWpGaD": 0.1646890270199751,
     "CcSEcCtD": 0.1227966500810015
   },
+  "n_trials": 0.0,
   "prediction": 0.00104946385759533,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.47789336801040294,
   "metapath_contribution": {
     "CbGaD": 0.8419220623554465,
     "CbGpPWpGaD": 0.14755239675079745,
     "CrCbGaD": 0.010525540893755922
   },
+  "n_trials": 0.0,
   "prediction": 0.00134429538628767,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

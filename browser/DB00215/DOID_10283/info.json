@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.2903186791313254,
     "CbGbCtD": 0.40398541906086155,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19669084773859055,
     "CrCbGaD": 0.0018662223140077441
   },
+  "n_trials": 0.0,
   "prediction": 0.00508416703941585,
   "status": 0,
   "training_prediction": 0.0212949481049446

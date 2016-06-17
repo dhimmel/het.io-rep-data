@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.1383209945197117,
     "CbGbCtD": 0.17480453811412133,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.12800170244734832,
     "CrCtD": 0.21999665974763347
   },
+  "n_trials": 0.0,
   "prediction": 0.0604751692885606,
   "status": 0,
   "training_prediction": 0.20418542504180603

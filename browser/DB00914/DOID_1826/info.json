@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00914",
   "compound_name": "Phenformin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8465539661898571,
   "metapath_contribution": {
     "CbGaD": 0.09944842917334554,
     "CbGbCtD": 0.026305181757327753,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.31769184096999076,
     "CrCtD": 0.48707075997438815
   },
+  "n_trials": 0.0,
   "prediction": 0.0114210778445073,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

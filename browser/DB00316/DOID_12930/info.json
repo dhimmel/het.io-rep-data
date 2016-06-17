@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.702860858257477,
   "metapath_contribution": {
     "CbGbCtD": 0.49030601581006644,
     "CbGeAlD": 0.03403734565441304,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.36374829281755294,
     "CrCbGaD": 0.0074006853242388195
   },
+  "n_trials": 0.0,
   "prediction": 0.00212003394684723,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

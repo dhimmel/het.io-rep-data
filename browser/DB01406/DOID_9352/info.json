@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.349804941482445,
   "metapath_contribution": {
     "CbGaD": 0.562624986089318,
     "CbGbCtD": 0.14375070888366326,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.13577385031228545,
     "CrCbGaD": 0.005082230733963315
   },
+  "n_trials": 0.0,
   "prediction": 0.0019415563338579,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

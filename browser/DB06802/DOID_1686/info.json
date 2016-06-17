@@ -1,16 +1,18 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.6235370611183361,
   "metapath_contribution": {
-    "CbGaD": 0.34478104263969217,
-    "CbGpPWpGaD": 0.00650548840099906,
-    "CcSEcCtD": 0.2590913040492987,
-    "CrCbGaD": 0.002645403605558046,
-    "CrCrCtD": 0.3869767613044521
+    "CbGaD": 0.3447810426396921,
+    "CbGpPWpGaD": 0.006505488400999058,
+    "CcSEcCtD": 0.25909130404929864,
+    "CrCbGaD": 0.0026454036055580453,
+    "CrCrCtD": 0.386976761304452
   },
+  "n_trials": 0.0,
   "prediction": 0.0022949487256293897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

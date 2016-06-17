@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01213",
   "compound_name": "Fomepizole",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.615979417022313,
     "CbGbCtD": 0.05236367804761396,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1273856019984817,
     "CcSEcCtD": 0.1182599416919853
   },
+  "n_trials": 0.0,
   "prediction": 0.00692531538199861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

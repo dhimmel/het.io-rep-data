@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.6196358907672299,
   "metapath_contribution": {
     "CbGaD": 0.6510309150005275,
     "CbGbCtD": 0.1513537974041506,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0621001016263789,
     "CrCbGaD": 0.0027903216468215895
   },
+  "n_trials": 0.0,
   "prediction": 0.00169769277516592,
   "status": 0,
   "training_prediction": 0.00167472827769841

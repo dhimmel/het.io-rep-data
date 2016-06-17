@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.08194083639610575,
     "CbGbCtD": 0.2963703623084386,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.08875796971628612,
     "CpDpCtD": 0.48065232765424043
   },
+  "n_trials": 3.0,
   "prediction": 0.0050221108622802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

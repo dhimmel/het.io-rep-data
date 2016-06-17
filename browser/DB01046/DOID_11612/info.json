@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01046",
   "compound_name": "Lubiprostone",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.5351105331599479,
   "metapath_contribution": {
     "CbGeAlD": 0.35862224946967364,
     "CbGpPWpGaD": 0.3146902515380789,
     "CcSEcCtD": 0.2751167477904674,
     "CrCbGaD": 0.05157075120177989
   },
+  "n_trials": 0.0,
   "prediction": 0.00148319730493758,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

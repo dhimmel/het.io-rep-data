@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.5257724480034817,
     "CbGbCtD": 0.19633930198373845,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06818886251619499,
     "CrCbGaD": 0.005889487667579568
   },
+  "n_trials": 0.0,
   "prediction": 0.00250006922861875,
   "status": 0,
   "training_prediction": 0.00112774133812365

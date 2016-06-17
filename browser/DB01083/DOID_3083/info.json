@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01083",
   "compound_name": "Orlistat",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.5266579973992199,
   "metapath_contribution": {
     "CbGbCtD": 0.20151041794609686,
     "CbGdCrCtD": 0.003799832511301762,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.20230897917327864,
     "CcSEcCtD": 0.4142560666718827
   },
+  "n_trials": 0.0,
   "prediction": 0.00223390118738183,
   "status": 0,
   "training_prediction": 0.00817097005592121

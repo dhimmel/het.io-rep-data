@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.291937581274382,
   "metapath_contribution": {
     "CbGbCtD": 0.6500395338196291,
     "CbGdCrCtD": 0.005358344599718641,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22169391174560404,
     "CrCbGaD": 0.002867788823433198
   },
+  "n_trials": 3.0,
   "prediction": 0.00123272488188858,
   "status": 0,
   "training_prediction": 0.00421592431851716

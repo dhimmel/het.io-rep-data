@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.326397919375813,
   "metapath_contribution": {
     "CbGaD": 0.6557437075926998,
     "CbGeAlD": 0.0361582615068257,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2637956850452664,
     "CrCbGaD": 0.003376434776587821
   },
+  "n_trials": 0.0,
   "prediction": 0.00164748887321393,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05630",
   "compound_name": "Sodium stibogluconate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.4764101819651536,
     "CbGbCtD": 0.43794673884783447,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.010944474151375418,
     "CcSEcCtD": 0.0576097163050982
   },
+  "n_trials": 0.0,
   "prediction": 0.0169664829067939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

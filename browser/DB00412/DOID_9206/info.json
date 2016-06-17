@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.5078979273588337,
     "CbGbCtD": 0.3664318077411385,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08823345467072422,
     "CrCbGaD": 0.0033463783850189916
   },
+  "n_trials": 0.0,
   "prediction": 0.00372422457523413,
   "status": 0,
   "training_prediction": 0.00274828460846089

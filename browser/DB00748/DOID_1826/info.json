@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00748",
   "compound_name": "Carbinoxamine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.518205461638492,
   "metapath_contribution": {
     "CbGaD": 0.19727917636097805,
     "CbGbCtD": 0.42610524765696645,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0025880126692176186,
     "CrCrCtD": 0.23565991538688028
   },
+  "n_trials": 0.0,
   "prediction": 0.00352701093202519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

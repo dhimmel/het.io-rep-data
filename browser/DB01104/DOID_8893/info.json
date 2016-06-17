@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.6989596879063721,
   "metapath_contribution": {
     "CbGbCtD": 0.6108661043907306,
     "CbGdCrCtD": 0.0010560236105160402,
     "CbGpPWpGaD": 0.031322914089862416,
     "CcSEcCtD": 0.3567549579088907
   },
+  "n_trials": 0.0,
   "prediction": 0.00248299057163478,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

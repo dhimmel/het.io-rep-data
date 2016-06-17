@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01216",
   "compound_name": "Finasteride",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.46098829648894707,
   "metapath_contribution": {
     "CbGbCtD": 0.7272907932479722,
     "CbGpPWpGaD": 0.14930097403075832,
     "CcSEcCtD": 0.12023914663282367,
     "CrCbGaD": 0.003169086088445766
   },
+  "n_trials": 1.0,
   "prediction": 0.00170901463933101,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.10983981784479402,
     "CbGbCtD": 0.08025706406242925,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0005215548333159673,
     "CtDrD": 0.28498919274775963
   },
+  "n_trials": 9.0,
   "prediction": 0.0124882761873955,
   "status": 0,
   "training_prediction": 0.0489278042737164

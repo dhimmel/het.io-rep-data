@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.14241825525480267,
     "CbGbCtD": 0.5795249091091352,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06720060450827178,
     "CcSEcCtD": 0.1869654451830749
   },
+  "n_trials": 0.0,
   "prediction": 0.00417537743427051,
   "status": 0,
   "training_prediction": 0.0318487039152539

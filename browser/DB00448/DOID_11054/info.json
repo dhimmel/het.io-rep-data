@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGbCtD": 0.581635580927338,
     "CbGeAlD": 0.051427465521088137,
     "CbGpPWpGaD": 0.14515678969359408,
     "CcSEcCtD": 0.2217801638579798
   },
+  "n_trials": 0.0,
   "prediction": 0.00216887017334847,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

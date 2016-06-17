@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.44668400520156,
   "metapath_contribution": {
     "CbGaD": 0.7500913719928607,
     "CbGeAlD": 0.09818168072947675,
     "CbGpPWpGaD": 0.14703264328572332,
     "CrCbGaD": 0.004694303991939184
   },
+  "n_trials": 0.0,
   "prediction": 0.0014528538938489198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

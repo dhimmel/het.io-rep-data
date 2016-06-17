@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.0104031209362809,
   "metapath_contribution": {
     "CbGbCtD": 0.3350044771415113,
     "CbGeAlD": 0.2534605269361067,
     "CbGpPWpGaD": 0.36954524869553007,
     "CrCbGaD": 0.04198974722685189
   },
+  "n_trials": 0.0,
   "prediction": 0.00045070974686232804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

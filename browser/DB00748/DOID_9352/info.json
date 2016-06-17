@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00748",
   "compound_name": "Carbinoxamine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.681404421326398,
   "metapath_contribution": {
     "CbGaD": 0.2176528727910647,
     "CbGbCtD": 0.3632617127927606,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0019739783794903384,
     "CrCrCtD": 0.2956041906494386
   },
+  "n_trials": 0.0,
   "prediction": 0.0036633798861695,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGbCtD": 0.19801334392320044,
     "CbGeAlD": 0.0030364029051935444,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.1599661437873305,
     "CrCtD": 0.2494506481097914
   },
+  "n_trials": 1.0,
   "prediction": 0.17570486594009102,
   "status": 0,
   "training_prediction": 0.602527927347903

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.104681404421326,
   "metapath_contribution": {
     "CbGaD": 0.7769074816083847,
     "CbGeAlD": 0.08837189065866607,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.03595561462839966,
     "CrCbGaD": 0.007695354168451618
   },
+  "n_trials": 0.0,
   "prediction": 0.000753967037758716,
   "status": 0,
   "training_prediction": 0.00033977602140957596

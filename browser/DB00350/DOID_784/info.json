@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00350",
   "compound_name": "Minoxidil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.29543380605957875,
     "CbGeAlD": 0.05125670103181366,
     "CbGpPWpGaD": 0.02162293118724208,
     "CtDrD": 0.6316865617213655
   },
+  "n_trials": 0.0,
   "prediction": 0.00902839851860825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

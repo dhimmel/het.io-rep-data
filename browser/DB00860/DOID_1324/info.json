@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0533159947984395,
   "metapath_contribution": {
     "CbGaD": 0.4602785726267339,
     "CbGbCtD": 0.33451647093983006,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13645147731095852,
     "CrCbGaD": 0.0034853346379740678
   },
+  "n_trials": 0.0,
   "prediction": 0.000688395491669745,
   "status": 0,
   "training_prediction": 0.0185647319771905

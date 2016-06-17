@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01581",
   "compound_name": "Sulfamerazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.41993304114619856,
     "CbGbCtD": 0.04582730524511138,
     "CrCbGaD": 0.0013512811417646597,
     "CrCrCtD": 0.5328883724669253
   },
+  "n_trials": 0.0,
   "prediction": 0.00316612469632043,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

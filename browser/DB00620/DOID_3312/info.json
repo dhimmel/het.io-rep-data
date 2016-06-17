@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.023407022106632005,
   "metapath_contribution": {
     "CbGaD": 0.9228140145303225,
     "CbGeAlD": 0.04754072214308324,
     "CbGpPWpGaD": 0.016946623423451813,
     "CrCbGaD": 0.01269863990314237
   },
+  "n_trials": 0.0,
   "prediction": 0.0006584846386959441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

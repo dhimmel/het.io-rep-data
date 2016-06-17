@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8029908972691808,
   "metapath_contribution": {
     "CbGaD": 0.33410412765749836,
     "CbGbCtD": 0.41892850194024883,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17688678854458398,
     "CrCbGaD": 0.0017648166029807818
   },
+  "n_trials": 0.0,
   "prediction": 0.00494879126544405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

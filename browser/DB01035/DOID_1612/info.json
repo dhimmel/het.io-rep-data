@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5643693107932379,
   "metapath_contribution": {
     "CbGaD": 0.5087150572315663,
     "CbGbCtD": 0.2295340124263547,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1092785184488021,
     "CrCbGaD": 0.005125195046518357
   },
+  "n_trials": 0.0,
   "prediction": 0.00269510829592127,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

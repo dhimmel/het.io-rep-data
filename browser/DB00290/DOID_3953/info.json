@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00290",
   "compound_name": "Bleomycin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGeAlD": 0.04575558237049382,
     "CbGpPWpGaD": 0.0046252635446328814,
     "CtDrD": 0.9496191540848733
   },
+  "n_trials": 0.0,
   "prediction": 0.005213404111230321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

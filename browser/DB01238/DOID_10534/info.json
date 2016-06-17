@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.6703511053315989,
   "metapath_contribution": {
     "CbGaD": 0.4059272500596888,
     "CbGbCtD": 0.1746082053186373,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21194469876172514,
     "CrCbGaD": 0.0025775545319936598
   },
+  "n_trials": 0.0,
   "prediction": 0.00199666620545846,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

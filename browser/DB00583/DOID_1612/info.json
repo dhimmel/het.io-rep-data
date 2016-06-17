@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.3988825950185182,
     "CbGbCtD": 0.3264865835993744,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.11234991272009544,
     "CrCbGaD": 0.001660044700578726
   },
+  "n_trials": 3.0,
   "prediction": 0.00590886271460781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

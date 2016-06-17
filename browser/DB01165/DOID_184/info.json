@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.299089726918075,
   "metapath_contribution": {
     "CbGbCtD": 0.763811526947834,
     "CbGdCrCtD": 0.00404966201149357,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1927889232293274,
     "CrCbGaD": 0.0011958712391206027
   },
+  "n_trials": 0.0,
   "prediction": 0.00113578522438995,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

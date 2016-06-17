@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.31924577373212,
   "metapath_contribution": {
     "CbGbCtD": 0.46252040385555393,
     "CbGpPWpGaD": 0.10297513342681351,
@@ -10,7 +12,7 @@
     "CrCbGaD": 3.47584372843574e-05,
     "CrCrCtD": 0.252480800299833
   },
+  "n_trials": 0.0,
   "prediction": 0.00134448161758907,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGbCtD": 0.23272092462098434,
     "CbGeAlD": 0.0039358038780933375,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2503685202580082,
     "CrCtD": 0.44978229805812775
   },
+  "n_trials": 1.0,
   "prediction": 0.00572281571285495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

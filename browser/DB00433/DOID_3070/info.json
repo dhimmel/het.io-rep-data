@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00433",
   "compound_name": "Prochlorperazine",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.0279583875162549,
   "metapath_contribution": {
     "CbGbCtD": 0.13315287120218613,
     "CbGeAlD": 0.2925388836193227,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.48968214149433237,
     "CrCbGaD": 0.028884635596665712
   },
+  "n_trials": 0.0,
   "prediction": 0.00055447701522531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

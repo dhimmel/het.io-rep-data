@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.12271299184185087,
     "CbGbCtD": 0.19850326453799982,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.23768955849983534,
     "CrCtD": 0.3508061730253688
   },
+  "n_trials": 0.0,
   "prediction": 0.0215114019065134,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

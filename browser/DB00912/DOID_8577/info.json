@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.3840495435150898,
     "CbGbCtD": 0.5405850620343411,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.013029206188050545,
     "CcSEcCtD": 0.061113699459788576
   },
+  "n_trials": 0.0,
   "prediction": 0.00860566672839992,
   "status": 0,
   "training_prediction": 0.0289148649645793

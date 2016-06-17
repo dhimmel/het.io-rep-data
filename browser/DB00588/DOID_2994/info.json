@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.0253576072821847,
   "metapath_contribution": {
     "CbGbCtD": 0.6134685824125307,
     "CbGdCrCtD": 0.007395251524883043,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16548159656126615,
     "CrCbGaD": 0.003534721827769067
   },
+  "n_trials": 0.0,
   "prediction": 0.000641042571454736,
   "status": 0,
   "training_prediction": 0.00117197550045936

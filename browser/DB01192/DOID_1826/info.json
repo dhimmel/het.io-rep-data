@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01192",
   "compound_name": "Oxymorphone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGaD": 0.4830768904868035,
     "CbGbCtD": 0.23168844285874096,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17958777804354364,
     "CrCbGaD": 0.0049855709986033345
   },
+  "n_trials": 0.0,
   "prediction": 0.00426389379998089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

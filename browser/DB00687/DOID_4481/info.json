@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGbCtD": 0.19810838933768526,
     "CcSEcCtD": 0.06560791886208256,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.23386281552876118,
     "CrCtD": 0.32680150662817364
   },
+  "n_trials": 0.0,
   "prediction": 0.0264088108702373,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

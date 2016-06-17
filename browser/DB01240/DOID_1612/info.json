@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.286085825747724,
   "metapath_contribution": {
     "CbGaD": 0.5691637574591099,
     "CbGbCtD": 0.10938518886557029,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17519684351396772,
     "CrCbGaD": 0.005164956864629137
   },
+  "n_trials": 0.0,
   "prediction": 0.0015753786104700002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

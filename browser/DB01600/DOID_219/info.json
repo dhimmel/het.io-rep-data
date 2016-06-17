@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.3849154746423929,
   "metapath_contribution": {
     "CbGaD": 0.8553206347807712,
     "CbGeAlD": 0.022089970193351634,
     "CcSEcCtD": 0.11595451557961851,
     "CrCbGaD": 0.006634879446258611
   },
+  "n_trials": 0.0,
   "prediction": 0.0013177927200261,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

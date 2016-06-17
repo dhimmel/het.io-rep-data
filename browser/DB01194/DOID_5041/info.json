@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01194",
   "compound_name": "Brinzolamide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.761205882916946,
     "CbGeAlD": 0.022549211808288457,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07205705965080739,
     "CrCbGaD": 0.0068457754538979055
   },
+  "n_trials": 0.0,
   "prediction": 0.00385609188679296,
   "status": 0,
   "training_prediction": 0.00467813249027045

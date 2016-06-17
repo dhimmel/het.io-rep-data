@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00743",
   "compound_name": "Gadobenate Dimeglumine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.5353166866361561,
     "CbGbCtD": 0.182632751481723,
     "CbGpPWpGaD": 0.10340102208891211,
     "CcSEcCtD": 0.1786495397932089
   },
+  "n_trials": 0.0,
   "prediction": 0.00422937761867673,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

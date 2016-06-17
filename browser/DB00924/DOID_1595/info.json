@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.634590377113134,
   "metapath_contribution": {
     "CbGaD": 0.924978488451358,
     "CbGeAlD": 0.03991252826925834,
     "CbGpPWpGaD": 0.026718275531046522,
     "CrCbGaD": 0.008390707748337143
   },
+  "n_trials": 0.0,
   "prediction": 0.00177026601910048,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

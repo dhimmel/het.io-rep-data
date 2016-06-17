@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGaD": 0.6331493264286603,
     "CbGbCtD": 0.08737129083674465,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0773317829731667,
     "CcSEcCtD": 0.16094281593870974
   },
+  "n_trials": 0.0,
   "prediction": 0.00432230006327095,
   "status": 0,
   "training_prediction": 0.0070375354085074

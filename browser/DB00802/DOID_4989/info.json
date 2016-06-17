@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.7477243172951891,
   "metapath_contribution": {
     "CbGaD": 0.7402908889286611,
     "CbGeAlD": 0.02347213610091605,
     "CbGpPWpGaD": 0.0518457994890914,
     "CcSEcCtD": 0.18439117548133147
   },
+  "n_trials": 0.0,
   "prediction": 0.00201890460066088,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

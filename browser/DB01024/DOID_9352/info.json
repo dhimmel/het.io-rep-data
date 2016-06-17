@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.362808842652796,
   "metapath_contribution": {
     "CbGbCtD": 0.44863653620076777,
     "CbGdCrCtD": 0.004033687826133394,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3306589521026992,
     "CrCbGaD": 0.005072038451172948
   },
+  "n_trials": 0.0,
   "prediction": 0.0019859460956176897,
   "status": 0,
   "training_prediction": 0.0144750513917984

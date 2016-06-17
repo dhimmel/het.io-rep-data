@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04930",
   "compound_name": "Permethrin",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6716514954486351,
   "metapath_contribution": {
     "CbGbCtD": 0.8082663757860814,
     "CbGpPWpGaD": 0.11449121592842637,
     "CcSEcCtD": 0.07456009257317509,
     "CrCbGaD": 0.002682315712317123
   },
+  "n_trials": 0.0,
   "prediction": 0.00187824015944906,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

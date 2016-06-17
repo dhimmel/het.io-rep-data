@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.7737321196358911,
   "metapath_contribution": {
     "CbGaD": 0.4236408607132939,
     "CbGbCtD": 0.31535398738830356,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09605836810746718,
     "CrCbGaD": 0.001645667753152619
   },
+  "n_trials": 0.0,
   "prediction": 0.00279971311543054,
   "status": 0,
   "training_prediction": 0.00456285437224189

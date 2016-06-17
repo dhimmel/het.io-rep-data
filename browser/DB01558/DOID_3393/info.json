@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01558",
   "compound_name": "Bromazepam",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.628088426527958,
   "metapath_contribution": {
     "CbGaD": 0.2169912160662513,
     "CbGbCtD": 0.4535353147319634,
     "CbGpPWpGaD": 0.10946551792588846,
     "CcSEcCtD": 0.22000795127589678
   },
+  "n_trials": 0.0,
   "prediction": 0.00303343308260063,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

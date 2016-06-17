@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.3625774320665692,
     "CbGbCtD": 0.33817698055810297,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0917286344805191,
     "CrCbGaD": 0.0025154296915095185
   },
+  "n_trials": 0.0,
   "prediction": 0.00177894411012385,
   "status": 0,
   "training_prediction": 0.00175488246710304

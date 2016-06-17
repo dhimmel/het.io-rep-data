@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.1564688816403199,
     "CbGbCtD": 0.6318621214040168,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03896233513482736,
     "CcSEcCtD": 0.1564757212566079
   },
+  "n_trials": 0.0,
   "prediction": 0.00548277172383867,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

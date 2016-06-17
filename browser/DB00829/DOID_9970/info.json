@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.832249674902471,
   "metapath_contribution": {
     "CbGaD": 0.10355180356775213,
     "CbGbCtD": 0.22984994863519734,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0022805583366668322,
     "CrCrCtD": 0.18521121238486457
   },
+  "n_trials": 0.0,
   "prediction": 0.00593668020498535,
   "status": 0,
   "training_prediction": 0.015110626241712

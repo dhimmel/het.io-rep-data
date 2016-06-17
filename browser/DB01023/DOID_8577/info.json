@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.737971391417425,
   "metapath_contribution": {
     "CbGaD": 0.465319554976519,
     "CbGbCtD": 0.3626741532020062,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07663753692100225,
     "CrCbGaD": 0.0024903844707210763
   },
+  "n_trials": 0.0,
   "prediction": 0.0030205872833866,
   "status": 0,
   "training_prediction": 0.0102858632065739

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.1682071166255309,
     "CbGbCtD": 0.5875349227820765,
     "CbGpPWpGaD": 0.05503852421388725,
     "CcSEcCtD": 0.18921943637850533
   },
+  "n_trials": 0.0,
   "prediction": 0.00338084815003905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

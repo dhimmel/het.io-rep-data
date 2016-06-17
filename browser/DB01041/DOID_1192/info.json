@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.5214564369310789,
   "metapath_contribution": {
     "CbGbCtD": 0.5533186409855474,
     "CbGeAlD": 0.00034282852100657766,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3301092597050353,
     "CrCbGaD": 0.0033677174090416466
   },
+  "n_trials": 5.0,
   "prediction": 0.0017785386988846698,
   "status": 0,
   "training_prediction": 0.00808329154636831

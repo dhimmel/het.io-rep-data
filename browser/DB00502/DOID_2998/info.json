@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.548764629388817,
   "metapath_contribution": {
     "CbGbCtD": 0.7414051600937622,
     "CbGdCrCtD": 0.004054119114251007,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.008205095920328849,
     "CcSEcCtD": 0.19866150087716436
   },
+  "n_trials": 0.0,
   "prediction": 0.00168910468326572,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

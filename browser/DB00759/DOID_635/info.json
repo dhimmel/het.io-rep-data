@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.784135240572172,
   "metapath_contribution": {
     "CbGaD": 0.32534501302676955,
     "CbGbCtD": 0.630947350043447,
     "CbGeAlD": 0.04283809158253004,
     "CrCbGaD": 0.0008695453472533376
   },
+  "n_trials": 0.0,
   "prediction": 0.00401762526224599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

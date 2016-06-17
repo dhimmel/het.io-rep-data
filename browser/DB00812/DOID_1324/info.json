@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.4603381014304289,
   "metapath_contribution": {
     "CbGaD": 0.30974644672436036,
     "CbGbCtD": 0.5320887269398314,
     "CbGpPWpGaD": 0.15160355379681525,
     "CrCbGaD": 0.006561272538992854
   },
+  "n_trials": 0.0,
   "prediction": 0.00170850397587587,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

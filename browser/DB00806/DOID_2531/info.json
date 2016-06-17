@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00806",
   "compound_name": "Pentoxifylline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.7652795838751629,
   "metapath_contribution": {
     "CbGaD": 0.2884403274741294,
     "CbGbCtD": 0.42511167876338707,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1596476537364849,
     "CrCbGaD": 0.0041291962145153845
   },
+  "n_trials": 1.0,
   "prediction": 0.00420180591286906,
   "status": 0,
   "training_prediction": 0.0601755052359246

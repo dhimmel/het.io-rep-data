@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00978",
   "compound_name": "Lomefloxacin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.733420026007802,
   "metapath_contribution": {
     "CbGaD": 0.7955728978855988,
     "CbGbCtD": 0.09078277432730111,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10525871840458091,
     "CrCbGaD": 0.006046221503487599
   },
+  "n_trials": 0.0,
   "prediction": 0.00214208335336285,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

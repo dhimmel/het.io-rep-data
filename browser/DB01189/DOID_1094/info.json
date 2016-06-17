@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.7544590152730852,
     "CbGeAlD": 0.10246483203675795,
     "CbGpPWpGaD": 0.13814551789134585,
     "CrCbGaD": 0.004930634798810923
   },
+  "n_trials": 0.0,
   "prediction": 0.00440447800960598,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

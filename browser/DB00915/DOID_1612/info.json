@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.644343302990897,
   "metapath_contribution": {
     "CbGaD": 0.1123697184421928,
     "CbGbCtD": 0.4713645631522393,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14885889982173345,
     "CcSEcCtD": 0.24492586197412683
   },
+  "n_trials": 0.0,
   "prediction": 0.00319519336559802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

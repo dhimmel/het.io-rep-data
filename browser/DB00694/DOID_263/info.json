@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.06559740020569844,
     "CbGbCtD": 0.18147430852195304,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.1493455051704376,
     "CrCtD": 0.23602538787467592
   },
+  "n_trials": 0.0,
   "prediction": 0.0369181367947262,
   "status": 0,
   "training_prediction": 0.10063393596122198

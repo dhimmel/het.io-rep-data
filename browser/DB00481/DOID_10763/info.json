@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00481",
   "compound_name": "Raloxifene",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.661248374512354,
   "metapath_contribution": {
     "CbGaD": 0.41358626698920625,
     "CbGbCtD": 0.29111880893672265,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.16933859496166834,
     "CrCbGaD": 0.0018945985927638599
   },
+  "n_trials": 0.0,
   "prediction": 0.00587600778507801,
   "status": 0,
   "training_prediction": 0.10502299408976701

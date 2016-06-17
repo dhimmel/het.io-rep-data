@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGaD": 0.34353718859588545,
     "CbGbCtD": 0.47858916616636554,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10568416840179422,
     "CrCbGaD": 0.003289039591620454
   },
+  "n_trials": 0.0,
   "prediction": 0.00450982681193553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

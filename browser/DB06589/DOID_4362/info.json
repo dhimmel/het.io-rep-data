@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.5893898082570989,
     "CbGbCtD": 0.15251637962924977,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10450597813759553,
     "CcSEcCtD": 0.03781033746762812
   },
+  "n_trials": 0.0,
   "prediction": 0.00414567645788587,
   "status": 0,
   "training_prediction": 0.00187174348565682

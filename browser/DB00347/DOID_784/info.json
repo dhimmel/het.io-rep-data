@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00347",
   "compound_name": "Trimethadione",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGaD": 0.7952449235569972,
     "CbGeAlD": 0.050613139106183765,
     "CbGpPWpGaD": 0.15089355863274045,
     "CrCbGaD": 0.0032483787040785868
   },
+  "n_trials": 0.0,
   "prediction": 0.00306274653831985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

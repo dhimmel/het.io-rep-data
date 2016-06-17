@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00985",
   "compound_name": "Dimenhydrinate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGaD": 0.6525752121957912,
     "CbGbCtD": 0.20580083251531514,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10507659345791237,
     "CrCbGaD": 0.0037889115258461195
   },
+  "n_trials": 0.0,
   "prediction": 0.00419332137302184,
   "status": 0,
   "training_prediction": 0.008455662457268821

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGbCtD": 0.7068383328969561,
     "CbGeAlD": 0.17354000900912114,
     "CbGpPWpGaD": 0.11858067172339047,
     "CrCbGaD": 0.00104098637053232
   },
+  "n_trials": 0.0,
   "prediction": 0.00259236528709099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

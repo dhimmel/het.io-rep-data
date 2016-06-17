@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00202",
   "compound_name": "Succinylcholine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.59297789336801,
   "metapath_contribution": {
     "CbGaD": 0.8191157872179763,
     "CbGpPWpGaD": 0.03814476551015144,
     "CcSEcCtD": 0.1344925419940643,
     "CrCbGaD": 0.008246905277807913
   },
+  "n_trials": 2.0,
   "prediction": 0.00208793358931965,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

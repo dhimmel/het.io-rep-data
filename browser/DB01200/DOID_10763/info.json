@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.23872213287087865,
     "CbGbCtD": 0.2852988532123347,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.001926768085870074,
     "CtDrD": 0.2993153795620481
   },
+  "n_trials": 0.0,
   "prediction": 0.021996006546278,
   "status": 0,
   "training_prediction": 0.211995723062293

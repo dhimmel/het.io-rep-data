@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.215864759427828,
   "metapath_contribution": {
     "CbGbCtD": 0.6006109296245032,
     "CbGeAlD": 0.012756683188228772,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2492809914051341,
     "CrCbGaD": 0.015781028746309985
   },
+  "n_trials": 0.0,
   "prediction": 0.0011626540863266801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

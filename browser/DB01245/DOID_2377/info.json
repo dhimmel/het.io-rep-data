@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01245",
   "compound_name": "Decamethonium",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.8629686114732322,
     "CbGbCtD": 0.03597182565294098,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.050597269319643805,
     "CrCbGaD": 0.006346630271160978
   },
+  "n_trials": 0.0,
   "prediction": 0.00305956872606691,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

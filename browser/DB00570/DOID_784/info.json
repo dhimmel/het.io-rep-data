@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.14759427828348498,
   "metapath_contribution": {
     "CbGaD": 0.7640786476153062,
     "CbGeAlD": 0.10257619859353528,
     "CbGpPWpGaD": 0.1279388636004657,
     "CrCbGaD": 0.005406290190692767
   },
+  "n_trials": 0.0,
   "prediction": 0.000915094908358918,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7548764629388821,
   "metapath_contribution": {
     "CbGaD": 0.4119537693395262,
     "CbGbCtD": 0.4123136626314642,
     "CbGeAlD": 0.053941369567608755,
     "CbGpPWpGaD": 0.12179119846140088
   },
+  "n_trials": 1.0,
   "prediction": 0.008278907305927109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

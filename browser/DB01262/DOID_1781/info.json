@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.011703511053316002,
   "metapath_contribution": {
     "CbGdCrCtD": 0.013470511974012491,
     "CbGeAlD": 0.1374777672643757,
     "CbGpPWpGaD": 0.06329906251086416,
     "CcSEcCtD": 0.7857526582507477
   },
+  "n_trials": 1.0,
   "prediction": 0.0004949464095465031,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

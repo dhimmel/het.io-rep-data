@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7477243172951891,
   "metapath_contribution": {
     "CbGaD": 0.18317673332247075,
     "CbGbCtD": 0.4339247757285434,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11888682299905491,
     "CcSEcCtD": 0.20768205055256025
   },
+  "n_trials": 4.0,
   "prediction": 0.00411762500802681,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

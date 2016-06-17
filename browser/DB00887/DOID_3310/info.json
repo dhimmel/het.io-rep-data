@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.610533159947984,
   "metapath_contribution": {
     "CbGbCtD": 0.3743548297225541,
     "CbGdCrCtD": 0.006054450940148027,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15057388222061277,
     "CrCrCtD": 0.35281095668096557
   },
+  "n_trials": 0.0,
   "prediction": 0.00243163759467542,
   "status": 0,
   "training_prediction": 0.00829212263356388

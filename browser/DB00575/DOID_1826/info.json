@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7906371911573471,
   "metapath_contribution": {
     "CbGaD": 0.17470442677825596,
     "CbGbCtD": 0.23906968809664905,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.38699426146849175,
     "CrCbGaD": 0.0026083737504060305
   },
+  "n_trials": 0.0,
   "prediction": 0.008003622445109021,
   "status": 0,
   "training_prediction": 0.0620566775950326

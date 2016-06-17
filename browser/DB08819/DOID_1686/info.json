@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08819",
   "compound_name": "Tafluprost",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.13894882976230155,
     "CbGbCtD": 0.15444496792228624,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.15226674233663692,
     "CrCtD": 0.23129421843594752
   },
+  "n_trials": 0.0,
   "prediction": 0.5559172071679089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

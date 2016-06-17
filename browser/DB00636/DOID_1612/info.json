@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00636",
   "compound_name": "Clofibrate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.776332899869961,
   "metapath_contribution": {
     "CbGaD": 0.46025766532024565,
     "CbGbCtD": 0.4021228827826596,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11496806103265915,
     "CrCbGaD": 0.0029394065219070144
   },
+  "n_trials": 0.0,
   "prediction": 0.00441322205384561,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGbCtD": 0.6083005306482997,
     "CbGdCrCtD": 0.005232054646005092,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09027706775252053,
     "CcSEcCtD": 0.18141672441659798
   },
+  "n_trials": 0.0,
   "prediction": 0.00305414121797486,
   "status": 0,
   "training_prediction": 0.00724289298718488

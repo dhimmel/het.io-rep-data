@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.09381908356707426,
     "CbGbCtD": 0.1273667318333446,
@@ -15,6 +17,7 @@
     "CrCtD": 0.1972714361839704,
     "CtDrD": 0.1556781010993467
   },
+  "n_trials": 3.0,
   "prediction": 0.284900065270893,
   "status": 0,
   "training_prediction": 0.784479878668488

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.419375812743823,
   "metapath_contribution": {
     "CbGbCtD": 0.5983426049291077,
     "CbGdCrCtD": 0.006922688936180696,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.24539298755256564,
     "CrCbGaD": 0.0006366594366786639
   },
+  "n_trials": 0.0,
   "prediction": 0.00141112773991116,
   "status": 0,
   "training_prediction": 0.00429281728621276

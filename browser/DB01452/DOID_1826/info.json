@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01452",
   "compound_name": "Heroin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.81238441753469,
     "CbGeAlD": 0.04854195436718279,
     "CbGpPWpGaD": 0.1324052106220067,
     "CrCbGaD": 0.006668417476120569
   },
+  "n_trials": 0.0,
   "prediction": 0.0036869721807174798,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.587126137841352,
   "metapath_contribution": {
     "CbGaD": 0.2825797106499609,
-    "CbGbCtD": 0.565233018326085,
+    "CbGbCtD": 0.5652330183260851,
     "CbGdCrCtD": 0.0020722751248948568,
-    "CbGeAlD": 0.03144713303885412,
-    "CbGpPWpGaD": 0.06990728723785194,
-    "CcSEcCtD": 0.04617161133558338,
-    "CrCbGaD": 0.0025889642867697716
+    "CbGeAlD": 0.03144713303885413,
+    "CbGpPWpGaD": 0.06990728723785196,
+    "CcSEcCtD": 0.04617161133558339,
+    "CrCbGaD": 0.002588964286769772
   },
+  "n_trials": 0.0,
   "prediction": 0.0028260324707879802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

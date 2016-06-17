@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.594928478543563,
   "metapath_contribution": {
     "CbGaD": 0.7687126466494639,
     "CbGeAlD": 0.06335557842030029,
     "CbGpPWpGaD": 0.1604265380723402,
     "CrCbGaD": 0.007505236857895471
   },
+  "n_trials": 0.0,
   "prediction": 0.0017978710871831601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

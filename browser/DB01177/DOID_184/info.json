@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.08211750510381234,
     "CbGdCrCtD": 0.0004298946978072234,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2560818989381,
     "CtDrD": 0.1551115699427629
   },
+  "n_trials": 0.0,
   "prediction": 0.106753731143889,
   "status": 0,
   "training_prediction": 0.22155887333573399

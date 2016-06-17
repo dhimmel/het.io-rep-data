@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.501300390117035,
   "metapath_contribution": {
     "CbGaD": 0.4784725293115454,
     "CbGbCtD": 0.2210971426116003,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1856737278952089,
     "CrCbGaD": 0.003304606514789255
   },
+  "n_trials": 0.0,
   "prediction": 0.0023014424824654802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

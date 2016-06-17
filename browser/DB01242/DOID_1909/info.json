@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.44538361508452506,
   "metapath_contribution": {
     "CbGaD": 0.3282148087865183,
     "CbGbCtD": 0.3895912053525516,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1624317925640265,
     "CrCbGaD": 0.0047646956270319795
   },
+  "n_trials": 0.0,
   "prediction": 0.00132092129844721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

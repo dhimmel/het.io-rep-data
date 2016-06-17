@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01429",
   "compound_name": "Aprindine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.673602080624187,
   "metapath_contribution": {
     "CbGaD": 0.1312941930498997,
     "CbGbCtD": 0.39603851657232947,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0036690995539034096,
     "CrCrCtD": 0.3426969170036436
   },
+  "n_trials": 0.0,
   "prediction": 0.00532006014661025,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

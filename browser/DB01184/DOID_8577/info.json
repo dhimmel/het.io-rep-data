@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.537711313394018,
   "metapath_contribution": {
     "CbGaD": 0.2727761944636161,
     "CbGbCtD": 0.638504639527099,
     "CcSEcCtD": 0.08442851596204469,
     "CrCbGaD": 0.004290650047240231
   },
+  "n_trials": 0.0,
   "prediction": 0.00222239838902676,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

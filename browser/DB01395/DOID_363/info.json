@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.10634279108995988,
     "CbGbCtD": 0.14492048402012955,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.16093378936276825,
     "CrCtD": 0.2472012218277225
   },
+  "n_trials": 0.0,
   "prediction": 0.12415894076338099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

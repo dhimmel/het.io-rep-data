@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00255",
   "compound_name": "Diethylstilbestrol",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.8301791535231989,
     "CbGeAlD": 0.09577763803576014,
     "CbGpPWpGaD": 0.06510927089979789,
     "CrCbGaD": 0.008933937541243102
   },
+  "n_trials": 0.0,
   "prediction": 0.0029481811692814897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.7113133940182049,
   "metapath_contribution": {
     "CbGaD": 0.9592934604368303,
     "CbGeAlD": 0.018697264178176784,
     "CbGpPWpGaD": 0.01262963996535852,
     "CrCbGaD": 0.009379635419634354
   },
+  "n_trials": 0.0,
   "prediction": 0.0016492581852685401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

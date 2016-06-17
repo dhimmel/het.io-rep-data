@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.427178153446034,
   "metapath_contribution": {
     "CbGaD": 0.17906634320459125,
     "CbGbCtD": 0.3782888037411015,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0031797459476556726,
     "CrCrCtD": 0.27503575659568197
   },
+  "n_trials": 0.0,
   "prediction": 0.0032286433935675802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

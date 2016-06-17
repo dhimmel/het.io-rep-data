@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06766",
   "compound_name": "Alcaftadine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGbCtD": 0.23197702194906097,
     "CbGeAlD": 0.002255120114531959,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2909727705377022,
     "CrCtD": 0.4629899686677192
   },
+  "n_trials": 0.0,
   "prediction": 0.0370948955975493,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

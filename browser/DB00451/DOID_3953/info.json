@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.7074122236670999,
   "metapath_contribution": {
     "CbGaD": 0.8411477339640389,
     "CbGeAlD": 0.09177625212749906,
     "CbGpPWpGaD": 0.06290632925311725,
     "CrCbGaD": 0.00416968465534471
   },
+  "n_trials": 0.0,
   "prediction": 0.00167629127385007,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

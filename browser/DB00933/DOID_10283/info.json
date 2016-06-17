@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00933",
   "compound_name": "Mesoridazine",
+  "compound_percentile": 0.0147058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.000650195058517555,
   "metapath_contribution": {
     "CbGbCtD": 0.171723878973394,
     "CbGeAlD": 0.03180467167994273,
     "CbGpPWpGaD": 0.7628193757821725,
     "CrCbGaD": 0.033652073564490737
   },
+  "n_trials": 0.0,
   "prediction": 0.000387388327172804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

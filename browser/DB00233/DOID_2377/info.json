@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.38231469440832205,
   "metapath_contribution": {
     "CbGbCtD": 0.42831895520753693,
     "CbGdCrCtD": 0.009148607640477285,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24630505971930225,
     "CrCbGaD": 0.0001176729439087769
   },
+  "n_trials": 0.0,
   "prediction": 0.0015982712054481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

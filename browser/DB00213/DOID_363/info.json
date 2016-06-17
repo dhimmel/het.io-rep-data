@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.7594278283485051,
   "metapath_contribution": {
     "CbGbCtD": 0.6892667560405736,
     "CbGeAlD": 0.00784978522421276,
     "CcSEcCtD": 0.29899682725783205,
     "CrCbGaD": 0.003886631477381542
   },
+  "n_trials": 0.0,
   "prediction": 0.0024100137023470697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

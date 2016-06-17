@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06207",
   "compound_name": "Silodosin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.15909021771011936,
     "CbGbCtD": 0.3313957040896215,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0019314868796921315,
     "CrCrCtD": 0.33251356967374646
   },
+  "n_trials": 0.0,
   "prediction": 0.0216324741524812,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

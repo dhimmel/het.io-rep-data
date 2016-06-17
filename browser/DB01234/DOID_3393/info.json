@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.401170351105332,
   "metapath_contribution": {
     "CbGaD": 0.30845474875159146,
     "CbGbCtD": 0.3728234823801351,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0013414897807996044,
     "CrCrCtD": 0.12971457674289275
   },
+  "n_trials": 1.0,
   "prediction": 0.00201028598743649,
   "status": 0,
   "training_prediction": 0.0686411945554315

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01619",
   "compound_name": "Phenindamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.664499349804942,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.013592827338090668,
     "CrCbGaD": 0.0034699618688192914,
     "CrCrCtD": 0.40325484758898905,
     "CrCtD": 0.5796823632041009
   },
+  "n_trials": 0.0,
   "prediction": 0.00514254836216074,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

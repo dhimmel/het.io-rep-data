@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.7895141371470561,
     "CbGeAlD": 0.06558454937997926,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.005817388075502084
   },
   "prediction": 0.00288526954510355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

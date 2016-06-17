@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGaD": 0.3653472333956211,
     "CbGbCtD": 0.4079684658048943,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07638505896162069,
     "CcSEcCtD": 0.08466942778942256
   },
+  "n_trials": 0.0,
   "prediction": 0.00205578372841633,
   "status": 0,
   "training_prediction": 0.00624570309834963

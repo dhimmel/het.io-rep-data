@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01101",
   "compound_name": "Capecitabine",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.677503250975293,
   "metapath_contribution": {
     "CbGbCtD": 0.32491683672945576,
     "CbGdCrCtD": 0.009832977475080662,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.20917630994767952,
     "CcSEcCtD": 0.3945855546073438
   },
+  "n_trials": 0.0,
   "prediction": 0.00233613695619704,
   "status": 0,
   "training_prediction": 0.0149214854964867

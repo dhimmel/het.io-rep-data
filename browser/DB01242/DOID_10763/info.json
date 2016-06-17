@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6762028608582571,
   "metapath_contribution": {
     "CbGaD": 0.26892803720206315,
     "CbGbCtD": 0.3045121704675253,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002697943849716788,
     "CrCrCtD": 0.20524778105673508
   },
+  "n_trials": 0.0,
   "prediction": 0.006299510471299999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00193",
   "compound_name": "Tramadol",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.462938881664499,
   "metapath_contribution": {
     "CbGbCtD": 0.24791525341072343,
     "CbGpPWpGaD": 0.25573969212186715,
     "CcSEcCtD": 0.49549980483907585,
     "CrCbGaD": 0.0008452496283336117
   },
+  "n_trials": 1.0,
   "prediction": 0.00135363645410746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

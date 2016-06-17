@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.559167750325098,
   "metapath_contribution": {
     "CbGaD": 0.34824457930849484,
     "CbGbCtD": 0.4150052972959678,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12573892202914608,
     "CrCbGaD": 0.002736872129812553
   },
+  "n_trials": 0.0,
   "prediction": 0.00267167062126553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

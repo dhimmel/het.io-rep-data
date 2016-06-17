@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.27438231469440805,
   "metapath_contribution": {
     "CbGbCtD": 0.6694003083037015,
     "CbGdCrCtD": 0.003178933031636092,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17819463468095953,
     "CrCbGaD": 0.002448259070730366
   },
+  "n_trials": 0.0,
   "prediction": 0.00150155899731506,
   "status": 0,
   "training_prediction": 0.00804602397761279

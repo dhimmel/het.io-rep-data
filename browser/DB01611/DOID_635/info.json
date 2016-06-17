@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.523407022106632,
   "metapath_contribution": {
     "CbGbCtD": 0.60029890694588,
     "CbGeAlD": 0.032509467993024135,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3069736244039861,
     "CrCbGaD": 0.002468975720264205
   },
+  "n_trials": 1.0,
   "prediction": 0.00250914389760942,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

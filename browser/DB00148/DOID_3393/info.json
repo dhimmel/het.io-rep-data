@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00148",
   "compound_name": "Creatine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.7173074994865615,
     "CbGbCtD": 0.07410456847530071,
     "CbGeAlD": 0.05756779594993314,
     "CbGpPWpGaD": 0.15102013608820458
   },
+  "n_trials": 0.0,
   "prediction": 0.0097205892256785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

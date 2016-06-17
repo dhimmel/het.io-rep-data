@@ -1,19 +1,21 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
-    "CbGaD": 0.1666937746308205,
-    "CbGbCtD": 0.19953246736538854,
-    "CbGeAlD": 0.02315012187647246,
-    "CbGpPWpGaD": 0.04669427145685785,
-    "CcSEcCtD": 0.06683834083385506,
-    "CpDpCtD": 0.24681707437360495,
-    "CrCbGaD": 0.00033052579513361956,
-    "CrCrCtD": 0.24994342366786687
+    "CbGaD": 0.16669377463082052,
+    "CbGbCtD": 0.1995324673653886,
+    "CbGeAlD": 0.023150121876472463,
+    "CbGpPWpGaD": 0.046694271456857867,
+    "CcSEcCtD": 0.06683834083385508,
+    "CpDpCtD": 0.246817074373605,
+    "CrCbGaD": 0.00033052579513361967,
+    "CrCrCtD": 0.24994342366786695
   },
+  "n_trials": 0.0,
   "prediction": 0.00694216379980539,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

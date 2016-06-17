@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.408322496749025,
   "metapath_contribution": {
     "CbGbCtD": 0.746930150731866,
     "CbGeAlD": 0.03236083282785807,
     "CbGpPWpGaD": 0.12129168663579236,
     "CcSEcCtD": 0.0994173298044836
   },
+  "n_trials": 0.0,
   "prediction": 0.00147832200469614,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

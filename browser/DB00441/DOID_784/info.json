@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0669700910273082,
   "metapath_contribution": {
     "CbGaD": 0.49883441650611,
     "CbGeAlD": 0.21326861853636134,
     "CbGpPWpGaD": 0.2736302630207841,
     "CrCbGaD": 0.014266701936744527
   },
+  "n_trials": 0.0,
   "prediction": 0.0007715871023578821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.67295188556567,
   "metapath_contribution": {
     "CbGaD": 0.39536745349700353,
     "CbGbCtD": 0.3808537305860697,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11670942980003807,
     "CrCbGaD": 0.0008768709231175616
   },
+  "n_trials": 0.0,
   "prediction": 0.0033008264860348397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

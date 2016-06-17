@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00293",
   "compound_name": "Raltitrexed",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.16320395446398425,
     "CbGbCtD": 0.21584209008091784,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.20231979755077248,
     "CrCtD": 0.3071063093819399
   },
+  "n_trials": 1.0,
   "prediction": 0.0247686762041889,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

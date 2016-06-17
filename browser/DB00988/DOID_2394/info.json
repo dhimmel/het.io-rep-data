@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.29713914174252304,
   "metapath_contribution": {
     "CbGbCtD": 0.3242103128156926,
     "CbGeAlD": 0.05960707682707936,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0018539310699515988,
     "CrCrCtD": 0.49352602400240936
   },
+  "n_trials": 0.0,
   "prediction": 0.00110343663676575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.708712613784135,
   "metapath_contribution": {
     "CbGbCtD": 0.03201402940668291,
     "CbGeAlD": 0.005525311792067914,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15847646298175633,
     "CtDrD": 0.7786259365915076
   },
+  "n_trials": 0.0,
   "prediction": 0.00280718027384771,
   "status": 0,
   "training_prediction": 0.00956408249288115

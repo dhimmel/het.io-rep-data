@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01431",
   "compound_name": "Allylestrenol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.3197154773650068,
     "CbGbCtD": 0.3253709107705933,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002776060375424894,
     "CrCrCtD": 0.31325531801851053
   },
+  "n_trials": 0.0,
   "prediction": 0.0097050628748494,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

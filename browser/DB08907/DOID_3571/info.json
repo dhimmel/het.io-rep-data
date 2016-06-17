@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.27374582142276344,
     "CbGbCtD": 0.4216141530015102,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04691050845156769,
     "CrCbGaD": 0.003063306578442317
   },
+  "n_trials": 0.0,
   "prediction": 0.00372167460262644,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

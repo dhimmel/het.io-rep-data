@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.09486309340614413,
     "CbGbCtD": 0.21130148382899702,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.24170635174960817,
     "CrCtD": 0.36681176961062606
   },
+  "n_trials": 0.0,
   "prediction": 0.0628398244334236,
   "status": 0,
   "training_prediction": 0.22871077712563

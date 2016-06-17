@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8101430429128741,
   "metapath_contribution": {
     "CbGaD": 0.06965753284424336,
     "CbGbCtD": 0.24305168819160053,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0007910171944136334,
     "CrCrCtD": 0.2152327111611157
   },
+  "n_trials": 0.0,
   "prediction": 0.00886329373625088,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

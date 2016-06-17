@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.399219765929779,
   "metapath_contribution": {
     "CbGbCtD": 0.4354668161744572,
     "CbGeAlD": 0.0003094512093036572,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0017357340407387991,
     "CrCrCtD": 0.5235188462691286
   },
+  "n_trials": 0.0,
   "prediction": 0.00146288261086856,
   "status": 0,
   "training_prediction": 0.00267267059933827

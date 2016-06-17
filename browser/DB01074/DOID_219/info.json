@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01074",
   "compound_name": "Perhexiline",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.842002600780234,
   "metapath_contribution": {
     "CbGbCtD": 0.2268316506144674,
     "CbGeAlD": 0.1500029440043359,
     "CbGpPWpGaD": 0.09895781478038797,
     "CcSEcCtD": 0.5242075906008088
   },
+  "n_trials": 0.0,
   "prediction": 0.0026085579859494896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

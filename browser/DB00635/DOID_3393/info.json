@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.5299089726918079,
   "metapath_contribution": {
     "CbGaD": 0.13934765509545197,
     "CbGbCtD": 0.2911321170174062,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0014308390908746279,
     "CrCrCtD": 0.16348754085224715
   },
+  "n_trials": 1.0,
   "prediction": 0.00253880442578556,
   "status": 0,
   "training_prediction": 0.112069575452086

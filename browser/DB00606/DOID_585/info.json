@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00606",
   "compound_name": "Cyclothiazide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.2500446303908788,
     "CbGeAlD": 0.03088230637634214,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2810998420033097,
     "CrCtD": 0.40815507596116657
   },
+  "n_trials": 0.0,
   "prediction": 0.0435314169208265,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

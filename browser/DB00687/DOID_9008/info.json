@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGbCtD": 0.2404006817693457,
     "CcSEcCtD": 0.08159302017875453,
     "CrCrCtD": 0.27089987876622684,
     "CrCtD": 0.4071064192856729
   },
+  "n_trials": 0.0,
   "prediction": 0.0176767124015445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

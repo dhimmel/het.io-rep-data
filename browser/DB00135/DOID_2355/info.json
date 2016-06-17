@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00135",
   "compound_name": "L-Tyrosine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.8481799059835939,
     "CbGeAlD": 0.07029222318639532,
     "CbGpPWpGaD": 0.07903289812405495,
     "CrCbGaD": 0.0024949727059557524
   },
+  "n_trials": 0.0,
   "prediction": 0.00345182802829987,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

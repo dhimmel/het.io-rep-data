@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.3524057217165151,
   "metapath_contribution": {
     "CbGaD": 0.2687598677188507,
     "CbGbCtD": 0.1927569574501629,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0018467505769369191,
     "CrCrCtD": 0.37523642103241334
   },
+  "n_trials": 1.0,
   "prediction": 0.00120006349018623,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

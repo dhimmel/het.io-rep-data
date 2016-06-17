@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00177",
   "compound_name": "Valsartan",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.3745123537061121,
   "metapath_contribution": {
     "CbGaD": 0.1675205891238257,
     "CbGbCtD": 0.49822825501879325,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22223618459914676,
     "CrCbGaD": 0.0031197601283786958
   },
+  "n_trials": 0.0,
   "prediction": 0.00249793381716883,
   "status": 0,
   "training_prediction": 0.0271845310253277

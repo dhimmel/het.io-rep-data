@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00693",
   "compound_name": "Fluorescein",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.892717815344603,
   "metapath_contribution": {
     "CbGaD": 0.24312149419237025,
     "CbGbCtD": 0.5350599506730722,
     "CbGpPWpGaD": 0.07897763218002081,
     "CcSEcCtD": 0.1428409229545367
   },
+  "n_trials": 0.0,
   "prediction": 0.00674426657068626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

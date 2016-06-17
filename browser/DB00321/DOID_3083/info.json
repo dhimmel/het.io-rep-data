@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.4185301960579369,
     "CbGbCtD": 0.37580628566697666,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09219651018815646,
     "CrCbGaD": 0.0036513017520272383
   },
+  "n_trials": 0.0,
   "prediction": 0.00284441153408565,
   "status": 0,
   "training_prediction": 0.00625807490730961

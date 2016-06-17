@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.693758127438232,
   "metapath_contribution": {
     "CbGaD": 0.23759196862467183,
     "CbGbCtD": 0.3297042007504338,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0021658994439589883,
     "CrCrCtD": 0.25749256115330793
   },
+  "n_trials": 0.0,
   "prediction": 0.00560377959690765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

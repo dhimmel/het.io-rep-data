@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.46133906486376697,
     "CbGbCtD": 0.34317746194414445,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.055596686684816446,
     "CbGpPWpGaD": 0.1374666681616354
   },
+  "n_trials": 5.0,
   "prediction": 0.00998283274480318,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

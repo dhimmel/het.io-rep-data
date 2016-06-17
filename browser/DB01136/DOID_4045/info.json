@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.5117202158876011,
     "CbGbCtD": 0.2865488262272624,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.06057280670683856,
     "CcSEcCtD": 0.07210175955954563
   },
+  "n_trials": 0.0,
   "prediction": 0.0029443895769663397,
   "status": 0,
   "training_prediction": 0.00479820357112114

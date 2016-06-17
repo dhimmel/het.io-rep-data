@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.637191157347204,
   "metapath_contribution": {
     "CbGaD": 0.32812644529529117,
     "CbGbCtD": 0.436165121654489,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10508440499892911,
     "CrCbGaD": 0.0033555080435088876
   },
+  "n_trials": 0.0,
   "prediction": 0.00181620551772375,
   "status": 0,
   "training_prediction": 0.00720045704666257

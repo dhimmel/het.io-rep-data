@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01021",
   "compound_name": "Trichlormethiazide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6449934980494151,
   "metapath_contribution": {
     "CbGaD": 0.2870748728471063,
     "CbGbCtD": 0.5854161068808587,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09244712383655189,
     "CrCbGaD": 0.0041004460263807455
   },
+  "n_trials": 0.0,
   "prediction": 0.0048310476347143295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

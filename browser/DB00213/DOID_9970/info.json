@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.49544863459037697,
   "metapath_contribution": {
     "CbGbCtD": 0.5490838282929599,
     "CbGeAlD": 0.03991046584964186,
     "CbGpPWpGaD": 0.11617323219758235,
     "CcSEcCtD": 0.294832473659816
   },
+  "n_trials": 0.0,
   "prediction": 0.0024668870481263103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00278",
   "compound_name": "Argatroban",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.5093615057222165,
     "CbGbCtD": 0.3010287499549977,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09204760819129786,
     "CcSEcCtD": 0.05009369116185593
   },
+  "n_trials": 0.0,
   "prediction": 0.00825179045043795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

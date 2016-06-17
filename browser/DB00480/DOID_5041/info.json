@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.5660889470045064,
     "CbGbCtD": 0.09714056340045404,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18190140754438877,
     "CrCbGaD": 0.004943405226938912
   },
+  "n_trials": 0.0,
   "prediction": 0.00301420766037313,
   "status": 0,
   "training_prediction": 0.0036574345674043

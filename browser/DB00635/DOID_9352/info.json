@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.29778933680103997,
   "metapath_contribution": {
     "CbGaD": 0.4498856691091421,
     "CbGbCtD": 0.34584753849034316,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1042274004258586,
     "CrCbGaD": 0.003185736607072879
   },
+  "n_trials": 0.0,
   "prediction": 0.0017353556984388801,
   "status": 0,
   "training_prediction": 0.0661942868810371

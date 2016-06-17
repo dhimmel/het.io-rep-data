@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7249674902470741,
   "metapath_contribution": {
     "CbGaD": 0.7630019345857657,
     "CbGbCtD": 0.0850522831562788,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05459751677030058,
     "CrCbGaD": 0.0021553564492118164
   },
+  "n_trials": 0.0,
   "prediction": 0.00295805287525393,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

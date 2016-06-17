@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00844",
   "compound_name": "Nalbuphine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGaD": 0.6625796455556809,
     "CbGpPWpGaD": 0.1137597931423321,
     "CcSEcCtD": 0.21711759176968384,
     "CrCbGaD": 0.006542969532303119
   },
+  "n_trials": 0.0,
   "prediction": 0.00236726291095792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

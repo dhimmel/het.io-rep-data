@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.507802340702211,
   "metapath_contribution": {
     "CbGaD": 0.08801092566211827,
     "CbGbCtD": 0.6167985720624383,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2523386593856701,
     "CrCbGaD": 0.0012626571410847187
   },
+  "n_trials": 3.0,
   "prediction": 0.00231615534030501,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.23407022106632003,
   "metapath_contribution": {
     "CbGaD": 0.7047866897777566,
     "CbGeAlD": 0.07415360186703755,
     "CbGpPWpGaD": 0.2082384288471318,
     "CrCbGaD": 0.012821279508074036
   },
+  "n_trials": 0.0,
   "prediction": 0.000943426611206684,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6866059817945379,
   "metapath_contribution": {
     "CbGaD": 0.3806189315339506,
     "CbGbCtD": 0.4371836869713089,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14763617261432202,
     "CrCbGaD": 0.0006832262018118294
   },
+  "n_trials": 0.0,
   "prediction": 0.00547687091060615,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

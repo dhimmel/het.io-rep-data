@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06287",
   "compound_name": "Temsirolimus",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.6274382314694411,
   "metapath_contribution": {
     "CbGaD": 0.22233961661454146,
     "CbGeAlD": 0.009705778550166176,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0025131655802723366,
     "CtDrD": 0.6391712765853492
   },
+  "n_trials": 0.0,
   "prediction": 0.0018539531339341199,
   "status": 0,
   "training_prediction": 0.00264507028676249

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.805591677503251,
   "metapath_contribution": {
     "CbGaD": 0.7244902893000715,
     "CbGeAlD": 0.07105817530596559,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08404795123603,
     "CrCbGaD": 0.008459751912199885
   },
+  "n_trials": 0.0,
   "prediction": 0.00213420948708029,
   "status": 0,
   "training_prediction": 0.0027316324145709

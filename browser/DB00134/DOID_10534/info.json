@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.850455136540962,
   "metapath_contribution": {
     "CbGaD": 0.3824494166665522,
     "CbGbCtD": 0.32297694891317136,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1651971868408697,
     "CrCbGaD": 0.0013171991552533688
   },
+  "n_trials": 0.0,
   "prediction": 0.002805073435345,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

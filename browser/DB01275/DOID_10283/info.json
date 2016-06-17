@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01275",
   "compound_name": "Hydralazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.16978680468553306,
     "CbGbCtD": 0.5746780584570056,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05346623311502046,
     "CcSEcCtD": 0.14503866407091257
   },
+  "n_trials": 0.0,
   "prediction": 0.00607491169159844,
   "status": 0,
   "training_prediction": 0.0253641313656865

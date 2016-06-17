@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.35500650195058503,
   "metapath_contribution": {
     "CbGaD": 0.4064813239148675,
     "CbGbCtD": 0.40912708931095576,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06805338868710396,
     "CrCbGaD": 0.0026765614753778404
   },
+  "n_trials": 0.0,
   "prediction": 0.0011492460031231099,
   "status": 0,
   "training_prediction": 0.0013950500710632199

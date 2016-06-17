@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGaD": 0.2626639771403714,
     "CbGbCtD": 0.5331562003331518,
     "CcSEcCtD": 0.20211318422818245,
     "CrCbGaD": 0.002066638298294439
   },
+  "n_trials": 1.0,
   "prediction": 0.0025391408517670103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

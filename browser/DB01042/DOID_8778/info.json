@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.566970091027308,
   "metapath_contribution": {
     "CbGdCrCtD": 0.006654439584753002,
     "CbGeAlD": 0.02651024057220477,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0017976323108863938,
     "CrCrCtD": 0.7294185331006109
   },
+  "n_trials": 0.0,
   "prediction": 0.00170653226631654,
   "status": 0,
   "training_prediction": 0.00788324668287605

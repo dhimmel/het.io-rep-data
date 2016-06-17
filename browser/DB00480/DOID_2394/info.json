@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.871911573472042,
   "metapath_contribution": {
     "CbGaD": 0.3569755814826577,
     "CbGbCtD": 0.11452814798685092,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.29689430570572534,
     "CrCbGaD": 0.0010227494405419825
   },
+  "n_trials": 3.0,
   "prediction": 0.0026720807383892697,
   "status": 0,
   "training_prediction": 0.0063578774052203794

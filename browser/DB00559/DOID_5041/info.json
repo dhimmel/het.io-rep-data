@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00559",
   "compound_name": "Bosentan",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.851755526657997,
   "metapath_contribution": {
     "CbGbCtD": 0.06482301754366866,
     "CbGeAlD": 0.003960153772075233,
     "CbGpPWpGaD": 0.3651872769521192,
     "CcSEcCtD": 0.5660295517321368
   },
+  "n_trials": 0.0,
   "prediction": 0.00246654742176774,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

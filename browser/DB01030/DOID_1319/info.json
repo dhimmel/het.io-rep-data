@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGbCtD": 0.0862950124203613,
     "CbGeAlD": 0.00674844173332536,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.537684590115663,
     "CtDrD": 0.31558270858804666
   },
+  "n_trials": 13.0,
   "prediction": 0.00726448279960123,
   "status": 0,
   "training_prediction": 0.0367348791200364

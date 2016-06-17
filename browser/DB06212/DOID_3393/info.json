@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06212",
   "compound_name": "Tolvaptan",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.307844949396495,
     "CbGbCtD": 0.23548641424567357,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002137195499328793,
     "CrCrCtD": 0.3100101654498641
   },
+  "n_trials": 0.0,
   "prediction": 0.0140824260504743,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

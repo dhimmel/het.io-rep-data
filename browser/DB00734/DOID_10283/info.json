@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7405721716514949,
   "metapath_contribution": {
     "CbGaD": 0.25005680212464426,
     "CbGbCtD": 0.3617124051262852,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2271531958725851,
     "CrCbGaD": 0.002206994409806053
   },
+  "n_trials": 0.0,
   "prediction": 0.00396375873705651,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

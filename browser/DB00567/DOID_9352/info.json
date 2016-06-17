@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.49804941482444703,
   "metapath_contribution": {
     "CbGaD": 0.22377018281499567,
     "CbGbCtD": 0.5784520813312741,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14202169023203187,
     "CrCbGaD": 0.001179625501324999
   },
+  "n_trials": 0.0,
   "prediction": 0.00249861496148842,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

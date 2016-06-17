@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00634",
   "compound_name": "Sulfacetamide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CcSEcCtD": 0.030691858971357556,
     "CiPCiCtD": 0.42268242467387923,
     "CrCrCtD": 0.22901554889614523,
     "CrCtD": 0.3176101674586179
   },
+  "n_trials": 0.0,
   "prediction": 0.0383038476202024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

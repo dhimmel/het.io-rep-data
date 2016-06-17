@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGbCtD": 0.20283590448895206,
     "CbGeAlD": 0.0016301016570902983,
     "CcSEcCtD": 0.0726964742681502,
     "CiPCiCtD": 0.7228375195858073
   },
+  "n_trials": 0.0,
   "prediction": 0.0130906747494978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

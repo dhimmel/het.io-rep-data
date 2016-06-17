@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.8166449934980491,
   "metapath_contribution": {
     "CbGaD": 0.8320613336735103,
     "CbGeAlD": 0.021958608647318748,
     "CbGpPWpGaD": 0.13828469691621184,
     "CrCbGaD": 0.007695360762959046
   },
+  "n_trials": 0.0,
   "prediction": 0.0020431256962535,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

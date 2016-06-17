@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01088",
   "compound_name": "Iloprost",
+  "compound_percentile": 0.36764705882352894,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.280234070221066,
   "metapath_contribution": {
     "CbGbCtD": 0.5545687740432568,
     "CbGeAlD": 0.16445067824119225,
     "CbGpPWpGaD": 0.2798237638088318,
     "CrCbGaD": 0.0011567839067191928
   },
+  "n_trials": 2.0,
   "prediction": 0.0012027961862332301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

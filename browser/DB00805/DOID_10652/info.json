@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00805",
   "compound_name": "Minaprine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
     "CbGaD": 0.4155151002412202,
     "CbGbCtD": 0.4724548545813354,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05945294462632124,
     "CrCbGaD": 0.0017780583832436572
   },
+  "n_trials": 0.0,
   "prediction": 0.00523245688938243,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

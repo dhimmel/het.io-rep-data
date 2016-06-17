@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.5071521456436929,
   "metapath_contribution": {
     "CbGaD": 0.7334525906601846,
     "CbGeAlD": 0.07775832162487378,
     "CbGpPWpGaD": 0.1784154320446832,
     "CrCbGaD": 0.010373655670258284
   },
+  "n_trials": 0.0,
   "prediction": 0.00156213344920117,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

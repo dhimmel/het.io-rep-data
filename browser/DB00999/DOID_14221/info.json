@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00999",
   "compound_name": "Hydrochlorothiazide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGeAlD": 0.02033358504463855,
     "CbGpPWpGaD": 0.009231778113246556,
     "CcSEcCtD": 0.05040371471700606,
     "CtDrD": 0.9200309221251088
   },
+  "n_trials": 9.0,
   "prediction": 0.0019974220030075,
   "status": 0,
   "training_prediction": 0.00150251561048399

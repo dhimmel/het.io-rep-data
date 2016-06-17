@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01601",
   "compound_name": "Lopinavir",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.41742522756827005,
   "metapath_contribution": {
     "CbGaD": 0.8971467781672074,
     "CbGeAlD": 0.046050895956003736,
     "CbGpPWpGaD": 0.050852270326025205,
     "CrCbGaD": 0.0059500555507636796
   },
+  "n_trials": 0.0,
   "prediction": 0.00138166052352985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

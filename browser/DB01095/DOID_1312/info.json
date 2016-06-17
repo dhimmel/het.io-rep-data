@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.378413524057217,
   "metapath_contribution": {
     "CbGbCtD": 0.8171522029114567,
     "CbGeAlD": 0.0191711766488292,
     "CcSEcCtD": 0.15859151220878878,
     "CrCbGaD": 0.005085108230925299
   },
+  "n_trials": 0.0,
   "prediction": 0.00125106070452746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

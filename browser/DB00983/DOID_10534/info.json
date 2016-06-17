@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00983",
   "compound_name": "Formoterol",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.611833550065019,
   "metapath_contribution": {
     "CbGaD": 0.7360923277413026,
     "CbGbCtD": 0.09384583758975905,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1431343798423866,
     "CrCbGaD": 0.006946648621470117
   },
+  "n_trials": 0.0,
   "prediction": 0.00182949064578438,
   "status": 0,
   "training_prediction": 0.00669896846466859

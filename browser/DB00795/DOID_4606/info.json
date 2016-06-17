@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.684655396618986,
   "metapath_contribution": {
     "CbGaD": 0.7496377270248439,
     "CbGeAlD": 0.11012061051055297,
     "CbGpPWpGaD": 0.1358825125742098,
     "CrCbGaD": 0.004359149890393391
   },
+  "n_trials": 0.0,
   "prediction": 0.0014717345749303099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

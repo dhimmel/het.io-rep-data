@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06704",
   "compound_name": "Iobenguane",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.804941482444733,
   "metapath_contribution": {
     "CbGaD": 0.4836374704977517,
     "CbGbCtD": 0.37848274722079756,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02051409618604659,
     "CcSEcCtD": 0.09382156562935483
   },
+  "n_trials": 0.0,
   "prediction": 0.0100885211004728,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.674902470741222,
   "metapath_contribution": {
     "CbGaD": 0.14080915358732451,
     "CbGbCtD": 0.45397110866539303,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0029826678271565295,
     "CrCrCtD": 0.16421535857946054
   },
+  "n_trials": 0.0,
   "prediction": 0.00330759938261583,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

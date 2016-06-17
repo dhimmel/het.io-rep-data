@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00436",
   "compound_name": "Bendroflumethiazide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.472691807542263,
   "metapath_contribution": {
     "CbGaD": 0.8276428872107738,
     "CbGeAlD": 0.05032925599317655,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.04269105624880567,
     "CrCbGaD": 0.007192109102687763
   },
+  "n_trials": 0.0,
   "prediction": 0.00149269512697989,
   "status": 0,
   "training_prediction": 0.00328947472710383

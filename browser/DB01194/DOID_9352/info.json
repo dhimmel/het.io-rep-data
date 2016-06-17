@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01194",
   "compound_name": "Brinzolamide",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
     "CbGaD": 0.2708336660770559,
     "CbGbCtD": 0.26724908037230904,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3167465247975118,
     "CrCbGaD": 0.0016807516639493298
   },
+  "n_trials": 0.0,
   "prediction": 0.00351996868888894,
   "status": 0,
   "training_prediction": 0.0153810721327137

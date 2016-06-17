@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGbCtD": 0.6958512529851413,
     "CbGeAlD": 0.19981703468020762,
     "CbGpPWpGaD": 0.025330769341848598,
     "CcSEcCtD": 0.07900094299280264
   },
+  "n_trials": 0.0,
   "prediction": 0.00349213417075358,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

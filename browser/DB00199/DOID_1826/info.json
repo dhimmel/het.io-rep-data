@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.547464239271782,
   "metapath_contribution": {
     "CbGaD": 0.3297767100816894,
     "CbGbCtD": 0.4798212630400785,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11285436178284271,
     "CrCbGaD": 0.001418974171009599
   },
+  "n_trials": 0.0,
   "prediction": 0.0037320414196536297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
-    "CbGbCtD": 0.3184365728301289,
-    "CbGpPWpGaD": 0.05815521882399551,
-    "CcSEcCtD": 0.11797417204073804,
-    "CrCbGaD": 0.0022483887653238247,
-    "CrCrCtD": 0.5031856475398137
+    "CbGbCtD": 0.31843657283012894,
+    "CbGpPWpGaD": 0.058155218823995526,
+    "CcSEcCtD": 0.11797417204073807,
+    "CrCbGaD": 0.002248388765323825,
+    "CrCrCtD": 0.5031856475398138
   },
+  "n_trials": 0.0,
   "prediction": 0.00655221786702362,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

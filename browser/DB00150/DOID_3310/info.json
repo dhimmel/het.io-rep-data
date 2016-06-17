@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00150",
   "compound_name": "L-Tryptophan",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.217815344603381,
   "metapath_contribution": {
     "CbGdCrCtD": 0.08749918597287511,
     "CbGeAlD": 0.7127148950376502,
     "CbGpPWpGaD": 0.19978591898947476
   },
+  "n_trials": 0.0,
   "prediction": 0.00148694287256739,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

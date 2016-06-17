@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.4779371838413566,
     "CbGbCtD": 0.32552073171677215,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1070418863011575,
     "CcSEcCtD": 0.08904543623618602
   },
+  "n_trials": 1.0,
   "prediction": 0.00715444768382808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

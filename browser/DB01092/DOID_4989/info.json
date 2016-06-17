@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.0474642392717815,
   "metapath_contribution": {
-    "CbGeAlD": 0.43760724662179734,
-    "CbGpPWpGaD": 0.5592121764419744,
-    "CrCbGaD": 0.0031805769362281537
+    "CbGeAlD": 0.4376072466217974,
+    "CbGpPWpGaD": 0.5592121764419745,
+    "CrCbGaD": 0.0031805769362281545
   },
+  "n_trials": 0.0,
   "prediction": 0.000707711790566149,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

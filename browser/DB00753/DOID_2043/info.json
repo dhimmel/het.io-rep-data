@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGaD": 0.6184036619115874,
     "CbGeAlD": 0.026966518708681924,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1588675829850266,
     "CrCbGaD": 0.013674627259647494
   },
+  "n_trials": 0.0,
   "prediction": 0.00200479874435795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

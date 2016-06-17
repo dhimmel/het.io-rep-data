@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.2941329277103954,
     "CbGbCtD": 0.40356723291689545,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002474932944251588,
     "CrCrCtD": 0.17248704516073948
   },
+  "n_trials": 0.0,
   "prediction": 0.00491276461437985,
   "status": 0,
   "training_prediction": 0.0261700513071546

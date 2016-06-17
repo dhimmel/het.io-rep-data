@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01610",
   "compound_name": "Valganciclovir",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5442132639791939,
   "metapath_contribution": {
     "CbGaD": 0.7701215438962125,
     "CbGpPWpGaD": 0.07210243616280221,
     "CcSEcCtD": 0.1551676787201606,
     "CrCbGaD": 0.002608341220824759
   },
+  "n_trials": 0.0,
   "prediction": 0.00154770991384055,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

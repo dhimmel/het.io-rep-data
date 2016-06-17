@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0396618985695709,
   "metapath_contribution": {
     "CbGbCtD": 0.2295613184214094,
     "CbGeAlD": 0.08952280916040485,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.34340217621519875,
     "CrCbGaD": 0.011443205948018372
   },
+  "n_trials": 0.0,
   "prediction": 0.000737900740971426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

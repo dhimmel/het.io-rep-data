@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.566970091027308,
   "metapath_contribution": {
     "CbGaD": 0.4112869916634963,
     "CbGbCtD": 0.3857014605856742,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1844140815223007,
     "CrCbGaD": 0.0032616672987127514
   },
+  "n_trials": 0.0,
   "prediction": 0.0025754872967444103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

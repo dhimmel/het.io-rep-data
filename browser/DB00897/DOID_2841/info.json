@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00897",
   "compound_name": "Triazolam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.743172951885566,
   "metapath_contribution": {
     "CbGaD": 0.4393904282397099,
     "CbGbCtD": 0.3894016895161605,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14788646466265393,
     "CrCbGaD": 0.002728195099094525
   },
+  "n_trials": 0.0,
   "prediction": 0.00404500868952043,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

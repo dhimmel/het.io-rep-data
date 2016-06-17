@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.0273081924577373,
   "metapath_contribution": {
     "CbGbCtD": 0.7247328309663458,
     "CbGdCrCtD": 0.0034469003754915048,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20160096972960478,
     "CrCbGaD": 0.006395638724065488
   },
+  "n_trials": 0.0,
   "prediction": 0.000662912358799926,
   "status": 0,
   "training_prediction": 0.00487241830477685

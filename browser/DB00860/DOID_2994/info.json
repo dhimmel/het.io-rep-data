@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.011703511053316002,
   "metapath_contribution": {
     "CbGbCtD": 0.6516493252792143,
     "CbGeAlD": 0.060448732440738645,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.175228327837943,
     "CrCbGaD": 0.004821338578154741
   },
+  "n_trials": 2.0,
   "prediction": 0.000548514980799468,
   "status": 0,
   "training_prediction": 0.00795998255464725

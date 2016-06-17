@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.8459037711313391,
   "metapath_contribution": {
     "CbGaD": 0.8056459919020638,
     "CbGeAlD": 0.04024401390836322,
     "CbGpPWpGaD": 0.14517212612417701,
     "CrCbGaD": 0.008937868065395978
   },
+  "n_trials": 0.0,
   "prediction": 0.00231327714661276,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

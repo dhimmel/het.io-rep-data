@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
     "CbGaD": 0.705970889216973,
     "CbGbCtD": 0.01320566539049216,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21178569645631193,
     "CrCbGaD": 0.006258875660268792
   },
+  "n_trials": 0.0,
   "prediction": 0.00378720940115185,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

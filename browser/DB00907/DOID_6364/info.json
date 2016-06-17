@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGaD": 0.3321724943822062,
     "CbGbCtD": 0.5363203157341492,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.031054982463144813,
     "CrCbGaD": 0.004354235491182071
   },
+  "n_trials": 0.0,
   "prediction": 0.00563429857222124,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

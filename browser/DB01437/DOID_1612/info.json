@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01437",
   "compound_name": "Glutethimide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.32444733420026,
   "metapath_contribution": {
-    "CbGaD": 0.647640666459908,
-    "CbGbCtD": 0.11150149208553439,
-    "CbGeAlD": 0.07217803633270184,
-    "CbGpPWpGaD": 0.15819394026464387,
-    "CrCbGaD": 0.010485864857211947
+    "CbGaD": 0.6476406664599079,
+    "CbGbCtD": 0.11150149208553436,
+    "CbGeAlD": 0.07217803633270183,
+    "CbGpPWpGaD": 0.15819394026464384,
+    "CrCbGaD": 0.010485864857211945
   },
+  "n_trials": 0.0,
   "prediction": 0.00170832941062854,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

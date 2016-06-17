@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04877",
   "compound_name": "Voacamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.669700910273082,
   "metapath_contribution": {
     "CbGbCtD": 0.2444226526082053,
     "CrCbGaD": 0.0016420971197880776,
     "CrCrCtD": 0.2751401485694233,
     "CrCtD": 0.4787951017025833
   },
+  "n_trials": 0.0,
   "prediction": 0.00615427947388857,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00286",
   "compound_name": "Conjugated Estrogens",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.44928478543563105,
   "metapath_contribution": {
     "CbGaD": 0.229222796509006,
     "CbGbCtD": 0.5512216884344685,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1365059538896148,
     "CrCbGaD": 0.002725004941395683
   },
+  "n_trials": 3.0,
   "prediction": 0.0021528841951667,
   "status": 0,
   "training_prediction": 0.0190533052509811

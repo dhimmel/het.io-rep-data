@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.5721716514954489,
   "metapath_contribution": {
     "CbGbCtD": 0.7554867010622603,
     "CbGeAlD": 0.00401910122342143,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17502662903962152,
     "CrCbGaD": 0.005890169538545224
   },
+  "n_trials": 0.0,
   "prediction": 0.00268139749893578,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

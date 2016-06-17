@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.6898569570871259,
   "metapath_contribution": {
     "CbGaD": 0.604165817207766,
     "CbGbCtD": 0.18924639258182352,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10598488810953355,
     "CcSEcCtD": 0.06448575686041007
   },
+  "n_trials": 0.0,
   "prediction": 0.00171780705327049,
   "status": 0,
   "training_prediction": 0.00348726415691944

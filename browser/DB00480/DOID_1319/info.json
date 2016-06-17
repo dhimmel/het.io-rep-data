@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.6742522756827048,
   "metapath_contribution": {
     "CbGbCtD": 0.041376777425475235,
     "CbGeAlD": 0.20074775668713407,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5499857708512932,
     "CrCbGaD": 0.006310211139479947
   },
+  "n_trials": 3.0,
   "prediction": 0.00200715036997143,
   "status": 0,
   "training_prediction": 0.00366538964641963

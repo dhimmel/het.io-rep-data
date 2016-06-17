@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.20938064559079805,
     "CbGbCtD": 0.26673075073227553,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07487016383614262,
     "CiPCiCtD": 0.35861819177790005
   },
+  "n_trials": 3.0,
   "prediction": 0.0179326163330149,
   "status": 0,
   "training_prediction": 0.0448082849852775

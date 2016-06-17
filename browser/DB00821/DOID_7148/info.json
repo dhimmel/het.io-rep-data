@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.7574772431729521,
   "metapath_contribution": {
     "CbGaD": 0.4012045700388888,
     "CbGbCtD": 0.544046497275098,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04525237064805273,
     "CrCbGaD": 0.0045580081261481775
   },
+  "n_trials": 0.0,
   "prediction": 0.0026549139853638,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

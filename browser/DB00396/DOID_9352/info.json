@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.561768530559168,
   "metapath_contribution": {
     "CbGaD": 0.3502714960684451,
     "CbGbCtD": 0.39627336835666754,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13656784664112945,
     "CrCbGaD": 0.004410729572883901
   },
+  "n_trials": 0.0,
   "prediction": 0.00277965326483366,
   "status": 0,
   "training_prediction": 0.0121766274942374

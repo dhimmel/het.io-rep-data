@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.373862158647594,
   "metapath_contribution": {
     "CbGdCrCtD": 0.003849005487602725,
     "CbGeAlD": 0.010865712161596692,
     "CcSEcCtD": 0.09894154315815074,
     "CiPCiCtD": 0.8863437391926497
   },
+  "n_trials": 0.0,
   "prediction": 0.0017736516786017102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.546814044213264,
   "metapath_contribution": {
     "CbGaD": 0.479260957929491,
     "CbGbCtD": 0.3218415078830691,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1211256838615841,
     "CrCbGaD": 0.0021453913166412228
   },
+  "n_trials": 0.0,
   "prediction": 0.00148503964655319,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

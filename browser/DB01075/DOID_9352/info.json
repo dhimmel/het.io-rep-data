@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.1184108938603168,
     "CbGbCtD": 0.32460015124943203,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.002683696276660193,
     "CrCrCtD": 0.0953029884870477
   },
+  "n_trials": 0.0,
   "prediction": 0.0035418172173243205,
   "status": 0,
   "training_prediction": 0.0255647611848841

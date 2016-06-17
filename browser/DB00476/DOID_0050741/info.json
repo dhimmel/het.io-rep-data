@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.2770385738142619,
     "CbGbCtD": 0.21797478847211693,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.335061883658031,
     "CrCbGaD": 0.0014781904447373714
   },
+  "n_trials": 0.0,
   "prediction": 0.0141645727420408,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

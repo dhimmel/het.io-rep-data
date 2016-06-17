@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01018",
   "compound_name": "Guanfacine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.767230169050715,
   "metapath_contribution": {
     "CbGaD": 0.24440932013086117,
     "CbGbCtD": 0.31671420695063063,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0031217552564220433,
     "CrCrCtD": 0.2695953471602412
   },
+  "n_trials": 0.0,
   "prediction": 0.0071819407759349295,
   "status": 0,
   "training_prediction": 0.0342982807941116

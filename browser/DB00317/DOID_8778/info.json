@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.260078023407022,
   "metapath_contribution": {
     "CbGaD": 0.2938122926111059,
     "CbGbCtD": 0.22220304648857228,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14734321416853727,
     "CrCbGaD": 0.008328238646050088
   },
+  "n_trials": 0.0,
   "prediction": 0.00114124149949542,
   "status": 0,
   "training_prediction": 0.0018618973613468899

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00183",
   "compound_name": "Pentagastrin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.17109282812812365,
     "CbGbCtD": 0.005543451747571014,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.28143968220387394,
     "CrCtD": 0.502634582659861
   },
+  "n_trials": 0.0,
   "prediction": 0.0162297048447676,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

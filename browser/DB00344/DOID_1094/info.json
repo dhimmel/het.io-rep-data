@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00344",
   "compound_name": "Protriptyline",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.73146944083225,
   "metapath_contribution": {
     "CbGaD": 0.9184379729076793,
     "CbGeAlD": 0.054195225158647706,
     "CbGpPWpGaD": 0.01795044437843679,
     "CrCbGaD": 0.009416357555236171
   },
+  "n_trials": 0.0,
   "prediction": 0.00195439147783446,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

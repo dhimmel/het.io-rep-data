@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.28868660598179496,
   "metapath_contribution": {
     "CbGaD": 0.2010431312212605,
     "CbGbCtD": 0.2749042578023676,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21373561431474614,
     "CrCbGaD": 5.5673613083890506e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00108144174099571,
   "status": 0,
   "training_prediction": 0.00257882686420258

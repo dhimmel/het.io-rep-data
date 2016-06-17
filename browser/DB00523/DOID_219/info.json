@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.120286085825748,
   "metapath_contribution": {
     "CbGaD": 0.49207278527421056,
     "CbGbCtD": 0.012602793357368492,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15194183589831964,
     "CcSEcCtD": 0.2818729644340025
   },
+  "n_trials": 0.0,
   "prediction": 0.0008395010904124731,
   "status": 0,
   "training_prediction": 0.00199696013783923

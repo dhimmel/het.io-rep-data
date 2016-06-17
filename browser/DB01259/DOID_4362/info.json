@@ -1,16 +1,19 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
-    "CbGaD": 0.632764413492012,
+    "CbGaD": 0.6327644134920118,
     "CbGbCtD": 0.09486151004874566,
-    "CbGeAlD": 0.10433228964639403,
-    "CbGpPWpGaD": 0.09944633640519467,
+    "CbGeAlD": 0.10433228964639402,
+    "CbGpPWpGaD": 0.09944633640519465,
     "CcSEcCtD": 0.06601783149696826,
-    "CrCbGaD": 0.0025776189106855494
+    "CrCbGaD": 0.002577618910685549
   },
+  "n_trials": 1.0,
   "prediction": 0.00366065288657425,
   "status": 0,
   "training_prediction": 0.0016523173763702

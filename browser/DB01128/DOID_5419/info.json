@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01128",
   "compound_name": "Bicalutamide",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.8238724147144721,
     "CbGeAlD": 0.06388713340833146,
     "CbGpPWpGaD": 0.10593966319716244,
     "CrCbGaD": 0.006300788680033908
   },
+  "n_trials": 0.0,
   "prediction": 0.0023864971023062,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

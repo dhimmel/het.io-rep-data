@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.23760320827464076,
     "CbGbCtD": 0.17905186107341317,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.4598021513698133,
     "CrCbGaD": 0.0015950683252460437
   },
+  "n_trials": 0.0,
   "prediction": 0.0119830166188018,
   "status": 0,
   "training_prediction": 0.132876759334651

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.08486551985816403,
     "CbGbCtD": 0.13424408878251537,
@@ -15,7 +17,7 @@
     "CrCrCtD": 0.13957289480820254,
     "CrCtD": 0.20720902571130187
   },
+  "n_trials": 0.0,
   "prediction": 0.603481306923062,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01005",
   "compound_name": "Hydroxyurea",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0025051883140354285,
     "CbGeAlD": 0.029474497706509287,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12387715112194043,
     "CtDrD": 0.8417703929529392
   },
+  "n_trials": 0.0,
   "prediction": 0.00603368724429548,
   "status": 0,
   "training_prediction": 0.0274418118491919

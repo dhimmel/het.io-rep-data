@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.294117647058824,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.256827048114434,
   "metapath_contribution": {
     "CbGbCtD": 0.03023877523529775,
     "CbGpPWpGaD": 0.0885027167396829,
     "CcSEcCtD": 0.8564141848543252,
     "CrCbGaD": 0.02484432317069414
   },
+  "n_trials": 0.0,
   "prediction": 0.0010740503898599599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

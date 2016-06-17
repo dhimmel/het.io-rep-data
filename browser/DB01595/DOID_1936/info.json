@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.42782834850455104,
   "metapath_contribution": {
     "CbGbCtD": 0.4744878425086973,
     "CbGpPWpGaD": 0.10427216897671746,
     "CcSEcCtD": 0.4205111523300324,
     "CrCbGaD": 0.0007288361845528091
   },
+  "n_trials": 0.0,
   "prediction": 0.00162040394614998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

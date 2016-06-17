@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.7639791937581271,
   "metapath_contribution": {
     "CbGaD": 0.6850932371024784,
     "CbGeAlD": 0.030656808176447222,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19145405111466626,
     "CrCbGaD": 0.00426408878215226
   },
+  "n_trials": 0.0,
   "prediction": 0.00235430577501717,
   "status": 0,
   "training_prediction": 0.00288928067040057

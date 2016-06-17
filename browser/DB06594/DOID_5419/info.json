@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06594",
   "compound_name": "Agomelatine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.7652795838751629,
   "metapath_contribution": {
-    "CbGaD": 0.7548002840995336,
-    "CbGeAlD": 0.06154769888880257,
-    "CbGpPWpGaD": 0.17912145067326232,
-    "CrCbGaD": 0.00453056633840156
+    "CbGaD": 0.7548002840995335,
+    "CbGeAlD": 0.06154769888880256,
+    "CbGpPWpGaD": 0.1791214506732623,
+    "CrCbGaD": 0.004530566338401559
   },
+  "n_trials": 1.0,
   "prediction": 0.00221367729740749,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

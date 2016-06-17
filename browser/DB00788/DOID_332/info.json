@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.47789336801040294,
   "metapath_contribution": {
     "CbGaD": 0.43558685743144365,
     "CbGbCtD": 0.23246453225744035,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2844771147050315,
     "CrCbGaD": 0.004817918119864624
   },
+  "n_trials": 0.0,
   "prediction": 0.00124649079436886,
   "status": 0,
   "training_prediction": 0.000561884501490005

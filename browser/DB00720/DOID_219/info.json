@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.710663198959688,
   "metapath_contribution": {
     "CbGaD": 0.6584001908365917,
     "CbGdCrCtD": 0.0073208634249418555,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05217604514120856,
     "CcSEcCtD": 0.1514051592644483
   },
+  "n_trials": 0.0,
   "prediction": 0.00210606651865778,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

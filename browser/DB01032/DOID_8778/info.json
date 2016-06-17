@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.44290716819215387,
     "CbGbCtD": 0.4129631884363381,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.020574058706197752,
     "CrCbGaD": 0.0017679698879714584
   },
+  "n_trials": 0.0,
   "prediction": 0.0037623448367942796,
   "status": 0,
   "training_prediction": 0.00612798559056085

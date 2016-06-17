@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01361",
   "compound_name": "Troleandomycin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.4603381014304289,
   "metapath_contribution": {
     "CbGaD": 0.2619012360461715,
     "CbGbCtD": 0.6280669757963756,
     "CbGpPWpGaD": 0.1066850390659567,
     "CrCbGaD": 0.0033467490914962784
   },
+  "n_trials": 0.0,
   "prediction": 0.0021799208684849898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.32791771289211846,
     "CbGbCtD": 0.4625475421328042,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07285857301768775,
     "CrCbGaD": 0.002501179090789934
   },
+  "n_trials": 0.0,
   "prediction": 0.0060995044925504,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00903",
   "compound_name": "Ethacrynic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.16390620339820453,
     "CbGbCtD": 0.14387069081552362,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.42259551982402893,
     "CpDpCtD": 0.19841245982190522
   },
+  "n_trials": 0.0,
   "prediction": 0.0656234040440269,
   "status": 0,
   "training_prediction": 0.274741571377839

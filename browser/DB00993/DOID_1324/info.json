@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.3121108978824068,
     "CbGbCtD": 0.1341500345501119,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.41893253841639355,
     "CrCbGaD": 0.0011531678303544062
   },
+  "n_trials": 0.0,
   "prediction": 0.0184045951554625,
   "status": 0,
   "training_prediction": 0.20364940707745802

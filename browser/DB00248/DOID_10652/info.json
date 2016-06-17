@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
-    "CbGaD": 0.1052139903516519,
-    "CbGbCtD": 0.17443619314765882,
-    "CbGeAlD": 0.05193151368509153,
-    "CbGpPWpGaD": 0.058852988692928807,
-    "CcSEcCtD": 0.10290887347778754,
-    "CpDpCtD": 0.5054156307329282,
-    "CrCbGaD": 0.0012408099119531131
+    "CbGaD": 0.10521399035165191,
+    "CbGbCtD": 0.17443619314765885,
+    "CbGeAlD": 0.05193151368509154,
+    "CbGpPWpGaD": 0.05885298869292881,
+    "CcSEcCtD": 0.10290887347778756,
+    "CpDpCtD": 0.5054156307329283,
+    "CrCbGaD": 0.0012408099119531133
   },
+  "n_trials": 0.0,
   "prediction": 0.00587114103992938,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06730",
   "compound_name": "Gestodene",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.328998699609883,
   "metapath_contribution": {
     "CbGaD": 0.3664830935076739,
     "CbGbCtD": 0.595658918753534,
     "CbGpPWpGaD": 0.03305355793083955,
     "CrCbGaD": 0.004804429807952584
   },
+  "n_trials": 0.0,
   "prediction": 0.00254097388700753,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

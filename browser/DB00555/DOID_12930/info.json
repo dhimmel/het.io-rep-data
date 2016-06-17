@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00555",
   "compound_name": "Lamotrigine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.6869884182212062,
     "CbGbCtD": 0.05448592933375814,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07290981888481494,
     "CcSEcCtD": 0.10231642644579615
   },
+  "n_trials": 0.0,
   "prediction": 0.00313990138459702,
   "status": 0,
   "training_prediction": 0.00309748882538058

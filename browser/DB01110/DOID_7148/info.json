@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGaD": 0.41886730766513824,
     "CbGbCtD": 0.400696622839655,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10102295765247178,
     "CcSEcCtD": 0.06868281509968101
   },
+  "n_trials": 0.0,
   "prediction": 0.0033128914276015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

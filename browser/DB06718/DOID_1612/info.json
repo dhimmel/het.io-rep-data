@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06718",
   "compound_name": "Stanozolol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.1921299308331948,
     "CbGbCtD": 0.16705386328989225,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.21380990917559847,
     "CrCtD": 0.3905660583901835
   },
+  "n_trials": 0.0,
   "prediction": 0.0116107304038306,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

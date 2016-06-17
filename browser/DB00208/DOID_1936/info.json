@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.35960183726820566,
     "CbGbCtD": 0.4009758434233077,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0779706679644403,
     "CcSEcCtD": 0.12406846841554721
   },
+  "n_trials": 4.0,
   "prediction": 0.0035254695784991295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

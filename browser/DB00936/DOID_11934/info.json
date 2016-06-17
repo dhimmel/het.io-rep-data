@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.291937581274382,
   "metapath_contribution": {
     "CbGaD": 0.49280911441706815,
     "CbGbCtD": 0.43634349909224923,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04539460559340469,
     "CrCbGaD": 0.007763431707375432
   },
+  "n_trials": 1.0,
   "prediction": 0.00108015922489117,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

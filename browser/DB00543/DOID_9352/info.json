@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7223667100130041,
   "metapath_contribution": {
     "CbGaD": 0.29995498946626786,
     "CbGbCtD": 0.4277204182529398,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13722488599697563,
     "CrCbGaD": 0.0029639226072612187
   },
+  "n_trials": 0.0,
   "prediction": 0.00405278452375388,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

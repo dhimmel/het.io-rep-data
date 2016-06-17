@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.46749024707412196,
   "metapath_contribution": {
     "CbGaD": 0.3153750195571604,
     "CbGbCtD": 0.4369796143201634,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1963597190937238,
     "CrCbGaD": 0.0031876091960206018
   },
+  "n_trials": 0.0,
   "prediction": 0.0023737371144261802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

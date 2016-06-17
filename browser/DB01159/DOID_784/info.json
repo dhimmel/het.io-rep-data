@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.6966214832743777,
     "CbGeAlD": 0.0994578408300157,
     "CbGpPWpGaD": 0.20011929318291866,
     "CrCbGaD": 0.0038013827126880096
   },
+  "n_trials": 0.0,
   "prediction": 0.00324857919938703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

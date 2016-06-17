@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00946",
   "compound_name": "Phenprocoumon",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.44538361508452506,
   "metapath_contribution": {
     "CbGaD": 0.7920114638184129,
     "CbGeAlD": 0.05601094421280793,
     "CbGpPWpGaD": 0.14070870526084667,
     "CrCbGaD": 0.011268886707932456
   },
+  "n_trials": 0.0,
   "prediction": 0.00144781441939814,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

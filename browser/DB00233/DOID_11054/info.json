@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.5036357440062263,
     "CbGbCtD": 0.3064746124262415,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06902520968305807,
     "CrCbGaD": 0.0024233543234082576
   },
+  "n_trials": 0.0,
   "prediction": 0.00332228729042017,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

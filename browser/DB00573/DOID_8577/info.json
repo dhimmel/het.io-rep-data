@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.2557225976090545,
     "CbGbCtD": 0.26974913441691284,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0024576414502217527,
     "CrCrCtD": 0.15908712033687855
   },
+  "n_trials": 0.0,
   "prediction": 0.00902380474734878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

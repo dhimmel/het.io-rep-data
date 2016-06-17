@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00637",
   "compound_name": "Astemizole",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGaD": 0.3633332439913257,
     "CbGbCtD": 0.5025439479469557,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1205638597989009,
     "CrCbGaD": 0.0019955642192133645
   },
+  "n_trials": 0.0,
   "prediction": 0.00250271218930796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

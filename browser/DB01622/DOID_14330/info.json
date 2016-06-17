@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.5728218465539661,
   "metapath_contribution": {
     "CbGaD": 0.811394804935455,
     "CbGeAlD": 0.07709645662998502,
     "CbGpPWpGaD": 0.10343247802200944,
     "CrCbGaD": 0.008076260412550551
   },
+  "n_trials": 0.0,
   "prediction": 0.0015306645706490301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

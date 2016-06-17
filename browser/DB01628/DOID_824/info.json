@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.7093628088426529,
   "metapath_contribution": {
     "CbGaD": 0.852442897750577,
     "CbGeAlD": 0.016066673457595836,
     "CbGpPWpGaD": 0.1298085479739386,
     "CrCbGaD": 0.0016818808178885429
   },
+  "n_trials": 1.0,
   "prediction": 0.00164532846239971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

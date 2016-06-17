@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.26319580773195234,
     "CbGbCtD": 0.44493621179202975,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002567189525339455,
     "CrCrCtD": 0.20713994146070833
   },
+  "n_trials": 0.0,
   "prediction": 0.00620441051622102,
   "status": 0,
   "training_prediction": 0.0440513979224952

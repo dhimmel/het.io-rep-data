@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.7373211963589079,
   "metapath_contribution": {
     "CbGaD": 0.3183864644755376,
     "CbGbCtD": 0.3750004788014728,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15971159635526566,
     "CrCbGaD": 0.0004444982566832217
   },
+  "n_trials": 0.0,
   "prediction": 0.00253550525503335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGaD": 0.42069990492621884,
     "CbGbCtD": 0.19386162019552697,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1840248354921232,
     "CrCbGaD": 0.0008214699851818778
   },
+  "n_trials": 1.0,
   "prediction": 0.0034385334776584602,
   "status": 0,
   "training_prediction": 0.0041719318968147295

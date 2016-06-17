@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.5019505851755529,
   "metapath_contribution": {
     "CbGaD": 0.47962217842842014,
     "CbGeAlD": 0.16198669539628685,
     "CbGpPWpGaD": 0.35217996198102036,
     "CrCbGaD": 0.006211164194272648
   },
+  "n_trials": 0.0,
   "prediction": 0.0012303687630053099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

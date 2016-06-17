@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00490",
   "compound_name": "Buspirone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGaD": 0.4422289233517355,
     "CbGbCtD": 0.31488032795415577,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.051329729242876515,
     "CcSEcCtD": 0.175768500026433
   },
+  "n_trials": 0.0,
   "prediction": 0.00522566437148971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

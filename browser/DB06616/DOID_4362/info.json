@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06616",
   "compound_name": "Bosutinib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.701560468140442,
   "metapath_contribution": {
     "CbGaD": 0.4596314332158379,
     "CbGdCrCtD": 0.007840450240443414,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04960381552204713,
     "CrCbGaD": 0.004326947980266069
   },
+  "n_trials": 0.0,
   "prediction": 0.0017617267531501398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

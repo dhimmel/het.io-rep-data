@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08816",
   "compound_name": "Ticagrelor",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.809492847854356,
   "metapath_contribution": {
     "CbGaD": 0.10324734849042468,
     "CbGbCtD": 0.2599910645159532,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10647639708037328,
     "CiPCiCtD": 0.49399711784668937
   },
+  "n_trials": 0.0,
   "prediction": 0.0088580971416924,
   "status": 0,
   "training_prediction": 0.0420350359183614

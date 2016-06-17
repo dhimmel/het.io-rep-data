@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGaD": 0.7088807383941235,
     "CbGeAlD": 0.037061151488066595,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09113308562577048,
     "CrCbGaD": 0.005599629181811834
   },
+  "n_trials": 0.0,
   "prediction": 0.00302416159579166,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

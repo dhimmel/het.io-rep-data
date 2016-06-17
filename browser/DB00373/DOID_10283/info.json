@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00373",
   "compound_name": "Timolol",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.37395424423089063,
     "CbGbCtD": 0.37445910661789317,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17932054656863536,
     "CrCbGaD": 0.0020308974343403027
   },
+  "n_trials": 0.0,
   "prediction": 0.004004049374592179,
   "status": 0,
   "training_prediction": 0.0465934361134357

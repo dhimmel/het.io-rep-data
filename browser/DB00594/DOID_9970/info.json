@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00594",
   "compound_name": "Amiloride",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.1762556473591204,
     "CbGbCtD": 0.15754242213423875,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08054734249236646,
     "CtDrD": 0.4686760212545171
   },
+  "n_trials": 0.0,
   "prediction": 0.0111809288071374,
   "status": 0,
   "training_prediction": 0.0282286775180436

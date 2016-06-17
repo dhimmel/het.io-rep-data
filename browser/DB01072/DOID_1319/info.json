@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01072",
   "compound_name": "Atazanavir",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.809492847854356,
   "metapath_contribution": {
     "CbGaD": 0.6288986005201781,
     "CbGbCtD": 0.2309353489549247,
     "CcSEcCtD": 0.1355115070975858,
     "CrCbGaD": 0.004654543427311471
   },
+  "n_trials": 0.0,
   "prediction": 0.0024696345833520005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

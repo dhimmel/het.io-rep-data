@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.264705882352941,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.177503250975293,
   "metapath_contribution": {
     "CbGbCtD": 0.018828860325347214,
     "CbGeAlD": 0.264978531517431,
     "CbGpPWpGaD": 0.715272834457794,
     "CrCbGaD": 0.0009197736994278038
   },
+  "n_trials": 0.0,
   "prediction": 0.000863189394983912,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

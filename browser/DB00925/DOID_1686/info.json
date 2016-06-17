@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.679453836150845,
   "metapath_contribution": {
     "CbGbCtD": 0.8693931035164759,
     "CbGdCrCtD": 0.0020447966876384538,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05941302127920126,
     "CrCbGaD": 5.845833382986536e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00249367293677955,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

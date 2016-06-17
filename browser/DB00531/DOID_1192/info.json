@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.22566094288514268,
     "CbGbCtD": 0.5181547820197544,
     "CcSEcCtD": 0.25618427509510283
   },
+  "n_trials": 40.0,
   "prediction": 0.0049620641316052,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

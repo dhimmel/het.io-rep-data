@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6742522756827048,
   "metapath_contribution": {
     "CbGaD": 0.3433558440413179,
     "CbGbCtD": 0.3944281227581687,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12497869576905121,
     "CrCbGaD": 0.0017985596011387051
   },
+  "n_trials": 4.0,
   "prediction": 0.0035844243328745397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

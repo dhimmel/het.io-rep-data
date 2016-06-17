@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.785435630689207,
   "metapath_contribution": {
     "CbGaD": 0.6180959892953586,
     "CbGbCtD": 0.26087791039228875,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.08692871785594442,
     "CrCbGaD": 0.0047609818865387765
   },
+  "n_trials": 0.0,
   "prediction": 0.00327856033390202,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

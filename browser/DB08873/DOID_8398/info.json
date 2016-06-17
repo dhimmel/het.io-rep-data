@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.764623326425195,
     "CbGeAlD": 0.05263318645418957,
     "CbGpPWpGaD": 0.17556942114138585,
     "CrCbGaD": 0.007174065979229558
   },
+  "n_trials": 0.0,
   "prediction": 0.00451789449423733,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

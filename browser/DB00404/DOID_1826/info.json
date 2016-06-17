@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.11073221999180474,
     "CbGbCtD": 0.13615164137016939,
@@ -15,7 +17,7 @@
     "CrCrCtD": 0.13197276178701353,
     "CrCtD": 0.18805959747555234
   },
+  "n_trials": 1.0,
   "prediction": 0.564904071406564,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

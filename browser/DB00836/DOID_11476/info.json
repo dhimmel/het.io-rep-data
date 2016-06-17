@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.4334638962107224,
     "CbGbCtD": 0.22937788377246865,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0013136112630849964,
     "CrCrCtD": 0.17037028360252324
   },
+  "n_trials": 0.0,
   "prediction": 0.00437935732251248,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

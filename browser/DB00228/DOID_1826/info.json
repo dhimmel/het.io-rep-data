@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.2566979694438095,
     "CbGbCtD": 0.16211073959006098,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.4522116582487076,
     "CrCbGaD": 0.0026500704119154757
   },
+  "n_trials": 0.0,
   "prediction": 0.0502904850182548,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

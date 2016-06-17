@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8686605981794541,
   "metapath_contribution": {
     "CbGaD": 0.579976256071128,
     "CbGbCtD": 0.1171944081038325,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1717073947323684,
     "CrCbGaD": 0.0033477107410344884
   },
+  "n_trials": 1.0,
   "prediction": 0.00591656152592118,
   "status": 0,
   "training_prediction": 0.0319830148442866

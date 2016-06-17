@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00929",
   "compound_name": "Misoprostol",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.315994798439532,
   "metapath_contribution": {
     "CbGeAlD": 0.15128966974479174,
     "CbGpPWpGaD": 0.3072205730629222,
     "CcSEcCtD": 0.5254222767840733,
     "CrCbGaD": 0.016067480408212674
   },
+  "n_trials": 0.0,
   "prediction": 0.0016013895290717,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

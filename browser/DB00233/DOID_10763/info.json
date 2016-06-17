@@ -1,19 +1,21 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
-    "CbGaD": 0.21297077709126833,
-    "CbGbCtD": 0.10658623008804216,
-    "CbGeAlD": 0.020430818613577695,
-    "CbGpPWpGaD": 0.05513119724870604,
-    "CcSEcCtD": 0.07205527876910799,
-    "CrCbGaD": 0.001903237351227499,
-    "CrCrCtD": 0.1790334219584118,
-    "CrCtD": 0.3518890388796584
+    "CbGaD": 0.21297077709126838,
+    "CbGbCtD": 0.10658623008804219,
+    "CbGeAlD": 0.0204308186135777,
+    "CbGpPWpGaD": 0.05513119724870606,
+    "CcSEcCtD": 0.07205527876910801,
+    "CrCbGaD": 0.0019032373512274997,
+    "CrCrCtD": 0.17903342195841185,
+    "CrCtD": 0.35188903887965844
   },
+  "n_trials": 0.0,
   "prediction": 0.0210918767554509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

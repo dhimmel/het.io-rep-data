@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.7347204161248371,
   "metapath_contribution": {
     "CbGaD": 0.7709217633785838,
     "CbGbCtD": 0.1514112151219314,
     "CbGpPWpGaD": 0.07136203025482643,
     "CrCbGaD": 0.006304991244658456
   },
+  "n_trials": 0.0,
   "prediction": 0.00214643497296993,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

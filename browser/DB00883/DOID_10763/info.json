@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00883",
   "compound_name": "Isosorbide Dinitrate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.864109232769831,
   "metapath_contribution": {
     "CbGaD": 0.3410101659646521,
     "CbGbCtD": 0.12198951846576275,
@@ -14,6 +16,5 @@
     "CrCbGaD": 0.002438124221296092
   },
   "prediction": 0.0141568642236044,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

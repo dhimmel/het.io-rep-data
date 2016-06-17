@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.55331599479844,
   "metapath_contribution": {
     "CbGaD": 0.4414900977057086,
     "CbGbCtD": 0.4749902127996655,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0678922075948734,
     "CrCbGaD": 0.004720634439837279
   },
+  "n_trials": 0.0,
   "prediction": 0.00230198929881271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

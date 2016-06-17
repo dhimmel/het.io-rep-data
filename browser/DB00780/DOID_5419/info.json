@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.503250975292588,
   "metapath_contribution": {
     "CbGaD": 0.6229396762304752,
     "CbGeAlD": 0.1263228213366082,
     "CbGpPWpGaD": 0.2402109640202949,
     "CrCbGaD": 0.010526538412621803
   },
+  "n_trials": 0.0,
   "prediction": 0.0015707267539859199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGaD": 0.5766521726549068,
     "CbGbCtD": 0.17790690674655352,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07973229958434432,
     "CrCbGaD": 0.00391012884964377
   },
+  "n_trials": 0.0,
   "prediction": 0.00300295597373143,
   "status": 0,
   "training_prediction": 0.00670303926795501

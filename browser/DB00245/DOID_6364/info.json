@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00245",
   "compound_name": "Benzatropine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8107932379713909,
   "metapath_contribution": {
     "CbGbCtD": 0.2639239484710835,
     "CbGpPWpGaD": 0.029813438783317315,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0021341686171009798,
     "CrCrCtD": 0.2632285169890326
   },
+  "n_trials": 0.0,
   "prediction": 0.00498022050484116,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

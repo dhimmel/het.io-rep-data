@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.46944083224967503,
   "metapath_contribution": {
     "CbGaD": 0.8049016667301288,
     "CbGeAlD": 0.01191282072898896,
     "CbGpPWpGaD": 0.18197146508901602,
     "CrCbGaD": 0.0012140474518662061
   },
+  "n_trials": 0.0,
   "prediction": 0.00124857156894342,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

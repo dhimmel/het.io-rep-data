@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.597382536367218,
     "CbGbCtD": 0.20501885301459224,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.04722373404265921,
     "CbGpPWpGaD": 0.14757960946145265
   },
+  "n_trials": 0.0,
   "prediction": 0.00737766363253527,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01232",
   "compound_name": "Saquinavir",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.698309492847854,
   "metapath_contribution": {
     "CbGaD": 0.2698675903743409,
     "CbGbCtD": 0.5034373068022601,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.00944672104480904,
     "CcSEcCtD": 0.1995437497647803
   },
+  "n_trials": 0.0,
   "prediction": 0.0020511861634939,
   "status": 0,
   "training_prediction": 0.00334451771211758

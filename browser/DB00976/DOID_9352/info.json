@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00976",
   "compound_name": "Telithromycin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.59297789336801,
   "metapath_contribution": {
     "CbGaD": 0.3574311596841552,
     "CbGbCtD": 0.41756818616911673,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18752261974717885,
     "CrCbGaD": 0.0029898276369217536
   },
+  "n_trials": 0.0,
   "prediction": 0.00294584461857306,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

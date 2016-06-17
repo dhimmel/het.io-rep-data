@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00786",
   "compound_name": "Marimastat",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.7274360513035589,
     "CbGdCrCtD": 0.003238544026744157,
     "CbGeAlD": 0.0813757159821803,
     "CbGpPWpGaD": 0.1879496886875165
   },
+  "n_trials": 2.0,
   "prediction": 0.00697145753873212,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

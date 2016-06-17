@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00768",
   "compound_name": "Olopatadine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.284785435630689,
   "metapath_contribution": {
-    "CbGaD": 0.6792077130048341,
-    "CbGeAlD": 0.16285448804132333,
-    "CbGpPWpGaD": 0.14659051634588338,
-    "CrCbGaD": 0.011347282607959362
+    "CbGaD": 0.679207713004834,
+    "CbGeAlD": 0.1628544880413233,
+    "CbGpPWpGaD": 0.14659051634588335,
+    "CrCbGaD": 0.01134728260795936
   },
+  "n_trials": 0.0,
   "prediction": 0.0011650232635608301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB08800",
   "compound_name": "Chloropyramine",
+  "compound_percentile": 0.0441176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0825747724317295,
   "metapath_contribution": {
-    "CbGeAlD": 0.0373614268163008,
-    "CbGpPWpGaD": 0.956119414745432,
-    "CrCbGaD": 0.006519158438267039
+    "CbGeAlD": 0.03736142681630081,
+    "CbGpPWpGaD": 0.9561194147454322,
+    "CrCbGaD": 0.00651915843826704
   },
+  "n_trials": 0.0,
   "prediction": 0.000767146601029097,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

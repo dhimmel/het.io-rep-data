@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.3810143042912871,
   "metapath_contribution": {
     "CbGeAlD": 0.46848706640827803,
     "CbGpPWpGaD": 0.531512933591722
   },
+  "n_trials": 1.0,
   "prediction": 0.0010882431588310599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

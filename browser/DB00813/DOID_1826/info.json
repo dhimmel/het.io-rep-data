@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.769180754226268,
   "metapath_contribution": {
     "CbGaD": 0.26208961974498285,
     "CbGbCtD": 0.27093003758735773,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0032936955970664953,
     "CrCrCtD": 0.2721128942613624
   },
+  "n_trials": 0.0,
   "prediction": 0.0072349359407303795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.08948781779266106,
     "CbGbCtD": 0.18945620957637818,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.19107222958964676,
     "CrCtD": 0.37356559127049005
   },
+  "n_trials": 0.0,
   "prediction": 0.0383016711653148,
   "status": 0,
   "training_prediction": 0.163558030944161

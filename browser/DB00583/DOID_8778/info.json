@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.48365431684935084,
     "CbGbCtD": 0.3795795462883536,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.020442433264461934,
     "CrCbGaD": 0.0035763861983802965
   },
+  "n_trials": 1.0,
   "prediction": 0.0063226610080353105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

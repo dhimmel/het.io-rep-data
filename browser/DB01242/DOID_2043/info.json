@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.360208062418726,
   "metapath_contribution": {
     "CbGaD": 0.5891200235062161,
     "CbGeAlD": 0.035101001451235674,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3212573791788271,
     "CrCbGaD": 0.002277587157502444
   },
+  "n_trials": 0.0,
   "prediction": 0.00130174712709514,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

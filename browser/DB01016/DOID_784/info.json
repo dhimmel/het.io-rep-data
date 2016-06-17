@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.7762615497501929,
     "CbGeAlD": 0.07591028967042265,
     "CbGpPWpGaD": 0.14311356922226165,
     "CrCbGaD": 0.004714591357122854
   },
+  "n_trials": 0.0,
   "prediction": 0.00264312842519633,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00871",
   "compound_name": "Terbutaline",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.30949284785435605,
   "metapath_contribution": {
     "CbGbCtD": 0.6908512950795037,
     "CbGeAlD": 0.035036250016747865,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.26047613128279296,
     "CrCbGaD": 0.0016148427136607494
   },
+  "n_trials": 0.0,
   "prediction": 0.00127335412540918,
   "status": 0,
   "training_prediction": 0.00435444783293189

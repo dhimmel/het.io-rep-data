@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3121",
   "disease_name": "gallbladder cancer",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.8661026005354684,
     "CbGeAlD": 0.03670509397288133,
     "CbGpPWpGaD": 0.0867627425424415,
     "CrCbGaD": 0.010429562949208703
   },
+  "n_trials": 0.0,
   "prediction": 0.0021101185869369303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

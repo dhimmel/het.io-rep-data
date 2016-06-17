@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.327698309492848,
   "metapath_contribution": {
     "CbGbCtD": 0.2144385076409928,
     "CbGeAlD": 0.23760011792552707,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.25814350985212764,
     "CrCbGaD": 0.013028622449205232
   },
+  "n_trials": 0.0,
   "prediction": 0.00110650923303562,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

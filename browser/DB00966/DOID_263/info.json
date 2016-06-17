@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7347204161248371,
   "metapath_contribution": {
     "CbGaD": 0.18061099968107472,
     "CbGbCtD": 0.5551907938704178,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1849969254646439,
     "CrCbGaD": 0.0009107260787345295
   },
+  "n_trials": 0.0,
   "prediction": 0.00262011085603858,
   "status": 0,
   "training_prediction": 0.0126369074499622

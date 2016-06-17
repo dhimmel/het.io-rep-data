@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.12173719137969073,
     "CbGbCtD": 0.2160100354277545,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.22688712400642394,
     "CrCtD": 0.4319203289311516
   },
+  "n_trials": 0.0,
   "prediction": 0.0197337570634468,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

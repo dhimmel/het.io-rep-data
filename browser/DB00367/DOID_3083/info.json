@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.217815344603381,
   "metapath_contribution": {
-    "CbGbCtD": 0.14884632084660934,
-    "CbGeAlD": 0.00012101214811287289,
-    "CbGpPWpGaD": 0.06508281672172071,
-    "CcSEcCtD": 0.22836622678809945,
-    "CrCbGaD": 0.000962401241822345,
-    "CrCrCtD": 0.5566212222536354
+    "CbGbCtD": 0.14884632084660931,
+    "CbGeAlD": 0.00012101214811287286,
+    "CbGpPWpGaD": 0.0650828167217207,
+    "CcSEcCtD": 0.22836622678809942,
+    "CrCbGaD": 0.0009624012418223448,
+    "CrCrCtD": 0.5566212222536353
   },
+  "n_trials": 0.0,
   "prediction": 0.00142208021189232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00450",
   "compound_name": "Droperidol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
     "CbGaD": 0.3607408028766706,
     "CbGbCtD": 0.44864392634539924,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09961353784652219,
     "CrCbGaD": 0.00523285699966046
   },
+  "n_trials": 0.0,
   "prediction": 0.00290938073639436,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

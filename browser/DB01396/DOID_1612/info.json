@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01396",
   "compound_name": "Digitoxin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.277633289986996,
   "metapath_contribution": {
     "CbGaD": 0.3507091453978916,
     "CbGbCtD": 0.5049088299896931,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09591310470510941,
     "CrCbGaD": 0.0032672324925477284
   },
+  "n_trials": 0.0,
   "prediction": 0.00155530828448133,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

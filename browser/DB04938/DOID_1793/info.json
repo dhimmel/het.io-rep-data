@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04938",
   "compound_name": "Ospemifene",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGbCtD": 0.16904081683050148,
     "CbGpPWpGaD": 0.006071259570674332,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.26209936770650033,
     "CrCtD": 0.543824467379297
   },
+  "n_trials": 0.0,
   "prediction": 0.00432415432373845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,19 +1,21 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
-    "CbGaD": 0.10436317699054504,
-    "CbGbCtD": 0.23869166516966894,
-    "CbGeAlD": 0.005134762978498942,
-    "CbGpPWpGaD": 0.02837772284236217,
-    "CcSEcCtD": 0.06722268058023932,
-    "CiPCiCtD": 0.3869376508432364,
-    "CpDpCtD": 0.16824696493286473,
-    "CrCbGaD": 0.0010253756625843889
+    "CbGaD": 0.10436317699054506,
+    "CbGbCtD": 0.238691665169669,
+    "CbGeAlD": 0.005134762978498943,
+    "CbGpPWpGaD": 0.028377722842362174,
+    "CcSEcCtD": 0.06722268058023934,
+    "CiPCiCtD": 0.3869376508432365,
+    "CpDpCtD": 0.16824696493286476,
+    "CrCbGaD": 0.001025375662584389
   },
+  "n_trials": 0.0,
   "prediction": 0.0734333405416738,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

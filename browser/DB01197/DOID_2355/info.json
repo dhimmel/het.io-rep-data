@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.7572139975055133,
     "CbGeAlD": 0.11902790439987646,
     "CbGpPWpGaD": 0.12290138235618059,
     "CrCbGaD": 0.0008567157384297479
   },
+  "n_trials": 0.0,
   "prediction": 0.00349461756179981,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

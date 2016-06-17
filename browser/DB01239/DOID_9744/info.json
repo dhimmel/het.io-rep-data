@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.447984395318596,
   "metapath_contribution": {
     "CbGaD": 0.8343675416391467,
     "CbGeAlD": 0.008144026311290053,
     "CbGpPWpGaD": 0.15115306149936453,
     "CrCbGaD": 0.006335370550198734
   },
+  "n_trials": 0.0,
   "prediction": 0.0013226590969103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

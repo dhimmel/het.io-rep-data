@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.731090969522072,
     "CbGbCtD": 0.0820572720739442,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15571767135744954,
     "CrCbGaD": 0.0064156750129112
   },
+  "n_trials": 0.0,
   "prediction": 0.0038620433155716703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

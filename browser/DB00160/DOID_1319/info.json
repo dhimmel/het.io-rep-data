@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.23927178153446,
   "metapath_contribution": {
     "CbGdCrCtD": 0.03691794166923905,
     "CbGeAlD": 0.9399817076025813,
     "CrCbGaD": 0.023100350728179675
   },
+  "n_trials": 0.0,
   "prediction": 0.0010791635184996,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01295",
   "compound_name": "Bevantolol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.1608097130384775,
     "CbGbCtD": 0.22829056142327675,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2250147801903336,
     "CrCtD": 0.35397645575933395
   },
+  "n_trials": 0.0,
   "prediction": 0.0530101191819305,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

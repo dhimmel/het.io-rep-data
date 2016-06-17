@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.102730819245774,
   "metapath_contribution": {
     "CbGdCrCtD": 0.010116082375650419,
     "CbGeAlD": 0.08784855418736966,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5213033430165949,
     "CrCbGaD": 0.004278276479675744
   },
+  "n_trials": 0.0,
   "prediction": 0.000914379279734057,
   "status": 0,
   "training_prediction": 0.00491224298508711

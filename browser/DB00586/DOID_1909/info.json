@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGaD": 0.5097779466040739,
     "CbGbCtD": 0.2795644801431565,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08822773642697278,
     "CrCbGaD": 0.0011279612700521588
   },
+  "n_trials": 0.0,
   "prediction": 0.00241456218960445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGaD": 0.5116374279307746,
     "CbGbCtD": 0.14463925803403874,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12006152969357045,
     "CrCbGaD": 0.004161370055511961
   },
+  "n_trials": 0.0,
   "prediction": 0.0026769951147600102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

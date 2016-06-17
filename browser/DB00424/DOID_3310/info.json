@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00424",
   "compound_name": "Hyoscyamine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGbCtD": 0.17525186347821925,
     "CbGpPWpGaD": 0.00433025430415564,
@@ -10,6 +12,7 @@
     "CpDpCtD": 0.4236646508143734,
     "CrCrCtD": 0.2930996408813557
   },
+  "n_trials": 0.0,
   "prediction": 0.005088770075649071,
   "status": 0,
   "training_prediction": 0.01724251557939

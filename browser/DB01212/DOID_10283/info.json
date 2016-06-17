@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.19830949284785399,
   "metapath_contribution": {
     "CbGbCtD": 0.6171494782029678,
     "CbGeAlD": 0.04052177824632041,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24094439057891112,
     "CrCbGaD": 0.0011890097552052176
   },
+  "n_trials": 0.0,
   "prediction": 0.00121787468256311,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

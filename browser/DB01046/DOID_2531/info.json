@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01046",
   "compound_name": "Lubiprostone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.42912873862158596,
   "metapath_contribution": {
     "CbGbCtD": 0.38598573563334204,
     "CbGdCrCtD": 0.00858799040783978,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.43039374003358316,
     "CrCbGaD": 0.010461230422225118
   },
+  "n_trials": 0.0,
   "prediction": 0.0020287571417119603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

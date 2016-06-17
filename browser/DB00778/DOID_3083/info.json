@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00778",
   "compound_name": "Roxithromycin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGaD": 0.5663715797617879,
     "CbGbCtD": 0.3105841208008102,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10211287191170555,
     "CrCbGaD": 0.003927265675922327
   },
+  "n_trials": 0.0,
   "prediction": 0.0028109497482464198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

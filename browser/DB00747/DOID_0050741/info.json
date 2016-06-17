@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00747",
   "compound_name": "Scopolamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.4993794769240323,
     "CbGbCtD": 0.2560783167979983,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12363024078834953,
     "CrCbGaD": 0.004631403503747768
   },
+  "n_trials": 0.0,
   "prediction": 0.00518329512632604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

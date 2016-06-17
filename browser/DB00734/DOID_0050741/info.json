@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.32505093623422293,
     "CbGbCtD": 0.17776436230680495,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.28597108725517767,
     "CrCbGaD": 0.0027771006240123485
   },
+  "n_trials": 1.0,
   "prediction": 0.0182831693456596,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

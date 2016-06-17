@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGaD": 0.49676280812427026,
     "CbGbCtD": 0.31726705190448823,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14964020862431335,
     "CrCbGaD": 0.00740688287072375
   },
+  "n_trials": 0.0,
   "prediction": 0.00143355940250914,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

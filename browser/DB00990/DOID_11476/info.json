@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00990",
   "compound_name": "Exemestane",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.17142863527446006,
     "CbGbCtD": 0.11590634780327698,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.24158137950876496,
     "CrCtD": 0.40858316692925933
   },
+  "n_trials": 2.0,
   "prediction": 0.0365779805918752,
   "status": 0,
   "training_prediction": 0.11017677978704

@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01004",
   "compound_name": "Ganciclovir",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.180104031209363,
   "metapath_contribution": {
     "CbGeAlD": 0.0765619304891478,
     "CcSEcCtD": 0.9234380695108522
   },
+  "n_trials": 1.0,
   "prediction": 0.000965452978134425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

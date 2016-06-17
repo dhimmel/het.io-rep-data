@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01215",
   "compound_name": "Estazolam",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.273732119635891,
   "metapath_contribution": {
     "CbGaD": 0.19107339606377557,
     "CbGbCtD": 0.3414360260818542,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3924981037171843,
     "CrCbGaD": 0.004508364179358478
   },
+  "n_trials": 0.0,
   "prediction": 0.0015351806409203302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

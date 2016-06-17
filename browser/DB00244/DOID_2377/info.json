@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.17815344603381,
   "metapath_contribution": {
     "CbGbCtD": 0.3029010241858612,
     "CbGdCrCtD": 0.006924620373860712,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.33560302403807063,
     "CrCbGaD": 0.0052504946254522495
   },
+  "n_trials": 0.0,
   "prediction": 0.00119066304156589,
   "status": 0,
   "training_prediction": 0.00508191871567534

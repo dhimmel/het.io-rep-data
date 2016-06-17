@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.690507152145644,
   "metapath_contribution": {
     "CbGaD": 0.0783491325685427,
     "CbGbCtD": 0.2785804933362986,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.00044307859435820297,
     "CtDrD": 0.4443071835677561
   },
+  "n_trials": 0.0,
   "prediction": 0.00374494339124941,
   "status": 0,
   "training_prediction": 0.00956458836101022

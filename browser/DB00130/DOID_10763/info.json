@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.490897269180754,
   "metapath_contribution": {
     "CbGaD": 0.5735013183339088,
     "CbGdCrCtD": 0.0029993652223879643,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17033888072129255,
     "CrCbGaD": 0.0067972867118469785
   },
+  "n_trials": 0.0,
   "prediction": 0.00383548134842344,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

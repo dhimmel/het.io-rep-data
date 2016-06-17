@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00871",
   "compound_name": "Terbutaline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.1275244931596812,
     "CbGbCtD": 0.13051355541867438,
@@ -13,6 +15,7 @@
     "CrCtD": 0.2709050725262618,
     "CtDrD": 0.25574971131661856
   },
+  "n_trials": 3.0,
   "prediction": 0.0956430065132317,
   "status": 0,
   "training_prediction": 0.18928604884997896

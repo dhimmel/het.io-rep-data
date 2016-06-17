@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.0845253576072822,
   "metapath_contribution": {
     "CbGbCtD": 0.7268301171207427,
     "CbGeAlD": 0.03491187986997653,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1301448245061416,
     "CrCbGaD": 0.005584856280286946
   },
+  "n_trials": 0.0,
   "prediction": 0.000755592196327375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

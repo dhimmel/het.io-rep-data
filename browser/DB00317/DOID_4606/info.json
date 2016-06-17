@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.5728218465539661,
   "metapath_contribution": {
     "CbGaD": 0.8129143432089755,
     "CbGeAlD": 0.05633192083833753,
     "CbGpPWpGaD": 0.11800671506443286,
     "CrCbGaD": 0.012747020888254114
   },
+  "n_trials": 0.0,
   "prediction": 0.0012941007973076301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

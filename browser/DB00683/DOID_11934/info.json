@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.404421326397919,
   "metapath_contribution": {
     "CbGbCtD": 0.4213830418194315,
     "CbGeAlD": 0.032968925169518194,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3056107556313282,
     "CrCbGaD": 0.007330449519465669
   },
+  "n_trials": 0.0,
   "prediction": 0.00124289682164857,
   "status": 0,
   "training_prediction": 0.00150870094372511

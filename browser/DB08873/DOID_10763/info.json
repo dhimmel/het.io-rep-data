@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGaD": 0.37268370961530084,
     "CbGbCtD": 0.31212811718482625,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.15949482701715373,
     "CrCbGaD": 0.0032732333133580426
   },
+  "n_trials": 0.0,
   "prediction": 0.00869268072330365,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

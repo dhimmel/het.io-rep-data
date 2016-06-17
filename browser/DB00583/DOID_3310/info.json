@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.35695708712613794,
   "metapath_contribution": {
     "CbGbCtD": 0.12687205241849706,
     "CbGdCrCtD": 0.015539242526171183,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11508754852303324,
     "CcSEcCtD": 0.5820103681302239
   },
+  "n_trials": 0.0,
   "prediction": 0.0017832723147543199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

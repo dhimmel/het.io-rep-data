@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.526007802340702,
   "metapath_contribution": {
     "CbGaD": 0.14550173987356763,
     "CbGbCtD": 0.5475393703892314,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2045268971330947,
     "CrCbGaD": 0.0005935187672918131
   },
+  "n_trials": 0.0,
   "prediction": 0.0019195854563361602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

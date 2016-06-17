@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGaD": 0.3409926095004348,
     "CbGbCtD": 0.500283295145466,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1038016528328442,
     "CrCbGaD": 0.003912865607574334
   },
+  "n_trials": 0.0,
   "prediction": 0.004792788420937871,
   "status": 0,
   "training_prediction": 0.0404774025132221

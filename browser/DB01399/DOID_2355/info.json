@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.0661764705882353,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.19635890767230202,
   "metapath_contribution": {
     "CbGeAlD": 0.07134327243677752,
-    "CbGpPWpGaD": 0.7951486767159979,
-    "CrCbGaD": 0.13350805084722445
+    "CbGpPWpGaD": 0.7951486767159981,
+    "CrCbGaD": 0.13350805084722447
   },
+  "n_trials": 1.0,
   "prediction": 0.0008103526886949349,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.203511053315995,
   "metapath_contribution": {
     "CbGbCtD": 0.013815895843690598,
     "CbGeAlD": 0.047888000944292276,
     "CbGpPWpGaD": 0.04894267603713512,
     "CcSEcCtD": 0.889353427174882
   },
+  "n_trials": 0.0,
   "prediction": 0.0013210092510337,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

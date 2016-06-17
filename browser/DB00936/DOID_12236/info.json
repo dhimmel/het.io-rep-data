@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.429778933680104,
   "metapath_contribution": {
     "CbGaD": 0.5361227041363874,
     "CbGbCtD": 0.08615315183595174,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.24378705113877341,
     "CrCbGaD": 0.0017661587155716064
   },
+  "n_trials": 0.0,
   "prediction": 0.00145716191938997,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.783485045513654,
   "metapath_contribution": {
     "CbGbCtD": 0.2977514255228448,
     "CbGeAlD": 0.20348480950585315,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4106153819849365,
     "CrCbGaD": 0.010969097160648644
   },
+  "n_trials": 0.0,
   "prediction": 0.00249723099687267,
   "status": 0,
   "training_prediction": 0.00758003579226391

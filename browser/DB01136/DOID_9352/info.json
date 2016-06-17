@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.2967455523121023,
     "CbGbCtD": 0.2544024386469862,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0011007425343758832,
     "CtDrD": 0.2788343087960955
   },
+  "n_trials": 4.0,
   "prediction": 0.0233787837858242,
   "status": 0,
   "training_prediction": 0.0957288144972108

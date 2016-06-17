@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00559",
   "compound_name": "Bosentan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.4422886455590012,
     "CbGbCtD": 0.3674518856751609,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06494472669973533,
     "CcSEcCtD": 0.12184576907651994
   },
+  "n_trials": 3.0,
   "prediction": 0.0140327635177279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

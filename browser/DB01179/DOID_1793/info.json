@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.18465539661898603,
   "metapath_contribution": {
     "CbGbCtD": 0.7973904707759069,
     "CbGdCrCtD": 0.008412679430626426,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14665689508091265,
     "CrCbGaD": 0.0005997928367535914
   },
+  "n_trials": 0.0,
   "prediction": 0.00108919348752959,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

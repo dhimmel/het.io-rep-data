@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.1623975574882506,
     "CbGbCtD": 0.10038179656428557,
@@ -14,6 +16,7 @@
     "CrCtD": 0.29363624883014944,
     "CtDrD": 0.23416773082028924
   },
+  "n_trials": 0.0,
   "prediction": 0.0708323452672085,
   "status": 0,
   "training_prediction": 0.0331997401571757

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04794",
   "compound_name": "Bifonazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6801040312093629,
   "metapath_contribution": {
     "CbGaD": 0.1596625644104259,
     "CbGbCtD": 0.44907610483862065,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0029757389240017145,
     "CrCrCtD": 0.3511664376264848
   },
+  "n_trials": 0.0,
   "prediction": 0.00538680980228887,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

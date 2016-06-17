@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00615",
   "compound_name": "Rifabutin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGbCtD": 0.5727607476616149,
     "CbGeAlD": 0.03791404094645422,
     "CbGpPWpGaD": 0.1161387215854438,
     "CcSEcCtD": 0.273186489806487
   },
+  "n_trials": 0.0,
   "prediction": 0.00246064519491941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

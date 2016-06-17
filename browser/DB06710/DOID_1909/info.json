@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.0338101430429129,
   "metapath_contribution": {
     "CbGaD": 0.4581724812132693,
     "CbGbCtD": 0.40230783617946786,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.004307983988142974,
     "CrCbGaD": 0.005726194759323547
   },
+  "n_trials": 0.0,
   "prediction": 0.000509016535619447,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

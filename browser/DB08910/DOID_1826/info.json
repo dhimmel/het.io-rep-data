@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.5481144343302989,
   "metapath_contribution": {
     "CbGaD": 0.36676822847199997,
     "CbGbCtD": 0.38310052188752575,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17130996262967121,
     "CrCbGaD": 0.002639380043147801
   },
+  "n_trials": 0.0,
   "prediction": 0.0037497885257708296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

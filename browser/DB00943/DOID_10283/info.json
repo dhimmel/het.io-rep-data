@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00943",
   "compound_name": "Zalcitabine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.65149544863459,
   "metapath_contribution": {
     "CbGaD": 0.42658879523420196,
     "CbGbCtD": 0.3235448790516862,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.15260000454858194,
     "CrCbGaD": 0.0023302966870265536
   },
+  "n_trials": 0.0,
   "prediction": 0.00312240450215677,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

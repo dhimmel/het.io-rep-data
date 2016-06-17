@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGbCtD": 0.11146849209613538,
     "CbGdCrCtD": 0.002038364753472022,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10196566392593893,
     "CtDrD": 0.673565419773455
   },
+  "n_trials": 0.0,
   "prediction": 0.00582800343846126,
   "status": 0,
   "training_prediction": 0.00948010407177184

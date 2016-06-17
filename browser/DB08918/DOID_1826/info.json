@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08918",
   "compound_name": "Levomilnacipran",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGaD": 0.3381499462059256,
     "CbGbCtD": 0.42707230076263686,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15838813897332432,
     "CrCbGaD": 0.002819462825672994
   },
+  "n_trials": 0.0,
   "prediction": 0.0045300694416333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

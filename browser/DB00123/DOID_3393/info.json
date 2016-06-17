@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00123",
   "compound_name": "L-Lysine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.215864759427828,
   "metapath_contribution": {
     "CbGeAlD": 0.046989708794599086,
     "CbGpPWpGaD": 0.2326673694959931,
     "CrCbGaD": 0.01920534823964691,
     "CrCrCtD": 0.701137573469761
   },
+  "n_trials": 0.0,
   "prediction": 0.00131174564985246,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

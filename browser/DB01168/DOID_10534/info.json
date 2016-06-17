@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01168",
   "compound_name": "Procarbazine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGbCtD": 0.16596577209846797,
     "CbGpPWpGaD": 0.021354610449323463,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.7291045065869122,
     "CrCbGaD": 0.0023342767050765637
   },
+  "n_trials": 0.0,
   "prediction": 0.00799867002014345,
   "status": 0,
   "training_prediction": 0.028814385056882004

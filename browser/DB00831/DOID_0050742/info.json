@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.47074122236671,
   "metapath_contribution": {
     "CbGaD": 0.7650124648156784,
     "CbGeAlD": 0.0708390777224886,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06355298966945554,
     "CrCbGaD": 0.008615656360553767
   },
+  "n_trials": 0.0,
   "prediction": 0.0015281300566347199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

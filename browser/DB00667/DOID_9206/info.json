@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGbCtD": 0.5008348798600907,
     "CbGeAlD": 0.12580540705150997,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.30805193431371136,
     "CrCbGaD": 0.005079076563868269
   },
+  "n_trials": 0.0,
   "prediction": 0.00259039010151044,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

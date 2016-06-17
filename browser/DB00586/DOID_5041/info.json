@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.5773732119635889,
   "metapath_contribution": {
-    "CbGaD": 0.3921669317334789,
+    "CbGaD": 0.39216693173347883,
     "CbGbCtD": 0.32263956155755613,
-    "CbGeAlD": 0.042234654042555234,
+    "CbGeAlD": 0.04223465404255523,
     "CbGpPWpGaD": 0.1356246178575687,
-    "CcSEcCtD": 0.10296261819658573,
-    "CrCbGaD": 0.004371616612255291
+    "CcSEcCtD": 0.10296261819658571,
+    "CrCbGaD": 0.00437161661225529
   },
+  "n_trials": 0.0,
   "prediction": 0.00163977405433074,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.22561768530559198,
   "metapath_contribution": {
     "CbGaD": 0.5879098012328651,
     "CbGeAlD": 0.03278890051449833,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.25150009300994014,
     "CrCbGaD": 0.00452920495945171
   },
+  "n_trials": 0.0,
   "prediction": 0.00183511799519785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

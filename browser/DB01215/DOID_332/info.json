@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01215",
   "compound_name": "Estazolam",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.44083224967490203,
   "metapath_contribution": {
     "CbGeAlD": 0.25680271232478397,
     "CbGpPWpGaD": 0.18206882070007094,
     "CcSEcCtD": 0.5497341842355641,
     "CrCbGaD": 0.011394282739580932
   },
+  "n_trials": 0.0,
   "prediction": 0.001196437527985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

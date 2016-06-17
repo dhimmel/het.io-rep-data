@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7951885565669699,
   "metapath_contribution": {
     "CbGaD": 0.33250777382894503,
     "CbGbCtD": 0.45190386803029536,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13164595344520832,
     "CrCbGaD": 0.0006281960166893948
   },
+  "n_trials": 0.0,
   "prediction": 0.00477151587707534,
   "status": 0,
   "training_prediction": 0.0317199754082953

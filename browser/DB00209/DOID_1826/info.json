@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00209",
   "compound_name": "Trospium",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.459037711313394,
   "metapath_contribution": {
     "CbGaD": 0.6953551318305308,
     "CbGeAlD": 0.0035141075504612897,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21645372097923485,
     "CrCbGaD": 0.0066320550883603845
   },
+  "n_trials": 0.0,
   "prediction": 0.00306212454213988,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

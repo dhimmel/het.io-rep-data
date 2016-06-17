@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00219",
   "compound_name": "Oxyphenonium",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.9680914316406942,
     "CbGeAlD": 0.022859823219800936,
     "CbGpPWpGaD": 0.0012537431547319634,
     "CrCbGaD": 0.007795001984772888
   },
+  "n_trials": 0.0,
   "prediction": 0.00317648221527621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

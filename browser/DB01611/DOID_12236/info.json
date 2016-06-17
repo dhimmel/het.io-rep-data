@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.25357607282184697,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.35086041042138416,
     "CcSEcCtD": 0.6200397670097195,
     "CrCbGaD": 0.029099822568896296
   },
+  "n_trials": 0.0,
   "prediction": 0.0011463175284337301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

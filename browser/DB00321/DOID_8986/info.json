@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.64369310793238,
   "metapath_contribution": {
     "CbGaD": 0.55062320962558,
     "CbGeAlD": 0.1780383965442543,
     "CbGpPWpGaD": 0.2653659983234469,
     "CrCbGaD": 0.00597239550671877
   },
+  "n_trials": 0.0,
   "prediction": 0.0015481808031727199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

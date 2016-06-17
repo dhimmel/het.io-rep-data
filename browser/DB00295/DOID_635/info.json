@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.64369310793238,
   "metapath_contribution": {
     "CbGbCtD": 0.6713188657583842,
     "CbGeAlD": 0.04312480662389335,
     "CbGpPWpGaD": 0.05381494232978533,
     "CcSEcCtD": 0.23174138528793717
   },
+  "n_trials": 0.0,
   "prediction": 0.0030699836853718197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

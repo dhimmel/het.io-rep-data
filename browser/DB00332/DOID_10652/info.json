@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00332",
   "compound_name": "Ipratropium bromide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGaD": 0.33104559137395906,
     "CbGbCtD": 0.40376674975932364,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21250613022309686,
     "CrCbGaD": 0.0032690110226580383
   },
+  "n_trials": 0.0,
   "prediction": 0.00299362987875485,
   "status": 0,
   "training_prediction": 0.00363248152078821

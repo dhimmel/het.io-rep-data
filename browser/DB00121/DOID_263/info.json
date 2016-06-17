@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00121",
   "compound_name": "Biotin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGbCtD": 0.5919596848770919,
     "CbGdCrCtD": 0.008651315141673969,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.24536993202512236,
     "CrCbGaD": 0.007299160217374278
   },
+  "n_trials": 0.0,
   "prediction": 0.0028297708743581103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

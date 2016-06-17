@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.15604681404421303,
   "metapath_contribution": {
     "CbGaD": 0.5207747249556722,
     "CbGeAlD": 0.008013100134895527,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19376274502352292,
     "CrCbGaD": 0.007623123765958983
   },
+  "n_trials": 0.0,
   "prediction": 0.000913545413587195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

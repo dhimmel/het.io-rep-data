@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGbCtD": 0.1609008224174586,
     "CcSEcCtD": 0.058278330660713036,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.2071604117529075,
     "CrCtD": 0.3414007627271663
   },
+  "n_trials": 0.0,
   "prediction": 0.0186441522121149,
   "status": 0,
   "training_prediction": 0.0583434162736463

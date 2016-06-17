@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01283",
   "compound_name": "Lumiracoxib",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7860858257477241,
   "metapath_contribution": {
     "CbGaD": 0.5770227953020618,
     "CbGbCtD": 0.3926890092333243,
     "CbGeAlD": 0.025041107013972212,
     "CrCbGaD": 0.005247088450641723
   },
+  "n_trials": 0.0,
   "prediction": 0.0023465225015815,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

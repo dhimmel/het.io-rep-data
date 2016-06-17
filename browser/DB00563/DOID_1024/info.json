@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGbCtD": 0.783101852533145,
     "CbGdCrCtD": 0.002283306959124472,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.00011085292577798936,
     "CcSEcCtD": 0.13160262064076758
   },
+  "n_trials": 0.0,
   "prediction": 0.0030823700637400697,
   "status": 0,
   "training_prediction": 0.0349721765666448

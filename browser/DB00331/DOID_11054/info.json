@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGbCtD": 0.5495662393054359,
     "CbGdCrCtD": 0.004289363439749989,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12633921458172911,
     "CcSEcCtD": 0.11930494879186536
   },
+  "n_trials": 2.0,
   "prediction": 0.004389493533981,
   "status": 0,
   "training_prediction": 0.0250968311197565

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGaD": 0.1569439258010463,
     "CbGbCtD": 0.6884750873308191,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10897784569542063,
     "CrCbGaD": 0.004970901548836894
   },
+  "n_trials": 0.0,
   "prediction": 0.00210028325180202,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

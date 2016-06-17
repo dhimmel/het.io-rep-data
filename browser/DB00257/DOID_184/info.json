@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.665799739921977,
   "metapath_contribution": {
     "CbGaD": 0.3333245407393456,
     "CbGbCtD": 0.545383859931559,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.01000591196382395,
     "CrCbGaD": 0.0021136386412522875
   },
+  "n_trials": 0.0,
   "prediction": 0.00194128796594168,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

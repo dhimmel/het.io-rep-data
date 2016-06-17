@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01005",
   "compound_name": "Hydroxyurea",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGeAlD": 0.026275509932192152,
     "CbGpPWpGaD": 0.05829238194770967,
     "CcSEcCtD": 0.10488278957177552,
     "CtDrD": 0.8105493185483227
   },
+  "n_trials": 1.0,
   "prediction": 0.00510703978889491,
   "status": 0,
   "training_prediction": 0.0174233900157829

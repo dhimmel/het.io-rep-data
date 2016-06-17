@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00433",
   "compound_name": "Prochlorperazine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0565669700910273,
   "metapath_contribution": {
     "CbGaD": 0.34629225549455483,
     "CbGbCtD": 0.3504760645780573,
@@ -13,6 +15,5 @@
     "CrCrCtD": 0.05678920199398498
   },
   "prediction": 0.000827610559156682,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

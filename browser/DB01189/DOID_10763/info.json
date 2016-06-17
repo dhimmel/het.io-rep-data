@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.44148244473342,
   "metapath_contribution": {
     "CbGaD": 0.06865259269010025,
     "CbGbCtD": 0.26799026595371317,
@@ -13,6 +15,5 @@
     "CrCbGaD": 0.004965653550056788
   },
   "prediction": 0.00332929895991929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01025",
   "compound_name": "Amlexanox",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.793888166449935,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.027515919133396797,
-    "CbGeAlD": 0.542985768218506,
-    "CbGpPWpGaD": 0.4294983126480971
+    "CbGdCrCtD": 0.027515919133396804,
+    "CbGeAlD": 0.5429857682185061,
+    "CbGpPWpGaD": 0.42949831264809724
   },
+  "n_trials": 0.0,
   "prediction": 0.00236447351411237,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00415",
   "compound_name": "Ampicillin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.11443433029909,
   "metapath_contribution": {
     "CbGaD": 0.37861610811092794,
     "CbGbCtD": 0.43363944252191133,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17910076867180685,
     "CrCbGaD": 0.002285142711295845
   },
+  "n_trials": 0.0,
   "prediction": 0.00121473002503785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

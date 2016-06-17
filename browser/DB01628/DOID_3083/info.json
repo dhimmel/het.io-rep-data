@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGaD": 0.3521630255348251,
     "CbGbCtD": 0.4163783090139302,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14484430556590583,
     "CrCbGaD": 0.003616053839949786
   },
+  "n_trials": 0.0,
   "prediction": 0.0035742886512562795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

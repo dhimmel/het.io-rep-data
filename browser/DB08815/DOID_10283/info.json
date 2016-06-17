@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08815",
   "compound_name": "Lurasidone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.779583875162549,
   "metapath_contribution": {
     "CbGaD": 0.22013254117170247,
     "CbGbCtD": 0.34818588857014754,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2870387805665184,
     "CrCbGaD": 0.0014060553969319554
   },
+  "n_trials": 0.0,
   "prediction": 0.00444035379244284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

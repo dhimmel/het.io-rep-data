@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.624837451235371,
   "metapath_contribution": {
     "CbGaD": 0.2179583329927825,
     "CbGbCtD": 0.3388540844215662,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002497491718717972,
     "CrCrCtD": 0.24620903884398287
   },
+  "n_trials": 0.0,
   "prediction": 0.00523970137524178,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

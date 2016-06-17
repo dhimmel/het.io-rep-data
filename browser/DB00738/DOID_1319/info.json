@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8725617685305591,
   "metapath_contribution": {
     "CbGbCtD": 0.5641732401388739,
     "CbGeAlD": 0.0573523507753434,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2488412206419015,
     "CrCbGaD": 0.005416321196504254
   },
+  "n_trials": 0.0,
   "prediction": 0.00292213251100226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.14239271781534502,
   "metapath_contribution": {
     "CbGaD": 0.5419917458156303,
     "CbGbCtD": 0.03182920571876775,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.3377961575798663,
     "CrCbGaD": 0.012783957127677655
   },
+  "n_trials": 0.0,
   "prediction": 0.00103112905792833,
   "status": 0,
   "training_prediction": 0.0072870919323886705

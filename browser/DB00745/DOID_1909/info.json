@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.202860858257477,
   "metapath_contribution": {
     "CbGbCtD": 0.6397059318518229,
     "CbGpPWpGaD": 0.070811955667783,
     "CcSEcCtD": 0.280701359330264,
     "CrCbGaD": 0.008780753150130098
   },
+  "n_trials": 1.0,
   "prediction": 0.0008727549718360309,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.7035110533159951,
   "metapath_contribution": {
     "CbGbCtD": 0.5787593486379518,
     "CbGeAlD": 0.04894738024620904,
     "CbGpPWpGaD": 0.05088914678151409,
     "CcSEcCtD": 0.3214041243343252
   },
+  "n_trials": 0.0,
   "prediction": 0.00243058973972106,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.213235294117647,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.0156046814044213,
   "metapath_contribution": {
     "CbGdCrCtD": 0.01528808405146084,
     "CbGeAlD": 0.009542616462574021,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.8886158766951789,
     "CrCbGaD": 0.011141512758689688
   },
+  "n_trials": 0.0,
   "prediction": 0.00059605081126678,
   "status": 0,
   "training_prediction": 0.00163397230100435

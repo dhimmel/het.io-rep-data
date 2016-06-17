@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGbCtD": 0.7850058939585604,
     "CbGeAlD": 0.012157379434723883,
     "CbGpPWpGaD": 0.19962573324628352,
     "CrCbGaD": 0.00321099336043212
   },
+  "n_trials": 0.0,
   "prediction": 0.00167973042959664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

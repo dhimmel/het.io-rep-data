@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.401170351105332,
   "metapath_contribution": {
     "CbGaD": 0.49306971927310184,
     "CbGbCtD": 0.15575610793851258,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2790590332874028,
     "CrCbGaD": 0.003919087222367948
   },
+  "n_trials": 0.0,
   "prediction": 0.00163741932441279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

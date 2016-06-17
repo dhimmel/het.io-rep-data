@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGbCtD": 0.21100660348564834,
     "CcSEcCtD": 0.0401403453065847,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.17567708477395252,
     "CrCtD": 0.19705952969985857
   },
+  "n_trials": 0.0,
   "prediction": 0.0548007156008,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

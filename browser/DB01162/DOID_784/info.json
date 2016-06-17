@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01162",
   "compound_name": "Terazosin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.1868270845589443,
     "CbGpPWpGaD": 0.03318045295314183,
     "CrCbGaD": 0.003957170803439664,
     "CtDrD": 0.7760352916844743
   },
+  "n_trials": 0.0,
   "prediction": 0.00466157415188485,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

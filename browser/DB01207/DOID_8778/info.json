@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01207",
   "compound_name": "Ridogrel",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.9191981389826924,
     "CbGeAlD": 0.007901794518198564,
     "CbGpPWpGaD": 0.07271092100909923,
     "CrCbGaD": 0.00018914549000976415
   },
+  "n_trials": 0.0,
   "prediction": 0.0036843910369377796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

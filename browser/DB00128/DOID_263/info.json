@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7210663198959691,
   "metapath_contribution": {
     "CbGaD": 0.71936668546737,
     "CbGdCrCtD": 0.004380790067696997,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15416752836056988,
     "CrCbGaD": 0.003825960135509921
   },
+  "n_trials": 0.0,
   "prediction": 0.00254970422629772,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

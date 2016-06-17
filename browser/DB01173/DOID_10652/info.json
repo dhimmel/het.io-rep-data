@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.399219765929779,
   "metapath_contribution": {
     "CbGbCtD": 0.7475242444424035,
     "CbGeAlD": 0.06996878327533443,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04846360484770823,
     "CrCbGaD": 0.005749447266954401
   },
+  "n_trials": 0.0,
   "prediction": 0.00155651662502261,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

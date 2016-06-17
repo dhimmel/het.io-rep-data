@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.9850056718207321,
     "CbGeAlD": 0.01175167598219837,
     "CbGpPWpGaD": 0.0008483645632488748,
     "CrCbGaD": 0.0023942876338206723
   },
+  "n_trials": 0.0,
   "prediction": 0.0023694047137658,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

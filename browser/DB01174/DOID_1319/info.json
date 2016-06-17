@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.3509272444100809,
     "CbGbCtD": 0.4428824280289011,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07500165832733646,
     "CrCbGaD": 0.0013153512319465795
   },
+  "n_trials": 0.0,
   "prediction": 0.00349091852619558,
   "status": 0,
   "training_prediction": 0.0063671756913093605

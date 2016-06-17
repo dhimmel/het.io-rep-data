@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.26310835068874133,
     "CbGbCtD": 0.31841716138671594,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.19930589598956142,
     "CrCbGaD": 0.002405474459012313
   },
+  "n_trials": 0.0,
   "prediction": 0.0132304778069166,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.0598179453836151,
   "metapath_contribution": {
     "CbGeAlD": 0.020722900439277,
     "CbGpPWpGaD": 0.1470638601692208,
     "CcSEcCtD": 0.8219420187060338,
     "CrCbGaD": 0.010271220685468391
   },
+  "n_trials": 0.0,
   "prediction": 0.0007771897255350559,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

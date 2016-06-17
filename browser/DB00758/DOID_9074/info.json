@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00758",
   "compound_name": "Clopidogrel",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGaD": 0.470162298166118,
     "CbGbCtD": 0.38016086046823283,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11448821064621538,
     "CrCbGaD": 0.005219236587154909
   },
+  "n_trials": 1.0,
   "prediction": 0.00654965118192053,
   "status": 0,
   "training_prediction": 0.0188810038775299

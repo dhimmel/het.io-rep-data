@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.5481144343302989,
   "metapath_contribution": {
     "CbGaD": 0.6992138585768088,
     "CbGeAlD": 0.16731841242321913,
     "CbGpPWpGaD": 0.11798250337151904,
     "CrCbGaD": 0.015485225628453064
   },
+  "n_trials": 0.0,
   "prediction": 0.0016601216037652698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

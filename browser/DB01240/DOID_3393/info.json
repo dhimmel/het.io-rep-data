@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.589726918075423,
   "metapath_contribution": {
     "CbGaD": 0.3323150331432183,
     "CbGbCtD": 0.4323709580338945,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1170720898593771,
     "CrCbGaD": 0.0017651086822085284
   },
+  "n_trials": 0.0,
   "prediction": 0.0028285679268434,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

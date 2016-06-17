@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00715",
   "compound_name": "Paroxetine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8459037711313391,
   "metapath_contribution": {
     "CbGaD": 0.35585313918456396,
     "CbGbCtD": 0.3632968177784081,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09094889993575074,
     "CcSEcCtD": 0.1596204471068915
   },
+  "n_trials": 0.0,
   "prediction": 0.0127358175205844,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

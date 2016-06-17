@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00394",
   "compound_name": "Beclomethasone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGbCtD": 0.19395308140131776,
     "CcSEcCtD": 0.045509730597995575,
@@ -10,6 +12,7 @@
     "CrCtD": 0.27368049210341705,
     "CtDrD": 0.262111316774249
   },
+  "n_trials": 0.0,
   "prediction": 0.0442491241613131,
   "status": 0,
   "training_prediction": 0.201283907817772

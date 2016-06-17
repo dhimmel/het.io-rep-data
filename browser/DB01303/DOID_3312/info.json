@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.778142620296091,
     "CbGeAlD": 0.06343184314367985,
     "CbGpPWpGaD": 0.1520604675649858,
     "CrCbGaD": 0.006365068995243391
   },
+  "n_trials": 0.0,
   "prediction": 0.00282322077362976,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

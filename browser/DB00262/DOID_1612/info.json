@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00262",
   "compound_name": "Carmustine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGbCtD": 0.09126422027017478,
     "CbGeAlD": 0.009259041757958601,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.7348810824953108,
     "CrCbGaD": 0.0015136814192344987
   },
+  "n_trials": 2.0,
   "prediction": 0.0101726254195252,
   "status": 0,
   "training_prediction": 0.163711660232596

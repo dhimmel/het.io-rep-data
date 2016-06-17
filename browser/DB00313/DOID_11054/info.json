@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
-    "CbGaD": 0.41374847285606076,
-    "CbGbCtD": 0.2825328111637042,
-    "CbGdCrCtD": 0.0011532986704444787,
-    "CbGeAlD": 0.064757952383581,
-    "CbGpPWpGaD": 0.12122307539287568,
-    "CcSEcCtD": 0.11658438953333378
+    "CbGaD": 0.41374847285606087,
+    "CbGbCtD": 0.28253281116370427,
+    "CbGdCrCtD": 0.0011532986704444789,
+    "CbGeAlD": 0.06475795238358101,
+    "CbGpPWpGaD": 0.1212230753928757,
+    "CcSEcCtD": 0.1165843895333338
   },
+  "n_trials": 1.0,
   "prediction": 0.00505758979151586,
   "status": 0,
   "training_prediction": 0.0213167948214904

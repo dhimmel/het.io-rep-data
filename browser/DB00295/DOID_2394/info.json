@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.490897269180754,
   "metapath_contribution": {
     "CbGaD": 0.2933490575214198,
     "CbGbCtD": 0.422873360669559,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24659801959264424,
     "CrCbGaD": 0.004634947632576562
   },
+  "n_trials": 0.0,
   "prediction": 0.0014438345380675,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

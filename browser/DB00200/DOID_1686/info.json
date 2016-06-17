@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.636540962288687,
   "metapath_contribution": {
     "CbGeAlD": 0.009744141927085236,
     "CbGpPWpGaD": 0.4369607955092006,
     "CcSEcCtD": 0.5398986500047904,
     "CrCbGaD": 0.013396412558923685
   },
+  "n_trials": 0.0,
   "prediction": 0.00233524175956055,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

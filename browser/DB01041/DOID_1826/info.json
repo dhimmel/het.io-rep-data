@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.552015604681404,
   "metapath_contribution": {
     "CbGaD": 0.2726166677937902,
     "CbGbCtD": 0.41362168631865714,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1878576059206856,
     "CrCbGaD": 0.002073756622136826
   },
+  "n_trials": 1.0,
   "prediction": 0.00375309058996586,
   "status": 0,
   "training_prediction": 0.0299670481097358

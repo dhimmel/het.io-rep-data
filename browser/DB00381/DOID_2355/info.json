@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.36764705882352894,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.35695708712613794,
   "metapath_contribution": {
     "CbGaD": 0.5376648915425151,
     "CbGeAlD": 0.1796914038806902,
     "CbGpPWpGaD": 0.27997113186184813,
     "CrCbGaD": 0.0026725727149466507
   },
+  "n_trials": 0.0,
   "prediction": 0.00101431296942141,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00308",
   "compound_name": "Ibutilide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.8041021634532416,
     "CbGeAlD": 0.09028248644227545,
     "CbGpPWpGaD": 0.09722593552585906,
     "CrCbGaD": 0.008389414578623884
   },
+  "n_trials": 0.0,
   "prediction": 0.00399050252761171,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

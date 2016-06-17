@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.15106884779412802,
     "CbGbCtD": 0.3684158368925567,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0029160139164722608,
     "CrCrCtD": 0.2456006578773055
   },
+  "n_trials": 0.0,
   "prediction": 0.000854312140872429,
   "status": 0,
   "training_prediction": 0.0329147091301558

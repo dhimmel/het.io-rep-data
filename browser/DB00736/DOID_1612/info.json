@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00736",
   "compound_name": "Esomeprazole",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.44473342002600796,
   "metapath_contribution": {
     "CbGaD": 0.23497820869848557,
     "CbGbCtD": 0.4291755036169748,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.28669405390518754,
     "CrCbGaD": 0.007002888307321228
   },
+  "n_trials": 2.0,
   "prediction": 0.00213133124682069,
   "status": 0,
   "training_prediction": 0.0117178622046222

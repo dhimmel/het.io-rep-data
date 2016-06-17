@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.45256572002279927,
     "CbGbCtD": 0.49526302238429826,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0022429339177543156,
     "CrCbGaD": 0.0031319565823161657
   },
+  "n_trials": 0.0,
   "prediction": 0.00396502733887635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

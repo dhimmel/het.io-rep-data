@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00202",
   "compound_name": "Succinylcholine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.49804941482444703,
   "metapath_contribution": {
     "CbGbCtD": 0.3974585409246523,
     "CbGeAlD": 0.053688168126272015,
     "CbGpPWpGaD": 0.16981522184793357,
     "CcSEcCtD": 0.37903806910114207
   },
+  "n_trials": 0.0,
   "prediction": 0.00236470280501802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

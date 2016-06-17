@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.5887430552346798,
     "CbGbCtD": 0.23109583968976147,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09710501521867987,
     "CrCbGaD": 0.00017025456400852898
   },
+  "n_trials": 0.0,
   "prediction": 0.00242222020482335,
   "status": 0,
   "training_prediction": 0.006646787258165829

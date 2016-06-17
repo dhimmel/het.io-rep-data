@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.715864759427828,
   "metapath_contribution": {
     "CbGaD": 0.9166936529348547,
     "CbGeAlD": 0.07235153324689153,
     "CcSEcCtD": 0.006928712514323333,
     "CrCbGaD": 0.004026101303930413
   },
+  "n_trials": 0.0,
   "prediction": 0.00189385668041397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

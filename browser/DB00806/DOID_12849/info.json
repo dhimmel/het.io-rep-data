@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00806",
   "compound_name": "Pentoxifylline",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.7806797187445207,
     "CbGeAlD": 0.0637471912490005,
     "CbGpPWpGaD": 0.1502902347123092,
     "CrCbGaD": 0.005282855294169655
   },
+  "n_trials": 0.0,
   "prediction": 0.0025013779381343,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

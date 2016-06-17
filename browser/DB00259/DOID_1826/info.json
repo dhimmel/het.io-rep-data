@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.598179453836151,
   "metapath_contribution": {
     "CbGaD": 0.24581963040739305,
     "CbGbCtD": 0.664322224154777,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07157097193553005,
     "CrCbGaD": 0.0035340382104239003
   },
+  "n_trials": 0.0,
   "prediction": 0.00427014385420634,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

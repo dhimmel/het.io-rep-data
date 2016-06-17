@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01348",
   "compound_name": "Spirapril",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.7639791937581271,
   "metapath_contribution": {
     "CbGaD": 0.8280891859100415,
     "CbGeAlD": 0.14364302689719974,
     "CbGpPWpGaD": 0.01887478822111177,
     "CrCbGaD": 0.009392998971646882
   },
+  "n_trials": 0.0,
   "prediction": 0.00224168190297198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

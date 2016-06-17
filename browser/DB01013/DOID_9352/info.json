@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.17555266579974,
   "metapath_contribution": {
     "CbGaD": 0.6175111647423063,
     "CbGbCtD": 0.15869222867692045,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1321153875866528,
     "CrCbGaD": 0.007153467629458766
   },
+  "n_trials": 0.0,
   "prediction": 0.00129441530468657,
   "status": 0,
   "training_prediction": 0.00569904708376894

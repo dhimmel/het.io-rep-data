@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00309",
   "compound_name": "Vindesine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
     "CbGbCtD": 0.20546461670381408,
     "CbGeAlD": 0.002651507042041094,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.30071323633385916,
     "CrCtD": 0.48104954400398503
   },
+  "n_trials": 2.0,
   "prediction": 0.0122394851608431,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

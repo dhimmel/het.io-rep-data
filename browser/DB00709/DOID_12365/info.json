@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.289336801040312,
   "metapath_contribution": {
     "CbGbCtD": 0.5369605591292851,
     "CbGdCrCtD": 0.004322849390921393,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10641499135868929,
     "CcSEcCtD": 0.215411510887963
   },
+  "n_trials": 1.0,
   "prediction": 0.00155228769667855,
   "status": 0,
   "training_prediction": 0.00661755381032384

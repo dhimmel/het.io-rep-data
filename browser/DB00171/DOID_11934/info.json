@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGaD": 0.5799241509132378,
     "CbGbCtD": 0.13680533282253818,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1633855412110407,
     "CrCbGaD": 0.002441616375924083
   },
+  "n_trials": 0.0,
   "prediction": 0.0022891308287243,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

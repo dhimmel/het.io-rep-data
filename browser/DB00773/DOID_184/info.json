@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.13929424715591296,
     "CbGbCtD": 0.1942449229888684,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0006464700376894725,
     "CtDrD": 0.25911756837345523
   },
+  "n_trials": 18.0,
   "prediction": 0.0279455889967159,
   "status": 0,
   "training_prediction": 0.21801788895446397

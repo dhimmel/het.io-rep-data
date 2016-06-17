@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00299",
   "compound_name": "Penciclovir",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CcSEcCtD": 0.01934749159778237,
     "CiPCiCtD": 0.4011225660536335,
     "CrCrCtD": 0.19128891498009545,
     "CrCtD": 0.38824102736848864
   },
+  "n_trials": 0.0,
   "prediction": 0.0449031780207657,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

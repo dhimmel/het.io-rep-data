@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01283",
   "compound_name": "Lumiracoxib",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.7288686605981791,
   "metapath_contribution": {
     "CbGaD": 0.4039219977360317,
     "CbGbCtD": 0.4387377076626764,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13186247549172622,
     "CrCbGaD": 0.009582551505251708
   },
+  "n_trials": 0.0,
   "prediction": 0.00256527854421265,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

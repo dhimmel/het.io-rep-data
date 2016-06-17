@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00294",
   "compound_name": "Etonogestrel",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.15800915415445677,
     "CbGbCtD": 0.2073013103980475,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.24154806139754045,
     "CrCtD": 0.2804467805797491
   },
+  "n_trials": 0.0,
   "prediction": 0.0196477283318622,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

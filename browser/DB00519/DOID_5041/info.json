@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00519",
   "compound_name": "Trandolapril",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.774382314694408,
   "metapath_contribution": {
     "CbGbCtD": 0.759639760619362,
     "CbGeAlD": 0.09969426161721132,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11872800539875056,
     "CrCbGaD": 0.0019498578842941665
   },
+  "n_trials": 0.0,
   "prediction": 0.0021607858502236802,
   "status": 0,
   "training_prediction": 0.00436619552130397

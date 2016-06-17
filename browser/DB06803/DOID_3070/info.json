@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06803",
   "compound_name": "Niclosamide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.7024826563358044,
     "CbGbCtD": 0.10773366192536178,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14688980509224075,
     "CrCbGaD": 0.0021257065007061144
   },
+  "n_trials": 0.0,
   "prediction": 0.00357167062462709,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

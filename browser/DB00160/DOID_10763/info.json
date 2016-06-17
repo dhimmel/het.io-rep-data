@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.26332899869960996,
   "metapath_contribution": {
     "CbGaD": 0.6496577449860225,
     "CbGdCrCtD": 0.0035680150389504717,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.21713135878343306,
     "CrCbGaD": 0.007572687870886487
   },
+  "n_trials": 0.0,
   "prediction": 0.00216041367066476,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

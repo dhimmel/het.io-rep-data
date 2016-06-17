@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.397269180754226,
   "metapath_contribution": {
     "CbGbCtD": 0.299398652734609,
     "CbGeAlD": 0.47113689623666444,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22023256169281413,
     "CrCbGaD": 0.002839295431944969
   },
+  "n_trials": 0.0,
   "prediction": 0.00141033147559281,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00549",
   "compound_name": "Zafirlukast",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.533159947984395,
   "metapath_contribution": {
     "CbGaD": 0.215067011827215,
     "CbGbCtD": 0.48699710264421653,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1418174776650369,
     "CrCbGaD": 0.0018041461750505747
   },
+  "n_trials": 0.0,
   "prediction": 0.00268425088766234,
   "status": 0,
   "training_prediction": 0.00686694031651597

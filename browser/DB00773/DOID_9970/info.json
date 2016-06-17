@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.220588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0630689206762029,
   "metapath_contribution": {
     "CbGaD": 0.27753817335506115,
     "CbGbCtD": 0.36687913799269584,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15385967276416088,
     "CrCbGaD": 0.00589785724446324
   },
+  "n_trials": 0.0,
   "prediction": 0.0008490854545222651,
   "status": 0,
   "training_prediction": 0.0146313292969193

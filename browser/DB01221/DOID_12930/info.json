@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGbCtD": 0.4784961195703446,
     "CbGeAlD": 0.00897256496645421,
     "CbGpPWpGaD": 0.4985891852325147,
     "CcSEcCtD": 0.013942130230686465
   },
+  "n_trials": 0.0,
   "prediction": 0.00257683347982626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

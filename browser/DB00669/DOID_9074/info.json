@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGbCtD": 0.4012684788334189,
     "CbGeAlD": 0.01203801511039653,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14322286329821785,
     "CpDpCtD": 0.43765286321866625
   },
+  "n_trials": 0.0,
   "prediction": 0.0034602704864703103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

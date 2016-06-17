@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.09919848747595471,
     "CbGbCtD": 0.15274938353431716,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.16366633807248548,
     "CrCtD": 0.2532279483168027
   },
+  "n_trials": 0.0,
   "prediction": 0.154012428010898,
   "status": 0,
   "training_prediction": 0.31865676271568

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01320",
   "compound_name": "Fosphenytoin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5858257477243171,
   "metapath_contribution": {
     "CbGaD": 0.2031295721068937,
     "CbGbCtD": 0.3989710345520462,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0005105878331386645,
     "CrCrCtD": 0.19036839811427714
   },
+  "n_trials": 0.0,
   "prediction": 0.00282531223427996,
   "status": 0,
   "training_prediction": 0.0154848668641964

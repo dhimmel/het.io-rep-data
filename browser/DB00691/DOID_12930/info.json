@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00691",
   "compound_name": "Moexipril",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.14353100842248517,
     "CbGbCtD": 0.27624048022416464,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.20636598864074646,
     "CrCtD": 0.3339420858188552
   },
+  "n_trials": 0.0,
   "prediction": 0.0537253751369591,
   "status": 0,
   "training_prediction": 0.0530360268604719

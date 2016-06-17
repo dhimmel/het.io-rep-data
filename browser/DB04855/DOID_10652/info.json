@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.628088426527958,
   "metapath_contribution": {
     "CbGaD": 0.2324095679830745,
     "CbGbCtD": 0.2843078450093867,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.22497223199281913,
     "CcSEcCtD": 0.11888097584204542
   },
+  "n_trials": 0.0,
   "prediction": 0.00221937891322247,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

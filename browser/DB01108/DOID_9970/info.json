@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01108",
   "compound_name": "Trilostane",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.358907672301691,
   "metapath_contribution": {
     "CbGaD": 0.6680989849264705,
     "CbGeAlD": 0.13517619630138186,
     "CbGpPWpGaD": 0.18943681419984754,
     "CrCbGaD": 0.007288004572300115
   },
+  "n_trials": 0.0,
   "prediction": 0.0018943697141960301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

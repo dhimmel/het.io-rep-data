@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01361",
   "compound_name": "Troleandomycin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
     "CbGaD": 0.8576052164855016,
     "CbGbCtD": 0.012069101506407718,
     "CbGpPWpGaD": 0.12660367089328114,
     "CrCbGaD": 0.003722011114809541
   },
+  "n_trials": 0.0,
   "prediction": 0.00194583539777355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

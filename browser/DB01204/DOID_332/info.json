@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGbCtD": 0.20630484590056059,
     "CbGeAlD": 0.01368078982959989,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05933897272337322,
     "CtDrD": 0.7092362535110889
   },
+  "n_trials": 0.0,
   "prediction": 0.0055572595017044,
   "status": 0,
   "training_prediction": 0.00988940212326643

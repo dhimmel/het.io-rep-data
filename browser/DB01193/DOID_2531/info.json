@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01193",
   "compound_name": "Acebutolol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.7581274382314691,
   "metapath_contribution": {
     "CbGaD": 0.2910856223137653,
     "CbGbCtD": 0.2932708405304877,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14998890764397055,
     "CrCrCtD": 0.23801225405711912
   },
+  "n_trials": 0.0,
   "prediction": 0.00408083573835038,
   "status": 0,
   "training_prediction": 0.035963574671972

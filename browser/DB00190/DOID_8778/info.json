@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00190",
   "compound_name": "Carbidopa",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CcSEcCtD": 0.02610492333830097,
     "CrCbGaD": 0.0015507144725649916,
     "CrCrCtD": 0.3402640317570106,
     "CrCtD": 0.6320803304321234
   },
+  "n_trials": 0.0,
   "prediction": 0.00550511483492298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

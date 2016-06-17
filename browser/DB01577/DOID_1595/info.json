@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.711963589076723,
   "metapath_contribution": {
     "CbGaD": 0.7944761332875201,
     "CbGeAlD": 0.08606361514219484,
     "CbGpPWpGaD": 0.11250762433023169,
     "CrCbGaD": 0.0069526272400533325
   },
+  "n_trials": 1.0,
   "prediction": 0.00192302320107829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

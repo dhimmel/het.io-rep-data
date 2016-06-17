@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00905",
   "compound_name": "Bimatoprost",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.697009102730819,
   "metapath_contribution": {
     "CbGbCtD": 0.5194887751369671,
     "CbGdCrCtD": 0.009310737887054558,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05457097619018271,
     "CcSEcCtD": 0.1972998728211191
   },
+  "n_trials": 0.0,
   "prediction": 0.00199532496866878,
   "status": 0,
   "training_prediction": 0.00475207077404266

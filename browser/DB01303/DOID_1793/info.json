@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.545513654096229,
   "metapath_contribution": {
     "CbGbCtD": 0.5956480446393605,
     "CbGdCrCtD": 0.01006101371220612,
     "CbGpPWpGaD": 0.37637122624164066,
     "CrCbGaD": 0.01791971540679262
   },
+  "n_trials": 0.0,
   "prediction": 0.0018728413586314898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

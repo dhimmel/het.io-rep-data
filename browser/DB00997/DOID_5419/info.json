@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.0624187256176853,
   "metapath_contribution": {
     "CbGaD": 0.6740986050998591,
     "CbGeAlD": 0.13042845932766994,
     "CbGpPWpGaD": 0.19125578984557204,
     "CrCbGaD": 0.004217145726899005
   },
+  "n_trials": 0.0,
   "prediction": 0.000682516206462142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00246",
   "compound_name": "Ziprasidone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.24266756225606378,
     "CbGbCtD": 0.2953727391804846,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.25272283613667595,
     "CrCbGaD": 0.002218156689198414
   },
+  "n_trials": 0.0,
   "prediction": 0.021315053178111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00270",
   "compound_name": "Isradipine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.11833550065019502,
   "metapath_contribution": {
     "CbGaD": 0.20448555795915516,
     "CbGbCtD": 0.3402276814592917,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.29018660023677956,
     "CrCbGaD": 0.005226627514727657
   },
+  "n_trials": 0.0,
   "prediction": 0.00105177957789223,
   "status": 0,
   "training_prediction": 0.00581086311880294

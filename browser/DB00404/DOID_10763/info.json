@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7776332899869959,
   "metapath_contribution": {
     "CbGaD": 0.1212127059138121,
     "CbGbCtD": 0.27267426381171944,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0011304989045417136,
     "CrCrCtD": 0.15214225380396704
   },
+  "n_trials": 0.0,
   "prediction": 0.00900418863708642,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

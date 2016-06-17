@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.492847854356307,
   "metapath_contribution": {
-    "CbGbCtD": 0.47930094752937313,
-    "CbGeAlD": 0.004647487118932602,
-    "CbGpPWpGaD": 0.11384487633184372,
-    "CcSEcCtD": 0.14666006878576082,
-    "CrCrCtD": 0.25554662023408986
+    "CbGbCtD": 0.4793009475293731,
+    "CbGeAlD": 0.004647487118932601,
+    "CbGpPWpGaD": 0.1138448763318437,
+    "CcSEcCtD": 0.1466600687857608,
+    "CrCrCtD": 0.2555466202340898
   },
+  "n_trials": 0.0,
   "prediction": 0.0017360459631548801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

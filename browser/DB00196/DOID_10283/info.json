@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.738621586475943,
   "metapath_contribution": {
     "CbGaD": 0.334369511522695,
     "CbGbCtD": 0.42573472086647896,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14798914585514367,
     "CrCbGaD": 0.002776696597823394
   },
+  "n_trials": 0.0,
   "prediction": 0.00395030491112034,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.654096228868661,
   "metapath_contribution": {
     "CbGeAlD": 0.06863334799628545,
     "CcSEcCtD": 0.027367711263708717,
     "CrCbGaD": 0.006411574746446011,
     "CrCrCtD": 0.8975873659935597
   },
+  "n_trials": 0.0,
   "prediction": 0.0019400844820743602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

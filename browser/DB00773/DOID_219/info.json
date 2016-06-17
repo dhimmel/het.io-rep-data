@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.10703589254646516,
     "CbGbCtD": 0.17982950735758724,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.44266712339299774,
     "CtDrD": 0.19679285134011962
   },
+  "n_trials": 0.0,
   "prediction": 0.0126062888167785,
   "status": 0,
   "training_prediction": 0.11017298192137699

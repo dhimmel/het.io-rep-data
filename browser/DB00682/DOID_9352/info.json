@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.636540962288687,
   "metapath_contribution": {
     "CbGaD": 0.33880785415071035,
     "CbGbCtD": 0.5827158134925313,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.07219214913996114,
     "CrCbGaD": 0.0026680327669555406
   },
+  "n_trials": 6.0,
   "prediction": 0.00326751576283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

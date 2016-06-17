@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.649544863459038,
   "metapath_contribution": {
     "CbGaD": 0.575391133585428,
-    "CbGbCtD": 0.01251796341392923,
-    "CbGeAlD": 0.162735569157113,
-    "CbGpPWpGaD": 0.20090489346442775,
-    "CcSEcCtD": 0.04701408537573663,
-    "CrCbGaD": 0.001436355003365237
+    "CbGbCtD": 0.012517963413929231,
+    "CbGeAlD": 0.16273556915711304,
+    "CbGpPWpGaD": 0.20090489346442778,
+    "CcSEcCtD": 0.04701408537573664,
+    "CrCbGaD": 0.0014363550033652372
   },
+  "n_trials": 0.0,
   "prediction": 0.0019318772986345102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

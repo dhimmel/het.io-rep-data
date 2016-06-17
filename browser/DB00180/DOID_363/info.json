@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00180",
   "compound_name": "Flunisolide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGbCtD": 0.41165694657011376,
     "CbGeAlD": 0.012546886879566317,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0016481120525249518,
     "CrCrCtD": 0.4790075524026728
   },
+  "n_trials": 0.0,
   "prediction": 0.00199132168369567,
   "status": 0,
   "training_prediction": 0.0060506567061486705

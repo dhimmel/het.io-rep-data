@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01420",
   "compound_name": "Testosterone Propionate",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.0663198959687906,
   "metapath_contribution": {
     "CbGbCtD": 0.29984012262027815,
     "CbGeAlD": 0.32249825916669855,
     "CcSEcCtD": 0.3754934324024904,
     "CrCbGaD": 0.002168185810532905
   },
+  "n_trials": 0.0,
   "prediction": 0.000821738762606289,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.24447334200260104,
   "metapath_contribution": {
     "CbGbCtD": 0.3516156013385286,
     "CbGdCrCtD": 0.0021053410503214186,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.004788088834427544,
     "CrCrCtD": 0.2892487773388952
   },
+  "n_trials": 1.0,
   "prediction": 0.00142144752990748,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

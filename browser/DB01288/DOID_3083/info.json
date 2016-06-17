@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01288",
   "compound_name": "Fenoterol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.14479411118769436,
     "CbGbCtD": 0.19818574500139868,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.253625061325765,
     "CrCtD": 0.399511192456818
   },
+  "n_trials": 1.0,
   "prediction": 0.0415097799149302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.10235457465399748,
     "CbGbCtD": 0.250710406166964,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2725374146652801,
     "CrCtD": 0.3187619773412779
   },
+  "n_trials": 0.0,
   "prediction": 0.00971763592578568,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

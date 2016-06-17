@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01220",
   "compound_name": "Rifaximin",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.17230169050715197,
   "metapath_contribution": {
     "CbGbCtD": 0.5127140812089365,
     "CbGpPWpGaD": 0.04652468709050016,
     "CcSEcCtD": 0.43412079468944015,
     "CrCbGaD": 0.006640437011123275
   },
+  "n_trials": 1.0,
   "prediction": 0.0016869868355590802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

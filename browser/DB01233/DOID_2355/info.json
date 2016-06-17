@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.21001300390117,
   "metapath_contribution": {
-    "CbGeAlD": 0.22234279824861303,
-    "CbGpPWpGaD": 0.7360271633157991,
-    "CrCbGaD": 0.041630038435587886
+    "CbGeAlD": 0.222342798248613,
+    "CbGpPWpGaD": 0.736027163315799,
+    "CrCbGaD": 0.04163003843558788
   },
+  "n_trials": 0.0,
   "prediction": 0.000826765979545763,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

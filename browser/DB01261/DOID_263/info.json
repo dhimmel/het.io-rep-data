@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01261",
   "compound_name": "Sitagliptin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.264076451115379,
     "CbGbCtD": 0.508068324056202,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.022335218408120923,
     "CcSEcCtD": 0.2033821604159297
   },
+  "n_trials": 0.0,
   "prediction": 0.00476789695952529,
   "status": 0,
   "training_prediction": 0.0137912217280526

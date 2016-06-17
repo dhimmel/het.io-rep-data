@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.27438231469440805,
   "metapath_contribution": {
     "CbGaD": 0.24533580952070144,
     "CbGbCtD": 0.4618086873190614,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22376107323492095,
     "CrCbGaD": 0.00042707370841157634
   },
+  "n_trials": 0.0,
   "prediction": 0.00119287599927376,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

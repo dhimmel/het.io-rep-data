@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.7900801480366062,
     "CbGbCtD": 0.001869293082073074,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.02259502295570703,
     "CrCbGaD": 0.007327889192504608
   },
+  "n_trials": 0.0,
   "prediction": 0.00428110484203794,
   "status": 0,
   "training_prediction": 0.00519327723605671

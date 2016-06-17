@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7035110533159951,
   "metapath_contribution": {
     "CbGaD": 0.13526465351641365,
     "CbGbCtD": 0.470322337126131,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001474513415142317,
     "CrCrCtD": 0.1554316687420578
   },
+  "n_trials": 0.0,
   "prediction": 0.00349528234516269,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.128738621586476,
   "metapath_contribution": {
     "CbGbCtD": 0.5819139108096048,
     "CbGeAlD": 0.22216512393165808,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09543054501484823,
     "CrCbGaD": 0.0013825370204678805
   },
+  "n_trials": 0.0,
   "prediction": 0.0009617327328464109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

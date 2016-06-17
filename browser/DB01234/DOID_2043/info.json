@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.508452535760728,
   "metapath_contribution": {
     "CbGaD": 0.6148992307896116,
     "CbGbCtD": 0.13155782047625933,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10004865084180511,
     "CcSEcCtD": 0.08618032099905157
   },
+  "n_trials": 0.0,
   "prediction": 0.00157294649861183,
   "status": 0,
   "training_prediction": 0.0128074726334784

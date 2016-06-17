@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01357",
   "compound_name": "Mestranol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.09659879462684895,
     "CbGbCtD": 0.12170626747783433,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.1694537919692969,
     "CrCtD": 0.25872350695890634
   },
+  "n_trials": 0.0,
   "prediction": 0.17277262448758401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

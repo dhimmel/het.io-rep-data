@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.11234856100248733,
     "CbGbCtD": 0.23113040925895548,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.23173131277946066,
     "CrCtD": 0.3504084947730167
   },
+  "n_trials": 6.0,
   "prediction": 0.0208106042370565,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

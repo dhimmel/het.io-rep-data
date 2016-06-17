@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGbCtD": 0.06251961603740751,
     "CiPCiCtD": 0.44177428578286937,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.1768209497543918,
     "CrCtD": 0.3186246593647423
   },
+  "n_trials": 0.0,
   "prediction": 0.00667438658564244,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

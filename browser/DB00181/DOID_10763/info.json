@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.351359321112599,
     "CbGbCtD": 0.09080851805918029,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0027257198855290456,
     "CrCrCtD": 0.31102896627170207
   },
+  "n_trials": 0.0,
   "prediction": 0.0135519249609408,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

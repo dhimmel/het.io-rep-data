@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04841",
   "compound_name": "Flunarizine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.654746423927178,
   "metapath_contribution": {
     "CbGaD": 0.646552037690374,
     "CbGbCtD": 0.18693846066523598,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08048729496597674,
     "CrCbGaD": 0.0012230672045227676
   },
+  "n_trials": 0.0,
   "prediction": 0.0019486123475045602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

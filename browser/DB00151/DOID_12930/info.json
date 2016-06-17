@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00151",
   "compound_name": "L-Cysteine",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.150195058517555,
   "metapath_contribution": {
-    "CbGeAlD": 0.7271135280333464,
+    "CbGeAlD": 0.7271135280333463,
     "CbGpPWpGaD": 0.2678762747281451,
-    "CrCbGaD": 0.005010197238508632
+    "CrCbGaD": 0.005010197238508631
   },
+  "n_trials": 0.0,
   "prediction": 0.00107007444806188,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

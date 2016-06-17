@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00929",
   "compound_name": "Misoprostol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGaD": 0.8992096315385744,
     "CbGpPWpGaD": 0.054771176488499426,
     "CcSEcCtD": 0.04240164303110655,
     "CrCbGaD": 0.003617548941819706
   },
+  "n_trials": 1.0,
   "prediction": 0.004119972247107679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

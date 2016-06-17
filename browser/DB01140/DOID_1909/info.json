@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01140",
   "compound_name": "Cefadroxil",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.634590377113134,
   "metapath_contribution": {
     "CbGaD": 0.7646819110560485,
     "CbGbCtD": 0.13985621237864193,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08776861464571892,
     "CrCbGaD": 0.006690745608053453
   },
+  "n_trials": 0.0,
   "prediction": 0.00176698005413017,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

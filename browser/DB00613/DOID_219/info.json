@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.162548764629389,
   "metapath_contribution": {
     "CbGbCtD": 0.8176505174211844,
     "CbGeAlD": 0.15287610430690485,
     "CbGpPWpGaD": 0.00937727667801763,
     "CrCbGaD": 0.02009610159389297
   },
+  "n_trials": 0.0,
   "prediction": 0.0009134705029395099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

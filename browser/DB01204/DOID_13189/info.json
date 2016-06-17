@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.4388648994269979,
     "CbGbCtD": 0.3840486857866947,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04734852675641827,
     "CcSEcCtD": 0.12876791232090723
   },
+  "n_trials": 0.0,
   "prediction": 0.00839867002840888,
   "status": 0,
   "training_prediction": 0.0690675828393576

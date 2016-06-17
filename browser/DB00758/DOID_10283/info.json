@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00758",
   "compound_name": "Clopidogrel",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.2986984714101777,
     "CbGbCtD": 0.45601461094614126,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1374361714740553,
     "CrCbGaD": 0.003428381090398503
   },
+  "n_trials": 0.0,
   "prediction": 0.00659965327670203,
   "status": 0,
   "training_prediction": 0.0275089314678769

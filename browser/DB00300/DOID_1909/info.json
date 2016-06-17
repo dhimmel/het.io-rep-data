@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6170351105331601,
   "metapath_contribution": {
     "CbGbCtD": 0.625831487425768,
     "CbGeAlD": 0.11358071900990276,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11476304908068348,
     "CrCbGaD": 0.006609955406811214
   },
+  "n_trials": 0.0,
   "prediction": 0.00171876075897492,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

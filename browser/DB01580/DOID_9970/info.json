@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGaD": 0.4196166527070246,
     "CbGbCtD": 0.4129852636663136,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09468058685141766,
     "CrCbGaD": 0.005085837826487975
   },
+  "n_trials": 0.0,
   "prediction": 0.0030171101006770604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

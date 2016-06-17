@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
-    "CbGaD": 0.3683142354285924,
-    "CbGbCtD": 0.4189885162376363,
-    "CbGeAlD": 0.031886040445067765,
-    "CbGpPWpGaD": 0.09225022812255174,
-    "CcSEcCtD": 0.0853250136703665,
-    "CrCbGaD": 0.0032359660957855248
+    "CbGaD": 0.3683142354285923,
+    "CbGbCtD": 0.41898851623763617,
+    "CbGeAlD": 0.03188604044506776,
+    "CbGpPWpGaD": 0.09225022812255171,
+    "CcSEcCtD": 0.08532501367036649,
+    "CrCbGaD": 0.0032359660957855243
   },
+  "n_trials": 0.0,
   "prediction": 0.00697594371112395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

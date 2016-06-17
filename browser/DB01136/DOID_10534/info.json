@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGaD": 0.4660024570510611,
     "CbGbCtD": 0.14937845325876448,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12991774166279252,
     "CrCbGaD": 0.004422784642041064
   },
+  "n_trials": 0.0,
   "prediction": 0.00258877205513432,
   "status": 0,
   "training_prediction": 0.00569738779017954

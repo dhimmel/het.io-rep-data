@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06218",
   "compound_name": "Lacosamide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.117685305591678,
   "metapath_contribution": {
     "CbGaD": 0.54726146447395,
     "CbGeAlD": 0.0356517681817206,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002263609898958502,
     "CrCrCtD": 0.1594868503808174
   },
+  "n_trials": 0.0,
   "prediction": 0.00104818454365761,
   "status": 0,
   "training_prediction": 0.00579109560504671

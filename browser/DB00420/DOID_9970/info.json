@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.20562074901597321,
     "CbGbCtD": 0.21842707612338613,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.19020501351737043,
     "CrCtD": 0.3172573773524719
   },
+  "n_trials": 0.0,
   "prediction": 0.0103642774726441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

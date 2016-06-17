@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.4436479845365336,
     "CbGeAlD": 0.048427914565391174,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.003072544519900557,
     "CrCrCtD": 0.3080152683970454
   },
+  "n_trials": 0.0,
   "prediction": 0.00436125940578064,
   "status": 0,
   "training_prediction": 0.0117793046033586

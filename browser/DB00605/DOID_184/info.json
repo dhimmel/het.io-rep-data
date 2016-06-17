@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.551383240858489,
     "CbGbCtD": 0.08795294483090378,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.18700916743686527,
     "CcSEcCtD": 0.1337750669292873
   },
+  "n_trials": 0.0,
   "prediction": 0.00306997403264776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

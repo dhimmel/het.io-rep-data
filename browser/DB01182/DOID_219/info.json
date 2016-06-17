@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6183355006501949,
   "metapath_contribution": {
     "CbGaD": 0.47657905175355053,
     "CbGbCtD": 0.2940586452066675,
     "CcSEcCtD": 0.2253683945291636,
     "CrCbGaD": 0.0039939085106182
   },
+  "n_trials": 0.0,
   "prediction": 0.0018637291517743602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

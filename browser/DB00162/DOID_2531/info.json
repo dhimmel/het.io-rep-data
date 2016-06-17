@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8725617685305591,
   "metapath_contribution": {
     "CbGbCtD": 0.06331888192858574,
     "CbGdCrCtD": 0.0016796206718978233,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.31681763234680055,
     "CrCtD": 0.4981441713386116
   },
+  "n_trials": 1.0,
   "prediction": 0.006741299488768671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.314044213263979,
   "metapath_contribution": {
     "CbGbCtD": 0.2713340096110112,
     "CbGeAlD": 0.038743767396201674,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.48831527085577925,
     "CrCbGaD": 0.016434243168858303
   },
+  "n_trials": 0.0,
   "prediction": 0.0011412364906533,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

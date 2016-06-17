@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7360208062418729,
   "metapath_contribution": {
     "CbGaD": 0.8139860894997454,
     "CbGeAlD": 0.09363290913643407,
     "CbGpPWpGaD": 0.08724168518137236,
     "CrCbGaD": 0.00513931618244817
   },
+  "n_trials": 0.0,
   "prediction": 0.0032967312852592396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

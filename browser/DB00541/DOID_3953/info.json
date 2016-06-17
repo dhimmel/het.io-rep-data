@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.5240572171651501,
   "metapath_contribution": {
-    "CbGaD": 0.20418290426674862,
-    "CbGeAlD": 0.0440426456969084,
-    "CbGpPWpGaD": 0.059634186948388145,
-    "CrCbGaD": 0.005358126010443018,
-    "CtDrD": 0.6867821370775119
+    "CbGaD": 0.2041829042667486,
+    "CbGeAlD": 0.044042645696908383,
+    "CbGpPWpGaD": 0.05963418694838813,
+    "CrCbGaD": 0.0053581260104430175,
+    "CtDrD": 0.6867821370775117
   },
+  "n_trials": 2.0,
   "prediction": 0.0013389045600225,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

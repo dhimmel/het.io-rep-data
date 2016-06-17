@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00857",
   "compound_name": "Terbinafine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8159947984395319,
   "metapath_contribution": {
     "CbGaD": 0.3598371949159843,
     "CbGbCtD": 0.4504095928543417,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1272168756093868,
     "CrCbGaD": 0.001149081053847983
   },
+  "n_trials": 0.0,
   "prediction": 0.00405922944362507,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

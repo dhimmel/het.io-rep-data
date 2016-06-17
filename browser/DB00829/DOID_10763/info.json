@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.628088426527958,
   "metapath_contribution": {
     "CbGaD": 0.2181379580878117,
     "CbGbCtD": 0.3449684637196697,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002277183323341332,
     "CrCrCtD": 0.21080034759593236
   },
+  "n_trials": 0.0,
   "prediction": 0.00529748492214072,
   "status": 0,
   "training_prediction": 0.0598895054109602

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00952",
   "compound_name": "Naratriptan",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.45318595578673604,
   "metapath_contribution": {
     "CbGeAlD": 0.18083617212170527,
     "CbGpPWpGaD": 0.2364295663402387,
     "CcSEcCtD": 0.5784336617683237,
     "CrCbGaD": 0.0043005997697323295
   },
+  "n_trials": 0.0,
   "prediction": 0.00170513114839664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

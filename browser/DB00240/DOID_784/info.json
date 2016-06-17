@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0227568270481144,
   "metapath_contribution": {
     "CbGaD": 0.9331671305114638,
     "CbGeAlD": 0.034837425956776163,
     "CbGpPWpGaD": 0.021428801022356288,
     "CrCbGaD": 0.010566642509403609
   },
+  "n_trials": 0.0,
   "prediction": 0.00060895906024143,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

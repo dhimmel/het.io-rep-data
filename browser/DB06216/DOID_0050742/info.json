@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.6374735802002522,
     "CbGeAlD": 0.05168110699382057,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14463367419969234,
     "CrCbGaD": 0.002819452859203769
   },
+  "n_trials": 0.0,
   "prediction": 0.0037504245377115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

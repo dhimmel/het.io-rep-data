@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.4233733066709559,
     "CbGbCtD": 0.31831676024602557,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09649007128074413,
     "CcSEcCtD": 0.12682895976663391
   },
+  "n_trials": 0.0,
   "prediction": 0.0020322965512768,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

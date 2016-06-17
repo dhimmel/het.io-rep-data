@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.333550065019506,
   "metapath_contribution": {
     "CbGbCtD": 0.7471171290614782,
     "CbGdCrCtD": 0.004138740091297271,
     "CbGpPWpGaD": 0.02012632815752984,
     "CcSEcCtD": 0.22861780268969467
   },
+  "n_trials": 0.0,
   "prediction": 0.00149477856708081,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

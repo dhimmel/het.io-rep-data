@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGbCtD": 0.2749649716398853,
     "CbGeAlD": 0.007038200691689492,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.23939717370030578,
     "CrCtD": 0.3441658705825356
   },
+  "n_trials": 0.0,
   "prediction": 0.0052269190929243705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

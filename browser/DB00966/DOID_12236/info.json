@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.5213722185368608,
     "CbGbCtD": 0.22451971778993446,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1315659855238935,
     "CrCbGaD": 0.0021125225139265948
   },
+  "n_trials": 0.0,
   "prediction": 0.004738647401082229,
   "status": 0,
   "training_prediction": 0.007772708677727279

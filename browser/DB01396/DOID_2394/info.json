@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01396",
   "compound_name": "Digitoxin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.340702210663199,
   "metapath_contribution": {
     "CbGaD": 0.3543984486167779,
     "CbGbCtD": 0.5292779054111124,
     "CbGeAlD": 0.10745676188904299,
     "CbGpPWpGaD": 0.008866884083066674
   },
+  "n_trials": 0.0,
   "prediction": 0.00118365767015265,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

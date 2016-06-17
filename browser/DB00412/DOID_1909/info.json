@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5370611183355011,
   "metapath_contribution": {
     "CbGaD": 0.5217552279333615,
     "CbGbCtD": 0.28030647456128377,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06685390103467674,
     "CrCbGaD": 0.001901384884000259
   },
+  "n_trials": 0.0,
   "prediction": 0.00152364536194595,
   "status": 0,
   "training_prediction": 0.00278354340550759

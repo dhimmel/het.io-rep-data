@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGbCtD": 0.6212795302593763,
     "CbGpPWpGaD": 0.03418400243982512,
     "CcSEcCtD": 0.34453646730079857
   },
+  "n_trials": 5.0,
   "prediction": 0.00271263357865831,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.659297789336801,
   "metapath_contribution": {
     "CbGaD": 0.7069968985019731,
     "CbGdCrCtD": 0.003996859892436718,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.044363247351755175,
     "CrCbGaD": 0.0007068332218512686
   },
+  "n_trials": 0.0,
   "prediction": 0.00216503465526496,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

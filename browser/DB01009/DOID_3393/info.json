@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.1232415643032303,
     "CbGbCtD": 0.21125712902088337,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.001524101953810976,
     "CrCrCtD": 0.09498735151104198
   },
+  "n_trials": 0.0,
   "prediction": 0.0156044047818144,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

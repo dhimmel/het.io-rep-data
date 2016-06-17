@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGbCtD": 0.754499170226397,
     "CbGeAlD": 0.10308488287635997,
     "CbGpPWpGaD": 0.14078886894423806,
     "CrCbGaD": 0.001627077953005033
   },
+  "n_trials": 0.0,
   "prediction": 0.0019800985297628,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

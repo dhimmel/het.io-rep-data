@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8003901170351109,
   "metapath_contribution": {
-    "CbGaD": 0.11851789685248092,
-    "CbGbCtD": 0.07592828105608272,
-    "CbGpPWpGaD": 0.028222970630145994,
-    "CcSEcCtD": 0.12426280486288403,
-    "CiPCiCtD": 0.5286918297926646,
-    "CrCbGaD": 0.002281185515010023,
-    "CrCrCtD": 0.12209503129073193
+    "CbGaD": 0.11851789685248089,
+    "CbGbCtD": 0.07592828105608271,
+    "CbGpPWpGaD": 0.028222970630145987,
+    "CcSEcCtD": 0.124262804862884,
+    "CiPCiCtD": 0.5286918297926645,
+    "CrCbGaD": 0.0022811855150100227,
+    "CrCrCtD": 0.1220950312907319
   },
+  "n_trials": 0.0,
   "prediction": 0.004824960717052571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

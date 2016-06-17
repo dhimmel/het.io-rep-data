@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.41157347204161204,
   "metapath_contribution": {
     "CbGaD": 0.7101239859714172,
     "CbGeAlD": 0.04680295731766428,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1413215647114209,
     "CrCbGaD": 0.006245343749230994
   },
+  "n_trials": 0.0,
   "prediction": 0.00125189593120035,
   "status": 0,
   "training_prediction": 0.000923233898172633

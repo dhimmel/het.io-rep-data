@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.5922600030097611,
     "CbGbCtD": 0.04661129217044575,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.24232052034484144,
     "CrCbGaD": 0.004690485786031954
   },
+  "n_trials": 0.0,
   "prediction": 0.0039515760876204205,
   "status": 0,
   "training_prediction": 0.0029162326272285898

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01081",
   "compound_name": "Diphenoxylate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.556566970091027,
   "metapath_contribution": {
     "CbGaD": 0.5591467504606435,
     "CbGeAlD": 0.02993320153710237,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00602309590840858,
     "CrCrCtD": 0.3346384603107767
   },
+  "n_trials": 0.0,
   "prediction": 0.00379718629895393,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

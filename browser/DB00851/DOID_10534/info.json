@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00851",
   "compound_name": "Dacarbazine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGbCtD": 0.08417535991701412,
     "CbGeAlD": 0.010975130306974827,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.5693331122744621,
     "CtDrD": 0.3031732216365102
   },
+  "n_trials": 1.0,
   "prediction": 0.0151692380696101,
   "status": 0,
   "training_prediction": 0.133249068996167

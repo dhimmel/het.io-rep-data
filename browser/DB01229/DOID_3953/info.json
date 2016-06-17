@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.16304261898522496,
     "CbGeAlD": 0.03376724652875913,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003159739726814197,
     "CtDrD": 0.7395567654514551
   },
+  "n_trials": 2.0,
   "prediction": 0.00318741545084401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

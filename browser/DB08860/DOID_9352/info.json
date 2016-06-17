@@ -1,17 +1,20 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
-    "CbGaD": 0.2200136373964798,
-    "CbGbCtD": 0.30624862507171235,
-    "CbGeAlD": 0.004631469777728254,
-    "CbGpPWpGaD": 0.04334848335555917,
-    "CcSEcCtD": 0.059474821753495666,
-    "CrCbGaD": 0.002244900264917179,
-    "CtDrD": 0.36403806238010766
+    "CbGaD": 0.22001363739647978,
+    "CbGbCtD": 0.3062486250717123,
+    "CbGeAlD": 0.004631469777728253,
+    "CbGpPWpGaD": 0.043348483355559166,
+    "CcSEcCtD": 0.05947482175349565,
+    "CrCbGaD": 0.0022449002649171787,
+    "CtDrD": 0.3640380623801076
   },
+  "n_trials": 3.0,
   "prediction": 0.0116172955940755,
   "status": 0,
   "training_prediction": 0.0494107049933337

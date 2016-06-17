@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0890767230169051,
   "metapath_contribution": {
     "CbGaD": 0.5867753596042888,
     "CbGeAlD": 0.057631765860040145,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18747558148040605,
     "CrCbGaD": 0.006038456740411723
   },
+  "n_trials": 0.0,
   "prediction": 0.0009535157685998689,
   "status": 0,
   "training_prediction": 0.00527032181235906

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.8465539661898571,
   "metapath_contribution": {
     "CbGaD": 0.8031854827344564,
     "CbGeAlD": 0.04687673544202866,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.016198463679082162,
     "CrCbGaD": 0.0014564593931942235
   },
+  "n_trials": 0.0,
   "prediction": 0.00238405579807606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

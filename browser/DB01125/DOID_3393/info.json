@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01125",
   "compound_name": "Anisindione",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0663198959687906,
   "metapath_contribution": {
-    "CbGeAlD": 0.49057889236328434,
-    "CbGpPWpGaD": 0.4742515577443875,
-    "CrCbGaD": 0.03516954989232822
+    "CbGeAlD": 0.4905788923632843,
+    "CbGpPWpGaD": 0.4742515577443874,
+    "CrCbGaD": 0.03516954989232821
   },
+  "n_trials": 0.0,
   "prediction": 0.000787586181284843,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

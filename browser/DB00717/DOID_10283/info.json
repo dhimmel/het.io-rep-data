@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.13297190632657252,
     "CbGbCtD": 0.16273687596640457,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2022720317015436,
     "CrCtD": 0.2256380292158053
   },
+  "n_trials": 0.0,
   "prediction": 0.0286911939323631,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

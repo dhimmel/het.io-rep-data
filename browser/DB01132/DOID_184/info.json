@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.61443433029909,
   "metapath_contribution": {
     "CbGaD": 0.6203754604915037,
     "CbGbCtD": 0.23741491088996974,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0405681288689811,
     "CcSEcCtD": 0.09974449201169512
   },
+  "n_trials": 1.0,
   "prediction": 0.00182509184984302,
   "status": 0,
   "training_prediction": 0.0026039254710584396

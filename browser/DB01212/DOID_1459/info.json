@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGbCtD": 0.7988043240207705,
     "CbGeAlD": 0.03944202293657316,
     "CbGpPWpGaD": 0.028064333167043445,
     "CcSEcCtD": 0.13368931987561294
   },
+  "n_trials": 0.0,
   "prediction": 0.00201967644590831,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

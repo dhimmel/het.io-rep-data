@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.2804523251913755,
     "CbGbCtD": 0.4617676628732267,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03295454558694991,
     "CcSEcCtD": 0.1338143240148855
   },
+  "n_trials": 0.0,
   "prediction": 0.00516577703874311,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

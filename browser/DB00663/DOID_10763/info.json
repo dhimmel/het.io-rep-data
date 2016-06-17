@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00663",
   "compound_name": "Flumethasone Pivalate",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0455136540962289,
   "metapath_contribution": {
     "CbGaD": 0.6384900915474979,
     "CbGbCtD": 0.12569042600488897,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16009231070996022,
     "CrCbGaD": 0.00959014666812138
   },
+  "n_trials": 0.0,
   "prediction": 0.0009548438889488269,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.7920758996147292,
     "CbGeAlD": 0.08021293191257253,
     "CbGpPWpGaD": 0.12093425764497426,
     "CrCbGaD": 0.0067769108277239394
   },
+  "n_trials": 12.0,
   "prediction": 0.00314288386998968,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

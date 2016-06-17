@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.212613784135241,
   "metapath_contribution": {
-    "CbGbCtD": 0.43692571760500837,
-    "CbGeAlD": 0.04275854247202912,
-    "CbGpPWpGaD": 0.3414014930756814,
-    "CcSEcCtD": 0.16933498811116204,
-    "CrCbGaD": 0.009579258736118944
+    "CbGbCtD": 0.4369257176050085,
+    "CbGeAlD": 0.04275854247202913,
+    "CbGpPWpGaD": 0.34140149307568146,
+    "CcSEcCtD": 0.16933498811116207,
+    "CrCbGaD": 0.009579258736118946
   },
+  "n_trials": 0.0,
   "prediction": 0.000925072660330468,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

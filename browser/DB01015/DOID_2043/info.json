@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.50520156046814,
   "metapath_contribution": {
     "CbGaD": 0.6270718708865263,
     "CbGeAlD": 0.025037712207378653,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2593954532616295,
     "CrCbGaD": 0.004578791627205828
   },
+  "n_trials": 0.0,
   "prediction": 0.00156625219041301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

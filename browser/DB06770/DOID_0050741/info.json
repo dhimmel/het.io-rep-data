@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.43237454552212456,
     "CbGbCtD": 0.43989592939992483,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.020779473227305837,
     "CrCbGaD": 0.004125123800958973
   },
+  "n_trials": 0.0,
   "prediction": 0.0080345694402887,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

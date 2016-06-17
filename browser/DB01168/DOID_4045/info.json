@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01168",
   "compound_name": "Procarbazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGbCtD": 0.10024518338144156,
     "CbGpPWpGaD": 0.0037676220777392404,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.5094494295553462,
     "CtDrD": 0.3507483592191404
   },
+  "n_trials": 0.0,
   "prediction": 0.0205736049317517,
   "status": 0,
   "training_prediction": 0.0540696228152528

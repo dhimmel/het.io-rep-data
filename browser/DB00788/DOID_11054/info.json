@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.4801769225421558,
     "CbGbCtD": 0.309551452282101,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.12061541008453865,
     "CrCbGaD": 0.004475846107208622
   },
+  "n_trials": 0.0,
   "prediction": 0.0032571919735246303,
   "status": 0,
   "training_prediction": 0.00832520480041556

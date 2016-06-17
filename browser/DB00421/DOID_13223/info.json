@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.8287008813949389,
     "CbGeAlD": 0.08139695753246716,
     "CbGpPWpGaD": 0.08185103825841379,
     "CrCbGaD": 0.00805112281418015
   },
+  "n_trials": 0.0,
   "prediction": 0.00236382134226315,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

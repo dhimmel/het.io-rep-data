@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.5715214564369311,
   "metapath_contribution": {
     "CbGbCtD": 0.3006486889194246,
     "CcSEcCtD": 0.17334503591206352,
     "CrCbGaD": 0.00360312340117193,
     "CrCrCtD": 0.52240315176734
   },
+  "n_trials": 0.0,
   "prediction": 0.0021013683369608,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

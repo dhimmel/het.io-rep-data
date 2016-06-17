@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.4882964889466839,
   "metapath_contribution": {
     "CbGaD": 0.7659424879936128,
     "CbGbCtD": 0.028651598735282894,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18027981274105773,
     "CrCbGaD": 0.007696400441996235
   },
+  "n_trials": 1.0,
   "prediction": 0.00244484493948367,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

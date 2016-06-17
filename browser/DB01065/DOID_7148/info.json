@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.7548764629388821,
   "metapath_contribution": {
     "CbGaD": 0.3724473305483284,
     "CbGbCtD": 0.2729354493359794,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1317407192693573,
     "CrCbGaD": 0.001956398141230625
   },
+  "n_trials": 0.0,
   "prediction": 0.00261496792772378,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

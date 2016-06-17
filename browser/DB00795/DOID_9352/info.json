@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7399219765929781,
   "metapath_contribution": {
     "CbGaD": 0.3194794998681874,
     "CbGbCtD": 0.4990638179763318,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11759120239645497,
     "CrCbGaD": 0.002220873404683687
   },
+  "n_trials": 0.0,
   "prediction": 0.00417992377429083,
   "status": 0,
   "training_prediction": 0.0502959161437252

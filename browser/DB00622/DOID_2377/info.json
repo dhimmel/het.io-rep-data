@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.280884265279584,
   "metapath_contribution": {
     "CbGbCtD": 0.5662859396371012,
     "CbGeAlD": 0.10695055239781588,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12910360105260915,
     "CrCbGaD": 4.821710864245154e-06
   },
+  "n_trials": 0.0,
   "prediction": 0.00138112399555044,
   "status": 0,
   "training_prediction": 0.0035404460501409296

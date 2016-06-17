@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00715",
   "compound_name": "Paroxetine",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.31612180432525694,
     "CbGeAlD": 0.006392049559102732,
     "CbGpPWpGaD": 0.2726360996818407,
     "CcSEcCtD": 0.4048500464337997
   },
+  "n_trials": 0.0,
   "prediction": 0.00273101056346095,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.40052015604681396,
   "metapath_contribution": {
     "CbGaD": 0.9443278801451064,
     "CbGeAlD": 0.0004562804448492413,
     "CbGpPWpGaD": 0.05350409493201738,
     "CrCbGaD": 0.001711744478026862
   },
+  "n_trials": 0.0,
   "prediction": 0.0011518514891250302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

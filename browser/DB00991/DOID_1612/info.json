@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5351105331599479,
   "metapath_contribution": {
     "CbGaD": 0.2978932309779956,
     "CbGbCtD": 0.12149680365847455,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002425307612710483,
     "CrCrCtD": 0.40013667120268803
   },
+  "n_trials": 0.0,
   "prediction": 0.00253361844216145,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

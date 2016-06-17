@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00856",
   "compound_name": "Chlorphenesin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.7554770604205029,
     "CbGeAlD": 0.13949972519515244,
     "CbGpPWpGaD": 0.09919130291724988,
     "CrCbGaD": 0.005831911467094788
   },
+  "n_trials": 0.0,
   "prediction": 0.00215840793808764,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

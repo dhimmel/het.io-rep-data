@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00855",
   "compound_name": "Aminolevulinic acid",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.687906371911573,
   "metapath_contribution": {
     "CbGaD": 0.8107490260345008,
     "CbGeAlD": 0.016075210517653343,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15159298254296294,
     "CrCbGaD": 0.007039824687800155
   },
+  "n_trials": 0.0,
   "prediction": 0.0019169841523285801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

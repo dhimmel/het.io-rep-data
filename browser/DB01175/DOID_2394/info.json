@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.560468140442133,
   "metapath_contribution": {
     "CbGbCtD": 0.12036415302860207,
     "CbGpPWpGaD": 0.043169722835317954,
     "CcSEcCtD": 0.8313375287845085,
     "CrCbGaD": 0.005128595351571538
   },
+  "n_trials": 0.0,
   "prediction": 0.00161706016489911,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

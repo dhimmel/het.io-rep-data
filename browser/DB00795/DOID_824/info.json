@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.6989596879063721,
   "metapath_contribution": {
     "CbGaD": 0.6306621814253354,
     "CbGeAlD": 0.11762100571774696,
     "CbGpPWpGaD": 0.24188967121865707,
     "CrCbGaD": 0.009827141638260563
   },
+  "n_trials": 0.0,
   "prediction": 0.00162667584998065,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

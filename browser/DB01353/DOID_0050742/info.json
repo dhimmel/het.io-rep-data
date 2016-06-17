@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01353",
   "compound_name": "Butethal",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.4365066031231425,
     "CbGbCtD": 0.44612580670740826,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10456336898371144,
     "CrCbGaD": 0.00439122283161731
   },
+  "n_trials": 0.0,
   "prediction": 0.0118834248977961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

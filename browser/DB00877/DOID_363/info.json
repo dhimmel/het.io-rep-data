@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.0448634590377113,
   "metapath_contribution": {
     "CbGbCtD": 0.4455205055253603,
     "CbGeAlD": 0.10879012976864781,
     "CbGpPWpGaD": 0.1776817267484567,
     "CcSEcCtD": 0.26800763795753507
   },
+  "n_trials": 9.0,
   "prediction": 0.000777893273370429,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

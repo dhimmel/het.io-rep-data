@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.637191157347204,
   "metapath_contribution": {
-    "CbGaD": 0.781755747192526,
-    "CbGeAlD": 0.07146575218186284,
-    "CbGpPWpGaD": 0.13768477011684058,
-    "CrCbGaD": 0.009093730508770607
+    "CbGaD": 0.7817557471925259,
+    "CbGeAlD": 0.07146575218186282,
+    "CbGpPWpGaD": 0.13768477011684055,
+    "CrCbGaD": 0.009093730508770605
   },
+  "n_trials": 0.0,
   "prediction": 0.0016832170184738,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

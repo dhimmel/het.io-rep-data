@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01409",
   "compound_name": "Tiotropium",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.783485045513654,
   "metapath_contribution": {
     "CbGbCtD": 0.6071779608222861,
     "CbGdCrCtD": 0.005772898273489564,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3342396341972717,
     "CrCbGaD": 0.00319959350794847
   },
+  "n_trials": 0.0,
   "prediction": 0.0029645777987865603,
   "status": 0,
   "training_prediction": 0.0142794321886717

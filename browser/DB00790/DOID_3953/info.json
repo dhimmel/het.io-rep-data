@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.2949062638031051,
     "CbGeAlD": 0.03885218100698145,
     "CrCbGaD": 0.0006155049081081754,
     "CtDrD": 0.6656260502818052
   },
+  "n_trials": 0.0,
   "prediction": 0.00437515526671032,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

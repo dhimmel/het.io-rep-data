@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.567620286085826,
   "metapath_contribution": {
     "CbGaD": 0.8406827272836891,
     "CbGeAlD": 0.034707047425213966,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0166950091042885,
     "CrCbGaD": 0.007329303890007597
   },
+  "n_trials": 1.0,
   "prediction": 0.0015434902998831801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

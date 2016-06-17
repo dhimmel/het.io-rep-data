@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.22750264203105094,
     "CbGdCrCtD": 0.00129810121460498,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0655905746076792,
     "CiPCiCtD": 0.6869659596779799
   },
+  "n_trials": 4.0,
   "prediction": 0.0254492237730581,
   "status": 0,
   "training_prediction": 0.0455897905340831

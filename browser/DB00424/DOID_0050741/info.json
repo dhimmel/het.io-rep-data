@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00424",
   "compound_name": "Hyoscyamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.270233657631479,
     "CbGbCtD": 0.0839930475760208,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0029378029041104013,
     "CtDrD": 0.5348153304634007
   },
+  "n_trials": 0.0,
   "prediction": 0.0137614389339126,
   "status": 0,
   "training_prediction": 0.0166597833886718

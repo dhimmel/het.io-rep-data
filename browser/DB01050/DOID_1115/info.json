@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.601430429128739,
   "metapath_contribution": {
     "CbGbCtD": 0.5888173053352834,
     "CbGdCrCtD": 0.0024119295059691907,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10923340264327631,
     "CcSEcCtD": 0.18416436263016595
   },
+  "n_trials": 0.0,
   "prediction": 0.00166593072396415,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

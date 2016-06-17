@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00450",
   "compound_name": "Droperidol",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.8622319664164492,
     "CbGeAlD": 0.07225453104815344,
     "CbGpPWpGaD": 0.061940605732453566,
     "CrCbGaD": 0.003572896802943872
   },
+  "n_trials": 0.0,
   "prediction": 0.00259336953158922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.315344603381014,
   "metapath_contribution": {
     "CbGaD": 0.6482101030156229,
     "CbGbCtD": 0.1478366935063956,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1723765926785498,
     "CrCbGaD": 0.007889810915729713
   },
+  "n_trials": 0.0,
   "prediction": 0.00116469434417977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

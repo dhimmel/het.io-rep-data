@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01028",
   "compound_name": "Methoxyflurane",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.892717815344603,
   "metapath_contribution": {
     "CbGaD": 0.5869362546376671,
     "CbGbCtD": 0.19875319935072708,
     "CbGeAlD": 0.05688271894104171,
     "CbGpPWpGaD": 0.15742782707056419
   },
+  "n_trials": 0.0,
   "prediction": 0.0032953082529415603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

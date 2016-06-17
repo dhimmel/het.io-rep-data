@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00677",
   "compound_name": "Isoflurophate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.849804941482445,
   "metapath_contribution": {
     "CbGaD": 0.7401909286101626,
     "CbGbCtD": 0.16668296331898544,
     "CbGeAlD": 0.00347102706747971,
     "CbGpPWpGaD": 0.08965508100337226
   },
+  "n_trials": 0.0,
   "prediction": 0.005448022560925379,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

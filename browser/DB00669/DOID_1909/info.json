@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGaD": 0.22246574743208647,
     "CbGbCtD": 0.40933672748163397,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21698875447657173,
     "CrCbGaD": 0.0005826367588680631
   },
+  "n_trials": 0.0,
   "prediction": 0.0016970437933521401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

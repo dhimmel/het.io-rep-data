@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.04635317613063686,
     "CbGbCtD": 0.24475636553564528,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0025317031382454296,
     "CrCtD": 0.5645166115405882
   },
+  "n_trials": 0.0,
   "prediction": 0.0074380498199846,
   "status": 0,
   "training_prediction": 0.0787842374697892

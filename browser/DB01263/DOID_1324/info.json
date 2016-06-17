@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01263",
   "compound_name": "Posaconazole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.2822632075595221,
     "CbGbCtD": 0.4551296272608456,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23620588207681695,
     "CrCbGaD": 0.0035166207399166026
   },
+  "n_trials": 0.0,
   "prediction": 0.00339550529937518,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

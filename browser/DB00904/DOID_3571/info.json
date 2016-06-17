@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.4799124216876612,
     "CbGbCtD": 0.31078914504697475,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10093875026408679,
     "CrCbGaD": 0.00555801234463644
   },
+  "n_trials": 0.0,
   "prediction": 0.00277719707312432,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

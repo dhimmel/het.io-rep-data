@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00152",
   "compound_name": "Thiamine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7113133940182049,
   "metapath_contribution": {
     "CbGbCtD": 0.2024936100920651,
     "CbGeAlD": 0.18236912855945261,
     "CbGpPWpGaD": 0.37889524015497356,
     "CcSEcCtD": 0.2362420211935087
   },
+  "n_trials": 0.0,
   "prediction": 0.0026430147058609,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

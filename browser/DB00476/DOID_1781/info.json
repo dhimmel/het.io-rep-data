@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.33875162548764604,
   "metapath_contribution": {
     "CbGbCtD": 0.33671609319648466,
     "CbGeAlD": 0.002132071247551115,
     "CbGpPWpGaD": 0.06450302694280899,
     "CcSEcCtD": 0.5966488086131552
   },
+  "n_trials": 0.0,
   "prediction": 0.00122151306842292,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

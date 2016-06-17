@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.7483639536562373,
     "CbGeAlD": 0.08310202691408994,
     "CbGpPWpGaD": 0.16853401942967283
   },
+  "n_trials": 1.0,
   "prediction": 0.00355910831191728,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

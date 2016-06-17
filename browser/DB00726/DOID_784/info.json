@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.423927178153446,
   "metapath_contribution": {
     "CbGaD": 0.7382124217913505,
     "CbGeAlD": 0.08564566201901493,
     "CbGpPWpGaD": 0.16620102638113984,
     "CrCbGaD": 0.009940889808494804
   },
+  "n_trials": 0.0,
   "prediction": 0.00141373964806397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

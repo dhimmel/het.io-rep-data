@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00322",
   "compound_name": "Floxuridine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.25627471421969894,
     "CbGbCtD": 0.342407068286147,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0008187421116613755,
     "CtDrD": 0.3352392875711042
   },
+  "n_trials": 0.0,
   "prediction": 0.0153792021578334,
   "status": 0,
   "training_prediction": 0.0218156584294992

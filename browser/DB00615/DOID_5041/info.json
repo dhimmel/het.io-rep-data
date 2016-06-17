@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00615",
   "compound_name": "Rifabutin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.6898569570871259,
   "metapath_contribution": {
     "CbGeAlD": 0.2747587436009045,
     "CbGpPWpGaD": 0.5280308292778527,
     "CcSEcCtD": 0.17581817684745102,
     "CrCbGaD": 0.021392250273791807
   },
+  "n_trials": 0.0,
   "prediction": 0.00193885321300698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

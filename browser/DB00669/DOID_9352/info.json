@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.507802340702211,
   "metapath_contribution": {
     "CbGbCtD": 0.6427900241572142,
     "CbGeAlD": 0.018296110374088497,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22845550878059398,
     "CrCbGaD": 0.005597143099686284
   },
+  "n_trials": 0.0,
   "prediction": 0.00254052300508284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.604031209362809,
   "metapath_contribution": {
     "CbGaD": 0.2187826056521418,
     "CbGbCtD": 0.3793265900780195,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21892791664481911,
     "CrCbGaD": 0.0006707484534736448
   },
+  "n_trials": 0.0,
   "prediction": 0.0020294736193484197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

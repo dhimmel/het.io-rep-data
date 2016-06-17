@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGbCtD": 0.6993634668733557,
     "CbGeAlD": 0.017387258302273015,
     "CbGpPWpGaD": 0.05259793517000763,
     "CcSEcCtD": 0.2306513396543635
   },
+  "n_trials": 0.0,
   "prediction": 0.0039446523329744,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

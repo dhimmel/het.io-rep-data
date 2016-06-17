@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.386866059817945,
   "metapath_contribution": {
     "CbGbCtD": 0.4123736322000236,
     "CbGeAlD": 0.1776679324972926,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0004914644865121465,
     "CrCbGaD": 0.0006792615782226262
   },
+  "n_trials": 0.0,
   "prediction": 0.00120405119843501,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
-    "CbGaD": 0.750126388706535,
-    "CbGeAlD": 0.08861361342255242,
+    "CbGaD": 0.7501263887065349,
+    "CbGeAlD": 0.0886136134225524,
     "CbGpPWpGaD": 0.15358096292329776,
-    "CrCbGaD": 0.007679034947614878
+    "CrCbGaD": 0.007679034947614877
   },
+  "n_trials": 1.0,
   "prediction": 0.0015406824747932302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

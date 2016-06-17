@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01408",
   "compound_name": "Bambuterol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6716514954486351,
   "metapath_contribution": {
     "CbGaD": 0.4176064544912628,
     "CbGbCtD": 0.5304199900160779,
     "CbGpPWpGaD": 0.04792694383250622,
     "CrCbGaD": 0.004046611660153103
   },
+  "n_trials": 0.0,
   "prediction": 0.00328999979318626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

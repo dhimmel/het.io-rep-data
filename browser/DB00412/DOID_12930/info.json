@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.278283485045514,
   "metapath_contribution": {
     "CbGbCtD": 0.5775973729861945,
     "CbGeAlD": 0.11718675404395928,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2639330728283579,
     "CrCbGaD": 0.010878604080297541
   },
+  "n_trials": 1.0,
   "prediction": 0.00126881739200984,
   "status": 0,
   "training_prediction": 0.00125164696958064

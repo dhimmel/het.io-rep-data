@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGaD": 0.2145957378433016,
     "CbGbCtD": 0.6098252835326504,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03132186590522059,
     "CcSEcCtD": 0.13507443738680444
   },
+  "n_trials": 0.0,
   "prediction": 0.008386261145918679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

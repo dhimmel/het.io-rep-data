@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.131339401820546,
   "metapath_contribution": {
     "CbGaD": 0.5984567680890033,
     "CbGeAlD": 0.24980072044854534,
     "CbGpPWpGaD": 0.14826091629980903,
     "CrCbGaD": 0.003481595162642321
   },
+  "n_trials": 0.0,
   "prediction": 0.000980389185098886,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

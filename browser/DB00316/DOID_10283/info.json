@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.3383558854417599,
     "CbGbCtD": 0.2803925255361766,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.20625102227579656,
     "CrCbGaD": 0.0015751699249885141
   },
+  "n_trials": 0.0,
   "prediction": 0.0213253935551235,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

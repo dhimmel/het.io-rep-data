@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01170",
   "compound_name": "Guanethidine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.28045617372467996,
     "CbGeAlD": 0.0031415593821527248,
     "CbGpPWpGaD": 0.019083014941507753,
     "CtDrD": 0.6973192519516597
   },
+  "n_trials": 0.0,
   "prediction": 0.008316193756526391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

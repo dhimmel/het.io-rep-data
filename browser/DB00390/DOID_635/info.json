@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.360208062418726,
   "metapath_contribution": {
     "CbGbCtD": 0.7598834027603606,
     "CbGeAlD": 0.10299955964002597,
     "CcSEcCtD": 0.13638738097799816,
     "CrCbGaD": 0.000729656621615277
   },
+  "n_trials": 0.0,
   "prediction": 0.00196970179144472,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

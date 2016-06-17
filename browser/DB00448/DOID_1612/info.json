@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.3261119326121653,
     "CbGbCtD": 0.4244441838124834,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14221994665648927,
     "CrCbGaD": 0.0030648216161313292
   },
+  "n_trials": 0.0,
   "prediction": 0.00484873470217438,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

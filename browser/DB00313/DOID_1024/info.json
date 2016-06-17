@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGbCtD": 0.7941860584140112,
     "CbGdCrCtD": 0.0029171819308701848,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03095229292072764,
     "CcSEcCtD": 0.14572655041421756
   },
+  "n_trials": 0.0,
   "prediction": 0.0036720768995607204,
   "status": 0,
   "training_prediction": 0.00602737010032768

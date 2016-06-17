@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.2967123089989343,
     "CbGbCtD": 0.2426748914023371,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.2772668701668089,
     "CrCbGaD": 0.0028801829071986775
   },
+  "n_trials": 2.0,
   "prediction": 0.0104266752365402,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

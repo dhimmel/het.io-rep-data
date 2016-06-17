@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.27438231469440805,
   "metapath_contribution": {
     "CbGaD": 0.6049927589678327,
     "CbGeAlD": 0.10188902373314859,
     "CbGpPWpGaD": 0.2888359896560699,
     "CrCbGaD": 0.004282227642948821
   },
+  "n_trials": 0.0,
   "prediction": 0.0008953632376808289,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

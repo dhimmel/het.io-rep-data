@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.8218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.7111568273499566,
     "CbGbCtD": 0.2675734329273465,
     "CcSEcCtD": 0.012285895883540506,
     "CrCbGaD": 0.008983843839156597
   },
+  "n_trials": 0.0,
   "prediction": 0.0023794628535082603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

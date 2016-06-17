@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.0838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.3888101899753401,
     "CbGeAlD": 0.23050584959602766,
     "CbGpPWpGaD": 0.3586860880444958,
     "CrCbGaD": 0.02199787238413639
   },
+  "n_trials": 0.0,
   "prediction": 0.000742172162594761,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

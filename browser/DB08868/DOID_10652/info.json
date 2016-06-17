@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08868",
   "compound_name": "Fingolimod",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8862158647594279,
   "metapath_contribution": {
     "CbGaD": 0.27930131094903504,
     "CbGbCtD": 0.341129323470612,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.17225851591990884,
     "CcSEcCtD": 0.14195790370480382
   },
+  "n_trials": 0.0,
   "prediction": 0.00449351804884502,
   "status": 0,
   "training_prediction": 0.00545070144250633

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00430",
   "compound_name": "Cefpiramide",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.24122236671001301,
   "metapath_contribution": {
     "CbGaD": 0.6589219002448252,
     "CbGbCtD": 0.3226764181816334,
     "CbGpPWpGaD": 0.013200588230341618,
     "CrCbGaD": 0.005201093343199826
   },
+  "n_trials": 0.0,
   "prediction": 0.0013624034594321099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

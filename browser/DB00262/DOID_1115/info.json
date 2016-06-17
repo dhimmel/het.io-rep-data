@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00262",
   "compound_name": "Carmustine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGbCtD": 0.014057591142393749,
     "CbGeAlD": 0.006462264430727575,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.6201765272953477,
     "CtDrD": 0.30036158470014257
   },
+  "n_trials": 2.0,
   "prediction": 0.0174768062167756,
   "status": 0,
   "training_prediction": 0.108980229255503

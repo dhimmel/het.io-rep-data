@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.584525357607282,
   "metapath_contribution": {
     "CbGaD": 0.7718615350725244,
     "CbGbCtD": 0.026683676238158302,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1522262353645126,
     "CrCbGaD": 0.007333852108722413
   },
+  "n_trials": 0.0,
   "prediction": 0.00156745609087664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

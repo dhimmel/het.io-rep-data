@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.08826268543360385,
     "CbGbCtD": 0.14371480182725588,
@@ -15,7 +17,7 @@
     "CrCrCtD": 0.14304598463820653,
     "CrCtD": 0.21241910202517492
   },
+  "n_trials": 0.0,
   "prediction": 0.5645754351287651,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

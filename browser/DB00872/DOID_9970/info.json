@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00872",
   "compound_name": "Conivaptan",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.386866059817945,
   "metapath_contribution": {
     "CbGbCtD": 0.41563844904277997,
     "CbGeAlD": 0.04036410799054686,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21744098420447328,
     "CrCbGaD": 0.003758127399178324
   },
+  "n_trials": 0.0,
   "prediction": 0.0020176684496245397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

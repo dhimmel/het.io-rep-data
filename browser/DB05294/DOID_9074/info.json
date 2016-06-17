@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.595578673602081,
   "metapath_contribution": {
     "CbGaD": 0.5032736809951303,
     "CbGbCtD": 0.22063815070705958,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08677221484257694,
     "CrCbGaD": 0.0040703489050506825
   },
+  "n_trials": 0.0,
   "prediction": 0.00215596680584607,
   "status": 0,
   "training_prediction": 0.00626729849301931

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.28868660598179496,
   "metapath_contribution": {
     "CbGaD": 0.5074471089229169,
     "CbGbCtD": 0.35986943918367265,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0766823525521767,
     "CrCbGaD": 0.007430140558056118
   },
+  "n_trials": 0.0,
   "prediction": 0.000958582612549442,
   "status": 0,
   "training_prediction": 0.00292700320751217

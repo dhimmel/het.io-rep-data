@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.761378413524057,
   "metapath_contribution": {
     "CbGaD": 0.2837833953213768,
     "CbGbCtD": 0.09623444474805919,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.005118565999223018,
     "CrCrCtD": 0.4149668008775194
   },
+  "n_trials": 0.0,
   "prediction": 0.00272779274847991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
-    "CbGeAlD": 0.5797167274209722,
-    "CbGpPWpGaD": 0.3844328846348128,
+    "CbGeAlD": 0.5797167274209721,
+    "CbGpPWpGaD": 0.38443288463481273,
     "CrCbGaD": 0.03585038794421509
   },
+  "n_trials": 0.0,
   "prediction": 0.00218195456475999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

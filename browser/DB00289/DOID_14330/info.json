@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.406371911573472,
   "metapath_contribution": {
     "CbGaD": 0.724553296242402,
     "CbGeAlD": 0.1077039542468144,
     "CbGpPWpGaD": 0.16035160746212407,
     "CrCbGaD": 0.007391142048659512
   },
+  "n_trials": 0.0,
   "prediction": 0.00123917192583111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

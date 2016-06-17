@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.5793237971391421,
   "metapath_contribution": {
     "CbGaD": 0.4913244377519081,
     "CbGbCtD": 0.2255543189971941,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.24539107862717707,
     "CrCbGaD": 0.005197787526021495
   },
+  "n_trials": 0.0,
   "prediction": 0.00280211828437486,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

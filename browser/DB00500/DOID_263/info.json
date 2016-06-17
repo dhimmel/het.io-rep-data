@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.29258777633290006,
   "metapath_contribution": {
     "CbGaD": 0.6788433030591541,
     "CbGeAlD": 0.001044207219001425,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17316339929197042,
     "CrCbGaD": 0.007240091464532886
   },
+  "n_trials": 0.0,
   "prediction": 0.00121591651355814,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

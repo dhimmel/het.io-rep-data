@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01626",
   "compound_name": "Pargyline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.49479843953186,
   "metapath_contribution": {
     "CbGbCtD": 0.3260098400035125,
     "CbGeAlD": 0.033500074800969004,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0033934956226612514,
     "CrCrCtD": 0.5793444931731221
   },
+  "n_trials": 0.0,
   "prediction": 0.00335641648765861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

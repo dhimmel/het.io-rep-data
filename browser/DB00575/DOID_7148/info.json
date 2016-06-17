@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.6996098829648891,
   "metapath_contribution": {
     "CbGaD": 0.5093672363459045,
     "CbGbCtD": 0.3013037115731948,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13100267742939023,
     "CrCbGaD": 0.002073088293448146
   },
+  "n_trials": 0.0,
   "prediction": 0.00238707132000607,
   "status": 0,
   "training_prediction": 0.0128570116613752

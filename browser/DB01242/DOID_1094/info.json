@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
     "CbGaD": 0.782101928477912,
     "CbGeAlD": 0.06322249175495769,
     "CbGpPWpGaD": 0.14558401740162977,
     "CrCbGaD": 0.0090915623655005
   },
+  "n_trials": 0.0,
   "prediction": 0.00198682396969615,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

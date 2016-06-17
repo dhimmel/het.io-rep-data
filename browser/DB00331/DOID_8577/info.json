@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.738621586475943,
   "metapath_contribution": {
     "CbGbCtD": 0.24912863803412527,
     "CbGdCrCtD": 0.0019211093495299354,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.22064882193537455,
     "CcSEcCtD": 0.25579683715261814
   },
+  "n_trials": 0.0,
   "prediction": 0.0030251588014413603,
   "status": 0,
   "training_prediction": 0.023125978944385

@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
-    "CbGaD": 0.17789462459696012,
-    "CbGbCtD": 0.18547450395041684,
-    "CbGeAlD": 0.003731772719661157,
-    "CbGpPWpGaD": 0.025642979660479404,
-    "CcSEcCtD": 0.03531662910544591,
-    "CrCbGaD": 0.0011105677015797008,
-    "CtDrD": 0.570828922265457
+    "CbGaD": 0.1778946245969601,
+    "CbGbCtD": 0.1854745039504168,
+    "CbGeAlD": 0.003731772719661156,
+    "CbGpPWpGaD": 0.025642979660479397,
+    "CcSEcCtD": 0.035316629105445904,
+    "CrCbGaD": 0.0011105677015797006,
+    "CtDrD": 0.5708289222654569
   },
+  "n_trials": 2.0,
   "prediction": 0.00698376691761671,
   "status": 0,
   "training_prediction": 0.008466897204954929

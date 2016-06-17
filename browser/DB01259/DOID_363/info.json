@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.49068865851224003,
     "CbGbCtD": 0.2450196990010464,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.10450973739709436,
     "CcSEcCtD": 0.08579653186179992
   },
+  "n_trials": 1.0,
   "prediction": 0.00499803992462319,
   "status": 0,
   "training_prediction": 0.00910470757207826

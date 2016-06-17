@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGbCtD": 0.44434898314156696,
     "CbGdCrCtD": 0.0037284617014161628,
     "CcSEcCtD": 0.022269259805648776,
     "CrCrCtD": 0.5296532953513681
   },
+  "n_trials": 0.0,
   "prediction": 0.0035787389013119,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.5877689343928163,
     "CbGbCtD": 0.022702985360019922,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19566509592980005,
     "CrCbGaD": 0.0009980049472006092
   },
+  "n_trials": 0.0,
   "prediction": 0.00292735862077603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

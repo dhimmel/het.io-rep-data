@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.367360208062419,
   "metapath_contribution": {
     "CbGbCtD": 0.34599151799310746,
     "CbGeAlD": 0.01882603367200193,
@@ -11,6 +13,7 @@
     "CrCbGaD": 4.6048498354497714e-05,
     "CtDrD": 0.5373082323379701
   },
+  "n_trials": 0.0,
   "prediction": 0.0014381598543010698,
   "status": 0,
   "training_prediction": 0.0158939433756787

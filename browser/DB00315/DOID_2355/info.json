@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00315",
   "compound_name": "Zolmitriptan",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGaD": 0.8940465557320647,
     "CbGeAlD": 0.013840935634041854,
     "CbGpPWpGaD": 0.08757073464415388,
     "CrCbGaD": 0.004541773989739524
   },
+  "n_trials": 0.0,
   "prediction": 0.00136482606796324,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

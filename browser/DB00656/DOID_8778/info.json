@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.134590377113134,
   "metapath_contribution": {
     "CbGeAlD": 0.25933115962904707,
     "CbGpPWpGaD": 0.18785710473016817,
     "CcSEcCtD": 0.5528117356407847
   },
+  "n_trials": 0.0,
   "prediction": 0.000954282313633335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

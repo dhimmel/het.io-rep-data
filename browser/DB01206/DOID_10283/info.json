@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01206",
   "compound_name": "Lomustine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.10458009198776702,
     "CbGbCtD": 0.1930990929857026,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05738343109948715,
     "CiPCiCtD": 0.6251410300503074
   },
+  "n_trials": 0.0,
   "prediction": 0.0105496938106333,
   "status": 0,
   "training_prediction": 0.0704812400174907

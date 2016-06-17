@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01043",
   "compound_name": "Memantine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.8395286666950788,
     "CbGeAlD": 0.048868616071877626,
     "CbGpPWpGaD": 0.11160271723304369
   },
+  "n_trials": 6.0,
   "prediction": 0.0056513855110686,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7249674902470741,
   "metapath_contribution": {
     "CbGaD": 0.31440314732776264,
     "CbGbCtD": 0.4800429371510105,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12537091392670122,
     "CrCbGaD": 0.0034792963418868793
   },
+  "n_trials": 1.0,
   "prediction": 0.00407709826852816,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

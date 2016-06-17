@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.06872059074737993,
     "CbGbCtD": 0.09584779428997847,
@@ -14,6 +16,7 @@
     "CrCtD": 0.21277680283242173,
     "CtDrD": 0.16918305537558262
   },
+  "n_trials": 2.0,
   "prediction": 0.560459927647782,
   "status": 0,
   "training_prediction": 0.6075676122560789

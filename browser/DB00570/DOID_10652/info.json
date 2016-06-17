@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.27178153446033804,
   "metapath_contribution": {
     "CbGaD": 0.20344245002155284,
     "CbGbCtD": 0.4118747482919897,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.14503518673974142,
     "CcSEcCtD": 0.1466440295046189
   },
+  "n_trials": 0.0,
   "prediction": 0.00122108281437429,
   "status": 0,
   "training_prediction": 0.00666165198717158

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.322496749024707,
   "metapath_contribution": {
     "CbGaD": 0.8024603004843418,
     "CbGeAlD": 0.06999098289742958,
     "CbGpPWpGaD": 0.11799378933827402,
     "CrCbGaD": 0.009554927279954587
   },
+  "n_trials": 0.0,
   "prediction": 0.00123036343252854,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

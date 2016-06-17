@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01045",
   "compound_name": "Rifampicin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6020806241872559,
   "metapath_contribution": {
     "CbGaD": 0.3627462957745967,
     "CbGbCtD": 0.5130703771497602,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09987154961220315,
     "CrCbGaD": 0.0004713414220099882
   },
+  "n_trials": 2.0,
   "prediction": 0.0049742505939129895,
   "status": 0,
   "training_prediction": 0.0564242045448413

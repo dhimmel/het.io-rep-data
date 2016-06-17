@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.4492250041560516,
     "CbGbCtD": 0.5228926920875342,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02039889799352846,
     "CrCbGaD": 0.00469721571038511
   },
+  "n_trials": 0.0,
   "prediction": 0.00502911310646161,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

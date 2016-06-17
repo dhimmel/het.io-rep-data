@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00323",
   "compound_name": "Tolcapone",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.328998699609883,
   "metapath_contribution": {
     "CbGbCtD": 0.5680187797489088,
     "CbGeAlD": 0.02668101683250028,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.33680275634895884,
     "CrCbGaD": 0.00328338231508304
   },
+  "n_trials": 0.0,
   "prediction": 0.0017130348960557901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

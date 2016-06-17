@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01019",
   "compound_name": "Bethanechol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.960517817589267,
     "CbGeAlD": 0.02268098527878414,
     "CcSEcCtD": 0.00918993955709736,
     "CrCbGaD": 0.007611257574851557
   },
+  "n_trials": 0.0,
   "prediction": 0.0036617960578589704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

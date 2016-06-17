@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGaD": 0.5018993923350785,
     "CbGbCtD": 0.3095105777850512,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1751348868422635,
     "CrCbGaD": 0.0041580720388456885
   },
+  "n_trials": 0.0,
   "prediction": 0.00547698298311548,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

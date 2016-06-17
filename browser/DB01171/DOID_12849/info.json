@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
     "CbGaD": 0.8674723737067329,
     "CbGeAlD": 0.020891613108366142,
     "CbGpPWpGaD": 0.10470433881785896,
     "CrCbGaD": 0.006931674367042007
   },
+  "n_trials": 0.0,
   "prediction": 0.00246732893356583,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

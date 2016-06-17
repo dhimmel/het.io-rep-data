@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00380",
   "compound_name": "Dexrazoxane",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGbCtD": 0.589117497560201,
     "CbGdCrCtD": 0.008484717604338101,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.011303743892187764,
     "CcSEcCtD": 0.289535615748695
   },
+  "n_trials": 0.0,
   "prediction": 0.003965497140484629,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

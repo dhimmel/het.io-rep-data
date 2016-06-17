@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGaD": 0.5150643136578869,
     "CbGbCtD": 0.28400419229116564,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.12847627540788545,
     "CrCbGaD": 0.0002715155987828478
   },
+  "n_trials": 2.0,
   "prediction": 0.00575489449024422,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

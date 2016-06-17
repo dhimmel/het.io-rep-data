@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGbCtD": 0.3761475542585819,
     "CbGeAlD": 0.01762647500832321,
     "CcSEcCtD": 0.008097374470319767,
     "CrCrCtD": 0.5981285962627751
   },
+  "n_trials": 0.0,
   "prediction": 0.00297116894699262,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

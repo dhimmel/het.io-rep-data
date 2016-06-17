@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8328998699609879,
   "metapath_contribution": {
     "CbGaD": 0.3125243813119921,
     "CbGbCtD": 0.15955409440092677,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2991015256770245,
     "CrCbGaD": 0.007529706593963148
   },
+  "n_trials": 0.0,
   "prediction": 0.0026513249716503197,
   "status": 0,
   "training_prediction": 0.00583461529115781

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.50520156046814,
   "metapath_contribution": {
     "CbGaD": 0.33303660279591973,
     "CbGbCtD": 0.3662299039472617,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21911162265625028,
     "CrCbGaD": 0.005155925530205388
   },
+  "n_trials": 0.0,
   "prediction": 0.0018680968803122398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

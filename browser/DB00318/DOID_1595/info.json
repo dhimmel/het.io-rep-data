@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.776332899869961,
   "metapath_contribution": {
     "CbGaD": 0.8354521717038569,
     "CbGeAlD": 0.04418310063106365,
     "CbGpPWpGaD": 0.11092650901932334,
     "CrCbGaD": 0.009438218645756075
   },
+  "n_trials": 1.0,
   "prediction": 0.00208601436889354,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

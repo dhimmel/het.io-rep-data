@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGaD": 0.2109503995201656,
     "CbGbCtD": 0.544057370114998,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16807216640928646,
     "CrCbGaD": 0.002273778999885141
   },
+  "n_trials": 0.0,
   "prediction": 0.00224937609254453,
   "status": 0,
   "training_prediction": 0.00614857120447985

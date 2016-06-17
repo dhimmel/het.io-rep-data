@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.38361508452535803,
   "metapath_contribution": {
     "CbGaD": 0.3683373307032975,
     "CbGbCtD": 0.3131403608747865,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1979623488069232,
     "CrCbGaD": 0.0026950432379890367
   },
+  "n_trials": 0.0,
   "prediction": 0.00205136205014458,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

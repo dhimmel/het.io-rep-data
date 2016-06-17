@@ -1,18 +1,20 @@
 {
   "compound_id": "DB06813",
   "compound_name": "Pralatrexate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGbCtD": 0.2890759727122472,
-    "CbGeAlD": 0.010911559514588599,
-    "CbGpPWpGaD": 0.028836763184939402,
-    "CcSEcCtD": 0.005283203766201899,
-    "CrCbGaD": 0.0009063207485902153,
+    "CbGeAlD": 0.0109115595145886,
+    "CbGpPWpGaD": 0.02883676318493941,
+    "CcSEcCtD": 0.0052832037662019,
+    "CrCbGaD": 0.0009063207485902155,
     "CrCrCtD": 0.265044818941575,
-    "CrCtD": 0.39994136113185763
+    "CrCtD": 0.3999413611318577
   },
+  "n_trials": 0.0,
   "prediction": 0.0230825587755023,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

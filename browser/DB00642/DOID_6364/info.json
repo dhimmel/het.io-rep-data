@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.13979193758127403,
   "metapath_contribution": {
     "CbGdCrCtD": 0.01353607960017353,
     "CbGeAlD": 0.2179338309602766,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.6451128399964506,
     "CrCbGaD": 0.01908425364256222
   },
+  "n_trials": 0.0,
   "prediction": 0.0013635986290095302,
   "status": 0,
   "training_prediction": 0.00249148471314327

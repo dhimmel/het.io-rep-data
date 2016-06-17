@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00865",
   "compound_name": "Benzphetamine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.11833550065019502,
   "metapath_contribution": {
     "CbGbCtD": 0.7123380754579961,
     "CbGeAlD": 0.013206959930585528,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11206476106157694,
     "CrCbGaD": 0.010800863734023945
   },
+  "n_trials": 0.0,
   "prediction": 0.000847977226628488,
   "status": 0,
   "training_prediction": 0.00290279180661133

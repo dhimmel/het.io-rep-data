@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.28069782404557886,
     "CbGbCtD": 0.3534032708371056,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0023307004439014232,
     "CrCrCtD": 0.21314707816459336
   },
+  "n_trials": 0.0,
   "prediction": 0.00632325916635572,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

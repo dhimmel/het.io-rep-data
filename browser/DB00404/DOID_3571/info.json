@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.33940182054616397,
   "metapath_contribution": {
     "CbGbCtD": 0.558006364870284,
     "CbGpPWpGaD": 0.15791941372547796,
     "CcSEcCtD": 0.27643387494525556,
     "CrCbGaD": 0.007640346458982413
   },
+  "n_trials": 0.0,
   "prediction": 0.00113342888027228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

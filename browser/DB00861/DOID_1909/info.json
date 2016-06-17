@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.251625487646294,
   "metapath_contribution": {
     "CbGaD": 0.6510563733837287,
     "CbGbCtD": 0.06951536986703562,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10297060023427146,
     "CrCbGaD": 0.010389387342456393
   },
+  "n_trials": 0.0,
   "prediction": 0.000974594560456923,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

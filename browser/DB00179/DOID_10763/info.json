@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.598179453836151,
   "metapath_contribution": {
     "CbGaD": 0.47698080327453996,
     "CbGdCrCtD": 0.0016129179594599852,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003570770658826655,
     "CrCrCtD": 0.37652745274711974
   },
+  "n_trials": 0.0,
   "prediction": 0.00491427477995919,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

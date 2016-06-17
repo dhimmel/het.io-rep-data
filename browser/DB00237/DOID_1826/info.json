@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00237",
   "compound_name": "Butabarbital",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.19548675643868757,
     "CbGbCtD": 0.22318537688276155,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1946692256980812,
     "CrCtD": 0.28063464868568766
   },
+  "n_trials": 0.0,
   "prediction": 0.132826949654565,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

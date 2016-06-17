@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00263",
   "compound_name": "Sulfisoxazole",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.19505851755526699,
   "metapath_contribution": {
     "CbGbCtD": 0.6495915238168778,
     "CbGeAlD": 0.05104578056293285,
     "CbGpPWpGaD": 0.28602465704440344,
     "CrCbGaD": 0.013338038575785981
   },
+  "n_trials": 0.0,
   "prediction": 0.00101920302020234,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

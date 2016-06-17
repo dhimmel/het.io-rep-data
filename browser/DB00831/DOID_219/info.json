@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.0539661898569571,
   "metapath_contribution": {
     "CbGaD": 0.5386392016568301,
     "CbGeAlD": 0.17909295330625175,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15504489554243983,
     "CrCbGaD": 0.004565949746681659
   },
+  "n_trials": 0.0,
   "prediction": 0.000699301806406242,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

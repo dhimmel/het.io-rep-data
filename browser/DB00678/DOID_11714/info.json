@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGbCtD": 0.23557357097274667,
     "CbGeAlD": 0.005061977626446187,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.031054009157886416,
     "CtDrD": 0.7108992270476697
   },
+  "n_trials": 0.0,
   "prediction": 0.00512484243242085,
   "status": 0,
   "training_prediction": 0.00524632185034247

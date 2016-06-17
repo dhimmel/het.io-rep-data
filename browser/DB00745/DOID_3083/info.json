@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGaD": 0.3989195478745301,
     "CbGbCtD": 0.3702734788830667,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18438197830043118,
     "CrCbGaD": 0.0038316122540634654
   },
+  "n_trials": 0.0,
   "prediction": 0.00231200064328533,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

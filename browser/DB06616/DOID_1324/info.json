@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06616",
   "compound_name": "Bosutinib",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.1440490477779429,
     "CbGbCtD": 0.20092019829659816,
@@ -15,7 +17,7 @@
     "CrCrCtD": 0.14572588026600375,
     "CrCtD": 0.23065300004183603
   },
+  "n_trials": 0.0,
   "prediction": 0.184054206406398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

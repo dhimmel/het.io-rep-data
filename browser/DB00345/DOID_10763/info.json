@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5156046814044211,
   "metapath_contribution": {
     "CbGaD": 0.2341800855024114,
     "CbGbCtD": 0.543838375203519,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10523921875218974,
     "CrCbGaD": 0.003479707018968317
   },
+  "n_trials": 0.0,
   "prediction": 0.00411748710385945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

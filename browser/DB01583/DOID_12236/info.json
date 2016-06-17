@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.19055840424521384,
     "CbGbCtD": 0.5519871073568172,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09081545614805198,
     "CrCbGaD": 0.0008316366852062537
   },
+  "n_trials": 0.0,
   "prediction": 0.00427027819204812,
   "status": 0,
   "training_prediction": 0.00421266146966082

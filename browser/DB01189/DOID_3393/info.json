@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGaD": 0.10709411884338192,
     "CbGbCtD": 0.2586426431801,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.4013695784820696,
     "CrCbGaD": 0.0006217756177643211
   },
+  "n_trials": 1.0,
   "prediction": 0.00274909236395782,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

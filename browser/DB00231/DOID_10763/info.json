@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.332249674902471,
   "metapath_contribution": {
     "CbGbCtD": 0.4018222715532181,
     "CbGeAlD": 0.027054222770184638,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003595823905747374,
     "CrCrCtD": 0.25110163206689745
   },
+  "n_trials": 0.0,
   "prediction": 0.00254819907828885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

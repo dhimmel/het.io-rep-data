@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00524",
   "compound_name": "Metolazone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.9289930866846999,
     "CbGeAlD": 0.017079821501359945,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.003644140993884341,
     "CrCbGaD": 0.006796328526028083
   },
+  "n_trials": 0.0,
   "prediction": 0.00285517801151547,
   "status": 0,
   "training_prediction": 0.00128817697107357

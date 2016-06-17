@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00255",
   "compound_name": "Diethylstilbestrol",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.6508452535760729,
   "metapath_contribution": {
     "CbGaD": 0.4936321904406484,
     "CbGbCtD": 0.4312934887646525,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.023150012216482396,
     "CrCbGaD": 0.0054007466794343765
   },
+  "n_trials": 0.0,
   "prediction": 0.00308420444589637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

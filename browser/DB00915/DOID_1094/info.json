@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.68305764437853,
     "CbGeAlD": 0.11118453234943913,
     "CbGpPWpGaD": 0.20575782327203096
   },
+  "n_trials": 1.0,
   "prediction": 0.00297549931753432,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

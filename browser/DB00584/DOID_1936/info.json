@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.1737367747808566,
     "CbGbCtD": 0.2671563679236637,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0035987847758207326,
     "CtDrD": 0.4415936043587332
   },
+  "n_trials": 1.0,
   "prediction": 0.0105544730618228,
   "status": 0,
   "training_prediction": 0.0282080799296643

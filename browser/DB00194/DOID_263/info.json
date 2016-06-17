@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00194",
   "compound_name": "Vidarabine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.280234070221066,
   "metapath_contribution": {
     "CbGeAlD": 0.025060442737882063,
     "CbGpPWpGaD": 0.11561086659641506,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.005085092993205366,
     "CrCrCtD": 0.6774149053698666
   },
+  "n_trials": 5.0,
   "prediction": 0.00119054418358425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

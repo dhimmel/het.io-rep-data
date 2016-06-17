@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00211",
   "compound_name": "Midodrine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.37126137841352397,
   "metapath_contribution": {
     "CbGbCtD": 0.1664186050075343,
     "CbGeAlD": 0.16100762095137763,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5021549394451843,
     "CrCbGaD": 0.013658961291004945
   },
+  "n_trials": 0.0,
   "prediction": 0.00181957922234133,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

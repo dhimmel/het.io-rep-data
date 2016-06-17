@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00123",
   "compound_name": "L-Lysine",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.213263979193758,
   "metapath_contribution": {
     "CbGdCrCtD": 0.02170827147199937,
     "CbGeAlD": 0.586568433169059,
     "CbGpPWpGaD": 0.37366441811674783,
     "CrCbGaD": 0.018058877242193714
   },
+  "n_trials": 0.0,
   "prediction": 0.00118264869213332,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

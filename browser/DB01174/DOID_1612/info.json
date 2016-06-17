@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.793888166449935,
   "metapath_contribution": {
     "CbGaD": 0.32185447805082984,
     "CbGbCtD": 0.4598307658570179,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08432347482599346,
     "CrCbGaD": 0.0007872489188379513
   },
+  "n_trials": 0.0,
   "prediction": 0.00462825146890832,
   "status": 0,
   "training_prediction": 0.0251624973060134

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06803",
   "compound_name": "Niclosamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6410923276983089,
   "metapath_contribution": {
     "CbGaD": 0.3356292847655493,
     "CbGbCtD": 0.47113364083044273,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13583770145958796,
     "CrCbGaD": 0.0015817804064976611
   },
+  "n_trials": 0.0,
   "prediction": 0.00330974605285629,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

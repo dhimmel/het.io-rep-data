@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.23778064182104125,
     "CbGbCtD": 0.5598013867399163,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10969059885360345,
     "CrCbGaD": 0.003318584177401653
   },
+  "n_trials": 0.0,
   "prediction": 0.00291094972234544,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

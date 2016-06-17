@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.3067338388778501,
     "CbGeAlD": 0.04409291684449641,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00035636028847805157,
     "CtDrD": 0.607043966480319
   },
+  "n_trials": 0.0,
   "prediction": 0.0040280794974354,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

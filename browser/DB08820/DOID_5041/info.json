@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08820",
   "compound_name": "Ivacaftor",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.6475942782834849,
   "metapath_contribution": {
     "CbGaD": 0.7648575706551578,
     "CbGbCtD": 0.010473957044567644,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06985565090239884,
     "CcSEcCtD": 0.1071177802599393
   },
+  "n_trials": 0.0,
   "prediction": 0.0018077414835907801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

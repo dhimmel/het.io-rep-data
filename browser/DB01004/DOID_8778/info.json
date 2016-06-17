@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01004",
   "compound_name": "Ganciclovir",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGbCtD": 0.0829389243910657,
     "CbGpPWpGaD": 0.029198688610064666,
     "CcSEcCtD": 0.07641520083073537,
     "CiPCiCtD": 0.8114471861681343
   },
+  "n_trials": 0.0,
   "prediction": 0.00439751311904921,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

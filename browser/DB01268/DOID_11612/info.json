@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGaD": 0.6145150535454691,
     "CbGeAlD": 0.1542398746166617,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.02724523206382471,
     "CrCbGaD": 0.0016554400013126722
   },
+  "n_trials": 0.0,
   "prediction": 0.00246574400808833,
   "status": 0,
   "training_prediction": 0.00185501594850035

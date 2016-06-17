@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.14963230319531673,
     "CbGbCtD": 0.19985262606279114,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.18690112105459047,
     "CrCbGaD": 0.0007833696006759029
   },
+  "n_trials": 0.0,
   "prediction": 0.076639533978529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

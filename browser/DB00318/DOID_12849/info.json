@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.7418725617685309,
   "metapath_contribution": {
     "CbGaD": 0.8077452816572374,
     "CbGeAlD": 0.058791276181511656,
     "CbGpPWpGaD": 0.1213900633071846,
     "CrCbGaD": 0.012073378854066332
   },
+  "n_trials": 0.0,
   "prediction": 0.00195954325512751,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

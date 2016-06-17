@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGaD": 0.696943083500589,
     "CbGeAlD": 0.1344101627177781,
     "CbGpPWpGaD": 0.15290289719452796,
     "CrCbGaD": 0.015743856587104903
   },
+  "n_trials": 0.0,
   "prediction": 0.0014600966918003901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

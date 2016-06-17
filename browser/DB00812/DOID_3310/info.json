@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGbCtD": 0.1912857452950917,
     "CbGdCrCtD": 0.0021059008679392183,
     "CrCrCtD": 0.30660294534561044,
     "CrCtD": 0.5000054084913585
   },
+  "n_trials": 0.0,
   "prediction": 0.00714115413826651,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

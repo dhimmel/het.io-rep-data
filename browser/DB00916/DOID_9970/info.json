@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00916",
   "compound_name": "Metronidazole",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.40507152145643704,
   "metapath_contribution": {
     "CbGbCtD": 0.6534333456938854,
     "CbGpPWpGaD": 0.04275345690333582,
     "CcSEcCtD": 0.3038131974027788
   },
+  "n_trials": 1.0,
   "prediction": 0.00209279656703571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

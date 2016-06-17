@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00139",
   "compound_name": "Succinic acid",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7223667100130041,
   "metapath_contribution": {
     "CbGbCtD": 0.7595030999689353,
     "CbGdCrCtD": 0.003364864770513455,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1339892804862474,
     "CrCbGaD": 0.0029086608841277116
   },
+  "n_trials": 0.0,
   "prediction": 0.00376434308164016,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

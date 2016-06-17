@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7548764629388821,
   "metapath_contribution": {
     "CbGaD": 0.5632472772337214,
     "CbGbCtD": 0.15549058674316488,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.15563809679826676,
     "CrCbGaD": 0.000781118027203459
   },
+  "n_trials": 0.0,
   "prediction": 0.0022246979867902197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.7100838157611633,
     "CbGeAlD": 0.07867293633456626,
     "CbGpPWpGaD": 0.2073807554214086,
     "CrCbGaD": 0.0038624924828619023
   },
+  "n_trials": 0.0,
   "prediction": 0.0016536504473021,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

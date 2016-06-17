@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01073",
   "compound_name": "Fludarabine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.826397919375813,
   "metapath_contribution": {
     "CbGaD": 0.9414849801060373,
     "CbGeAlD": 0.020277072607070457,
     "CbGpPWpGaD": 0.03227367935752384,
     "CrCbGaD": 0.005964267929368349
   },
+  "n_trials": 0.0,
   "prediction": 0.00206126856730695,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

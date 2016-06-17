@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGbCtD": 0.3419346568508489,
     "CbGdCrCtD": 0.002967199368873235,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13231887656051458,
     "CpDpCtD": 0.518265219397029
   },
+  "n_trials": 0.0,
   "prediction": 0.00542611512404654,
   "status": 0,
   "training_prediction": 0.0302895798694462

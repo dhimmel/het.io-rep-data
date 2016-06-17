@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00104",
   "compound_name": "Octreotide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
     "CbGaD": 0.6643510184703764,
     "CbGeAlD": 0.05505411248992365,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1544659837390001,
     "CrCbGaD": 0.004663608695683904
   },
+  "n_trials": 0.0,
   "prediction": 0.00679173252416653,
   "status": 0,
   "training_prediction": 0.0324829939399157

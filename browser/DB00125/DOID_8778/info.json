@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.8544160926199866,
     "CbGeAlD": 0.05250586766543499,
     "CbGpPWpGaD": 0.09144727168279636,
     "CrCbGaD": 0.001630768031782009
   },
+  "n_trials": 0.0,
   "prediction": 0.00274116269242201,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

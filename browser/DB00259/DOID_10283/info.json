@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.540312093628088,
   "metapath_contribution": {
     "CbGaD": 0.4026714435614702,
     "CbGbCtD": 0.47419782490677054,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10012390647099693,
     "CrCbGaD": 0.004069396141560846
   },
+  "n_trials": 0.0,
   "prediction": 0.0024308428816560397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

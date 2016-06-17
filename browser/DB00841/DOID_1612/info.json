@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.32704811443433,
   "metapath_contribution": {
     "CbGaD": 0.6889592938553626,
     "CbGeAlD": 0.04359495124804509,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1569409107141377,
     "CrCbGaD": 0.005360664770083566
   },
+  "n_trials": 0.0,
   "prediction": 0.00171429574799913,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

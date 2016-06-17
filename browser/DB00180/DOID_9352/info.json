@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00180",
   "compound_name": "Flunisolide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.23146944083225002,
   "metapath_contribution": {
     "CbGaD": 0.48809085418792597,
     "CbGbCtD": 0.27740049035798275,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19190709342598067,
     "CrCbGaD": 0.005927996516583035
   },
+  "n_trials": 0.0,
   "prediction": 0.00149364115203925,
   "status": 0,
   "training_prediction": 0.010920644378711002

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGaD": 0.6708434920240612,
     "CbGeAlD": 0.16960755530945396,
     "CbGpPWpGaD": 0.15765539639557416,
     "CrCbGaD": 0.0018935562709107168
   },
+  "n_trials": 0.0,
   "prediction": 0.0018531627894413899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

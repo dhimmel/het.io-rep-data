@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.17490247074122198,
   "metapath_contribution": {
     "CbGaD": 0.5990229214343343,
     "CbGeAlD": 0.21016442063292315,
     "CbGpPWpGaD": 0.18075782989466418,
     "CrCbGaD": 0.010054828038078353
   },
+  "n_trials": 0.0,
   "prediction": 0.000845299058001592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

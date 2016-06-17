@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.5690734594219322,
     "CbGbCtD": 0.15627812545926395,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14179079511168122,
     "CrCbGaD": 0.005593307280181198
   },
+  "n_trials": 0.0,
   "prediction": 0.00277629383581231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

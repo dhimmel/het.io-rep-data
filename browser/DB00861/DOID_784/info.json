@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.37191157347204207,
   "metapath_contribution": {
     "CbGaD": 0.839398887412886,
     "CbGeAlD": 0.04878522342856776,
     "CbGpPWpGaD": 0.10489849187437028,
     "CrCbGaD": 0.006917397284175999
   },
+  "n_trials": 0.0,
   "prediction": 0.00131651377185926,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

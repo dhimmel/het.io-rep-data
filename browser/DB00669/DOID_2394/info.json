@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.24859696836160552,
     "CbGbCtD": 0.5377735724941779,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2069888894840164,
     "CrCbGaD": 0.002083597311726968
   },
+  "n_trials": 0.0,
   "prediction": 0.00214888492708333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0461638491547464,
   "metapath_contribution": {
     "CbGbCtD": 0.6282369723745148,
     "CbGeAlD": 0.03552620751662879,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2752555909561733,
     "CrCbGaD": 0.004514935040051921
   },
+  "n_trials": 0.0,
   "prediction": 0.000956217172549266,
   "status": 0,
   "training_prediction": 0.0311618050876782

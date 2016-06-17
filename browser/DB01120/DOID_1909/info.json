@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.733420026007802,
   "metapath_contribution": {
     "CbGaD": 0.6466122830938752,
     "CbGbCtD": 0.04400226044770486,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14071413360660723,
     "CrCbGaD": 0.004026329029245749
   },
+  "n_trials": 0.0,
   "prediction": 0.00206134984701382,
   "status": 0,
   "training_prediction": 0.0037641979941246

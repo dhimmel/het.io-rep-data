@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.256827048114434,
   "metapath_contribution": {
     "CbGbCtD": 0.6695291678535789,
     "CbGeAlD": 0.03622898219318799,
     "CcSEcCtD": 0.2842738046938883,
     "CrCbGaD": 0.00996804525934486
   },
+  "n_trials": 0.0,
   "prediction": 0.00169567353168894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

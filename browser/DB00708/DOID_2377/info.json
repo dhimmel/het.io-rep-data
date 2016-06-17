@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.332899869960988,
   "metapath_contribution": {
     "CbGbCtD": 0.5887190830902148,
     "CbGeAlD": 0.008367895287220772,
     "CbGpPWpGaD": 0.20324215083216657,
     "CcSEcCtD": 0.19967087079039797
   },
+  "n_trials": 0.0,
   "prediction": 0.0014943234158908,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

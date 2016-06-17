@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGbCtD": 0.8172871896380616,
     "CbGeAlD": 0.0327809795471456,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0510185669309713,
     "CrCbGaD": 0.004496273529025582
   },
+  "n_trials": 0.0,
   "prediction": 0.00186788802700567,
   "status": 0,
   "training_prediction": 0.00266493558851513

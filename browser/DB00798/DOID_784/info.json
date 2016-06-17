@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00798",
   "compound_name": "Gentamicin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.8919105431372985,
     "CbGeAlD": 0.04789369858488103,
     "CbGpPWpGaD": 0.060195758277820546
   },
+  "n_trials": 2.0,
   "prediction": 0.004104628840472821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

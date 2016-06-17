@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.1957492584960843,
     "CbGeAlD": 0.05094936348774343,
     "CbGpPWpGaD": 0.0898923181725464,
     "CtDrD": 0.6634090598436259
   },
+  "n_trials": 0.0,
   "prediction": 0.0037121413887259897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01006",
   "compound_name": "Letrozole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGbCtD": 0.1348417358197561,
     "CbGeAlD": 0.04731284354824465,
     "CcSEcCtD": 0.1090734752545533,
     "CtDrD": 0.7087719453774458
   },
+  "n_trials": 7.0,
   "prediction": 0.00849566322658657,
   "status": 0,
   "training_prediction": 0.0200528398292294

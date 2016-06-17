@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.280884265279584,
   "metapath_contribution": {
-    "CbGbCtD": 0.5603462697791606,
-    "CbGdCrCtD": 0.003142791223009945,
-    "CbGeAlD": 0.1928407738456642,
-    "CbGpPWpGaD": 0.2337754966127226,
-    "CrCbGaD": 0.00989466853944288
+    "CbGbCtD": 0.5603462697791605,
+    "CbGdCrCtD": 0.0031427912230099445,
+    "CbGeAlD": 0.19284077384566417,
+    "CbGpPWpGaD": 0.23377549661272254,
+    "CrCbGaD": 0.009894668539442878
   },
+  "n_trials": 0.0,
   "prediction": 0.00150340627881116,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

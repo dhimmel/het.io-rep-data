@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.295838751625488,
   "metapath_contribution": {
     "CbGaD": 0.18849639601026222,
     "CbGbCtD": 0.4711858290398483,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.22529866857850597,
     "CrCbGaD": 0.0011600549867470428
   },
+  "n_trials": 0.0,
   "prediction": 0.00236729409776361,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

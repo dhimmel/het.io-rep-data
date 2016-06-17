@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.756827048114434,
   "metapath_contribution": {
     "CbGaD": 0.050344978922953934,
     "CbGbCtD": 0.253637182682449,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2252472124739717,
     "CrCtD": 0.3844666789762036
   },
+  "n_trials": 3.0,
   "prediction": 0.00427699227398477,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

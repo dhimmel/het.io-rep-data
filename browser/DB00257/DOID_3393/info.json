@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGaD": 0.13753402099743803,
     "CbGbCtD": 0.646179448550989,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10386769503010264,
     "CrCbGaD": 0.002243676025672609
   },
+  "n_trials": 0.0,
   "prediction": 0.00266238516117935,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

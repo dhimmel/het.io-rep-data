@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01191",
   "compound_name": "Dexfenfluramine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.8547825182683582,
     "CbGeAlD": 0.055244305609433934,
     "CbGpPWpGaD": 0.08710524711423262,
     "CrCbGaD": 0.002867929007975274
   },
+  "n_trials": 0.0,
   "prediction": 0.00341024674431599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

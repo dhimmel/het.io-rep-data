@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.6662995463660502,
     "CbGeAlD": 0.12724478921595123,
     "CbGpPWpGaD": 0.20022992275763737,
     "CrCbGaD": 0.0062257416603613575
   },
+  "n_trials": 0.0,
   "prediction": 0.00260361841760757,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

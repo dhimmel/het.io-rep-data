@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06150",
   "compound_name": "Sulfadimethoxine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGbCtD": 0.08714964177896035,
     "CbGeAlD": 0.012599920514098382,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.37281231246286684,
     "CrCtD": 0.5259260283556875
   },
+  "n_trials": 0.0,
   "prediction": 0.00678044328605023,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.3156604495885255,
     "CbGbCtD": 0.5765993162061629,
     "CbGpPWpGaD": 0.09710342246474608,
     "CrCbGaD": 0.010636811740565551
   },
+  "n_trials": 0.0,
   "prediction": 0.0020960756453039103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

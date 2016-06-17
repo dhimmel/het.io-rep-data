@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00710",
   "compound_name": "Ibandronate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:5408",
   "disease_name": "Paget's disease of bone",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
-    "CbGbCtD": 0.16447031344401578,
-    "CcSEcCtD": 0.03336184522556356,
-    "CiPCiCtD": 0.2859357248574276,
+    "CbGbCtD": 0.16447031344401575,
+    "CcSEcCtD": 0.033361845225563555,
+    "CiPCiCtD": 0.2859357248574275,
     "CrCrCtD": 0.14735759528435297,
-    "CrCtD": 0.2295725849193865,
-    "CtDrD": 0.1393019362692537
+    "CrCtD": 0.22957258491938648,
+    "CtDrD": 0.13930193626925366
   },
+  "n_trials": 0.0,
   "prediction": 0.8025725178461109,
   "status": 0,
   "training_prediction": 0.8690576106146499

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01283",
   "compound_name": "Lumiracoxib",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.634590377113134,
   "metapath_contribution": {
     "CbGaD": 0.2565002261896972,
     "CbGbCtD": 0.6688837666876929,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06459709755342684,
     "CrCbGaD": 0.00524393127359596
   },
+  "n_trials": 0.0,
   "prediction": 0.00312788041776058,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

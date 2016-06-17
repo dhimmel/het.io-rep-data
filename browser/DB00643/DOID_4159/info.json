@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.24447334200260104,
   "metapath_contribution": {
     "CbGbCtD": 0.8869487486784745,
     "CbGdCrCtD": 0.008458313187961192,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.013799680883340618,
     "CrCbGaD": 0.004414724087395304
   },
+  "n_trials": 0.0,
   "prediction": 0.00121753225871374,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

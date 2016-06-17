@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00758",
   "compound_name": "Clopidogrel",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.5610055747305848,
     "CbGbCtD": 0.24166127201154783,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13148376286461105,
     "CrCbGaD": 0.006264872407008606
   },
+  "n_trials": 0.0,
   "prediction": 0.00342900514865449,
   "status": 0,
   "training_prediction": 0.0062545704725709

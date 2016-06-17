@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01078",
   "compound_name": "Deslanoside",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.195708712613784,
   "metapath_contribution": {
-    "CbGaD": 0.7481782373251651,
-    "CbGdCrCtD": 0.005330804696673854,
-    "CbGeAlD": 0.07398115970427328,
-    "CbGpPWpGaD": 0.16694550576487754,
-    "CrCbGaD": 0.005564292509010348
+    "CbGaD": 0.748178237325165,
+    "CbGdCrCtD": 0.005330804696673853,
+    "CbGeAlD": 0.07398115970427327,
+    "CbGpPWpGaD": 0.16694550576487752,
+    "CrCbGaD": 0.005564292509010347
   },
+  "n_trials": 0.0,
   "prediction": 0.00125366137356513,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

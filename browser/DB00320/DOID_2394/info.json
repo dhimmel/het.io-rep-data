@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGaD": 0.47035735356879066,
     "CbGbCtD": 0.297908104661031,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22426246037346328,
     "CrCbGaD": 0.00031203718948092973
   },
+  "n_trials": 0.0,
   "prediction": 0.0021956976647683,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

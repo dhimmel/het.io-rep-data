@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.581274382314694,
   "metapath_contribution": {
     "CbGaD": 0.7886751412077443,
     "CbGeAlD": 0.044564406452669285,
     "CbGpPWpGaD": 0.1584877573387093,
     "CrCbGaD": 0.008272695000877113
   },
+  "n_trials": 0.0,
   "prediction": 0.00175650432138071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

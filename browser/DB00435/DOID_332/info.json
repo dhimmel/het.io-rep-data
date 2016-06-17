@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00435",
   "compound_name": "Nitric Oxide",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGbCtD": 0.7575039937719364,
     "CbGeAlD": 0.08861320323487627,
     "CbGpPWpGaD": 0.009116794722190341,
     "CcSEcCtD": 0.14476600827099695
   },
+  "n_trials": 0.0,
   "prediction": 0.00223509853017599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

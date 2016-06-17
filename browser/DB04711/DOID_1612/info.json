@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04711",
   "compound_name": "Iodipamide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.58257477243173,
   "metapath_contribution": {
     "CbGaD": 0.6015663987203873,
     "CbGbCtD": 0.17551403822418848,
     "CbGpPWpGaD": 0.04370004395162515,
     "CcSEcCtD": 0.17921951910379905
   },
+  "n_trials": 0.0,
   "prediction": 0.0028139079277621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

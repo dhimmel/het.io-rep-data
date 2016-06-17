@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.388166449934981,
   "metapath_contribution": {
     "CbGaD": 0.4355764500935233,
     "CbGdCrCtD": 0.005587388401506302,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.3596496421055921,
     "CrCbGaD": 0.010394332126860284
   },
+  "n_trials": 0.0,
   "prediction": 0.0018983744596255301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

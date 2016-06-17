@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.793888166449935,
   "metapath_contribution": {
     "CbGaD": 0.3552768050697464,
     "CbGbCtD": 0.34921961776366983,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15594067243291376,
     "CrCbGaD": 0.0025358693640859502
   },
+  "n_trials": 0.0,
   "prediction": 0.00291090116833291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

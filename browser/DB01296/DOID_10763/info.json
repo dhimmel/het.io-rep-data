@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.328348504551365,
   "metapath_contribution": {
     "CbGaD": 0.3885694911852437,
     "CbGbCtD": 0.3917399746834324,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15607174180045194,
     "CrCbGaD": 0.0028562184202884245
   },
+  "n_trials": 0.0,
   "prediction": 0.0025400794166236603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

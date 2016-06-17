@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.5112196043188451,
     "CbGbCtD": 0.2538501661683201,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07853670813559598,
     "CrCbGaD": 0.0020003710273291736
   },
+  "n_trials": 0.0,
   "prediction": 0.0024265822644423,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

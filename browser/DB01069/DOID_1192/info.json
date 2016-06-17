@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.144343302990897,
   "metapath_contribution": {
     "CbGaD": 0.34017891080310775,
     "CbGbCtD": 0.3222332154853053,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17242055059007652,
     "CrCbGaD": 0.00477239173548768
   },
+  "n_trials": 0.0,
   "prediction": 0.000969791222017936,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

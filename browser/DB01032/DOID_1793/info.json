@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
     "CbGbCtD": 0.4452748852183292,
     "CbGeAlD": 0.04002159422948686,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.04007920754746651,
     "CrCrCtD": 0.4279423996240374
   },
+  "n_trials": 0.0,
   "prediction": 0.00458177147455716,
   "status": 0,
   "training_prediction": 0.0108730262350058

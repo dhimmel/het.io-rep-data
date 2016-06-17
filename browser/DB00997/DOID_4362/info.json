@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGbCtD": 0.0652744657363999,
     "CbGdCrCtD": 0.0012679033944841388,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.5587169929418163,
     "CtDrD": 0.30190416153861166
   },
+  "n_trials": 6.0,
   "prediction": 0.0119011839928436,
   "status": 0,
   "training_prediction": 0.0539408577762653

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01253",
   "compound_name": "Ergonovine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.6801040312093629,
   "metapath_contribution": {
-    "CbGbCtD": 0.7428457165825122,
-    "CbGeAlD": 0.02839388277144994,
-    "CbGpPWpGaD": 0.1435304695154054,
-    "CcSEcCtD": 0.07378207174806253,
-    "CrCbGaD": 0.01144785938256987
+    "CbGbCtD": 0.7428457165825123,
+    "CbGeAlD": 0.028393882771449948,
+    "CbGpPWpGaD": 0.14353046951540543,
+    "CcSEcCtD": 0.07378207174806255,
+    "CrCbGaD": 0.011447859382569871
   },
+  "n_trials": 0.0,
   "prediction": 0.0028884390094392,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

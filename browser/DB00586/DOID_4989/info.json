@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGaD": 0.6835938918982614,
     "CbGeAlD": 0.036931259130648125,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12329408532128652,
     "CrCbGaD": 0.003061320070414421
   },
+  "n_trials": 4.0,
   "prediction": 0.00167798302999475,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

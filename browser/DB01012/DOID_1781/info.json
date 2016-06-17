@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.490897269180754,
   "metapath_contribution": {
     "CbGbCtD": 0.3945915295926705,
     "CbGeAlD": 0.26560323167466277,
     "CcSEcCtD": 0.33745990482811095,
     "CrCbGaD": 0.002345333904555732
   },
+  "n_trials": 0.0,
   "prediction": 0.00148750223709183,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

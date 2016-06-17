@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.3579437810309103,
     "CbGbCtD": 0.45842985279541293,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07396425279158507,
     "CrCbGaD": 0.0032644311777522616
   },
+  "n_trials": 0.0,
   "prediction": 0.0045872732272860105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

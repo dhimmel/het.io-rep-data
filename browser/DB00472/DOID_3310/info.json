@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGbCtD": 0.2737711272500342,
     "CbGdCrCtD": 0.000360611429452955,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.3863138294929794,
     "CrCrCtD": 0.2347308649102316
   },
+  "n_trials": 0.0,
   "prediction": 0.007437938752169091,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

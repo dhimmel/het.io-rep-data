@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGbCtD": 0.6236721646117205,
     "CbGdCrCtD": 0.008395761448004845,
@@ -12,6 +14,5 @@
     "CcSEcCtD": 0.2820696460383004
   },
   "prediction": 0.00354543266485324,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

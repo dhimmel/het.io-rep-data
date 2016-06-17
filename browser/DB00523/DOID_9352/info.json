@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.12418725617685301,
   "metapath_contribution": {
     "CbGaD": 0.27656762745466373,
     "CbGbCtD": 0.27698724232818067,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2472022090764165,
     "CrCbGaD": 0.003968568080708736
   },
+  "n_trials": 0.0,
   "prediction": 0.0010897223543498199,
   "status": 0,
   "training_prediction": 0.00798781644681404

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.10208062418725601,
   "metapath_contribution": {
     "CbGaD": 0.7448698901458425,
     "CbGeAlD": 0.10740080870993626,
     "CbGpPWpGaD": 0.1477293011442213
   },
+  "n_trials": 2.0,
   "prediction": 0.000666713963042618,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

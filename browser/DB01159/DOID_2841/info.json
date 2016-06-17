@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.47471965976301966,
     "CbGbCtD": 0.39081569922851794,
     "CbGeAlD": 0.04214938166585065,
     "CbGpPWpGaD": 0.09231525934261177
   },
+  "n_trials": 0.0,
   "prediction": 0.00848317994421626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

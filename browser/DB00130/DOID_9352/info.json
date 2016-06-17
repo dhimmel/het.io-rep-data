@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.24707412223667105,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.00524474516739274,
-    "CbGeAlD": 0.26445338909112653,
-    "CbGpPWpGaD": 0.35757256073983634,
-    "CcSEcCtD": 0.3564145024743651,
-    "CrCbGaD": 0.016314802527279133
+    "CbGdCrCtD": 0.0052447451673927415,
+    "CbGeAlD": 0.26445338909112664,
+    "CbGpPWpGaD": 0.3575725607398364,
+    "CcSEcCtD": 0.3564145024743652,
+    "CrCbGaD": 0.016314802527279137
   },
+  "n_trials": 0.0,
   "prediction": 0.0015279045068169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

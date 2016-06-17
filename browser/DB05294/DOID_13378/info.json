@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.790544833243917,
     "CbGbCtD": 0.0034981416915680547,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11383418241129602,
     "CrCbGaD": 0.00642120723640255
   },
+  "n_trials": 0.0,
   "prediction": 0.00203492709996688,
   "status": 0,
   "training_prediction": 0.0009176882506295131

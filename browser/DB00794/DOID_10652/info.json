@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00794",
   "compound_name": "Primidone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.4283669781337297,
     "CbGbCtD": 0.38962004461872735,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06315977619544233,
     "CrCbGaD": 0.0024222087675949966
   },
+  "n_trials": 0.0,
   "prediction": 0.005370187577627371,
   "status": 0,
   "training_prediction": 0.0065128923491061

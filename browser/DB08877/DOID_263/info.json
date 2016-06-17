@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08877",
   "compound_name": "Ruxolitinib",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.13355899448933223,
     "CbGbCtD": 0.2896970638121971,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.03312095034509986,
     "CiPCiCtD": 0.468547421018978
   },
+  "n_trials": 0.0,
   "prediction": 0.057028523190821,
   "status": 0,
   "training_prediction": 0.150044813974087

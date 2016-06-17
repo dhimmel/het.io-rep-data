@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01625",
   "compound_name": "Isopropamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.054640842296307335,
     "CrCbGaD": 0.0010706409135559866,
     "CrCrCtD": 0.3408879271266332,
     "CrCtD": 0.6034005896635034
   },
+  "n_trials": 0.0,
   "prediction": 0.00437353278548603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

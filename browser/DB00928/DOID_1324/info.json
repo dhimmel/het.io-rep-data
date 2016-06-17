@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGbCtD": 0.13428230359786053,
     "CbGdCrCtD": 0.0007085007308338935,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.11144554473688233,
     "CrCtD": 0.29893759647245755
   },
+  "n_trials": 12.0,
   "prediction": 0.0123851686845771,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.3058679307550399,
     "CbGeAlD": 0.035080527292581494,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08636829920435612,
     "CiPCiCtD": 0.5467088024616286
   },
+  "n_trials": 2.0,
   "prediction": 0.0388263673703289,
   "status": 0,
   "training_prediction": 0.262445788899287

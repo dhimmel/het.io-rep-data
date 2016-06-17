@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00504",
   "compound_name": "Levallorphan",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.355656697009103,
   "metapath_contribution": {
     "CbGaD": 0.8702954161466945,
     "CbGeAlD": 0.03758041742322059,
     "CbGpPWpGaD": 0.0817646531938005,
     "CrCbGaD": 0.010359513236284396
   },
+  "n_trials": 0.0,
   "prediction": 0.00243231606314376,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

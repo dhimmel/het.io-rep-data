@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00467",
   "compound_name": "Enoxacin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.569570871261378,
   "metapath_contribution": {
     "CbGaD": 0.44735109481171903,
     "CbGbCtD": 0.4824876053992623,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.061621764865130345,
     "CrCbGaD": 0.004447842895259685
   },
+  "n_trials": 0.0,
   "prediction": 0.0025901146690043,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

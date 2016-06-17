@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGaD": 0.48655792272329995,
     "CbGbCtD": 0.27796947631830227,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14282478986215322,
     "CrCbGaD": 0.002846919298211593
   },
+  "n_trials": 0.0,
   "prediction": 0.00260972784754895,
   "status": 0,
   "training_prediction": 0.00316691361410763

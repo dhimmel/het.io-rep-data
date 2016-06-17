@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01355",
   "compound_name": "Hexobarbital",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.825097529258778,
   "metapath_contribution": {
     "CbGaD": 0.44244117752462103,
     "CbGbCtD": 0.43329611847797467,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07857845564062937,
     "CrCbGaD": 0.002855867136171722
   },
+  "n_trials": 0.0,
   "prediction": 0.00586188847471382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

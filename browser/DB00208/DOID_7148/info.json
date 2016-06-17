@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.5715214564369311,
   "metapath_contribution": {
     "CbGaD": 0.44430457950476165,
     "CbGbCtD": 0.3588562049941878,
     "CbGpPWpGaD": 0.043563428704271163,
     "CcSEcCtD": 0.15327578679677945
   },
+  "n_trials": 0.0,
   "prediction": 0.00197441802101685,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

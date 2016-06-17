@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.639141742522757,
   "metapath_contribution": {
     "CbGaD": 0.423732204600893,
     "CbGbCtD": 0.3160455393870472,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.12008771816449956,
     "CrCbGaD": 0.004084899604370013
   },
+  "n_trials": 2.0,
   "prediction": 0.00550940635918614,
   "status": 0,
   "training_prediction": 0.062148884511126

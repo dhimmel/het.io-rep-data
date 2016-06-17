@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.591677503250975,
   "metapath_contribution": {
-    "CbGaD": 0.628989484570133,
-    "CbGeAlD": 0.15685709920818147,
-    "CbGpPWpGaD": 0.20730846527542685,
-    "CrCbGaD": 0.006844950946258697
+    "CbGaD": 0.6289894845701329,
+    "CbGeAlD": 0.15685709920818144,
+    "CbGpPWpGaD": 0.2073084652754268,
+    "CrCbGaD": 0.006844950946258695
   },
+  "n_trials": 0.0,
   "prediction": 0.00177042029801578,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

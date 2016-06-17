@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.596879063719116,
   "metapath_contribution": {
     "CbGaD": 0.43439263498603686,
     "CbGbCtD": 0.303202580510146,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.015817136568085297,
     "CrCbGaD": 0.005700629920490379
   },
+  "n_trials": 1.0,
   "prediction": 0.00248266749295557,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

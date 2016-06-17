@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00805",
   "compound_name": "Minaprine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6475942782834849,
   "metapath_contribution": {
     "CbGaD": 0.316078529584696,
     "CbGbCtD": 0.14606401887355944,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002616946393330476,
     "CrCrCtD": 0.4741765610800633
   },
+  "n_trials": 0.0,
   "prediction": 0.00324615818532925,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

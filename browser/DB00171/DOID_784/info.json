@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.7274047094262969,
     "CbGeAlD": 0.1009558183302948,
     "CbGpPWpGaD": 0.16961366793304575,
     "CrCbGaD": 0.002025804310362569
   },
+  "n_trials": 0.0,
   "prediction": 0.00251926486811186,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

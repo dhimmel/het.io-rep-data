@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.17402385536776624,
     "CbGbCtD": 0.19561866213502604,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.19233648254366056,
     "CrCtD": 0.3421542162405048
   },
+  "n_trials": 78.0,
   "prediction": 0.105806585191657,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

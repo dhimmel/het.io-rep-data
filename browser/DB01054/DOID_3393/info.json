@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.22886866059817898,
   "metapath_contribution": {
     "CbGbCtD": 0.8014288463470606,
     "CbGeAlD": 0.05574080867251255,
     "CbGpPWpGaD": 0.13973432670658048,
     "CrCbGaD": 0.0030960182738464406
   },
+  "n_trials": 0.0,
   "prediction": 0.00134671077050601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

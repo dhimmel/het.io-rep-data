@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.0294117647058824,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.0130039011703511,
   "metapath_contribution": {
     "CbGeAlD": 0.03638201919755362,
     "CbGpPWpGaD": 0.23681591613549463,
     "CcSEcCtD": 0.7048433392574054,
     "CrCbGaD": 0.02195872540954643
   },
+  "n_trials": 4.0,
   "prediction": 0.000397526970251522,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

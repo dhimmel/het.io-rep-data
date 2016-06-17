@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.28543563068920697,
   "metapath_contribution": {
     "CbGaD": 0.8518977206702211,
     "CbGbCtD": 0.03404851174759437,
     "CbGpPWpGaD": 0.11090968545482426,
     "CrCbGaD": 0.003144082127360264
   },
+  "n_trials": 0.0,
   "prediction": 0.0010412911465045,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

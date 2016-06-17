@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.4524073235962465,
     "CbGbCtD": 0.35713654082508,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12701203135104097,
     "CrCbGaD": 0.0065010925683182215
   },
+  "n_trials": 0.0,
   "prediction": 0.00288911258009833,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00283",
   "compound_name": "Clemastine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.334850455136541,
   "metapath_contribution": {
     "CbGaD": 0.32134489583612463,
     "CbGbCtD": 0.46523809370509844,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1812880116712634,
     "CrCbGaD": 0.0027088928461031303
   },
+  "n_trials": 0.0,
   "prediction": 0.0018875366129495802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

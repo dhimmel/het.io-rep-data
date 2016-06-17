@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00379",
   "compound_name": "Mexiletine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.5418414515105461,
     "CbGbCtD": 0.23115156808671214,
     "CbGpPWpGaD": 0.08899562929113586,
     "CcSEcCtD": 0.1380113511116058
   },
+  "n_trials": 0.0,
   "prediction": 0.0064149524246443,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

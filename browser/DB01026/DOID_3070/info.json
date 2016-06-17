@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.461638491547464,
   "metapath_contribution": {
     "CbGaD": 0.5829779036087397,
     "CbGbCtD": 0.11115777540294228,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07174648350088686,
     "CrCbGaD": 0.00250847447302368
   },
+  "n_trials": 0.0,
   "prediction": 0.00134025646370157,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.492847854356307,
   "metapath_contribution": {
     "CbGaD": 0.5056245992880298,
     "CbGbCtD": 0.20359017382276354,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1773624424630874,
     "CrCbGaD": 0.005310187618586594
   },
+  "n_trials": 0.0,
   "prediction": 0.0015395598209625302,
   "status": 0,
   "training_prediction": 0.00281258041673365

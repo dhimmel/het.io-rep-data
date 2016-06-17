@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.181404421326398,
   "metapath_contribution": {
     "CbGbCtD": 0.5013321880145614,
     "CbGeAlD": 0.08151089544234151,
     "CcSEcCtD": 0.40119645354995737,
     "CrCbGaD": 0.015960462993139756
   },
+  "n_trials": 0.0,
   "prediction": 0.0010660857733975199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.123537061118335,
   "metapath_contribution": {
     "CbGbCtD": 0.6797531665136453,
     "CbGdCrCtD": 0.018318411150178494,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11827814478268979,
     "CrCbGaD": 0.024182386725918784
   },
+  "n_trials": 0.0,
   "prediction": 0.00102931125914034,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

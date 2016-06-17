@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.415474642392718,
   "metapath_contribution": {
     "CbGbCtD": 0.6999418819899883,
     "CbGdCrCtD": 0.000880288550545029,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03841163745391549,
     "CcSEcCtD": 0.16166152085056382
   },
+  "n_trials": 0.0,
   "prediction": 0.00165782845129361,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

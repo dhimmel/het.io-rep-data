@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.7477243172951891,
   "metapath_contribution": {
     "CbGbCtD": 0.3254900333197514,
     "CbGpPWpGaD": 0.02522319558736172,
     "CcSEcCtD": 0.16803059861092584,
     "CpDpCtD": 0.48125617248196106
   },
+  "n_trials": 0.0,
   "prediction": 0.00269433333546911,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

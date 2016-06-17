@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00714",
   "compound_name": "Apomorphine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.556566970091027,
   "metapath_contribution": {
     "CbGbCtD": 0.06485196564026095,
     "CbGeAlD": 0.05288281650300126,
     "CbGpPWpGaD": 0.3395263281202442,
     "CcSEcCtD": 0.5427388897364935
   },
+  "n_trials": 0.0,
   "prediction": 0.0026533770812125802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.5151782757847979,
     "CbGbCtD": 0.34941817955516724,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11122669343760674,
     "CrCbGaD": 0.004494914559502226
   },
+  "n_trials": 0.0,
   "prediction": 0.00296658027399245,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.9340468915300851,
     "CbGeAlD": 0.002970145551414805,
     "CbGpPWpGaD": 0.060954726622599285,
     "CrCbGaD": 0.002028236295900728
   },
+  "n_trials": 0.0,
   "prediction": 0.00258215269271486,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

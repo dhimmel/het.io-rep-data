@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00499",
   "compound_name": "Flutamide",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.6075928216798236,
     "CbGbCtD": 0.2256104011604224,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0744204549998803,
     "CcSEcCtD": 0.0635572869253613
   },
+  "n_trials": 0.0,
   "prediction": 0.0037308343061425897,
   "status": 0,
   "training_prediction": 0.00452629386383469

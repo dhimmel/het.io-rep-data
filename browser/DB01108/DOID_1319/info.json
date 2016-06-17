@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01108",
   "compound_name": "Trilostane",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.5715214564369311,
   "metapath_contribution": {
     "CbGaD": 0.8952692029617754,
     "CbGeAlD": 0.0741167482137023,
     "CbGpPWpGaD": 0.028340253774629454,
     "CrCbGaD": 0.0022737950498929213
   },
+  "n_trials": 0.0,
   "prediction": 0.0017324927323956,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

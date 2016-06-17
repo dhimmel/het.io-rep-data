@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00366",
   "compound_name": "Doxylamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGbCtD": 0.1838049631148546,
     "CcSEcCtD": 0.06132815576711707,
     "CrCrCtD": 0.3273635923023829,
     "CrCtD": 0.4275032888156455
   },
+  "n_trials": 0.0,
   "prediction": 0.00852107464835003,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.5994798439531861,
   "metapath_contribution": {
     "CbGaD": 0.2590296020912503,
     "CbGeAlD": 0.011871569414218125,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002153689946418542,
     "CrCrCtD": 0.535429195653559
   },
+  "n_trials": 0.0,
   "prediction": 0.00304677610100529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

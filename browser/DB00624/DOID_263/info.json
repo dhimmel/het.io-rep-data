@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.22409101359410924,
     "CbGbCtD": 0.4892246897027001,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1759970947645691,
     "CrCbGaD": 0.001581773898860765
   },
+  "n_trials": 0.0,
   "prediction": 0.00126265407588836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

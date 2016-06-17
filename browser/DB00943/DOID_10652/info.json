@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00943",
   "compound_name": "Zalcitabine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.560468140442133,
   "metapath_contribution": {
     "CbGaD": 0.2680706540710528,
     "CbGbCtD": 0.39157859026728026,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.052344957991920335,
     "CcSEcCtD": 0.28634576155773955
   },
+  "n_trials": 0.0,
   "prediction": 0.00203949315930086,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

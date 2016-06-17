@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.0735294117647059,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.121586475942783,
   "metapath_contribution": {
     "CbGbCtD": 0.44799134903827714,
     "CbGeAlD": 0.09987657482542825,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16409153368213558,
     "CrCbGaD": 0.004859288624313161
   },
+  "n_trials": 0.0,
   "prediction": 0.0007626985302188951,
   "status": 0,
   "training_prediction": 0.00168225065187232

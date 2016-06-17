@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.3786560449747238,
     "CbGbCtD": 0.47586920636656105,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07439622197845581,
     "CrCbGaD": 0.0024757950717756655
   },
+  "n_trials": 0.0,
   "prediction": 0.00566542617868502,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

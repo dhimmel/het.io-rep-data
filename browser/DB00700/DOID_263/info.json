@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00700",
   "compound_name": "Eplerenone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.35695708712613794,
   "metapath_contribution": {
     "CbGbCtD": 0.683638811453012,
     "CbGeAlD": 0.05656753257088044,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.24227119190086266,
     "CrCbGaD": 0.0027870075056220574
   },
+  "n_trials": 0.0,
   "prediction": 0.00137766764405084,
   "status": 0,
   "training_prediction": 0.00667634572816964

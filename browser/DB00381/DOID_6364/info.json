@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.34454914894658034,
     "CbGeAlD": 0.01293745237906758,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06505096794769952,
     "CiPCiCtD": 0.5567683007160585
   },
+  "n_trials": 0.0,
   "prediction": 0.0146085191168466,
   "status": 0,
   "training_prediction": 0.0264021590947505

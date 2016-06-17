@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.23407022106632003,
   "metapath_contribution": {
     "CbGaD": 0.4509178326200342,
     "CbGpPWpGaD": 0.11932113102235459,
     "CcSEcCtD": 0.42603195563383106,
     "CrCbGaD": 0.0037290807237800438
   },
+  "n_trials": 1.0,
   "prediction": 0.0010509878852994802,
   "status": 0,
   "training_prediction": 0.000775029599576234

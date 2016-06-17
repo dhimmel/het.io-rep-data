@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.11871169815103164,
     "CbGdCrCtD": 0.0007235140137871094,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.184358391259439,
     "CrCtD": 0.2879797238750382
   },
+  "n_trials": 0.0,
   "prediction": 0.0562990810361086,
   "status": 0,
   "training_prediction": 0.203583018979928

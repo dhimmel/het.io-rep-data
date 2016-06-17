@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.844603381014304,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0023941778665937247,
     "CbGeAlD": 0.025889164975762758,
     "CiPCiCtD": 0.968895744037779,
     "CrCbGaD": 0.002820913119864508
   },
+  "n_trials": 0.0,
   "prediction": 0.00273228075599105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

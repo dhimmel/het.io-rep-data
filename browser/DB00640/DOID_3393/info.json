@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00640",
   "compound_name": "Adenosine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.33940182054616397,
   "metapath_contribution": {
     "CbGaD": 0.48372242987015857,
     "CbGbCtD": 0.2207061407982877,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1521604569042644,
     "CrCbGaD": 0.0036694476495909593
   },
+  "n_trials": 34.0,
   "prediction": 0.0017429608185070401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

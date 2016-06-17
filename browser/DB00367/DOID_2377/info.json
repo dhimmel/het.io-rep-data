@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.798439531859558,
   "metapath_contribution": {
     "CbGaD": 0.335926390315664,
     "CbGbCtD": 0.272201211049561,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0034837448004245365,
     "CrCrCtD": 0.27622057289007135
   },
+  "n_trials": 0.0,
   "prediction": 0.00287696019534067,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGaD": 0.32378871220946215,
     "CbGbCtD": 0.37631374368563864,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003187545145633727,
     "CrCrCtD": 0.23589868187638333
   },
+  "n_trials": 0.0,
   "prediction": 0.00673142229466765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00274",
   "compound_name": "Cefmetazole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
     "CbGaD": 0.9785855894823009,
     "CbGbCtD": 0.012581145594588132,
     "CbGpPWpGaD": 0.004343440455998861,
     "CrCbGaD": 0.004489824467112177
   },
+  "n_trials": 0.0,
   "prediction": 0.00258025363416617,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

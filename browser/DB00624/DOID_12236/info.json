@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGaD": 0.20746987878153453,
-    "CbGbCtD": 0.31207078018079626,
-    "CbGeAlD": 0.041087408843347176,
+    "CbGbCtD": 0.3120707801807963,
+    "CbGeAlD": 0.04108740884334718,
     "CbGpPWpGaD": 0.0370217403927085,
     "CcSEcCtD": 0.07188795644794801,
-    "CrCbGaD": 0.0012631320013926257,
-    "CrCrCtD": 0.32919910335227287
+    "CrCbGaD": 0.001263132001392626,
+    "CrCrCtD": 0.3291991033522729
   },
+  "n_trials": 0.0,
   "prediction": 0.00372392625847109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

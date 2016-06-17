@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00728",
   "compound_name": "Rocuronium",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.24772431729518898,
   "metapath_contribution": {
     "CbGbCtD": 0.47604043369537674,
     "CbGpPWpGaD": 0.17415217098049732,
     "CcSEcCtD": 0.3397584443524798,
     "CrCbGaD": 0.010048950971646176
   },
+  "n_trials": 0.0,
   "prediction": 0.00143267316252287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

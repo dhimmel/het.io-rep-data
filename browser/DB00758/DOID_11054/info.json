@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00758",
   "compound_name": "Clopidogrel",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.822496749024707,
   "metapath_contribution": {
     "CbGbCtD": 0.6080838765134243,
     "CbGeAlD": 0.04432693019486255,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.23637304025193495,
     "CrCbGaD": 0.00570200661137729
   },
+  "n_trials": 0.0,
   "prediction": 0.00259787648684591,
   "status": 0,
   "training_prediction": 0.00664687145817787

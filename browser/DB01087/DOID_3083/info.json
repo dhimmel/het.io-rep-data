@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.6036393132221286,
     "CbGbCtD": 0.2853711672440196,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.011983855010499658,
     "CrCbGaD": 0.0031431210347706196
   },
+  "n_trials": 0.0,
   "prediction": 0.00470374236674193,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

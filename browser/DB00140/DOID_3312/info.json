@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.8368135682866282,
     "CbGeAlD": 0.06903514030550445,
     "CbGpPWpGaD": 0.08847374881456899,
     "CrCbGaD": 0.005677542593298279
   },
+  "n_trials": 0.0,
   "prediction": 0.00407167592398637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

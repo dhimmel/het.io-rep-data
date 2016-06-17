@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.4244088875375169,
     "CbGbCtD": 0.3775589976786817,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13141477434693868,
     "CrCbGaD": 0.003020679925372089
   },
+  "n_trials": 0.0,
   "prediction": 0.00365326845699266,
   "status": 0,
   "training_prediction": 0.0133122786196471

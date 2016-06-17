@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01088",
   "compound_name": "Iloprost",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.5151361158107006,
     "CbGbCtD": 0.37554304085674406,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09406859540872066,
     "CrCbGaD": 0.00048453513587124554
   },
+  "n_trials": 0.0,
   "prediction": 0.00342671286099635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

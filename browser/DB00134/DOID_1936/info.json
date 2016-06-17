@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.628088426527958,
   "metapath_contribution": {
     "CbGaD": 0.6380150919639587,
     "CbGeAlD": 0.11144834465142336,
     "CbGpPWpGaD": 0.24550386231423565,
     "CrCbGaD": 0.005032701070382329
   },
+  "n_trials": 0.0,
   "prediction": 0.00218882478014472,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

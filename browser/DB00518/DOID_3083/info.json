@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.6353754965483979,
     "CbGbCtD": 0.22951433730075177,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06873410770360823,
     "CrCbGaD": 0.0021046042755608085
   },
+  "n_trials": 0.0,
   "prediction": 0.00305102384516152,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

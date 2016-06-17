@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00628",
   "compound_name": "Clorazepate",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.15409622886866103,
   "metapath_contribution": {
     "CbGbCtD": 0.47932851913423746,
     "CbGpPWpGaD": 0.2103024790982345,
     "CcSEcCtD": 0.2953573235842831,
     "CrCbGaD": 0.015011678183244937
   },
+  "n_trials": 0.0,
   "prediction": 0.0009307377260983081,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

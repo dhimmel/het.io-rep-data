@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.16569615358023518,
     "CbGbCtD": 0.19167457890539533,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.22970529116869426,
     "CrCtD": 0.3679721572579808
   },
+  "n_trials": 1.0,
   "prediction": 0.0252889216993457,
   "status": 0,
   "training_prediction": 0.0249548183472654

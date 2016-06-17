@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.798439531859558,
   "metapath_contribution": {
     "CbGaD": 0.2862537134790102,
     "CbGbCtD": 0.4937846319098562,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0077129452781334274,
     "CcSEcCtD": 0.19873540288207597
   },
+  "n_trials": 0.0,
   "prediction": 0.0041214160345365205,
   "status": 0,
   "training_prediction": 0.0126252183586257

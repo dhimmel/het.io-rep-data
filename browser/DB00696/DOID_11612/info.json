@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.8200415685990659,
     "CbGeAlD": 0.01447027759832283,
     "CbGpPWpGaD": 0.16004082791222257,
     "CrCbGaD": 0.005447325890388785
   },
+  "n_trials": 0.0,
   "prediction": 0.0022080044214051898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

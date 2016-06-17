@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00513",
   "compound_name": "Aminocaproic Acid",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.3849154746423929,
   "metapath_contribution": {
     "CbGbCtD": 0.3448105941172298,
     "CbGeAlD": 0.06200565161353202,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.29255784040621885,
     "CrCbGaD": 0.008933123965205585
   },
+  "n_trials": 0.0,
   "prediction": 0.00160123103954265,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

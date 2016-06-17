@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8179453836150848,
   "metapath_contribution": {
     "CbGbCtD": 0.7083021722171606,
     "CbGdCrCtD": 0.002522353883187065,
     "CbGeAlD": 0.1414785745823457,
     "CbGpPWpGaD": 0.14769689931730653
   },
+  "n_trials": 0.0,
   "prediction": 0.00296323158348466,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

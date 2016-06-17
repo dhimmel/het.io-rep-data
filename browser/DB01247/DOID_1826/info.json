@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01247",
   "compound_name": "Isocarboxazid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGbCtD": 0.11609889077615822,
     "CbGeAlD": 0.011930074028651793,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2060361701818437,
     "CrCtD": 0.35301701416324904
   },
+  "n_trials": 0.0,
   "prediction": 0.0383443881012861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

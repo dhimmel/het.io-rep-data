@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.44408322496749,
   "metapath_contribution": {
-    "CbGbCtD": 0.4849087755589797,
-    "CbGeAlD": 0.002638442012181856,
-    "CbGpPWpGaD": 0.01619778874277646,
-    "CcSEcCtD": 0.08962140049584554,
-    "CrCbGaD": 0.0011666859750574707,
-    "CrCrCtD": 0.4054669072151588
+    "CbGbCtD": 0.48490877555897977,
+    "CbGeAlD": 0.0026384420121818566,
+    "CbGpPWpGaD": 0.016197788742776463,
+    "CcSEcCtD": 0.08962140049584555,
+    "CrCbGaD": 0.001166685975057471,
+    "CrCrCtD": 0.4054669072151589
   },
+  "n_trials": 0.0,
   "prediction": 0.00172189498265362,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

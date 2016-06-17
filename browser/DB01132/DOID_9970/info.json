@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7932379713914169,
   "metapath_contribution": {
     "CbGaD": 0.16110084603278277,
     "CbGbCtD": 0.2078820130091771,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0008917963829025931,
     "CtDrD": 0.4914238071615475
   },
+  "n_trials": 2.0,
   "prediction": 0.0051898332387901105,
   "status": 0,
   "training_prediction": 0.0132250315855472

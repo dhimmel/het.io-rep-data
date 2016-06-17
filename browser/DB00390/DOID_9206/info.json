@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
     "CbGbCtD": 0.6980818764282117,
     "CbGeAlD": 0.08527206213810178,
     "CbGpPWpGaD": 0.13752746496258883,
     "CcSEcCtD": 0.0791185964710976
   },
+  "n_trials": 0.0,
   "prediction": 0.00171068685934786,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

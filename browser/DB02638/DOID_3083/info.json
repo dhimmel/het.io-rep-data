@@ -1,15 +1,17 @@
 {
   "compound_id": "DB02638",
   "compound_name": "Terlipressin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.276983094928479,
   "metapath_contribution": {
     "CbGeAlD": 0.09939494088505925,
     "CbGpPWpGaD": 0.282691301057508,
     "CcSEcCtD": 0.6083329924167737,
     "CrCbGaD": 0.009580765640659045
   },
+  "n_trials": 0.0,
   "prediction": 0.00154321659978975,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

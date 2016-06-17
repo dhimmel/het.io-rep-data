@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.2327665657366908,
     "CbGbCtD": 0.2433822816578248,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0014960005595049833,
     "CrCrCtD": 0.21631403303819488
   },
+  "n_trials": 0.0,
   "prediction": 0.0168417423628983,
   "status": 0,
   "training_prediction": 0.0893162368098558

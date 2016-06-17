@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.12766773923989683,
     "CbGbCtD": 0.1956244377809513,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.0006534483195549145,
     "CrCrCtD": 0.18130735895016023
   },
+  "n_trials": 0.0,
   "prediction": 0.0589689599903294,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGaD": 0.6914712881606961,
     "CbGeAlD": 0.11196332856569481,
     "CbGpPWpGaD": 0.1901342504327754,
     "CrCbGaD": 0.006431132840833619
   },
+  "n_trials": 0.0,
   "prediction": 0.0015708852053567801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

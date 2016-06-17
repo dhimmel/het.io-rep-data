@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.08357056261235472,
     "CbGbCtD": 0.1518249195967707,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.13403092928788968,
     "CrCtD": 0.20344891866702244
   },
+  "n_trials": 0.0,
   "prediction": 0.0527758512674924,
   "status": 0,
   "training_prediction": 0.23622996130063798

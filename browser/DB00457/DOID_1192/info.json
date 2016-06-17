@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.2281232412050808,
     "CbGbCtD": 0.5734866682635669,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10290768623595048,
     "CrCbGaD": 0.001724514666831216
   },
+  "n_trials": 0.0,
   "prediction": 0.00416023187504901,
   "status": 0,
   "training_prediction": 0.0113341841217599

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.6222366710013001,
   "metapath_contribution": {
     "CbGaD": 0.7315300221373996,
     "CbGeAlD": 0.08724282466050065,
     "CbGpPWpGaD": 0.18113992875081997,
     "CrCbGaD": 8.72244512797393e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00163184356369983,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.41677503250975295,
   "metapath_contribution": {
     "CbGbCtD": 0.8257058335755846,
     "CbGeAlD": 0.016696249175893567,
     "CcSEcCtD": 0.15576007202113348,
     "CrCbGaD": 0.0018378452273884092
   },
+  "n_trials": 0.0,
   "prediction": 0.00187001226516845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

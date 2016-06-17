@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.7652795838751629,
   "metapath_contribution": {
     "CbGaD": 0.43518825981714276,
     "CbGbCtD": 0.39432295813942453,
     "CbGpPWpGaD": 0.07690124933490038,
     "CcSEcCtD": 0.09358753270853229
   },
+  "n_trials": 0.0,
   "prediction": 0.00271880497928449,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

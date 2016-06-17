@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.278933680104031,
   "metapath_contribution": {
     "CbGaD": 0.2603790785929017,
     "CbGbCtD": 0.22606134846787757,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24361454203668773,
     "CrCbGaD": 0.0040037077767335885
   },
+  "n_trials": 0.0,
   "prediction": 0.00102651794439923,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

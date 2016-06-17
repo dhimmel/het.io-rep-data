@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.0214564369310793,
   "metapath_contribution": {
     "CbGaD": 0.7431187805773946,
     "CbGeAlD": 0.10933859803576793,
     "CbGpPWpGaD": 0.13662498691640085,
     "CrCbGaD": 0.010917634470436659
   },
+  "n_trials": 0.0,
   "prediction": 0.000764409286153185,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

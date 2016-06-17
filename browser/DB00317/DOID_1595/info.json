@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.330299089726918,
   "metapath_contribution": {
     "CbGaD": 0.7030392814488303,
     "CbGeAlD": 0.2029398758736653,
     "CbGpPWpGaD": 0.0784617177208798,
     "CrCbGaD": 0.015559124956624577
   },
+  "n_trials": 0.0,
   "prediction": 0.00124017670731128,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

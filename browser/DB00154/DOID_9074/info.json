@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00154",
   "compound_name": "Dihomo-gamma-linolenic acid",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.617685305591678,
   "metapath_contribution": {
     "CbGaD": 0.46275376788944295,
     "CbGbCtD": 0.5089664428073319,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.0210393146584078,
     "CrCbGaD": 0.002318239059784406
   },
+  "n_trials": 0.0,
   "prediction": 0.0022256890190977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

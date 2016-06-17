@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00526",
   "compound_name": "Oxaliplatin",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGbCtD": 0.8001205681689618,
     "CbGeAlD": 0.0830346982103032,
     "CbGpPWpGaD": 0.11684473362073496
   },
+  "n_trials": 96.0,
   "prediction": 0.0038191501720129897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

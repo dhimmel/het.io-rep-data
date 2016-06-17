@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.601316891349382,
     "CbGbCtD": 0.24818517611494972,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1407116832986526,
     "CrCbGaD": 0.0002786040665330021
   },
+  "n_trials": 0.0,
   "prediction": 0.00259359634974575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

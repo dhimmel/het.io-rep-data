@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGbCtD": 0.6165043281698234,
     "CbGdCrCtD": 0.0014326203575446535,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11681183629043039,
     "CcSEcCtD": 0.18332349187906502
   },
+  "n_trials": 0.0,
   "prediction": 0.0026338001843881,
   "status": 0,
   "training_prediction": 0.0297175038375578

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06775",
   "compound_name": "Carglumic Acid",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.472691807542263,
   "metapath_contribution": {
     "CbGaD": 0.7449494635990912,
     "CbGeAlD": 0.0033556421155800284,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15252370911713303,
     "CrCbGaD": 0.006799319060508726
   },
+  "n_trials": 0.0,
   "prediction": 0.00363049001316485,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

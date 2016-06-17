@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01222",
   "compound_name": "Budesonide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.09283533830504694,
     "CbGbCtD": 0.11809495940153447,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.17401646932521808,
     "CrCtD": 0.24520005354832067
   },
+  "n_trials": 0.0,
   "prediction": 0.0659515266036811,
   "status": 0,
   "training_prediction": 0.255953192687478

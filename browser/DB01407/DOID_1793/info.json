@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01407",
   "compound_name": "Clenbuterol",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.5273087109896755,
     "CbGbCtD": 0.3316262701243807,
     "CbGpPWpGaD": 0.14106501888594383
   },
+  "n_trials": 0.0,
   "prediction": 0.00334132391070511,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

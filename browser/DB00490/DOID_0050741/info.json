@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00490",
   "compound_name": "Buspirone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.2776695007016195,
     "CbGbCtD": 0.15769102704046,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08914840131856289,
     "CpDpCtD": 0.3971429440579744
   },
+  "n_trials": 0.0,
   "prediction": 0.0180809401961107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

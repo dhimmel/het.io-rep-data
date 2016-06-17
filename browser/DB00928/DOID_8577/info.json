@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.362808842652796,
   "metapath_contribution": {
     "CbGdCrCtD": 0.003677743235335821,
     "CbGeAlD": 0.013174401262282087,
@@ -10,7 +12,7 @@
     "CiPCiCtD": 0.8803361892964794,
     "CrCbGaD": 0.0025049947529206724
   },
+  "n_trials": 0.0,
   "prediction": 0.00174603368913034,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

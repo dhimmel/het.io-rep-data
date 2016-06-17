@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGbCtD": 0.4212312131445631,
     "CbGdCrCtD": 0.001703055367191651,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06894604664539954,
     "CtDrD": 0.4727704638780192
   },
+  "n_trials": 0.0,
   "prediction": 0.00270247610019103,
   "status": 0,
   "training_prediction": 0.0263338818989473

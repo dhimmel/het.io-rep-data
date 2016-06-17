@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.249674902470741,
   "metapath_contribution": {
     "CbGaD": 0.34373938347609734,
     "CbGeAlD": 0.11250832771764374,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09188385519911232,
     "CrCbGaD": 0.00910171998952753
   },
+  "n_trials": 0.0,
   "prediction": 0.000979578504870058,
   "status": 0,
   "training_prediction": 0.00118913679845857

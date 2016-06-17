@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
     "CbGaD": 0.8451998385782801,
     "CbGeAlD": 0.08740377283504933,
     "CbGpPWpGaD": 0.06303688091336296,
     "CrCbGaD": 0.004359507673307655
   },
+  "n_trials": 0.0,
   "prediction": 0.0017816739209389398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

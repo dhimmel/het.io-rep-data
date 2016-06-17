@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00185",
   "compound_name": "Cevimeline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.30171387867411853,
     "CbGbCtD": 0.3663580457894498,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.025609124012169963,
     "CcSEcCtD": 0.2974145941778699
   },
+  "n_trials": 0.0,
   "prediction": 0.00595705818836577,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

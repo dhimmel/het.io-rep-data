@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.267880364109233,
   "metapath_contribution": {
     "CbGbCtD": 0.6521922087240337,
     "CbGpPWpGaD": 0.10544024746668802,
     "CcSEcCtD": 0.2371612165550047,
     "CrCbGaD": 0.005206327254273612
   },
+  "n_trials": 0.0,
   "prediction": 0.00128686476211075,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

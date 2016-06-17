@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.09023334562018889,
     "CbGbCtD": 0.17817495466922711,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.1738454351298057,
     "CrCtD": 0.20610323049562376
   },
+  "n_trials": 0.0,
   "prediction": 0.0592270867083391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00672",
   "compound_name": "Chlorpropamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGbCtD": 0.19420818779695126,
     "CbGpPWpGaD": 0.028023655797960335,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.23256721492839644,
     "CrCtD": 0.5017758273870503
   },
+  "n_trials": 0.0,
   "prediction": 0.0175415979939482,
   "status": 0,
   "training_prediction": 0.0379229806849219

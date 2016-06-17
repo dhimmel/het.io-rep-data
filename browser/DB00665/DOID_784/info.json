@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00665",
   "compound_name": "Nilutamide",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.46228868660598205,
   "metapath_contribution": {
     "CbGaD": 0.771830414477417,
     "CbGeAlD": 0.07366749367868734,
     "CbGpPWpGaD": 0.14332724220764245,
     "CrCbGaD": 0.011174849636253287
   },
+  "n_trials": 0.0,
   "prediction": 0.0014827084768853,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

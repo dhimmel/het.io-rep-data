@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
     "CbGaD": 0.6071961624350568,
     "CbGbCtD": 0.24999482887436325,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.04053175679662147,
     "CrCbGaD": 0.00375870872283742
   },
+  "n_trials": 0.0,
   "prediction": 0.0035912514467121397,
   "status": 0,
   "training_prediction": 0.0108765196915126

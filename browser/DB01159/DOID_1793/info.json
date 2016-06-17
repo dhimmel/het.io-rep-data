@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.798439531859558,
   "metapath_contribution": {
     "CbGbCtD": 0.6912149792580117,
     "CbGeAlD": 0.03417378472026483,
     "CbGpPWpGaD": 0.2746112360217235
   },
+  "n_trials": 0.0,
   "prediction": 0.0027195409128985396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

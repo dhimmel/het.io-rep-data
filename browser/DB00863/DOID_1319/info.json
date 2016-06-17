@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.347204161248374,
   "metapath_contribution": {
     "CbGbCtD": 0.7154928084630074,
     "CbGeAlD": 0.031115498844963275,
     "CbGpPWpGaD": 0.03220685186844294,
     "CcSEcCtD": 0.2211848408235863
   },
+  "n_trials": 0.0,
   "prediction": 0.00127711587451597,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

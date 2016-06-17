@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.552015604681404,
   "metapath_contribution": {
     "CbGaD": 0.6238857222786058,
     "CbGbCtD": 0.3217283825311289,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02812948560754883,
     "CrCbGaD": 0.011083410241132892
   },
+  "n_trials": 0.0,
   "prediction": 0.0022996927250867397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

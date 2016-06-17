@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGbCtD": 0.23334400893246193,
     "CbGeAlD": 0.03205591314799437,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08341260055793422,
     "CtDrD": 0.6157135178461403
   },
+  "n_trials": 2.0,
   "prediction": 0.00588750397315365,
   "status": 0,
   "training_prediction": 0.0129060050640076

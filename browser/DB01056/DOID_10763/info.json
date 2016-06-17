@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01056",
   "compound_name": "Tocainide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.202860858257477,
   "metapath_contribution": {
     "CbGaD": 0.17881376216581488,
     "CbGbCtD": 0.5853592931887405,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13916650035923514,
     "CrCbGaD": 0.005968861941895134
   },
+  "n_trials": 0.0,
   "prediction": 0.00186656715602507,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

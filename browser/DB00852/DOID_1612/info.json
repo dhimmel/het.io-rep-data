@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGaD": 0.6179651309117945,
     "CbGeAlD": 0.052640536935034794,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12727373249915322,
     "CrCbGaD": 0.0038804627235199053
   },
+  "n_trials": 0.0,
   "prediction": 0.0020931636723456604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

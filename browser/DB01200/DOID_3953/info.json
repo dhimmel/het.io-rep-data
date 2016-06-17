@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.392717815344603,
   "metapath_contribution": {
     "CbGaD": 0.7304810964793541,
     "CbGeAlD": 0.05966357811256486,
     "CbGpPWpGaD": 0.2034690589599077,
     "CrCbGaD": 0.006386266448173318
   },
+  "n_trials": 0.0,
   "prediction": 0.00113778344384807,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

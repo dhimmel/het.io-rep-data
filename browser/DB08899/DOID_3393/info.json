@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08899",
   "compound_name": "Enzalutamide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.610533159947984,
   "metapath_contribution": {
     "CbGaD": 0.22556079063139042,
     "CbGbCtD": 0.5674629051653873,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1381909348442004,
     "CrCbGaD": 0.0019027678593428697
   },
+  "n_trials": 0.0,
   "prediction": 0.0029332541573959398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

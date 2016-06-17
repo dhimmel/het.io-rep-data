@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.0604681404421326,
   "metapath_contribution": {
     "CbGaD": 0.6811463754033343,
     "CbGeAlD": 0.00583495256410994,
     "CbGpPWpGaD": 0.29208433968822023,
     "CrCbGaD": 0.020934332344335504
   },
+  "n_trials": 0.0,
   "prediction": 0.000634237701829863,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

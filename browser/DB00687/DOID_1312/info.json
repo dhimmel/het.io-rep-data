@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.0422626788036411,
   "metapath_contribution": {
     "CbGeAlD": 0.2734093884001717,
     "CbGpPWpGaD": 0.1625735849694727,
     "CcSEcCtD": 0.5593965305097752,
     "CrCbGaD": 0.004620496120580479
   },
+  "n_trials": 0.0,
   "prediction": 0.000675378134109437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

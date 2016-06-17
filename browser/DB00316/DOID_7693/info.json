@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.9242026571369314,
     "CbGeAlD": 0.07579734286306855
   },
+  "n_trials": 1.0,
   "prediction": 0.00201141415955259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

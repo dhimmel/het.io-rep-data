@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.695708712613784,
   "metapath_contribution": {
     "CbGaD": 0.7375592381570594,
     "CbGeAlD": 0.10578712426386967,
     "CbGpPWpGaD": 0.14905745317028862,
     "CrCbGaD": 0.007596184408782189
   },
+  "n_trials": 0.0,
   "prediction": 0.00207105634445846,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

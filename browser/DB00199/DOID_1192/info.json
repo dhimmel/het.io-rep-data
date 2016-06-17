@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.687906371911573,
   "metapath_contribution": {
     "CbGaD": 0.26004607279357134,
     "CbGbCtD": 0.5882657190794977,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14702948229732832,
     "CrCbGaD": 0.0021857733207957955
   },
+  "n_trials": 0.0,
   "prediction": 0.00223126580342705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

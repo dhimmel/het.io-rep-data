@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.15609852075274178,
     "CbGbCtD": 0.19272818358916327,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2683135997298773,
     "CtDrD": 0.18201097638969718
   },
+  "n_trials": 5.0,
   "prediction": 0.0683085650586817,
   "status": 0,
   "training_prediction": 0.35241773895462297

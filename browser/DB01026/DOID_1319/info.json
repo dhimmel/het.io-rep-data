@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.784135240572172,
   "metapath_contribution": {
     "CbGaD": 0.37621332181956546,
     "CbGbCtD": 0.412260798865045,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09598464166008962,
     "CcSEcCtD": 0.09451034503258594
   },
+  "n_trials": 0.0,
   "prediction": 0.00235482341007037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00576",
   "compound_name": "Sulfamethizole",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.44018205461638504,
   "metapath_contribution": {
     "CbGaD": 0.8294409024160313,
     "CbGeAlD": 0.028298982570974844,
     "CbGpPWpGaD": 0.1335358324063081,
     "CrCbGaD": 0.008724282606685757
   },
+  "n_trials": 0.0,
   "prediction": 0.00144012828881665,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

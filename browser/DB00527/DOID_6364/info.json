@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.0695708712613784,
   "metapath_contribution": {
     "CbGbCtD": 0.6255745085712089,
     "CbGeAlD": 0.19596251956229468,
     "CbGpPWpGaD": 0.1583817354837078,
     "CrCbGaD": 0.02008123638278874
   },
+  "n_trials": 0.0,
   "prediction": 0.00111183700795195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

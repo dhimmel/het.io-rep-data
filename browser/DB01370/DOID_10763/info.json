@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01370",
   "compound_name": "Aluminium",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7678803641092329,
   "metapath_contribution": {
     "CbGaD": 0.4531337759160314,
     "CbGbCtD": 0.431024584253099,
     "CbGeAlD": 0.03178884425037994,
     "CbGpPWpGaD": 0.08405279558048977
   },
+  "n_trials": 0.0,
   "prediction": 0.00870120931556389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

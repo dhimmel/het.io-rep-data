@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01001",
   "compound_name": "Salbutamol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGbCtD": 0.3732090590466846,
     "CbGpPWpGaD": 0.03893449843986785,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.001064945311080852,
     "CrCrCtD": 0.46902507023030277
   },
+  "n_trials": 0.0,
   "prediction": 0.00447712874786973,
   "status": 0,
   "training_prediction": 0.0135350897534855

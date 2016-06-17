@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.43628088426528,
   "metapath_contribution": {
     "CbGaD": 0.22347213902859192,
     "CbGbCtD": 0.3308138475564265,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0005552675798816514,
     "CrCrCtD": 0.36331041137610476
   },
+  "n_trials": 0.0,
   "prediction": 0.00144398519243744,
   "status": 0,
   "training_prediction": 0.0023553627823051197

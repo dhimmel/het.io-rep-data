@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.6840360254703478,
     "CbGbCtD": 0.22225697478007322,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.015099723608382435,
     "CcSEcCtD": 0.023985798711220824
   },
+  "n_trials": 0.0,
   "prediction": 0.00321322206172197,
   "status": 0,
   "training_prediction": 0.00145000224405435

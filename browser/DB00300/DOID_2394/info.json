@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.5663875271594109,
     "CbGbCtD": 0.2761688637215003,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.060374024220316486,
     "CrCbGaD": 0.004220715988234945
   },
+  "n_trials": 0.0,
   "prediction": 0.0055224606241716,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

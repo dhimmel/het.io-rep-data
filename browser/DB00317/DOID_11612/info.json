@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.169117647058824,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.19180754226267901,
   "metapath_contribution": {
     "CbGaD": 0.4844997420788849,
     "CbGeAlD": 0.18982345879821375,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.025242185547288187,
     "CrCbGaD": 0.012792609616968459
   },
+  "n_trials": 0.0,
   "prediction": 0.000893946601810155,
   "status": 0,
   "training_prediction": 0.000402888960572909

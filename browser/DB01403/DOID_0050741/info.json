@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8485045513654101,
   "metapath_contribution": {
     "CbGaD": 0.5088737189213858,
     "CbGbCtD": 0.3169447013533028,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.020257782683814327,
     "CrCbGaD": 0.004540864643522431
   },
+  "n_trials": 0.0,
   "prediction": 0.00499535755705033,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

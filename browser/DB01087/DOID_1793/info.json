@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.7750325097529259,
   "metapath_contribution": {
     "CbGbCtD": 0.8937250885579042,
     "CbGdCrCtD": 0.00831577709915781,
     "CbGeAlD": 0.09579833420770756,
     "CrCbGaD": 0.0021608001352304085
   },
+  "n_trials": 0.0,
   "prediction": 0.00257177552306592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

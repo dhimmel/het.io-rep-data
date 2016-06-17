@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.12130950117096032,
     "CbGbCtD": 0.29840871012891634,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05175329152622893,
     "CpDpCtD": 0.47835409752682656
   },
+  "n_trials": 0.0,
   "prediction": 0.00565473756493789,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

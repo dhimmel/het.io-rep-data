@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01116",
   "compound_name": "Trimethaphan",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.46944083224967503,
   "metapath_contribution": {
     "CbGaD": 0.4906992601527965,
     "CbGeAlD": 0.003281415795614626,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0012448551000682226,
     "CrCrCtD": 0.4914805969146965
   },
+  "n_trials": 0.0,
   "prediction": 0.00221701546968918,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

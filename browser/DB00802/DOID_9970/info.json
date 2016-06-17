@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.695058517555267,
   "metapath_contribution": {
     "CbGaD": 0.13532026589872845,
     "CbGbCtD": 0.3929090470728593,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1284143836047233,
     "CrCrCtD": 0.254877966977496
   },
+  "n_trials": 0.0,
   "prediction": 0.00377232914943509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

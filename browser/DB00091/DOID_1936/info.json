@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGbCtD": 0.6947920528740673,
     "CbGdCrCtD": 0.003942048509328302,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12512994968143173,
     "CcSEcCtD": 0.14187428967116394
   },
+  "n_trials": 0.0,
   "prediction": 0.00418886597123154,
   "status": 0,
   "training_prediction": 0.0191776721221426

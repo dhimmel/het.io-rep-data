@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.879063719115735,
   "metapath_contribution": {
     "CbGaD": 0.37558251655155594,
     "CbGbCtD": 0.5284712837731168,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08092410937008965,
     "CrCbGaD": 0.0025227431622299444
   },
+  "n_trials": 0.0,
   "prediction": 0.00514473995543177,
   "status": 0,
   "training_prediction": 0.0174298190617766

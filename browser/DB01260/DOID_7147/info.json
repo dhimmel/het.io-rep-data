@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGbCtD": 0.13898752140142429,
     "CcSEcCtD": 0.026811126750861707,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.19600336225351805,
     "CrCtD": 0.2719502892815186
   },
+  "n_trials": 0.0,
   "prediction": 0.0624263597096371,
   "status": 0,
   "training_prediction": 0.11859737415499401

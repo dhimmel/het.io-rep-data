@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGbCtD": 0.4428351867571654,
     "CbGdCrCtD": 0.002078192357716039,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03481445967111434,
     "CpDpCtD": 0.4233146066510754
   },
+  "n_trials": 1.0,
   "prediction": 0.00447764962389706,
   "status": 0,
   "training_prediction": 0.0149235142131786

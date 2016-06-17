@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.0721716514954486,
   "metapath_contribution": {
     "CbGaD": 0.38638294289437713,
     "CbGbCtD": 0.3795745189368309,
     "CcSEcCtD": 0.2328805652498528,
     "CrCbGaD": 0.001161972918939202
   },
+  "n_trials": 6.0,
   "prediction": 0.0008156392502521259,
   "status": 0,
   "training_prediction": 0.0176380043350131

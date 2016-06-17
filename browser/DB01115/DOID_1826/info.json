@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.32380366889803536,
     "CbGbCtD": 0.41835581231448665,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13453032636082057,
     "CrCbGaD": 0.0037056469598773603
   },
+  "n_trials": 0.0,
   "prediction": 0.00540385075841055,
   "status": 0,
   "training_prediction": 0.0259824762556909

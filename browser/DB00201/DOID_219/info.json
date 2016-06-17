@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.5472057649324961,
     "CbGbCtD": 0.2029111011077107,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.12938292753805247,
     "CcSEcCtD": 0.044259715429037755
   },
+  "n_trials": 0.0,
   "prediction": 0.0036112579377414297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

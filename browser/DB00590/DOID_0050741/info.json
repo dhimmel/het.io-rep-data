@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.717165149544863,
   "metapath_contribution": {
     "CbGbCtD": 0.4906966754704609,
     "CbGeAlD": 0.07468994549696793,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3044484968150132,
     "CrCbGaD": 0.0019479595405493906
   },
+  "n_trials": 1.0,
   "prediction": 0.00316486162431174,
   "status": 0,
   "training_prediction": 0.00384011400670765

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGaD": 0.407697829201681,
     "CbGbCtD": 0.3552624872527343,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.11414385281979392,
     "CrCbGaD": 0.0001392557763051419
   },
+  "n_trials": 0.0,
   "prediction": 0.0038074536413528295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

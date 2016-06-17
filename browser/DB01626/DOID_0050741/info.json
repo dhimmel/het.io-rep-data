@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01626",
   "compound_name": "Pargyline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.746423927178153,
   "metapath_contribution": {
     "CbGaD": 0.837860291698614,
     "CbGeAlD": 0.04172616715924412,
     "CbGpPWpGaD": 0.1145190765603694,
     "CrCbGaD": 0.005894464581772602
   },
+  "n_trials": 0.0,
   "prediction": 0.00344052910177061,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

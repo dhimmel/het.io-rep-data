@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00842",
   "compound_name": "Oxazepam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.1209397027867089,
     "CbGbCtD": 0.16395658886901787,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1451412738460909,
     "CrCtD": 0.20720808564302165
   },
+  "n_trials": 0.0,
   "prediction": 0.380532929068287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

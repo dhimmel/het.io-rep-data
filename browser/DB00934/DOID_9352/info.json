@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00934",
   "compound_name": "Maprotiline",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGaD": 0.32303393429147903,
     "CbGbCtD": 0.3869966965982645,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1648011819004819,
     "CrCbGaD": 0.002640194088983414
   },
+  "n_trials": 0.0,
   "prediction": 0.0026704346514999397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

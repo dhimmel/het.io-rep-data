@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.42705594276745745,
     "CbGbCtD": 0.25829901105396047,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07668837072157177,
     "CrCbGaD": 0.0033201435022797857
   },
+  "n_trials": 0.0,
   "prediction": 0.00242795290725226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

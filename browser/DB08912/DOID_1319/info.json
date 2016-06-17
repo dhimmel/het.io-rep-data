@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08912",
   "compound_name": "Dabrafenib",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.6196358907672299,
   "metapath_contribution": {
     "CbGbCtD": 0.40813042506920516,
     "CbGeAlD": 0.1253789575962407,
     "CbGpPWpGaD": 0.21334082702260954,
     "CcSEcCtD": 0.2531497903119445
   },
+  "n_trials": 2.0,
   "prediction": 0.00184779584479703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

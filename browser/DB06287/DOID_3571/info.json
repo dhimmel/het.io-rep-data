@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06287",
   "compound_name": "Temsirolimus",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.905071521456437,
   "metapath_contribution": {
     "CbGaD": 0.30460697086779037,
     "CbGbCtD": 0.11440124033303842,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0033458055450892453,
     "CtDrD": 0.4555199195081934
   },
+  "n_trials": 0.0,
   "prediction": 0.00294021943451529,
   "status": 0,
   "training_prediction": 0.00290049625300764

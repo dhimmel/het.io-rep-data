@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00876",
   "compound_name": "Eprosartan",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6989596879063721,
   "metapath_contribution": {
     "CbGbCtD": 0.11446293632934819,
     "CbGeAlD": 0.011484614036252914,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0006207820690616795,
     "CtDrD": 0.6799582954001467
   },
+  "n_trials": 0.0,
   "prediction": 0.0038102137408733204,
   "status": 0,
   "training_prediction": 0.00973029822938882

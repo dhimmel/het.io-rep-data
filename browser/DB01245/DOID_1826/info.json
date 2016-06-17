@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01245",
   "compound_name": "Decamethonium",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGaD": 0.7470772345200531,
     "CbGeAlD": 0.05286649115790844,
     "CbGpPWpGaD": 0.19548343086668526,
     "CrCbGaD": 0.004572843455353201
   },
+  "n_trials": 0.0,
   "prediction": 0.00465475003668243,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01141",
   "compound_name": "Micafungin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7639791937581271,
   "metapath_contribution": {
     "CbGaD": 0.36212777861413525,
     "CbGbCtD": 0.3446432066677261,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.083340910294086,
     "CcSEcCtD": 0.18611302626198248
   },
+  "n_trials": 0.0,
   "prediction": 0.0086112838717729,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00771",
   "compound_name": "Clidinium",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.340052015604681,
   "metapath_contribution": {
     "CbGaD": 0.6477774138180475,
     "CbGpPWpGaD": 0.06388020928556265,
     "CrCbGaD": 0.007059815515967502,
     "CrCrCtD": 0.28128256138042235
   },
+  "n_trials": 0.0,
   "prediction": 0.00234929892985493,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

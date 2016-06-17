@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01181",
   "compound_name": "Ifosfamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.17140168485188365,
     "CbGbCtD": 0.24456075820391454,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0014098602981315752,
     "CtDrD": 0.41105608659501375
   },
+  "n_trials": 15.0,
   "prediction": 0.0077263662676030406,
   "status": 0,
   "training_prediction": 0.0572701954663705

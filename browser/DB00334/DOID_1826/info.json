@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGaD": 0.2195679045789607,
     "CbGbCtD": 0.1815795568437719,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001692073730309674,
     "CrCrCtD": 0.19772094190413392
   },
+  "n_trials": 0.0,
   "prediction": 0.0183690219939176,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

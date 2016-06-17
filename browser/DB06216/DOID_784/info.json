@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8361508452535759,
   "metapath_contribution": {
     "CbGaD": 0.6914367687753054,
     "CbGeAlD": 0.1144162944398471,
     "CbGpPWpGaD": 0.1923256942785703,
     "CrCbGaD": 0.0018212425062771383
   },
+  "n_trials": 0.0,
   "prediction": 0.0026501547627407604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

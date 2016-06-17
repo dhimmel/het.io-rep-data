@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00207",
   "compound_name": "Azithromycin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.5741222366710009,
   "metapath_contribution": {
     "CbGaD": 0.44086617978028103,
     "CbGbCtD": 0.3388181716868174,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16446837560536348,
     "CrCbGaD": 0.001530701604240252
   },
+  "n_trials": 0.0,
   "prediction": 0.00208451912978572,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

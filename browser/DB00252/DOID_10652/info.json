@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.233420026007802,
   "metapath_contribution": {
     "CbGbCtD": 0.42475121960591494,
     "CbGeAlD": 0.07118102327390444,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.35236644797801375,
     "CrCbGaD": 0.007581932549131079
   },
+  "n_trials": 0.0,
   "prediction": 0.0011248791886085,
   "status": 0,
   "training_prediction": 0.0013654787361751801

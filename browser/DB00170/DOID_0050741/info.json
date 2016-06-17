@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.762028608582575,
   "metapath_contribution": {
     "CbGaD": 0.5954990665064005,
     "CbGbCtD": 0.19773081808824874,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10561480619102964,
     "CrCbGaD": 0.0012305336303060996
   },
+  "n_trials": 0.0,
   "prediction": 0.00361056501443249,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

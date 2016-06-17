@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01608",
   "compound_name": "Propericiazine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.0832249674902471,
   "metapath_contribution": {
-    "CbGpPWpGaD": 0.1286880632670143,
-    "CcSEcCtD": 0.3733832913829847,
-    "CrCrCtD": 0.4979286453500009
+    "CbGpPWpGaD": 0.12868806326701432,
+    "CcSEcCtD": 0.37338329138298476,
+    "CrCrCtD": 0.497928645350001
   },
+  "n_trials": 0.0,
   "prediction": 0.000870049371350342,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

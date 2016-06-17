@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.49349804941482395,
   "metapath_contribution": {
     "CbGaD": 0.22165199706968594,
     "CbGbCtD": 0.6776071137201185,
     "CbGpPWpGaD": 0.09851560938581423,
     "CrCbGaD": 0.002225279824381278
   },
+  "n_trials": 0.0,
   "prediction": 0.00234704057003174,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

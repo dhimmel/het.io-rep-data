@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01168",
   "compound_name": "Procarbazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.14703454726163023,
     "CbGbCtD": 0.15854128311511761,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0009162434422457589,
     "CrCrCtD": 0.13316468472799778
   },
+  "n_trials": 0.0,
   "prediction": 0.0296635151774292,
   "status": 0,
   "training_prediction": 0.220846838843073

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01181",
   "compound_name": "Ifosfamide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.15388968461424982,
     "CbGbCtD": 0.2778627390547725,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0002513790340956013,
     "CtDrD": 0.4192931439225203
   },
+  "n_trials": 6.0,
   "prediction": 0.00780449700031655,
   "status": 0,
   "training_prediction": 0.049629925678155

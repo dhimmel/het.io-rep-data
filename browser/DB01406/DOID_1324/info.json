@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0403120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.3475697693034354,
     "CbGeAlD": 0.11039777515046434,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.28382083707376543,
     "CrCbGaD": 0.005310536713480148
   },
+  "n_trials": 0.0,
   "prediction": 0.0006462074157726179,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

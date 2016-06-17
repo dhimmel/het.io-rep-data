@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.24642392717815303,
   "metapath_contribution": {
     "CbGbCtD": 0.7024361565945365,
     "CbGdCrCtD": 0.0036833142121943715,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18052913883407873,
     "CrCbGaD": 0.009540579759042154
   },
+  "n_trials": 0.0,
   "prediction": 0.00170100779210034,
   "status": 0,
   "training_prediction": 0.00310710994223936

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:5408",
   "disease_name": "Paget's disease of bone",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGbCtD": 0.4867979802877613,
     "CbGeAlD": 0.0022278119358422844,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.41051114275079914,
     "CrCbGaD": 0.012547855026477504
   },
+  "n_trials": 0.0,
   "prediction": 0.0018409869786081398,
   "status": 0,
   "training_prediction": 0.004993813745738329

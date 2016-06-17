@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.7454329426538265,
     "CbGpPWpGaD": 0.0847025046174356,
     "CcSEcCtD": 0.16081891403237852,
     "CrCbGaD": 0.009045638696359356
   },
+  "n_trials": 1.0,
   "prediction": 0.00319741036232288,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.340063311183659,
     "CbGbCtD": 0.4804882852491295,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11701319658291649,
     "CrCbGaD": 0.0014295943054813552
   },
+  "n_trials": 0.0,
   "prediction": 0.00435387902217801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

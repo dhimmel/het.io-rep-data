@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.45513654096228895,
   "metapath_contribution": {
     "CbGaD": 0.7027194847186098,
     "CbGeAlD": 0.10174839866142843,
     "CbGpPWpGaD": 0.18661673846614904,
     "CrCbGaD": 0.008915378153812794
   },
+  "n_trials": 0.0,
   "prediction": 0.0014686661245235,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

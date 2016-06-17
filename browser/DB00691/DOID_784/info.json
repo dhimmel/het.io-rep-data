@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00691",
   "compound_name": "Moexipril",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.30669069935348914,
     "CbGeAlD": 0.06362437673948891,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0036069309535384144,
     "CtDrD": 0.5865263322632391
   },
+  "n_trials": 0.0,
   "prediction": 0.00559286849253488,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

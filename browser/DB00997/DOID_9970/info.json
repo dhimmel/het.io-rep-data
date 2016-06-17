@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.419117647058824,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.270481144343303,
   "metapath_contribution": {
     "CbGaD": 0.4035542662752767,
     "CbGbCtD": 0.29750578799653465,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11633783259595645,
     "CcSEcCtD": 0.11721153617647509
   },
+  "n_trials": 0.0,
   "prediction": 0.00156957456250225,
   "status": 0,
   "training_prediction": 0.0408992658583521

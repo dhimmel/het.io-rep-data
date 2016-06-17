@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGbCtD": 0.26037431189484717,
     "CbGdCrCtD": 0.0004998936582405606,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14016316221898792,
     "CtDrD": 0.5796382822533765
   },
+  "n_trials": 1.0,
   "prediction": 0.004616047887287879,
   "status": 0,
   "training_prediction": 0.0349173880438113

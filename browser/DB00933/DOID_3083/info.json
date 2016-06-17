@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00933",
   "compound_name": "Mesoridazine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.0923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.590202456869073,
     "CbGbCtD": 0.3273626346469828,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.055076036823097224,
     "CrCbGaD": 0.006514141777345575
   },
+  "n_trials": 0.0,
   "prediction": 0.0010913099332742699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

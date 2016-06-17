@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6742522756827048,
   "metapath_contribution": {
     "CbGaD": 0.32394572888447193,
     "CbGbCtD": 0.34799420512481466,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15650372222769976,
     "CrCbGaD": 0.0027710841670530767
   },
+  "n_trials": 0.0,
   "prediction": 0.00624091511292516,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

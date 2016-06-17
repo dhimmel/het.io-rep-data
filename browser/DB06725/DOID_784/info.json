@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06725",
   "compound_name": "Lornoxicam",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGaD": 0.8737623693050435,
     "CbGeAlD": 0.04678779181754583,
     "CbGpPWpGaD": 0.07149477478477015,
     "CrCbGaD": 0.007955064092640662
   },
+  "n_trials": 0.0,
   "prediction": 0.00318985302885873,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

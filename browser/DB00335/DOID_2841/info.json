@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00335",
   "compound_name": "Atenolol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
-    "CbGaD": 0.1947066221302524,
-    "CbGbCtD": 0.4373238229507085,
-    "CbGpPWpGaD": 0.020210489679908017,
-    "CcSEcCtD": 0.09414620709052558,
-    "CrCbGaD": 0.0021238696827325047,
-    "CrCrCtD": 0.251488988465873
+    "CbGaD": 0.19470662213025242,
+    "CbGbCtD": 0.43732382295070854,
+    "CbGpPWpGaD": 0.020210489679908024,
+    "CcSEcCtD": 0.0941462070905256,
+    "CrCbGaD": 0.002123869682732505,
+    "CrCrCtD": 0.25148898846587303
   },
+  "n_trials": 0.0,
   "prediction": 0.008133914349810029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

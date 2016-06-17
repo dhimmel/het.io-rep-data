@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.0442132639791938,
   "metapath_contribution": {
     "CbGaD": 0.7461070923030562,
     "CbGpPWpGaD": 0.15971381884391955,
     "CcSEcCtD": 0.08706741260869415,
     "CrCbGaD": 0.0071116762443300474
   },
+  "n_trials": 0.0,
   "prediction": 0.000674085369107278,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00862",
   "compound_name": "Vardenafil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7860858257477241,
   "metapath_contribution": {
     "CbGaD": 0.41631028735599307,
     "CbGbCtD": 0.27871979677614583,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16787048557445644,
     "CrCbGaD": 0.004304089546742498
   },
+  "n_trials": 0.0,
   "prediction": 0.00461459064235191,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

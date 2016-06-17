@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01062",
   "compound_name": "Oxybutynin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.591027308192458,
   "metapath_contribution": {
     "CbGaD": 0.2893717109527735,
     "CbGbCtD": 0.4300850033915649,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20995942943719687,
     "CrCbGaD": 0.0006359491419219228
   },
+  "n_trials": 0.0,
   "prediction": 0.00284725734481065,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

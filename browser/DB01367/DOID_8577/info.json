@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01367",
   "compound_name": "Rasagiline",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGbCtD": 0.563356477078957,
     "CbGeAlD": 0.0016535595848993514,
     "CbGpPWpGaD": 0.13454047091155344,
     "CcSEcCtD": 0.30044949242459007
   },
+  "n_trials": 0.0,
   "prediction": 0.00366359828132603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

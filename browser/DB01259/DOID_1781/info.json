@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGbCtD": 0.2956143163919418,
     "CbGdCrCtD": 0.0023560586587551605,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0804972930061374,
     "CrCrCtD": 0.5018639924127544
   },
+  "n_trials": 1.0,
   "prediction": 0.0065747583109414,
   "status": 0,
   "training_prediction": 0.00797172545775022

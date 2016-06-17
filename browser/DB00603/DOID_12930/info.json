@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGbCtD": 0.2404532231408189,
     "CbGeAlD": 0.00832146014546211,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.27839961341689234,
     "CrCtD": 0.424996688258892
   },
+  "n_trials": 0.0,
   "prediction": 0.0134730698496702,
   "status": 0,
   "training_prediction": 0.0132929421193566

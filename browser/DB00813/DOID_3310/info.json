@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGbCtD": 0.15984273788944894,
     "CbGpPWpGaD": 0.008660927292916766,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2064570872285509,
     "CrCtD": 0.28722275514434786
   },
+  "n_trials": 0.0,
   "prediction": 0.0132452777404635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

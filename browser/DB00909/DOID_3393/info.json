@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.19268363089545046,
     "CbGbCtD": 0.22315336375929423,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10184624929829852,
     "CiPCiCtD": 0.3726135036483911
   },
+  "n_trials": 0.0,
   "prediction": 0.0119015560151523,
   "status": 0,
   "training_prediction": 0.0610044946002248

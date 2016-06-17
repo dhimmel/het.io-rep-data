@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.37581274382314706,
   "metapath_contribution": {
     "CbGaD": 0.35014921191384263,
     "CbGbCtD": 0.5639375829888791,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06716067700277698,
     "CrCbGaD": 0.004347333960817113
   },
+  "n_trials": 0.0,
   "prediction": 0.00202621879521083,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

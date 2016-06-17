@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00388",
   "compound_name": "Phenylephrine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.369310793237971,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.20921610663324924,
     "CcSEcCtD": 0.7588788651509958,
     "CrCbGaD": 0.031905028215754944
   },
+  "n_trials": 0.0,
   "prediction": 0.00137246084433198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

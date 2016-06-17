@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
     "CbGaD": 0.5074650711355011,
     "CbGbCtD": 0.3987518100131782,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06076514483558508,
     "CrCbGaD": 0.0034702411006408474
   },
+  "n_trials": 0.0,
   "prediction": 0.0049635581025626605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

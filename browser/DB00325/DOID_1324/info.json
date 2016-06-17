@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00325",
   "compound_name": "Nitroprusside",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8433029908972691,
   "metapath_contribution": {
     "CbGaD": 0.47767576107672977,
     "CbGbCtD": 0.35027549981493394,
     "CbGeAlD": 0.06953881974610593,
     "CbGpPWpGaD": 0.10250991936223024
   },
+  "n_trials": 0.0,
   "prediction": 0.00397005617356707,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

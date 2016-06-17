@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.822496749024707,
   "metapath_contribution": {
-    "CbGbCtD": 0.6786619506492148,
-    "CbGdCrCtD": 0.014133695486491857,
-    "CbGeAlD": 0.1545801457645752,
-    "CbGpPWpGaD": 0.1526242080997183
+    "CbGbCtD": 0.6786619506492145,
+    "CbGdCrCtD": 0.014133695486491854,
+    "CbGeAlD": 0.15458014576457518,
+    "CbGpPWpGaD": 0.15262420809971827
   },
+  "n_trials": 0.0,
   "prediction": 0.00250532601779298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01346",
   "compound_name": "Quinidine barbiturate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.7454170353990149,
     "CbGeAlD": 0.11942362737551661,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09828845919539834,
     "CrCbGaD": 0.005734437582890957
   },
+  "n_trials": 0.0,
   "prediction": 0.0043501015514071,
   "status": 0,
   "training_prediction": 0.00429141245420185

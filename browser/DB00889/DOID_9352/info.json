@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00889",
   "compound_name": "Granisetron",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGaD": 0.25878149167383435,
     "CbGbCtD": 0.43903788655824505,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2335304240729828,
     "CrCbGaD": 0.00019002294050189512
   },
+  "n_trials": 0.0,
   "prediction": 0.00392891094267941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

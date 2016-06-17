@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00526",
   "compound_name": "Oxaliplatin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGaD": 0.32717605878077793,
     "CbGbCtD": 0.5161378701431154,
     "CbGeAlD": 0.061018306376324556,
     "CbGpPWpGaD": 0.09566776469978205
   },
+  "n_trials": 0.0,
   "prediction": 0.00635595317782726,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

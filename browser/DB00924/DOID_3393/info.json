@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGaD": 0.15568086896762515,
     "CbGbCtD": 0.26574823319704866,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.39950872129278,
     "CrCbGaD": 0.0030394429530012103
   },
+  "n_trials": 0.0,
   "prediction": 0.0028559846313150603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

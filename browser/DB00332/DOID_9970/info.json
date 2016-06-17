@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00332",
   "compound_name": "Ipratropium bromide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.538361508452536,
   "metapath_contribution": {
     "CbGbCtD": 0.6459761586685854,
     "CbGeAlD": 0.014903448557517364,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2007865562288808,
     "CrCbGaD": 0.004094910679149626
   },
+  "n_trials": 0.0,
   "prediction": 0.00270350606758728,
   "status": 0,
   "training_prediction": 0.0069159914948630705

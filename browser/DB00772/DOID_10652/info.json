@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00772",
   "compound_name": "Malathion",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.43203640798898907,
     "CbGbCtD": 0.5444354989647628,
     "CbGpPWpGaD": 0.023528093046248012
   },
+  "n_trials": 0.0,
   "prediction": 0.00744174138907373,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04967",
   "compound_name": "Lucanthone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.7483745123537059,
   "metapath_contribution": {
     "CbGbCtD": 0.7441908568433697,
     "CbGdCrCtD": 0.009850235798599652,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1553338126454852,
     "CrCbGaD": 0.007706943421918219
   },
+  "n_trials": 0.0,
   "prediction": 0.0021147194789816,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

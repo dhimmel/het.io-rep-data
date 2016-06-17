@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01339",
   "compound_name": "Vecuronium",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.789336801040312,
   "metapath_contribution": {
     "CbGaD": 0.34915446590104515,
     "CbGbCtD": 0.5122874668206953,
     "CbGpPWpGaD": 0.0005655478244686125,
     "CcSEcCtD": 0.1379925194537909
   },
+  "n_trials": 0.0,
   "prediction": 0.00344278029697376,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

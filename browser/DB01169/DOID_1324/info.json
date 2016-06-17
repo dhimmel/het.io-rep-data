@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
-    "CbGaD": 0.48038852211377825,
-    "CbGbCtD": 0.33373393215936664,
-    "CbGdCrCtD": 0.00265043861185444,
-    "CbGeAlD": 0.045680753333096694,
-    "CbGpPWpGaD": 0.13754635378190408
+    "CbGaD": 0.4803885221137782,
+    "CbGbCtD": 0.3337339321593666,
+    "CbGdCrCtD": 0.0026504386118544397,
+    "CbGeAlD": 0.04568075333309669,
+    "CbGpPWpGaD": 0.13754635378190405
   },
+  "n_trials": 3.0,
   "prediction": 0.0128242877001584,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01375",
   "compound_name": "Dihydroxyaluminium",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.6521456436931079,
   "metapath_contribution": {
     "CbGdCrCtD": 0.02211342319508517,
     "CbGeAlD": 0.3779262105568213,
     "CbGpPWpGaD": 0.08459300396053511,
     "CcSEcCtD": 0.5153673622875583
   },
+  "n_trials": 0.0,
   "prediction": 0.00226780451520161,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

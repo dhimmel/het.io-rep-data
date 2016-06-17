@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.0364109232769831,
   "metapath_contribution": {
     "CbGaD": 0.628467404909309,
     "CbGbCtD": 0.30617441580496396,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04079066415736828,
     "CrCbGaD": 0.007396271791908977
   },
+  "n_trials": 0.0,
   "prediction": 0.0006525817156317889,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01241",
   "compound_name": "Gemfibrozil",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.3707520914545565,
     "CbGbCtD": 0.4148720541762343,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11481218979604421,
     "CrCbGaD": 0.0005388388146629274
   },
+  "n_trials": 0.0,
   "prediction": 0.007974812542902771,
   "status": 0,
   "training_prediction": 0.0330957731021629

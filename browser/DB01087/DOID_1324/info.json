@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.5507395782194883,
     "CbGbCtD": 0.34526315281081627,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.016094463507573133,
     "CrCbGaD": 0.0028542654838599165
   },
+  "n_trials": 0.0,
   "prediction": 0.00547361909834635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

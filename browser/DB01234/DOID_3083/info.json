@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.10100855059566943,
     "CbGbCtD": 0.10762708233254982,
@@ -15,6 +17,7 @@
     "CrCtD": 0.17585451536418298,
     "CtDrD": 0.1724228916998022
   },
+  "n_trials": 3.0,
   "prediction": 0.0647618868999282,
   "status": 0,
   "training_prediction": 0.5093961693171789

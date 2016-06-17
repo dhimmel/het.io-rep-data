@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGaD": 0.50436931937161,
     "CbGbCtD": 0.28216269606528477,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.07466278038187348,
     "CcSEcCtD": 0.06772842517689555
   },
+  "n_trials": 0.0,
   "prediction": 0.00950233897104933,
   "status": 0,
   "training_prediction": 0.00937479331444114

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.10763668714408015,
     "CbGbCtD": 0.23549148691254837,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5303384521920881,
     "CrCbGaD": 0.0007805665118831781
   },
+  "n_trials": 0.0,
   "prediction": 0.0110853554613194,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

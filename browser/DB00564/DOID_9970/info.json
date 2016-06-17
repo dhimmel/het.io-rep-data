@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGbCtD": 0.15731758431433832,
     "CbGeAlD": 0.011601037382272828,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.001175851741424324,
     "CrCrCtD": 0.17277903357302
   },
+  "n_trials": 0.0,
   "prediction": 0.00968295589858907,
   "status": 0,
   "training_prediction": 0.0245033183339276

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.435630689206762,
   "metapath_contribution": {
     "CbGbCtD": 0.5788083229733446,
     "CbGeAlD": 0.1415824810900551,
     "CbGpPWpGaD": 0.25440096592924133,
     "CrCbGaD": 0.025208230007359014
   },
+  "n_trials": 0.0,
   "prediction": 0.00159827402372496,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

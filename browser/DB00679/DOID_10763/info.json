@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.569570871261378,
   "metapath_contribution": {
     "CbGaD": 0.239179758334081,
     "CbGbCtD": 0.34262894011059486,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0024928083936247066,
     "CrCrCtD": 0.20804569639001574
   },
+  "n_trials": 0.0,
   "prediction": 0.00461905149161971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

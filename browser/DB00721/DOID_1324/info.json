@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.345903771131339,
   "metapath_contribution": {
     "CbGbCtD": 0.26811613467385365,
     "CbGeAlD": 0.05064436289869372,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4107881900265883,
     "CrCbGaD": 0.01055357705961505
   },
+  "n_trials": 0.0,
   "prediction": 0.00136557834080609,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00899",
   "compound_name": "Remifentanil",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.609232769830949,
   "metapath_contribution": {
     "CbGaD": 0.622865403131839,
     "CbGeAlD": 0.037217730083346355,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23295580092396895,
     "CrCbGaD": 0.005444317003078858
   },
+  "n_trials": 0.0,
   "prediction": 0.00439170329867096,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

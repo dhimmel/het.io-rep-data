@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01113",
   "compound_name": "Papaverine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7639791937581271,
   "metapath_contribution": {
     "CbGbCtD": 0.8741770357915869,
     "CbGeAlD": 0.018917571579069932,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05304952863176393,
     "CrCbGaD": 0.006254658694882485
   },
+  "n_trials": 0.0,
   "prediction": 0.0035580048778229996,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

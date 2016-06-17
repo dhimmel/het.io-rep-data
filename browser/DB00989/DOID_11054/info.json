@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00989",
   "compound_name": "Rivastigmine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.695058517555267,
   "metapath_contribution": {
     "CbGbCtD": 0.35023781471862087,
     "CbGeAlD": 0.005368705947632361,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5917240444337892,
     "CrCbGaD": 0.011896996189325696
   },
+  "n_trials": 0.0,
   "prediction": 0.0021147658909965,
   "status": 0,
   "training_prediction": 0.005414882817096229

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00830",
   "compound_name": "Phenmetrazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.8890106580984904,
     "CbGeAlD": 0.052029363348999554,
     "CbGpPWpGaD": 0.0515535996234453,
     "CrCbGaD": 0.007406378929064658
   },
+  "n_trials": 0.0,
   "prediction": 0.00311806163650366,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.842002600780234,
   "metapath_contribution": {
     "CbGbCtD": 0.05827809141943627,
     "CbGdCrCtD": 0.0004920991388237409,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.6130625899045058,
     "CrCrCtD": 0.27972872107550845
   },
+  "n_trials": 0.0,
   "prediction": 0.00270365908786641,
   "status": 0,
   "training_prediction": 0.00440657687432875

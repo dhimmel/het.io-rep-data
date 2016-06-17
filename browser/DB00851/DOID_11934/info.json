@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00851",
   "compound_name": "Dacarbazine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.295765109063845,
     "CbGeAlD": 0.0029801453375205896,
     "CbGpPWpGaD": 0.023122153412653678,
     "CtDrD": 0.6781325921859808
   },
+  "n_trials": 1.0,
   "prediction": 0.00882826501287977,
   "status": 0,
   "training_prediction": 0.0465820669947373

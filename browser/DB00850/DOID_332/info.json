@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.0520156046814044,
   "metapath_contribution": {
     "CbGbCtD": 0.2544848838560529,
     "CbGeAlD": 0.22582782267236023,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.32840308854709654,
     "CrCbGaD": 0.001282777042818204
   },
+  "n_trials": 0.0,
   "prediction": 0.000602870739831746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

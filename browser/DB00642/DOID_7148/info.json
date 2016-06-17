@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGbCtD": 0.15702218937417342,
     "CbGdCrCtD": 0.0009364634357378024,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.16119225303782345,
     "CrCtD": 0.24410768443607728
   },
+  "n_trials": 0.0,
   "prediction": 0.0527393887450647,
   "status": 0,
   "training_prediction": 0.1536698324532

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGbCtD": 0.3448947140982565,
     "CbGeAlD": 0.005365711442678372,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00033217365412853753,
     "CrCrCtD": 0.5003367968238769
   },
+  "n_trials": 0.0,
   "prediction": 0.004136927357602961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

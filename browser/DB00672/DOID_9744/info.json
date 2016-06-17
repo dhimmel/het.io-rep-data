@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00672",
   "compound_name": "Chlorpropamide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.31742609293037566,
     "CbGbCtD": 0.21456916819070962,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0033669155232240303,
     "CtDrD": 0.4302400441662244
   },
+  "n_trials": 0.0,
   "prediction": 0.0111787389799642,
   "status": 0,
   "training_prediction": 0.00506674856526462

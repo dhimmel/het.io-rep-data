@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01192",
   "compound_name": "Oxymorphone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.548764629388817,
   "metapath_contribution": {
     "CbGaD": 0.43591628542575345,
     "CbGbCtD": 0.3052338496967106,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17557973426717183,
     "CrCbGaD": 0.0046794144313868965
   },
+  "n_trials": 0.0,
   "prediction": 0.00262593781179881,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

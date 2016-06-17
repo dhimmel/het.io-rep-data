@@ -1,15 +1,17 @@
 {
   "compound_id": "DB09000",
   "compound_name": "Cyamemazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.841352405721717,
   "metapath_contribution": {
     "CbGaD": 0.8869785184303243,
     "CbGeAlD": 0.0509276113858685,
     "CbGpPWpGaD": 0.0537843533870334,
     "CrCbGaD": 0.008309516796773877
   },
+  "n_trials": 0.0,
   "prediction": 0.0022816055108263802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.331599479843953,
   "metapath_contribution": {
     "CbGaD": 0.406246446247405,
     "CbGbCtD": 0.44775609452236814,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13552038782170694,
     "CrCbGaD": 0.0016030346606653006
   },
+  "n_trials": 0.0,
   "prediction": 0.0012141815241753801,
   "status": 0,
   "training_prediction": 0.00173276986173323

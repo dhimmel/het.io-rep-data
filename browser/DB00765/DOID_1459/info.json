@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00765",
   "compound_name": "Metyrosine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGeAlD": 0.08174998770936416,
     "CbGpPWpGaD": 0.10640199813436248,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.006095209942492739,
     "CrCrCtD": 0.7430828411378687
   },
+  "n_trials": 0.0,
   "prediction": 0.00272688781722029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

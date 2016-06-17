@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00393",
   "compound_name": "Nimodipine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.347854356306892,
   "metapath_contribution": {
     "CbGbCtD": 0.7281494235674703,
     "CbGeAlD": 0.07184439165355554,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10524024546921532,
     "CrCbGaD": 3.965630476934009e-06
   },
+  "n_trials": 0.0,
   "prediction": 0.00151564136030223,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.7481087815428563,
     "CbGeAlD": 0.09680698605024622,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.00597720423069425
   },
   "prediction": 0.0024324035957676397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

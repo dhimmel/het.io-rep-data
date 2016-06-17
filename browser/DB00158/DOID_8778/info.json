@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.756176853055917,
   "metapath_contribution": {
     "CbGbCtD": 0.8505065839482978,
     "CbGdCrCtD": 0.004574682620664554,
@@ -11,6 +13,5 @@
     "CbGpPWpGaD": 0.10223479392212875
   },
   "prediction": 0.00221531143124364,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

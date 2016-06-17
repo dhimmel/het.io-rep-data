@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.544863459037711,
   "metapath_contribution": {
     "CbGaD": 0.89361730338628,
     "CbGeAlD": 0.058809308213018406,
     "CbGpPWpGaD": 0.035191585509458445,
     "CrCbGaD": 0.012381802891243169
   },
+  "n_trials": 0.0,
   "prediction": 0.00135242427526394,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

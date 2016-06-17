@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00450",
   "compound_name": "Droperidol",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.28283485045513695,
   "metapath_contribution": {
     "CbGaD": 0.4325659898743904,
     "CbGeAlD": 0.10369389214552206,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.28424531205452025,
     "CrCbGaD": 0.007651936840292336
   },
+  "n_trials": 0.0,
   "prediction": 0.00209830044314666,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

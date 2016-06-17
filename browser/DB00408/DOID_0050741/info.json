@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.48480861645398265,
     "CbGbCtD": 0.27871221320872497,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07052642762759237,
     "CrCbGaD": 0.004507362460751305
   },
+  "n_trials": 0.0,
   "prediction": 0.00638049616606674,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGbCtD": 0.2811991427604448,
     "CbGeAlD": 0.0195233165972269,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.273511827926106,
     "CrCtD": 0.41296775237726907
   },
+  "n_trials": 1.0,
   "prediction": 0.0173860085278823,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.6598866124802164,
     "CbGbCtD": 0.2260334997204666,
     "CbGeAlD": 0.020258134478687854,
     "CbGpPWpGaD": 0.09382175332062911
   },
+  "n_trials": 0.0,
   "prediction": 0.00393174903613115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

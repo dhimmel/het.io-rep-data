@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00266",
   "compound_name": "Dicoumarol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.5131821648428504,
     "CbGbCtD": 0.42859119948205104,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.04291869304188072,
     "CbGpPWpGaD": 0.013642446578603277
   },
+  "n_trials": 0.0,
   "prediction": 0.0058717993606126105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

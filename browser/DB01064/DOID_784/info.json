@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01064",
   "compound_name": "Isoprenaline",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.323797139141743,
   "metapath_contribution": {
     "CbGaD": 0.5653396425864261,
     "CbGeAlD": 0.08923904748056793,
     "CbGpPWpGaD": 0.33482940428523567,
     "CrCbGaD": 0.01059190564777045
   },
+  "n_trials": 0.0,
   "prediction": 0.00123372576517026,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

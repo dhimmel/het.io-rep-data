@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.13719115734720402,
   "metapath_contribution": {
     "CbGeAlD": 0.25298175406782186,
     "CbGpPWpGaD": 0.7011770903567849,
     "CrCbGaD": 0.045841155575393255
   },
+  "n_trials": 0.0,
   "prediction": 0.00092617663534495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.594928478543563,
   "metapath_contribution": {
     "CbGbCtD": 0.5978759583567487,
     "CbGeAlD": 0.014163918055187295,
     "CbGpPWpGaD": 0.08474792310246097,
     "CcSEcCtD": 0.303212200485603
   },
+  "n_trials": 0.0,
   "prediction": 0.00292817987266195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

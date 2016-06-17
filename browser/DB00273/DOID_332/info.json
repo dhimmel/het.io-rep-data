@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00273",
   "compound_name": "Topiramate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.40976191335884765,
     "CbGbCtD": 0.28368885021806217,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11123142006387883,
     "CcSEcCtD": 0.11266732342344143
   },
+  "n_trials": 0.0,
   "prediction": 0.00618982847189816,
   "status": 0,
   "training_prediction": 0.00633639156789892

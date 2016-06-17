@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.213235294117647,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGbCtD": 0.951866616264418,
     "CbGeAlD": 0.028730323966003193,
     "CbGpPWpGaD": 0.01323585530605853,
     "CcSEcCtD": 0.0061672044635202265
   },
+  "n_trials": 0.0,
   "prediction": 0.00150659141307671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

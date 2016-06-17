@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.41677503250975295,
   "metapath_contribution": {
     "CbGaD": 0.6392043760426167,
     "CbGdCrCtD": 0.0048735097282741405,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2096660712565255,
     "CrCbGaD": 0.009625045348034721
   },
+  "n_trials": 0.0,
   "prediction": 0.0020434500236835,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

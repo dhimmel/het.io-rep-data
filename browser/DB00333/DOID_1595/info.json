@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.24772431729518898,
   "metapath_contribution": {
     "CbGaD": 0.7808349745889399,
     "CbGeAlD": 0.09231860430513789,
     "CbGpPWpGaD": 0.1149064124851427,
     "CrCbGaD": 0.011940008620779432
   },
+  "n_trials": 0.0,
   "prediction": 0.0011376999737374698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

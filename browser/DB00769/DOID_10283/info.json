@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00769",
   "compound_name": "Hydrocortamate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.20839537771134414,
     "CbGbCtD": 0.1831760357814382,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2672259534515494,
     "CrCtD": 0.30919691607073296
   },
+  "n_trials": 0.0,
   "prediction": 0.0063385294796621605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

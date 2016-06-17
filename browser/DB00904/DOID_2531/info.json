@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGbCtD": 0.6809753484679653,
     "CbGeAlD": 0.015337163848001496,
     "CbGpPWpGaD": 0.07608216761090891,
     "CcSEcCtD": 0.22760532007312423
   },
+  "n_trials": 10.0,
   "prediction": 0.0044048582883084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

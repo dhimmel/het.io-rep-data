@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06201",
   "compound_name": "Rufinamide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.835500650195058,
   "metapath_contribution": {
     "CbGaD": 0.15827489853176396,
     "CbGbCtD": 0.5589448653529198,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.057696119802465126,
     "CcSEcCtD": 0.22111697345186138
   },
+  "n_trials": 0.0,
   "prediction": 0.00576922703998825,
   "status": 0,
   "training_prediction": 0.0381366127280185

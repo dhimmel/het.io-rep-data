@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGaD": 0.4555412477676718,
     "CbGbCtD": 0.4158277591264689,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12187508578518594,
     "CrCbGaD": 0.005159873269020193
   },
+  "n_trials": 0.0,
   "prediction": 0.00600965391538221,
   "status": 0,
   "training_prediction": 0.0217627160471517

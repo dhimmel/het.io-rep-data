@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.29528099874349023,
     "CbGbCtD": 0.5059488319079124,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1027390714559231,
     "CcSEcCtD": 0.04872647611976669
   },
+  "n_trials": 0.0,
   "prediction": 0.0072445789975949205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

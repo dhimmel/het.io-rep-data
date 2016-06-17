@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01117",
   "compound_name": "Atovaquone",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.35370611183354994,
   "metapath_contribution": {
     "CbGbCtD": 0.7141763509389992,
     "CbGpPWpGaD": 0.2766208696243124,
     "CrCbGaD": 0.00920277943668838
   },
+  "n_trials": 1.0,
   "prediction": 0.0013851368973966198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

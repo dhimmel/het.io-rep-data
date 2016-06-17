@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.4369310793237971,
   "metapath_contribution": {
     "CbGaD": 0.7198546664431678,
     "CbGeAlD": 0.09455094584329729,
     "CbGpPWpGaD": 0.17313391638022407,
     "CrCbGaD": 0.012460471333310954
   },
+  "n_trials": 0.0,
   "prediction": 0.00132978677531974,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

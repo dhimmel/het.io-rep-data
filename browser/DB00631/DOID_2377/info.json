@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.1534209139452334,
     "CbGbCtD": 0.17998001316747783,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.14345508579133573,
     "CrCtD": 0.23013681233278488
   },
+  "n_trials": 0.0,
   "prediction": 0.0879768451386349,
   "status": 0,
   "training_prediction": 0.198599274032335

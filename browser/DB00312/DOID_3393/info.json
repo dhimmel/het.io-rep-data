@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.565669700910273,
   "metapath_contribution": {
     "CbGaD": 0.2544451451883856,
     "CbGbCtD": 0.4449714827361437,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19060062545548798,
     "CrCbGaD": 0.001622463671624981
   },
+  "n_trials": 0.0,
   "prediction": 0.00270997476691865,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

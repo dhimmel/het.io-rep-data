@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6306892067620289,
   "metapath_contribution": {
     "CbGaD": 0.6459443305558402,
     "CbGbCtD": 0.09018958681866854,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.16250030095432821,
     "CrCbGaD": 0.0036546830585168118
   },
+  "n_trials": 0.0,
   "prediction": 0.00322208716509226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

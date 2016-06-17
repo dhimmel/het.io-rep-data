@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.117685305591678,
   "metapath_contribution": {
     "CbGbCtD": 0.4312120548416491,
     "CbGdCrCtD": 0.004923833912338964,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.27406676682957976,
     "CrCbGaD": 0.0030648420957684096
   },
+  "n_trials": 0.0,
   "prediction": 0.000793805033510491,
   "status": 0,
   "training_prediction": 0.0018936778222034601

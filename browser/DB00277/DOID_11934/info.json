@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.4266287423532132,
     "CbGbCtD": 0.38729774034189984,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05441905799255946,
     "CrCbGaD": 0.004250066573903276
   },
+  "n_trials": 0.0,
   "prediction": 0.0028237826938480102,
   "status": 0,
   "training_prediction": 0.00342651289140878

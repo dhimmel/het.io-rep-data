@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00999",
   "compound_name": "Hydrochlorothiazide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.723667100130039,
   "metapath_contribution": {
     "CbGaD": 0.3325586462131051,
     "CbGbCtD": 0.44420950329880865,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1324649400603557,
     "CrCbGaD": 0.0031202031975182997
   },
+  "n_trials": 0.0,
   "prediction": 0.00616218698424716,
   "status": 0,
   "training_prediction": 0.0483855626448009

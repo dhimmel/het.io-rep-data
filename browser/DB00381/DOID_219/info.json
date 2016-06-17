@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.5435630689206761,
   "metapath_contribution": {
     "CbGaD": 0.2943808794916214,
     "CbGbCtD": 0.4873432312600736,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11736005012072498,
     "CrCbGaD": 0.001707107139716328
   },
+  "n_trials": 0.0,
   "prediction": 0.00166323390249808,
   "status": 0,
   "training_prediction": 0.00237316101765776

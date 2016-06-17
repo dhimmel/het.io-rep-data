@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGaD": 0.4351405924863646,
     "CbGbCtD": 0.3996909741103034,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09177354852956456,
     "CrCbGaD": 0.003727338303723084
   },
+  "n_trials": 0.0,
   "prediction": 0.00360527210331099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.7711313394018209,
   "metapath_contribution": {
     "CbGaD": 0.8149134934476762,
     "CbGeAlD": 0.04193040086490602,
     "CbGpPWpGaD": 0.13622074451075375,
     "CrCbGaD": 0.006935361176663987
   },
+  "n_trials": 0.0,
   "prediction": 0.0022630086218866,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

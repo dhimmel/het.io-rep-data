@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.724317295188557,
   "metapath_contribution": {
     "CbGaD": 0.705910615335345,
     "CbGeAlD": 0.12892682898741936,
     "CbGpPWpGaD": 0.1621431447405662,
     "CrCbGaD": 0.0030194109366693924
   },
+  "n_trials": 0.0,
   "prediction": 0.0019074423230922898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

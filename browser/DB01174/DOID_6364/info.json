@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGbCtD": 0.33466154365795586,
     "CbGeAlD": 0.019294891659474397,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0019108651120169032,
     "CtDrD": 0.5766884079438358
   },
+  "n_trials": 0.0,
   "prediction": 0.0102279814024379,
   "status": 0,
   "training_prediction": 0.0185517387322373

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00194",
   "compound_name": "Vidarabine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CcSEcCtD": 0.02557098375797295,
     "CrCbGaD": 0.00104633953686122,
     "CrCrCtD": 0.3972478739252103,
     "CrCtD": 0.5761348027799555
   },
+  "n_trials": 38.0,
   "prediction": 0.00982001241338425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

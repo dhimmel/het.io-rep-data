@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.0838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.05753735589039994,
     "CbGbCtD": 0.5224175605995033,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.20335829560740867,
     "CrCbGaD": 0.002292938839431198
   },
+  "n_trials": 0.0,
   "prediction": 0.00092215686817657,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

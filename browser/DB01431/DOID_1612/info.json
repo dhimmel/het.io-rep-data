@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01431",
   "compound_name": "Allylestrenol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGaD": 0.32148848208887315,
     "CbGbCtD": 0.3750418283646762,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0030393473863970987,
     "CrCrCtD": 0.22052711540502098
   },
+  "n_trials": 0.0,
   "prediction": 0.0052615711227057,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

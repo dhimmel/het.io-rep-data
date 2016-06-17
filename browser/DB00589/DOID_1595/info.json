@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.7875562922725957,
     "CbGeAlD": 0.06967589411796068,
     "CbGpPWpGaD": 0.13431065162054986,
     "CrCbGaD": 0.008457161988893793
   },
+  "n_trials": 0.0,
   "prediction": 0.00312300481519308,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

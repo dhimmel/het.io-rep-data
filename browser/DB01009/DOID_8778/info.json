@@ -1,19 +1,21 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
-    "CbGaD": 0.23695293001316137,
-    "CbGbCtD": 0.23103920352176605,
-    "CbGeAlD": 0.0011398624465172617,
-    "CbGpPWpGaD": 0.037533671177872076,
-    "CcSEcCtD": 0.035912696855604095,
-    "CpDpCtD": 0.24239858476603612,
-    "CrCbGaD": 0.0015400810360440935,
-    "CrCrCtD": 0.21348297018299886
+    "CbGaD": 0.2369529300131614,
+    "CbGbCtD": 0.23103920352176607,
+    "CbGeAlD": 0.001139862446517262,
+    "CbGpPWpGaD": 0.03753367117787208,
+    "CcSEcCtD": 0.0359126968556041,
+    "CpDpCtD": 0.24239858476603618,
+    "CrCbGaD": 0.0015400810360440937,
+    "CrCrCtD": 0.2134829701829989
   },
+  "n_trials": 0.0,
   "prediction": 0.0067919164292945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

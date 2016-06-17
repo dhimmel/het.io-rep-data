@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00805",
   "compound_name": "Minaprine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.392067620286086,
   "metapath_contribution": {
     "CbGaD": 0.48467647339071757,
     "CbGbCtD": 0.33975294300990416,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13275110504902352,
     "CrCbGaD": 0.0009639995314808184
   },
+  "n_trials": 0.0,
   "prediction": 0.00298500065031217,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.2194858611224904,
     "CbGbCtD": 0.2131284503813672,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.20499540625054585,
     "CrCtD": 0.28457679391021923
   },
+  "n_trials": 0.0,
   "prediction": 0.0272091636870836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

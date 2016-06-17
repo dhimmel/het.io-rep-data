@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.634590377113134,
   "metapath_contribution": {
     "CbGaD": 0.3214200108727253,
     "CbGbCtD": 0.503341215900216,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1440211808920741,
     "CrCbGaD": 0.0018130056928435173
   },
+  "n_trials": 0.0,
   "prediction": 0.00251051526023845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

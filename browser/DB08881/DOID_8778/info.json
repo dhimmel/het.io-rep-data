@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.451885565669701,
   "metapath_contribution": {
     "CbGaD": 0.4757488426430372,
     "CbGbCtD": 0.18776401782817642,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13331643477367322,
     "CrCbGaD": 0.002362308467268078
   },
+  "n_trials": 0.0,
   "prediction": 0.00147172718942513,
   "status": 0,
   "training_prediction": 0.0039947000222720795

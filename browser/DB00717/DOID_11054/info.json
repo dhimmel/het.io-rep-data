@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.0182054616384915,
   "metapath_contribution": {
     "CbGbCtD": 0.6004044393951473,
     "CbGeAlD": 0.028872982942963553,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2519841761911039,
     "CrCbGaD": 0.013898293667819481
   },
+  "n_trials": 0.0,
   "prediction": 0.0005474387312193371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

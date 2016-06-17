@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.527401352361561,
     "CbGbCtD": 0.3256866783707307,
     "CbGpPWpGaD": 0.08700971982839,
     "CcSEcCtD": 0.05990224943931826
   },
+  "n_trials": 1.0,
   "prediction": 0.00570013483989329,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

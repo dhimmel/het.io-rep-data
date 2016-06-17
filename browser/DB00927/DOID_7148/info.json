@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00927",
   "compound_name": "Famotidine",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.531209362808843,
   "metapath_contribution": {
     "CbGbCtD": 0.20862557806189913,
     "CbGpPWpGaD": 0.016633896903166707,
     "CcSEcCtD": 0.7747405250349342
   },
+  "n_trials": 1.0,
   "prediction": 0.00187043097705295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

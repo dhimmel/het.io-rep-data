@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8042912873862159,
   "metapath_contribution": {
     "CbGaD": 0.17188175929671762,
     "CbGbCtD": 0.501367517714244,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11179907741456457,
     "CcSEcCtD": 0.16485735457990036
   },
+  "n_trials": 0.0,
   "prediction": 0.0100666946349604,
   "status": 0,
   "training_prediction": 0.10844831231611998

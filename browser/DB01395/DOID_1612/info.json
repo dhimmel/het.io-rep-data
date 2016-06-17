@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.595578673602081,
   "metapath_contribution": {
     "CbGaD": 0.32187062994039967,
     "CbGbCtD": 0.15840777207415294,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002668771104330355,
     "CrCrCtD": 0.33745912313903914
   },
+  "n_trials": 0.0,
   "prediction": 0.0028704840355004697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

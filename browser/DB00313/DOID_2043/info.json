@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.41651413276141575,
     "CbGbCtD": 0.2740553600232376,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08993563671734334,
     "CcSEcCtD": 0.16164040154158527
   },
+  "n_trials": 0.0,
   "prediction": 0.00428721606674797,
   "status": 0,
   "training_prediction": 0.00864416882375851

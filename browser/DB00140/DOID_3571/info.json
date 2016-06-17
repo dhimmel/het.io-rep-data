@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.908972691807542,
   "metapath_contribution": {
     "CbGaD": 0.8401466998396022,
     "CbGpPWpGaD": 0.15985330016039778
   },
+  "n_trials": 0.0,
   "prediction": 0.00299678197949078,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

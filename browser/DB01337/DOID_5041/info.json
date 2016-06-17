@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01337",
   "compound_name": "Pancuronium",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGbCtD": 0.7245529956480233,
     "CbGeAlD": 0.20170105751873432,
     "CbGpPWpGaD": 0.07250852823844148,
     "CrCbGaD": 0.0012374185948008758
   },
+  "n_trials": 0.0,
   "prediction": 0.00168036887587901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

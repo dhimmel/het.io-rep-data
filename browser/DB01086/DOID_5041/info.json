@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.690507152145644,
   "metapath_contribution": {
     "CbGaD": 0.30296809788874557,
     "CbGbCtD": 0.6040133174983808,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06112425213122981,
     "CrCbGaD": 0.006279158142122107
   },
+  "n_trials": 0.0,
   "prediction": 0.0019417182650741198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

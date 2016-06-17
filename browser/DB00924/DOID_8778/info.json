@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.413524057217165,
   "metapath_contribution": {
     "CbGeAlD": 0.011326991863146877,
     "CcSEcCtD": 0.06798661969829496,
     "CpDpCtD": 0.9203438193452768,
     "CrCbGaD": 0.0003425690932813393
   },
+  "n_trials": 0.0,
   "prediction": 0.00140638426650878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

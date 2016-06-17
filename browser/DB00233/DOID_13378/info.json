@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGbCtD": 0.3217512747631589,
     "CbGeAlD": 0.023982917851753983,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.012533907949580817,
     "CrCrCtD": 0.6375224118500299
   },
+  "n_trials": 0.0,
   "prediction": 0.0046294766599669,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

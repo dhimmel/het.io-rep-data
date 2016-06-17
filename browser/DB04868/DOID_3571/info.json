@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.39164618976751164,
     "CbGbCtD": 0.4166872196941539,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06824273811659227,
     "CrCbGaD": 0.0024083222939916583
   },
+  "n_trials": 0.0,
   "prediction": 0.00385187839855142,
   "status": 0,
   "training_prediction": 0.00379988539144659

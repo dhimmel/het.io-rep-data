@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01394",
   "compound_name": "Colchicine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.691157347204161,
   "metapath_contribution": {
-    "CbGaD": 0.7680715677294515,
-    "CbGeAlD": 0.05396370433368571,
-    "CbGpPWpGaD": 0.17671759557558742,
-    "CrCbGaD": 0.00124713236127547
+    "CbGaD": 0.7680715677294514,
+    "CbGeAlD": 0.053963704333685705,
+    "CbGpPWpGaD": 0.1767175955755874,
+    "CrCbGaD": 0.0012471323612754698
   },
+  "n_trials": 0.0,
   "prediction": 0.00205071945855616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

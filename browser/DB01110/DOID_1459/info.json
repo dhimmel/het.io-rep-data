@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.456436931079324,
   "metapath_contribution": {
     "CbGbCtD": 0.26440923555110296,
     "CbGeAlD": 0.36334954946053816,
     "CbGpPWpGaD": 0.1320784558086638,
     "CcSEcCtD": 0.240162759179695
   },
+  "n_trials": 0.0,
   "prediction": 0.00158114497996939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

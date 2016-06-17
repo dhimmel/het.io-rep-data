@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.0344603381014304,
   "metapath_contribution": {
     "CbGbCtD": 0.3562544306675725,
     "CbGeAlD": 0.06536640938494338,
     "CbGpPWpGaD": 0.40456039375153185,
     "CcSEcCtD": 0.17381876619595224
   },
+  "n_trials": 0.0,
   "prediction": 0.000651360741629116,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

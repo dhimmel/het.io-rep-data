@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00648",
   "compound_name": "Mitotane",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.15672072653955182,
     "CbGbCtD": 0.09369732004781173,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0003075103318985132,
     "CrCrCtD": 0.17796003160716922
   },
+  "n_trials": 0.0,
   "prediction": 0.0239601417321829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

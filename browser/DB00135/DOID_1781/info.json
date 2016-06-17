@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00135",
   "compound_name": "L-Tyrosine",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.323797139141743,
   "metapath_contribution": {
-    "CbGeAlD": 0.6611179256773906,
+    "CbGeAlD": 0.6611179256773905,
     "CbGpPWpGaD": 0.29950580395786497,
-    "CrCbGaD": 0.0393762703647445
+    "CrCbGaD": 0.039376270364744496
   },
+  "n_trials": 0.0,
   "prediction": 0.00120391197939338,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

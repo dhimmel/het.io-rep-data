@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGaD": 0.31419149682481534,
     "CbGbCtD": 0.45588761457485594,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1752949607977333,
     "CrCbGaD": 0.0011227276731193485
   },
+  "n_trials": 0.0,
   "prediction": 0.00258571295316142,
   "status": 0,
   "training_prediction": 0.00569067625532697

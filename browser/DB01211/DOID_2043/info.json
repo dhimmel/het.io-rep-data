@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.18530559167750302,
   "metapath_contribution": {
     "CbGeAlD": 0.0068365238308563305,
     "CbGpPWpGaD": 0.016313789709728344,
     "CcSEcCtD": 0.9594443358240153,
     "CrCbGaD": 0.017405350635399993
   },
+  "n_trials": 0.0,
   "prediction": 0.0010516624004488,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00167",
   "compound_name": "L-Isoleucine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.737971391417425,
   "metapath_contribution": {
     "CbGbCtD": 0.46661231643524015,
     "CbGdCrCtD": 0.0029916125251958003,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0006744149812620714,
     "CrCrCtD": 0.42093809519004305
   },
+  "n_trials": 0.0,
   "prediction": 0.00646290905066305,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.7555266579973992,
   "metapath_contribution": {
     "CbGaD": 0.7226419299248202,
     "CbGeAlD": 0.09498506912830422,
     "CbGpPWpGaD": 0.17598802140632874,
     "CrCbGaD": 0.006384979540546695
   },
+  "n_trials": 0.0,
   "prediction": 0.00221058873139466,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01558",
   "compound_name": "Bromazepam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.18013826804299327,
     "CbGbCtD": 0.23640729799600807,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.17854378391029796,
     "CrCtD": 0.28400665016430415
   },
+  "n_trials": 0.0,
   "prediction": 0.127248069678246,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

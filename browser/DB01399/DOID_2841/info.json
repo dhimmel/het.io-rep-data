@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.770481144343303,
   "metapath_contribution": {
     "CbGaD": 0.20658230381644688,
     "CbGbCtD": 0.25903066709163164,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003353664357315569,
     "CrCrCtD": 0.4129247021698894
   },
+  "n_trials": 0.0,
   "prediction": 0.0044491963122675,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

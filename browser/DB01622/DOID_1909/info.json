@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.189206762028609,
   "metapath_contribution": {
     "CbGaD": 0.656658313419766,
     "CbGbCtD": 0.08630849176432336,
     "CbGpPWpGaD": 0.2554216576812525,
     "CrCbGaD": 0.0016115371346581376
   },
+  "n_trials": 0.0,
   "prediction": 0.00085666114179855,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

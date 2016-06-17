@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.46260136669168045,
     "CbGbCtD": 0.29515710005478313,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10198476649853197,
     "CrCbGaD": 0.004116544359987072
   },
+  "n_trials": 0.0,
   "prediction": 0.00848727068923535,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

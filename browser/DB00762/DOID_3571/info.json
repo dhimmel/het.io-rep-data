@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.03676520529911383,
     "CbGbCtD": 0.13468004878113637,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.45123227947002964,
     "CtDrD": 0.2993694575739231
   },
+  "n_trials": 19.0,
   "prediction": 0.0158119085540826,
   "status": 0,
   "training_prediction": 0.0590837367050043

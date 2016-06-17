@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.144343302990897,
   "metapath_contribution": {
     "CbGbCtD": 0.32467430492099564,
     "CbGeAlD": 0.24684574477431986,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3011597350723644,
     "CrCbGaD": 0.00879426502736816
   },
+  "n_trials": 2.0,
   "prediction": 0.0011248605223555099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

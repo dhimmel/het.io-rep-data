@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00471",
   "compound_name": "Montelukast",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.3673258386039444,
     "CbGbCtD": 0.3863318626825247,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.054649674594760445,
     "CcSEcCtD": 0.1851322067797927
   },
+  "n_trials": 0.0,
   "prediction": 0.00583470086742389,
   "status": 0,
   "training_prediction": 0.0159159804595649

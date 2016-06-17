@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00135",
   "compound_name": "L-Tyrosine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.243172951885566,
   "metapath_contribution": {
     "CbGeAlD": 0.21648123186177273,
     "CbGpPWpGaD": 0.26810463672455687,
     "CrCbGaD": 0.015606931430919443,
     "CrCrCtD": 0.49980719998275097
   },
+  "n_trials": 0.0,
   "prediction": 0.00151869568330178,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

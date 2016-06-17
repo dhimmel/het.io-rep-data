@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00891",
   "compound_name": "Sulfapyridine",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.17230169050715197,
   "metapath_contribution": {
-    "CbGeAlD": 0.4548603925840267,
-    "CbGpPWpGaD": 0.42378105818949274,
-    "CrCbGaD": 0.12135854922648039
+    "CbGeAlD": 0.45486039258402683,
+    "CbGpPWpGaD": 0.4237810581894928,
+    "CrCbGaD": 0.1213585492264804
   },
+  "n_trials": 0.0,
   "prediction": 0.0009660324748169961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

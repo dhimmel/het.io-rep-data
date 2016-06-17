@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00628",
   "compound_name": "Clorazepate",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.15604681404421303,
   "metapath_contribution": {
     "CbGbCtD": 0.5385280236717708,
     "CbGpPWpGaD": 0.11603572013160349,
     "CcSEcCtD": 0.33539651357143946,
     "CrCbGaD": 0.010039742625186181
   },
+  "n_trials": 0.0,
   "prediction": 0.0011075924617533401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

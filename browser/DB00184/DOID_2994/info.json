@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.47120548349944424,
     "CbGbCtD": 0.3152929915880854,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04005451615076976,
     "CcSEcCtD": 0.06288498226376897
   },
+  "n_trials": 0.0,
   "prediction": 0.00668465480908482,
   "status": 0,
   "training_prediction": 0.012160202613542

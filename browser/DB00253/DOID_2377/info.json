@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGbCtD": 0.16405196515483703,
     "CcSEcCtD": 0.0301350778843778,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.1744771853932284,
     "CrCtD": 0.23326163646552317
   },
+  "n_trials": 0.0,
   "prediction": 0.0391631868021295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

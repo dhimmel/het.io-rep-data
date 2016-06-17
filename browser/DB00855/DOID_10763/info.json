@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00855",
   "compound_name": "Aminolevulinic acid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.723667100130039,
   "metapath_contribution": {
     "CbGaD": 0.3970791920235766,
     "CbGbCtD": 0.42711936009432155,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10015839913153114,
     "CrCbGaD": 0.003613523163214935
   },
+  "n_trials": 0.0,
   "prediction": 0.00748662827115772,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

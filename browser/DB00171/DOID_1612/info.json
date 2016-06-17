@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.48718953621246025,
     "CbGbCtD": 0.1621116106156019,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0034306657873395168,
     "CrCrCtD": 0.1383377443529807
   },
+  "n_trials": 0.0,
   "prediction": 0.00412881611242126,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.41742522756827005,
   "metapath_contribution": {
     "CbGbCtD": 0.7565273155068362,
     "CbGdCrCtD": 0.005004430381882845,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1050300820446758,
     "CrCbGaD": 0.012122422400707546
   },
+  "n_trials": 0.0,
   "prediction": 0.0013792260611997199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

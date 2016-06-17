@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.8560445349290308,
     "CbGeAlD": 0.03631446396666972,
     "CbGpPWpGaD": 0.10224420710485048,
     "CrCbGaD": 0.005396793999449102
   },
+  "n_trials": 5.0,
   "prediction": 0.0026255664413343803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

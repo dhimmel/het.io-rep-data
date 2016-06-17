@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.376462938881664,
   "metapath_contribution": {
     "CbGaD": 0.9537817792752318,
     "CbGeAlD": 0.01749378089603441,
     "CbGpPWpGaD": 0.017644089575121518,
     "CrCbGaD": 0.011080350253612264
   },
+  "n_trials": 0.0,
   "prediction": 0.00124671819521948,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

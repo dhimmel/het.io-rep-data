@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.12286698353248474,
     "CbGbCtD": 0.3282139217787653,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.001204973358407764,
     "CtDrD": 0.3762069561294582
   },
+  "n_trials": 0.0,
   "prediction": 0.007340729690547409,
   "status": 0,
   "training_prediction": 0.0347754102953975

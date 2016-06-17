@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.538439662523987,
     "CbGbCtD": 0.26292437524105716,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.06358514826809279,
     "CcSEcCtD": 0.10054269484077329
   },
+  "n_trials": 0.0,
   "prediction": 0.00488401403727064,
   "status": 0,
   "training_prediction": 0.0107191523323134

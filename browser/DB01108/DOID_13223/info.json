@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01108",
   "compound_name": "Trilostane",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.7270923879329665,
     "CbGeAlD": 0.10284065012693971,
     "CbGpPWpGaD": 0.16480033675356598,
     "CrCbGaD": 0.005266625186527842
   },
+  "n_trials": 0.0,
   "prediction": 0.00291750448129739,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

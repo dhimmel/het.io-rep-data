@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGbCtD": 0.8696453635492135,
     "CbGdCrCtD": 0.004443998582445302,
     "CbGpPWpGaD": 0.06830813432804779,
     "CcSEcCtD": 0.05760250354029346
   },
+  "n_trials": 0.0,
   "prediction": 0.00280883496868252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

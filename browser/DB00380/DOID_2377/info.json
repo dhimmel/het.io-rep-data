@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00380",
   "compound_name": "Dexrazoxane",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGbCtD": 0.6786096451861114,
     "CbGdCrCtD": 0.0071828775063609825,
     "CbGeAlD": 0.013033236508235395,
     "CcSEcCtD": 0.3011742407992922
   },
+  "n_trials": 1.0,
   "prediction": 0.00315300576729793,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

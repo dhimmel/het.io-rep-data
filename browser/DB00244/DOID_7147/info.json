@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGbCtD": 0.1863615833879081,
     "CbGdCrCtD": 0.0007492941685058041,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.11928386559430673,
     "CtDrD": 0.25353252536061055
   },
+  "n_trials": 7.0,
   "prediction": 0.063816257223425,
   "status": 0,
   "training_prediction": 0.18672753423875302

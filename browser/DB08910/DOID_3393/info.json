@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7100130039011701,
   "metapath_contribution": {
     "CbGaD": 0.31836257538264057,
     "CbGbCtD": 0.4147759535456822,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16199571594057574,
     "CrCbGaD": 0.002214997868190125
   },
+  "n_trials": 0.0,
   "prediction": 0.0035787360306818,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

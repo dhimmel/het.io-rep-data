@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.21389787260042484,
     "CbGbCtD": 0.05861518550264906,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.04935484952105308,
     "CtDrD": 0.6656109256875188
   },
+  "n_trials": 0.0,
   "prediction": 0.0044647238367199,
   "status": 0,
   "training_prediction": 0.00636280488115572

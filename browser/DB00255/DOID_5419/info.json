@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00255",
   "compound_name": "Diethylstilbestrol",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.645643693107932,
   "metapath_contribution": {
     "CbGaD": 0.7563568668176504,
     "CbGeAlD": 0.09645678341279829,
     "CbGpPWpGaD": 0.1422859761739748,
     "CrCbGaD": 0.004900373595576535
   },
+  "n_trials": 0.0,
   "prediction": 0.0019151725352820898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

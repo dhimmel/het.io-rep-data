@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.45513654096228895,
   "metapath_contribution": {
     "CbGaD": 0.8317002020463594,
     "CbGpPWpGaD": 0.035160126925449196,
     "CcSEcCtD": 0.1256923655134756,
     "CrCbGaD": 0.0074473055147157765
   },
+  "n_trials": 0.0,
   "prediction": 0.00175492739668914,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

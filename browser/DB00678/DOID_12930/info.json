@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.46728199401500786,
     "CbGbCtD": 0.35841094115198013,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10654512547831682,
     "CrCbGaD": 0.006499764961225393
   },
+  "n_trials": 0.0,
   "prediction": 0.00452080100760174,
   "status": 0,
   "training_prediction": 0.0100721987107785

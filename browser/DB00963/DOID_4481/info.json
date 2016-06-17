@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.38361508452535803,
   "metapath_contribution": {
     "CbGbCtD": 0.690375013569956,
     "CbGdCrCtD": 0.006855819397965472,
     "CcSEcCtD": 0.29566214264595553,
     "CrCbGaD": 0.007107024386122874
   },
+  "n_trials": 0.0,
   "prediction": 0.00202599483863152,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

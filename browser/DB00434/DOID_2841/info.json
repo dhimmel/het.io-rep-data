@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00434",
   "compound_name": "Cyproheptadine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGbCtD": 0.08916621953632839,
     "CbGeAlD": 0.006961026500458143,
@@ -14,6 +16,7 @@
     "CrCtD": 0.27378225460628663,
     "CtDrD": 0.27765891159028094
   },
+  "n_trials": 0.0,
   "prediction": 0.0614041715784159,
   "status": 0,
   "training_prediction": 0.308919925655377

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGbCtD": 0.4291537562345401,
     "CbGeAlD": 0.2149158134847428,
     "CbGpPWpGaD": 0.1679460333933414,
     "CcSEcCtD": 0.18798439688737562
   },
+  "n_trials": 0.0,
   "prediction": 0.00274696049726779,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

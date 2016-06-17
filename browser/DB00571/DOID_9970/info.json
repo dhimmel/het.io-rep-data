@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.22443527060283133,
     "CbGbCtD": 0.20724673630774448,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.1526373309363912,
     "CtDrD": 0.3043572715818359
   },
+  "n_trials": 0.0,
   "prediction": 0.0104140178685388,
   "status": 0,
   "training_prediction": 0.0431463833174771

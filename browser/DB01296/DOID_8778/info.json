@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.4689008549280717,
     "CbGdCrCtD": 0.0016842178758175231,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.38577000032028325,
     "CrCbGaD": 0.0025911245326562323
   },
+  "n_trials": 0.0,
   "prediction": 0.0042346534112252705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

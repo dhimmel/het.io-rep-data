@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.782184655396619,
   "metapath_contribution": {
     "CbGaD": 0.5269092102341185,
     "CbGbCtD": 0.30938190896099094,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11395663989264751,
     "CrCbGaD": 0.006458468265073434
   },
+  "n_trials": 0.0,
   "prediction": 0.00383599027704336,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

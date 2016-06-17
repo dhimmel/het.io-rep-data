@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.2688872084269948,
     "CbGbCtD": 0.37382201719773,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0022381940403912704,
     "CrCrCtD": 0.13434743006126754
   },
+  "n_trials": 0.0,
   "prediction": 0.00484710711726486,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

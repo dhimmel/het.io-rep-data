@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.3654396049515329,
     "CbGbCtD": 0.2584451282591431,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.19834999760327732,
     "CrCbGaD": 0.0015119365714533802
   },
+  "n_trials": 1.0,
   "prediction": 0.009888322823751721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

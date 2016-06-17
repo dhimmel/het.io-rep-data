@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.38556566970091,
   "metapath_contribution": {
     "CbGbCtD": 0.6233719643295912,
     "CbGdCrCtD": 0.011577125091267975,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.030115503796291975,
     "CcSEcCtD": 0.20618169738947353
   },
+  "n_trials": 0.0,
   "prediction": 0.0017997950633151,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

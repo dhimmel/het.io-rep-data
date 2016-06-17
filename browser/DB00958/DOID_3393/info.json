@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00958",
   "compound_name": "Carboplatin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGaD": 0.49790382526957316,
     "CbGbCtD": 0.3249489904528519,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12841238122768292,
     "CcSEcCtD": 0.01155254552560263
   },
+  "n_trials": 0.0,
   "prediction": 0.007996617966455991,
   "status": 0,
   "training_prediction": 0.19702584483817603

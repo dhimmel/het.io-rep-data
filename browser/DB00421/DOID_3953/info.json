@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.22292181269148548,
     "CbGeAlD": 0.10663517716842225,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.000771053133544126,
     "CtDrD": 0.6255969149197849
   },
+  "n_trials": 0.0,
   "prediction": 0.0029261133630741802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

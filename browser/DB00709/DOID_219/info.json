@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.512353706111834,
   "metapath_contribution": {
     "CbGaD": 0.19249734482277225,
     "CbGbCtD": 0.5695743161476502,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.0922453394866293,
     "CrCbGaD": 0.0021460084492756913
   },
+  "n_trials": 0.0,
   "prediction": 0.0015786774649566699,
   "status": 0,
   "training_prediction": 0.0037514467765521

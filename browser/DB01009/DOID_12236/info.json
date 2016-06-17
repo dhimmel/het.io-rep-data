@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.5299089726918079,
   "metapath_contribution": {
     "CbGaD": 0.24576968489449857,
     "CbGbCtD": 0.5270070059794766,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1400602832748921,
     "CrCbGaD": 0.001154162988028269
   },
+  "n_trials": 0.0,
   "prediction": 0.0016934633336822698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

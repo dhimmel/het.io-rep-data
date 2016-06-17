@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.331599479843953,
   "metapath_contribution": {
     "CbGaD": 0.3063588187304039,
     "CbGbCtD": 0.4204230626355466,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14741040118712495,
     "CrCbGaD": 0.003970149164372483
   },
+  "n_trials": 0.0,
   "prediction": 0.00118439435045675,
   "status": 0,
   "training_prediction": 0.00169028183678867

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.388166449934981,
   "metapath_contribution": {
     "CbGaD": 0.6999022452696624,
     "CbGeAlD": 0.09329157665379985,
     "CbGpPWpGaD": 0.19978534112806756,
     "CrCbGaD": 0.007020836948470299
   },
+  "n_trials": 0.0,
   "prediction": 0.0013302223840794699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

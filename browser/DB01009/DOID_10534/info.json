@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.524707412223667,
   "metapath_contribution": {
     "CbGaD": 0.4178533513848998,
     "CbGbCtD": 0.34189349397531543,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12830140687530567,
     "CrCbGaD": 0.0038548226506927357
   },
+  "n_trials": 0.0,
   "prediction": 0.00161367065365805,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

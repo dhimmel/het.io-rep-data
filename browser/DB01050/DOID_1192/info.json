@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.0704651015149242,
     "CbGbCtD": 0.16826697851752237,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.15379944884767824,
     "CrCtD": 0.48671357194739356
   },
+  "n_trials": 0.0,
   "prediction": 0.00902542444985499,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

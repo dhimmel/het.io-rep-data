@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00633",
   "compound_name": "Dexmedetomidine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.3504271952106479,
     "CbGbCtD": 0.255239288107711,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08542903997449157,
     "CcSEcCtD": 0.27412985837221915
   },
+  "n_trials": 0.0,
   "prediction": 0.00398737238479815,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01072",
   "compound_name": "Atazanavir",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGaD": 0.1435572048709259,
     "CbGbCtD": 0.6102275108864545,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1756750603403906,
     "CrCbGaD": 0.0033399403178165353
   },
+  "n_trials": 0.0,
   "prediction": 0.00242085812390036,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

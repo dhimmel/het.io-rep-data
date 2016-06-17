@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00625",
   "compound_name": "Efavirenz",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.2765687374398907,
     "CbGbCtD": 0.457601198047042,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09012712178359579,
     "CcSEcCtD": 0.1708423769232064
   },
+  "n_trials": 1.0,
   "prediction": 0.00462803139624559,
   "status": 0,
   "training_prediction": 0.0194128095337638

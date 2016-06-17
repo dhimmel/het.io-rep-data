@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGbCtD": 0.4478287114857663,
     "CbGeAlD": 0.026326207346489886,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0413533103523359,
     "CrCrCtD": 0.47314322699884365
   },
+  "n_trials": 0.0,
   "prediction": 0.004306327850792139,
   "status": 0,
   "training_prediction": 0.00324119585745924

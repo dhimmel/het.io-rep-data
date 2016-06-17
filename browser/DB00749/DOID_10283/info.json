@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.3018859399859605,
     "CbGbCtD": 0.20128239654376393,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10840946769126521,
     "CpDpCtD": 0.28255836607005974
   },
+  "n_trials": 1.0,
   "prediction": 0.00883946350606189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

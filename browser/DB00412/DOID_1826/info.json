@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.499349804941482,
   "metapath_contribution": {
     "CbGaD": 0.28031819512938855,
     "CbGbCtD": 0.5036966886700628,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1416401767119897,
     "CrCbGaD": 0.0015960678317131405
   },
+  "n_trials": 0.0,
   "prediction": 0.00339160776256565,
   "status": 0,
   "training_prediction": 0.0164339442224123

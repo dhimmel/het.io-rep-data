@@ -1,19 +1,21 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.682704811443433,
   "metapath_contribution": {
-    "CbGaD": 0.17334985223104782,
-    "CbGbCtD": 0.023335578329197564,
-    "CbGeAlD": 0.0030139158349548932,
-    "CbGpPWpGaD": 0.011578371502618258,
-    "CcSEcCtD": 0.017331392265792,
-    "CiPCiCtD": 0.469204542152126,
-    "CrCbGaD": 0.0032910030751990196,
-    "CrCrCtD": 0.29889534460906436
+    "CbGaD": 0.17334985223104787,
+    "CbGbCtD": 0.023335578329197568,
+    "CbGeAlD": 0.0030139158349548937,
+    "CbGpPWpGaD": 0.01157837150261826,
+    "CcSEcCtD": 0.017331392265792004,
+    "CiPCiCtD": 0.4692045421521261,
+    "CrCbGaD": 0.0032910030751990204,
+    "CrCrCtD": 0.2988953446090644
   },
+  "n_trials": 0.0,
   "prediction": 0.00334736851072259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

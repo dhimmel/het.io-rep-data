@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.8472047962908235,
     "CbGeAlD": 0.027045737338247056,
     "CbGpPWpGaD": 0.11964635958801619,
     "CrCbGaD": 0.006103106782913283
   },
+  "n_trials": 0.0,
   "prediction": 0.0029492306748263603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

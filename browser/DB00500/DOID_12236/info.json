@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.107932379713914,
   "metapath_contribution": {
     "CbGeAlD": 0.013639269429360015,
     "CbGpPWpGaD": 0.41017411809391274,
     "CcSEcCtD": 0.5675209199436438,
     "CrCbGaD": 0.008665692533083259
   },
+  "n_trials": 0.0,
   "prediction": 0.000897210151980727,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

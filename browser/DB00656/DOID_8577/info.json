@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.39661898569570897,
   "metapath_contribution": {
     "CbGaD": 0.2630055798287798,
     "CbGbCtD": 0.46906609959418877,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19469185451147725,
     "CrCbGaD": 0.004896998173714924
   },
+  "n_trials": 0.0,
   "prediction": 0.0018245949906044898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

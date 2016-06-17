@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.42327698309492895,
   "metapath_contribution": {
     "CbGaD": 0.1384168126295081,
     "CbGbCtD": 0.6206440211623344,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19279948308442263,
     "CrCbGaD": 0.0006900908894667247
   },
+  "n_trials": 0.0,
   "prediction": 0.0016782212673500901,
   "status": 0,
   "training_prediction": 0.0048829719003690795

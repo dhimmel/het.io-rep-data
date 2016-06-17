@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.3612938591813853,
     "CbGeAlD": 0.03270680983637591,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.003614347065820584,
     "CtDrD": 0.5613955445924881
   },
+  "n_trials": 0.0,
   "prediction": 0.00712016901949597,
   "status": 0,
   "training_prediction": 0.00536280691567566

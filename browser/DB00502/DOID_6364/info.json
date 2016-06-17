@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.3250545962531291,
     "CbGbCtD": 0.27972010458484536,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.23444967576185893,
     "CrCbGaD": 0.002693293469368286
   },
+  "n_trials": 2.0,
   "prediction": 0.0128525079662627,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

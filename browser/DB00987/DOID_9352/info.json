@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.0130039011703511,
   "metapath_contribution": {
     "CbGaD": 0.27232678038335867,
     "CbGbCtD": 0.3825242447534199,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.19286729079645062,
     "CrCbGaD": 0.012401045063545878
   },
+  "n_trials": 0.0,
   "prediction": 0.000570366260213984,
   "status": 0,
   "training_prediction": 0.00419466945400302

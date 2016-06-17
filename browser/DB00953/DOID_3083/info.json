@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00953",
   "compound_name": "Rizatriptan",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.783485045513654,
   "metapath_contribution": {
     "CbGaD": 0.35111015970542553,
     "CbGpPWpGaD": 0.033821680735418115,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.49725954169964454,
     "CrCbGaD": 0.0032046603398967464
   },
+  "n_trials": 0.0,
   "prediction": 0.00369075929870678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

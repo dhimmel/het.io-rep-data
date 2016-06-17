@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.332249674902471,
   "metapath_contribution": {
     "CbGaD": 0.040746827897543546,
     "CbGbCtD": 0.5767593823971987,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12612917662744433,
     "CcSEcCtD": 0.1755676261272769
   },
+  "n_trials": 4.0,
   "prediction": 0.00167472815325051,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01203",
   "compound_name": "Nadolol",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.284135240572172,
   "metapath_contribution": {
     "CbGaD": 0.40708539458469933,
     "CbGbCtD": 0.32133077503318175,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21347964133077876,
     "CrCbGaD": 0.004413701356315327
   },
+  "n_trials": 0.0,
   "prediction": 0.00147789558534325,
   "status": 0,
   "training_prediction": 0.00626251856906044

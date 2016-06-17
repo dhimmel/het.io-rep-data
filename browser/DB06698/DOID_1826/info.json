@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06698",
   "compound_name": "Betahistine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGaD": 0.6850421611438682,
     "CbGeAlD": 0.032017555766015234,
     "CbGpPWpGaD": 0.09629687046434855,
     "CcSEcCtD": 0.18664341262576808
   },
+  "n_trials": 0.0,
   "prediction": 0.00587538444127275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

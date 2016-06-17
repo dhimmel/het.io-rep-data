@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01245",
   "compound_name": "Decamethonium",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.3056827503407862,
     "CbGbCtD": 0.6000413758483211,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08046893941212681,
     "CrCbGaD": 0.0007585494856753522
   },
+  "n_trials": 0.0,
   "prediction": 0.0123256072224834,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

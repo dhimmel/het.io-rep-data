@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01620",
   "compound_name": "Pheniramine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGbCtD": 0.06787800839205699,
     "CbGpPWpGaD": 0.012096820717418614,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3433582890362651,
     "CrCtD": 0.5736666841207042
   },
+  "n_trials": 0.0,
   "prediction": 0.0064986706336920205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

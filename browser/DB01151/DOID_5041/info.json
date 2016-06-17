@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.6557139013239899,
     "CbGbCtD": 0.052020010585277894,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.046294842020589345,
     "CrCbGaD": 0.002252624908611414
   },
+  "n_trials": 0.0,
   "prediction": 0.00136466120537445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

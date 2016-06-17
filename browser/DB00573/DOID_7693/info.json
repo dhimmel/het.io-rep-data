@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.6475942782834849,
   "metapath_contribution": {
     "CbGaD": 0.9795265300183644,
     "CbGeAlD": 0.00916751340205497,
     "CbGpPWpGaD": 0.0032129134573151137,
     "CrCbGaD": 0.008093043122265433
   },
+  "n_trials": 0.0,
   "prediction": 0.00148135486702524,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.182054616384915,
   "metapath_contribution": {
     "CbGbCtD": 0.6734154711450523,
     "CbGeAlD": 0.03566355422856037,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1662643695751699,
     "CrCbGaD": 0.001445755701471762
   },
+  "n_trials": 2.0,
   "prediction": 0.00127271511097024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

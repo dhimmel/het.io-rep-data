@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00595",
   "compound_name": "Oxytetracycline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGbCtD": 0.1182147652722914,
     "CbGeAlD": 0.001975659492109665,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.19958483805014837,
     "CrCtD": 0.28999499891864705
   },
+  "n_trials": 0.0,
   "prediction": 0.10884245825292999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

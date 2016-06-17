@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.746362486216068,
     "CbGpPWpGaD": 0.029633083901477446,
     "CcSEcCtD": 0.21819906825627258,
     "CrCbGaD": 0.0058053616261819685
   },
+  "n_trials": 0.0,
   "prediction": 0.00236611431185014,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

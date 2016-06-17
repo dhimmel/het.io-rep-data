@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.34200260078023403,
   "metapath_contribution": {
     "CbGbCtD": 0.6069423289814821,
     "CbGeAlD": 0.024984949860903796,
     "CcSEcCtD": 0.35671524069972127,
     "CrCbGaD": 0.01135748045789285
   },
+  "n_trials": 0.0,
   "prediction": 0.00138734883374962,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

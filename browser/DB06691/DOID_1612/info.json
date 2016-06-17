@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06691",
   "compound_name": "Mepyramine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.341352405721716,
   "metapath_contribution": {
     "CbGaD": 0.2748612766695813,
     "CbGbCtD": 0.05927368362560688,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0035426806383324926,
     "CrCrCtD": 0.5939193754936127
   },
+  "n_trials": 0.0,
   "prediction": 0.0017767969758925,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

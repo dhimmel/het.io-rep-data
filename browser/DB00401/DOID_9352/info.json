@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.660598179453836,
   "metapath_contribution": {
     "CbGaD": 0.1752785675401057,
     "CbGbCtD": 0.22174048201549781,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0022674820566537445,
     "CtDrD": 0.43894960162336577
   },
+  "n_trials": 0.0,
   "prediction": 0.00347982795176911,
   "status": 0,
   "training_prediction": 0.0152077349688496

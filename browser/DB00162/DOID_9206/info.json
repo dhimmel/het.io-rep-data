@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.7886866059817951,
   "metapath_contribution": {
     "CbGaD": 0.7647093471736306,
     "CbGbCtD": 0.0803306379691826,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08717704078974732,
     "CrCbGaD": 0.005492159672988184
   },
+  "n_trials": 0.0,
   "prediction": 0.00247468731644472,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

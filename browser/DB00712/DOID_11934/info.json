@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.32444733420026,
   "metapath_contribution": {
     "CbGaD": 0.5051812009772054,
     "CbGbCtD": 0.24359595958680116,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16094020884933988,
     "CrCbGaD": 0.007079089063141092
   },
+  "n_trials": 0.0,
   "prediction": 0.0011245760095504802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

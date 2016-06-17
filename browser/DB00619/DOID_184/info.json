@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.67295188556567,
   "metapath_contribution": {
     "CbGaD": 0.562661538645452,
     "CbGbCtD": 0.18241405730877425,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13647361500897165,
     "CrCbGaD": 0.005701851359495319
   },
+  "n_trials": 0.0,
   "prediction": 0.00196220699685944,
   "status": 0,
   "training_prediction": 0.00279938858203754

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00280",
   "compound_name": "Disopyramide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.832249674902471,
   "metapath_contribution": {
     "CbGaD": 0.5193761336964795,
     "CbGbCtD": 0.19842143465795253,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12576721243920638,
     "CrCbGaD": 0.0060503018100104234
   },
+  "n_trials": 0.0,
   "prediction": 0.00452324133868765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

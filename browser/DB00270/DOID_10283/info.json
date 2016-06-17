@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00270",
   "compound_name": "Isradipine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.130039011703511,
   "metapath_contribution": {
     "CbGaD": 0.20106948250971593,
     "CbGbCtD": 0.3211731873914492,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.28922125056554965,
     "CrCbGaD": 0.006883986300631421
   },
+  "n_trials": 0.0,
   "prediction": 0.00099645630588625,
   "status": 0,
   "training_prediction": 0.00422904176721641

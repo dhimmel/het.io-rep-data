@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
     "CbGaD": 0.22249000863709031,
     "CbGbCtD": 0.3939430006100893,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19887880898779248,
     "CrCbGaD": 0.0037240466795730475
   },
+  "n_trials": 0.0,
   "prediction": 0.00254363687860848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

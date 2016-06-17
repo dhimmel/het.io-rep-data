@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00513",
   "compound_name": "Aminocaproic Acid",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.6429066395814343,
     "CbGeAlD": 0.05725992878015475,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1435489515394193,
     "CrCbGaD": 0.0028043445358998604
   },
+  "n_trials": 0.0,
   "prediction": 0.00353608096913002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

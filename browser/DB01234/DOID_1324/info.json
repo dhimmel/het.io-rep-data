@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.421976592977893,
   "metapath_contribution": {
     "CbGaD": 0.39322625731407324,
     "CbGbCtD": 0.4018013711544555,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09226846945108495,
     "CrCbGaD": 0.0015647502639360867
   },
+  "n_trials": 12.0,
   "prediction": 0.00159083661395447,
   "status": 0,
   "training_prediction": 0.0358903788301087

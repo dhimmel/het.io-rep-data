@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
     "CbGaD": 0.3954689021492664,
     "CbGbCtD": 0.3831563808531207,
     "CbGpPWpGaD": 0.04189254850768656,
     "CcSEcCtD": 0.17948216848992643
   },
+  "n_trials": 0.0,
   "prediction": 0.00182443915851594,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

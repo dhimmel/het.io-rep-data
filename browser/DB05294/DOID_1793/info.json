@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.12015663622044896,
     "CbGbCtD": 0.1828895698874037,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.10873079980431334,
     "CrCtD": 0.25106248429395334
   },
+  "n_trials": 0.0,
   "prediction": 0.10629616135838799,
   "status": 0,
   "training_prediction": 0.221214016226978

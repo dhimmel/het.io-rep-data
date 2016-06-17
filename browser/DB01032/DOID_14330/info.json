@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.518855656697009,
   "metapath_contribution": {
-    "CbGaD": 0.4596865326551584,
-    "CbGeAlD": 0.15878717940801834,
-    "CbGpPWpGaD": 0.37539030159641223,
-    "CrCbGaD": 0.00613598634041099
+    "CbGaD": 0.45968653265515846,
+    "CbGeAlD": 0.15878717940801837,
+    "CbGpPWpGaD": 0.3753903015964123,
+    "CrCbGaD": 0.006135986340410991
   },
+  "n_trials": 0.0,
   "prediction": 0.00143488042023105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

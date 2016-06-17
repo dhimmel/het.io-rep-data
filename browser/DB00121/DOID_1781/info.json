@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00121",
   "compound_name": "Biotin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGbCtD": 0.6729802567314904,
     "CbGdCrCtD": 0.008610630659989668,
     "CbGeAlD": 0.1462779162798073,
     "CbGpPWpGaD": 0.17213119632871268
   },
+  "n_trials": 0.0,
   "prediction": 0.00337017909150571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

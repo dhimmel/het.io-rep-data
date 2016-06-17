@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00805",
   "compound_name": "Minaprine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.41677503250975295,
   "metapath_contribution": {
-    "CbGaD": 0.3729362560037938,
-    "CbGbCtD": 0.4667428414662508,
-    "CbGeAlD": 0.03509842179319992,
-    "CbGpPWpGaD": 0.12318056537044372,
+    "CbGaD": 0.3729362560037939,
+    "CbGbCtD": 0.4667428414662509,
+    "CbGeAlD": 0.03509842179319993,
+    "CbGpPWpGaD": 0.12318056537044374,
     "CrCbGaD": 0.0020419153663117093
   },
+  "n_trials": 0.0,
   "prediction": 0.00216984328917457,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

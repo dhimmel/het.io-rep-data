@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00950",
   "compound_name": "Fexofenadine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.551365409622887,
   "metapath_contribution": {
     "CbGaD": 0.9473305312495389,
     "CbGeAlD": 0.03243637928624123,
     "CbGpPWpGaD": 0.009970591769395548,
     "CrCbGaD": 0.010262497694824346
   },
+  "n_trials": 0.0,
   "prediction": 0.00159494353527345,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

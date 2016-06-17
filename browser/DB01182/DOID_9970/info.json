@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.11412224360818539,
     "CbGbCtD": 0.20692634993628603,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.20400427409783176,
     "CrCtD": 0.3735803963649732
   },
+  "n_trials": 0.0,
   "prediction": 0.0136946724434811,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

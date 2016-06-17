@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.13527843854700758,
     "CbGbCtD": 0.587958586663652,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.018486507953748992,
     "CcSEcCtD": 0.18218960933068867
   },
+  "n_trials": 0.0,
   "prediction": 0.004979540036970821,
   "status": 0,
   "training_prediction": 0.0152268552195501

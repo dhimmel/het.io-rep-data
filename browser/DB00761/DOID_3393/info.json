@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00761",
   "compound_name": "Potassium Chloride",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.612483745123537,
   "metapath_contribution": {
     "CbGbCtD": 0.4303945180945964,
     "CbGeAlD": 0.0862194351424441,
@@ -11,6 +13,5 @@
     "CcSEcCtD": 0.30602798301429424
   },
   "prediction": 0.00294000496147467,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

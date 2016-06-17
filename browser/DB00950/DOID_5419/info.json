@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00950",
   "compound_name": "Fexofenadine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.29713914174252304,
   "metapath_contribution": {
     "CbGaD": 0.8408674727175598,
     "CbGeAlD": 0.04672656507074901,
     "CbGpPWpGaD": 0.09999921559276882,
     "CrCbGaD": 0.012406746618922394
   },
+  "n_trials": 0.0,
   "prediction": 0.00115901416170022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

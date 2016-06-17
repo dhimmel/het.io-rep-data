@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01048",
   "compound_name": "Abacavir",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.631339401820546,
   "metapath_contribution": {
     "CbGbCtD": 0.10831007952795137,
     "CbGeAlD": 0.04116184177254094,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13458318768988667,
     "CrCrCtD": 0.6275001411140089
   },
+  "n_trials": 0.0,
   "prediction": 0.00188177296131598,
   "status": 0,
   "training_prediction": 0.00414494726720745

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.37684008658428847,
     "CbGbCtD": 0.07357953153343835,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0014149612959486327,
     "CrCrCtD": 0.3547414150830788
   },
+  "n_trials": 0.0,
   "prediction": 0.00702489401620148,
   "status": 0,
   "training_prediction": 0.0389275247836146

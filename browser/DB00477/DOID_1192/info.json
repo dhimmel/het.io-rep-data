@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.24187256176853103,
   "metapath_contribution": {
     "CbGaD": 0.46339904246758484,
     "CbGbCtD": 0.30401866167527725,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0927749522336817,
     "CrCbGaD": 0.0018816050211144378
   },
+  "n_trials": 0.0,
   "prediction": 0.00115138689077771,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

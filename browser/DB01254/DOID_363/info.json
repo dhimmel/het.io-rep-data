@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGbCtD": 0.3857111618760039,
     "CbGdCrCtD": 0.004405963691996994,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.23466967888536452,
     "CcSEcCtD": 0.20226620932754355
   },
+  "n_trials": 0.0,
   "prediction": 0.0042092189651752,
   "status": 0,
   "training_prediction": 0.00767274541662505

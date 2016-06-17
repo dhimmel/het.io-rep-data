@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00391",
   "compound_name": "Sulpiride",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.801690507152146,
   "metapath_contribution": {
     "CbGaD": 0.38288763434696016,
     "CbGbCtD": 0.5064662326821462,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07437566642079396,
     "CrCbGaD": 0.0034603196693289975
   },
+  "n_trials": 0.0,
   "prediction": 0.00330419543646207,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

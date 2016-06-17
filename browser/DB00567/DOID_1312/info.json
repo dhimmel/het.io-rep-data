@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.49154746423927204,
   "metapath_contribution": {
     "CbGaD": 0.6308430954851996,
     "CbGbCtD": 0.25768756341567806,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04712693820375743,
     "CrCbGaD": 0.0028141275620136704
   },
+  "n_trials": 0.0,
   "prediction": 0.00142503657038124,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

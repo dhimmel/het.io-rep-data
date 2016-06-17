@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGeAlD": 0.010066786085773756,
     "CcSEcCtD": 0.07530317832194827,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0013307377873641541,
     "CrCrCtD": 0.20625256002114875
   },
+  "n_trials": 5.0,
   "prediction": 0.00809291876853897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

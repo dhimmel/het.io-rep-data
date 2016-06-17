@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGaD": 0.34611128819222886,
     "CbGbCtD": 0.5100633444918489,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10943744242801458,
     "CrCbGaD": 0.0010496541730555544
   },
+  "n_trials": 0.0,
   "prediction": 0.00425990584023374,
   "status": 0,
   "training_prediction": 0.00935640648703885

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00547",
   "compound_name": "Desoximetasone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGbCtD": 0.13826357335660508,
     "CcSEcCtD": 0.032255101655925635,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.1960168907598399,
     "CrCtD": 0.2691244181724121
   },
+  "n_trials": 0.0,
   "prediction": 0.0631054436970916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00856",
   "compound_name": "Chlorphenesin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.26408872945628414,
     "CbGbCtD": 0.23569690247810338,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002034500160205659,
     "CrCrCtD": 0.43285998170337914
   },
+  "n_trials": 0.0,
   "prediction": 0.0050926015175882106,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

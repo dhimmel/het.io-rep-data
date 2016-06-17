@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.15409622886866103,
   "metapath_contribution": {
     "CbGbCtD": 0.7095841333721802,
     "CbGeAlD": 0.12288571767563791,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09269003403831863,
     "CrCbGaD": 0.003843772879677847
   },
+  "n_trials": 0.0,
   "prediction": 0.000893821875889425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

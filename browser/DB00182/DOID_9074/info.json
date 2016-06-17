@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.17490247074122198,
   "metapath_contribution": {
     "CbGbCtD": 0.20283552634632032,
     "CbGeAlD": 0.27520168882796475,
     "CcSEcCtD": 0.5138202371228111,
     "CrCbGaD": 0.008142547702903772
   },
+  "n_trials": 0.0,
   "prediction": 0.0010864798890307301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

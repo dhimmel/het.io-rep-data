@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01216",
   "compound_name": "Finasteride",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.6924577373211961,
   "metapath_contribution": {
     "CbGbCtD": 0.3403838848943301,
     "CcSEcCtD": 0.06789368534582617,
     "CrCbGaD": 0.0006795561636565842,
     "CrCrCtD": 0.5910428735961872
   },
+  "n_trials": 0.0,
   "prediction": 0.00276384897500415,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

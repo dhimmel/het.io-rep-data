@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.2571962226829924,
     "CbGbCtD": 0.31455755893008,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.033276993210070244,
     "CtDrD": 0.2967131313273953
   },
+  "n_trials": 1.0,
   "prediction": 0.0191489909897876,
   "status": 0,
   "training_prediction": 0.0188944325997013

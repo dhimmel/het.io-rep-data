@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.696358907672302,
   "metapath_contribution": {
     "CbGaD": 0.34633664166796124,
     "CbGbCtD": 0.4970403127738596,
     "CbGpPWpGaD": 0.025166650220273853,
     "CcSEcCtD": 0.13145639533790526
   },
+  "n_trials": 0.0,
   "prediction": 0.0024122348215814,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

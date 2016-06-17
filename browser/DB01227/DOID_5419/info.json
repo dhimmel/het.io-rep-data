@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01227",
   "compound_name": "Levomethadyl Acetate",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.624837451235371,
   "metapath_contribution": {
     "CbGaD": 0.7657294532351796,
     "CbGeAlD": 0.039719596530945554,
     "CbGpPWpGaD": 0.18743611703535198,
     "CrCbGaD": 0.007114833198522887
   },
+  "n_trials": 0.0,
   "prediction": 0.00186269471541473,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

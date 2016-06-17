@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.0474642392717815,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.01814879926252843,
-    "CbGeAlD": 0.025093907925318272,
-    "CbGpPWpGaD": 0.1699714958680516,
-    "CcSEcCtD": 0.7751284649485873,
-    "CrCbGaD": 0.011657331995514218
+    "CbGdCrCtD": 0.018148799262528433,
+    "CbGeAlD": 0.025093907925318275,
+    "CbGpPWpGaD": 0.16997149586805163,
+    "CcSEcCtD": 0.7751284649485876,
+    "CrCbGaD": 0.01165733199551422
   },
+  "n_trials": 0.0,
   "prediction": 0.00106104009575848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

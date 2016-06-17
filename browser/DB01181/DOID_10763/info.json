@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01181",
   "compound_name": "Ifosfamide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6866059817945379,
   "metapath_contribution": {
     "CbGaD": 0.3134863860235836,
     "CbGbCtD": 0.4480610449945384,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1581687065828329,
     "CrCbGaD": 0.0020418591791988767
   },
+  "n_trials": 0.0,
   "prediction": 0.0066546302349208605,
   "status": 0,
   "training_prediction": 0.15276738711947502

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.34330299089726896,
   "metapath_contribution": {
     "CbGbCtD": 0.2811862392105635,
     "CbGdCrCtD": 0.002659000308367155,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3561273245174066,
     "CrCbGaD": 0.003558259414741887
   },
+  "n_trials": 1.0,
   "prediction": 0.00170724501108009,
   "status": 0,
   "training_prediction": 0.0120159298546541

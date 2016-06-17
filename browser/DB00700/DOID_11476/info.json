@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00700",
   "compound_name": "Eplerenone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.437581274382315,
   "metapath_contribution": {
     "CbGbCtD": 0.3153440298398611,
     "CbGpPWpGaD": 0.05200127971363177,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.005485512708180093,
     "CrCrCtD": 0.39799180002459056
   },
+  "n_trials": 0.0,
   "prediction": 0.00173222281376957,
   "status": 0,
   "training_prediction": 0.00935686966495723

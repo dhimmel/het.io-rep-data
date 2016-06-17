@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.618985695708713,
   "metapath_contribution": {
     "CbGaD": 0.22215966504881435,
     "CbGbCtD": 0.10812297102388692,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0019012557819645837,
     "CrCrCtD": 0.46520214607506827
   },
+  "n_trials": 0.0,
   "prediction": 0.004479612247096029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

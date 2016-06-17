@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01431",
   "compound_name": "Allylestrenol",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.8125743095154,
     "CbGeAlD": 0.10195738834675079,
     "CbGpPWpGaD": 0.0761453903962704,
     "CrCbGaD": 0.009322911741578751
   },
+  "n_trials": 0.0,
   "prediction": 0.00169800777565441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00822",
   "compound_name": "Disulfiram",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGaD": 0.34240880268713253,
     "CbGbCtD": 0.41379950685764977,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07216173714664591,
     "CcSEcCtD": 0.11855976955832329
   },
+  "n_trials": 0.0,
   "prediction": 0.006986956376788429,
   "status": 0,
   "training_prediction": 0.0301768466074917

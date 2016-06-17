@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01127",
   "compound_name": "Econazole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6723016905071519,
   "metapath_contribution": {
     "CbGaD": 0.456634700033998,
     "CbGbCtD": 0.39469263325785114,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.014296446591873449,
     "CrCbGaD": 0.004956671918627047
   },
+  "n_trials": 0.0,
   "prediction": 0.00330806086490255,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

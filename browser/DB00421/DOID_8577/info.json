@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.0715186113799091,
     "CbGbCtD": 0.29712689747489385,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2732330503633482,
     "CrCtD": 0.3011103382577787
   },
+  "n_trials": 0.0,
   "prediction": 0.0132592074787517,
   "status": 0,
   "training_prediction": 0.0714372879436504

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.23602080624187302,
   "metapath_contribution": {
     "CbGaD": 0.36909848248500926,
     "CbGbCtD": 0.37986946291588586,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1942890394536657,
     "CrCbGaD": 0.005484659471797016
   },
+  "n_trials": 0.0,
   "prediction": 0.00139354032390801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

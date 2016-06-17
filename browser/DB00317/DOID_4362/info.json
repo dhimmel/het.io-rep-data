@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.8107932379713909,
   "metapath_contribution": {
     "CbGaD": 0.5348890513789183,
     "CbGbCtD": 0.2471655367571501,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.029197511502024157,
     "CrCbGaD": 0.0061416098967167106
   },
+  "n_trials": 1.0,
   "prediction": 0.00205561111526352,
   "status": 0,
   "training_prediction": 0.00092702664124874

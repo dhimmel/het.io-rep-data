@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04794",
   "compound_name": "Bifonazole",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.743172951885566,
   "metapath_contribution": {
     "CbGaD": 0.8165113883304913,
     "CbGeAlD": 0.02425694872511379,
     "CbGpPWpGaD": 0.1517365580787217,
     "CrCbGaD": 0.007495104865673268
   },
+  "n_trials": 0.0,
   "prediction": 0.00217585295797406,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

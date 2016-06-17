@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00804",
   "compound_name": "Dicyclomine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.9319197501291157,
     "CbGeAlD": 0.014593854422587703,
     "CbGpPWpGaD": 0.02030247997135888,
     "CcSEcCtD": 0.03318391547693775
   },
+  "n_trials": 0.0,
   "prediction": 0.00560898878084709,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

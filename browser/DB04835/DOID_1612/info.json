@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04835",
   "compound_name": "Maraviroc",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.879063719115735,
   "metapath_contribution": {
     "CbGaD": 0.2572373330843184,
     "CbGbCtD": 0.38713770505619655,
     "CbGpPWpGaD": 0.11800783202070461,
     "CcSEcCtD": 0.23761712983878042
   },
+  "n_trials": 0.0,
   "prediction": 0.00625208835287637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

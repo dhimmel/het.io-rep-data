@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06605",
   "compound_name": "Apixaban",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8862158647594279,
   "metapath_contribution": {
     "CbGaD": 0.24605537489740734,
     "CbGbCtD": 0.5283783423328041,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05526414465608445,
     "CcSEcCtD": 0.15439739864684962
   },
+  "n_trials": 0.0,
   "prediction": 0.007596759828228891,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

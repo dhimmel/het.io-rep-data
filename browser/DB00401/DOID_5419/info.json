@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGaD": 0.8421582963720737,
     "CbGeAlD": 0.03986006275692421,
     "CbGpPWpGaD": 0.10958816267323551,
     "CrCbGaD": 0.008393478197766521
   },
+  "n_trials": 0.0,
   "prediction": 0.00141435941637076,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

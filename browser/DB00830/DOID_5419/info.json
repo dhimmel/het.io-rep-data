@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00830",
   "compound_name": "Phenmetrazine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGaD": 0.8349879238248075,
     "CbGeAlD": 0.06671078968379401,
     "CbGpPWpGaD": 0.09124945491155373,
     "CrCbGaD": 0.007051831579844762
   },
+  "n_trials": 0.0,
   "prediction": 0.0024114875929587398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

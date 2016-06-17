@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.45383615084525397,
   "metapath_contribution": {
     "CbGbCtD": 0.8997628791490572,
     "CbGeAlD": 0.038292781341234705,
     "CbGpPWpGaD": 0.052713025850132086,
     "CrCbGaD": 0.00923131365957598
   },
+  "n_trials": 0.0,
   "prediction": 0.00143223200919098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

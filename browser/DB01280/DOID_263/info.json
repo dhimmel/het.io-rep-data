@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.1758300966822853,
     "CbGdCrCtD": 0.0012284609064114331,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0012946319069187038,
     "CrCrCtD": 0.17001108384857327
   },
+  "n_trials": 0.0,
   "prediction": 0.0073026142589618795,
   "status": 0,
   "training_prediction": 0.0210216102675659

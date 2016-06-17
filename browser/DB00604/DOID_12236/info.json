@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGbCtD": 0.22103086600720867,
     "CbGpPWpGaD": 0.018493567830712588,
     "CrCbGaD": 0.0008270630115783312,
     "CrCrCtD": 0.7596485031505005
   },
+  "n_trials": 0.0,
   "prediction": 0.0031330940679585,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

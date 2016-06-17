@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.579973992197659,
   "metapath_contribution": {
     "CbGaD": 0.3273048931559862,
     "CbGbCtD": 0.4520405938370031,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08881342637660429,
     "CrCbGaD": 0.004085902426220091
   },
+  "n_trials": 0.0,
   "prediction": 0.0029126982160615398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

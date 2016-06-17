@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.279411764705882,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.271131339401821,
   "metapath_contribution": {
     "CbGaD": 0.7134553414440201,
     "CbGpPWpGaD": 0.2783392493362039,
     "CrCbGaD": 0.008205409219775998
   },
+  "n_trials": 1.0,
   "prediction": 0.00100184024296856,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

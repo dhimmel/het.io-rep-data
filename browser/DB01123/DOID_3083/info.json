@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01123",
   "compound_name": "Proflavine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.58777633289987,
   "metapath_contribution": {
     "CbGeAlD": 0.3024884958056091,
     "CbGpPWpGaD": 0.6975115041943908
   },
+  "n_trials": 0.0,
   "prediction": 0.00243156467028899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

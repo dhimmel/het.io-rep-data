@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06702",
   "compound_name": "Fesoterodine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8725617685305591,
   "metapath_contribution": {
     "CbGaD": 0.7834196021578205,
     "CbGbCtD": 0.05185943422310389,
     "CbGeAlD": 0.05138124622002496,
     "CcSEcCtD": 0.11333971739905063
   },
+  "n_trials": 0.0,
   "prediction": 0.00288648173846166,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

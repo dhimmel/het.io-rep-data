@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00371",
   "compound_name": "Meprobamate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGaD": 0.5376950520040616,
     "CbGbCtD": 0.26939307820025,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07838468991662496,
     "CcSEcCtD": 0.10853554367935646
   },
+  "n_trials": 0.0,
   "prediction": 0.00606363407038632,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

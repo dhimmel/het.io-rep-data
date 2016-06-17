@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGbCtD": 0.5113845112093267,
     "CbGpPWpGaD": 0.03599553250770898,
     "CcSEcCtD": 0.4499021497370072,
     "CrCbGaD": 0.002717806545957137
   },
+  "n_trials": 0.0,
   "prediction": 0.00193606337151496,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

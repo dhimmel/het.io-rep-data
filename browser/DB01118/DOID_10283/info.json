@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.52925877763329,
   "metapath_contribution": {
     "CbGaD": 0.3361512368352707,
     "CbGbCtD": 0.40417346725653897,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1273635883222278,
     "CrCbGaD": 0.003312209056793864
   },
+  "n_trials": 0.0,
   "prediction": 0.00239868120098607,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

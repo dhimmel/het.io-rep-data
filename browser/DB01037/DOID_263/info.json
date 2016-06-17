@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.6430429128738621,
   "metapath_contribution": {
     "CbGaD": 0.1632434047007603,
     "CbGbCtD": 0.5143671747979349,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2361798891510901,
     "CrCbGaD": 0.002420846786900278
   },
+  "n_trials": 0.0,
   "prediction": 0.00224721689055032,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

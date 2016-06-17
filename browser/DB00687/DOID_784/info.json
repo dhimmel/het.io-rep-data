@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.15409622886866103,
   "metapath_contribution": {
     "CbGaD": 0.8707818198219743,
     "CbGeAlD": 0.08032838456979134,
     "CbGpPWpGaD": 0.03657783494012003,
     "CrCbGaD": 0.012311960668114165
   },
+  "n_trials": 0.0,
   "prediction": 0.000926523100854115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

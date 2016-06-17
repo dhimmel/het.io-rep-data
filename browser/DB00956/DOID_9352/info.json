@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.38556566970091,
   "metapath_contribution": {
     "CbGaD": 0.281870726401908,
     "CbGbCtD": 0.4195617084294162,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22470773581470835,
     "CrCbGaD": 0.0027500845607384477
   },
+  "n_trials": 0.0,
   "prediction": 0.00205308946406433,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7301690507152149,
   "metapath_contribution": {
     "CbGaD": 0.23040067922133903,
     "CbGbCtD": 0.5154757097723008,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14512275866616806,
     "CrCbGaD": 0.0010168194330745302
   },
+  "n_trials": 0.0,
   "prediction": 0.00392355670198698,
   "status": 0,
   "training_prediction": 0.0430196430505442

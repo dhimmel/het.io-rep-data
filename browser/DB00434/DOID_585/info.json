@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00434",
   "compound_name": "Cyproheptadine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.8667923106491665,
     "CbGeAlD": 0.005190818074852575,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.044657354648628765,
     "CrCbGaD": 0.004517635089510319
   },
+  "n_trials": 0.0,
   "prediction": 0.00249538213493628,
   "status": 0,
   "training_prediction": 0.0011256241616630302

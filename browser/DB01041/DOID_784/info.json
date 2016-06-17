@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6723016905071519,
   "metapath_contribution": {
     "CbGaD": 0.7862632288000917,
     "CbGeAlD": 0.057933106114779066,
     "CbGpPWpGaD": 0.1496448604502444,
     "CrCbGaD": 0.0061588046348849575
   },
+  "n_trials": 0.0,
   "prediction": 0.00201640657190792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

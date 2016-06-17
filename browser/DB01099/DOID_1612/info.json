@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01099",
   "compound_name": "Flucytosine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7093628088426529,
   "metapath_contribution": {
     "CbGaD": 0.7048931459237595,
     "CbGdCrCtD": 0.003208814815749415,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09240926018800047,
     "CcSEcCtD": 0.15357324016500135
   },
+  "n_trials": 0.0,
   "prediction": 0.00365426985518659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

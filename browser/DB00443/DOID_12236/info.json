@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.29453836150845303,
   "metapath_contribution": {
     "CbGbCtD": 0.09864225041429119,
     "CbGeAlD": 0.0011823366751281161,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0005427163686137157,
     "CtDrD": 0.7737631844068606
   },
+  "n_trials": 0.0,
   "prediction": 0.0012139155183714199,
   "status": 0,
   "training_prediction": 0.00806031540046005

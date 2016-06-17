@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.664499349804942,
   "metapath_contribution": {
     "CbGaD": 0.878128170837432,
     "CbGeAlD": 0.04576313579494185,
     "CbGpPWpGaD": 0.07206618013796268,
     "CrCbGaD": 0.004042513229663608
   },
+  "n_trials": 0.0,
   "prediction": 0.00167569158045451,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

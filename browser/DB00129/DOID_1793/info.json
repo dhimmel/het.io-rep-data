@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00129",
   "compound_name": "L-Ornithine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.7197659297789342,
   "metapath_contribution": {
     "CbGaD": 0.8144166534967566,
     "CbGeAlD": 0.05352851706574305,
     "CbGpPWpGaD": 0.1293807362038563,
     "CrCbGaD": 0.002674093233643997
   },
+  "n_trials": 0.0,
   "prediction": 0.00236450569855109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

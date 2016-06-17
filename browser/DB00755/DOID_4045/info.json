@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGbCtD": 0.28306076491085397,
     "CbGdCrCtD": 0.0028034488859122416,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0778481268669019,
     "CtDrD": 0.575570388756888
   },
+  "n_trials": 0.0,
   "prediction": 0.00291400336863075,
   "status": 0,
   "training_prediction": 0.004748777053608579

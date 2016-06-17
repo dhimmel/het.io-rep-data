@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.38751625487646296,
   "metapath_contribution": {
     "CbGaD": 0.3244655019231477,
     "CbGbCtD": 0.39986112893944925,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15401971512273244,
     "CrCbGaD": 0.004421014814609316
   },
+  "n_trials": 0.0,
   "prediction": 0.00194951663608838,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

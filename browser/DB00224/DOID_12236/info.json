@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00224",
   "compound_name": "Indinavir",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.35608516476288404,
     "CbGbCtD": 0.42582432802154546,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11582964921619728,
     "CrCbGaD": 0.002809687828718122
   },
+  "n_trials": 0.0,
   "prediction": 0.005765813453761271,
   "status": 0,
   "training_prediction": 0.0056881334942781

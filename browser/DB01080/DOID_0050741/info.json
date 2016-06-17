@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01080",
   "compound_name": "Vigabatrin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGbCtD": 0.6871544759166499,
     "CbGeAlD": 0.048905932687806984,
     "CbGpPWpGaD": 0.09209234585581759,
     "CcSEcCtD": 0.17184724553972544
   },
+  "n_trials": 1.0,
   "prediction": 0.00533086563080632,
   "status": 0,
   "training_prediction": 0.00646525760105333

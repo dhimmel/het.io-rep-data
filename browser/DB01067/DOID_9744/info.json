@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.41077668090712116,
     "CbGeAlD": 0.01060628973377784,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.004377303775416697,
     "CtDrD": 0.5191372710407149
   },
+  "n_trials": 0.0,
   "prediction": 0.007497066882348371,
   "status": 0,
   "training_prediction": 0.0033911322052348

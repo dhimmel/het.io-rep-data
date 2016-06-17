@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08903",
   "compound_name": "Bedaquiline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.10827890619242016,
     "CbGbCtD": 0.15687371787715865,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.22729222407124838,
     "CrCtD": 0.45607391059013236
   },
+  "n_trials": 0.0,
   "prediction": 0.0158277372269618,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.6079323797139139,
   "metapath_contribution": {
     "CbGaD": 0.25518479125584675,
     "CbGbCtD": 0.4905985765385094,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22668932830289543,
     "CrCbGaD": 0.00066296305539273
   },
+  "n_trials": 0.0,
   "prediction": 0.0020133693308664897,
   "status": 0,
   "training_prediction": 0.0124264734536512

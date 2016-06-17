@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.28998699609883005,
   "metapath_contribution": {
     "CbGaD": 0.7995989851902315,
     "CbGeAlD": 0.09756038569278647,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03114062428610617,
     "CrCbGaD": 0.010856499146309012
   },
+  "n_trials": 0.0,
   "prediction": 0.00104499533722739,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

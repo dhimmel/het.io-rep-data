@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.21129221804291184,
     "CbGbCtD": 0.5743926553974718,
     "CbGpPWpGaD": 0.12875753608317078,
     "CcSEcCtD": 0.08555759047644552
   },
+  "n_trials": 0.0,
   "prediction": 0.00309821001504298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

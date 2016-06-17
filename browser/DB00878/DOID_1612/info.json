@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00878",
   "compound_name": "Chlorhexidine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGbCtD": 0.6927489366524612,
     "CbGeAlD": 0.03332003701589884,
     "CbGpPWpGaD": 0.10058884990069092,
     "CcSEcCtD": 0.17334217643094912
   },
+  "n_trials": 2.0,
   "prediction": 0.0040529067306964,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

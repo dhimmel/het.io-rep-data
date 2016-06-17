@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01203",
   "compound_name": "Nadolol",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.17815344603381,
   "metapath_contribution": {
     "CbGaD": 0.2727760179364633,
     "CbGbCtD": 0.3691364864208908,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.28443174721727005,
     "CrCbGaD": 0.0007043614924028666
   },
+  "n_trials": 0.0,
   "prediction": 0.00123415178646341,
   "status": 0,
   "training_prediction": 0.0068128037699496

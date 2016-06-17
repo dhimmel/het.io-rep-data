@@ -1,15 +1,18 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.617685305591678,
   "metapath_contribution": {
-    "CbGaD": 0.6745218858200082,
-    "CbGeAlD": 0.09301359347851743,
-    "CbGpPWpGaD": 0.2017330143106404,
-    "CcSEcCtD": 0.02640326855814867,
-    "CrCbGaD": 0.004328237832685401
+    "CbGaD": 0.674521885820008,
+    "CbGeAlD": 0.09301359347851741,
+    "CbGpPWpGaD": 0.20173301431064036,
+    "CcSEcCtD": 0.026403268558148667,
+    "CrCbGaD": 0.0043282378326854
   },
+  "n_trials": 1.0,
   "prediction": 0.00164495597720785,
   "status": 0,
   "training_prediction": 0.0020190697285450802

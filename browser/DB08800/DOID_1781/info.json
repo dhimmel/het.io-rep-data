@@ -1,14 +1,16 @@
 {
   "compound_id": "DB08800",
   "compound_name": "Chloropyramine",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.120286085825748,
   "metapath_contribution": {
-    "CbGeAlD": 0.25915928199360644,
-    "CbGpPWpGaD": 0.7315294608252251,
-    "CrCbGaD": 0.00931125718116835
+    "CbGeAlD": 0.2591592819936065,
+    "CbGpPWpGaD": 0.7315294608252252,
+    "CrCbGaD": 0.009311257181168351
   },
+  "n_trials": 0.0,
   "prediction": 0.00086860272261157,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGbCtD": 0.4405138799257974,
     "CbGeAlD": 0.12088158001474987,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.35306854190720943,
     "CrCbGaD": 6.533563738626811e-05
   },
+  "n_trials": 1.0,
   "prediction": 0.0034506356799540896,
   "status": 0,
   "training_prediction": 0.0175551084506286

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00519",
   "compound_name": "Trandolapril",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGaD": 0.33255047805422006,
     "CbGeAlD": 0.023674517451842604,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.004198974296031319,
     "CrCrCtD": 0.4680064923536889
   },
+  "n_trials": 0.0,
   "prediction": 0.00456193847114814,
   "status": 0,
   "training_prediction": 0.00919550396384329

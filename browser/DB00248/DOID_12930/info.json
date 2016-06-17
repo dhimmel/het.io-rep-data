@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.7380375614254109,
     "CbGeAlD": 0.04852401777330692,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08839081949434593,
     "CrCbGaD": 0.001756072109636671
   },
+  "n_trials": 0.0,
   "prediction": 0.0031172235108304102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

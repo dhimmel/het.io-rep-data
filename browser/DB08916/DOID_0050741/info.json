@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.25227568270481104,
   "metapath_contribution": {
     "CbGbCtD": 0.2700743372797502,
     "CbGeAlD": 0.294789464528937,
     "CbGpPWpGaD": 0.10424024566298043,
     "CcSEcCtD": 0.3308959525283323
   },
+  "n_trials": 0.0,
   "prediction": 0.00143230954113431,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

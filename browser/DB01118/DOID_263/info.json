@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.11120459071629643,
     "CbGbCtD": 0.1995308788527241,
@@ -13,7 +15,7 @@
     "CiPCiCtD": 0.5821213501379561,
     "CrCbGaD": 0.0007021982533359775
   },
+  "n_trials": 0.0,
   "prediction": 0.0109394360786473,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

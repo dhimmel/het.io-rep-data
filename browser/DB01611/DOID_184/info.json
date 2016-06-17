@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.176202860858257,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.11287068241608977,
     "CcSEcCtD": 0.8511017309655821,
     "CrCbGaD": 0.03602758661832831
   },
+  "n_trials": 1.0,
   "prediction": 0.000942237331030168,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

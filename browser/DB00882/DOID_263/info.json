@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7483745123537059,
   "metapath_contribution": {
     "CbGaD": 0.36808564245941444,
     "CbGbCtD": 0.3929296769690112,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15426592416579238,
     "CrCbGaD": 0.0017141379862498714
   },
+  "n_trials": 0.0,
   "prediction": 0.00270464297407965,
   "status": 0,
   "training_prediction": 0.00785403998203317

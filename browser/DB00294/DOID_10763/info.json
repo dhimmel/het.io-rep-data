@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00294",
   "compound_name": "Etonogestrel",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.173602080624187,
   "metapath_contribution": {
     "CbGbCtD": 0.3971264561158046,
     "CbGeAlD": 0.02383980541070353,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00501263230390411,
     "CrCrCtD": 0.28056467928571144
   },
+  "n_trials": 0.0,
   "prediction": 0.0016937847225391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

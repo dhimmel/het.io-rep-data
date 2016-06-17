@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8003901170351109,
   "metapath_contribution": {
     "CbGaD": 0.22621613482945824,
     "CbGbCtD": 0.4985758488866116,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07596154083609827,
     "CcSEcCtD": 0.17935987610305
   },
+  "n_trials": 1.0,
   "prediction": 0.0033576800633494898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

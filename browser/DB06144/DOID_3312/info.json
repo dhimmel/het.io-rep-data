@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06144",
   "compound_name": "Sertindole",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.7772186960067138,
     "CbGeAlD": 0.06092566565236918,
     "CbGpPWpGaD": 0.1563418568943776,
     "CrCbGaD": 0.005513781446539461
   },
+  "n_trials": 1.0,
   "prediction": 0.00432280614378233,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.5370611183355011,
   "metapath_contribution": {
     "CbGaD": 0.7927081606917232,
     "CbGbCtD": 0.043681662577312964,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11528755517203926,
     "CrCbGaD": 0.00976956785965684
   },
+  "n_trials": 0.0,
   "prediction": 0.0014608994774484802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

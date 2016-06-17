@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.167942574907164,
     "CbGbCtD": 0.2008003856382442,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.32495241916481077,
     "CtDrD": 0.19460730875126256
   },
+  "n_trials": 159.0,
   "prediction": 0.160908475157785,
   "status": 0,
   "training_prediction": 0.8444722377398359

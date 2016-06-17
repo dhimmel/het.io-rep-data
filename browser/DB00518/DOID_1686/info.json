@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.3485045513654099,
   "metapath_contribution": {
     "CbGbCtD": 0.6233637703712102,
     "CbGeAlD": 0.02170391809254464,
     "CbGpPWpGaD": 0.12081373688246211,
     "CcSEcCtD": 0.23411857465378313
   },
+  "n_trials": 0.0,
   "prediction": 0.0015146026055089699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

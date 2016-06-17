@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.570221066319896,
   "metapath_contribution": {
     "CbGbCtD": 0.6780019016111491,
     "CbGdCrCtD": 0.006342436974896502,
     "CcSEcCtD": 0.3143537695335564,
     "CrCbGaD": 0.0013018918803978793
   },
+  "n_trials": 1.0,
   "prediction": 0.0019045408061204802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00335",
   "compound_name": "Atenolol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.12093691633416762,
     "CbGbCtD": 0.21921276178437965,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.23006697611446875,
     "CrCtD": 0.3314199634749815
   },
+  "n_trials": 19.0,
   "prediction": 0.0592146371885326,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

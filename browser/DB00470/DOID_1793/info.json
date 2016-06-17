@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.5562396303184015,
     "CbGbCtD": 0.3489770395286206,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.042341991178737964,
     "CrCbGaD": 0.006274447010416648
   },
+  "n_trials": 1.0,
   "prediction": 0.007907711747678759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

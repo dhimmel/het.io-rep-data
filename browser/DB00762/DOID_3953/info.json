@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.6820546163849152,
   "metapath_contribution": {
     "CbGaD": 0.19189909263569493,
     "CbGeAlD": 0.02087813925787853,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00239996378206819,
     "CtDrD": 0.7487216141249301
   },
+  "n_trials": 0.0,
   "prediction": 0.00163238816401576,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

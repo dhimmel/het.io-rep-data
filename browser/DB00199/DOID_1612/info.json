@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.49349804941482395,
   "metapath_contribution": {
     "CbGaD": 0.33517591453640816,
     "CbGbCtD": 0.4876200240666011,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09834070207358986,
     "CrCbGaD": 0.002063250270897773
   },
+  "n_trials": 2.0,
   "prediction": 0.0023136607556322603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

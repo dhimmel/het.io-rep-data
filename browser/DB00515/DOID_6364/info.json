@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGbCtD": 0.6068221927095233,
     "CbGdCrCtD": 0.004307387747748074,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08519720591236456,
     "CcSEcCtD": 0.21714519898928697
   },
+  "n_trials": 0.0,
   "prediction": 0.00388409028099109,
   "status": 0,
   "training_prediction": 0.0349627735732197

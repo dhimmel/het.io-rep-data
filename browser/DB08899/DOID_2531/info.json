@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08899",
   "compound_name": "Enzalutamide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.6638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.31181533213660106,
     "CbGbCtD": 0.4775845770523339,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15053863742536736,
     "CrCbGaD": 0.002644003491737745
   },
+  "n_trials": 0.0,
   "prediction": 0.0031429595974805,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

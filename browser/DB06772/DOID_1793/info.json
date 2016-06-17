@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.1624909874501936,
     "CbGdCrCtD": 0.0007842452395537891,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.17093830314574893,
     "CrCtD": 0.2998538531948894
   },
+  "n_trials": 0.0,
   "prediction": 0.0564452668625776,
   "status": 0,
   "training_prediction": 0.125007311031118

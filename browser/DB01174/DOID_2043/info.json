@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.4346989939308769,
     "CbGbCtD": 0.3603073865741012,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07317753664149909,
     "CrCbGaD": 0.0013195515932686093
   },
+  "n_trials": 0.0,
   "prediction": 0.00325779642918787,
   "status": 0,
   "training_prediction": 0.0039527986814247105

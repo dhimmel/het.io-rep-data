@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.18839317121883234,
     "CbGbCtD": 0.6254068727074718,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1516961625471514,
     "CrCbGaD": 0.0005602011405566636
   },
+  "n_trials": 0.0,
   "prediction": 0.00499147650861717,
   "status": 0,
   "training_prediction": 0.0252346530396887

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06718",
   "compound_name": "Stanozolol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.46228868660598205,
   "metapath_contribution": {
     "CbGaD": 0.3907566135916934,
     "CbGbCtD": 0.16163243341367411,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.005076180270823986,
     "CrCrCtD": 0.41012820139063677
   },
+  "n_trials": 0.0,
   "prediction": 0.0034945375492561,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

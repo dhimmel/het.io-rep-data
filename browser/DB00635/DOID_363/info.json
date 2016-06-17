@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.429778933680104,
   "metapath_contribution": {
     "CbGbCtD": 0.30852000862001444,
     "CbGeAlD": 0.028686578445796466,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002865550145494782,
     "CrCrCtD": 0.5066203679602416
   },
+  "n_trials": 0.0,
   "prediction": 0.00151255957261138,
   "status": 0,
   "training_prediction": 0.024902334137145002

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06711",
   "compound_name": "Naphazoline",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.15149544863459,
   "metapath_contribution": {
     "CbGdCrCtD": 0.056086403454049236,
     "CbGeAlD": 0.049644549117254584,
     "CbGpPWpGaD": 0.2590393758380608,
     "CcSEcCtD": 0.6352296715906355
   },
+  "n_trials": 0.0,
   "prediction": 0.0009205336516650529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

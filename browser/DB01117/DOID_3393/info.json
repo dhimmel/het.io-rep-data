@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01117",
   "compound_name": "Atovaquone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.334850455136541,
   "metapath_contribution": {
     "CbGbCtD": 0.851629986206,
     "CbGdCrCtD": 0.010504737883482431,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07734958281962497,
     "CrCbGaD": 0.007842544673012054
   },
+  "n_trials": 0.0,
   "prediction": 0.00172763156611825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

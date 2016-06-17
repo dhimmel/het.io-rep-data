@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8686605981794541,
   "metapath_contribution": {
     "CbGaD": 0.2918473219131951,
     "CbGbCtD": 0.2159984658242598,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0007181513344185536,
     "CrCrCtD": 0.2911632557239397
   },
+  "n_trials": 0.0,
   "prediction": 0.0069655475618356395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

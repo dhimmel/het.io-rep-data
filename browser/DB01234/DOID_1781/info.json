@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.11963589076723,
   "metapath_contribution": {
     "CbGaD": 0.22289545181802956,
     "CbGbCtD": 0.5356717565678718,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10292354282395906,
     "CcSEcCtD": 0.11705658429862348
   },
+  "n_trials": 2.0,
   "prediction": 0.000868561633283436,
   "status": 0,
   "training_prediction": 0.0071079443546405

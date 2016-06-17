@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.7581319081435025,
     "CbGeAlD": 0.10950761628657664,
     "CbGpPWpGaD": 0.12723611593250708,
     "CrCbGaD": 0.005124359637413818
   },
+  "n_trials": 0.0,
   "prediction": 0.00208557342924792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

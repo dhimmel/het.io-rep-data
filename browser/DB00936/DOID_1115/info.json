@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.197659297789337,
   "metapath_contribution": {
     "CbGbCtD": 0.645448599967452,
     "CbGeAlD": 0.1388606546524234,
     "CcSEcCtD": 0.20745060169761384,
     "CrCbGaD": 0.008240143682510822
   },
+  "n_trials": 1.0,
   "prediction": 0.000947550945347934,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

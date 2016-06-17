@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.809492847854356,
   "metapath_contribution": {
     "CbGaD": 0.4404142665471026,
     "CbGbCtD": 0.3885167146554344,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05967827812307347,
     "CcSEcCtD": 0.10482307150171076
   },
+  "n_trials": 0.0,
   "prediction": 0.00337938644483364,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

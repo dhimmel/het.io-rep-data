@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00391",
   "compound_name": "Sulpiride",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.596879063719116,
   "metapath_contribution": {
     "CbGaD": 0.3687785561028041,
     "CbGbCtD": 0.5514675734582739,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06556374396788288,
     "CrCbGaD": 0.004030473542413254
   },
+  "n_trials": 0.0,
   "prediction": 0.0049095277081327,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

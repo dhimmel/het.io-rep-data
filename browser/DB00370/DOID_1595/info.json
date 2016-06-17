@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.7911547943221755,
     "CbGeAlD": 0.08603483582615584,
     "CbGpPWpGaD": 0.11825464585394532,
     "CrCbGaD": 0.0045557239977233105
   },
+  "n_trials": 19.0,
   "prediction": 0.0035615335551916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01046",
   "compound_name": "Lubiprostone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7919375812743821,
   "metapath_contribution": {
     "CbGbCtD": 0.6482519676330323,
     "CbGdCrCtD": 0.004144503913648592,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1469300622427948,
     "CrCbGaD": 0.0045347701051361945
   },
+  "n_trials": 0.0,
   "prediction": 0.0024316728002042104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

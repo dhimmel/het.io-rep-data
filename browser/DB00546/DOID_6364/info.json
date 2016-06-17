@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00546",
   "compound_name": "Adinazolam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.545513654096229,
   "metapath_contribution": {
-    "CbGbCtD": 0.4384005255032366,
-    "CbGeAlD": 0.07375727158232862,
+    "CbGbCtD": 0.43840052550323655,
+    "CbGeAlD": 0.0737572715823286,
     "CbGpPWpGaD": 0.09045198191023592,
-    "CrCbGaD": 0.004854089463395611,
-    "CrCrCtD": 0.39253613154080336
+    "CrCbGaD": 0.00485408946339561,
+    "CrCrCtD": 0.3925361315408033
   },
+  "n_trials": 0.0,
   "prediction": 0.0025921620449792697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

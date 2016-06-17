@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGbCtD": 0.3226849189026091,
     "CbGeAlD": 0.02695975321262553,
     "CcSEcCtD": 0.10992840465950846,
     "CiPCiCtD": 0.540426923225257
   },
+  "n_trials": 0.0,
   "prediction": 0.0054749340468894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

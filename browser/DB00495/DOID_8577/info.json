@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.13573286080969918,
     "CbGbCtD": 0.30290437988075997,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06627045145516712,
     "CiPCiCtD": 0.4443804925989513
   },
+  "n_trials": 0.0,
   "prediction": 0.00782754225388205,
   "status": 0,
   "training_prediction": 0.0263491891306031

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00166",
   "compound_name": "Lipoic Acid",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0968790637191157,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.011267909100992702,
-    "CbGeAlD": 0.4249781258218293,
-    "CbGpPWpGaD": 0.5341654866669081,
-    "CrCbGaD": 0.029588478410270062
+    "CbGdCrCtD": 0.0112679091009927,
+    "CbGeAlD": 0.42497812582182926,
+    "CbGpPWpGaD": 0.534165486666908,
+    "CrCbGaD": 0.02958847841027006
   },
+  "n_trials": 2.0,
   "prediction": 0.00128630449382297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGbCtD": 0.14591091858662625,
     "CcSEcCtD": 0.0601729352894682,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.24505334042910767,
     "CrCtD": 0.3664016556594261
   },
+  "n_trials": 0.0,
   "prediction": 0.0187144895894978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

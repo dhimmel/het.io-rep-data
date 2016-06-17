@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.280884265279584,
   "metapath_contribution": {
     "CbGaD": 0.8296184864788753,
     "CbGeAlD": 0.03976005771698765,
     "CbGpPWpGaD": 0.1252196024550192,
     "CrCbGaD": 0.005401853349118
   },
+  "n_trials": 0.0,
   "prediction": 0.0011551165516742801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.8073313136138449,
     "CbGeAlD": 0.04126784571256689,
     "CbGpPWpGaD": 0.1463698216039925,
     "CrCbGaD": 0.005031019069595745
   },
+  "n_trials": 1.0,
   "prediction": 0.00287738389604564,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

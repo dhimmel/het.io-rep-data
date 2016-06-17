@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.548764629388817,
   "metapath_contribution": {
     "CbGaD": 0.2524811482516649,
     "CbGbCtD": 0.4546742705218134,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19111316759032618,
     "CrCbGaD": 0.0037247105345818497
   },
+  "n_trials": 0.0,
   "prediction": 0.00441830768826796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

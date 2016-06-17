@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00545",
   "compound_name": "Pyridostigmine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.8224695595439192,
     "CbGbCtD": 0.11563399913376908,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.031497050387489685,
     "CrCbGaD": 0.0066223056946436406
   },
+  "n_trials": 0.0,
   "prediction": 0.0031303902226538,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

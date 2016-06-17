@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00690",
   "compound_name": "Flurazepam",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.333550065019506,
   "metapath_contribution": {
     "CbGaD": 0.6491895620900805,
     "CbGeAlD": 0.09787150919007087,
     "CbGpPWpGaD": 0.2436180731771513,
     "CrCbGaD": 0.009320855542697334
   },
+  "n_trials": 0.0,
   "prediction": 0.0012313162613034599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00873",
   "compound_name": "Loteprednol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGbCtD": 0.17637905986143884,
     "CiPCiCtD": 0.3643835826063521,
     "CrCrCtD": 0.1963398611327213,
     "CrCtD": 0.2628974963994879
   },
+  "n_trials": 0.0,
   "prediction": 0.0650135791944427,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

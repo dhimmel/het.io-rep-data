@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00411",
   "compound_name": "Carbachol",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.5890767230169051,
   "metapath_contribution": {
     "CbGbCtD": 0.6845080446566524,
     "CbGdCrCtD": 0.00876699114327192,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.23413505979370128,
     "CrCbGaD": 0.011157259587826663
   },
+  "n_trials": 0.0,
   "prediction": 0.00235140880021947,
   "status": 0,
   "training_prediction": 0.008020089116168591

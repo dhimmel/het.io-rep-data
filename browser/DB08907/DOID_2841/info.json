@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGaD": 0.19588634060656143,
     "CbGbCtD": 0.5541256523570705,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04232963058812418,
     "CcSEcCtD": 0.17233544846802454
   },
+  "n_trials": 0.0,
   "prediction": 0.0045785360997960605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

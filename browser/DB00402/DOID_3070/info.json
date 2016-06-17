@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00402",
   "compound_name": "Eszopiclone",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.831599479843953,
   "metapath_contribution": {
     "CbGaD": 0.6524083856196928,
     "CbGeAlD": 0.07068770183419402,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20015893630035544,
     "CrCbGaD": 0.0050322711356117515
   },
+  "n_trials": 0.0,
   "prediction": 0.00225303765152929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00178",
   "compound_name": "Ramipril",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.67295188556567,
   "metapath_contribution": {
     "CbGaD": 0.4234939706435418,
     "CbGbCtD": 0.2935530578434745,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.22131906568130666,
     "CrCbGaD": 0.004411304883959843
   },
+  "n_trials": 0.0,
   "prediction": 0.0034351561007286897,
   "status": 0,
   "training_prediction": 0.0630070293439243

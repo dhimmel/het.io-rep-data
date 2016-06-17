@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.544863459037711,
   "metapath_contribution": {
     "CbGaD": 0.04919889452007884,
     "CbGbCtD": 0.4195799998099568,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.17394611829931866,
     "CcSEcCtD": 0.2748914779360311
   },
+  "n_trials": 3.0,
   "prediction": 0.00438363986245636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

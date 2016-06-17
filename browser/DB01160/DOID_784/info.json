@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01160",
   "compound_name": "Dinoprost Tromethamine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.7374320020704522,
     "CbGeAlD": 0.10919535116779079,
     "CbGpPWpGaD": 0.15109468913092267,
     "CrCbGaD": 0.0022779576308342335
   },
+  "n_trials": 0.0,
   "prediction": 0.00249805126669121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

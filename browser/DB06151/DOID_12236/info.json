@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.42587776332899896,
   "metapath_contribution": {
     "CbGeAlD": 0.010369751365021142,
     "CbGpPWpGaD": 0.6658961910984271,
     "CcSEcCtD": 0.3109640185552832,
     "CrCbGaD": 0.012770038981268534
   },
+  "n_trials": 0.0,
   "prediction": 0.00145027744255765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

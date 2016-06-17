@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.017555266579974,
   "metapath_contribution": {
     "CbGaD": 0.7251621444745852,
     "CbGeAlD": 0.04529763695794555,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1705166722301204,
     "CrCbGaD": 0.0009476797634183747
   },
+  "n_trials": 0.0,
   "prediction": 0.000569588189081793,
   "status": 0,
   "training_prediction": 0.0046713122986262205

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05109",
   "compound_name": "Trabectedin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGaD": 0.318388281028282,
     "CbGbCtD": 0.4196572537856067,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09294297208225069,
     "CcSEcCtD": 0.14824025575915276
   },
+  "n_trials": 0.0,
   "prediction": 0.00767942233244619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

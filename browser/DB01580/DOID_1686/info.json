@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGbCtD": 0.26613222608588366,
     "CbGdCrCtD": 0.0007929618364995137,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2838420756400893,
     "CrCtD": 0.40900734046484105
   },
+  "n_trials": 0.0,
   "prediction": 0.0241127919422475,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

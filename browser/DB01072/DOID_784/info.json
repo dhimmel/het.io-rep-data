@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01072",
   "compound_name": "Atazanavir",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.504551365409623,
   "metapath_contribution": {
     "CbGaD": 0.8185891416239018,
     "CbGeAlD": 0.030574451604271472,
     "CbGpPWpGaD": 0.13911668438458424,
     "CrCbGaD": 0.01171972238724236
   },
+  "n_trials": 0.0,
   "prediction": 0.00155238686988185,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

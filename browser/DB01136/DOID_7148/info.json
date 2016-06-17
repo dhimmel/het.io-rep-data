@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.5585693008562894,
     "CbGbCtD": 0.2112364478290111,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.10374780858251974,
     "CcSEcCtD": 0.09066488122815765
   },
+  "n_trials": 0.0,
   "prediction": 0.0048984059025506295,
   "status": 0,
   "training_prediction": 0.0157998855878494

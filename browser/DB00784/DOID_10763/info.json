@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5643693107932379,
   "metapath_contribution": {
     "CbGaD": 0.17487528032954047,
     "CbGbCtD": 0.27896309540943776,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003371714836059165,
     "CrCrCtD": 0.3053131340938208
   },
+  "n_trials": 0.0,
   "prediction": 0.0045323471566741606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

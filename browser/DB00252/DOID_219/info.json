@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.43888166449934995,
   "metapath_contribution": {
     "CbGaD": 0.24932335788451318,
     "CbGbCtD": 0.5638788927794319,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14658668090966429,
     "CrCbGaD": 0.0007285158879419095
   },
+  "n_trials": 0.0,
   "prediction": 0.00141995247542811,
   "status": 0,
   "training_prediction": 0.00202624922285644

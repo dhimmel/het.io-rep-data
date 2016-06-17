@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00808",
   "compound_name": "Indapamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.3410369064566537,
     "CbGbCtD": 0.48134796590587586,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09792357026901227,
     "CrCbGaD": 0.0033532532726686364
   },
+  "n_trials": 0.0,
   "prediction": 0.0115501163160722,
   "status": 0,
   "training_prediction": 0.0473953451133767

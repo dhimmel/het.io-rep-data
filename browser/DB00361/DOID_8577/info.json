@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.0806241872561769,
   "metapath_contribution": {
     "CbGaD": 0.3170478136895124,
     "CbGbCtD": 0.3602997100427135,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2172081275883714,
     "CrCbGaD": 0.0028149367131630383
   },
+  "n_trials": 0.0,
   "prediction": 0.0009724304849439991,
   "status": 0,
   "training_prediction": 0.00943621901510505

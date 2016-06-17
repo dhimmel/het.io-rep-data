@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.242522756827048,
   "metapath_contribution": {
     "CbGaD": 0.6324811691847045,
     "CbGbCtD": 0.24724000156220435,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07346977331397068,
     "CrCbGaD": 0.005590880140661278
   },
+  "n_trials": 0.0,
   "prediction": 0.00108553582193149,
   "status": 0,
   "training_prediction": 0.00330452848489395

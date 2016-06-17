@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00418",
   "compound_name": "Secobarbital",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGaD": 0.7523082086117647,
     "CbGbCtD": 0.02763605255450022,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07797299560268739,
     "CrCbGaD": 0.0012755518802499645
   },
+  "n_trials": 0.0,
   "prediction": 0.00251542171985711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

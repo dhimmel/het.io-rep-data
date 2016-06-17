@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.10925217383149607,
     "CbGbCtD": 0.1283070098944037,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.149978611622288,
     "CrCtD": 0.1658016866228686
   },
+  "n_trials": 20.0,
   "prediction": 0.0134300106424539,
   "status": 0,
   "training_prediction": 0.265376062330276

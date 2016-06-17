@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.7678803641092329,
   "metapath_contribution": {
     "CbGaD": 0.6999786659384041,
     "CbGpPWpGaD": 0.013207521670406504,
     "CcSEcCtD": 0.2841212558516444,
     "CrCbGaD": 0.0026925565395450038
   },
+  "n_trials": 0.0,
   "prediction": 0.00286767798614742,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

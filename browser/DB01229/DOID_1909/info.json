@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.1028780269635169,
     "CbGbCtD": 0.13632280947583936,
@@ -15,6 +17,7 @@
     "CrCtD": 0.21513128386494446,
     "CtDrD": 0.13669289303904816
   },
+  "n_trials": 46.0,
   "prediction": 0.34757083188212295,
   "status": 0,
   "training_prediction": 0.735192862189928

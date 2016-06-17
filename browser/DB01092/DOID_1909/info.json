@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.17647058823529396,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.130039011703511,
   "metapath_contribution": {
     "CbGbCtD": 0.5468454741252126,
     "CbGeAlD": 0.24964753222736014,
     "CbGpPWpGaD": 0.20042445127091713,
     "CrCbGaD": 0.0030825423765101344
   },
+  "n_trials": 0.0,
   "prediction": 0.000760060095733524,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.22886866059817898,
   "metapath_contribution": {
     "CbGaD": 0.8819669778960939,
     "CbGeAlD": 0.11682607587688279,
     "CrCbGaD": 0.0012069462270232572
   },
+  "n_trials": 0.0,
   "prediction": 0.00103714325320744,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

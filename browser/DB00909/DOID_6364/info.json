@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.1538643442256415,
     "CbGbCtD": 0.15850826858999345,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.32883624478118373,
     "CtDrD": 0.26369428448838256
   },
+  "n_trials": 2.0,
   "prediction": 0.157304780568978,
   "status": 0,
   "training_prediction": 0.254540938466126

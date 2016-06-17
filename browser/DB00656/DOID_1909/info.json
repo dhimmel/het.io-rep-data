@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.45838751625487606,
   "metapath_contribution": {
     "CbGaD": 0.18695881967897787,
     "CbGbCtD": 0.5551626116873271,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1542299656712029,
     "CrCbGaD": 0.0006946114354727657
   },
+  "n_trials": 0.0,
   "prediction": 0.00134472655197679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

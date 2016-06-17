@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.830299089726918,
   "metapath_contribution": {
     "CbGaD": 0.7997062271252352,
     "CbGeAlD": 0.07125895829261006,
     "CbGpPWpGaD": 0.12134746859283294,
     "CrCbGaD": 0.007687345989321777
   },
+  "n_trials": 0.0,
   "prediction": 0.00223652031974556,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

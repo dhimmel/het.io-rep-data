@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.7153901654291417,
     "CbGeAlD": 0.10159243816204476,
     "CbGpPWpGaD": 0.18301739640881354
   },
+  "n_trials": 1.0,
   "prediction": 0.0028383641083168398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00489",
   "compound_name": "Sotalol",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.296488946684005,
   "metapath_contribution": {
     "CbGbCtD": 0.06263729974852388,
     "CbGpPWpGaD": 0.12237368185115859,
     "CcSEcCtD": 0.8080926832352017,
     "CrCbGaD": 0.006896335165116049
   },
+  "n_trials": 0.0,
   "prediction": 0.00130566315680065,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00690",
   "compound_name": "Flurazepam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.358907672301691,
   "metapath_contribution": {
     "CbGbCtD": 0.40830771933204923,
     "CbGeAlD": 0.06473749119039493,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003879351802754151,
     "CrCrCtD": 0.31472317866371474
   },
+  "n_trials": 0.0,
   "prediction": 0.0020687289923260396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

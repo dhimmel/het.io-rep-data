@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGaD": 0.4221638447554864,
     "CbGbCtD": 0.35995307854965364,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12404400362693772,
     "CrCbGaD": 0.0014695530703874935
   },
+  "n_trials": 0.0,
   "prediction": 0.0041748115202716,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

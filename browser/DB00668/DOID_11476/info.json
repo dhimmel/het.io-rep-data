@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.6131339401820551,
   "metapath_contribution": {
     "CbGaD": 0.3983250896993123,
     "CbGbCtD": 0.39047820845182374,
     "CbGpPWpGaD": 0.09628403325335434,
     "CcSEcCtD": 0.11491266859550954
   },
+  "n_trials": 0.0,
   "prediction": 0.00216822859971034,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

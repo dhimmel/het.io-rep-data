@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00715",
   "compound_name": "Paroxetine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.24941069016417275,
     "CbGbCtD": 0.20906543610943795,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12422188506356345,
     "CpDpCtD": 0.33264027844597877
   },
+  "n_trials": 0.0,
   "prediction": 0.0264443514922671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

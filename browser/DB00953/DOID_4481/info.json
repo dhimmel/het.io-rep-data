@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00953",
   "compound_name": "Rizatriptan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.756176853055917,
   "metapath_contribution": {
     "CbGbCtD": 0.17972839867581625,
     "CcSEcCtD": 0.16204993756948616,
     "CpDpCtD": 0.6529657939772899,
     "CrCbGaD": 0.00525586977740762
   },
+  "n_trials": 0.0,
   "prediction": 0.00350570769746998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00373",
   "compound_name": "Timolol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.17940915443788993,
     "CbGbCtD": 0.2030464877006306,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09876089245616479,
     "CtDrD": 0.48452110997964065
   },
+  "n_trials": 0.0,
   "prediction": 0.0181966130049888,
   "status": 0,
   "training_prediction": 0.20599263993857603

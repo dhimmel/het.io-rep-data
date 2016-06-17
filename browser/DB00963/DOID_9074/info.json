@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.5773732119635889,
   "metapath_contribution": {
     "CbGaD": 0.41846803576559954,
     "CbGbCtD": 0.46240061505060964,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1007378848658789,
     "CrCbGaD": 0.004716692254675718
   },
+  "n_trials": 0.0,
   "prediction": 0.00212356994972213,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

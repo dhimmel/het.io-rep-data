@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00601",
   "compound_name": "Linezolid",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.711192117355732,
     "CbGeAlD": 0.030599317098307953,
     "CbGpPWpGaD": 0.08019067548679168,
     "CcSEcCtD": 0.17801789005916846
   },
+  "n_trials": 0.0,
   "prediction": 0.0035071451227852,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

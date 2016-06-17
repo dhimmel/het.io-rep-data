@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.0661764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.0169050715214564,
   "metapath_contribution": {
     "CbGbCtD": 0.3856077680199935,
     "CbGdCrCtD": 0.002807956484510934,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23178840978179507,
     "CrCbGaD": 0.005404021030625692
   },
+  "n_trials": 0.0,
   "prediction": 0.000600646811080472,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

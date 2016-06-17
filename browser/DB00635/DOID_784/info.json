@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0305591677503251,
   "metapath_contribution": {
     "CbGaD": 0.8220292365865018,
     "CbGeAlD": 0.044632671941060555,
     "CbGpPWpGaD": 0.1254426054059027,
     "CrCbGaD": 0.007895486066534913
   },
+  "n_trials": 1.0,
   "prediction": 0.000645675051480417,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

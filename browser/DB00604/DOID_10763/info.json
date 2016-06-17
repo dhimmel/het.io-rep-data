@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7405721716514949,
   "metapath_contribution": {
     "CbGaD": 0.26720926646257037,
     "CbGbCtD": 0.3863902486841333,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0028459037378774465,
     "CrCrCtD": 0.23010893609569122
   },
+  "n_trials": 0.0,
   "prediction": 0.0079021353679898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

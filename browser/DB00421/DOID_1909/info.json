@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.12808842652795802,
   "metapath_contribution": {
     "CbGaD": 0.4562719206839883,
     "CbGbCtD": 0.04988256423196478,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19631644955364697,
     "CrCbGaD": 0.006978585169016605
   },
+  "n_trials": 0.0,
   "prediction": 0.000754493989852204,
   "status": 0,
   "training_prediction": 0.0022983461099681697

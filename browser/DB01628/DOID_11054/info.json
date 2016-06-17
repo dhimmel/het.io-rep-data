@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGaD": 0.35110441524098573,
     "CbGbCtD": 0.2759913766773535,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18688325479749077,
     "CrCbGaD": 0.0003367924604091592
   },
+  "n_trials": 0.0,
   "prediction": 0.00183352641288613,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

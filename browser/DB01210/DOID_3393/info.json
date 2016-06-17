@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01210",
   "compound_name": "Levobunolol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.16550228241645115,
     "CbGbCtD": 0.13766951694954244,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.23962693276861952,
     "CrCtD": 0.38952129494512844
   },
+  "n_trials": 0.0,
   "prediction": 0.0275305568116773,
   "status": 0,
   "training_prediction": 0.132470208381214

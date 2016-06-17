@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.342652795838752,
   "metapath_contribution": {
     "CbGbCtD": 0.6457163876439869,
     "CbGpPWpGaD": 0.057118867002526205,
     "CcSEcCtD": 0.29430095021346,
     "CrCbGaD": 0.0028637951400270487
   },
+  "n_trials": 0.0,
   "prediction": 0.00137785961562715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

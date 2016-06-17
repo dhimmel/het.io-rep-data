@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.864109232769831,
   "metapath_contribution": {
     "CbGaD": 0.26268732503315756,
     "CbGbCtD": 0.2768690004388352,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0010679475231791535,
     "CrCrCtD": 0.2537398474754156
   },
+  "n_trials": 0.0,
   "prediction": 0.0131625769028794,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

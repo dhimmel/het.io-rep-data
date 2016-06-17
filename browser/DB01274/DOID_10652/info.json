@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01274",
   "compound_name": "Arformoterol",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.746423927178153,
   "metapath_contribution": {
     "CbGaD": 0.27728624301355387,
     "CbGbCtD": 0.4725154881440796,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2154906861141986,
     "CrCbGaD": 0.0003797687721374726
   },
+  "n_trials": 0.0,
   "prediction": 0.0027441213018939803,
   "status": 0,
   "training_prediction": 0.00554160675247031

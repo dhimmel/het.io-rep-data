@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.762946217467939,
     "CbGeAlD": 0.10352700054471609,
     "CbGpPWpGaD": 0.13200352270569046,
     "CrCbGaD": 0.0015232592816544245
   },
+  "n_trials": 0.0,
   "prediction": 0.00245954892483447,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

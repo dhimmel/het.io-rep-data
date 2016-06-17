@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.48244473342002603,
   "metapath_contribution": {
     "CbGaD": 0.783020701498889,
     "CbGeAlD": 0.05867328908891947,
     "CbGpPWpGaD": 0.15131386456926438,
     "CrCbGaD": 0.006992144842927182
   },
+  "n_trials": 0.0,
   "prediction": 0.00151451902555899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

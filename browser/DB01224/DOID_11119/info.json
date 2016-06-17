@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.7868809237839229,
     "CbGeAlD": 0.059881622818077886,
     "CbGpPWpGaD": 0.14578201881773778,
     "CrCbGaD": 0.007455434580261465
   },
+  "n_trials": 0.0,
   "prediction": 0.0026826887821063197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

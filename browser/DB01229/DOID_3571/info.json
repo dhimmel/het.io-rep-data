@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGbCtD": 0.25597570612740245,
     "CbGeAlD": 0.050478259196685825,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10315094403908544,
     "CtDrD": 0.5094927619008264
   },
+  "n_trials": 2.0,
   "prediction": 0.0049673448624241705,
   "status": 0,
   "training_prediction": 0.0138073055705149

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00576",
   "compound_name": "Sulfamethizole",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.682704811443433,
   "metapath_contribution": {
     "CbGaD": 0.4524343406693324,
     "CbGbCtD": 0.4515386760356051,
     "CbGpPWpGaD": 0.09186525319778434,
     "CrCbGaD": 0.004161730097278144
   },
+  "n_trials": 0.0,
   "prediction": 0.0023603985034198103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

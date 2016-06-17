@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00255",
   "compound_name": "Diethylstilbestrol",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
-    "CbGaD": 0.4454656859156256,
-    "CbGbCtD": 0.4319171005244717,
-    "CbGeAlD": 0.02628205280106539,
-    "CbGpPWpGaD": 0.09546409636354602,
-    "CrCbGaD": 0.0008710643952914744
+    "CbGaD": 0.4454656859156255,
+    "CbGbCtD": 0.4319171005244716,
+    "CbGeAlD": 0.026282052801065388,
+    "CbGpPWpGaD": 0.095464096363546,
+    "CrCbGaD": 0.0008710643952914743
   },
+  "n_trials": 0.0,
   "prediction": 0.0034063837088938,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.615084525357607,
   "metapath_contribution": {
     "CbGaD": 0.6924009523751058,
     "CbGeAlD": 0.10116124800534228,
     "CbGpPWpGaD": 0.20643779961955194
   },
+  "n_trials": 1.0,
   "prediction": 0.00445537987026181,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.16136408873251498,
     "CbGbCtD": 0.10522679358969195,
     "CbGpPWpGaD": 0.0124485656488269,
     "CiPCiCtD": 0.7209605520289661
   },
+  "n_trials": 0.0,
   "prediction": 0.0111127299198391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

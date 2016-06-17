@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.232119635890767,
   "metapath_contribution": {
     "CbGeAlD": 0.07841601249181154,
     "CbGpPWpGaD": 0.30620202663767976,
     "CcSEcCtD": 0.5884188669389907,
     "CrCbGaD": 0.02696309393151793
   },
+  "n_trials": 0.0,
   "prediction": 0.00110096160665003,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

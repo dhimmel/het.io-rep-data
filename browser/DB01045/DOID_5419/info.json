@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01045",
   "compound_name": "Rifampicin",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.579973992197659,
   "metapath_contribution": {
     "CbGaD": 0.6382067287086101,
     "CbGeAlD": 0.11638163361823307,
     "CbGpPWpGaD": 0.24093150401554567,
     "CrCbGaD": 0.004480133657611131
   },
+  "n_trials": 0.0,
   "prediction": 0.0017428027950200401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

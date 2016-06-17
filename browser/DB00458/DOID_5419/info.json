@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGaD": 0.740994005349383,
     "CbGeAlD": 0.08753377521797695,
     "CbGpPWpGaD": 0.16423921598660163,
     "CrCbGaD": 0.007233003446038498
   },
+  "n_trials": 0.0,
   "prediction": 0.0018565891462718,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.215864759427828,
   "metapath_contribution": {
     "CbGbCtD": 0.8015808988989513,
     "CbGeAlD": 0.03617693879701197,
     "CbGpPWpGaD": 0.10450763999344545,
     "CcSEcCtD": 0.057734522310591264
   },
+  "n_trials": 2.0,
   "prediction": 0.00114466490533759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.28676470588235303,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.215214564369311,
   "metapath_contribution": {
     "CbGbCtD": 0.36640891662924313,
     "CbGeAlD": 0.11666586830239581,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4408134303795888,
     "CrCbGaD": 0.0034500797189514283
   },
+  "n_trials": 0.0,
   "prediction": 0.00106198025637743,
   "status": 0,
   "training_prediction": 0.0036334801928478797

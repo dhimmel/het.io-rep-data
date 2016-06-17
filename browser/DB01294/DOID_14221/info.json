@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.8114541834036915,
     "CbGeAlD": 0.04652611258708827,
     "CbGpPWpGaD": 0.12295225713745227,
     "CcSEcCtD": 0.01906744687176802
   },
+  "n_trials": 0.0,
   "prediction": 0.00368541119840623,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

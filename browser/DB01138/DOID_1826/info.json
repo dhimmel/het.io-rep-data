@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7555266579973992,
   "metapath_contribution": {
     "CbGaD": 0.20338113424759607,
     "CbGbCtD": 0.42098578268606046,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0031141954571490514,
     "CrCrCtD": 0.3156886478344946
   },
+  "n_trials": 0.0,
   "prediction": 0.00689128248468534,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

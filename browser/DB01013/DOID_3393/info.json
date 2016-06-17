@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0754226267880364,
   "metapath_contribution": {
     "CbGbCtD": 0.1884524267360242,
     "CbGpPWpGaD": 0.14482761627163593,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.006245165773275721,
     "CrCrCtD": 0.45169007989673804
   },
+  "n_trials": 0.0,
   "prediction": 0.0008267504599587769,
   "status": 0,
   "training_prediction": 0.0044431859238079395

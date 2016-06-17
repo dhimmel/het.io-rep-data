@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01394",
   "compound_name": "Colchicine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGbCtD": 0.2679584045422811,
     "CbGeAlD": 0.03365903001817918,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08944770298861089,
     "CtDrD": 0.5968135844058475
   },
+  "n_trials": 0.0,
   "prediction": 0.008481986968819959,
   "status": 0,
   "training_prediction": 0.0170290361703418

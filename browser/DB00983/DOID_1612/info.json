@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00983",
   "compound_name": "Formoterol",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.315344603381014,
   "metapath_contribution": {
     "CbGaD": 0.2153052240077507,
     "CbGbCtD": 0.4784906489257399,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.23091025223693135,
     "CrCbGaD": 0.001698190658925426
   },
+  "n_trials": 0.0,
   "prediction": 0.00166418087682077,
   "status": 0,
   "training_prediction": 0.0152205707814905

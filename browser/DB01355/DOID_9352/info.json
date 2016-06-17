@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01355",
   "compound_name": "Hexobarbital",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8179453836150848,
   "metapath_contribution": {
     "CbGaD": 0.3843058747383241,
     "CbGbCtD": 0.5243916980800352,
     "CbGeAlD": 0.010867161533508961,
     "CbGpPWpGaD": 0.08043526564813176
   },
+  "n_trials": 0.0,
   "prediction": 0.00544837374243904,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

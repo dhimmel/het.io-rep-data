@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.589726918075423,
   "metapath_contribution": {
     "CbGaD": 0.5887777694410677,
     "CbGeAlD": 0.14276531863284844,
     "CbGpPWpGaD": 0.26100116735353923,
     "CrCbGaD": 0.007455744572544714
   },
+  "n_trials": 0.0,
   "prediction": 0.00176529315592248,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

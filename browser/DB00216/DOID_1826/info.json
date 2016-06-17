@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.5988296488946679,
   "metapath_contribution": {
-    "CbGaD": 0.3018549135141576,
-    "CbGbCtD": 0.38553080732921574,
-    "CbGeAlD": 0.049773914543592056,
-    "CbGpPWpGaD": 0.08213754759356387,
-    "CcSEcCtD": 0.17835110210773006,
-    "CrCbGaD": 0.0023517149117407467
+    "CbGaD": 0.30185491351415755,
+    "CbGbCtD": 0.3855308073292157,
+    "CbGeAlD": 0.04977391454359204,
+    "CbGpPWpGaD": 0.08213754759356384,
+    "CcSEcCtD": 0.17835110210773003,
+    "CrCbGaD": 0.002351714911740746
   },
+  "n_trials": 0.0,
   "prediction": 0.00427671646363799,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

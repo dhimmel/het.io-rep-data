@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.2205537483953833,
     "CbGbCtD": 0.14988576122105082,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19164831273102484,
     "CrCtD": 0.34304280751487715
   },
+  "n_trials": 0.0,
   "prediction": 0.00734926405125234,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

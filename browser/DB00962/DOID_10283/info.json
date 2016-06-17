@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00962",
   "compound_name": "Zaleplon",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGaD": 0.4334263560957553,
     "CbGbCtD": 0.3591024677496604,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.050549338516190055,
     "CcSEcCtD": 0.1496226121132119
   },
+  "n_trials": 0.0,
   "prediction": 0.0077727471934187905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

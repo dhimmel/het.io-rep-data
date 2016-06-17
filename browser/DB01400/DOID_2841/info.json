@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01400",
   "compound_name": "Neostigmine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.589726918075423,
   "metapath_contribution": {
     "CbGbCtD": 0.6590447594473695,
     "CbGeAlD": 0.020972807940786924,
     "CbGpPWpGaD": 0.04681069726978532,
     "CcSEcCtD": 0.2731717353420582
   },
+  "n_trials": 0.0,
   "prediction": 0.0028809820045734,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

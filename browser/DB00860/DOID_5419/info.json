@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.0882352941176471,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.007802340702210659,
   "metapath_contribution": {
     "CbGaD": 0.7106336443182436,
     "CbGeAlD": 0.14899716355323026,
     "CbGpPWpGaD": 0.132079822519409,
     "CrCbGaD": 0.008289369609117076
   },
+  "n_trials": 0.0,
   "prediction": 0.000340884940603626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

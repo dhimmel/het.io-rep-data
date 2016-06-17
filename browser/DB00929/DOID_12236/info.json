@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00929",
   "compound_name": "Misoprostol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGeAlD": 0.018230711166545736,
     "CbGpPWpGaD": 0.14690841471299262,
     "CcSEcCtD": 0.7917228297686756,
     "CrCbGaD": 0.04313804435178615
   },
+  "n_trials": 0.0,
   "prediction": 0.00170370257495251,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

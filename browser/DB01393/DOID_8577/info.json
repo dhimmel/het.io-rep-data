@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.13594830270584435,
     "CbGbCtD": 0.22980420926518397,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.21210576895625177,
     "CrCtD": 0.3705462555161511
   },
+  "n_trials": 0.0,
   "prediction": 0.0246465721633165,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

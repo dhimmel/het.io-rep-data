@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGaD": 0.2563698925994456,
     "CbGbCtD": 0.4597852464990022,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09749635622300785,
     "CcSEcCtD": 0.1756320411182777
   },
+  "n_trials": 0.0,
   "prediction": 0.00296969017480141,
   "status": 0,
   "training_prediction": 0.0390385636984074

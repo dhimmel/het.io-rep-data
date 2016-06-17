@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01068",
   "compound_name": "Clonazepam",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.5071521456436929,
   "metapath_contribution": {
     "CbGaD": 0.6831382018804407,
     "CbGbCtD": 0.06805735436212726,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13158967757661558,
     "CrCbGaD": 0.002696881222202698
   },
+  "n_trials": 0.0,
   "prediction": 0.0015761978462714699,
   "status": 0,
   "training_prediction": 0.004039275004346339

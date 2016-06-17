@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.40890225345851083,
     "CbGbCtD": 0.4233480663400407,
     "CbGeAlD": 0.029564018758285356,
     "CbGpPWpGaD": 0.1381856614431631
   },
+  "n_trials": 0.0,
   "prediction": 0.00530543413226254,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGaD": 0.4152540601723985,
     "CbGbCtD": 0.4119113835361115,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07693093369737479,
     "CcSEcCtD": 0.03393936330175317
   },
+  "n_trials": 0.0,
   "prediction": 0.00435271475277773,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

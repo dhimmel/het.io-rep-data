@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5370611183355011,
   "metapath_contribution": {
     "CbGaD": 0.36230277982170184,
     "CbGbCtD": 0.2856625906736599,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19032174161560833,
     "CrCbGaD": 0.0029260218935064307
   },
+  "n_trials": 0.0,
   "prediction": 0.0025377884784068103,
   "status": 0,
   "training_prediction": 0.0311447129864159

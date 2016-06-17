@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGbCtD": 0.1688582031420498,
     "CbGeAlD": 0.019151771330877945,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.509813023188652,
     "CpDpCtD": 0.283811293477122
   },
+  "n_trials": 0.0,
   "prediction": 0.0216751267816756,
   "status": 0,
   "training_prediction": 0.00988157297201671

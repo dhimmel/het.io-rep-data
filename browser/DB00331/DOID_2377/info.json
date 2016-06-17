@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.79778933680104,
   "metapath_contribution": {
     "CbGbCtD": 0.37967186388506413,
     "CbGdCrCtD": 0.006212739840342889,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09720091192602572,
     "CcSEcCtD": 0.21380652994836657
   },
+  "n_trials": 0.0,
   "prediction": 0.00287646660235562,
   "status": 0,
   "training_prediction": 0.0165648894787456

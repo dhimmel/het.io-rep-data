@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.713263979193758,
   "metapath_contribution": {
     "CbGaD": 0.42588993978962214,
     "CbGbCtD": 0.20280114040067151,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003459892726652899,
     "CrCrCtD": 0.18397434276500962
   },
+  "n_trials": 0.0,
   "prediction": 0.00368548334209624,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

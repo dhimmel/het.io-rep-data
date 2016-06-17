@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.786736020806242,
   "metapath_contribution": {
     "CbGbCtD": 0.7358442535514913,
     "CbGeAlD": 0.035559690367361674,
     "CcSEcCtD": 0.2285960560811471
   },
+  "n_trials": 16.0,
   "prediction": 0.00311648677515944,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

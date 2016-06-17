@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.696358907672302,
   "metapath_contribution": {
     "CbGaD": 0.4647751267254292,
     "CbGbCtD": 0.24699017413326138,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15193100730497103,
     "CrCbGaD": 0.0038988717111059445
   },
+  "n_trials": 2.0,
   "prediction": 0.006829716763072121,
   "status": 0,
   "training_prediction": 0.12012433438525999

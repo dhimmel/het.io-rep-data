@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGbCtD": 0.6864220859663679,
     "CbGeAlD": 0.16120417470809176,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.034248468129511433,
     "CrCbGaD": 0.004830099982927233
   },
+  "n_trials": 0.0,
   "prediction": 0.00221543697267185,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGaD": 0.20625118502492565,
     "CbGbCtD": 0.5727647175530686,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10881775133927973,
     "CrCbGaD": 0.001301024104403434
   },
+  "n_trials": 0.0,
   "prediction": 0.00273046077012113,
   "status": 0,
   "training_prediction": 0.00792862175362228

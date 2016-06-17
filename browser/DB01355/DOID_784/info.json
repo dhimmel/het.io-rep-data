@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01355",
   "compound_name": "Hexobarbital",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.8208648696910781,
     "CbGeAlD": 0.052350561377120616,
     "CbGpPWpGaD": 0.12387085123856109,
     "CrCbGaD": 0.002913717693240271
   },
+  "n_trials": 0.0,
   "prediction": 0.0031573311604958898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
     "CbGbCtD": 0.47526251794294705,
     "CbGeAlD": 0.016502845139843476,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.02813623559843306,
     "CrCrCtD": 0.41295564443479826
   },
+  "n_trials": 0.0,
   "prediction": 0.00398211011282374,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

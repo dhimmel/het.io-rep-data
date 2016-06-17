@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01384",
   "compound_name": "Paramethasone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
     "CbGaD": 0.21698365641030123,
     "CbGbCtD": 0.18639889609279778,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.22794330060561535,
     "CrCtD": 0.3370324255615697
   },
+  "n_trials": 0.0,
   "prediction": 0.00409233118932448,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

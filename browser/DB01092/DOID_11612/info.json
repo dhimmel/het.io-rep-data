@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.17945383615084498,
   "metapath_contribution": {
     "CbGaD": 0.7316341042496448,
     "CbGeAlD": 0.12089659126813027,
     "CbGpPWpGaD": 0.13917107293414907,
     "CrCbGaD": 0.008298231548075822
   },
+  "n_trials": 0.0,
   "prediction": 0.000874609867302661,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

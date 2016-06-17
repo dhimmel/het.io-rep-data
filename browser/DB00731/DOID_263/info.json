@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.5351105331599479,
   "metapath_contribution": {
     "CbGaD": 0.2523476593376559,
     "CbGbCtD": 0.5471169522001862,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.09421516507873166,
     "CrCbGaD": 0.0028388953592485377
   },
+  "n_trials": 0.0,
   "prediction": 0.00192699369760847,
   "status": 0,
   "training_prediction": 0.0056041362554522895

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.2560659746757995,
     "CbGbCtD": 0.6804074037410535,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.011271657857456893,
     "CrCbGaD": 0.0002982030646413556
   },
+  "n_trials": 0.0,
   "prediction": 0.00348700319959446,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

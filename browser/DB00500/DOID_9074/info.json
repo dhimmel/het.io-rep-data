@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGaD": 0.16994185526148956,
     "CbGbCtD": 0.2972821339671682,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.39794801904529215,
     "CrCbGaD": 0.0019356475029197236
   },
+  "n_trials": 0.0,
   "prediction": 0.00332267718686884,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

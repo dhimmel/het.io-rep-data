@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.41612483745123496,
   "metapath_contribution": {
     "CbGaD": 0.7144061487611084,
     "CbGeAlD": 0.08392183227985432,
     "CbGpPWpGaD": 0.19965355773872284,
     "CrCbGaD": 0.0020184612203144087
   },
+  "n_trials": 0.0,
   "prediction": 0.00109046958478301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

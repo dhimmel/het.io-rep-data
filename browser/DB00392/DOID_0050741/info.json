@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00392",
   "compound_name": "Ethopropazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.791287386215865,
   "metapath_contribution": {
     "CbGaD": 0.4805144351384449,
     "CbGbCtD": 0.46216169712058763,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03610342469639207,
     "CrCbGaD": 0.005747187387753453
   },
+  "n_trials": 0.0,
   "prediction": 0.00393633134728142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

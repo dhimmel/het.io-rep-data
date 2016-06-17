@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
-    "CbGbCtD": 0.014985068742179778,
-    "CbGeAlD": 0.01990081383196272,
+    "CbGbCtD": 0.014985068742179777,
+    "CbGeAlD": 0.019900813831962717,
     "CcSEcCtD": 0.06839465330439112,
-    "CrCrCtD": 0.8967194641214664
+    "CrCrCtD": 0.8967194641214663
   },
+  "n_trials": 0.0,
   "prediction": 0.00243930872124514,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

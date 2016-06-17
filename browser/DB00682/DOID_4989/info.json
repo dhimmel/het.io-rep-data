@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.41612483745123496,
   "metapath_contribution": {
     "CbGaD": 0.8428340114495354,
     "CbGeAlD": 0.041835791040511126,
     "CbGpPWpGaD": 0.1038277133920786,
     "CrCbGaD": 0.011502484117874799
   },
+  "n_trials": 0.0,
   "prediction": 0.0013217798348605099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

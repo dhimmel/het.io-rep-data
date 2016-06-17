@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.420026007802341,
   "metapath_contribution": {
     "CbGaD": 0.25717989218647186,
     "CbGbCtD": 0.42619658216968903,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17476566678545744,
     "CrCbGaD": 0.0024987935715130535
   },
+  "n_trials": 0.0,
   "prediction": 0.00137544009993953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

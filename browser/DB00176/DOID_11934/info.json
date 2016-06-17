@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.5459752405447615,
     "CbGbCtD": 0.3065363282084216,
     "CbGpPWpGaD": 0.020980266881477645,
     "CcSEcCtD": 0.1265081643653393
   },
+  "n_trials": 0.0,
   "prediction": 0.00388276809322679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

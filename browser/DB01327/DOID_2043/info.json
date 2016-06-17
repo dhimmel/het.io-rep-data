@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.2802375132318657,
     "CbGbCtD": 0.5815015712716713,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10473718487515471,
     "CrCbGaD": 0.0024390161894362653
   },
+  "n_trials": 0.0,
   "prediction": 0.00310684239072955,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

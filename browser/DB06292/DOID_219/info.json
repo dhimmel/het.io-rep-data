@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06292",
   "compound_name": "Dapagliflozin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.36657502137842046,
     "CbGbCtD": 0.4298618128872291,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09902031523503106,
     "CrCbGaD": 0.0032805712312558044
   },
+  "n_trials": 0.0,
   "prediction": 0.0038729518212714796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

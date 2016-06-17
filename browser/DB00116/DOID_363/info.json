@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.6133859304636359,
     "CbGbCtD": 0.09992298127474777,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.13008159579635437,
     "CrCbGaD": 0.002611185533606374
   },
+  "n_trials": 0.0,
   "prediction": 0.00239266835120421,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

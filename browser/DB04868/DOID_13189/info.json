@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.786736020806242,
   "metapath_contribution": {
     "CbGaD": 0.38644823226096203,
     "CbGbCtD": 0.38973296945378355,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.17649074415989252,
     "CrCbGaD": 0.0038033922325468456
   },
+  "n_trials": 0.0,
   "prediction": 0.00365000315443288,
   "status": 0,
   "training_prediction": 0.00802270253919194

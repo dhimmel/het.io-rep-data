@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00435",
   "compound_name": "Nitric Oxide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.717165149544863,
   "metapath_contribution": {
     "CbGbCtD": 0.5678306249079519,
     "CbGeAlD": 0.05701108737164568,
     "CbGpPWpGaD": 0.1474977810345161,
     "CcSEcCtD": 0.22766050668588633
   },
+  "n_trials": 0.0,
   "prediction": 0.00261927091367235,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01576",
   "compound_name": "Dextroamphetamine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.293888166449935,
   "metapath_contribution": {
     "CbGeAlD": 0.0023510874169636363,
     "CbGpPWpGaD": 0.03621329568331514,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0023491799103716876,
     "CrCrCtD": 0.6971437814587556
   },
+  "n_trials": 0.0,
   "prediction": 0.00109866767349597,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

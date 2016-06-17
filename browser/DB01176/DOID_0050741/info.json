@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01176",
   "compound_name": "Cyclizine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.35630689206762,
   "metapath_contribution": {
     "CbGbCtD": 0.6127103371619413,
     "CbGeAlD": 0.053672611638849364,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18540958385815712,
     "CrCbGaD": 0.01511607335283528
   },
+  "n_trials": 0.0,
   "prediction": 0.00170679121953688,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

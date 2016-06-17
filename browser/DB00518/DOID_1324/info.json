@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7698309492847851,
   "metapath_contribution": {
     "CbGaD": 0.2943958834727624,
     "CbGbCtD": 0.5480016701121663,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.08382032283632009,
     "CrCbGaD": 0.0013089811698629406
   },
+  "n_trials": 0.0,
   "prediction": 0.0030560908046161697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

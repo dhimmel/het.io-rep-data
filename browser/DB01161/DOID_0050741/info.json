@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.842002600780234,
   "metapath_contribution": {
     "CbGaD": 0.43590376190992575,
     "CbGbCtD": 0.46154202026517593,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03977788532400164,
     "CrCbGaD": 0.0034073102985433287
   },
+  "n_trials": 0.0,
   "prediction": 0.00477477741234688,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.41222366710013003,
   "metapath_contribution": {
     "CbGbCtD": 0.42565613721629025,
     "CbGeAlD": 0.06381102025918514,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.044496178526983184,
     "CrCrCtD": 0.3770726724520591
   },
+  "n_trials": 0.0,
   "prediction": 0.0015121113294769,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

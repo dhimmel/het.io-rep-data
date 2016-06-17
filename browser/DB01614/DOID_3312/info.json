@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.7951885565669699,
   "metapath_contribution": {
     "CbGaD": 0.8206842590508102,
     "CbGeAlD": 0.0467765372189452,
     "CbGpPWpGaD": 0.12399961963683508,
     "CrCbGaD": 0.00853958409340955
   },
+  "n_trials": 0.0,
   "prediction": 0.00208939429273979,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

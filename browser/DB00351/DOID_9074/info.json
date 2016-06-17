@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.13062157135793392,
     "CbGbCtD": 0.19528905874024402,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2200344570693076,
     "CrCtD": 0.24197664709558867
   },
+  "n_trials": 0.0,
   "prediction": 0.0183195205071723,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

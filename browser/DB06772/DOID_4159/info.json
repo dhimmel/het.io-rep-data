@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGbCtD": 0.1638945443457893,
     "CbGdCrCtD": 0.0006993618537928369,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.172283870237757,
     "CrCtD": 0.30174590674578006
   },
+  "n_trials": 0.0,
   "prediction": 0.0613016228508843,
   "status": 0,
   "training_prediction": 0.126006195691622

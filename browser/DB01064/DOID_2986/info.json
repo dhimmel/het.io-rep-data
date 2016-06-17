@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01064",
   "compound_name": "Isoprenaline",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGaD": 0.698617381876139,
     "CbGeAlD": 0.027923108419063113,
     "CbGpPWpGaD": 0.2724788584166956,
     "CrCbGaD": 0.0009806512881022243
   },
+  "n_trials": 0.0,
   "prediction": 0.00134166893855245,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

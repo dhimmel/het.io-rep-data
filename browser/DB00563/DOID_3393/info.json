@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8407022106631992,
   "metapath_contribution": {
     "CbGaD": 0.17157513486364295,
     "CbGbCtD": 0.5483595402913396,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14720199312273238,
     "CrCbGaD": 0.0006085727449826371
   },
+  "n_trials": 3.0,
   "prediction": 0.00552081070188261,
   "status": 0,
   "training_prediction": 0.261143571599026

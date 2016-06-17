@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06210",
   "compound_name": "Eltrombopag",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5091027308192461,
   "metapath_contribution": {
     "CbGaD": 0.512889974191711,
     "CbGbCtD": 0.3647406205266591,
     "CbGeAlD": 0.0027142234034815923,
     "CbGpPWpGaD": 0.11965518187814825
   },
+  "n_trials": 0.0,
   "prediction": 0.00239188560126906,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

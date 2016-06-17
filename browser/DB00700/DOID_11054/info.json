@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00700",
   "compound_name": "Eplerenone",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.11963589076723,
   "metapath_contribution": {
     "CbGbCtD": 0.019569955189033067,
     "CbGeAlD": 0.049770149732482206,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.6906030291993365,
     "CrCbGaD": 0.006814787690255386
   },
+  "n_trials": 0.0,
   "prediction": 0.000808294137973017,
   "status": 0,
   "training_prediction": 0.00345423569162733

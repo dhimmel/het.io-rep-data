@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.783485045513654,
   "metapath_contribution": {
     "CbGaD": 0.6430565436531386,
     "CbGbCtD": 0.23012609766457895,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07670385743512846,
     "CrCbGaD": 0.004069008786766183
   },
+  "n_trials": 0.0,
   "prediction": 0.00233558676880735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

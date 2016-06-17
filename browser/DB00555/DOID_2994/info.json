@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00555",
   "compound_name": "Lamotrigine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.39401820546163896,
   "metapath_contribution": {
     "CbGbCtD": 0.07191648872179845,
     "CbGeAlD": 0.2246722294548665,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5627906489306311,
     "CrCbGaD": 0.040484142875513704
   },
+  "n_trials": 0.0,
   "prediction": 0.00140652351231709,
   "status": 0,
   "training_prediction": 0.00256982309074801

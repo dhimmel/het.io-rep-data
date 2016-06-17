@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00360",
   "compound_name": "Tetrahydrobiopterin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.43147495875964087,
     "CbGbCtD": 0.4632318337924078,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05907126733263441,
     "CcSEcCtD": 0.011648988482174034
   },
+  "n_trials": 0.0,
   "prediction": 0.00486224718155918,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

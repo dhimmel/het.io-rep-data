@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.3333746965267789,
     "CbGbCtD": 0.3033205566507969,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.001501693111769008,
     "CrCrCtD": 0.17042211788773207
   },
+  "n_trials": 0.0,
   "prediction": 0.0144104241497526,
   "status": 0,
   "training_prediction": 0.0669776499366319

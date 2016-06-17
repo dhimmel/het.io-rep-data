@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.47692957938918673,
     "CbGbCtD": 0.31749831302295056,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.042547438859296224,
     "CrCbGaD": 0.002030290484994825
   },
+  "n_trials": 1.0,
   "prediction": 0.0030285370889963697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

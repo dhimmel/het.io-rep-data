@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGaD": 0.13606856784653962,
     "CbGbCtD": 0.363258124995812,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0013710866462187147,
     "CrCrCtD": 0.2726389859967659
   },
+  "n_trials": 0.0,
   "prediction": 0.0058096948070597105,
   "status": 0,
   "training_prediction": 0.0251913475056383

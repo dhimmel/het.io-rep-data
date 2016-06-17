@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.7657569096912102,
     "CbGeAlD": 0.03210948319218073,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13908190503985832,
     "CrCbGaD": 0.003687598229608083
   },
+  "n_trials": 0.0,
   "prediction": 0.0024240287223205197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06207",
   "compound_name": "Silodosin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8107932379713909,
   "metapath_contribution": {
     "CbGaD": 0.20041176451899054,
     "CbGbCtD": 0.5279843176698542,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16028263752781435,
     "CrCbGaD": 0.002265507162911765
   },
+  "n_trials": 0.0,
   "prediction": 0.00534699819141093,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.22626788036410897,
   "metapath_contribution": {
     "CbGaD": 0.3152068809541609,
     "CbGbCtD": 0.4930336255531418,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09179077595239198,
     "CcSEcCtD": 0.061269340659986016
   },
+  "n_trials": 0.0,
   "prediction": 0.0010106649086154599,
   "status": 0,
   "training_prediction": 0.00180495831026185

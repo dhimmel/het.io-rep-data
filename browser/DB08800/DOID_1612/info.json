@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08800",
   "compound_name": "Chloropyramine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.150195058517555,
   "metapath_contribution": {
     "CbGeAlD": 0.0432900248376406,
     "CbGpPWpGaD": 0.23099639446981035,
     "CrCbGaD": 0.004481301812641471,
     "CrCrCtD": 0.7212322788799076
   },
+  "n_trials": 0.0,
   "prediction": 0.0011352673441756699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

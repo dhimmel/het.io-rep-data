@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00399",
   "compound_name": "Zoledronate",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGbCtD": 0.5214298287326997,
     "CbGeAlD": 0.07585021477589295,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2408996912210966,
     "CrCbGaD": 0.004468286831485742
   },
+  "n_trials": 0.0,
   "prediction": 0.00187133826978735,
   "status": 0,
   "training_prediction": 0.00444510992927131

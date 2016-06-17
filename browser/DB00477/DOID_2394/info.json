@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.081924577373212,
   "metapath_contribution": {
     "CbGaD": 0.20968207341675266,
     "CbGbCtD": 0.3493940813220576,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1271552030111204,
     "CrCbGaD": 0.0007818896413546461
   },
+  "n_trials": 0.0,
   "prediction": 0.000719769102975834,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

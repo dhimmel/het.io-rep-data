@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.6028864077306955,
     "CbGbCtD": 0.21499063273440897,
     "CbGpPWpGaD": 0.0675576330589492,
     "CcSEcCtD": 0.11456532647594642
   },
+  "n_trials": 0.0,
   "prediction": 0.0039234553353615,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

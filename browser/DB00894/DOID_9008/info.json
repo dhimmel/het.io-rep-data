@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00894",
   "compound_name": "Testolactone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGbCtD": 0.12954969359708812,
     "CcSEcCtD": 0.004511275925493593,
     "CrCrCtD": 0.33761287902415726,
     "CrCtD": 0.528326151453261
   },
+  "n_trials": 0.0,
   "prediction": 0.00886119983117545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8465539661898571,
   "metapath_contribution": {
     "CbGbCtD": 0.5515180129847204,
     "CbGdCrCtD": 0.0034870555845638593,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14952771815075844,
     "CrCbGaD": 1.664629287184987e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0037079707931757205,
   "status": 0,
   "training_prediction": 0.0241130619840697

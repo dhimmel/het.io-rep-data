@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.21131339401820498,
   "metapath_contribution": {
     "CbGaD": 0.41474580024363766,
     "CbGbCtD": 0.18275619572909063,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.26195656655683797,
     "CrCbGaD": 0.007229097456806613
   },
+  "n_trials": 0.0,
   "prediction": 0.00191033765059722,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.388166449934981,
   "metapath_contribution": {
     "CbGbCtD": 0.08458922231733358,
     "CbGdCrCtD": 0.01154274530401943,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.30624932487323336,
     "CcSEcCtD": 0.08349198894385602
   },
+  "n_trials": 0.0,
   "prediction": 0.00135242125098834,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

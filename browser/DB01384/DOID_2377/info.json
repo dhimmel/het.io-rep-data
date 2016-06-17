@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01384",
   "compound_name": "Paramethasone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGbCtD": 0.2418466579250283,
     "CrCbGaD": 0.0004075990477896771,
     "CrCrCtD": 0.3179271132219096,
     "CrCtD": 0.4398186298052724
   },
+  "n_trials": 0.0,
   "prediction": 0.010583809189273,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00237",
   "compound_name": "Butabarbital",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.4573249683794146,
     "CbGbCtD": 0.38005103429039705,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04890837949089856,
     "CrCbGaD": 0.004453296800838447
   },
+  "n_trials": 0.0,
   "prediction": 0.0081792797717995,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.4574074293167953,
     "CbGbCtD": 0.3067371414725241,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12760108712001658,
     "CcSEcCtD": 0.0742827737032482
   },
+  "n_trials": 0.0,
   "prediction": 0.00329509240354702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

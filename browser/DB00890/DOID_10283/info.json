@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00890",
   "compound_name": "Dienestrol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.3642037293284856,
     "CbGbCtD": 0.5737299448860871,
     "CbGpPWpGaD": 0.057399900886698725,
     "CrCbGaD": 0.004666424898728651
   },
+  "n_trials": 0.0,
   "prediction": 0.00541077455470083,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

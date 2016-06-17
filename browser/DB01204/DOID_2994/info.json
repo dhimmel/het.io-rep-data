@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.17101609301280246,
     "CbGdCrCtD": 0.0010396142546682436,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.5017296755425755,
     "CtDrD": 0.2407455707730742
   },
+  "n_trials": 0.0,
   "prediction": 0.023473830097492,
   "status": 0,
   "training_prediction": 0.148459535786155

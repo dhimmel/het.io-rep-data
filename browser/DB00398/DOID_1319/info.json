@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.4612981493596133,
     "CbGbCtD": 0.22312874567324947,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09357238151601636,
     "CrCbGaD": 0.006772617889527152
   },
+  "n_trials": 8.0,
   "prediction": 0.00530834594137053,
   "status": 0,
   "training_prediction": 0.0216906076308873

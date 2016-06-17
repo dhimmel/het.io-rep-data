@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.369310793237971,
   "metapath_contribution": {
     "CbGaD": 0.16457076626022077,
     "CbGbCtD": 0.5153210612514129,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17766902975260232,
     "CrCbGaD": 0.00219617303410971
   },
+  "n_trials": 1.0,
   "prediction": 0.0018645521990113699,
   "status": 0,
   "training_prediction": 0.0102634775961241

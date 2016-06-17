@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.33840764424355707,
     "CbGbCtD": 0.49574256823535345,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09333941807444163,
     "CrCbGaD": 0.00030862895982535513
   },
+  "n_trials": 0.0,
   "prediction": 0.0104519568292451,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

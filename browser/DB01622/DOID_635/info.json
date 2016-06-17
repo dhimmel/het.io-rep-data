@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.443433029908973,
   "metapath_contribution": {
     "CbGaD": 0.41636296276930645,
     "CbGbCtD": 0.5366980719156381,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.01435962640621886,
     "CrCbGaD": 0.00021868605007387327
   },
+  "n_trials": 0.0,
   "prediction": 0.0022272802086577698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

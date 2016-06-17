@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.166449934980494,
   "metapath_contribution": {
     "CbGaD": 0.11555442138429879,
     "CbGbCtD": 0.3541417424671853,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.2224277260064018,
     "CrCbGaD": 0.0026921631061376096
   },
+  "n_trials": 0.0,
   "prediction": 0.0012166428096933,
   "status": 0,
   "training_prediction": 0.00416108570733105

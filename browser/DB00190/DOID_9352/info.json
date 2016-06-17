@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00190",
   "compound_name": "Carbidopa",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.24772431729518898,
   "metapath_contribution": {
-    "CbGeAlD": 0.010681929000685052,
-    "CbGpPWpGaD": 0.0965639840556615,
-    "CcSEcCtD": 0.20999709349984785,
+    "CbGeAlD": 0.01068192900068505,
+    "CbGpPWpGaD": 0.09656398405566148,
+    "CcSEcCtD": 0.20999709349984783,
     "CpDpCtD": 0.6772719966324301,
-    "CrCbGaD": 0.005484996811375477
+    "CrCbGaD": 0.005484996811375476
   },
+  "n_trials": 0.0,
   "prediction": 0.00153313049463574,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

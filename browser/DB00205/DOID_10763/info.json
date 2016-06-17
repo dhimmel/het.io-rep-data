@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00205",
   "compound_name": "Pyrimethamine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
     "CbGbCtD": 0.34567444694621,
     "CbGeAlD": 0.009116744839972135,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09520117672504858,
     "CrCrCtD": 0.4957266358686824
   },
+  "n_trials": 0.0,
   "prediction": 0.00814473707548641,
   "status": 0,
   "training_prediction": 0.0894401607661274

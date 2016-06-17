@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.42847854356306897,
   "metapath_contribution": {
     "CbGaD": 0.5305143540612665,
     "CbGbCtD": 0.2299642983513691,
     "CbGpPWpGaD": 0.09081782019751165,
     "CcSEcCtD": 0.14870352738985287
   },
+  "n_trials": 0.0,
   "prediction": 0.0016888648773409401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

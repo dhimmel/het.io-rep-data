@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.11508452535760699,
   "metapath_contribution": {
     "CbGbCtD": 0.41494381464339825,
     "CbGeAlD": 0.09422261930281521,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07582862632913026,
     "CrCbGaD": 0.011709980879932169
   },
+  "n_trials": 0.0,
   "prediction": 0.000845506812989995,
   "status": 0,
   "training_prediction": 0.00289435243897113

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01429",
   "compound_name": "Aprindine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.43433029908972703,
   "metapath_contribution": {
     "CbGbCtD": 0.5851513404047031,
     "CbGeAlD": 0.05672800391069829,
     "CbGpPWpGaD": 0.3538094051615634,
     "CrCbGaD": 0.004311250523035225
   },
+  "n_trials": 0.0,
   "prediction": 0.00130005198967207,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

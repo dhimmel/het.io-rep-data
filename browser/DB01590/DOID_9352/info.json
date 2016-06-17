@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.0871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.28220003137459765,
     "CbGbCtD": 0.29638177590337517,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.24236551150140737,
     "CrCbGaD": 0.002433170466121616
   },
+  "n_trials": 0.0,
   "prediction": 0.000926767517248151,
   "status": 0,
   "training_prediction": 0.00408548641020122

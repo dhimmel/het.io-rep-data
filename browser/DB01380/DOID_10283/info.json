@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.14240223953805545,
     "CbGbCtD": 0.12516917607026098,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2014791307340776,
     "CrCtD": 0.20999328369918485
   },
+  "n_trials": 4.0,
   "prediction": 0.00941710986389609,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

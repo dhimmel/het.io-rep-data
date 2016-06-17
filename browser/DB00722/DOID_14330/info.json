@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.6053315994798439,
   "metapath_contribution": {
     "CbGaD": 0.7404725233607362,
     "CbGeAlD": 0.14557404277956776,
     "CbGpPWpGaD": 0.10417361799610349,
     "CrCbGaD": 0.009779815863592563
   },
+  "n_trials": 0.0,
   "prediction": 0.00160430286474071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGbCtD": 0.3047197803092383,
     "CbGeAlD": 0.014412361608352067,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.5985664842410123,
     "CrCbGaD": 0.00016540642753289238
   },
+  "n_trials": 1.0,
   "prediction": 0.0136977247751578,
   "status": 0,
   "training_prediction": 0.0411441892900989

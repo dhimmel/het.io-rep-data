@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGbCtD": 0.5885343944572767,
     "CbGeAlD": 0.11466066442213772,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.057750598944068254,
     "CrCbGaD": 0.0007866306362439048
   },
+  "n_trials": 0.0,
   "prediction": 0.0018995569185273399,
   "status": 0,
   "training_prediction": 0.000856576755022862

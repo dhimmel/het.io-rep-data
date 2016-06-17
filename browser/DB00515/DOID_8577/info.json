@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.3146855841266314,
     "CbGbCtD": 0.4710834255829923,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.06969912821573947,
     "CcSEcCtD": 0.09300577265211656
   },
+  "n_trials": 0.0,
   "prediction": 0.00939600832047085,
   "status": 0,
   "training_prediction": 0.142084807546683

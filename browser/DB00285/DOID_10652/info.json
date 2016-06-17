@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6898569570871259,
   "metapath_contribution": {
     "CbGaD": 0.34204119429620733,
     "CbGbCtD": 0.3510255728153121,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21658205461492622,
     "CrCbGaD": 0.0033725220163428322
   },
+  "n_trials": 0.0,
   "prediction": 0.00247462928122228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

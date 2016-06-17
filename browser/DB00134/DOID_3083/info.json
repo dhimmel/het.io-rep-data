@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.313394018205462,
   "metapath_contribution": {
     "CbGeAlD": 0.36716926176209985,
     "CbGpPWpGaD": 0.606587753900212,
     "CrCbGaD": 0.02624298433768822
   },
+  "n_trials": 0.0,
   "prediction": 0.0016234528701282698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

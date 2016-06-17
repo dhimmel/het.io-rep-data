@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.5793237971391421,
   "metapath_contribution": {
     "CbGaD": 0.41896781380338943,
     "CbGbCtD": 0.1967035872605676,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21254211816230606,
     "CrCbGaD": 0.0016321072577542724
   },
+  "n_trials": 0.0,
   "prediction": 0.00407096031427059,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

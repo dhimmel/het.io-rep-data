@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.569570871261378,
   "metapath_contribution": {
     "CbGbCtD": 0.8447007165309118,
     "CbGpPWpGaD": 0.018609242539444223,
     "CcSEcCtD": 0.12969797544823358,
     "CrCbGaD": 0.006992065481410224
   },
+  "n_trials": 0.0,
   "prediction": 0.00178662077872621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

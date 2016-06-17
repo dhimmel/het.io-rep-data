@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.6603833252542274,
     "CbGbCtD": 0.2751425461286561,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.042710844325337664,
     "CrCbGaD": 0.0056169887719024906
   },
+  "n_trials": 1.0,
   "prediction": 0.00381375253495373,
   "status": 0,
   "training_prediction": 0.0063738619848382

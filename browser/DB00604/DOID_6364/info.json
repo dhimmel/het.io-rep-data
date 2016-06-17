@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.365395573124651,
     "CbGbCtD": 0.27756787178752496,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0025096744101228015,
     "CrCrCtD": 0.2825640411295933
   },
+  "n_trials": 0.0,
   "prediction": 0.0152314981530681,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00422",
   "compound_name": "Methylphenidate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.44747207017344437,
     "CbGbCtD": 0.3510990085328203,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13984368659154517,
     "CrCbGaD": 0.0032540945947559822
   },
+  "n_trials": 2.0,
   "prediction": 0.0070897222203005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

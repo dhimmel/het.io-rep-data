@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.4317295188556571,
   "metapath_contribution": {
     "CbGaD": 0.1582203440598353,
     "CbGbCtD": 0.5109258499457879,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18259946265738325,
     "CrCbGaD": 0.0026680445911123544
   },
+  "n_trials": 0.0,
   "prediction": 0.00162179163767784,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

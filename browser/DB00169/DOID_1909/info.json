@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.330949284785436,
   "metapath_contribution": {
     "CbGaD": 0.5452684173730975,
     "CbGbCtD": 0.1834837415880722,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1868271589912461,
     "CrCbGaD": 0.007965096260909061
   },
+  "n_trials": 2.0,
   "prediction": 0.0011204181930551,
   "status": 0,
   "training_prediction": 0.0046384473284021704

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01348",
   "compound_name": "Spirapril",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.826397919375813,
   "metapath_contribution": {
     "CbGaD": 0.7869251963220666,
-    "CbGeAlD": 0.12060260254422896,
+    "CbGeAlD": 0.12060260254422894,
     "CbGpPWpGaD": 0.0847267377059421,
-    "CrCbGaD": 0.0077454634277623205
+    "CrCbGaD": 0.00774546342776232
   },
+  "n_trials": 0.0,
   "prediction": 0.00171797124873516,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

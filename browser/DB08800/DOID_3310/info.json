@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08800",
   "compound_name": "Chloropyramine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.761378413524057,
   "metapath_contribution": {
     "CbGbCtD": 0.3811125697205822,
     "CbGeAlD": 0.01904509886914102,
     "CbGpPWpGaD": 0.030210159506772385,
     "CrCrCtD": 0.5696321719035043
   },
+  "n_trials": 0.0,
   "prediction": 0.00314219638282988,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.279411764705882,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.0689206762028609,
   "metapath_contribution": {
     "CbGbCtD": 0.42849606461890266,
     "CbGeAlD": 0.06585927578857119,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.48467312962556375,
     "CrCbGaD": 0.020358087035971525
   },
+  "n_trials": 0.0,
   "prediction": 0.00083888628473443,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

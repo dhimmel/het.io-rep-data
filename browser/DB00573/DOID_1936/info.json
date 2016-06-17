@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.36150845253576097,
   "metapath_contribution": {
     "CbGaD": 0.6161105697571219,
     "CbGbCtD": 0.07317506567266498,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14956221097088976,
     "CrCbGaD": 0.006503043762353039
   },
+  "n_trials": 0.0,
   "prediction": 0.00146838695087848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

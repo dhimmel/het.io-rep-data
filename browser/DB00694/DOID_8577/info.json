@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.156697009102731,
   "metapath_contribution": {
     "CbGaD": 0.15379825544599413,
     "CbGbCtD": 0.5569195389646461,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.0721536929686552,
     "CcSEcCtD": 0.15391048475110397
   },
+  "n_trials": 0.0,
   "prediction": 0.00119058730179579,
   "status": 0,
   "training_prediction": 0.00407222938655936

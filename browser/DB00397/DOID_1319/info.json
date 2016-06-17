@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.335500650195059,
   "metapath_contribution": {
     "CbGbCtD": 0.13787369773368657,
     "CbGeAlD": 0.47218258791362216,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2964470040829207,
     "CrCbGaD": 0.02820204346357065
   },
+  "n_trials": 0.0,
   "prediction": 0.00124853073207392,
   "status": 0,
   "training_prediction": 0.00228145706985299

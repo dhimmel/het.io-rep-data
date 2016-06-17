@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.269180754226268,
   "metapath_contribution": {
     "CbGaD": 0.5341550222155073,
     "CbGeAlD": 0.05199445866928479,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.30703113981090396,
     "CrCbGaD": 0.006769049158604883
   },
+  "n_trials": 0.0,
   "prediction": 0.00109279241312471,
   "status": 0,
   "training_prediction": 0.0015596152795503801

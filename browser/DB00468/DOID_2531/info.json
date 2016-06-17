@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.2186106558953138,
     "CbGbCtD": 0.5012287225955167,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16642818344772728,
     "CrCbGaD": 0.0008373034410359178
   },
+  "n_trials": 0.0,
   "prediction": 0.00609421508851215,
   "status": 0,
   "training_prediction": 0.0528719863264615

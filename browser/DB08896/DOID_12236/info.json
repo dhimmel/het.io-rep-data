@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08896",
   "compound_name": "Regorafenib",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.41742522756827005,
   "metapath_contribution": {
     "CbGaD": 0.39777170091200964,
     "CbGbCtD": 0.2554061102269832,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11236294593349291,
     "CrCbGaD": 0.00387843481164007
   },
+  "n_trials": 0.0,
   "prediction": 0.00142566684775457,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

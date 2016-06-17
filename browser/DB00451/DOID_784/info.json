@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6521456436931079,
   "metapath_contribution": {
     "CbGaD": 0.6976813220158151,
     "CbGeAlD": 0.09261862724332333,
     "CbGpPWpGaD": 0.20681784728761524,
     "CrCbGaD": 0.002882203453246364
   },
+  "n_trials": 0.0,
   "prediction": 0.0019433460604539301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.444181073624714,
     "CbGbCtD": 0.13029551772511097,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1514924716767613,
     "CcSEcCtD": 0.17931808682302858
   },
+  "n_trials": 0.0,
   "prediction": 0.00332532682589431,
   "status": 0,
   "training_prediction": 0.00403467736454169

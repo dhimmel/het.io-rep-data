@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.5435630689206761,
   "metapath_contribution": {
     "CbGbCtD": 0.6276085780480907,
     "CbGeAlD": 0.08859423616938328,
     "CbGpPWpGaD": 0.03250552993906066,
     "CcSEcCtD": 0.25129165584346536
   },
+  "n_trials": 0.0,
   "prediction": 0.00169773294711478,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

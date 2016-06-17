@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGbCtD": 0.27328478100785203,
     "CbGdCrCtD": 0.0017685990092838224,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.3338729254761915,
     "CrCtD": 0.3602945478607986
   },
+  "n_trials": 0.0,
   "prediction": 0.007592382368920241,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

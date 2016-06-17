@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.27568270481144297,
   "metapath_contribution": {
     "CbGbCtD": 0.15968240939278572,
     "CbGdCrCtD": 0.005439744155946324,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0022273079240285928,
     "CrCrCtD": 0.7194958798417616
   },
+  "n_trials": 0.0,
   "prediction": 0.00161328139910675,
   "status": 0,
   "training_prediction": 0.00551234636739996

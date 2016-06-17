@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06287",
   "compound_name": "Temsirolimus",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.660598179453836,
   "metapath_contribution": {
     "CbGaD": 0.777609066262597,
     "CbGbCtD": 0.11396296085299235,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.04276832859268108,
     "CrCbGaD": 0.00834477691677063
   },
+  "n_trials": 0.0,
   "prediction": 0.00166876465794135,
   "status": 0,
   "training_prediction": 0.000752408913520607

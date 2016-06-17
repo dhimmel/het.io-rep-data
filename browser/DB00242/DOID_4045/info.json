@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGbCtD": 0.12437994887672513,
     "CbGdCrCtD": 0.003094842316582381,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08872400360532079,
     "CtDrD": 0.6983395478164555
   },
+  "n_trials": 0.0,
   "prediction": 0.00289211665142248,
   "status": 0,
   "training_prediction": 0.00783095815547009

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGbCtD": 0.19504467177734433,
     "CbGdCrCtD": 0.0009607664514146493,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.5002511607342768,
     "CtDrD": 0.22299018791855776
   },
+  "n_trials": 0.0,
   "prediction": 0.0319094067352692,
   "status": 0,
   "training_prediction": 0.19293606189283102

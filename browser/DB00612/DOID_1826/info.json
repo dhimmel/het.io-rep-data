@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00612",
   "compound_name": "Bisoprolol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.347854356306892,
   "metapath_contribution": {
     "CbGaD": 0.26515903277109115,
     "CbGbCtD": 0.3721823290671338,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2955189875975585,
     "CrCbGaD": 0.0032315158402906026
   },
+  "n_trials": 0.0,
   "prediction": 0.00239552097544329,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

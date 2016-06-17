@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.6989596879063721,
   "metapath_contribution": {
     "CbGbCtD": 0.6700871959106556,
     "CbGeAlD": 0.12817392550264783,
     "CbGpPWpGaD": 0.11553721031225321,
     "CcSEcCtD": 0.08620166827444342
   },
+  "n_trials": 0.0,
   "prediction": 0.0019388777960068898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

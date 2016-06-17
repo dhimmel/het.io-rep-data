@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00693",
   "compound_name": "Fluorescein",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.3275146700733081,
     "CbGbCtD": 0.5057578765799439,
     "CbGpPWpGaD": 0.04306513770473543,
     "CcSEcCtD": 0.12366231564201265
   },
+  "n_trials": 0.0,
   "prediction": 0.0066634057509586,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB06698",
   "compound_name": "Betahistine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.8925672213817579,
     "CbGeAlD": 0.013787423816929814,
     "CbGpPWpGaD": 0.0936453548013123
   },
+  "n_trials": 1.0,
   "prediction": 0.00639058465816109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

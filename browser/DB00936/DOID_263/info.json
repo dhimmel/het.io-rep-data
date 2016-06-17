@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.419375812743823,
   "metapath_contribution": {
     "CbGaD": 0.4800432509669302,
     "CbGbCtD": 0.3189966379131675,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09619532125882972,
     "CrCbGaD": 0.005466136463965496
   },
+  "n_trials": 0.0,
   "prediction": 0.00156766487401388,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

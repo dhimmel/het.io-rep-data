@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01247",
   "compound_name": "Isocarboxazid",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7899869960988299,
   "metapath_contribution": {
     "CbGaD": 0.7628107134005891,
     "CbGeAlD": 0.0328202272434017,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11549257590992049,
     "CrCbGaD": 0.0028655380441758157
   },
+  "n_trials": 1.0,
   "prediction": 0.00313912003475626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

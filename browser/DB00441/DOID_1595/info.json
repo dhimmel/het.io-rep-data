@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.11183355006502001,
   "metapath_contribution": {
-    "CbGeAlD": 0.7226578349121315,
-    "CbGpPWpGaD": 0.27328957120788394,
-    "CrCbGaD": 0.004052593879984407
+    "CbGeAlD": 0.7226578349121316,
+    "CbGpPWpGaD": 0.273289571207884,
+    "CrCbGaD": 0.0040525938799844076
   },
+  "n_trials": 0.0,
   "prediction": 0.000953259101950717,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

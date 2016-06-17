@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.37397062423098376,
     "CbGbCtD": 0.45080452622071465,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0416140722906081,
     "CcSEcCtD": 0.0662065470373521
   },
+  "n_trials": 0.0,
   "prediction": 0.0032171032545375397,
   "status": 0,
   "training_prediction": 0.00764892360867502

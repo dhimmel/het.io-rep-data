@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01232",
   "compound_name": "Saquinavir",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.615084525357607,
   "metapath_contribution": {
     "CbGaD": 0.11475889705921757,
     "CbGbCtD": 0.6048116990332036,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19142625196141091,
     "CrCbGaD": 0.00035711273567488693
   },
+  "n_trials": 0.0,
   "prediction": 0.0018361287309000102,
   "status": 0,
   "training_prediction": 0.004044629996962979

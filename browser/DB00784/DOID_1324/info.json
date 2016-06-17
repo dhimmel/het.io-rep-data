@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.724317295188557,
   "metapath_contribution": {
     "CbGaD": 0.5346970279751845,
     "CbGbCtD": 0.24592225805341575,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1251430690495933,
     "CrCbGaD": 0.00408779240550172
   },
+  "n_trials": 0.0,
   "prediction": 0.00271869997367081,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

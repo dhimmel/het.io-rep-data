@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.5143872071019548,
     "CbGbCtD": 0.04581056052626085,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.20597007921600177,
     "CrCbGaD": 0.004545727449199437
   },
+  "n_trials": 1.0,
   "prediction": 0.0017461373639024698,
   "status": 0,
   "training_prediction": 0.00211933541110846

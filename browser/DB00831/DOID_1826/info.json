@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGaD": 0.1396062858996329,
     "CbGbCtD": 0.19587999483764418,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.002285188591238393,
     "CrCrCtD": 0.21161890660205096
   },
+  "n_trials": 0.0,
   "prediction": 0.007166026867196329,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

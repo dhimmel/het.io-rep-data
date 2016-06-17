@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00202",
   "compound_name": "Succinylcholine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.9593588010066921,
     "CbGeAlD": 0.004426860806546861,
     "CbGpPWpGaD": 0.03221224109750922,
     "CrCbGaD": 0.004002097089251863
   },
+  "n_trials": 0.0,
   "prediction": 0.00215483337915004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

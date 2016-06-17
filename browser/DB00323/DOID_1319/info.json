@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00323",
   "compound_name": "Tolcapone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.6235370611183361,
   "metapath_contribution": {
     "CbGaD": 0.825629309092106,
     "CbGeAlD": 0.01800913175289537,
     "CcSEcCtD": 0.14865459128902886,
     "CrCbGaD": 0.0077069678659699
   },
+  "n_trials": 1.0,
   "prediction": 0.00185775087814007,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

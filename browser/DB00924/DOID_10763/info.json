@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGaD": 0.13873009357814425,
     "CbGbCtD": 0.34145424018672105,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0033234398451565273,
     "CrCrCtD": 0.2797555385241297
   },
+  "n_trials": 0.0,
   "prediction": 0.00391899485264095,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

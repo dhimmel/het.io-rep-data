@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.5988296488946679,
   "metapath_contribution": {
     "CbGaD": 0.7656116188101585,
     "CbGpPWpGaD": 0.11534129372784858,
     "CcSEcCtD": 0.11112424477781539,
     "CrCbGaD": 0.007922842684177499
   },
+  "n_trials": 0.0,
   "prediction": 0.00163301945715636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

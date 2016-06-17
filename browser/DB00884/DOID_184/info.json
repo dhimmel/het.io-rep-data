@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00884",
   "compound_name": "Risedronate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.2749684444018394,
     "CbGbCtD": 0.029368562922204796,
@@ -11,6 +13,7 @@
     "CrCbGaD": 7.346032277951537e-05,
     "CtDrD": 0.6288135015414915
   },
+  "n_trials": 0.0,
   "prediction": 0.00552511973167559,
   "status": 0,
   "training_prediction": 0.0130584263198126

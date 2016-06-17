@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8459037711313391,
   "metapath_contribution": {
     "CbGaD": 0.16966654127191994,
     "CbGbCtD": 0.3708750070767728,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0025279033038520574,
     "CrCrCtD": 0.3378098978802514
   },
+  "n_trials": 0.0,
   "prediction": 0.00607882418392646,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

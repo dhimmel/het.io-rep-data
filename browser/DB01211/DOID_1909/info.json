@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.08103294941017657,
     "CbGbCtD": 0.20565020894462763,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.6486037162920117,
     "CrCbGaD": 0.0004498763965587355
   },
+  "n_trials": 0.0,
   "prediction": 0.00339426432877702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.7826794379312854,
     "CbGeAlD": 0.1148967803228308,
     "CbGpPWpGaD": 0.09949464684752103,
     "CrCbGaD": 0.002929134898362764
   },
+  "n_trials": 0.0,
   "prediction": 0.00259857578157603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

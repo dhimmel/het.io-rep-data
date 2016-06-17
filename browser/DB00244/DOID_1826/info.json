@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.124837451235371,
   "metapath_contribution": {
     "CbGaD": 0.2442579575213387,
     "CbGbCtD": 0.06524965360971902,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.42729989500707966,
     "CrCbGaD": 0.00457164346135929
   },
+  "n_trials": 0.0,
   "prediction": 0.00134160440873309,
   "status": 0,
   "training_prediction": 0.0108964417370261

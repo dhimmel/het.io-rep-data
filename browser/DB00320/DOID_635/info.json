@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.628088426527958,
   "metapath_contribution": {
     "CbGbCtD": 0.6401040735853543,
     "CbGeAlD": 0.030878630088836408,
     "CbGpPWpGaD": 0.02742379808326011,
     "CcSEcCtD": 0.30159349824254916
   },
+  "n_trials": 0.0,
   "prediction": 0.00297380106379297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01353",
   "compound_name": "Butethal",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.45058517555266603,
   "metapath_contribution": {
-    "CbGeAlD": 0.867723690757837,
+    "CbGeAlD": 0.8677236907578371,
     "CbGpPWpGaD": 0.12562880676642124,
-    "CrCbGaD": 0.006647502475741749
+    "CrCbGaD": 0.006647502475741751
   },
+  "n_trials": 0.0,
   "prediction": 0.00132116226011474,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

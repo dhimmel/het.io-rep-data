@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01004",
   "compound_name": "Ganciclovir",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8068920676202859,
   "metapath_contribution": {
     "CbGbCtD": 0.13295703772116993,
     "CbGpPWpGaD": 0.034419430289709244,
     "CcSEcCtD": 0.11569097385979052,
     "CiPCiCtD": 0.7169325581293303
   },
+  "n_trials": 0.0,
   "prediction": 0.0036437707289223,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

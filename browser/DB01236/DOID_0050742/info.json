@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.6834537399318894,
     "CbGeAlD": 0.05282169629322031,
     "CbGpPWpGaD": 0.18441957535784398,
     "CcSEcCtD": 0.0793049884170464
   },
+  "n_trials": 0.0,
   "prediction": 0.00509626207855185,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

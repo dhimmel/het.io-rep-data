@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.8037741205793151,
     "CbGeAlD": 0.057106662830240434,
     "CbGpPWpGaD": 0.13233968757144685,
     "CrCbGaD": 0.006779529018997688
   },
+  "n_trials": 0.0,
   "prediction": 0.00412840099159549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00452",
   "compound_name": "Framycetin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGeAlD": 0.01844837035795802,
     "CbGpPWpGaD": 0.04425662927055697,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3399600670146106,
     "CrCtD": 0.5709579718537986
   },
+  "n_trials": 0.0,
   "prediction": 0.0103762066588369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

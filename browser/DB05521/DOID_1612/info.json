@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.610533159947984,
   "metapath_contribution": {
     "CbGaD": 0.3178866336647696,
     "CbGbCtD": 0.3650000509098818,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1365391380452968,
     "CrCbGaD": 0.001828318672989737
   },
+  "n_trials": 0.0,
   "prediction": 0.00297496385876302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

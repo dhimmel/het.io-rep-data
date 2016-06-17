@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.22886866059817898,
   "metapath_contribution": {
     "CbGaD": 0.30965079689294944,
     "CbGbCtD": 0.29231652272710856,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0028607828043275435,
     "CrCrCtD": 0.2011926874879612
   },
+  "n_trials": 0.0,
   "prediction": 0.00138521386025474,
   "status": 0,
   "training_prediction": 0.00473568753137348

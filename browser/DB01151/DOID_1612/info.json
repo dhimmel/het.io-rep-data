@@ -1,18 +1,20 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.484395318595579,
   "metapath_contribution": {
-    "CbGaD": 0.1904398248553664,
-    "CbGbCtD": 0.41477938186709495,
-    "CbGeAlD": 0.030487195117130873,
-    "CbGpPWpGaD": 0.11179861543755504,
+    "CbGaD": 0.19043982485536637,
+    "CbGbCtD": 0.4147793818670949,
+    "CbGeAlD": 0.030487195117130866,
+    "CbGpPWpGaD": 0.11179861543755501,
     "CcSEcCtD": 0.12963969978842269,
-    "CrCbGaD": 0.00304182644596521,
-    "CrCrCtD": 0.11981345648846489
+    "CrCbGaD": 0.0030418264459652097,
+    "CrCrCtD": 0.11981345648846486
   },
+  "n_trials": 0.0,
   "prediction": 0.0022715193463903,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

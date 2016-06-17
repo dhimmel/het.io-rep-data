@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.8730759501139331,
     "CbGbCtD": 0.03435172327811229,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.027187059931412117,
     "CcSEcCtD": 0.05083915213075379
   },
+  "n_trials": 0.0,
   "prediction": 0.0033340261163366,
   "status": 0,
   "training_prediction": 0.00475371072921755

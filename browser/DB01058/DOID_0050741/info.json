@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01058",
   "compound_name": "Praziquantel",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.756176853055917,
   "metapath_contribution": {
     "CbGbCtD": 0.6747025134481138,
     "CbGeAlD": 0.012537801976990866,
     "CbGpPWpGaD": 0.1805394317933425,
     "CcSEcCtD": 0.1322202527815528
   },
+  "n_trials": 0.0,
   "prediction": 0.0035566318516414702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

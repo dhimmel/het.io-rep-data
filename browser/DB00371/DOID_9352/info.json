@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00371",
   "compound_name": "Meprobamate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.3155449363580931,
     "CbGbCtD": 0.4196252592544274,
     "CbGpPWpGaD": 0.08738026190203001,
     "CcSEcCtD": 0.17744954248544947
   },
+  "n_trials": 0.0,
   "prediction": 0.00487549731904021,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

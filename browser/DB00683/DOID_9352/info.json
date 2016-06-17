@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.484395318595579,
   "metapath_contribution": {
     "CbGaD": 0.2975606142250332,
     "CbGbCtD": 0.34401657109292333,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19245120879245903,
     "CrCbGaD": 0.002592988026533948
   },
+  "n_trials": 3.0,
   "prediction": 0.00244298482776119,
   "status": 0,
   "training_prediction": 0.0107140364221774

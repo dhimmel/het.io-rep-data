@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.552015604681404,
   "metapath_contribution": {
     "CbGaD": 0.20138765476268017,
     "CbGbCtD": 0.4904674820118337,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1654026464892991,
     "CrCbGaD": 0.0024745425480474058
   },
+  "n_trials": 0.0,
   "prediction": 0.00264325006754207,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

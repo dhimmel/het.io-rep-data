@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:8850",
   "disease_name": "salivary gland cancer",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.8234754718386529,
     "CbGeAlD": 0.03577744921911223,
     "CbGpPWpGaD": 0.14074707894223493
   },
+  "n_trials": 0.0,
   "prediction": 0.00256985208289197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

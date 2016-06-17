@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.540962288686606,
   "metapath_contribution": {
     "CbGaD": 0.5770048426557397,
     "CbGbCtD": 0.1416947764897507,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1745886868626521,
     "CrCbGaD": 0.002391846603837294
   },
+  "n_trials": 1.0,
   "prediction": 0.0014692480110421401,
   "status": 0,
   "training_prediction": 0.00108358613381362

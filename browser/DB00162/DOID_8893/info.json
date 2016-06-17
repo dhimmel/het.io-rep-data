@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGbCtD": 0.2520307116704433,
     "CbGeAlD": 0.011132158099890198,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.28253897762683133,
     "CrCtD": 0.44059029877591493
   },
+  "n_trials": 0.0,
   "prediction": 0.0178093915537558,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

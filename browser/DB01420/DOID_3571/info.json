@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01420",
   "compound_name": "Testosterone Propionate",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.15604681404421303,
   "metapath_contribution": {
     "CbGbCtD": 0.5261560478703654,
     "CbGpPWpGaD": 0.3012142699051888,
     "CcSEcCtD": 0.16304826336251627,
     "CrCbGaD": 0.009581418861929425
   },
+  "n_trials": 0.0,
   "prediction": 0.000834348030027916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

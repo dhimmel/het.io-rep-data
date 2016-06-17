@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGbCtD": 0.18071051741502647,
     "CbGdCrCtD": 0.0020842711894041243,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2962278166570456,
     "CrCtD": 0.4476651863637653
   },
+  "n_trials": 0.0,
   "prediction": 0.0136264213597024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

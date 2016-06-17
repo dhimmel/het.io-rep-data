@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.3858778214534977,
     "CbGbCtD": 0.3909886366244732,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.07191661068693284,
     "CbGpPWpGaD": 0.1490702571605264
   },
+  "n_trials": 0.0,
   "prediction": 0.00985679241987287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

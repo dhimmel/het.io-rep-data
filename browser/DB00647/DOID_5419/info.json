@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00647",
   "compound_name": "Dextropropoxyphene",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.0916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.6868511416170554,
     "CbGeAlD": 0.10336025279187736,
     "CbGpPWpGaD": 0.19168780830500082,
     "CrCbGaD": 0.018100797286066443
   },
+  "n_trials": 0.0,
   "prediction": 0.00076692067944262,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

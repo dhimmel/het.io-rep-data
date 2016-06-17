@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.456683243446846,
     "CbGbCtD": 0.31552259582276926,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.10312853841068108,
     "CcSEcCtD": 0.08357727798713978
   },
+  "n_trials": 0.0,
   "prediction": 0.00466806535450685,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

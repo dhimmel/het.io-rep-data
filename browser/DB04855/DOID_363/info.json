@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.565669700910273,
   "metapath_contribution": {
     "CbGbCtD": 0.3883116311554851,
     "CbGeAlD": 0.19294093382442537,
     "CbGpPWpGaD": 0.20356953779324805,
     "CcSEcCtD": 0.21517789722684152
   },
+  "n_trials": 0.0,
   "prediction": 0.00182334421516219,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

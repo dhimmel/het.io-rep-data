@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.10726053468467588,
     "CbGbCtD": 0.2350407140698799,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2512152621472724,
     "CrCtD": 0.317701266998451
   },
+  "n_trials": 0.0,
   "prediction": 0.0237233150063678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

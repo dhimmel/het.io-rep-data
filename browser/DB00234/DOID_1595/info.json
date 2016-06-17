@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.9180996684384327,
     "CbGeAlD": 0.049647293155504466,
     "CbGpPWpGaD": 0.0290200924189793,
     "CrCbGaD": 0.003232945987083534
   },
+  "n_trials": 4.0,
   "prediction": 0.0031945388345903302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

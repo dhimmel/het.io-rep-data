@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGaD": 0.46222740875461593,
     "CbGbCtD": 0.17543993651527834,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1230339530830508,
     "CrCbGaD": 0.003186698055106565
   },
+  "n_trials": 0.0,
   "prediction": 0.00139732859934799,
   "status": 0,
   "training_prediction": 0.00307966813051775

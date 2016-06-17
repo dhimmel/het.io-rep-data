@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01576",
   "compound_name": "Dextroamphetamine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.486345903771131,
   "metapath_contribution": {
     "CbGaD": 0.36544699536089537,
     "CbGbCtD": 0.27952568939142824,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1793161922255355,
     "CrCbGaD": 0.007177338504215772
   },
+  "n_trials": 1.0,
   "prediction": 0.00181043429791539,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

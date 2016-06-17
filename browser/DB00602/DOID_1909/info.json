@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.18560669872338995,
     "CbGbCtD": 0.6677859775110838,
     "CbGpPWpGaD": 0.06510393955941667,
     "CcSEcCtD": 0.0815033842061096
   },
+  "n_trials": 0.0,
   "prediction": 0.00460327050140157,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

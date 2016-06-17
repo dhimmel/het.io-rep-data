@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.1324587463737458,
     "CbGbCtD": 0.47577229098466145,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0043273723995835255,
     "CrCrCtD": 0.07358349837433951
   },
+  "n_trials": 0.0,
   "prediction": 0.000927625862774482,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

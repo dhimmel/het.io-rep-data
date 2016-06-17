@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00175",
   "compound_name": "Pravastatin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGaD": 0.1974844062670255,
     "CbGbCtD": 0.5288661818137378,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17988130944687403,
     "CrCbGaD": 0.004557326695058325
   },
+  "n_trials": 5.0,
   "prediction": 0.0027137726456263,
   "status": 0,
   "training_prediction": 0.0396542367995479

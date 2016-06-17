@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGbCtD": 0.2625932745704287,
     "CbGeAlD": 0.01751897399789911,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.23846697330968897,
     "CrCtD": 0.44361218124904633
   },
+  "n_trials": 0.0,
   "prediction": 0.028440077096418,
   "status": 0,
   "training_prediction": 0.0215347791570746

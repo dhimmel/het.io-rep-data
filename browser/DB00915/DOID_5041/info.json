@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGaD": 0.5642233127579679,
     "CbGbCtD": 0.10988398915078836,
     "CbGpPWpGaD": 0.2023985061961031,
     "CcSEcCtD": 0.1234941918951406
   },
+  "n_trials": 0.0,
   "prediction": 0.00231081056608756,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

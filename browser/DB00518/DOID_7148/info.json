@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.228218465539662,
   "metapath_contribution": {
     "CbGbCtD": 0.6952152663492909,
     "CbGeAlD": 0.004648877504647572,
     "CbGpPWpGaD": 0.12163533217350352,
     "CcSEcCtD": 0.17850052397255797
   },
+  "n_trials": 0.0,
   "prediction": 0.00117212277539524,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

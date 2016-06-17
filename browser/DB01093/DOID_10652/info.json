@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01093",
   "compound_name": "Dimethyl sulfoxide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.6293859705234643,
     "CbGbCtD": 0.31647131878974094,
     "CbGeAlD": 0.03621062921793311,
     "CbGpPWpGaD": 0.017932081468861664
   },
+  "n_trials": 0.0,
   "prediction": 0.009320258755205509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

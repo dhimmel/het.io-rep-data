@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.011703511053316002,
   "metapath_contribution": {
     "CbGbCtD": 0.40642165196871743,
     "CcSEcCtD": 0.5659407276313009,
     "CrCbGaD": 0.027637620399981726
   },
+  "n_trials": 1.0,
   "prediction": 0.000651454270612599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.34183137828284044,
     "CbGbCtD": 0.4149952410567187,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11130539056712278,
     "CrCbGaD": 0.0024001066841535107
   },
+  "n_trials": 1.0,
   "prediction": 0.00680896534700069,
   "status": 0,
   "training_prediction": 0.0464883207989897

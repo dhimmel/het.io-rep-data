@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
     "CbGaD": 0.3380562206455462,
     "CbGbCtD": 0.4981280716109852,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06160775381113873,
     "CcSEcCtD": 0.09705022432876226
   },
+  "n_trials": 0.0,
   "prediction": 0.00536938632142539,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

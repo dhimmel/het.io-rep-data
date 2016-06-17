@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.6820546163849152,
   "metapath_contribution": {
     "CbGaD": 0.7137649154350217,
     "CbGeAlD": 0.13516223804613836,
     "CbGpPWpGaD": 0.15009380950076193,
     "CrCbGaD": 0.000979037018077912
   },
+  "n_trials": 0.0,
   "prediction": 0.00159177209312516,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

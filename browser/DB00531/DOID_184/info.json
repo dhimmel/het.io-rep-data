@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.47314105911793636,
     "CbGbCtD": 0.13854471970976617,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3224407456356933,
     "CrCbGaD": 0.0027704068933290683
   },
+  "n_trials": 25.0,
   "prediction": 0.00322273900240463,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

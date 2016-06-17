@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.101430429128739,
   "metapath_contribution": {
     "CbGbCtD": 0.4774642377390721,
     "CbGeAlD": 0.2253044720850093,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.04455023266266309,
     "CrCbGaD": 0.002136674964379397
   },
+  "n_trials": 0.0,
   "prediction": 0.0009330929238445811,
   "status": 0,
   "training_prediction": 0.00205765904047317

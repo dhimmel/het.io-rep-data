@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00349",
   "compound_name": "Clobazam",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.573472041612484,
   "metapath_contribution": {
     "CbGaD": 0.7571508579068844,
     "CbGbCtD": 0.002662917333497531,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07455370767119013,
     "CrCbGaD": 0.0046208252701963794
   },
+  "n_trials": 0.0,
   "prediction": 0.00153616768822454,
   "status": 0,
   "training_prediction": 0.00113296004250897

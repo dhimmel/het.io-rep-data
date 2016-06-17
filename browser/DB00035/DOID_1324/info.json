@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.600130039011703,
   "metapath_contribution": {
     "CbGaD": 0.39145509594073236,
     "CbGbCtD": 0.1297988640346024,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2675465022957774,
     "CrCbGaD": 0.009261119926213627
   },
+  "n_trials": 0.0,
   "prediction": 0.0021605667392769,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

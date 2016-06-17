@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0029302475118228298,
     "CbGeAlD": 0.08949833811667797,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12050231816119673,
     "CtDrD": 0.7868988300545802
   },
+  "n_trials": 0.0,
   "prediction": 0.00275658771122709,
   "status": 0,
   "training_prediction": 0.00555506940747876

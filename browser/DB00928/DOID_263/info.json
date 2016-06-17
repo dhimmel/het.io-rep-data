@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGbCtD": 0.1809383277979322,
     "CbGdCrCtD": 0.000583356294989963,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.10076665078882237,
     "CrCtD": 0.26594387128157987
   },
+  "n_trials": 4.0,
   "prediction": 0.0205585633600082,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

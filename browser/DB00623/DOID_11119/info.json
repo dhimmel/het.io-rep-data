@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.8440927004054651,
     "CbGeAlD": 0.04525629464742024,
     "CbGpPWpGaD": 0.10247538556459321,
     "CrCbGaD": 0.008175619382521402
   },
+  "n_trials": 0.0,
   "prediction": 0.0021169363628554,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

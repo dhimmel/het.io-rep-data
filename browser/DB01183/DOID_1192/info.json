@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.38430557014191646,
     "CbGbCtD": 0.3314621220337601,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14584366293987203,
     "CrCbGaD": 0.0009769366686498905
   },
+  "n_trials": 0.0,
   "prediction": 0.00232452878435562,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

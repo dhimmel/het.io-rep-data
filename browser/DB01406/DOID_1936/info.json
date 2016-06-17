@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.470091027308192,
   "metapath_contribution": {
     "CbGaD": 0.634172957224679,
     "CbGbCtD": 0.05120709623229268,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12630786696961707,
     "CrCbGaD": 0.004129083004901837
   },
+  "n_trials": 0.0,
   "prediction": 0.00177444473089329,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.12560284515346948,
     "CbGbCtD": 0.3855550558074581,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0012992783833751364,
     "CrCrCtD": 0.3384279163007516
   },
+  "n_trials": 0.0,
   "prediction": 0.0102861648023371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

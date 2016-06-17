@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.34655396618985695,
   "metapath_contribution": {
     "CbGbCtD": 0.5299381377760772,
     "CbGeAlD": 0.060673561383609236,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19839431401491422,
     "CrCbGaD": 0.010621046492051573
   },
+  "n_trials": 0.0,
   "prediction": 0.0016753925161676901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

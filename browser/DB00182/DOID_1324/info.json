@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.423927178153446,
   "metapath_contribution": {
     "CbGaD": 0.4997027212418604,
     "CbGbCtD": 0.16339781084352484,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1644147727385684,
     "CrCbGaD": 0.003424832089800848
   },
+  "n_trials": 0.0,
   "prediction": 0.00160006008385093,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

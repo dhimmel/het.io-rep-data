@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.3875342914072844,
     "CbGbCtD": 0.3273826135370192,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.026164328680916657,
     "CpDpCtD": 0.23707446091227843
   },
+  "n_trials": 0.0,
   "prediction": 0.0117244090068141,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

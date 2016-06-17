@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.12297808526105065,
     "CbGbCtD": 0.5301296515784044,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1552023166930009,
     "CrCbGaD": 0.0033459551523710948
   },
+  "n_trials": 0.0,
   "prediction": 0.005042143111216879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

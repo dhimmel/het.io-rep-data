@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00736",
   "compound_name": "Esomeprazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8784135240572171,
   "metapath_contribution": {
     "CbGaD": 0.1204259455951276,
     "CbGbCtD": 0.22576018267368975,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.5156176125259277,
     "CrCbGaD": 0.0020287753500780486
   },
+  "n_trials": 0.0,
   "prediction": 0.0145711891928248,
   "status": 0,
   "training_prediction": 0.0676845896344515

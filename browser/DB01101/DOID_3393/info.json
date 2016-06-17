@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01101",
   "compound_name": "Capecitabine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGbCtD": 0.5925391945485597,
     "CbGdCrCtD": 0.0037527562699631862,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10741264110777521,
     "CcSEcCtD": 0.2562701822844906
   },
+  "n_trials": 0.0,
   "prediction": 0.0032513173929019,
   "status": 0,
   "training_prediction": 0.0652968170191777

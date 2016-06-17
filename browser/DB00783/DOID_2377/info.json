@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8407022106631992,
   "metapath_contribution": {
     "CbGaD": 0.06099094832239304,
     "CbGbCtD": 0.32427083140197827,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.40817160922852086,
     "CrCrCtD": 0.03699126728112853
   },
+  "n_trials": 1.0,
   "prediction": 0.00316636957248108,
   "status": 0,
   "training_prediction": 0.013427709786737

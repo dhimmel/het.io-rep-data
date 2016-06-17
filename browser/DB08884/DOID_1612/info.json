@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08884",
   "compound_name": "Gadoxetate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.3764427532581009,
     "CbGbCtD": 0.39423829088429696,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1452143886012036,
     "CrCbGaD": 0.0006051595872481933
   },
+  "n_trials": 0.0,
   "prediction": 0.00696287688201061,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

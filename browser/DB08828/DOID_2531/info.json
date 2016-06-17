@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.5903771131339399,
   "metapath_contribution": {
     "CbGaD": 0.2787142064698003,
     "CbGbCtD": 0.47038924490034634,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1377122839687062,
     "CrCbGaD": 0.004737399575775506
   },
+  "n_trials": 0.0,
   "prediction": 0.0026898527418472104,
   "status": 0,
   "training_prediction": 0.0239666486707799

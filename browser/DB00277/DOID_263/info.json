@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGaD": 0.24635817578509628,
     "CbGbCtD": 0.45059305844418485,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13250264114331095,
     "CrCbGaD": 0.005029404359977483
   },
+  "n_trials": 0.0,
   "prediction": 0.00267561739794187,
   "status": 0,
   "training_prediction": 0.00777018288008548

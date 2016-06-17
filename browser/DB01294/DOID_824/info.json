@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.8347568861382753,
     "CbGeAlD": 0.08779873731807657,
     "CbGpPWpGaD": 0.07744437654364819
   },
+  "n_trials": 0.0,
   "prediction": 0.0032328091816469897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

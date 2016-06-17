@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0520156046814044,
   "metapath_contribution": {
     "CbGaD": 0.8533469878458004,
     "CbGeAlD": 0.02931249366014705,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.061428046070618164,
     "CrCbGaD": 0.0017835738310404989
   },
+  "n_trials": 0.0,
   "prediction": 0.000690988584481638,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05812",
   "compound_name": "Abiraterone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.16628091460539232,
     "CbGbCtD": 0.4109836535531683,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0008074024656099197,
     "CrCrCtD": 0.299849964869608
   },
+  "n_trials": 0.0,
   "prediction": 0.00442919956368882,
   "status": 0,
   "training_prediction": 0.0143014606041115

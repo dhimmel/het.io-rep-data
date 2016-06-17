@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00569",
   "compound_name": "Fondaparinux sodium",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6306892067620289,
   "metapath_contribution": {
     "CbGaD": 0.6212996313977527,
     "CbGpPWpGaD": 0.1512726220933433,
     "CcSEcCtD": 0.22164985630214049,
     "CrCbGaD": 0.005777890206763531
   },
+  "n_trials": 0.0,
   "prediction": 0.00538612220543121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.40377113133940207,
   "metapath_contribution": {
     "CbGaD": 0.36903491110421416,
     "CbGbCtD": 0.28578251669101346,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13844165144722143,
     "CrCbGaD": 0.004010077306624974
   },
+  "n_trials": 0.0,
   "prediction": 0.0019411095195139602,
   "status": 0,
   "training_prediction": 0.0082130327824812

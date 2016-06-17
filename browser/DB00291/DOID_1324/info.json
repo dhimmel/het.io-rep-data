@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00291",
   "compound_name": "Chlorambucil",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.2741778756591468,
     "CbGbCtD": 0.2243886960307078,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09037499001225034,
     "CtDrD": 0.3770150491459258
   },
+  "n_trials": 0.0,
   "prediction": 0.00894175084645067,
   "status": 0,
   "training_prediction": 0.0811352280870803

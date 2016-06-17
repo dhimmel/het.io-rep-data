@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.256176853055917,
   "metapath_contribution": {
     "CbGbCtD": 0.416804755254426,
-    "CbGpPWpGaD": 0.02362045018803461,
-    "CcSEcCtD": 0.1269822246186033,
-    "CrCrCtD": 0.43259256993893613
+    "CbGpPWpGaD": 0.023620450188034606,
+    "CcSEcCtD": 0.12698222461860328,
+    "CrCrCtD": 0.4325925699389361
   },
+  "n_trials": 0.0,
   "prediction": 0.00169504350943803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

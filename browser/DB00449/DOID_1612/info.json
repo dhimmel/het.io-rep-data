@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00449",
   "compound_name": "Dipivefrin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.589726918075423,
   "metapath_contribution": {
     "CbGaD": 0.728919768135451,
     "CbGbCtD": 0.11360452776519743,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.04589214860189831,
     "CrCbGaD": 0.0034373475524434303
   },
+  "n_trials": 0.0,
   "prediction": 0.00283547878658943,
   "status": 0,
   "training_prediction": 0.0155398774204

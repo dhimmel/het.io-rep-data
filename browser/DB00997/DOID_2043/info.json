@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.22971480070820327,
     "CbGbCtD": 0.1696941189927554,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.07631241320169972,
     "CtDrD": 0.44086383435491033
   },
+  "n_trials": 0.0,
   "prediction": 0.00343674424854975,
   "status": 0,
   "training_prediction": 0.0421193862314174

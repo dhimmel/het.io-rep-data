@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00222",
   "compound_name": "Glimepiride",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.2705576727404971,
     "CbGbCtD": 0.23502124042691336,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0025464957008332237,
     "CtDrD": 0.328520709433689
   },
+  "n_trials": 0.0,
   "prediction": 0.0130295643394476,
   "status": 0,
   "training_prediction": 0.136378120251687

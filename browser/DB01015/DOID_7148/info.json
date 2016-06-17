@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGaD": 0.1520973521597358,
     "CbGbCtD": 0.31161297805364196,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0009289436678461624,
     "CrCrCtD": 0.41679933063561675
   },
+  "n_trials": 0.0,
   "prediction": 0.00249929839172805,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

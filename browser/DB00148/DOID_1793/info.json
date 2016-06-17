@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00148",
   "compound_name": "Creatine",
+  "compound_percentile": 0.36764705882352894,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.6521456436931079,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.02362331649020261,
-    "CbGeAlD": 0.29815809576865326,
-    "CbGpPWpGaD": 0.6782185877411442
+    "CbGdCrCtD": 0.023623316490202606,
+    "CbGeAlD": 0.2981580957686532,
+    "CbGpPWpGaD": 0.6782185877411441
   },
+  "n_trials": 0.0,
   "prediction": 0.00214459203350945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

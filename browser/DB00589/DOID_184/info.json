@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.544863459037711,
   "metapath_contribution": {
     "CbGaD": 0.7406840763117344,
     "CbGeAlD": 0.13227597512643444,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04479307810475946,
     "CrCbGaD": 0.00880593579503393
   },
+  "n_trials": 0.0,
   "prediction": 0.00162546378044205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

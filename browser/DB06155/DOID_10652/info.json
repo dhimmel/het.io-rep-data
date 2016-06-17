@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06155",
   "compound_name": "Rimonabant",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.3154857052504681,
     "CbGbCtD": 0.445508508127838,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06069632304956786,
     "CcSEcCtD": 0.16761616057109438
   },
+  "n_trials": 0.0,
   "prediction": 0.0054188630036193204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

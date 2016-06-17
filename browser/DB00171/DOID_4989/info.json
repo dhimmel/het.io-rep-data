@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.250975292587776,
   "metapath_contribution": {
     "CbGdCrCtD": 0.013921953049795705,
     "CbGeAlD": 0.36919766086651196,
     "CbGpPWpGaD": 0.6122753071331809,
     "CrCbGaD": 0.004605078950511587
   },
+  "n_trials": 0.0,
   "prediction": 0.00108151496854231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

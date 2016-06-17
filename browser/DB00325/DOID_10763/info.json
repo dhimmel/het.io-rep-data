@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00325",
   "compound_name": "Nitroprusside",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.770481144343303,
   "metapath_contribution": {
     "CbGaD": 0.5782557781099958,
     "CbGbCtD": 0.2664267683568148,
@@ -11,6 +13,5 @@
     "CbGpPWpGaD": 0.11041734180716832
   },
   "prediction": 0.00874579497711332,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

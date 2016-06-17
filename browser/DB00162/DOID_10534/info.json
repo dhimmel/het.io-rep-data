@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.559167750325098,
   "metapath_contribution": {
     "CbGaD": 0.7523354132835408,
     "CbGdCrCtD": 0.002114091199099309,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15966426592450594,
     "CrCbGaD": 0.00672723883113965
   },
+  "n_trials": 0.0,
   "prediction": 0.00169205772530375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

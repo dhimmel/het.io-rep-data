@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00842",
   "compound_name": "Oxazepam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.7679569556402631,
     "CbGeAlD": 0.016021302029080482,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.026571527322697654,
     "CrCbGaD": 0.005824390384106586
   },
+  "n_trials": 1.0,
   "prediction": 0.00274769136158089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

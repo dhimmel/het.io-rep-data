@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.611183355006502,
   "metapath_contribution": {
     "CbGaD": 0.13620596135425556,
     "CbGbCtD": 0.2383685562025719,
@@ -13,6 +15,7 @@
     "CrCbGaD": 7.267700793641602e-05,
     "CrCrCtD": 0.43252509156546404
   },
+  "n_trials": 0.0,
   "prediction": 0.0030125920584897397,
   "status": 0,
   "training_prediction": 0.0202289595458071

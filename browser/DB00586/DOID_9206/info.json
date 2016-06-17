@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.2715218396180009,
     "CbGbCtD": 0.22968758264023761,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3693242519045434,
     "CrCbGaD": 0.0016092049668639903
   },
+  "n_trials": 0.0,
   "prediction": 0.009955212933477871,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.61443433029909,
   "metapath_contribution": {
     "CbGaD": 0.29611900368469707,
     "CbGbCtD": 0.45810934152354615,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1021827509130116,
     "CrCbGaD": 0.0022327519731093048
   },
+  "n_trials": 0.0,
   "prediction": 0.00254288237776364,
   "status": 0,
   "training_prediction": 0.00559670266948483

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.905071521456437,
   "metapath_contribution": {
     "CbGaD": 0.20652552751235903,
     "CbGbCtD": 0.3948634831063474,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0026261103233170967,
     "CrCrCtD": 0.21866845993381526
   },
+  "n_trials": 0.0,
   "prediction": 0.0183732097821077,
   "status": 0,
   "training_prediction": 0.17277685424419598

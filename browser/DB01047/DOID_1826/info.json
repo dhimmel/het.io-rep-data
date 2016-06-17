@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.007802340702210659,
   "metapath_contribution": {
     "CbGaD": 0.6190164822572634,
     "CbGeAlD": 0.0491015934075168,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21281834060641938,
     "CrCbGaD": 0.008835355744268207
   },
+  "n_trials": 0.0,
   "prediction": 0.000583464273247108,
   "status": 0,
   "training_prediction": 0.00476462755866291

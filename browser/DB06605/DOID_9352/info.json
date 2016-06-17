@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06605",
   "compound_name": "Apixaban",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.2848617200070519,
     "CbGbCtD": 0.5369307966508137,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08091057626190262,
     "CcSEcCtD": 0.0898760955464696
   },
+  "n_trials": 0.0,
   "prediction": 0.00766560778314244,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

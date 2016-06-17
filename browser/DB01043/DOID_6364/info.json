@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01043",
   "compound_name": "Memantine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.3215898156724866,
     "CbGbCtD": 0.2170851560328572,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11315639071434304,
     "CpDpCtD": 0.31145390238935344
   },
+  "n_trials": 0.0,
   "prediction": 0.0168553691964023,
   "status": 0,
   "training_prediction": 0.0304069461592241

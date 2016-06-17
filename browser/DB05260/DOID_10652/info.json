@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.7215308548516128,
     "CbGeAlD": 0.07789677782215455,
     "CbGpPWpGaD": 0.12655093433090786,
     "CcSEcCtD": 0.07402143299532467
   },
+  "n_trials": 0.0,
   "prediction": 0.00670683973667615,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

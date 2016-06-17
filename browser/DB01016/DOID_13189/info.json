@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.21842237211207172,
     "CbGbCtD": 0.3570606555479356,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.000849055510562936,
     "CrCrCtD": 0.2974402678661911
   },
+  "n_trials": 0.0,
   "prediction": 0.0121466364879961,
   "status": 0,
   "training_prediction": 0.0432859822638148

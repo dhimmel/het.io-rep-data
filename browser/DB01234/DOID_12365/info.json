@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.451885565669701,
   "metapath_contribution": {
     "CbGaD": 0.3275589701506782,
     "CbGbCtD": 0.5013607678273059,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.027405304851514285,
     "CcSEcCtD": 0.08872233170496842
   },
+  "n_trials": 0.0,
   "prediction": 0.0019710065916376898,
   "status": 0,
   "training_prediction": 0.033356166081535

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.419117647058824,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.1222366710013,
   "metapath_contribution": {
     "CbGaD": 0.2895681627021378,
     "CbGbCtD": 0.4017656126433837,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15608235577501903,
     "CrCbGaD": 0.001837990657565085
   },
+  "n_trials": 0.0,
   "prediction": 0.00108761200726178,
   "status": 0,
   "training_prediction": 0.0213925209723134

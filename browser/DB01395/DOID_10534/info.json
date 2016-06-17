@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.0955882352941176,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.0663198959687906,
   "metapath_contribution": {
     "CbGaD": 0.5107357655951325,
     "CbGbCtD": 0.06187594717217471,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14850034776592946,
     "CrCbGaD": 0.0039457102995988326
   },
+  "n_trials": 0.0,
   "prediction": 0.000652597840638845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

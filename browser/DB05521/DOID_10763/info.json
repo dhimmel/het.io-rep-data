@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6801040312093629,
   "metapath_contribution": {
     "CbGaD": 0.3813155551936023,
     "CbGbCtD": 0.35664627486719486,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1269560963029683,
     "CrCbGaD": 0.003664140312365482
   },
+  "n_trials": 0.0,
   "prediction": 0.00644144736165599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGaD": 0.7741361173963557,
     "CbGbCtD": 0.05048866396166776,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.010847141877696241,
     "CrCbGaD": 0.004445974175542194
   },
+  "n_trials": 0.0,
   "prediction": 0.00331907110748819,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

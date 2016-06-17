@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.809492847854356,
   "metapath_contribution": {
     "CbGaD": 0.8099259337986133,
     "CbGeAlD": 0.11821097266524078,
     "CbGpPWpGaD": 0.06841091748419377,
     "CrCbGaD": 0.0034521760519520377
   },
+  "n_trials": 0.0,
   "prediction": 0.0017705805601539398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

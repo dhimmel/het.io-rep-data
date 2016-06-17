@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00413",
   "compound_name": "Pramipexole",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.828923118204639,
     "CbGeAlD": 0.036893785104335566,
     "CbGpPWpGaD": 0.1341830966910254
   },
+  "n_trials": 2.0,
   "prediction": 0.00621677741139109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.47069604155879524,
     "CbGbCtD": 0.2799102644795667,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08772329744420611,
     "CrCbGaD": 0.00557240923372166
   },
+  "n_trials": 0.0,
   "prediction": 0.00347838860493307,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

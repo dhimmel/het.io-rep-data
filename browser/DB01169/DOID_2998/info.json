@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.7507072520164603,
     "CbGdCrCtD": 0.004924351205319775,
     "CbGeAlD": 0.10186426240875425,
     "CbGpPWpGaD": 0.14250413436946577
   },
+  "n_trials": 1.0,
   "prediction": 0.00450765556895145,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.237725681628681,
     "CbGbCtD": 0.32546637807570705,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.18119898488773553,
     "CcSEcCtD": 0.17177947739932606
   },
+  "n_trials": 1.0,
   "prediction": 0.00249596110473827,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

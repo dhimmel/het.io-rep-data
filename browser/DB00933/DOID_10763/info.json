@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00933",
   "compound_name": "Mesoridazine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.28283485045513695,
   "metapath_contribution": {
     "CbGaD": 0.26744470886127564,
     "CbGbCtD": 0.3351732029919825,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0032855790274305898,
     "CrCrCtD": 0.2855510869088268
   },
+  "n_trials": 0.0,
   "prediction": 0.00226732607977124,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00293",
   "compound_name": "Raltitrexed",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.43488372611461174,
     "CbGbCtD": 0.31943257113106605,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.13853819738910192,
     "CrCbGaD": 0.0040039185875770465
   },
+  "n_trials": 0.0,
   "prediction": 0.00373782114547339,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

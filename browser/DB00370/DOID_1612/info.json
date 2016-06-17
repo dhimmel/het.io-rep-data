@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6358907672301689,
   "metapath_contribution": {
     "CbGaD": 0.201674832535729,
     "CbGbCtD": 0.4174136261093409,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2427649395166073,
     "CrCbGaD": 0.000720761387325526
   },
+  "n_trials": 0.0,
   "prediction": 0.0031368984886578103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

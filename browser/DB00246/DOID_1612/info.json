@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00246",
   "compound_name": "Ziprasidone",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.611833550065019,
   "metapath_contribution": {
     "CbGaD": 0.1800590342480962,
     "CbGbCtD": 0.40425355601138246,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.24304289877358223,
     "CrCbGaD": 0.002266135419159895
   },
+  "n_trials": 0.0,
   "prediction": 0.00298251204242118,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

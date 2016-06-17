@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.0130039011703511,
   "metapath_contribution": {
     "CbGbCtD": 0.14608990062542898,
     "CbGeAlD": 0.40123669669597944,
     "CbGpPWpGaD": 0.34371576515883057,
     "CcSEcCtD": 0.10895763751976116
   },
+  "n_trials": 1.0,
   "prediction": 0.0007846843808215469,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

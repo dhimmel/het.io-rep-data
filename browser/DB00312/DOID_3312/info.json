@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.7887975742662662,
     "CbGeAlD": 0.07839138456515575,
     "CbGpPWpGaD": 0.12408828969340176,
     "CrCbGaD": 0.00872275147517625
   },
+  "n_trials": 0.0,
   "prediction": 0.00256886535708443,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

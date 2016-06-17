@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00690",
   "compound_name": "Flurazepam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
     "CbGaD": 0.5039002001596491,
     "CbGbCtD": 0.29465789561389916,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06726179666053117,
     "CrCbGaD": 0.00475631011592081
   },
+  "n_trials": 0.0,
   "prediction": 0.00508898013086885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

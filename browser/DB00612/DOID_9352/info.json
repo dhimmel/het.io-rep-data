@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00612",
   "compound_name": "Bisoprolol",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGaD": 0.2550960483644233,
     "CbGbCtD": 0.4400303295118934,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2400359542063242,
     "CrCbGaD": 0.0034493603554137586
   },
+  "n_trials": 1.0,
   "prediction": 0.0022489619832746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

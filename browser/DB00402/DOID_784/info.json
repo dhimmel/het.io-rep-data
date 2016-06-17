@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00402",
   "compound_name": "Eszopiclone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.8452780193918067,
     "CbGeAlD": 0.04106282187592446,
     "CbGpPWpGaD": 0.10654293455381005,
     "CrCbGaD": 0.007116224178458811
   },
+  "n_trials": 0.0,
   "prediction": 0.00265794293070356,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

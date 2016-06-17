@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00873",
   "compound_name": "Loteprednol",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.10555045427554427,
     "CbGbCtD": 0.09331067176536262,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.1828942569571416,
     "CrCtD": 0.25017884650749495
   },
+  "n_trials": 0.0,
   "prediction": 0.0166114172889249,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

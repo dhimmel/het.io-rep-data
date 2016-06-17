@@ -1,18 +1,21 @@
 {
   "compound_id": "DB00806",
   "compound_name": "Pentoxifylline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
-    "CbGaD": 0.1587921882058552,
-    "CbGbCtD": 0.22968880717694057,
-    "CbGeAlD": 0.011262459040385354,
-    "CbGpPWpGaD": 0.029775171989411046,
-    "CcSEcCtD": 0.053031911849021965,
-    "CrCbGaD": 0.001231438545738763,
-    "CrCrCtD": 0.21202836547782775,
-    "CrCtD": 0.30418965771481926
+    "CbGaD": 0.15879218820585525,
+    "CbGbCtD": 0.22968880717694062,
+    "CbGeAlD": 0.011262459040385357,
+    "CbGpPWpGaD": 0.029775171989411053,
+    "CcSEcCtD": 0.05303191184902198,
+    "CrCbGaD": 0.0012314385457387633,
+    "CrCrCtD": 0.21202836547782777,
+    "CrCtD": 0.3041896577148194
   },
+  "n_trials": 0.0,
   "prediction": 0.0868633396436658,
   "status": 0,
   "training_prediction": 0.520525938908021

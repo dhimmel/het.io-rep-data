@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.7737321196358911,
   "metapath_contribution": {
     "CbGaD": 0.684396409642659,
     "CbGbCtD": 0.2811068602612323,
     "CbGpPWpGaD": 0.027752946640013758,
     "CrCbGaD": 0.006743783456094826
   },
+  "n_trials": 0.0,
   "prediction": 0.00239551495019346,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

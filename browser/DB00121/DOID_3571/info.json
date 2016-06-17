@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00121",
   "compound_name": "Biotin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.7411737105293998,
     "CbGbCtD": 0.020895228912260415,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.028902976662528734,
     "CbGpPWpGaD": 0.20390239827126044
   },
+  "n_trials": 0.0,
   "prediction": 0.0037934567237808297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

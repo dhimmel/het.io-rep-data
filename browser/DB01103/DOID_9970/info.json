@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.276332899869961,
   "metapath_contribution": {
     "CbGbCtD": 0.7337816882110765,
     "CbGeAlD": 0.08892473409335715,
     "CbGpPWpGaD": 0.17440189278165708,
     "CrCbGaD": 0.002891684913909273
   },
+  "n_trials": 0.0,
   "prediction": 0.00159633545595596,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

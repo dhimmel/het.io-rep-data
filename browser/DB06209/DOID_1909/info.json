@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06209",
   "compound_name": "Prasugrel",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.358907672301691,
   "metapath_contribution": {
     "CbGaD": 0.3855437438154082,
     "CbGbCtD": 0.34424997447010647,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13013680521703005,
     "CrCbGaD": 0.000806920422680358
   },
+  "n_trials": 0.0,
   "prediction": 0.00116256375512391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

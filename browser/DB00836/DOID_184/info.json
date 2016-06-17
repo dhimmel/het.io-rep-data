@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.360208062418726,
   "metapath_contribution": {
     "CbGaD": 0.6350303600737353,
     "CbGbCtD": 0.12201634449642737,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.044154077885863355,
     "CrCbGaD": 0.0046921432996830485
   },
+  "n_trials": 0.0,
   "prediction": 0.0012239329521335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

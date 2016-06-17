@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01349",
   "compound_name": "Tasosartan",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8159947984395319,
   "metapath_contribution": {
     "CbGaD": 0.6041393919884829,
     "CbGbCtD": 0.2607988978712294,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10748018621685325,
     "CrCbGaD": 0.004229576302598052
   },
+  "n_trials": 0.0,
   "prediction": 0.00531037985074457,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

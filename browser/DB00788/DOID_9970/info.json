@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.43433029908972703,
   "metapath_contribution": {
     "CbGaD": 0.4474631130035703,
     "CbGbCtD": 0.2752954105983212,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16171370206442198,
     "CrCbGaD": 0.003984745594178602
   },
+  "n_trials": 0.0,
   "prediction": 0.00220132494894079,
   "status": 0,
   "training_prediction": 0.00563575542715279

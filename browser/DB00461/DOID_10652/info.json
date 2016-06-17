@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.592327698309493,
   "metapath_contribution": {
     "CbGaD": 0.7450234476947097,
     "CbGeAlD": 0.007608293548312388,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1916386128659179,
     "CrCbGaD": 0.005219089054611461
   },
+  "n_trials": 0.0,
   "prediction": 0.00211180632026168,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

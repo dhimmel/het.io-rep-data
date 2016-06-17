@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.851755526657997,
   "metapath_contribution": {
     "CbGaD": 0.4183630215507404,
     "CbGbCtD": 0.44296959797899665,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0660588993075174,
     "CrCbGaD": 0.0024062841110930274
   },
+  "n_trials": 0.0,
   "prediction": 0.0050546955096589605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

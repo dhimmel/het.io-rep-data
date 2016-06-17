@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.6649873748844689,
     "CbGbCtD": 0.16030969460598188,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1393901506434676,
     "CrCbGaD": 0.0036250695061289966
   },
+  "n_trials": 1.0,
   "prediction": 0.00286531599812675,
   "status": 0,
   "training_prediction": 0.00347688047752386

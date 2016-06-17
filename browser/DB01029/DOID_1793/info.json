@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.4884495330263896,
     "CbGbCtD": 0.2525540309118188,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1381272006363168,
     "CrCbGaD": 0.005879386493585393
   },
+  "n_trials": 0.0,
   "prediction": 0.00340501480843433,
   "status": 0,
   "training_prediction": 0.0134359876611323

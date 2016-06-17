@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.7711313394018209,
   "metapath_contribution": {
     "CbGaD": 0.5147267915404445,
     "CbGbCtD": 0.2235898670614158,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17088573481070748,
     "CrCbGaD": 0.0020929992146566266
   },
+  "n_trials": 0.0,
   "prediction": 0.00290602130646157,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

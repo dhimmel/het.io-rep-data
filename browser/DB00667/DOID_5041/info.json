@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGbCtD": 0.2934787632702952,
     "CbGeAlD": 0.17458255748392632,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21733703883327007,
     "CrCbGaD": 0.002650714112434522
   },
+  "n_trials": 0.0,
   "prediction": 0.00170172633631523,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

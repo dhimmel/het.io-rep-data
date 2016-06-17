@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04898",
   "compound_name": "Ximelagatran",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.6224229776562679,
     "CbGbCtD": 0.20283351606381408,
     "CbGeAlD": 0.06235531378611067,
     "CbGpPWpGaD": 0.11238819249380748
   },
+  "n_trials": 0.0,
   "prediction": 0.007588375833718541,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

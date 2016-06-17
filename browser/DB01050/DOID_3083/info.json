@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGaD": 0.27354178595350265,
     "CbGbCtD": 0.21778662454513142,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3073557573221967,
     "CrCbGaD": 0.0018126689277512121
   },
+  "n_trials": 1.0,
   "prediction": 0.0057938209208198395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

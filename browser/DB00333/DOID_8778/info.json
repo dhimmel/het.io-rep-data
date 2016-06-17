@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.0897269180754226,
   "metapath_contribution": {
     "CbGbCtD": 0.1405908424131497,
     "CbGeAlD": 0.38404075930314524,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4166159007142108,
     "CrCbGaD": 0.000564200265664738
   },
+  "n_trials": 0.0,
   "prediction": 0.0008678608391610481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01591",
   "compound_name": "Solifenacin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.601430429128739,
   "metapath_contribution": {
     "CbGaD": 0.24437139706415267,
     "CbGbCtD": 0.3973444628932663,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2774085305100853,
     "CrCbGaD": 0.002148570666449879
   },
+  "n_trials": 0.0,
   "prediction": 0.00291587802022238,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

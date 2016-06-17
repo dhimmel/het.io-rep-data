@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00697",
   "compound_name": "Tizanidine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.484395318595579,
   "metapath_contribution": {
     "CbGbCtD": 0.12429952786304013,
     "CbGdCrCtD": 0.00463769045647419,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.5322539355979153,
     "CrCbGaD": 0.00545284491159045
   },
+  "n_trials": 0.0,
   "prediction": 0.0022229562838548,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

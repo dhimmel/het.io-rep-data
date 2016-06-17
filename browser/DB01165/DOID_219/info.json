@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.524707412223667,
   "metapath_contribution": {
     "CbGbCtD": 0.7021296740874465,
     "CbGdCrCtD": 0.005969945972892993,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.27174191943238174,
     "CrCbGaD": 0.0016661471489394864
   },
+  "n_trials": 0.0,
   "prediction": 0.00160629850904056,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

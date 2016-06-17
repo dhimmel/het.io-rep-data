@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01246",
   "compound_name": "Alimemazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGbCtD": 0.259347222242219,
     "CcSEcCtD": 0.03344644537950675,
     "CrCrCtD": 0.27044392431041875,
     "CrCtD": 0.4367624080678555
   },
+  "n_trials": 0.0,
   "prediction": 0.00616703615135417,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

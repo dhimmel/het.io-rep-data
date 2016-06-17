@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGbCtD": 0.1951738970537152,
     "CcSEcCtD": 0.04179423058931827,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.24299528251257058,
     "CrCtD": 0.2670169953523544
   },
+  "n_trials": 0.0,
   "prediction": 0.00939141774699919,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

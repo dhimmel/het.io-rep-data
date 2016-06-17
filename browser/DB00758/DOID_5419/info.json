@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00758",
   "compound_name": "Clopidogrel",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.7717425126287168,
     "CbGeAlD": 0.08991940370095403,
     "CbGpPWpGaD": 0.1327822836673469,
     "CrCbGaD": 0.00555580000298226
   },
+  "n_trials": 0.0,
   "prediction": 0.00215290146005092,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

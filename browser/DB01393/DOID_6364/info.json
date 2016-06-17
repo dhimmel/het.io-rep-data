@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.28218465539661897,
   "metapath_contribution": {
     "CbGbCtD": 0.661383479891209,
     "CbGeAlD": 0.044653618978632834,
     "CbGpPWpGaD": 0.0675010865923505,
     "CcSEcCtD": 0.2264618145378076
   },
+  "n_trials": 0.0,
   "prediction": 0.0018213247503203397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

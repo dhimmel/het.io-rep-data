@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00422",
   "compound_name": "Methylphenidate",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.30689206762028604,
   "metapath_contribution": {
     "CbGbCtD": 0.005633401802644661,
     "CbGeAlD": 0.0597032526338646,
     "CcSEcCtD": 0.9313341126416369,
     "CrCbGaD": 0.003329232921853912
   },
+  "n_trials": 4.0,
   "prediction": 0.0014396085300434,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

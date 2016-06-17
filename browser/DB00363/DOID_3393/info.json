@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.375162548764629,
   "metapath_contribution": {
     "CbGaD": 0.30147891076575145,
     "CbGbCtD": 0.4903014525522777,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15982121091055662,
     "CrCbGaD": 0.0033340136451815642
   },
+  "n_trials": 0.0,
   "prediction": 0.0019014844043277802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

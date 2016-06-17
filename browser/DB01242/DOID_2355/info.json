@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.32964889466840097,
   "metapath_contribution": {
     "CbGaD": 0.6759262923251175,
     "CbGeAlD": 0.15365947276529043,
     "CbGpPWpGaD": 0.1675560008681122,
     "CrCbGaD": 0.00285823404147985
   },
+  "n_trials": 0.0,
   "prediction": 0.0009700185794129571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

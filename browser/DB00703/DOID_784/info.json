@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.7506293209349107,
     "CbGeAlD": 0.0904790120923836,
     "CbGpPWpGaD": 0.15615774018796416,
     "CrCbGaD": 0.0027339267847415433
   },
+  "n_trials": 0.0,
   "prediction": 0.00295196165997745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

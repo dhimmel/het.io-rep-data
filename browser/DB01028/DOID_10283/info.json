@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01028",
   "compound_name": "Methoxyflurane",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGaD": 0.3883078938057704,
     "CbGbCtD": 0.4319229923102097,
     "CbGeAlD": 0.04692416228001669,
     "CbGpPWpGaD": 0.1328449516040032
   },
+  "n_trials": 0.0,
   "prediction": 0.00542986057026736,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.7795195569714554,
     "CbGeAlD": 0.07493719106722424,
     "CbGpPWpGaD": 0.13931447898438945,
     "CrCbGaD": 0.006228772976930993
   },
+  "n_trials": 0.0,
   "prediction": 0.00367099574658115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

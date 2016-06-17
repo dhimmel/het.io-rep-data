@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.5999592324446706,
     "CbGbCtD": 0.20815284014978327,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12505938449955784,
     "CrCbGaD": 0.0006860356161269664
   },
+  "n_trials": 0.0,
   "prediction": 0.00320377084389387,
   "status": 0,
   "training_prediction": 0.013500296439821001

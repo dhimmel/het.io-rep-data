@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08976",
   "compound_name": "Floctafenine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.9820877127300621,
     "CbGeAlD": 0.011716863076299584,
     "CbGpPWpGaD": 0.0008458513867663898,
     "CrCbGaD": 0.00534957280687191
   },
+  "n_trials": 0.0,
   "prediction": 0.00240164688526077,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.38992707955243733,
     "CbGbCtD": 0.38192598769798575,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07774231122314297,
     "CcSEcCtD": 0.13236656063575686
   },
+  "n_trials": 0.0,
   "prediction": 0.0112938922381654,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

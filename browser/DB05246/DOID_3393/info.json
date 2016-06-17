@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05246",
   "compound_name": "Methsuximide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.343953185955787,
   "metapath_contribution": {
     "CbGaD": 0.34357777588020977,
     "CbGbCtD": 0.3669931175848802,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1777188733984963,
     "CrCbGaD": 0.0031509457890825754
   },
+  "n_trials": 0.0,
   "prediction": 0.00175418648460989,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

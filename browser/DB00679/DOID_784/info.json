@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.136540962288687,
   "metapath_contribution": {
     "CbGaD": 0.7381482559948142,
     "CbGeAlD": 0.08947819483879409,
     "CbGpPWpGaD": 0.16451911785238132,
     "CrCbGaD": 0.00785443131401049
   },
+  "n_trials": 0.0,
   "prediction": 0.000900464249630654,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

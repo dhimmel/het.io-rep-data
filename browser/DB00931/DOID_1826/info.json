@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00931",
   "compound_name": "Methacycline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.511703511053316,
   "metapath_contribution": {
     "CbGaD": 0.34391440757654773,
     "CbGbCtD": 0.6306528196280227,
     "CbGpPWpGaD": 0.01879589385908376,
     "CrCbGaD": 0.006636878936345873
   },
+  "n_trials": 0.0,
   "prediction": 0.0034649122649509302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

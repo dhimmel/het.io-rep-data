@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.16966149203403072,
     "CbGbCtD": 0.32794924506210243,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.27572771764531867,
     "CrCbGaD": 0.0017440507464959354
   },
+  "n_trials": 0.0,
   "prediction": 0.00616539583494696,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06803",
   "compound_name": "Niclosamide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.786736020806242,
   "metapath_contribution": {
     "CbGaD": 0.6843507880411634,
     "CbGbCtD": 0.12834377246313197,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15176077027201235,
     "CrCbGaD": 0.00144272344314016
   },
+  "n_trials": 0.0,
   "prediction": 0.00321800545753228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

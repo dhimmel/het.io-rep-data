@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.391417425227568,
   "metapath_contribution": {
     "CbGaD": 0.6583182886822253,
     "CbGeAlD": 0.13244370356727803,
     "CbGpPWpGaD": 0.2034952151865045,
     "CrCbGaD": 0.005742792563992088
   },
+  "n_trials": 6.0,
   "prediction": 0.0013332223758512,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

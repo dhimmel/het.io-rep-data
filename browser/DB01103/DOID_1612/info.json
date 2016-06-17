@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.526007802340702,
   "metapath_contribution": {
     "CbGaD": 0.4382257469681778,
     "CbGbCtD": 0.40833802569842004,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.09750446703410158,
     "CrCbGaD": 0.004087071731945405
   },
+  "n_trials": 1.0,
   "prediction": 0.0024928566787933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

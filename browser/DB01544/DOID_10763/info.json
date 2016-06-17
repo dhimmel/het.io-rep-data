@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01544",
   "compound_name": "Flunitrazepam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.485695708712614,
   "metapath_contribution": {
     "CbGbCtD": 0.5011081102035493,
     "CbGeAlD": 0.02777724849152809,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0011717732263270232,
     "CrCrCtD": 0.2069101656300394
   },
+  "n_trials": 0.0,
   "prediction": 0.00377898181151709,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

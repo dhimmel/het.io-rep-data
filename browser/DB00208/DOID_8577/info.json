@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.37550549028248864,
     "CbGbCtD": 0.4785655068723348,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0846541839579699,
     "CrCbGaD": 0.0007890647563031613
   },
+  "n_trials": 0.0,
   "prediction": 0.0030962873123176198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8784135240572171,
   "metapath_contribution": {
     "CbGaD": 0.4133888164004978,
     "CbGbCtD": 0.5040529156067356,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05891803356149188,
     "CrCbGaD": 0.004026010996582123
   },
+  "n_trials": 0.0,
   "prediction": 0.00267572320679671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00388",
   "compound_name": "Phenylephrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGbCtD": 0.03464550978220551,
     "CbGpPWpGaD": 0.02896161461309862,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.3328824331179603,
     "CrCtD": 0.5268634172188921
   },
+  "n_trials": 0.0,
   "prediction": 0.0188336826634691,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

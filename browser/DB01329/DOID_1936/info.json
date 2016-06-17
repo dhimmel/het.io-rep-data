@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01329",
   "compound_name": "Cefoperazone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.601430429128739,
   "metapath_contribution": {
     "CbGaD": 0.30715434700690053,
     "CbGbCtD": 0.6388925236737377,
     "CbGpPWpGaD": 0.05032336947838816,
     "CrCbGaD": 0.0036297598409735054
   },
+  "n_trials": 0.0,
   "prediction": 0.00212898552290973,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

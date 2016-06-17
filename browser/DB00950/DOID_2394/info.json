@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00950",
   "compound_name": "Fexofenadine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.49024707412223706,
   "metapath_contribution": {
     "CbGaD": 0.30694470481107394,
     "CbGbCtD": 0.5940257167059844,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09160447661235466,
     "CrCbGaD": 0.0009332288360316528
   },
+  "n_trials": 0.0,
   "prediction": 0.0014412438644890802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

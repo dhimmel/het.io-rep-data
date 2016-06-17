@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01002",
   "compound_name": "Levobupivacaine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.4941482444733421,
   "metapath_contribution": {
-    "CbGbCtD": 0.36122501188259204,
-    "CbGpPWpGaD": 0.0391996016303901,
-    "CcSEcCtD": 0.22339672970149552,
-    "CrCbGaD": 0.001238185734713031,
-    "CrCrCtD": 0.37494047105080924
+    "CbGbCtD": 0.36122501188259215,
+    "CbGpPWpGaD": 0.03919960163039011,
+    "CcSEcCtD": 0.22339672970149554,
+    "CrCbGaD": 0.0012381857347130312,
+    "CrCrCtD": 0.37494047105080935
   },
+  "n_trials": 1.0,
   "prediction": 0.00388125037961026,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

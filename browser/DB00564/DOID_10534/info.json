@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.099479843953186,
   "metapath_contribution": {
     "CbGbCtD": 0.685404658268016,
     "CbGeAlD": 0.039912132795674196,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2154128174305745,
     "CrCbGaD": 0.0033507381078056613
   },
+  "n_trials": 0.0,
   "prediction": 0.000721635842025709,
   "status": 0,
   "training_prediction": 0.00159175934806104

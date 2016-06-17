@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.8752597185304792,
     "CbGeAlD": 0.11097485318443269,
     "CcSEcCtD": 0.01220228866926293,
     "CrCbGaD": 0.0015631396158251258
   },
+  "n_trials": 0.0,
   "prediction": 0.00260120259245841,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

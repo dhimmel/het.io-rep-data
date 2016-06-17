@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5546163849154749,
   "metapath_contribution": {
     "CbGaD": 0.5178414338924294,
     "CbGeAlD": 0.1498662724170431,
     "CbGpPWpGaD": 0.18653193331777002,
     "CcSEcCtD": 0.14576036037275744
   },
+  "n_trials": 0.0,
   "prediction": 0.0015766435537201099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

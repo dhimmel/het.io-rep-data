@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.2602929935764796,
     "CbGbCtD": 0.05576418002027425,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.07294634215704573,
     "CiPCiCtD": 0.4759858188368514
   },
+  "n_trials": 0.0,
   "prediction": 0.008796275331938459,
   "status": 0,
   "training_prediction": 0.0364099016204945

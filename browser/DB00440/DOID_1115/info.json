@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00440",
   "compound_name": "Trimethoprim",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.447984395318596,
   "metapath_contribution": {
     "CbGbCtD": 0.6625678279332269,
     "CbGdCrCtD": 0.009623207106854844,
     "CbGeAlD": 0.05965345115656742,
     "CcSEcCtD": 0.2681555138033508
   },
+  "n_trials": 0.0,
   "prediction": 0.00133785891281175,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

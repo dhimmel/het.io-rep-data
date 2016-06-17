@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01160",
   "compound_name": "Dinoprost Tromethamine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8042912873862159,
   "metapath_contribution": {
     "CbGaD": 0.5167337250466834,
     "CbGbCtD": 0.1720097550927518,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12677452824039634,
     "CrCbGaD": 0.0048683027171421665
   },
+  "n_trials": 0.0,
   "prediction": 0.0047710926848732104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7074122236670999,
   "metapath_contribution": {
     "CbGaD": 0.3575375134305106,
     "CbGbCtD": 0.5394736308901513,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.008463994565935941,
     "CrCbGaD": 0.003851069425138031
   },
+  "n_trials": 0.0,
   "prediction": 0.00259565460247422,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

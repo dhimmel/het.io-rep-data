@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.44169735809490424,
     "CbGbCtD": 0.3081704930097208,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1087840349009036,
     "CcSEcCtD": 0.07451032612405697
   },
+  "n_trials": 0.0,
   "prediction": 0.0035656966318246,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

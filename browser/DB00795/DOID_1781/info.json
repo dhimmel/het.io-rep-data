@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.32155538121187194,
     "CbGbCtD": 0.14483587252914115,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002445985445557001,
     "CrCrCtD": 0.43806890186791386
   },
+  "n_trials": 0.0,
   "prediction": 0.00533682148078382,
   "status": 0,
   "training_prediction": 0.018197187067399

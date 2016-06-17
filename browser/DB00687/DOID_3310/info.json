@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGbCtD": 0.21039922854514,
     "CcSEcCtD": 0.06405378593391967,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.23054351683558452,
     "CrCtD": 0.3401505820894001
   },
+  "n_trials": 0.0,
   "prediction": 0.0387761732281339,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

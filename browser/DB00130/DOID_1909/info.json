@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.45058517555266603,
   "metapath_contribution": {
     "CbGeAlD": 0.33394705969801436,
     "CbGpPWpGaD": 0.46598835747564893,
     "CcSEcCtD": 0.18667908617459752,
     "CrCbGaD": 0.013385496651739286
   },
+  "n_trials": 0.0,
   "prediction": 0.0013301572174906,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00481",
   "compound_name": "Raloxifene",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.5727325636774447,
     "CbGbCtD": 0.23577505547481636,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.05599117548326684,
     "CcSEcCtD": 0.10036009922495896
   },
+  "n_trials": 0.0,
   "prediction": 0.00459402938991184,
   "status": 0,
   "training_prediction": 0.0193920205043314

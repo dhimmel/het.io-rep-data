@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.2390211973423976,
     "CbGbCtD": 0.2601559574712961,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08276993424802563,
     "CpDpCtD": 0.33801920546002856
   },
+  "n_trials": 0.0,
   "prediction": 0.00988393440401232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

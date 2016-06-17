@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.864109232769831,
   "metapath_contribution": {
     "CbGaD": 0.289692996195651,
     "CbGbCtD": 0.5070720159820886,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12419874414119729,
     "CrCbGaD": 0.0012116542009357213
   },
+  "n_trials": 3.0,
   "prediction": 0.0043825795389811,
   "status": 0,
   "training_prediction": 0.0148749142058463

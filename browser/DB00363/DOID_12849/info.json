@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.640442132639792,
   "metapath_contribution": {
     "CbGaD": 0.709842941594521,
     "CbGeAlD": 0.10752013518599066,
     "CbGpPWpGaD": 0.17419169621299824,
     "CrCbGaD": 0.008445227006490141
   },
+  "n_trials": 0.0,
   "prediction": 0.00167153969399641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

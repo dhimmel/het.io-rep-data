@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01349",
   "compound_name": "Tasosartan",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.423927178153446,
   "metapath_contribution": {
     "CbGaD": 0.33108638784543737,
     "CbGbCtD": 0.49600093973605847,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14498621793257685,
     "CrCbGaD": 0.005925354789106581
   },
+  "n_trials": 0.0,
   "prediction": 0.00199939630960752,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

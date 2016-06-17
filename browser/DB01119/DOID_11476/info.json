@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01119",
   "compound_name": "Diazoxide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.6034808134942646,
     "CbGbCtD": 0.21405881706634516,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1554276306523557,
     "CrCbGaD": 0.003313435913622593
   },
+  "n_trials": 0.0,
   "prediction": 0.0047170340474103605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

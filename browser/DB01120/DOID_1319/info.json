@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8042912873862159,
   "metapath_contribution": {
     "CbGaD": 0.8099774312751554,
     "CbGeAlD": 0.006790278310249184,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12226097747278027,
     "CrCbGaD": 0.004574683992358863
   },
+  "n_trials": 0.0,
   "prediction": 0.0024497389641218,
   "status": 0,
   "training_prediction": 0.0044719913838601

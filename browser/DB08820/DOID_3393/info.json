@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08820",
   "compound_name": "Ivacaftor",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.25040590280710845,
     "CbGbCtD": 0.24844050700707934,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05707308552101298,
     "CiPCiCtD": 0.42322134100889236
   },
+  "n_trials": 0.0,
   "prediction": 0.0152695985741524,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

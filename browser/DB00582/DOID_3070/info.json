@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.7873862158647591,
   "metapath_contribution": {
     "CbGaD": 0.7803733528708543,
     "CbGbCtD": 0.0031713196719972948,
     "CbGpPWpGaD": 0.07682108147126933,
     "CcSEcCtD": 0.13963424598587917
   },
+  "n_trials": 0.0,
   "prediction": 0.0021053256831558,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

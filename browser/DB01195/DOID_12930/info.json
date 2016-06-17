@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01195",
   "compound_name": "Flecainide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.7938006504649598,
     "CbGeAlD": 0.1129905921821727,
     "CbGpPWpGaD": 0.007425884779968591,
     "CcSEcCtD": 0.08578287257289899
   },
+  "n_trials": 0.0,
   "prediction": 0.005113871446068821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

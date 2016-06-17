@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.644343302990897,
   "metapath_contribution": {
     "CbGaD": 0.18587684411614297,
     "CbGbCtD": 0.45933851718624585,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.14558344663451545,
     "CcSEcCtD": 0.12346099223655559
   },
+  "n_trials": 0.0,
   "prediction": 0.00168996318106325,
   "status": 0,
   "training_prediction": 0.000761975741347992

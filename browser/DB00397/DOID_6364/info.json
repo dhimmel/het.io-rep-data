@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7340702210663199,
   "metapath_contribution": {
     "CbGbCtD": 0.4945515089154207,
     "CbGeAlD": 0.03953889586063286,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0020585641048045935,
     "CrCrCtD": 0.2977573032262241
   },
+  "n_trials": 0.0,
   "prediction": 0.00374765619134326,
   "status": 0,
   "training_prediction": 0.00683399541506144

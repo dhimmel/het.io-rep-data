@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01589",
   "compound_name": "Quazepam",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.8612757595444464,
     "CbGeAlD": 0.04394582952507422,
     "CbGpPWpGaD": 0.0850832126320815,
     "CrCbGaD": 0.009695198298397935
   },
+  "n_trials": 0.0,
   "prediction": 0.00148354744581428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

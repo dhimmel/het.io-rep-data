@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.16232431542182812,
     "CbGbCtD": 0.28571625674151163,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.17893718262467453,
     "CrCtD": 0.2702239491058351
   },
+  "n_trials": 0.0,
   "prediction": 0.0430996459825829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

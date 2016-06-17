@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.24187256176853103,
   "metapath_contribution": {
     "CbGbCtD": 0.4254695424917288,
     "CbGeAlD": 0.15086345426760414,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09730752061585209,
     "CrCbGaD": 0.01553690427867587
   },
+  "n_trials": 0.0,
   "prediction": 0.00140607363029665,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

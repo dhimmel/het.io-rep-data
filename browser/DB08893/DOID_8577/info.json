@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.4134099982406266,
     "CbGbCtD": 0.4849046691650505,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09478511606028148,
     "CrCbGaD": 0.0026336081277457753
   },
+  "n_trials": 0.0,
   "prediction": 0.00308567891865939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

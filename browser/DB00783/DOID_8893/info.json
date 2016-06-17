@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.7860858257477241,
   "metapath_contribution": {
     "CbGbCtD": 0.39458508564075906,
     "CbGpPWpGaD": 0.038607383032436146,
@@ -10,6 +12,7 @@
     "CpDpCtD": 0.37487117498805134,
     "CrCrCtD": 0.06455765854125742
   },
+  "n_trials": 0.0,
   "prediction": 0.00294665031050388,
   "status": 0,
   "training_prediction": 0.0205847953496884

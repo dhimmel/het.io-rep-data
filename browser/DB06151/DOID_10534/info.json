@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGbCtD": 0.1536631071161171,
     "CbGeAlD": 0.14352956251963522,
     "CbGpPWpGaD": 0.46110692105540607,
     "CcSEcCtD": 0.24170040930884165
   },
+  "n_trials": 1.0,
   "prediction": 0.00145618375704963,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

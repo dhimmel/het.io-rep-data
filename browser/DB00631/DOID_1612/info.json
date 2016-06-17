@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.09016213011976622,
     "CbGbCtD": 0.2001071690310521,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.001861014839784855,
     "CrCrCtD": 0.1282374747016038
   },
+  "n_trials": 0.0,
   "prediction": 0.0109548868874462,
   "status": 0,
   "training_prediction": 0.0579251392449533

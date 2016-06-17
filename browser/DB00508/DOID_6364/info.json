@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00508",
   "compound_name": "Triflupromazine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.40394249938982996,
     "CbGbCtD": 0.19099435635287712,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003791792682707398,
     "CrCrCtD": 0.33754575007473075
   },
+  "n_trials": 0.0,
   "prediction": 0.00514442571520819,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

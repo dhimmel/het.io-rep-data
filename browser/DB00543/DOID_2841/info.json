@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
-    "CbGaD": 0.31545182670224,
-    "CbGbCtD": 0.1574900417546538,
-    "CbGeAlD": 0.02982644387391434,
-    "CbGpPWpGaD": 0.08359266142631158,
-    "CcSEcCtD": 0.11048224547590306,
-    "CrCbGaD": 0.0023695989555371005,
-    "CrCrCtD": 0.3007871818114403
+    "CbGaD": 0.3154518267022399,
+    "CbGbCtD": 0.15749004175465375,
+    "CbGeAlD": 0.029826443873914334,
+    "CbGpPWpGaD": 0.08359266142631155,
+    "CcSEcCtD": 0.11048224547590303,
+    "CrCbGaD": 0.0023695989555370996,
+    "CrCrCtD": 0.3007871818114402
   },
+  "n_trials": 0.0,
   "prediction": 0.00639013685772195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

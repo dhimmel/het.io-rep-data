@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00464",
   "compound_name": "Sodium Tetradecyl Sulfate",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.27178153446033804,
   "metapath_contribution": {
     "CbGdCrCtD": 0.024111025792624013,
     "CbGeAlD": 0.1487193053937839,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.45215812617757845,
     "CrCbGaD": 0.008933937574327817
   },
+  "n_trials": 0.0,
   "prediction": 0.0011897705195081801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

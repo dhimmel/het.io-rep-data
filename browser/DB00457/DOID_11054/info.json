@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.6229385290745441,
     "CbGbCtD": 0.21966793997260792,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04668709947959499,
     "CcSEcCtD": 0.05878255250101226
   },
+  "n_trials": 0.0,
   "prediction": 0.00474425649114407,
   "status": 0,
   "training_prediction": 0.0120979768289679

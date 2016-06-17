@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01551",
   "compound_name": "Dihydrocodeine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.340052015604681,
   "metapath_contribution": {
     "CbGaD": 0.4015703298264531,
     "CbGbCtD": 0.4163959058678243,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14780626175663436,
     "CrCbGaD": 0.0037633970859917683
   },
+  "n_trials": 0.0,
   "prediction": 0.00177269536018602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

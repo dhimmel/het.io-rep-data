@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.308842652795839,
   "metapath_contribution": {
     "CbGaD": 0.08357640700413932,
     "CbGbCtD": 0.6474160877780522,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17649404535841598,
     "CrCbGaD": 0.0012570043034706763
   },
+  "n_trials": 0.0,
   "prediction": 0.0024249520110521698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

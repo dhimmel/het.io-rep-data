@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.09035881464074862,
     "CbGbCtD": 0.19981888995384492,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.14330427312692123,
     "CrCtD": 0.36783769926147963
   },
+  "n_trials": 0.0,
   "prediction": 0.0197924617698493,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.5122497201315039,
     "CbGbCtD": 0.262753032582697,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16005230663402573,
     "CrCbGaD": 0.0032231834580854287
   },
+  "n_trials": 1.0,
   "prediction": 0.00336560384407482,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01559",
   "compound_name": "Clotiazepam",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.448634590377113,
   "metapath_contribution": {
     "CbGbCtD": 0.6692693718714237,
     "CbGpPWpGaD": 0.3215241810686918,
     "CrCbGaD": 0.009206447059884592
   },
+  "n_trials": 0.0,
   "prediction": 0.00167290829550576,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

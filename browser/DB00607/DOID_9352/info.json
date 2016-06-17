@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00607",
   "compound_name": "Nafcillin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.38751625487646296,
   "metapath_contribution": {
     "CbGaD": 0.3912332480986585,
     "CbGbCtD": 0.45510436398811327,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1351844428050015,
     "CrCbGaD": 0.0002900675143188832
   },
+  "n_trials": 0.0,
   "prediction": 0.00206160778078085,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

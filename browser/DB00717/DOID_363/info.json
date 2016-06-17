@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.10214710299550103,
     "CbGbCtD": 0.1425497609395822,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.16555882765999833,
     "CrCtD": 0.2136368490277228
   },
+  "n_trials": 0.0,
   "prediction": 0.0887047438866497,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

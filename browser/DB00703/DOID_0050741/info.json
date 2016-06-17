@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.3960283796797598,
     "CbGbCtD": 0.3796944987380588,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06324992673391519,
     "CcSEcCtD": 0.10139454373977898
   },
+  "n_trials": 0.0,
   "prediction": 0.00592260639874391,
   "status": 0,
   "training_prediction": 0.007182009792071221

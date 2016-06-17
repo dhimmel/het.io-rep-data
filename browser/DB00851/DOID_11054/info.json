@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00851",
   "compound_name": "Dacarbazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.0867738919034715,
     "CbGdCrCtD": 0.0008099238498074504,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.5720812715953942,
     "CtDrD": 0.2886508538389009
   },
+  "n_trials": 0.0,
   "prediction": 0.0221449052441043,
   "status": 0,
   "training_prediction": 0.208249185582738

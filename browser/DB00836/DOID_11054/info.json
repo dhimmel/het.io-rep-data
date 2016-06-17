@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.335500650195059,
   "metapath_contribution": {
     "CbGbCtD": 0.5788138890832767,
     "CbGeAlD": 0.10511105481345055,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1359941978429772,
     "CrCbGaD": 0.0012192380682378907
   },
+  "n_trials": 0.0,
   "prediction": 0.00117188930492351,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

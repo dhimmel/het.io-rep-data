@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00135",
   "compound_name": "L-Tyrosine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.514954486345904,
   "metapath_contribution": {
     "CbGaD": 0.40147261482903435,
     "CbGdCrCtD": 0.002420059338456652,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0048143192985182935,
     "CrCrCtD": 0.3953756277795621
   },
+  "n_trials": 0.0,
   "prediction": 0.00410937544963641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

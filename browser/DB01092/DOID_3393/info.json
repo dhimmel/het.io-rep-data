@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.503250975292588,
   "metapath_contribution": {
     "CbGaD": 0.36145604919208013,
     "CbGbCtD": 0.5606244214426946,
     "CbGpPWpGaD": 0.0742291575183768,
     "CrCbGaD": 0.0036903718468484403
   },
+  "n_trials": 0.0,
   "prediction": 0.00239727547881706,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

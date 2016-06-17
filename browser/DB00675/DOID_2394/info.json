@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.2090163107060392,
     "CbGbCtD": 0.2714324240784594,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0010020729744729896,
     "CtDrD": 0.3759129590425958
   },
+  "n_trials": 9.0,
   "prediction": 0.00936849881798292,
   "status": 0,
   "training_prediction": 0.0363271651705885

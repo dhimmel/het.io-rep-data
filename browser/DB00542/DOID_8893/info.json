@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.645643693107932,
   "metapath_contribution": {
     "CbGaD": 0.6968245694409201,
     "CbGbCtD": 0.1337080383862834,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16300600159174763,
     "CrCbGaD": 0.005954169959938183
   },
+  "n_trials": 0.0,
   "prediction": 0.00227395959288552,
   "status": 0,
   "training_prediction": 0.009610998995113279

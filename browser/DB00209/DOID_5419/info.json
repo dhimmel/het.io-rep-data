@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00209",
   "compound_name": "Trospium",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.673602080624187,
   "metapath_contribution": {
     "CbGaD": 0.8682203881986253,
     "CbGeAlD": 0.016764422867343965,
     "CbGpPWpGaD": 0.10678292825571584,
     "CrCbGaD": 0.00823226067831479
   },
+  "n_trials": 0.0,
   "prediction": 0.0019839456322202397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

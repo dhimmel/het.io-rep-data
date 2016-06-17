@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.7802340702210658,
   "metapath_contribution": {
     "CbGbCtD": 0.6121302728317203,
     "CbGdCrCtD": 0.004649724262975053,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2929143465945981,
     "CrCbGaD": 0.0020701599888185954
   },
+  "n_trials": 0.0,
   "prediction": 0.0021808003247228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

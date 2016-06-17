@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.3784753836985648,
     "CbGbCtD": 0.48343903051518144,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04433969751962511,
     "CcSEcCtD": 0.04841277518633044
   },
+  "n_trials": 0.0,
   "prediction": 0.00539513197193229,
   "status": 0,
   "training_prediction": 0.0288952565019425

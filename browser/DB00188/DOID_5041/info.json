@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.2121909026049327,
     "CbGbCtD": 0.4420410979718084,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10975945110017002,
     "CrCbGaD": 0.0020729434791867504
   },
+  "n_trials": 0.0,
   "prediction": 0.004997900034589079,
   "status": 0,
   "training_prediction": 0.006061869750093279

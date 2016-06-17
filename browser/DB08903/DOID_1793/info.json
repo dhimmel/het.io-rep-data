@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08903",
   "compound_name": "Bedaquiline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.04714263256777028,
     "CcSEcCtD": 0.040111914177680064,
     "CrCrCtD": 0.2981959722098929,
     "CrCtD": 0.6145494810446568
   },
+  "n_trials": 0.0,
   "prediction": 0.00660233509473198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

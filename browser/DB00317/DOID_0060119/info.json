@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:0060119",
   "disease_name": "pharynx cancer",
+  "disease_percentile": 0.728218465539662,
   "metapath_contribution": {
     "CbGaD": 0.8676174832060676,
     "CbGeAlD": 0.06674014783765088,
     "CbGpPWpGaD": 0.053872735755462024,
     "CrCbGaD": 0.011769633200819586
   },
+  "n_trials": 0.0,
   "prediction": 0.00155901215635274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

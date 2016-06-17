@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.601430429128739,
   "metapath_contribution": {
     "CbGaD": 0.23965086305149247,
     "CbGbCtD": 0.5573881871341575,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1569018451611103,
     "CrCbGaD": 0.0021691168009317463
   },
+  "n_trials": 0.0,
   "prediction": 0.00213408499118382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGaD": 0.8239280835491363,
     "CbGeAlD": 0.05341075663599534,
     "CbGpPWpGaD": 0.11784022824323163,
     "CrCbGaD": 0.0048209315716367
   },
+  "n_trials": 0.0,
   "prediction": 0.00306917973128835,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

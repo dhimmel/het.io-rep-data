@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00119",
   "compound_name": "Pyruvic acid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.3603588709572114,
     "CbGeAlD": 0.0004545367452453129,
     "CbGpPWpGaD": 0.048430113997859424,
     "CrCtD": 0.5907564782996839
   },
+  "n_trials": 0.0,
   "prediction": 0.0186195813103912,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

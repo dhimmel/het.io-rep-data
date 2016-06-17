@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.44148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.09527242251609505,
     "CbGpPWpGaD": 0.3026736278787207,
     "CcSEcCtD": 0.5659675010125108,
     "CrCbGaD": 0.03608644859267338
   },
+  "n_trials": 0.0,
   "prediction": 0.00131049756986775,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

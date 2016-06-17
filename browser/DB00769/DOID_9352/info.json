@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00769",
   "compound_name": "Hydrocortamate",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.26853055916775,
   "metapath_contribution": {
     "CbGaD": 0.5868228893520885,
     "CbGbCtD": 0.3538666264883609,
     "CbGpPWpGaD": 0.05218502584938401,
     "CrCbGaD": 0.007125458310166525
   },
+  "n_trials": 0.0,
   "prediction": 0.0015953218550495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

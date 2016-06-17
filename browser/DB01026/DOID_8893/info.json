@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGbCtD": 0.39197289681534603,
     "CbGpPWpGaD": 0.041245030055781375,
     "CcSEcCtD": 0.08448708617181505,
     "CiPCiCtD": 0.4822949869570577
   },
+  "n_trials": 0.0,
   "prediction": 0.008711502055506259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

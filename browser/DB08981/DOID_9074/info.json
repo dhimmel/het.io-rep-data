@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.539011703511053,
   "metapath_contribution": {
     "CbGaD": 0.4654661611662396,
     "CbGbCtD": 0.5143328063629579,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.005597628160280067,
     "CrCbGaD": 0.0049882227808741
   },
+  "n_trials": 0.0,
   "prediction": 0.00203463911054157,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

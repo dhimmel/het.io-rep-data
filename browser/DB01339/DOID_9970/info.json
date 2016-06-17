@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01339",
   "compound_name": "Vecuronium",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.512353706111834,
   "metapath_contribution": {
     "CbGaD": 0.6791867039999155,
     "CbGbCtD": 0.1819289974431625,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09506860608654351,
     "CrCbGaD": 0.00673372524226487
   },
+  "n_trials": 0.0,
   "prediction": 0.00254457547035082,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

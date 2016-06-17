@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01297",
   "compound_name": "Practolol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGbCtD": 0.26084640224277394,
     "CrCbGaD": 3.297389965795955e-05,
     "CrCrCtD": 0.2966302281080073,
     "CrCtD": 0.44249039574956084
   },
+  "n_trials": 0.0,
   "prediction": 0.0192218250443539,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

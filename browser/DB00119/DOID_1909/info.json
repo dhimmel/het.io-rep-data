@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00119",
   "compound_name": "Pyruvic acid",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.486996098829649,
   "metapath_contribution": {
-    "CbGeAlD": 0.35211473887888395,
+    "CbGeAlD": 0.352114738878884,
     "CbGpPWpGaD": 0.6366814861181549,
-    "CrCbGaD": 0.01120377500296114
+    "CrCbGaD": 0.011203775002961141
   },
+  "n_trials": 0.0,
   "prediction": 0.00141441141972754,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

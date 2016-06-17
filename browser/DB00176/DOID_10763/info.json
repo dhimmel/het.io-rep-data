@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8088426527958391,
   "metapath_contribution": {
     "CbGaD": 0.2891708985119145,
     "CbGbCtD": 0.44951971962302406,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17136437774125246,
     "CrCbGaD": 0.0035461306683103196
   },
+  "n_trials": 0.0,
   "prediction": 0.0102670146206242,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01220",
   "compound_name": "Rifaximin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.4369310793237971,
   "metapath_contribution": {
     "CbGaD": 0.3463398856375524,
     "CbGbCtD": 0.36749351252253026,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24536516415516973,
     "CrCbGaD": 0.0045430646942383615
   },
+  "n_trials": 0.0,
   "prediction": 0.00225123708041997,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

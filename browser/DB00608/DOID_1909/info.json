@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6222366710013001,
   "metapath_contribution": {
     "CbGaD": 0.48855480869988177,
     "CbGbCtD": 0.28905386654143406,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06661245308900361,
     "CrCbGaD": 0.006890911156699421
   },
+  "n_trials": 0.0,
   "prediction": 0.00173240174326701,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

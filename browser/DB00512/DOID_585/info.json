@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00512",
   "compound_name": "Vancomycin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGbCtD": 0.8123039669742607,
     "CbGpPWpGaD": 0.10663963407512761,
     "CcSEcCtD": 0.08105639895061167
   },
+  "n_trials": 1.0,
   "prediction": 0.0030387965382889896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

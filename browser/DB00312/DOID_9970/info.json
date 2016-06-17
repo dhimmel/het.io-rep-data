@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.39252098800605933,
     "CbGbCtD": 0.3951713757532146,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08865874423317227,
     "CrCbGaD": 0.004821822193405618
   },
+  "n_trials": 0.0,
   "prediction": 0.00487068316170134,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

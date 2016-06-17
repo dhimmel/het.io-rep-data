@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08808",
   "compound_name": "Bupranolol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGbCtD": 0.2516384481647008,
     "CbGpPWpGaD": 0.033376102010134835,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2701303164966428,
     "CrCtD": 0.4431005195001675
   },
+  "n_trials": 0.0,
   "prediction": 0.0194608871598939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.0981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.23122056815595027,
     "CbGbCtD": 0.408974698076117,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2132881461983738,
     "CrCbGaD": 0.0017230147173483731
   },
+  "n_trials": 0.0,
   "prediction": 0.00101437069310767,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

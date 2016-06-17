@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.317295188556567,
   "metapath_contribution": {
     "CbGaD": 0.24926597974390144,
     "CbGbCtD": 0.3497748299344158,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0042563963466240974,
     "CrCrCtD": 0.11702149888427553
   },
+  "n_trials": 0.0,
   "prediction": 0.00165765673595829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

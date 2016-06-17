@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.0637191157347204,
   "metapath_contribution": {
     "CbGbCtD": 0.30792219384456987,
     "CbGeAlD": 0.12845271270471414,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.48551924056928525,
     "CrCbGaD": 0.0023897533895846372
   },
+  "n_trials": 0.0,
   "prediction": 0.000825631911378486,
   "status": 0,
   "training_prediction": 0.00100228991273885

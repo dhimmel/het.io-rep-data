@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.32257333116113596,
     "CbGbCtD": 0.5026582424227916,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10504873343646527,
     "CrCbGaD": 0.0018632287820038802
   },
+  "n_trials": 0.0,
   "prediction": 0.00327389152799564,
   "status": 0,
   "training_prediction": 0.0094967661031062

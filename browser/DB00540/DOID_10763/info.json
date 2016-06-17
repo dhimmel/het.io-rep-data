@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.871911573472042,
   "metapath_contribution": {
     "CbGaD": 0.2002688137614648,
     "CbGbCtD": 0.265914032437883,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.00198643585744281,
     "CrCrCtD": 0.15997617728179245
   },
+  "n_trials": 0.0,
   "prediction": 0.0152878767982602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

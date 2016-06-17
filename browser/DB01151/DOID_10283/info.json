@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGaD": 0.4155232182248153,
     "CbGbCtD": 0.3347222850183707,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11056703262137359,
     "CrCbGaD": 0.0025767184554626294
   },
+  "n_trials": 0.0,
   "prediction": 0.00299138030123326,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

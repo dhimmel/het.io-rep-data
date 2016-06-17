@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01093",
   "compound_name": "Dimethyl sulfoxide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.844603381014304,
   "metapath_contribution": {
     "CbGaD": 0.4060536813791291,
     "CbGbCtD": 0.46252091711308263,
     "CbGpPWpGaD": 0.06707547196633225,
     "CcSEcCtD": 0.064349929541456
   },
+  "n_trials": 0.0,
   "prediction": 0.0053682363759233395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

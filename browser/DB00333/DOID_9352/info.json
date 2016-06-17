@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.509752925877763,
   "metapath_contribution": {
     "CbGaD": 0.20944624025749628,
     "CbGbCtD": 0.4580778771770964,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0026349307627425867,
     "CrCrCtD": 0.14618093213313485
   },
+  "n_trials": 0.0,
   "prediction": 0.00254227220284428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

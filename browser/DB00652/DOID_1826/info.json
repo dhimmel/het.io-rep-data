@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00652",
   "compound_name": "Pentazocine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.6258661584229561,
     "CbGdCrCtD": 0.0018738193016052927,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2293829879554691,
     "CrCbGaD": 0.005605073656216012
   },
+  "n_trials": 0.0,
   "prediction": 0.00309511598327944,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.8787367398435086,
     "CbGeAlD": 0.044551663021229905,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0487566072025103,
     "CrCbGaD": 0.0036991676776025016
   },
+  "n_trials": 0.0,
   "prediction": 0.00230896852917099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

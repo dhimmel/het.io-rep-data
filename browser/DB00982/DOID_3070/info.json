@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.555266579973992,
   "metapath_contribution": {
     "CbGeAlD": 0.01984242263629166,
     "CbGpPWpGaD": 0.05488905553219003,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.00183753115105848,
     "CtDrD": 0.8336968772215247
   },
+  "n_trials": 4.0,
   "prediction": 0.0014902207845373901,
   "status": 0,
   "training_prediction": 0.0010990598381108

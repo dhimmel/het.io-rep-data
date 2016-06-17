@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.110294117647059,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.165799739921977,
   "metapath_contribution": {
     "CbGaD": 0.1686020023689005,
     "CbGbCtD": 0.2850057666811794,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10250674755784829,
     "CrCbGaD": 0.00027778977475872784
   },
+  "n_trials": 0.0,
   "prediction": 0.0008177372675443389,
   "status": 0,
   "training_prediction": 0.0014947957667214

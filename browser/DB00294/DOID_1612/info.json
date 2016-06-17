@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00294",
   "compound_name": "Etonogestrel",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
     "CbGaD": 0.30027803341510734,
     "CbGbCtD": 0.33218922675238305,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0027936414632663636,
     "CrCrCtD": 0.19964481871626658
   },
+  "n_trials": 0.0,
   "prediction": 0.00413581995162605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

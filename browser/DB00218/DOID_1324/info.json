@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.315994798439532,
   "metapath_contribution": {
     "CbGbCtD": 0.6841335712818364,
     "CbGdCrCtD": 0.007125576669968526,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.28505796928481447,
     "CrCbGaD": 0.002432135243582265
   },
+  "n_trials": 0.0,
   "prediction": 0.00129040369354726,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

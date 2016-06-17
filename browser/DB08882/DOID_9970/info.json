@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08882",
   "compound_name": "Linagliptin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.3117484365532175,
     "CbGbCtD": 0.11134568741443485,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002841187990823126,
     "CtDrD": 0.4854017113340961
   },
+  "n_trials": 0.0,
   "prediction": 0.0104862144772621,
   "status": 0,
   "training_prediction": 0.0265031113143981

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
     "CbGaD": 0.5891134519116165,
     "CbGbCtD": 0.3438429775618388,
     "CbGpPWpGaD": 0.06120925686608536,
     "CrCbGaD": 0.005834313660459332
   },
+  "n_trials": 0.0,
   "prediction": 0.00209401607256078,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.714564369310793,
   "metapath_contribution": {
     "CbGaD": 0.8870363484444537,
     "CbGeAlD": 0.025706560441545387,
     "CbGpPWpGaD": 0.07834657733578966,
     "CrCbGaD": 0.008910513778211311
   },
+  "n_trials": 0.0,
   "prediction": 0.00186778020865984,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

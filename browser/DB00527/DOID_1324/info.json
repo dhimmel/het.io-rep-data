@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 0.17647058823529396,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0611183355006502,
   "metapath_contribution": {
     "CbGbCtD": 0.27772811561041305,
     "CbGeAlD": 0.1420202050171948,
     "CbGpPWpGaD": 0.5601917250452235,
     "CrCbGaD": 0.02005995432716859
   },
+  "n_trials": 0.0,
   "prediction": 0.000713282210634254,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

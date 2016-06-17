@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00903",
   "compound_name": "Ethacrynic acid",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGaD": 0.6344255252738734,
     "CbGbCtD": 0.15587589434458896,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06869746707195322,
     "CcSEcCtD": 0.10604130016300933
   },
+  "n_trials": 0.0,
   "prediction": 0.00280410009518103,
   "status": 0,
   "training_prediction": 0.0051173759703857895

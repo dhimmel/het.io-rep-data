@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.391417425227568,
   "metapath_contribution": {
     "CbGbCtD": 0.647511362143534,
     "CbGdCrCtD": 0.008975327156162312,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10192342297237031,
     "CrCbGaD": 0.0028712209034513
   },
+  "n_trials": 0.0,
   "prediction": 0.00124592070240915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

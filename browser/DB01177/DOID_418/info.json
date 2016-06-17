@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.000650195058517555,
   "metapath_contribution": {
     "CbGbCtD": 0.4352368121394735,
     "CbGdCrCtD": 0.0018722784345764536,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5287703718548152,
     "CrCbGaD": 0.008122793030175057
   },
+  "n_trials": 0.0,
   "prediction": 0.0005170864894567719,
   "status": 0,
   "training_prediction": 0.00205796106466826

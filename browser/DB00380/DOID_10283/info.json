@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00380",
   "compound_name": "Dexrazoxane",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.35653619793336216,
     "CbGbCtD": 0.46837936741397035,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.0019511262967985767,
     "CcSEcCtD": 0.14888559518054306
   },
+  "n_trials": 0.0,
   "prediction": 0.007780572144799141,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

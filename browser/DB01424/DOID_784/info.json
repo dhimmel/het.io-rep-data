@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01424",
   "compound_name": "Aminophenazone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGaD": 0.8044472607137596,
     "CbGeAlD": 0.0442725818705512,
     "CbGpPWpGaD": 0.14470879583264493,
     "CrCbGaD": 0.006571361583044291
   },
+  "n_trials": 0.0,
   "prediction": 0.0037980631199327204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

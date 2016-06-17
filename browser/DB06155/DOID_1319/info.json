@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06155",
   "compound_name": "Rimonabant",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.590568429493762,
     "CbGbCtD": 0.3348371851571902,
     "CbGpPWpGaD": 0.02122002790325931,
     "CcSEcCtD": 0.05337435744578861
   },
+  "n_trials": 0.0,
   "prediction": 0.00620706886167025,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

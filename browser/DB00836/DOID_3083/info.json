@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.229518855656697,
   "metapath_contribution": {
     "CbGbCtD": 0.534504379491995,
     "CbGeAlD": 0.033104363150407365,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21769639160632767,
     "CrCbGaD": 0.007244464960557018
   },
+  "n_trials": 0.0,
   "prediction": 0.00144884631232483,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

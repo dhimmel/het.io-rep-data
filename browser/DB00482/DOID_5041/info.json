@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.630039011703511,
   "metapath_contribution": {
     "CbGaD": 0.536733347191463,
     "CbGbCtD": 0.14502575877052024,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10228156116127166,
     "CrCbGaD": 0.0021338589103089708
   },
+  "n_trials": 0.0,
   "prediction": 0.0017592880919853,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

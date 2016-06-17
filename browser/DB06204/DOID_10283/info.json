@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06204",
   "compound_name": "Tapentadol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.580624187256177,
   "metapath_contribution": {
     "CbGaD": 0.22259401410325688,
     "CbGbCtD": 0.4121487716378801,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20446824096844404,
     "CrCbGaD": 0.004220317580628263
   },
+  "n_trials": 0.0,
   "prediction": 0.00263851996348824,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

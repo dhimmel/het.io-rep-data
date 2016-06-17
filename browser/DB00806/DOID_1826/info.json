@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00806",
   "compound_name": "Pentoxifylline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7074122236670999,
   "metapath_contribution": {
     "CbGaD": 0.4707327108259852,
     "CbGbCtD": 0.2632083893164645,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14398971805584987,
     "CrCbGaD": 0.0016917397514844485
   },
+  "n_trials": 0.0,
   "prediction": 0.0058807534596452896,
   "status": 0,
   "training_prediction": 0.0462655143352247

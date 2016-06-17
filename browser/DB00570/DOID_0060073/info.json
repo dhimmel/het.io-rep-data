@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGbCtD": 0.16725448156732056,
     "CbGdCrCtD": 0.0008809563353392731,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.16948296660229797,
     "CrCtD": 0.27354188475577035
   },
+  "n_trials": 5.0,
   "prediction": 0.11570718315230301,
   "status": 0,
   "training_prediction": 0.566342294614631

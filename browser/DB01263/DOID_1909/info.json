@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01263",
   "compound_name": "Posaconazole",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.682704811443433,
   "metapath_contribution": {
     "CbGaD": 0.4209669119803943,
     "CbGbCtD": 0.3239277116348967,
     "CcSEcCtD": 0.2505387642147084,
     "CrCbGaD": 0.0045666121700007455
   },
+  "n_trials": 0.0,
   "prediction": 0.00190906628586089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

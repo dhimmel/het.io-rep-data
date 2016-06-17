@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00986",
   "compound_name": "Glycopyrrolate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.45513654096228895,
   "metapath_contribution": {
     "CbGaD": 0.6442720769742727,
     "CbGeAlD": 0.00818539788493042,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22772873158897913,
     "CrCbGaD": 0.007311227219562826
   },
+  "n_trials": 0.0,
   "prediction": 0.00303597728042425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

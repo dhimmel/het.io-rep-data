@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.6682014393519703,
     "CbGeAlD": 0.09548100802166097,
     "CbGpPWpGaD": 0.23021275726762827,
     "CrCbGaD": 0.006104795358740534
   },
+  "n_trials": 0.0,
   "prediction": 0.00234264022962453,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

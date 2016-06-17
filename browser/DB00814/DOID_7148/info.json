@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8159947984395319,
   "metapath_contribution": {
     "CbGaD": 0.13889051858572932,
     "CbGbCtD": 0.3352285269649862,
@@ -15,6 +17,5 @@
     "CrCbGaD": 0.001571373787194229
   },
   "prediction": 0.00315160915754699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

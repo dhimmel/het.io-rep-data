@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.160598179453836,
   "metapath_contribution": {
     "CbGbCtD": 0.4261319842117222,
     "CbGeAlD": 0.05210933859269891,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.29572311330451045,
     "CrCbGaD": 0.00336529609603074
   },
+  "n_trials": 1.0,
   "prediction": 0.00122161997020967,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

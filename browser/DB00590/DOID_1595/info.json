@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.864759427828348,
   "metapath_contribution": {
     "CbGaD": 0.8092984599683738,
     "CbGeAlD": 0.09195144586145973,
     "CbGpPWpGaD": 0.09015510140785117,
     "CrCbGaD": 0.008594992762315344
   },
+  "n_trials": 0.0,
   "prediction": 0.00235873884933545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

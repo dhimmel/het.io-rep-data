@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01329",
   "compound_name": "Cefoperazone",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.46684005201560497,
   "metapath_contribution": {
     "CbGaD": 0.716309119839384,
     "CbGeAlD": 0.17073485043646308,
     "CbGpPWpGaD": 0.10914633105170732,
     "CrCbGaD": 0.003809698672445636
   },
+  "n_trials": 0.0,
   "prediction": 0.00092127042786184,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

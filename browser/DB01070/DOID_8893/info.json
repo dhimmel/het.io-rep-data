@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01070",
   "compound_name": "Dihydrotachysterol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.1767421126937275,
     "CbGbCtD": 0.22611924918157736,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2369317402790422,
     "CrCtD": 0.351836702292821
   },
+  "n_trials": 0.0,
   "prediction": 0.0856119324747271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

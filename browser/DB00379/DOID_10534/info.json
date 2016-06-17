@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00379",
   "compound_name": "Mexiletine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.6828161765967031,
     "CbGbCtD": 0.05367826232468936,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0828040514789811,
     "CcSEcCtD": 0.16308169973939185
   },
+  "n_trials": 0.0,
   "prediction": 0.0042804312622273,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

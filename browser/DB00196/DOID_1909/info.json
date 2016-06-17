@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6053315994798439,
   "metapath_contribution": {
     "CbGaD": 0.3248314047649344,
     "CbGbCtD": 0.415751907562372,
     "CbGpPWpGaD": 0.039676724266965176,
     "CcSEcCtD": 0.2197399634057285
   },
+  "n_trials": 0.0,
   "prediction": 0.00169364836444098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

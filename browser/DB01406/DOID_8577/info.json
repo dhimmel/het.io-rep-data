@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGbCtD": 0.2054460703595008,
     "CbGdCrCtD": 0.0024940239703195454,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2818177588239837,
     "CrCtD": 0.40470937380159017
   },
+  "n_trials": 0.0,
   "prediction": 0.00616906431351613,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

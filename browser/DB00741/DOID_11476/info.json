@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGaD": 0.24799928934996684,
     "CbGbCtD": 0.32764346286526913,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0023645178099791853,
     "CrCrCtD": 0.2836042760550679
   },
+  "n_trials": 0.0,
   "prediction": 0.00253121908725639,
   "status": 0,
   "training_prediction": 0.0404501469599179

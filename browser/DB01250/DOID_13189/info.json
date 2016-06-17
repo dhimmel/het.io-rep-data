@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.573472041612484,
   "metapath_contribution": {
     "CbGbCtD": 0.9317619296994039,
     "CbGdCrCtD": 0.0032350385652230927,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.010456555701517461,
     "CrCbGaD": 0.002620460112861456
   },
+  "n_trials": 0.0,
   "prediction": 0.0023684256852704103,
   "status": 0,
   "training_prediction": 0.00521383107218437

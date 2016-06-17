@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.6865290233162004,
     "CbGeAlD": 0.10519545482836984,
     "CbGpPWpGaD": 0.20827552185542977
   },
+  "n_trials": 3.0,
   "prediction": 0.00276863398903348,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

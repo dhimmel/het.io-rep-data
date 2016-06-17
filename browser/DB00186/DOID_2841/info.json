@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00186",
   "compound_name": "Lorazepam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.46228868660598205,
   "metapath_contribution": {
     "CbGaD": 0.8085812168663676,
     "CbGeAlD": 0.00031792080469152437,
     "CcSEcCtD": 0.18641710580723087,
     "CrCbGaD": 0.004683756521709856
   },
+  "n_trials": 0.0,
   "prediction": 0.00229572484364337,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

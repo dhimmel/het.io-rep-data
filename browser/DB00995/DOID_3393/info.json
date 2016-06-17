@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00995",
   "compound_name": "Auranofin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.17125581986385888,
     "CbGbCtD": 0.5082547027439464,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1519755820193454,
     "CcSEcCtD": 0.14847631800643019
   },
+  "n_trials": 0.0,
   "prediction": 0.00753992622507873,
   "status": 0,
   "training_prediction": 0.0640163031073498

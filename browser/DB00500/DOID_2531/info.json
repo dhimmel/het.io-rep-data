@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.645643693107932,
   "metapath_contribution": {
     "CbGaD": 0.22440497029489173,
     "CbGbCtD": 0.2789631343866162,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.2640269522607168,
     "CrCbGaD": 0.0014886803009344141
   },
+  "n_trials": 0.0,
   "prediction": 0.0030175839299104302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

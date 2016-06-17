@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.0604681404421326,
   "metapath_contribution": {
     "CbGdCrCtD": 0.011780773386829766,
     "CbGeAlD": 0.2242798818043404,
     "CcSEcCtD": 0.754159399343722,
     "CrCbGaD": 0.009779945465107867
   },
+  "n_trials": 0.0,
   "prediction": 0.000971100119986968,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

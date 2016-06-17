@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:14268",
   "disease_name": "sclerosing cholangitis",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.8510168611641488,
     "CbGeAlD": 0.07995509245448346,
     "CbGpPWpGaD": 0.06902804638136781
   },
+  "n_trials": 0.0,
   "prediction": 0.00246770428490824,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

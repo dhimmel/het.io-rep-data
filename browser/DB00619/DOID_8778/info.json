@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.546163849154746,
   "metapath_contribution": {
     "CbGaD": 0.1667303041611218,
     "CbGbCtD": 0.4015517324866079,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1267821052760037,
     "CcSEcCtD": 0.2033322621134724
   },
+  "n_trials": 0.0,
   "prediction": 0.0016702916562804,
   "status": 0,
   "training_prediction": 0.00272411390413644

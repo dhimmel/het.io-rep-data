@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.762028608582575,
   "metapath_contribution": {
     "CbGaD": 0.22441120429911104,
     "CbGbCtD": 0.2262307146322955,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08307021566860773,
     "CtDrD": 0.43673445857677085
   },
+  "n_trials": 0.0,
   "prediction": 0.00459105686325076,
   "status": 0,
   "training_prediction": 0.0193796594814572

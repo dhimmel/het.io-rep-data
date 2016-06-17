@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.7354556799755401,
     "CbGbCtD": 0.0049977270453167464,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15102375070718316,
     "CcSEcCtD": 0.09684949950737139
   },
+  "n_trials": 0.0,
   "prediction": 0.0026668324548741198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

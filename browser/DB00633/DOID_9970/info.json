@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00633",
   "compound_name": "Dexmedetomidine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGaD": 0.17579222288377142,
     "CbGbCtD": 0.6129317086405119,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09910241582679942,
     "CcSEcCtD": 0.10184432766605568
   },
+  "n_trials": 2.0,
   "prediction": 0.00809015906426637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

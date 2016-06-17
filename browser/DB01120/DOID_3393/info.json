@@ -1,18 +1,21 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
-    "CbGaD": 0.21459193488043635,
-    "CbGbCtD": 0.21922630458131867,
-    "CbGdCrCtD": 0.0018431694481685285,
+    "CbGaD": 0.2145919348804363,
+    "CbGbCtD": 0.21922630458131862,
+    "CbGdCrCtD": 0.0018431694481685283,
     "CbGeAlD": 0.00792498284615301,
-    "CbGpPWpGaD": 0.060033049407173945,
-    "CcSEcCtD": 0.09649968703600216,
-    "CrCbGaD": 0.0017540992064583043,
-    "CtDrD": 0.39812677259428914
+    "CbGpPWpGaD": 0.06003304940717394,
+    "CcSEcCtD": 0.09649968703600213,
+    "CrCbGaD": 0.001754099206458304,
+    "CtDrD": 0.3981267725942891
   },
+  "n_trials": 0.0,
   "prediction": 0.0109210953145522,
   "status": 0,
   "training_prediction": 0.0562090026048281

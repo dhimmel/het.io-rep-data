@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01551",
   "compound_name": "Dihydrocodeine",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.22236671001300398,
   "metapath_contribution": {
     "CbGbCtD": 0.6590125473398505,
     "CbGpPWpGaD": 0.07749283588414088,
     "CcSEcCtD": 0.25134528525740446,
     "CrCbGaD": 0.012149331518604223
   },
+  "n_trials": 0.0,
   "prediction": 0.00108144859282305,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

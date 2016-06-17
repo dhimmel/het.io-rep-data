@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.19115734720416103,
   "metapath_contribution": {
     "CbGbCtD": 0.4101027851570756,
     "CbGpPWpGaD": 0.354954546369804,
     "CcSEcCtD": 0.22242608512495102,
     "CrCbGaD": 0.012516583348169403
   },
+  "n_trials": 1.0,
   "prediction": 0.000933704364527037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.22142450249612525,
     "CbGbCtD": 0.16909683553737495,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.209124631756049,
     "CrCtD": 0.32161040440100164
   },
+  "n_trials": 0.0,
   "prediction": 0.0768022867891022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

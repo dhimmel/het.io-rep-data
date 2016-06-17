@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGbCtD": 0.11901257242210989,
     "CbGpPWpGaD": 0.022780996555039783,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.33941944219908665,
     "CrCtD": 0.43655668521487295
   },
+  "n_trials": 0.0,
   "prediction": 0.00550278095456956,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

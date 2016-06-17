@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.19960988296488896,
   "metapath_contribution": {
     "CbGaD": 0.36360257659592965,
     "CbGbCtD": 0.38801310227184044,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1895220213394502,
     "CrCbGaD": 0.004126050906862304
   },
+  "n_trials": 0.0,
   "prediction": 0.00173885418066125,
   "status": 0,
   "training_prediction": 0.023802246164604003

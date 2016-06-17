@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.43888166449934995,
   "metapath_contribution": {
     "CbGaD": 0.24184542478271004,
     "CbGbCtD": 0.4526441978531157,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.156531245707391,
     "CrCbGaD": 0.002407708128790049
   },
+  "n_trials": 0.0,
   "prediction": 0.00211171314910696,
   "status": 0,
   "training_prediction": 0.0116110304668191

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00935",
   "compound_name": "Oxymetazoline",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.7887450582202072,
     "CbGeAlD": 0.04629516354469389,
     "CbGpPWpGaD": 0.1580049954477883,
     "CrCbGaD": 0.006954782787310472
   },
+  "n_trials": 0.0,
   "prediction": 0.00589378762298603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

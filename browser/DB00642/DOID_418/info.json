@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGbCtD": 0.13338802922679538,
     "CbGdCrCtD": 0.0007577348350496454,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.16989839294774223,
     "CrCtD": 0.2569851968500492
   },
+  "n_trials": 0.0,
   "prediction": 0.0486076799807523,
   "status": 0,
   "training_prediction": 0.108746894526926

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.8159947984395319,
   "metapath_contribution": {
     "CbGaD": 0.8638343527843908,
     "CbGbCtD": 0.03132284554984412,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.021077935314441187,
     "CcSEcCtD": 0.04265552596652426
   },
+  "n_trials": 0.0,
   "prediction": 0.0023625038290602603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

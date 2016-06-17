@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01409",
   "compound_name": "Tiotropium",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7262678803641089,
   "metapath_contribution": {
     "CbGaD": 0.191683440152212,
     "CbGbCtD": 0.40114492666538965,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10897678647565495,
     "CcSEcCtD": 0.2501031929142671
   },
+  "n_trials": 0.0,
   "prediction": 0.00379216304064625,
   "status": 0,
   "training_prediction": 0.026357610144941

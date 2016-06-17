@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.31322281763125726,
     "CbGbCtD": 0.40939724688830786,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1411858290176892,
     "CrCbGaD": 0.0016036896155860111
   },
+  "n_trials": 0.0,
   "prediction": 0.00253657016537202,
   "status": 0,
   "training_prediction": 0.0025022867114000602

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.7699260778447389,
     "CbGeAlD": 0.08089343142205163,
     "CbGpPWpGaD": 0.14393419656242673,
     "CrCbGaD": 0.005246294170782779
   },
+  "n_trials": 2.0,
   "prediction": 0.00480291595597909,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

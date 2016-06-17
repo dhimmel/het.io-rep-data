@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.5221066319895971,
   "metapath_contribution": {
     "CbGbCtD": 0.2513864977272649,
     "CbGeAlD": 0.21108925253612237,
     "CbGpPWpGaD": 0.14072909743315842,
     "CcSEcCtD": 0.3967951523034543
   },
+  "n_trials": 0.0,
   "prediction": 0.00175880112611528,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

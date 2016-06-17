@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00916",
   "compound_name": "Metronidazole",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.79778933680104,
   "metapath_contribution": {
     "CbGaD": 0.7892566521449359,
     "CbGeAlD": 0.04922035871954509,
     "CbGpPWpGaD": 0.15268384103257931,
     "CrCbGaD": 0.008839148102939726
   },
+  "n_trials": 0.0,
   "prediction": 0.00237616597474581,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.29518855656696996,
   "metapath_contribution": {
     "CbGaD": 0.4370655322338056,
     "CbGeAlD": 0.22803531495615306,
     "CbGpPWpGaD": 0.3323283343344818,
     "CrCbGaD": 0.002570818475559497
   },
+  "n_trials": 0.0,
   "prediction": 0.0009279316196181029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

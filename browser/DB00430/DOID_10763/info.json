@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00430",
   "compound_name": "Cefpiramide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.171651495448635,
   "metapath_contribution": {
     "CbGaD": 0.4403433245425265,
     "CbGbCtD": 0.48279268511942985,
     "CbGpPWpGaD": 0.07336119349818408,
     "CrCbGaD": 0.0035027968398595923
   },
+  "n_trials": 0.0,
   "prediction": 0.00167927259326147,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

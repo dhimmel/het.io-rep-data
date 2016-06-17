@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.6956409049894263,
     "CbGeAlD": 0.12020405711416543,
     "CbGpPWpGaD": 0.1772851746027736,
     "CrCbGaD": 0.006869863293634671
   },
+  "n_trials": 0.0,
   "prediction": 0.00135704007514445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

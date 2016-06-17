@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.3681950035459733,
     "CbGbCtD": 0.27506974840442205,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0023216357991466896,
     "CrCrCtD": 0.21827326589854115
   },
+  "n_trials": 0.0,
   "prediction": 0.00547367882415332,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.6821382092126022,
     "CbGeAlD": 0.12415522912925067,
     "CbGpPWpGaD": 0.19370656165814717
   },
+  "n_trials": 4.0,
   "prediction": 0.00410712587574553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.512353706111834,
   "metapath_contribution": {
     "CbGbCtD": 0.24899867492392877,
     "CbGpPWpGaD": 0.03324891827658826,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0032484850857100625,
     "CrCrCtD": 0.1633918357553524
   },
+  "n_trials": 1.0,
   "prediction": 0.00190014159886448,
   "status": 0,
   "training_prediction": 0.00809129036325672

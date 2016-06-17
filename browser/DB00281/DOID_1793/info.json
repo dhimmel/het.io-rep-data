@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.22789184304256285,
     "CbGbCtD": 0.359483474020536,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06129084788187075,
     "CrCrCtD": 0.3112562425179491
   },
+  "n_trials": 0.0,
   "prediction": 0.005040509813048021,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

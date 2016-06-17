@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.029258777633290003,
   "metapath_contribution": {
     "CbGbCtD": 0.5488155115487916,
     "CbGeAlD": 0.04496599076539282,
     "CbGpPWpGaD": 0.16789952828922197,
     "CcSEcCtD": 0.23831896939659364
   },
+  "n_trials": 2.0,
   "prediction": 0.000842613401388814,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

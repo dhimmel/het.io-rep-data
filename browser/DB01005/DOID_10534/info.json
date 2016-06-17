@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01005",
   "compound_name": "Hydroxyurea",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGeAlD": 0.023174843113487324,
     "CbGpPWpGaD": 0.07082368851580337,
     "CcSEcCtD": 0.1528024228190708,
     "CtDrD": 0.7531990455516386
   },
+  "n_trials": 2.0,
   "prediction": 0.00563316041908335,
   "status": 0,
   "training_prediction": 0.034406205713807

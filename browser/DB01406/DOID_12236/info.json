@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.20611183355006502,
   "metapath_contribution": {
     "CbGbCtD": 0.17740026566179867,
     "CbGeAlD": 0.06397956931293233,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4678733635607264,
     "CrCbGaD": 0.0053462601403258415
   },
+  "n_trials": 0.0,
   "prediction": 0.0010645214026193698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

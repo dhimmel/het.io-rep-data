@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.3941623687257216,
     "CbGbCtD": 0.35348087882479085,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12915292987363167,
     "CrCbGaD": 0.002276532887003
   },
+  "n_trials": 0.0,
   "prediction": 0.0031204289043389104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

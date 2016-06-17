@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06196",
   "compound_name": "Icatibant",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGeAlD": 0.033958147382151624,
     "CbGpPWpGaD": 0.07049494802462344,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.24333029591477603,
     "CrCtD": 0.6151526301368341
   },
+  "n_trials": 0.0,
   "prediction": 0.0122091208852123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

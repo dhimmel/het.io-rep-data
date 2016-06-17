@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
     "CbGbCtD": 0.05443928500747474,
     "CcSEcCtD": 0.03382785586377726,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0010302602862299858,
     "CrCrCtD": 0.3034881300449409
   },
+  "n_trials": 0.0,
   "prediction": 0.0037722403134861603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

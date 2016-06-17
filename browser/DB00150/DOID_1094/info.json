@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00150",
   "compound_name": "L-Tryptophan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.8134068105677386,
     "CbGeAlD": 0.07429392203786556,
     "CbGpPWpGaD": 0.10832222266671232,
     "CrCbGaD": 0.003977044727683469
   },
+  "n_trials": 0.0,
   "prediction": 0.00412635700926215,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

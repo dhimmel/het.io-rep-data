@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.693758127438232,
   "metapath_contribution": {
     "CbGaD": 0.12673460254404514,
     "CbGbCtD": 0.28429259764997106,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0007205280846174892,
     "CtDrD": 0.45022031541638774
   },
+  "n_trials": 0.0,
   "prediction": 0.00193372467335525,
   "status": 0,
   "training_prediction": 0.0138572729532612

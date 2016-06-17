@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.250975292587776,
   "metapath_contribution": {
     "CbGaD": 0.8453124237314638,
     "CbGeAlD": 0.021102679949812343,
     "CbGpPWpGaD": 0.12214032350426919,
     "CrCbGaD": 0.011444572814454731
   },
+  "n_trials": 0.0,
   "prediction": 0.000993285972661663,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

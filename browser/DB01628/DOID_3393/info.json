@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGaD": 0.4020568664164613,
     "CbGbCtD": 0.34881225309860475,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15185823622206007,
     "CrCbGaD": 0.003152705850658611
   },
+  "n_trials": 0.0,
   "prediction": 0.004525308922890271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

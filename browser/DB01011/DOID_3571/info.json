@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01011",
   "compound_name": "Metyrapone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGaD": 0.6467613490178784,
     "CbGbCtD": 0.1979667701350592,
     "CbGeAlD": 0.011724006186614044,
     "CbGpPWpGaD": 0.1435478746604483
   },
+  "n_trials": 0.0,
   "prediction": 0.0027706964133528,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

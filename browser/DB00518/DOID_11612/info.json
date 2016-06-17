@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.38881664499349794,
   "metapath_contribution": {
     "CbGaD": 0.8134885505949508,
     "CbGeAlD": 0.09977815778031753,
     "CbGpPWpGaD": 0.08383540382080149,
     "CrCbGaD": 0.002897887803930038
   },
+  "n_trials": 0.0,
   "prediction": 0.00120443075707535,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

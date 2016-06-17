@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGaD": 0.37829725536746184,
     "CbGbCtD": 0.3236289145227362,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11566099259900949,
     "CrCbGaD": 0.0035368954549288706
   },
+  "n_trials": 0.0,
   "prediction": 0.0035218983923821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01010",
   "compound_name": "Edrophonium",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.4941482444733421,
   "metapath_contribution": {
     "CbGbCtD": 0.794425048852927,
     "CbGeAlD": 0.02562267091258582,
     "CbGpPWpGaD": 0.055456967868338744,
     "CcSEcCtD": 0.12449531236614843
   },
+  "n_trials": 0.0,
   "prediction": 0.0018439190320499199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

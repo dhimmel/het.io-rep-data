@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00537",
   "compound_name": "Ciprofloxacin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.195708712613784,
   "metapath_contribution": {
     "CbGbCtD": 0.44998291142159264,
     "CbGdCrCtD": 0.0035686930617715752,
     "CbGpPWpGaD": 0.0006540485918183955,
     "CcSEcCtD": 0.5457943469248173
   },
+  "n_trials": 0.0,
   "prediction": 0.00120023601259558,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.6636250376571484,
     "CbGbCtD": 0.20548878199596196,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08572240235632804,
     "CcSEcCtD": 0.02330953854440228
   },
+  "n_trials": 0.0,
   "prediction": 0.00665779312762478,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

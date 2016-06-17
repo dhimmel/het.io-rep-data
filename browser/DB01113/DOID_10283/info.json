@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01113",
   "compound_name": "Papaverine",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.240572171651495,
   "metapath_contribution": {
     "CbGeAlD": 0.20743923924485966,
     "CbGpPWpGaD": 0.38265733830340837,
     "CcSEcCtD": 0.3926624125443408,
     "CrCbGaD": 0.01724100990739118
   },
+  "n_trials": 1.0,
   "prediction": 0.0013234958959604801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

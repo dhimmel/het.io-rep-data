@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00596",
   "compound_name": "Halobetasol Propionate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.11459231122849967,
     "CbGbCtD": 0.2602964959139693,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2633615245929642,
     "CrCtD": 0.36010275691238325
   },
+  "n_trials": 0.0,
   "prediction": 0.0303939041184098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

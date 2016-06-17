@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGbCtD": 0.6564345449645063,
     "CbGdCrCtD": 0.0014252873148152552,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21282246145342845,
     "CrCbGaD": 0.004816993302568671
   },
+  "n_trials": 0.0,
   "prediction": 0.00396099316950658,
   "status": 0,
   "training_prediction": 0.0144218312684934

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00838",
   "compound_name": "Clocortolone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.24122236671001301,
   "metapath_contribution": {
     "CbGbCtD": 0.33620940596237614,
     "CbGpPWpGaD": 0.0660514842600943,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003719282106785087,
     "CrCrCtD": 0.5503161302663149
   },
+  "n_trials": 0.0,
   "prediction": 0.00141425408305548,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

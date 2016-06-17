@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00286",
   "compound_name": "Conjugated Estrogens",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.542912873862159,
   "metapath_contribution": {
     "CbGaD": 0.32650085178731136,
     "CbGbCtD": 0.4465321583140884,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11655081844940533,
     "CrCbGaD": 0.0015838316682115822
   },
+  "n_trials": 0.0,
   "prediction": 0.00198067790643657,
   "status": 0,
   "training_prediction": 0.0112348503852334

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.4790440993943719,
     "CbGbCtD": 0.3494315514740272,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09753438546755443,
     "CcSEcCtD": 0.06330791613028099
   },
+  "n_trials": 0.0,
   "prediction": 0.00393385125929841,
   "status": 0,
   "training_prediction": 0.004772389167526679

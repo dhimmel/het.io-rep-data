@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.433680104031209,
   "metapath_contribution": {
     "CbGaD": 0.8118656471099372,
     "CbGbCtD": 0.18109175735374874,
     "CbGeAlD": 0.0006098499953150865,
     "CrCbGaD": 0.006432745540998873
   },
+  "n_trials": 0.0,
   "prediction": 0.00225152911444434,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

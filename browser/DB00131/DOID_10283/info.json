@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.401170351105332,
   "metapath_contribution": {
     "CbGaD": 0.4052230370074537,
     "CbGbCtD": 0.33219503942181616,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.16741294764965536,
     "CrCbGaD": 0.0034327265372189435
   },
+  "n_trials": 0.0,
   "prediction": 0.0019357378467822698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00839",
   "compound_name": "Tolazamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.2874259284905794,
     "CbGbCtD": 0.2275551883919333,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002364722075520916,
     "CtDrD": 0.3375941589812217
   },
+  "n_trials": 0.0,
   "prediction": 0.0134792035907229,
   "status": 0,
   "training_prediction": 0.140478551128996

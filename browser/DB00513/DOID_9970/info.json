@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00513",
   "compound_name": "Aminocaproic Acid",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.573472041612484,
   "metapath_contribution": {
     "CbGaD": 0.6816671579543485,
     "CbGeAlD": 0.0814703930947101,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09313285981891634,
     "CrCbGaD": 0.002759029760980816
   },
+  "n_trials": 0.0,
   "prediction": 0.0028778146138373,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

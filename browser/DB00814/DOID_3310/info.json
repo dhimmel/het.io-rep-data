@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGbCtD": 0.3773824746729321,
     "CbGdCrCtD": 0.003329515060387452,
     "CcSEcCtD": 0.142519381407202,
     "CpDpCtD": 0.47676862885947857
   },
+  "n_trials": 0.0,
   "prediction": 0.00358537070428876,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

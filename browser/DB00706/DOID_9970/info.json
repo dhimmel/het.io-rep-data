@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00706",
   "compound_name": "Tamsulosin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7925877763329001,
   "metapath_contribution": {
     "CbGaD": 0.19250864990319605,
     "CbGbCtD": 0.5300133140794339,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12743308586835445,
     "CrCbGaD": 0.0035590633955809264
   },
+  "n_trials": 0.0,
   "prediction": 0.00514760536646909,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

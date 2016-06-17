@@ -1,18 +1,21 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
-    "CbGaD": 0.35596486699699276,
-    "CbGbCtD": 0.14070038548436284,
-    "CbGdCrCtD": 0.0011889960306458106,
-    "CbGeAlD": 0.028343208428750325,
-    "CbGpPWpGaD": 0.005255788967231013,
-    "CcSEcCtD": 0.061343861792436526,
-    "CrCbGaD": 0.003006809815408265,
-    "CtDrD": 0.4041960824841723
+    "CbGaD": 0.3559648669969928,
+    "CbGbCtD": 0.14070038548436287,
+    "CbGdCrCtD": 0.0011889960306458109,
+    "CbGeAlD": 0.028343208428750332,
+    "CbGpPWpGaD": 0.005255788967231014,
+    "CcSEcCtD": 0.06134386179243654,
+    "CrCbGaD": 0.0030068098154082657,
+    "CtDrD": 0.40419608248417244
   },
+  "n_trials": 0.0,
   "prediction": 0.0146263535004865,
   "status": 0,
   "training_prediction": 0.0797572194876691

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00438",
   "compound_name": "Ceftazidime",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.229518855656697,
   "metapath_contribution": {
     "CbGbCtD": 0.4588950710152095,
     "CbGdCrCtD": 0.016347263047619857,
     "CcSEcCtD": 0.5247576659371707
   },
+  "n_trials": 0.0,
   "prediction": 0.0015202042963978599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

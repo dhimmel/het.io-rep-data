@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.5240572171651501,
   "metapath_contribution": {
-    "CbGaD": 0.5909416325624488,
-    "CbGeAlD": 0.0841380937720148,
-    "CbGpPWpGaD": 0.1679165324342653,
-    "CcSEcCtD": 0.15217139808302124,
-    "CrCbGaD": 0.004832343148249781
+    "CbGaD": 0.5909416325624489,
+    "CbGeAlD": 0.08413809377201481,
+    "CbGpPWpGaD": 0.16791653243426533,
+    "CcSEcCtD": 0.15217139808302127,
+    "CrCbGaD": 0.004832343148249782
   },
+  "n_trials": 0.0,
   "prediction": 0.00143048134013151,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

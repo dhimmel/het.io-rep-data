@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.666449934980494,
   "metapath_contribution": {
     "CbGaD": 0.322542312193786,
     "CbGbCtD": 0.05719529591189711,
     "CbGpPWpGaD": 0.016693009711657356,
     "CrCrCtD": 0.6035693821826594
   },
+  "n_trials": 0.0,
   "prediction": 0.00220059659924678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

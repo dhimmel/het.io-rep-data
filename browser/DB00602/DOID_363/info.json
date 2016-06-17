@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGbCtD": 0.8215865098919493,
     "CbGeAlD": 0.026208132539986804,
     "CbGpPWpGaD": 0.04504575162110184,
     "CcSEcCtD": 0.10715960594696207
   },
+  "n_trials": 0.0,
   "prediction": 0.00438103161472147,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

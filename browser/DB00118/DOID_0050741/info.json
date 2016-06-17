@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00118",
   "compound_name": "S-Adenosylmethionine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.5903771131339399,
   "metapath_contribution": {
     "CbGaD": 0.4752286845018694,
     "CbGbCtD": 0.2639052520852431,
     "CbGeAlD": 0.11002530886739452,
     "CbGpPWpGaD": 0.15084075454549295
   },
+  "n_trials": 0.0,
   "prediction": 0.0024554577350336198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

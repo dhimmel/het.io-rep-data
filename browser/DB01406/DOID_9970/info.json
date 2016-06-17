@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.211963589076723,
   "metapath_contribution": {
     "CbGaD": 0.6050928210322212,
     "CbGbCtD": 0.08431363467895811,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11503374866304536,
     "CrCbGaD": 0.005772025461974367
   },
+  "n_trials": 0.0,
   "prediction": 0.00138388034221735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

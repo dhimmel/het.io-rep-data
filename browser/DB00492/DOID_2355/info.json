@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00492",
   "compound_name": "Fosinopril",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.8699609882964889,
   "metapath_contribution": {
     "CbGaD": 0.8668856954856285,
     "CbGeAlD": 0.10192327707457181,
     "CbGpPWpGaD": 0.02430283543664788,
     "CrCbGaD": 0.00688819200315185
   },
+  "n_trials": 0.0,
   "prediction": 0.0021598995840256896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

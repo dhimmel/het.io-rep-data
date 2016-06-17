@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGaD": 0.18237671294783497,
     "CbGbCtD": 0.21170916725005406,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0017220905547144952,
     "CrCrCtD": 0.14275138112731886
   },
+  "n_trials": 0.0,
   "prediction": 0.0374586220934147,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

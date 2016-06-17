@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00730",
   "compound_name": "Thiabendazole",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.6256303014887923,
     "CbGbCtD": 0.2320262489535135,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13792403808227371,
     "CrCbGaD": 0.002134918887597318
   },
+  "n_trials": 0.0,
   "prediction": 0.0038591864970234703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

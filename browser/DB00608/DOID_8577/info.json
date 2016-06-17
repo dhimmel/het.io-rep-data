@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGaD": 0.39360048973073947,
     "CbGbCtD": 0.46498358299689,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06795785561143365,
     "CrCbGaD": 0.005122864621742798
   },
+  "n_trials": 0.0,
   "prediction": 0.0033344917378829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

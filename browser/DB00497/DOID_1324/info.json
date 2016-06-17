@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.384265279583875,
   "metapath_contribution": {
     "CbGbCtD": 0.6417393571737249,
     "CbGpPWpGaD": 0.07901604190976337,
     "CcSEcCtD": 0.27252298849370377,
     "CrCbGaD": 0.006721612422807972
   },
+  "n_trials": 1.0,
   "prediction": 0.00148082782219684,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

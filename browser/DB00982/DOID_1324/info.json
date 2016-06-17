@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.14694408322496696,
   "metapath_contribution": {
     "CbGaD": 0.6305036414404755,
     "CbGeAlD": 0.019339858787024704,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22580714497846832,
     "CrCbGaD": 0.00572312977109106
   },
+  "n_trials": 3.0,
   "prediction": 0.0009094734414193779,
   "status": 0,
   "training_prediction": 0.00311284110990845

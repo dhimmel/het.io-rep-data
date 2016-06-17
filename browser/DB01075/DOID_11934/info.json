@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.0162548764629389,
   "metapath_contribution": {
     "CbGbCtD": 0.8078243336086814,
     "CbGpPWpGaD": 0.06506322631423399,
     "CcSEcCtD": 0.11778433037424281,
     "CrCbGaD": 0.00932810970284169
   },
+  "n_trials": 1.0,
   "prediction": 0.000551970436820314,
   "status": 0,
   "training_prediction": 0.00111717840521291

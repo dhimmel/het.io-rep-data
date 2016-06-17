@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.47701286852495134,
     "CbGbCtD": 0.31687199213192335,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0823894199470098,
     "CrCbGaD": 0.004473730366347979
   },
+  "n_trials": 0.0,
   "prediction": 0.0041127301414936104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

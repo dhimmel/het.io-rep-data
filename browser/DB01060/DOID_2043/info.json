@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.24642392717815303,
   "metapath_contribution": {
     "CbGbCtD": 0.7756089710767823,
     "CcSEcCtD": 0.22430024767975412,
     "CrCbGaD": 9.078124346353979e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00114737279814672,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

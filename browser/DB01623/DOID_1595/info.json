@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.817295188556567,
   "metapath_contribution": {
     "CbGaD": 0.8414889398072927,
     "CbGeAlD": 0.05715482791014685,
     "CbGpPWpGaD": 0.0934531030858716,
     "CrCbGaD": 0.007903129196688955
   },
+  "n_trials": 0.0,
   "prediction": 0.00219653608379372,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

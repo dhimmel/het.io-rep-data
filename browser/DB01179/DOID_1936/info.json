@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.128738621586476,
   "metapath_contribution": {
     "CbGbCtD": 0.6782833634268672,
     "CbGdCrCtD": 0.00953678785282277,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15827168613640485,
     "CrCbGaD": 0.0006724911887301966
   },
+  "n_trials": 0.0,
   "prediction": 0.000971407993938799,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

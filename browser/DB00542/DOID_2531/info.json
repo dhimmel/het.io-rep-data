@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.217165149544863,
   "metapath_contribution": {
     "CbGaD": 0.5390003219977101,
     "CbGbCtD": 0.05690071299931815,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.30632088467717,
     "CrCbGaD": 0.0008603308123413885
   },
+  "n_trials": 0.0,
   "prediction": 0.0013086576795802,
   "status": 0,
   "training_prediction": 0.011789318523021999

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.22041612483745102,
   "metapath_contribution": {
     "CbGbCtD": 0.9613275878945974,
     "CbGdCrCtD": 0.007646686575420829,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.007296942598227751,
     "CrCbGaD": 0.004722226274705151
   },
+  "n_trials": 0.0,
   "prediction": 0.0011527659900744099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

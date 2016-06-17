@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.48244473342002603,
   "metapath_contribution": {
     "CbGbCtD": 0.5590112460196426,
     "CbGeAlD": 0.034865136070744956,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.31704988597321077,
     "CrCbGaD": 0.004792522692036381
   },
+  "n_trials": 0.0,
   "prediction": 0.0015048041452198802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

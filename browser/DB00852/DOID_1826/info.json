@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.64889466840052,
   "metapath_contribution": {
     "CbGaD": 0.33341912436210164,
     "CbGbCtD": 0.04964969667930811,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00296818600597762,
     "CrCrCtD": 0.33651739122989804
   },
+  "n_trials": 0.0,
   "prediction": 0.00490320289244134,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

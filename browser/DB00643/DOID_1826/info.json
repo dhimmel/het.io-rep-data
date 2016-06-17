@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.433680104031209,
   "metapath_contribution": {
     "CbGaD": 0.1242548211713662,
     "CbGbCtD": 0.38541440601675053,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.001718755927845339,
     "CrCrCtD": 0.32358191201163145
   },
+  "n_trials": 0.0,
   "prediction": 0.00286285077720592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

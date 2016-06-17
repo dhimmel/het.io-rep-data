@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08871",
   "compound_name": "Eribulin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.14024861562217306,
     "CbGbCtD": 0.24047807899823148,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.37581031105195084,
     "CtDrD": 0.20784195410006442
   },
+  "n_trials": 0.0,
   "prediction": 0.124066459401765,
   "status": 0,
   "training_prediction": 0.252762415093884

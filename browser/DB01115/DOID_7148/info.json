@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.358907672301691,
   "metapath_contribution": {
     "CbGbCtD": 0.6394792021172971,
     "CbGeAlD": 0.031707250171042214,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20771758438382418,
     "CrCbGaD": 0.0009163748524386655
   },
+  "n_trials": 0.0,
   "prediction": 0.00140786665435872,
   "status": 0,
   "training_prediction": 0.00457682506191635

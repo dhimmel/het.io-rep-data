@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00121",
   "compound_name": "Biotin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7932379713914169,
   "metapath_contribution": {
     "CbGaD": 0.7359950355042634,
     "CbGdCrCtD": 0.0042811946223948495,
     "CbGeAlD": 0.08620743150191855,
     "CbGpPWpGaD": 0.17351633837142322
   },
+  "n_trials": 2.0,
   "prediction": 0.005086104917092479,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

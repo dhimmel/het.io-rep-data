@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00686",
   "compound_name": "Pentosan Polysulfate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.676853055916775,
   "metapath_contribution": {
     "CbGaD": 0.5948643687227717,
     "CbGeAlD": 0.04629619225948688,
     "CbGpPWpGaD": 0.14721167219357045,
     "CcSEcCtD": 0.21162776682417098
   },
+  "n_trials": 0.0,
   "prediction": 0.00535905099256737,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

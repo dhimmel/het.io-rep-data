@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8244473342002601,
   "metapath_contribution": {
     "CbGaD": 0.5985942681126097,
     "CbGbCtD": 0.058793072081931456,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.17694950069329016,
     "CcSEcCtD": 0.08380129897064463
   },
+  "n_trials": 0.0,
   "prediction": 0.00391865189430176,
   "status": 0,
   "training_prediction": 0.0133151513771062

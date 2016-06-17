@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01062",
   "compound_name": "Oxybutynin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.5994798439531861,
   "metapath_contribution": {
     "CbGbCtD": 0.6961822715924724,
     "CbGpPWpGaD": 0.05691335675892836,
     "CcSEcCtD": 0.2469043716485992
   },
+  "n_trials": 0.0,
   "prediction": 0.0018009327206668102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

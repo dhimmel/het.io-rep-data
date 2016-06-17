@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08912",
   "compound_name": "Dabrafenib",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.402673590908581,
     "CbGbCtD": 0.3840882363627869,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.08987271776395901,
     "CcSEcCtD": 0.10389258542244072
   },
+  "n_trials": 2.0,
   "prediction": 0.0077014716437115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.596879063719116,
   "metapath_contribution": {
     "CbGaD": 0.4523960937269014,
     "CbGbCtD": 0.4009496048556347,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.009418176723802909,
     "CrCbGaD": 0.004111752780886553
   },
+  "n_trials": 0.0,
   "prediction": 0.00168406472028479,
   "status": 0,
   "training_prediction": 0.0020440232844808

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.710752380811427,
     "CbGeAlD": 0.014821653415889646,
     "CbGpPWpGaD": 0.2666649479575476,
     "CrCbGaD": 0.007761017815135902
   },
+  "n_trials": 0.0,
   "prediction": 0.0017865762563657398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.3003267661398663,
     "CbGbCtD": 0.36989004876919973,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.22115798886775753,
     "CrCbGaD": 0.0013592832397518269
   },
+  "n_trials": 1.0,
   "prediction": 0.0183445489980651,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

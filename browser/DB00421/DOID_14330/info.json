@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.245123537061118,
   "metapath_contribution": {
-    "CbGaD": 0.6681698143906498,
-    "CbGeAlD": 0.1060550402581524,
-    "CbGpPWpGaD": 0.22066386130440024,
-    "CrCbGaD": 0.005111284046797409
+    "CbGaD": 0.6681698143906499,
+    "CbGeAlD": 0.10605504025815243,
+    "CbGpPWpGaD": 0.2206638613044003,
+    "CrCbGaD": 0.00511128404679741
   },
+  "n_trials": 0.0,
   "prediction": 0.000963515358454924,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

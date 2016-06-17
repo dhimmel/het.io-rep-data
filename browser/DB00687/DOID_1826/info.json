@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.21001300390117,
   "metapath_contribution": {
     "CbGaD": 0.2755692704923619,
     "CbGeAlD": 0.01676647763787498,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.5220865405837041,
     "CrCbGaD": 0.004374731628665954
   },
+  "n_trials": 0.0,
   "prediction": 0.00178268832575233,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

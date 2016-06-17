@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.14488626510241034,
     "CbGbCtD": 0.6218059655390387,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.12270229234099632,
     "CrCbGaD": 0.0006186759163850104
   },
+  "n_trials": 0.0,
   "prediction": 0.00303125385475862,
   "status": 0,
   "training_prediction": 0.0451795700028185

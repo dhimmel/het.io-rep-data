@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01275",
   "compound_name": "Hydralazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.3596846562913599,
     "CbGbCtD": 0.07509138206073696,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07270796749962806,
     "CtDrD": 0.4317271680247445
   },
+  "n_trials": 0.0,
   "prediction": 0.0182116135481746,
   "status": 0,
   "training_prediction": 0.0454860496494609

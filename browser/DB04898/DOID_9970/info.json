@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04898",
   "compound_name": "Ximelagatran",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8465539661898571,
   "metapath_contribution": {
     "CbGaD": 0.663792255183683,
     "CbGbCtD": 0.21206080760398438,
     "CbGeAlD": 0.008231619722237488,
     "CbGpPWpGaD": 0.11591531749009504
   },
+  "n_trials": 0.0,
   "prediction": 0.00628325725300131,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

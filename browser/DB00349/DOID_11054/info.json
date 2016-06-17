@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00349",
   "compound_name": "Clobazam",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.17555266579974,
   "metapath_contribution": {
     "CbGbCtD": 0.6056235635429923,
     "CbGeAlD": 0.03710765606330478,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2071592471109071,
     "CrCbGaD": 0.006845486722475776
   },
+  "n_trials": 0.0,
   "prediction": 0.000913871727963835,
   "status": 0,
   "training_prediction": 0.0023443819607774897

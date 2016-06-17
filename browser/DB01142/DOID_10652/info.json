@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8101430429128741,
   "metapath_contribution": {
     "CbGaD": 0.4168641458851372,
     "CbGbCtD": 0.2968003989229363,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15270404575919835,
     "CrCbGaD": 0.003861466280367987
   },
+  "n_trials": 0.0,
   "prediction": 0.00338753581042161,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.58777633289987,
   "metapath_contribution": {
     "CbGaD": 0.36292157139652675,
     "CbGbCtD": 0.49746053505912696,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12373054524907619,
     "CrCbGaD": 0.005840553545700241
   },
+  "n_trials": 0.0,
   "prediction": 0.0019261836618275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

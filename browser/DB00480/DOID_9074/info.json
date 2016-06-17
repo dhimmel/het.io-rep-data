@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.2862851120553919,
     "CbGbCtD": 0.3863165499118661,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.21238980637042654,
     "CrCbGaD": 0.00464981071676514
   },
+  "n_trials": 1.0,
   "prediction": 0.00377123948118985,
   "status": 0,
   "training_prediction": 0.0109290863985192

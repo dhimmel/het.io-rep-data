@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
     "CbGaD": 0.7304295716589175,
     "CbGeAlD": 0.036972319056242695,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.045370800955350725,
     "CrCbGaD": 0.004375009621432333
   },
+  "n_trials": 0.0,
   "prediction": 0.0019759384927361397,
   "status": 0,
   "training_prediction": 0.00239813343298452

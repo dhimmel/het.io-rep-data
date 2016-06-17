@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGbCtD": 0.43886788219306677,
     "CcSEcCtD": 0.12514360753189227,
     "CrCrCtD": 0.435988510275041
   },
+  "n_trials": 0.0,
   "prediction": 0.0024430468295211396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.698309492847854,
   "metapath_contribution": {
     "CbGaD": 0.3980918169660768,
     "CbGbCtD": 0.399475626109138,
@@ -12,6 +14,5 @@
     "CrCbGaD": 0.00408765639495114
   },
   "prediction": 0.00299310293304881,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

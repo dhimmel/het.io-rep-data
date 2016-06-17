@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.202860858257477,
   "metapath_contribution": {
     "CbGaD": 0.37820642823940553,
     "CbGbCtD": 0.3676808182755195,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20682750190233903,
     "CrCbGaD": 0.0008622901377766259
   },
+  "n_trials": 0.0,
   "prediction": 0.00123374854314566,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

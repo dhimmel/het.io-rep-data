@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00165",
   "compound_name": "Pyridoxine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.8964595008354406,
     "CbGbCtD": 0.02590120174052999,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02498294295362402,
     "CcSEcCtD": 0.011558936249980207
   },
+  "n_trials": 0.0,
   "prediction": 0.00386472771972846,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

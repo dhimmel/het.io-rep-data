@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.1378145524267169,
     "CbGbCtD": 0.405350781371468,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.0004077983793752003,
     "CpDpCtD": 0.4176251100308157
   },
+  "n_trials": 0.0,
   "prediction": 0.00567782465652026,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.50260078023407,
   "metapath_contribution": {
     "CbGbCtD": 0.7511391186805627,
     "CbGeAlD": 0.17299396300419057,
     "CcSEcCtD": 0.07243487812057581,
     "CrCbGaD": 0.0034320401946709364
   },
+  "n_trials": 0.0,
   "prediction": 0.00159709973495325,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

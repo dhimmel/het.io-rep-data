@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.851755526657997,
   "metapath_contribution": {
     "CbGbCtD": 0.1384101544544894,
     "CbGeAlD": 0.0321533528271342,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09077463119885863,
     "CiPCiCtD": 0.7087317198046796
   },
+  "n_trials": 9.0,
   "prediction": 0.00287026620206301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

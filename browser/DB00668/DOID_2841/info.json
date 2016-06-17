@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.0856826915726943,
     "CbGbCtD": 0.1800184450761336,
@@ -16,6 +18,5 @@
     "CrCtD": 0.3097119699845808
   },
   "prediction": 0.105249609579116,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

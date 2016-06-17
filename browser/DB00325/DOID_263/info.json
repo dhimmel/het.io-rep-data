@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00325",
   "compound_name": "Nitroprusside",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.8055060427809093,
     "CbGbCtD": 0.09050713461271973,
     "CbGeAlD": 0.036228079753954937,
     "CbGpPWpGaD": 0.06775874285241608
   },
+  "n_trials": 0.0,
   "prediction": 0.004527016277092111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

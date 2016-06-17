@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01064",
   "compound_name": "Isoprenaline",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGaD": 0.43873513838728123,
     "CbGbCtD": 0.14860119431871693,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0036806344588760113,
     "CrCrCtD": 0.1850190058851122
   },
+  "n_trials": 0.0,
   "prediction": 0.0048976413053478,
   "status": 0,
   "training_prediction": 0.0124861293411401

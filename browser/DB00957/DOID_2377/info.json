@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00957",
   "compound_name": "Norgestimate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.6820546163849152,
   "metapath_contribution": {
     "CbGaD": 0.5187860296425642,
     "CbGbCtD": 0.33090901099420367,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004426602584655356,
     "CrCrCtD": 0.13710022336110814
   },
+  "n_trials": 0.0,
   "prediction": 0.0023613915403377602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

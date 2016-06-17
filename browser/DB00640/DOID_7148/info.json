@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00640",
   "compound_name": "Adenosine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.28153446033810103,
   "metapath_contribution": {
     "CbGaD": 0.8053959133912402,
     "CbGeAlD": 0.022100273117890718,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09085369222585683,
     "CrCbGaD": 0.005227204497942703
   },
+  "n_trials": 0.0,
   "prediction": 0.0012646000637186801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.000920380772051962,
-    "CbGpPWpGaD": 0.03993103974182551,
-    "CcSEcCtD": 0.18348345165652868,
-    "CtDrD": 0.7756651278295937
+    "CbGdCrCtD": 0.0009203807720519622,
+    "CbGpPWpGaD": 0.03993103974182552,
+    "CcSEcCtD": 0.1834834516565287,
+    "CtDrD": 0.7756651278295938
   },
+  "n_trials": 1.0,
   "prediction": 0.00431576231937722,
   "status": 0,
   "training_prediction": 0.0242152603971032

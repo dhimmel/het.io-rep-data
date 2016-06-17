@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.8459037711313391,
   "metapath_contribution": {
     "CbGbCtD": 0.32502751145247843,
     "CbGdCrCtD": 0.0026358600861305544,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12292638050533779,
     "CtDrD": 0.4959855922777858
   },
+  "n_trials": 0.0,
   "prediction": 0.00347780677306155,
   "status": 0,
   "training_prediction": 0.0776205665161015

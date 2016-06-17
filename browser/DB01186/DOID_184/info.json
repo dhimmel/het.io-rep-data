@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.553966189856957,
   "metapath_contribution": {
     "CbGaD": 0.5569796009211387,
     "CbGeAlD": 0.09881051018830511,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.27096087322372614,
     "CrCbGaD": 0.0066548995271852466
   },
+  "n_trials": 0.0,
   "prediction": 0.00164545004711115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

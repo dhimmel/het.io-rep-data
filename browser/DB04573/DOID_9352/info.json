@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.551365409622887,
   "metapath_contribution": {
     "CbGaD": 0.4266447743738702,
     "CbGbCtD": 0.3446718911814173,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16317946557312257,
     "CrCbGaD": 0.004392260074213631
   },
+  "n_trials": 0.0,
   "prediction": 0.00272717192668132,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

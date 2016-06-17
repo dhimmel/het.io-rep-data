@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGaD": 0.2317988678818152,
     "CbGbCtD": 0.411303079164167,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0025045327421908104,
     "CrCrCtD": 0.3470409784254997
   },
+  "n_trials": 0.0,
   "prediction": 0.0034051492295116602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

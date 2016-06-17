@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01072",
   "compound_name": "Atazanavir",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGbCtD": 0.41275353776758195,
     "CbGeAlD": 0.0009103916245286691,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.44049449221851444,
     "CrCbGaD": 0.000877893167093323
   },
+  "n_trials": 0.0,
   "prediction": 0.00489588407696781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

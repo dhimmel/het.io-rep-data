@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.048800658542421715,
     "CbGbCtD": 0.323070895971491,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.0927452889383771,
     "CiPCiCtD": 0.44643912641474076
   },
+  "n_trials": 4.0,
   "prediction": 0.0159733209460994,
   "status": 0,
   "training_prediction": 0.19987176072522603

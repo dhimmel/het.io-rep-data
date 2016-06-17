@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.0441176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0104031209362809,
   "metapath_contribution": {
     "CbGdCrCtD": 0.008938790956119954,
     "CbGeAlD": 0.08573515566062274,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.6059879653896255,
     "CrCbGaD": 0.012567623979882724
   },
+  "n_trials": 0.0,
   "prediction": 0.000475420258369388,
   "status": 0,
   "training_prediction": 0.00255897605494099

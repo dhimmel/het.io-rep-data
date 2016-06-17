@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.27644035391553406,
     "CbGbCtD": 0.21370651069481028,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.3523580380624476,
     "CrCbGaD": 0.002921283412895585
   },
+  "n_trials": 0.0,
   "prediction": 0.0046800253110071,
   "status": 0,
   "training_prediction": 0.0102739658386939

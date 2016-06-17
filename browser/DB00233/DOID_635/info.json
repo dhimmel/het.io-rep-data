@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.270481144343303,
   "metapath_contribution": {
     "CbGeAlD": 0.2436024532212989,
     "CbGpPWpGaD": 0.11363667704642125,
     "CcSEcCtD": 0.6398492642972812,
     "CrCbGaD": 0.002911605434998711
   },
+  "n_trials": 1.0,
   "prediction": 0.0016759483349330301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

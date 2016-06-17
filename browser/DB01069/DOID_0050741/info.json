@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.7509752925877758,
   "metapath_contribution": {
-    "CbGaD": 0.44782732317172147,
-    "CbGbCtD": 0.31140573967049096,
-    "CbGeAlD": 0.05071592204244523,
-    "CbGpPWpGaD": 0.09238216661958681,
-    "CcSEcCtD": 0.09239979280086912,
-    "CrCbGaD": 0.005269055694886486
+    "CbGaD": 0.4478273231717214,
+    "CbGbCtD": 0.3114057396704909,
+    "CbGeAlD": 0.050715922042445225,
+    "CbGpPWpGaD": 0.0923821666195868,
+    "CcSEcCtD": 0.0923997928008691,
+    "CrCbGaD": 0.005269055694886485
   },
+  "n_trials": 1.0,
   "prediction": 0.00348714215064063,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

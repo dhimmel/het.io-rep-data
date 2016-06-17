@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00413",
   "compound_name": "Pramipexole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.20626090287596927,
     "CbGbCtD": 0.29166979208187205,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11431937982176481,
     "CpDpCtD": 0.3139363720682227
   },
+  "n_trials": 0.0,
   "prediction": 0.0190760613942614,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

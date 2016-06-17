@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.580624187256177,
   "metapath_contribution": {
     "CbGeAlD": 0.014296035157471031,
     "CbGpPWpGaD": 0.023956727949240784,
@@ -10,7 +12,7 @@
     "CiPCiCtD": 0.910013206582773,
     "CrCbGaD": 0.002693238754699502
   },
+  "n_trials": 2.0,
   "prediction": 0.00164728681186504,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

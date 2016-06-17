@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.44668400520156,
   "metapath_contribution": {
     "CbGaD": 0.45607124443826336,
     "CbGbCtD": 0.40993784906806857,
     "CbGpPWpGaD": 0.13369631469809168,
     "CrCbGaD": 0.00029459179557641505
   },
+  "n_trials": 0.0,
   "prediction": 0.0016505441777221901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

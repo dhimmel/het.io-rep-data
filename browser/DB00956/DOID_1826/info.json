@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.5747724317295191,
   "metapath_contribution": {
     "CbGaD": 0.49101822578882276,
     "CbGbCtD": 0.23549718562118171,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16543446152929542,
     "CrCbGaD": 0.005734030901032661
   },
+  "n_trials": 0.0,
   "prediction": 0.00400922383531735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

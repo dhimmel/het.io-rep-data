@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01216",
   "compound_name": "Finasteride",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7191157347204159,
   "metapath_contribution": {
     "CbGaD": 0.5407024371450502,
     "CbGbCtD": 0.26260544885037246,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10392058294228709,
     "CrCbGaD": 0.0048558489872850075
   },
+  "n_trials": 0.0,
   "prediction": 0.00402880398711321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

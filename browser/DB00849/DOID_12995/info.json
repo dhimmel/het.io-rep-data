@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00849",
   "compound_name": "Methylphenobarbital",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.879626363292803,
     "CbGeAlD": 0.017008609877864476,
     "CbGpPWpGaD": 0.09763139312780231,
     "CrCbGaD": 0.005733633701530286
   },
+  "n_trials": 0.0,
   "prediction": 0.00313333274949207,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

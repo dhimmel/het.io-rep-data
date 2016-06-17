@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.313394018205462,
   "metapath_contribution": {
     "CbGbCtD": 0.6735255080241592,
     "CbGeAlD": 0.12845337704782314,
     "CbGpPWpGaD": 0.07042784466406134,
     "CcSEcCtD": 0.1275932702639564
   },
+  "n_trials": 0.0,
   "prediction": 0.0013085641468858,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

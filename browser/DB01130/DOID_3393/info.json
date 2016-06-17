@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01130",
   "compound_name": "Prednicarbate",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.00650195058517555,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.09829462938323136,
     "CcSEcCtD": 0.11027372470315962,
     "CrCbGaD": 0.006743229972905342,
     "CrCrCtD": 0.7846884159407037
   },
+  "n_trials": 0.0,
   "prediction": 0.00038007437797952403,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

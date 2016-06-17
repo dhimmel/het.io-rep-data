@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00951",
   "compound_name": "Isoniazid",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGbCtD": 0.7007129912783605,
     "CbGeAlD": 0.009736454870132208,
     "CbGpPWpGaD": 0.28516021336106434,
     "CcSEcCtD": 0.004390340490442906
   },
+  "n_trials": 0.0,
   "prediction": 0.00296321013179727,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGaD": 0.282761372558182,
     "CbGbCtD": 0.3730952584672661,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18105246965767557,
     "CrCbGaD": 0.001367190341361383
   },
+  "n_trials": 0.0,
   "prediction": 0.00155416837337487,
   "status": 0,
   "training_prediction": 0.0022176458694480898

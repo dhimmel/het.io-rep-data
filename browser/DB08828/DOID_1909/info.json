@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGaD": 0.09694465281352356,
     "CbGbCtD": 0.16089921394984516,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.31851211207480573,
     "CtDrD": 0.34918281878881857
   },
+  "n_trials": 0.0,
   "prediction": 0.0109937347758989,
   "status": 0,
   "training_prediction": 0.0199281318396082

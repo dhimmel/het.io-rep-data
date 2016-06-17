@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGaD": 0.8243681230719809,
     "CbGeAlD": 0.0783854466547525,
     "CbGpPWpGaD": 0.08818255661794616,
     "CrCbGaD": 0.009063873655320347
   },
+  "n_trials": 0.0,
   "prediction": 0.0022413726292827103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

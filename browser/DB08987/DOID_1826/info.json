@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08987",
   "compound_name": "Etidocaine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.40795842248318565,
     "CbGbCtD": 0.5130276692637892,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06684303560385081,
     "CrCbGaD": 0.002950646513319109
   },
+  "n_trials": 0.0,
   "prediction": 0.0152114011964195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGaD": 0.8394960812995956,
     "CbGeAlD": 0.03971908293044849,
     "CbGpPWpGaD": 0.11254676333205785,
     "CrCbGaD": 0.00823807243789802
   },
+  "n_trials": 0.0,
   "prediction": 0.00232077942463166,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

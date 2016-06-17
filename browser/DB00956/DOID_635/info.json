@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.519505851755527,
   "metapath_contribution": {
     "CbGbCtD": 0.6951081150097006,
     "CbGeAlD": 0.012794594175406137,
     "CbGpPWpGaD": 0.04605050224998929,
     "CcSEcCtD": 0.24604678856490403
   },
+  "n_trials": 0.0,
   "prediction": 0.00249849890356515,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

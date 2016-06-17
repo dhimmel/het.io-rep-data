@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08808",
   "compound_name": "Bupranolol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.15390455797464675,
     "CbGbCtD": 0.1563728451411283,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.21752482527966382,
     "CrCtD": 0.4455001699769269
   },
+  "n_trials": 0.0,
   "prediction": 0.0230019204087022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

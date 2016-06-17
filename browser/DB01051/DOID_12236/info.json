@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01051",
   "compound_name": "Novobiocin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.4698999949374289,
     "CbGbCtD": 0.40077367158381716,
     "CbGeAlD": 0.10246378562967565,
     "CbGpPWpGaD": 0.026862547849078305
   },
+  "n_trials": 0.0,
   "prediction": 0.007128554381607959,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

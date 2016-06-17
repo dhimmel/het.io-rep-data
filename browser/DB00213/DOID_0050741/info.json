@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.723667100130039,
   "metapath_contribution": {
     "CbGbCtD": 0.513739482171413,
     "CbGeAlD": 0.0870679736683781,
     "CbGpPWpGaD": 0.0829647907825109,
     "CcSEcCtD": 0.316227753377698
   },
+  "n_trials": 0.0,
   "prediction": 0.00322926446394849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5136540962288689,
   "metapath_contribution": {
     "CbGaD": 0.17867190254534354,
     "CbGbCtD": 0.3584868897777978,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0031624204186944753,
     "CrCrCtD": 0.26571557581153404
   },
+  "n_trials": 14.0,
   "prediction": 0.00410441577480892,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

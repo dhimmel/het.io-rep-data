@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08604",
   "compound_name": "Triclosan",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.364109232769831,
   "metapath_contribution": {
     "CbGbCtD": 0.9129448513401479,
     "CbGdCrCtD": 0.008241501649975027,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.040340899586017664,
     "CrCbGaD": 0.0039116333319976805
   },
+  "n_trials": 0.0,
   "prediction": 0.00139525879450239,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

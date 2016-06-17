@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.3604248149161293,
     "CbGeAlD": 0.032197166638872364,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003000928163325445,
     "CtDrD": 0.5361242926051952
   },
+  "n_trials": 11.0,
   "prediction": 0.0038435268971345,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

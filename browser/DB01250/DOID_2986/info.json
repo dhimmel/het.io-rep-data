@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.15441176470588197,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.594928478543563,
   "metapath_contribution": {
     "CbGaD": 0.754396725903577,
     "CbGeAlD": 0.04885614173165697,
     "CbGpPWpGaD": 0.19004422740682944,
     "CrCbGaD": 0.006702904957936566
   },
+  "n_trials": 0.0,
   "prediction": 0.0011064649305192699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

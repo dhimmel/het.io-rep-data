@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.254876462938882,
   "metapath_contribution": {
     "CbGaD": 0.2234403143153318,
     "CbGbCtD": 0.5160444726361839,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19106539112093843,
     "CrCbGaD": 0.002986562608282633
   },
+  "n_trials": 0.0,
   "prediction": 0.0014602613268409,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

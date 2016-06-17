@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00892",
   "compound_name": "Oxybuprocaine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.7653258570681952,
     "CbGbCtD": 0.15339433625440055,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.039830975753138445,
     "CrCbGaD": 0.005834994055450454
   },
+  "n_trials": 0.0,
   "prediction": 0.00481978230385126,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

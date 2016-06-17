@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGbCtD": 0.4391210962375695,
     "CcSEcCtD": 0.15460760255162084,
     "CrCbGaD": 0.00168519642507768,
     "CrCrCtD": 0.40458610478573204
   },
+  "n_trials": 0.0,
   "prediction": 0.00347173396692284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

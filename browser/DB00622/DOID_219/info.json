@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGaD": 0.3530403006610181,
     "CbGbCtD": 0.2945374375144576,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1110892120629572,
     "CrCbGaD": 0.00216917890047823
   },
+  "n_trials": 0.0,
   "prediction": 0.0014104730647620401,
   "status": 0,
   "training_prediction": 0.0020127304153325

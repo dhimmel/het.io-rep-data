@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.421976592977893,
   "metapath_contribution": {
     "CbGbCtD": 0.876596664869545,
     "CbGeAlD": 0.009255353737719713,
     "CbGpPWpGaD": 0.00975806992373555,
     "CcSEcCtD": 0.10438991146899977
   },
+  "n_trials": 0.0,
   "prediction": 0.0014800838058306599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

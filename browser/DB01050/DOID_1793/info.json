@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGaD": 0.3740686682802769,
     "CbGbCtD": 0.3873751780406969,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12213710715782292,
     "CrCbGaD": 0.0008497715294351922
   },
+  "n_trials": 0.0,
   "prediction": 0.00325278804093924,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

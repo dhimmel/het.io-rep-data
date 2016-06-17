@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGbCtD": 0.4242460182094809,
     "CbGdCrCtD": 0.0014444469319411183,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14890058564062103,
     "CpDpCtD": 0.40673008411860584
   },
+  "n_trials": 0.0,
   "prediction": 0.00328530047592482,
   "status": 0,
   "training_prediction": 0.0078103319002662

@@ -1,16 +1,19 @@
 {
   "compound_id": "DB01043",
   "compound_name": "Memantine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
-    "CbGaD": 0.24907377087682792,
-    "CbGbCtD": 0.3000141494233139,
-    "CbGeAlD": 0.032235041906600176,
-    "CbGpPWpGaD": 0.061755717506105146,
-    "CcSEcCtD": 0.11502872164111355,
-    "CpDpCtD": 0.24189259864603924
+    "CbGaD": 0.24907377087682794,
+    "CbGbCtD": 0.30001414942331395,
+    "CbGeAlD": 0.03223504190660018,
+    "CbGpPWpGaD": 0.06175571750610516,
+    "CcSEcCtD": 0.11502872164111357,
+    "CpDpCtD": 0.24189259864603926
   },
+  "n_trials": 2.0,
   "prediction": 0.0302609686687367,
   "status": 0,
   "training_prediction": 0.13285472576225302

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08889",
   "compound_name": "Carfilzomib",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.583875162548765,
   "metapath_contribution": {
     "CbGaD": 0.08775946289956323,
     "CbGbCtD": 0.12025124623255508,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.003543236708064851,
     "CrCrCtD": 0.42414980990632734
   },
+  "n_trials": 0.0,
   "prediction": 0.00281805419363976,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

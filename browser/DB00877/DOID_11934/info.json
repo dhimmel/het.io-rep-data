@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.0201560468140442,
   "metapath_contribution": {
     "CbGbCtD": 0.3756625658042955,
     "CbGeAlD": 0.032930224531772495,
     "CbGpPWpGaD": 0.3045955902183931,
     "CcSEcCtD": 0.2868116194455389
   },
+  "n_trials": 23.0,
   "prediction": 0.0005835420035130679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

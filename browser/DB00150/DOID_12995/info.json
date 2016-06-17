@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00150",
   "compound_name": "L-Tryptophan",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
-    "CbGeAlD": 0.09065628773353705,
-    "CbGpPWpGaD": 0.8958863144235212,
-    "CrCbGaD": 0.013457397842941974
+    "CbGeAlD": 0.09065628773353702,
+    "CbGpPWpGaD": 0.895886314423521,
+    "CrCbGaD": 0.01345739784294197
   },
+  "n_trials": 0.0,
   "prediction": 0.00152489319348829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

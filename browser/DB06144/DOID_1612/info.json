@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06144",
   "compound_name": "Sertindole",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.437581274382315,
   "metapath_contribution": {
     "CbGaD": 0.35680930305542147,
     "CbGbCtD": 0.4621868574490043,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.16424950381346262,
     "CrCbGaD": 0.0033496767956643194
   },
+  "n_trials": 0.0,
   "prediction": 0.00210660516265737,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

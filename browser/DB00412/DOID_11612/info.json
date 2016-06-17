@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.24049598550241735,
     "CbGeAlD": 0.026944267399008744,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0012066380480293864,
     "CtDrD": 0.6574026499835242
   },
+  "n_trials": 2.0,
   "prediction": 0.0038888730555630205,
   "status": 0,
   "training_prediction": 0.00175555025927468

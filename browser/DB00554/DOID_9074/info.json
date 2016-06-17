@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.2056408726562957,
     "CbGbCtD": 0.2699417114701706,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0013570110853637365,
     "CrCrCtD": 0.16166327138062384
   },
+  "n_trials": 0.0,
   "prediction": 0.00619430178715355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

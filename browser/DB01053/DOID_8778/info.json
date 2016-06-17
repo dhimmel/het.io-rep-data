@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGaD": 0.7136550916657389,
     "CbGbCtD": 0.16092930535213673,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06432544373794837,
     "CrCbGaD": 0.00400757923189007
   },
+  "n_trials": 0.0,
   "prediction": 0.00212969509168085,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

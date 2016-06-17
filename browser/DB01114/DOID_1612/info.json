@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.312093628088427,
   "metapath_contribution": {
     "CbGaD": 0.18118374376415475,
     "CbGbCtD": 0.301167883022698,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0016471120194256532,
     "CrCrCtD": 0.37416132283628883
   },
+  "n_trials": 0.0,
   "prediction": 0.00165587993993484,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

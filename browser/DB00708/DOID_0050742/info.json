@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.9776109414770868,
     "CbGpPWpGaD": 0.005715130716925957,
     "CcSEcCtD": 0.007744744157119434,
     "CrCbGaD": 0.008929183648867833
   },
+  "n_trials": 0.0,
   "prediction": 0.00333752822421502,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

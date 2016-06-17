@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGbCtD": 0.22553877716590787,
     "CbGdCrCtD": 0.00013653411300008163,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.26347692121958066,
     "CrCtD": 0.4304550300185605
   },
+  "n_trials": 0.0,
   "prediction": 0.0198552532109348,
   "status": 0,
   "training_prediction": 0.0619704856667985

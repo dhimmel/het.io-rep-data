@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.2644965612785103,
     "CbGbCtD": 0.2951986959625577,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3301262381686763,
     "CrCbGaD": 0.0036791437689234494
   },
+  "n_trials": 3.0,
   "prediction": 0.00855285236239044,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

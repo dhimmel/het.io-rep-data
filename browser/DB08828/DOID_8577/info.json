@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGaD": 0.12256796910964796,
     "CbGbCtD": 0.149460027992923,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.25741687794919316,
     "CrCtD": 0.4242848200605412
   },
+  "n_trials": 0.0,
   "prediction": 0.0165650091305128,
   "status": 0,
   "training_prediction": 0.0546231519351864

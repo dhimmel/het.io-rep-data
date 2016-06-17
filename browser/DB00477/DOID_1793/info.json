@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.19375812743823104,
   "metapath_contribution": {
     "CbGbCtD": 0.4305045087049728,
     "CbGeAlD": 0.04994440990469101,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07916534373786972,
     "CrCrCtD": 0.2949128408811307
   },
+  "n_trials": 0.0,
   "prediction": 0.0010991579348840301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

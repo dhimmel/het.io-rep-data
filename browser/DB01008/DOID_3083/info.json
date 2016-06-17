@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.6364679161892063,
     "CbGbCtD": 0.08904841357171275,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11420598517497463,
     "CcSEcCtD": 0.1195193147746638
   },
+  "n_trials": 0.0,
   "prediction": 0.00662770276714099,
   "status": 0,
   "training_prediction": 0.0145157113926772

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7581274382314691,
   "metapath_contribution": {
     "CbGaD": 0.4714483059903174,
     "CbGbCtD": 0.3209326928993296,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11640524809535598,
     "CrCbGaD": 0.0006734710937962758
   },
+  "n_trials": 0.0,
   "prediction": 0.0029603917730834,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

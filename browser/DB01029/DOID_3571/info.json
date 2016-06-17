@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.788036410923277,
   "metapath_contribution": {
     "CbGaD": 0.646494647607667,
     "CbGbCtD": 0.1106601083614858,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09391883295965017,
     "CrCbGaD": 0.0001334693801245108
   },
+  "n_trials": 0.0,
   "prediction": 0.0021653120675365397,
   "status": 0,
   "training_prediction": 0.00355760775215531

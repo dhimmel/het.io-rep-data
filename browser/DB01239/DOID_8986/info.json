@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGaD": 0.7053989761788955,
     "CbGeAlD": 0.07815314267172035,
     "CbGpPWpGaD": 0.21094771469437962,
     "CrCbGaD": 0.00550016645500448
   },
+  "n_trials": 0.0,
   "prediction": 0.0018779777469151199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

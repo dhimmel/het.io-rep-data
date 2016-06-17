@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGaD": 0.07066656471420711,
     "CbGbCtD": 0.2406119400502539,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.5779067585394726,
     "CrCbGaD": 0.0011781838813285104
   },
+  "n_trials": 1.0,
   "prediction": 0.00537411242168767,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

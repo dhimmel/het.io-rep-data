@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.0882352941176471,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
-    "CbGeAlD": 0.5254052395741986,
-    "CbGpPWpGaD": 0.46756883885976863,
-    "CrCbGaD": 0.007025921566032823
+    "CbGeAlD": 0.5254052395741985,
+    "CbGpPWpGaD": 0.4675688388597685,
+    "CrCbGaD": 0.007025921566032822
   },
+  "n_trials": 0.0,
   "prediction": 0.0012625238955221,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01131",
   "compound_name": "Proguanil",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.4110330121315996,
     "CbGbCtD": 0.4321245438745217,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0738193640138727,
     "CcSEcCtD": 0.06637567528276682
   },
+  "n_trials": 0.0,
   "prediction": 0.00763237538981832,
   "status": 0,
   "training_prediction": 0.00925196615264864

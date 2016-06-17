@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.7736654489815674,
     "CbGeAlD": 0.07162566352018289,
     "CbGpPWpGaD": 0.14923846583386285,
     "CrCbGaD": 0.005470421664386862
   },
+  "n_trials": 0.0,
   "prediction": 0.00325708528879189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.350455136540962,
   "metapath_contribution": {
     "CbGaD": 0.16568124255998717,
     "CbGbCtD": 0.38714986810732716,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23992235538608134,
     "CrCbGaD": 0.0046227592874981405
   },
+  "n_trials": 0.0,
   "prediction": 0.00170713443739667,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

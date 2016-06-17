@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.669700910273082,
   "metapath_contribution": {
     "CbGaD": 0.23637038172311847,
     "CbGbCtD": 0.3563803700702964,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.16725933741474397,
     "CcSEcCtD": 0.15656006072356068
   },
+  "n_trials": 0.0,
   "prediction": 0.00238428793893586,
   "status": 0,
   "training_prediction": 0.00289348115266201

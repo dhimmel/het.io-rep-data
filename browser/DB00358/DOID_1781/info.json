@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.6326397919375811,
   "metapath_contribution": {
     "CbGbCtD": 0.2495528730548981,
     "CbGeAlD": 0.14172749306041568,
     "CbGpPWpGaD": 0.05253487111454711,
     "CcSEcCtD": 0.5561847627701391
   },
+  "n_trials": 0.0,
   "prediction": 0.0018146080018057,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

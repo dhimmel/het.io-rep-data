@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.29453836150845303,
   "metapath_contribution": {
     "CbGaD": 0.14074497966228944,
     "CbGbCtD": 0.6235464189677536,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1030620451803177,
     "CcSEcCtD": 0.10472818154449409
   },
+  "n_trials": 1.0,
   "prediction": 0.00133689064949583,
   "status": 0,
   "training_prediction": 0.0146170122379014

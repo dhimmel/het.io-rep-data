@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGaD": 0.8501139114704224,
     "CbGeAlD": 0.03967964830673152,
     "CbGpPWpGaD": 0.10146656665542643,
     "CrCbGaD": 0.008739873567419733
   },
+  "n_trials": 0.0,
   "prediction": 0.00276022389051449,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

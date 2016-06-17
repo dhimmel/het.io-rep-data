@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.6573472041612479,
   "metapath_contribution": {
     "CbGaD": 0.12359910739629815,
     "CbGbCtD": 0.51997115381716,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.05869818596140866,
     "CcSEcCtD": 0.2277048193940136
   },
+  "n_trials": 0.0,
   "prediction": 0.00330366163109641,
   "status": 0,
   "training_prediction": 0.0930463749446633

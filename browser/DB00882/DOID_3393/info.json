@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.5318595578673599,
   "metapath_contribution": {
     "CbGaD": 0.23978502998443335,
     "CbGbCtD": 0.42056070049809535,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18674694279277526,
     "CrCbGaD": 0.002971828160774605
   },
+  "n_trials": 0.0,
   "prediction": 0.0025484229361233,
   "status": 0,
   "training_prediction": 0.0135934724636532

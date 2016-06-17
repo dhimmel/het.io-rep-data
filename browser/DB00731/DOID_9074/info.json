@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGaD": 0.37238164132964635,
     "CbGbCtD": 0.45464024337602177,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07298414804234883,
     "CrCbGaD": 0.003278995711892206
   },
+  "n_trials": 0.0,
   "prediction": 0.0022637719621294698,
   "status": 0,
   "training_prediction": 0.00657932773359503

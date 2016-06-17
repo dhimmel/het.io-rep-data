@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7678803641092329,
   "metapath_contribution": {
     "CbGaD": 0.3191813644169816,
     "CbGbCtD": 0.4076303723153473,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13068197462372544,
     "CrCbGaD": 0.00448950026388268
   },
+  "n_trials": 0.0,
   "prediction": 0.0022712324435863102,
   "status": 0,
   "training_prediction": 0.0112933102829369

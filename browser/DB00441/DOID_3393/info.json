@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0552665799739922,
   "metapath_contribution": {
     "CbGbCtD": 0.39297937539760114,
     "CbGdCrCtD": 0.005566725903379556,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.33612810159078,
     "CrCbGaD": 0.0008174533744083876
   },
+  "n_trials": 0.0,
   "prediction": 0.000738837553261039,
   "status": 0,
   "training_prediction": 0.0155880370307276

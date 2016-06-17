@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.2895915061303331,
     "CbGbCtD": 0.5369772652333611,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0951383074026552,
     "CrCbGaD": 0.004329304208331579
   },
+  "n_trials": 0.0,
   "prediction": 0.00356765960154355,
   "status": 0,
   "training_prediction": 0.0191165557228886

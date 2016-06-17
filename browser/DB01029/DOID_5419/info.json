@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.561768530559168,
   "metapath_contribution": {
     "CbGaD": 0.7133087330061463,
     "CbGeAlD": 0.07358580250544478,
     "CbGpPWpGaD": 0.21120509441853763,
     "CrCbGaD": 0.0019003700698713183
   },
+  "n_trials": 0.0,
   "prediction": 0.00169192703525197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

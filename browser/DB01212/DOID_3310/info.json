@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.136540962288687,
   "metapath_contribution": {
     "CbGbCtD": 0.3031820600341751,
     "CcSEcCtD": 0.6968179399658249
   },
+  "n_trials": 0.0,
   "prediction": 0.00130230275440978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

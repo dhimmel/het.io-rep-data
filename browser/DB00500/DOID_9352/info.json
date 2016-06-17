@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.290637191157347,
   "metapath_contribution": {
     "CbGaD": 0.19813103367979382,
     "CbGbCtD": 0.4870717229988493,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15498650957267085,
     "CrCbGaD": 0.004163676879630254
   },
+  "n_trials": 0.0,
   "prediction": 0.00168823743407616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

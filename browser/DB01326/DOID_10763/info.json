@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01326",
   "compound_name": "Cefamandole",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.150845253576073,
   "metapath_contribution": {
     "CbGbCtD": 0.871412393097215,
     "CbGeAlD": 0.032053867359963545,
     "CbGpPWpGaD": 0.09324261104141374,
     "CrCbGaD": 0.0032911285014077586
   },
+  "n_trials": 0.0,
   "prediction": 0.00155830748309446,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

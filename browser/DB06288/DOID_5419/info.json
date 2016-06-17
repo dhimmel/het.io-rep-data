@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06288",
   "compound_name": "Amisulpride",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGaD": 0.773437270341593,
     "CbGeAlD": 0.08152131648235017,
     "CbGpPWpGaD": 0.13793905306301368,
     "CrCbGaD": 0.007102360113043082
   },
+  "n_trials": 0.0,
   "prediction": 0.00299586253985761,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01028",
   "compound_name": "Methoxyflurane",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.5681156508216603,
     "CbGbCtD": 0.28484844235578505,
     "CbGeAlD": 0.06697056850959635,
     "CbGpPWpGaD": 0.08006533831295835
   },
+  "n_trials": 0.0,
   "prediction": 0.00845068979402375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

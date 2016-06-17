@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.45058517555266603,
   "metapath_contribution": {
     "CbGbCtD": 0.34041767876549883,
     "CbGeAlD": 0.016251377731406454,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0008614872929958762,
     "CrCrCtD": 0.3303462465236608
   },
+  "n_trials": 0.0,
   "prediction": 0.00341392049361788,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

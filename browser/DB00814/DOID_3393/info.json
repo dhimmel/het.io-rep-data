@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.0416541104846755,
     "CbGbCtD": 0.18683801581868795,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.00047336242777087505,
     "CrCrCtD": 0.1702607982909095
   },
+  "n_trials": 0.0,
   "prediction": 0.0257034015112908,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

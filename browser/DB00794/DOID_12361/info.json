@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00794",
   "compound_name": "Primidone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.5955028825528964,
     "CbGbCtD": 0.32905520676251454,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.021788612575793315,
     "CrCbGaD": 0.0017023105408629543
   },
+  "n_trials": 0.0,
   "prediction": 0.00414538935851766,
   "status": 0,
   "training_prediction": 0.00305942129948658

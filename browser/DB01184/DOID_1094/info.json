@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.8880876056124929,
     "CbGeAlD": 0.002824635636961364,
     "CbGpPWpGaD": 0.09800237358796059,
     "CrCbGaD": 0.011085385162585103
   },
+  "n_trials": 0.0,
   "prediction": 0.00238447866201796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

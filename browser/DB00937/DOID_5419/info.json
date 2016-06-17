@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00937",
   "compound_name": "Diethylpropion",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.5318595578673599,
   "metapath_contribution": {
     "CbGaD": 0.8330374262914375,
     "CbGeAlD": 0.0665549560160071,
     "CbGpPWpGaD": 0.09103629992853186,
     "CrCbGaD": 0.009371317764023635
   },
+  "n_trials": 0.0,
   "prediction": 0.00162370892763795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

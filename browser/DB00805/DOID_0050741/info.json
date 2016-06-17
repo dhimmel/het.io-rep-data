@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00805",
   "compound_name": "Minaprine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGaD": 0.5497139365918918,
     "CbGbCtD": 0.3047108289571038,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09714008273351829,
     "CrCbGaD": 0.0031679089318869076
   },
+  "n_trials": 0.0,
   "prediction": 0.006052199180753439,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

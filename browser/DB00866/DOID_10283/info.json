@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00866",
   "compound_name": "Alprenolol",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.16905071521456397,
   "metapath_contribution": {
     "CbGaD": 0.7304129967492051,
     "CbGbCtD": 0.12794221528857724,
     "CbGpPWpGaD": 0.13174299730902164,
     "CrCbGaD": 0.009901790653196019
   },
+  "n_trials": 0.0,
   "prediction": 0.00111821919050182,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

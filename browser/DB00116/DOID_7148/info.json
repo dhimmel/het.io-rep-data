@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.13567178082153733,
     "CbGbCtD": 0.14403745678981708,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2581701656175838,
     "CrCtD": 0.39096991407272613
   },
+  "n_trials": 0.0,
   "prediction": 0.0142961684221384,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

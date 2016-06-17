@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01039",
   "compound_name": "Fenofibrate",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.520156046814044,
   "metapath_contribution": {
     "CbGbCtD": 0.35628402918806634,
     "CbGeAlD": 0.052894201342615965,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.41796666235691476,
     "CrCbGaD": 0.012089399772966457
   },
+  "n_trials": 0.0,
   "prediction": 0.00161087525292948,
   "status": 0,
   "training_prediction": 0.0041279177133084

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.21503512841686537,
     "CbGbCtD": 0.2600097439672406,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0006299166226019924,
     "CrCrCtD": 0.3567511179374123
   },
+  "n_trials": 4.0,
   "prediction": 0.009945906545974891,
   "status": 0,
   "training_prediction": 0.0234293201854853

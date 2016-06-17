@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.203829147550801,
     "CbGbCtD": 0.2902157441574592,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07589991433563884,
     "CiPCiCtD": 0.4160169888904215
   },
+  "n_trials": 0.0,
   "prediction": 0.015537691161081002,
   "status": 0,
   "training_prediction": 0.0336705527957178

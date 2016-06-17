@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.65149544863459,
   "metapath_contribution": {
     "CbGaD": 0.36634890396240083,
     "CbGbCtD": 0.49604554671231105,
     "CcSEcCtD": 0.13616484343675092,
     "CrCbGaD": 0.0014407058885371536
   },
+  "n_trials": 0.0,
   "prediction": 0.00187882019102108,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

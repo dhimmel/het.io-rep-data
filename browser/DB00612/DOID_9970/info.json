@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00612",
   "compound_name": "Bisoprolol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.642392717815345,
   "metapath_contribution": {
     "CbGaD": 0.3963038151019631,
     "CbGbCtD": 0.39915868726139303,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14233256682196227,
     "CrCbGaD": 0.004834121257168567
   },
+  "n_trials": 0.0,
   "prediction": 0.00331750279886297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

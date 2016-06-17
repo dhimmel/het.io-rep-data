@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00572",
   "compound_name": "Atropine",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.168400520156047,
   "metapath_contribution": {
     "CbGbCtD": 0.5235463656672633,
     "CbGpPWpGaD": 0.13760748517037483,
     "CcSEcCtD": 0.3154048035651157,
     "CrCbGaD": 0.023441345597246175
   },
+  "n_trials": 0.0,
   "prediction": 0.000848608798842678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

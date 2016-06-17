@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00493",
   "compound_name": "Cefotaxime",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.5793237971391421,
   "metapath_contribution": {
     "CbGaD": 0.7382542803187495,
     "CbGbCtD": 0.16311525956899758,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0872608362358794,
     "CrCbGaD": 0.007512335977332296
   },
+  "n_trials": 0.0,
   "prediction": 0.00208026088638346,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

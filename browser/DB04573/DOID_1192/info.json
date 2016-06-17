@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.546814044213264,
   "metapath_contribution": {
     "CbGaD": 0.5358074210766236,
     "CbGbCtD": 0.2376602674626189,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21214885904191222,
     "CrCbGaD": 0.0017615051673828567
   },
+  "n_trials": 0.0,
   "prediction": 0.00186538485717137,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

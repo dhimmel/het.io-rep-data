@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.224967490247074,
   "metapath_contribution": {
     "CbGaD": 0.7800157071025424,
     "CbGeAlD": 0.06578907887539726,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.0026046324619228606
   },
   "prediction": 0.00105541137896865,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

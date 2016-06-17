@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01237",
   "compound_name": "Bromodiphenhydramine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.0539661898569571,
   "metapath_contribution": {
     "CbGbCtD": 0.8507510344927723,
     "CbGeAlD": 0.035130525300758074,
     "CbGpPWpGaD": 0.10453273138648621,
     "CrCbGaD": 0.009585708819983352
   },
+  "n_trials": 0.0,
   "prediction": 0.000995617066051762,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGaD": 0.4566901733434401,
     "CbGbCtD": 0.3993082450453283,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0434686701883488,
     "CrCbGaD": 0.004504731479362623
   },
+  "n_trials": 0.0,
   "prediction": 0.00446002294286819,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.5262768042402,
     "CbGbCtD": 0.3935280791918178,
     "CbGeAlD": 0.07489815533250929,
     "CrCbGaD": 0.005296961235472945
   },
+  "n_trials": 1.0,
   "prediction": 0.00257590043872562,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

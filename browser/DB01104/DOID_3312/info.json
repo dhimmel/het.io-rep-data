@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.8239060492092529,
     "CbGeAlD": 0.07737031002501339,
     "CbGpPWpGaD": 0.09387875788262473,
     "CrCbGaD": 0.004844882883108974
   },
+  "n_trials": 7.0,
   "prediction": 0.00300893930342534,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

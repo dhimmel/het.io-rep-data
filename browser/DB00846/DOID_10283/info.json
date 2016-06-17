@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00846",
   "compound_name": "Flurandrenolide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.518855656697009,
   "metapath_contribution": {
     "CbGaD": 0.18952309488662766,
     "CbGbCtD": 0.025512747596831968,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0031746224351883534,
     "CrCrCtD": 0.2307381589642941
   },
+  "n_trials": 0.0,
   "prediction": 0.00236134173478144,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.45578673602080605,
   "metapath_contribution": {
     "CbGbCtD": 0.17241770602668152,
     "CbGeAlD": 0.11950643633211128,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4833123641454721,
     "CrCbGaD": 0.0033231691286979615
   },
+  "n_trials": 0.0,
   "prediction": 0.00213076512274792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

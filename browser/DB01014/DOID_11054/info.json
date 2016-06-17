@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGaD": 0.7383807264071323,
     "CbGbCtD": 0.14767183407709775,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.0706831291559443,
     "CrCbGaD": 0.00502016241485567
   },
+  "n_trials": 0.0,
   "prediction": 0.00227227493590001,
   "status": 0,
   "training_prediction": 0.009664189379725041

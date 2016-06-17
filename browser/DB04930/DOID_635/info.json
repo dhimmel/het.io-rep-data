@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04930",
   "compound_name": "Permethrin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGbCtD": 0.8390697797472781,
     "CbGeAlD": 0.005843662085445301,
     "CcSEcCtD": 0.1545555108019716,
     "CrCbGaD": 0.0005310473653050292
   },
+  "n_trials": 0.0,
   "prediction": 0.00372547862871981,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

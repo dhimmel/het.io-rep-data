@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7600780234070219,
   "metapath_contribution": {
-    "CbGbCtD": 0.2463219481377849,
+    "CbGbCtD": 0.24632194813778488,
     "CbGpPWpGaD": 0.03199278770967906,
-    "CcSEcCtD": 0.14841356111990897,
-    "CpDpCtD": 0.5709376730863993,
-    "CrCbGaD": 0.002334029946227834
+    "CcSEcCtD": 0.14841356111990894,
+    "CpDpCtD": 0.5709376730863992,
+    "CrCbGaD": 0.0023340299462278336
   },
+  "n_trials": 2.0,
   "prediction": 0.0028605895315925,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

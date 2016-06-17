@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGaD": 0.641057921290357,
     "CbGbCtD": 0.10503268114345118,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.17631188915018695,
     "CrCbGaD": 0.0018964052178704189
   },
+  "n_trials": 3.0,
   "prediction": 0.00400773547355635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

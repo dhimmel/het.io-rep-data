@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGbCtD": 0.22261036857286623,
     "CbGdCrCtD": 0.001928671897694886,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.6889213893994149,
     "CrCbGaD": 0.0001267161383461791
   },
+  "n_trials": 0.0,
   "prediction": 0.00444303884671119,
   "status": 0,
   "training_prediction": 0.0236513822284838

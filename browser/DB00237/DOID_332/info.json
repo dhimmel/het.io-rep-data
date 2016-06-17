@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00237",
   "compound_name": "Butabarbital",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.8001600892360107,
     "CbGeAlD": 0.06700668955127204,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0767243581398212,
     "CrCbGaD": 0.007729334540801212
   },
+  "n_trials": 0.0,
   "prediction": 0.00315544980291873,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

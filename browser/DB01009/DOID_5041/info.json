@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.44538361508452506,
   "metapath_contribution": {
     "CbGaD": 0.4411812761489104,
     "CbGbCtD": 0.36646324585280715,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06450602855720061,
     "CrCbGaD": 0.005890040748039868
   },
+  "n_trials": 0.0,
   "prediction": 0.00131646769358481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

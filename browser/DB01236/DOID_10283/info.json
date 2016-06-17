@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.797139141742523,
   "metapath_contribution": {
     "CbGaD": 0.3500876153121951,
     "CbGbCtD": 0.32373570531825646,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11181451109453143,
     "CcSEcCtD": 0.1691267552216104
   },
+  "n_trials": 1.0,
   "prediction": 0.00467922896188887,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

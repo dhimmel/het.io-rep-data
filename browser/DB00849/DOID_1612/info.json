@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00849",
   "compound_name": "Methylphenobarbital",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.217815344603381,
   "metapath_contribution": {
     "CbGbCtD": 0.6588758178510536,
     "CbGeAlD": 0.15062681046639662,
     "CbGpPWpGaD": 0.1755496171011345,
     "CrCbGaD": 0.014947754581415316
   },
+  "n_trials": 0.0,
   "prediction": 0.00134006800849881,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

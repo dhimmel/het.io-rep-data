@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01131",
   "compound_name": "Proguanil",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.776332899869961,
   "metapath_contribution": {
     "CbGaD": 0.2924251177012666,
     "CbGbCtD": 0.5506309665846146,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03854772585846333,
     "CcSEcCtD": 0.11662672727716059
   },
+  "n_trials": 0.0,
   "prediction": 0.007468686908683341,
   "status": 0,
   "training_prediction": 0.035628821319846

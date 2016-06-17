@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.8318512500044902,
     "CbGeAlD": 0.0027480643127043617,
     "CbGpPWpGaD": 0.1648794757570747,
     "CrCbGaD": 0.0005212099257305889
   },
+  "n_trials": 0.0,
   "prediction": 0.00282512334187118,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

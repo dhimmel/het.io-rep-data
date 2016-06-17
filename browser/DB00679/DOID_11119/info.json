@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
-    "CbGaD": 0.8087718220291258,
-    "CbGeAlD": 0.0506750447296816,
+    "CbGaD": 0.8087718220291259,
+    "CbGeAlD": 0.05067504472968161,
     "CbGpPWpGaD": 0.131489602676416,
-    "CrCbGaD": 0.009063530564776488
+    "CrCbGaD": 0.00906353056477649
   },
+  "n_trials": 0.0,
   "prediction": 0.0018641186228636301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

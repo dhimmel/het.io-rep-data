@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.554511059332758,
     "CbGbCtD": 0.3003622753306359,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.045280737988397615,
     "CcSEcCtD": 0.08848670940477348
   },
+  "n_trials": 0.0,
   "prediction": 0.00436264846938895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

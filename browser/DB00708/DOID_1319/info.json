@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.530559167750325,
   "metapath_contribution": {
     "CbGbCtD": 0.682535626558018,
     "CbGeAlD": 0.14313891485103272,
     "CcSEcCtD": 0.17432545859094925
   },
+  "n_trials": 1.0,
   "prediction": 0.00161850707726977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

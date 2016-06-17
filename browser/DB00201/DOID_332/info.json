@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.418725617685306,
   "metapath_contribution": {
     "CbGbCtD": 0.5702351609625964,
     "CbGeAlD": 0.139567865165341,
     "CbGpPWpGaD": 0.2068749535790176,
     "CcSEcCtD": 0.08332202029304481
   },
+  "n_trials": 0.0,
   "prediction": 0.0011477825811455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

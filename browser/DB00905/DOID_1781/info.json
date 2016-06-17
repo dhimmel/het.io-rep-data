@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00905",
   "compound_name": "Bimatoprost",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.694408322496749,
   "metapath_contribution": {
     "CbGbCtD": 0.6843847692474109,
     "CbGeAlD": 0.026915785933678035,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14866454427765868,
     "CrCbGaD": 0.0015456289709558566
   },
+  "n_trials": 0.0,
   "prediction": 0.00197352886079033,
   "status": 0,
   "training_prediction": 0.00239521017530339

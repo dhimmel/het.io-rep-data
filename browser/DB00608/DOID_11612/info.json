@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.349804941482445,
   "metapath_contribution": {
     "CbGaD": 0.699693904404849,
     "CbGeAlD": 0.06571130265118334,
     "CbGpPWpGaD": 0.2306379609649881,
     "CrCbGaD": 0.003956831978979511
   },
+  "n_trials": 0.0,
   "prediction": 0.00114810187408606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

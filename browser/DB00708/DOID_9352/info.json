@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.563068920676203,
   "metapath_contribution": {
     "CbGaD": 0.36370846829363596,
     "CbGbCtD": 0.37831424696190075,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1784938945097413,
     "CrCbGaD": 0.001247019585379727
   },
+  "n_trials": 0.0,
   "prediction": 0.0027872171174333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

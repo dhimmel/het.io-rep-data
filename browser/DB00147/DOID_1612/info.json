@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00147",
   "compound_name": "Pyridoxal",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.443433029908973,
   "metapath_contribution": {
-    "CbGeAlD": 0.48010371084941084,
-    "CbGpPWpGaD": 0.4893743862734398,
-    "CrCbGaD": 0.03052190287714923
+    "CbGeAlD": 0.4801037108494109,
+    "CbGpPWpGaD": 0.48937438627343993,
+    "CrCbGaD": 0.030521902877149232
   },
+  "n_trials": 2.0,
   "prediction": 0.0021281360306676,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

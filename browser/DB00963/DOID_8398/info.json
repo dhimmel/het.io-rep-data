@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGaD": 0.9343880230513306,
     "CbGeAlD": 0.024336809179727997,
     "CbGpPWpGaD": 0.029977946903278343,
     "CrCbGaD": 0.0112972208656631
   },
+  "n_trials": 0.0,
   "prediction": 0.0017256332599300099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

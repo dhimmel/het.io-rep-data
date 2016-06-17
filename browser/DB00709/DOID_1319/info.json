@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.182704811443433,
   "metapath_contribution": {
     "CbGbCtD": 0.5139731473193229,
     "CbGeAlD": 0.15918872644237564,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21815196415446142,
     "CrCbGaD": 0.00754936928992738
   },
+  "n_trials": 0.0,
   "prediction": 0.0009723567739238711,
   "status": 0,
   "training_prediction": 0.0029606807584537397

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.29162575747115843,
     "CbGbCtD": 0.5140187519575243,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.011440378056543857,
     "CcSEcCtD": 0.1545902226451559
   },
+  "n_trials": 0.0,
   "prediction": 0.0025247346393488103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

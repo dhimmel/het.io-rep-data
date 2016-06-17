@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06717",
   "compound_name": "Fosaprepitant",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.8668197717877169,
     "CbGpPWpGaD": 0.05211843945489397,
     "CcSEcCtD": 0.07490327364335943,
     "CrCbGaD": 0.0061585151140296675
   },
+  "n_trials": 1.0,
   "prediction": 0.00487391886782885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

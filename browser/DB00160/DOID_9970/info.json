@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.5351105331599479,
   "metapath_contribution": {
     "CbGaD": 0.7393695714527233,
     "CbGeAlD": 0.09807858444349211,
     "CbGpPWpGaD": 0.15810470834406953,
     "CrCbGaD": 0.004447135759715064
   },
+  "n_trials": 0.0,
   "prediction": 0.00268875785779005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB08889",
   "compound_name": "Carfilzomib",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.26592977893367997,
   "metapath_contribution": {
-    "CbGbCtD": 0.31193494958434587,
-    "CbGdCrCtD": 0.012130368346044543,
-    "CbGeAlD": 0.15924501914850053,
+    "CbGbCtD": 0.3119349495843458,
+    "CbGdCrCtD": 0.012130368346044541,
+    "CbGeAlD": 0.1592450191485005,
     "CbGpPWpGaD": 0.31659096041735063,
-    "CcSEcCtD": 0.2000987025037585
+    "CcSEcCtD": 0.20009870250375847
   },
+  "n_trials": 0.0,
   "prediction": 0.00128496552527777,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

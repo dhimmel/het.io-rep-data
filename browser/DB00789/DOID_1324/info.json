@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00789",
   "compound_name": "Gadopentetate dimeglumine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.666449934980494,
   "metapath_contribution": {
     "CbGbCtD": 0.5784128888115001,
     "CbGeAlD": 0.028013332152393797,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.34383446714677496,
     "CrCbGaD": 0.0022895377810930296
   },
+  "n_trials": 0.0,
   "prediction": 0.0023946645521204604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

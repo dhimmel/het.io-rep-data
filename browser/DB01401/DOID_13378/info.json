@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGbCtD": 0.25815690077652076,
     "CbGeAlD": 0.0025768763286544106,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.40981128415703133,
     "CrCrCtD": 0.31884868572163644
   },
+  "n_trials": 0.0,
   "prediction": 0.011937797332438998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

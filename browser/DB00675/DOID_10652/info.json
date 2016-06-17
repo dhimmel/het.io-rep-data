@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
     "CbGaD": 0.2807131642149656,
     "CbGbCtD": 0.4280450748408383,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14701691374649595,
     "CrCbGaD": 0.004008677374564263
   },
+  "n_trials": 0.0,
   "prediction": 0.0027341001669800103,
   "status": 0,
   "training_prediction": 0.00552142616664929

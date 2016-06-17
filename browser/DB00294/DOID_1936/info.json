@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00294",
   "compound_name": "Etonogestrel",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.43433029908972703,
   "metapath_contribution": {
     "CbGaD": 0.6068332986629906,
     "CbGbCtD": 0.1388008983385673,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17285653994857597,
     "CrCbGaD": 0.0060259028290622985
   },
+  "n_trials": 0.0,
   "prediction": 0.00165034462822307,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

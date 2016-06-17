@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.46944083224967503,
   "metapath_contribution": {
     "CbGaD": 0.6717188610991237,
     "CbGeAlD": 0.014204776859462358,
     "CbGpPWpGaD": 0.04147137161744204,
     "CcSEcCtD": 0.2726049904239719
   },
+  "n_trials": 0.0,
   "prediction": 0.00232904089726847,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

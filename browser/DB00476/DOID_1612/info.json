@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.310143042912874,
   "metapath_contribution": {
-    "CbGaD": 0.1390558571047391,
-    "CbGbCtD": 0.23741632610830243,
-    "CbGeAlD": 0.0056812004224637835,
-    "CbGpPWpGaD": 0.08102714463573829,
-    "CcSEcCtD": 0.1975797609644757,
-    "CrCbGaD": 0.0018101199539119692,
-    "CrCrCtD": 0.33742959081036866
+    "CbGaD": 0.13905585710473914,
+    "CbGbCtD": 0.2374163261083025,
+    "CbGeAlD": 0.005681200422463784,
+    "CbGpPWpGaD": 0.0810271446357383,
+    "CcSEcCtD": 0.19757976096447571,
+    "CrCbGaD": 0.0018101199539119696,
+    "CrCrCtD": 0.3374295908103687
   },
+  "n_trials": 0.0,
   "prediction": 0.00165020403649664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

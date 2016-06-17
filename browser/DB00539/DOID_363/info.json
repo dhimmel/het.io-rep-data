@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.38611720931638877,
     "CbGbCtD": 0.46912614952106313,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10550720542248941,
     "CrCbGaD": 0.0027635796584599944
   },
+  "n_trials": 0.0,
   "prediction": 0.00350022282958279,
   "status": 0,
   "training_prediction": 0.00638409693623343

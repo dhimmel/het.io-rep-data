@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01337",
   "compound_name": "Pancuronium",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.2612791255143333,
     "CbGbCtD": 0.609862834814038,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03869112578981262,
     "CrCbGaD": 0.0010139107798064811
   },
+  "n_trials": 0.0,
   "prediction": 0.00613272152727655,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

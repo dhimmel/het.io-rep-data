@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.7932379713914169,
   "metapath_contribution": {
     "CbGaD": 0.7741706912816295,
     "CbGbCtD": 0.09828420729980632,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11750926230413722,
     "CrCbGaD": 5.582609091911504e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00234067892078893,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

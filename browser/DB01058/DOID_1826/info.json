@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01058",
   "compound_name": "Praziquantel",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.770481144343303,
   "metapath_contribution": {
     "CbGaD": 0.2847752930931477,
     "CbGbCtD": 0.5483821443678989,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1390937585797852,
     "CrCbGaD": 0.0014204393586211958
   },
+  "n_trials": 0.0,
   "prediction": 0.007275518141798921,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

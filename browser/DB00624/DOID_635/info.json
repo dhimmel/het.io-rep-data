@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.6449934980494151,
   "metapath_contribution": {
     "CbGaD": 0.1518637869887025,
     "CbGbCtD": 0.6319680437657175,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16977501085342853,
     "CrCbGaD": 0.0007278914062218144
   },
+  "n_trials": 1.0,
   "prediction": 0.00307800383931468,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

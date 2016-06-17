@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGaD": 0.8044669328248408,
     "CbGeAlD": 0.07104093844470995,
     "CbGpPWpGaD": 0.11583909528650294,
     "CrCbGaD": 0.008653033443946238
   },
+  "n_trials": 0.0,
   "prediction": 0.00259569947973271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

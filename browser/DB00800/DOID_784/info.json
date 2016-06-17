@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00800",
   "compound_name": "Fenoldopam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.3049278756165799,
     "CbGpPWpGaD": 0.03847255282859957,
     "CtDrD": 0.6565995715548204
   },
+  "n_trials": 1.0,
   "prediction": 0.00891083969655726,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01001",
   "compound_name": "Salbutamol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
     "CbGbCtD": 0.13980092792052895,
     "CcSEcCtD": 0.12819931013130648,
     "CrCbGaD": 0.003358153873123589,
     "CtDrD": 0.7286416080750411
   },
+  "n_trials": 0.0,
   "prediction": 0.00410378030229008,
   "status": 0,
   "training_prediction": 0.0230484787894222

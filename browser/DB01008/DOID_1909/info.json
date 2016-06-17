@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGbCtD": 0.017014430179988983,
     "CbGeAlD": 0.010407599574642611,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07885045279683478,
     "CiPCiCtD": 0.8607061771855767
   },
+  "n_trials": 0.0,
   "prediction": 0.00959156963921581,
   "status": 0,
   "training_prediction": 0.0174065094538835

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.342652795838752,
   "metapath_contribution": {
-    "CbGeAlD": 0.5393257442881009,
-    "CbGpPWpGaD": 0.4351109802047751,
-    "CrCbGaD": 0.025563275507123867
+    "CbGeAlD": 0.539325744288101,
+    "CbGpPWpGaD": 0.43511098020477523,
+    "CrCbGaD": 0.025563275507123874
   },
+  "n_trials": 0.0,
   "prediction": 0.00125845205255251,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01202",
   "compound_name": "Levetiracetam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGbCtD": 0.21675929076186368,
     "CbGeAlD": 0.0031061457063508912,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.42052161686898104,
     "CtDrD": 0.30293006331782363
   },
+  "n_trials": 1.0,
   "prediction": 0.108683082186375,
   "status": 0,
   "training_prediction": 0.182368512644005

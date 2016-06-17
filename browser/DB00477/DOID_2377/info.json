@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.256176853055917,
   "metapath_contribution": {
     "CbGaD": 0.3789007230326426,
     "CbGbCtD": 0.37350102532790586,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05264766825222785,
     "CrCbGaD": 0.0006260046220568254
   },
+  "n_trials": 0.0,
   "prediction": 0.0013302937577526,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

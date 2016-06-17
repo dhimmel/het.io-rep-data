@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00366",
   "compound_name": "Doxylamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGbCtD": 0.10941659131339224,
     "CbGpPWpGaD": 0.02261679233578591,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.29199718950900483,
     "CrCtD": 0.50811652840006
   },
+  "n_trials": 0.0,
   "prediction": 0.009036074901119259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

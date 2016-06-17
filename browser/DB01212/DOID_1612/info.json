@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.10988296488946699,
   "metapath_contribution": {
     "CbGaD": 0.2650916443519927,
     "CbGbCtD": 0.1760300362557327,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3745318123901483,
     "CrCbGaD": 0.0010126839624732963
   },
+  "n_trials": 0.0,
   "prediction": 0.00102225747575424,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.6898714218378833,
     "CbGbCtD": 0.2438544011237975,
     "CbGdCrCtD": 0.00361729438687473,
     "CbGeAlD": 0.06265688265144438
   },
+  "n_trials": 0.0,
   "prediction": 0.004894098054041379,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

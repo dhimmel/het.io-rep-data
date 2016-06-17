@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.06569804166254921,
     "CbGbCtD": 0.10975454507875647,
@@ -15,6 +17,7 @@
     "CrCtD": 0.16282710492342445,
     "CtDrD": 0.1580574654072005
   },
+  "n_trials": 1.0,
   "prediction": 0.368433692103868,
   "status": 0,
   "training_prediction": 0.8974061741170649

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.617685305591678,
   "metapath_contribution": {
     "CbGaD": 0.9367106395399856,
     "CbGeAlD": 0.009645544897396727,
     "CbGpPWpGaD": 0.0487481896049384,
     "CrCbGaD": 0.004895625957679287
   },
+  "n_trials": 0.0,
   "prediction": 0.0018537909597172602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

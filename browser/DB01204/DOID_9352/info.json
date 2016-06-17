@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGaD": 0.3147218771079914,
     "CbGbCtD": 0.3800759739795869,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.10015281417196523,
     "CcSEcCtD": 0.17418136166123727
   },
+  "n_trials": 0.0,
   "prediction": 0.0037937762844894897,
   "status": 0,
   "training_prediction": 0.0628010040158798

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.743172951885566,
   "metapath_contribution": {
     "CbGbCtD": 0.08418462961121446,
     "CbGdCrCtD": 0.0033076211338214524,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07397888379061016,
     "CtDrD": 0.7929082376800333
   },
+  "n_trials": 1.0,
   "prediction": 0.00218759511722544,
   "status": 0,
   "training_prediction": 0.0070597008978956

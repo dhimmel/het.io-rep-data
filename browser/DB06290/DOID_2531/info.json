@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.679453836150845,
   "metapath_contribution": {
     "CbGaD": 0.24429121676612472,
     "CbGbCtD": 0.5150393670855956,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0764170320524478,
     "CcSEcCtD": 0.14662151928628436
   },
+  "n_trials": 0.0,
   "prediction": 0.00326169147813323,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

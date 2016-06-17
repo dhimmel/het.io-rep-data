@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.15673844084770414,
     "CbGbCtD": 0.7253163308334609,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09612048591292223,
     "CrCbGaD": 0.0013664071031531204
   },
+  "n_trials": 0.0,
   "prediction": 0.0025327430616296103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

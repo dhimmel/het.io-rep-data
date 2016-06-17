@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.611183355006502,
   "metapath_contribution": {
     "CbGbCtD": 0.41078459464670114,
     "CbGeAlD": 0.05163579858109941,
     "CbGpPWpGaD": 0.18552998773290197,
     "CcSEcCtD": 0.3520496190392975
   },
+  "n_trials": 1.0,
   "prediction": 0.00219938344798043,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

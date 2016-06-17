@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00434",
   "compound_name": "Cyproheptadine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.293237971391417,
   "metapath_contribution": {
     "CbGeAlD": 0.03391739575601807,
     "CbGpPWpGaD": 0.05849834729091461,
@@ -10,6 +12,7 @@
     "CpDpCtD": 0.775347769405702,
     "CrCbGaD": 0.0007461496225814563
   },
+  "n_trials": 0.0,
   "prediction": 0.0015445572966457,
   "status": 0,
   "training_prediction": 0.00527840430905691

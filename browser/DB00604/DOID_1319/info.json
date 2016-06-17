@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
     "CbGaD": 0.5447583542942652,
     "CbGbCtD": 0.2964535643557689,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06396225952479995,
     "CrCbGaD": 0.002275779155724326
   },
+  "n_trials": 0.0,
   "prediction": 0.00248512653516318,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

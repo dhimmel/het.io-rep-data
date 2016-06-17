@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
-    "CbGaD": 0.08708112545348158,
-    "CbGbCtD": 0.33531811481215806,
-    "CbGeAlD": 0.006614619257661853,
-    "CbGpPWpGaD": 0.056712643482248325,
-    "CcSEcCtD": 0.09830073222785163,
-    "CpDpCtD": 0.4159727647665985
+    "CbGaD": 0.0870811254534816,
+    "CbGbCtD": 0.3353181148121581,
+    "CbGeAlD": 0.006614619257661854,
+    "CbGpPWpGaD": 0.05671264348224833,
+    "CcSEcCtD": 0.09830073222785164,
+    "CpDpCtD": 0.41597276476659856
   },
+  "n_trials": 0.0,
   "prediction": 0.0053840242386346705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

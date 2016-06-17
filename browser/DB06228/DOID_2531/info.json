@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06228",
   "compound_name": "Rivaroxaban",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.7217165149544859,
   "metapath_contribution": {
     "CbGaD": 0.14404204999033868,
     "CbGbCtD": 0.5281293467492334,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06206713475944928,
     "CcSEcCtD": 0.25142973022149256
   },
+  "n_trials": 0.0,
   "prediction": 0.00372914590802241,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

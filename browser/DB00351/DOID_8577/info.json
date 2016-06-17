@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.09250884874657553,
     "CbGbCtD": 0.2148649614572092,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2310588157030274,
     "CrCtD": 0.24623131306436996
   },
+  "n_trials": 0.0,
   "prediction": 0.0169585003057433,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

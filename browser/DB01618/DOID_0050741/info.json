@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01618",
   "compound_name": "Molindone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.6483638568928868,
     "CbGbCtD": 0.1339044249953909,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08754999988715757,
     "CcSEcCtD": 0.07560947812923863
   },
+  "n_trials": 0.0,
   "prediction": 0.00894453351713317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

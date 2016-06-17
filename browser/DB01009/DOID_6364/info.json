@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.45708712613784097,
   "metapath_contribution": {
     "CbGbCtD": 0.4331240506731977,
     "CbGpPWpGaD": 0.044144363400161625,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0031032318478281646,
     "CrCrCtD": 0.3700904893031664
   },
+  "n_trials": 4.0,
   "prediction": 0.00232155973261869,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

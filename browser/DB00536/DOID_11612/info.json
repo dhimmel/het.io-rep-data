@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00536",
   "compound_name": "Guanidine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.6114077367422577,
     "CbGbCtD": 0.22212905117889828,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06803930612248134,
     "CcSEcCtD": 0.0016146238678582104
   },
+  "n_trials": 0.0,
   "prediction": 0.00556987690691965,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.0735294117647059,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.08777633289987,
   "metapath_contribution": {
-    "CbGeAlD": 0.2436188273787199,
+    "CbGeAlD": 0.24361882737871984,
     "CbGpPWpGaD": 0.7258390049184854,
-    "CrCbGaD": 0.03054216770279471
+    "CrCbGaD": 0.030542167702794706
   },
+  "n_trials": 0.0,
   "prediction": 0.000753027904001677,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01143",
   "compound_name": "Amifostine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.7283919450160045,
     "CbGdCrCtD": 0.0018678164655657411,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0947265145135445,
     "CcSEcCtD": 0.11448408917466556
   },
+  "n_trials": 3.0,
   "prediction": 0.00784554466932747,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

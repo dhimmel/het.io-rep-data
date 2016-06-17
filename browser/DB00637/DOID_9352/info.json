@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00637",
   "compound_name": "Astemizole",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.350455136540962,
   "metapath_contribution": {
     "CbGaD": 0.24308917992364282,
     "CbGbCtD": 0.6378331400083479,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10302018356364716,
     "CrCbGaD": 0.004715665963550599
   },
+  "n_trials": 0.0,
   "prediction": 0.00194239105036334,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

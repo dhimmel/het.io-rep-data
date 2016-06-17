@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.5213127834974324,
     "CbGbCtD": 0.2426437263590493,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14400229616132543,
     "CrCbGaD": 0.0011485795090032246
   },
+  "n_trials": 0.0,
   "prediction": 0.00684992085332598,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

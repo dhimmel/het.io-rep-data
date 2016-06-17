@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00676",
   "compound_name": "Benzyl Benzoate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CcSEcCtD": 0.004209293025812764,
-    "CrCbGaD": 0.0030629678970846876,
+    "CrCbGaD": 0.003062967897084688,
     "CrCrCtD": 0.38670462521937293,
-    "CrCtD": 0.6060231138577296
+    "CrCtD": 0.6060231138577297
   },
+  "n_trials": 0.0,
   "prediction": 0.00368342986893784,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

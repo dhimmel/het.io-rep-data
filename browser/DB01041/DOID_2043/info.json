@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.723655092190935,
     "CbGeAlD": 0.02243453654775372,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14114815264001068,
     "CrCbGaD": 0.004439073233118178
   },
+  "n_trials": 1.0,
   "prediction": 0.0028605453609233,
   "status": 0,
   "training_prediction": 0.00577603150343912

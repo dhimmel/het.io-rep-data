@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.3810143042912871,
   "metapath_contribution": {
     "CbGaD": 0.17565981891389795,
     "CbGbCtD": 0.566165866441815,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2531981043778254,
     "CrCbGaD": 0.0021562538052534203
   },
+  "n_trials": 0.0,
   "prediction": 0.00144766392872122,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

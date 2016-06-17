@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.50520156046814,
   "metapath_contribution": {
     "CbGbCtD": 0.2240787951333885,
     "CbGpPWpGaD": 0.034294945535008316,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.6041544203199802,
     "CrCbGaD": 0.002409455649500056
   },
+  "n_trials": 0.0,
   "prediction": 0.00188385574389151,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

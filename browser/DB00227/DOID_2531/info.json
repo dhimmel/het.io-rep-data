@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8107932379713909,
   "metapath_contribution": {
     "CbGaD": 0.40033777641006857,
     "CbGbCtD": 0.38026239284777524,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1123940275903477,
     "CrCbGaD": 0.0015384772826543196
   },
+  "n_trials": 1.0,
   "prediction": 0.004960395942774479,
   "status": 0,
   "training_prediction": 0.0703258611672755

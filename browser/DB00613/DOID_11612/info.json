@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.3524057217165151,
   "metapath_contribution": {
     "CbGaD": 0.8272770385404239,
     "CbGeAlD": 0.04596842188277636,
     "CbGpPWpGaD": 0.1262487536386981,
     "CrCbGaD": 0.0005057859381015985
   },
+  "n_trials": 0.0,
   "prediction": 0.0011497184501695,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

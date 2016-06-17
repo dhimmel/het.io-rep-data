@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.08479178543775769,
     "CbGbCtD": 0.26318340435192916,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2534555871136808,
     "CrCtD": 0.3390560259629949
   },
+  "n_trials": 1.0,
   "prediction": 0.0060025310501382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

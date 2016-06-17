@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.403120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.4136886661085722,
     "CbGdCrCtD": 0.0018658797303035038,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2099300668324383,
     "CrCbGaD": 0.0050523143783273
   },
+  "n_trials": 0.0,
   "prediction": 0.0019388920647078602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

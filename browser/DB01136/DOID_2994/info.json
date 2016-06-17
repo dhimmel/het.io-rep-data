@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.64369310793238,
   "metapath_contribution": {
     "CbGbCtD": 0.5252431846276268,
     "CbGdCrCtD": 0.004353557502642665,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0713344962509987,
     "CcSEcCtD": 0.19229670708750687
   },
+  "n_trials": 0.0,
   "prediction": 0.0019397029231244898,
   "status": 0,
   "training_prediction": 0.00354241720644456

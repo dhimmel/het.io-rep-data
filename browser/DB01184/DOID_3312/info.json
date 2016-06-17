@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8003901170351109,
   "metapath_contribution": {
     "CbGaD": 0.8539645120677722,
     "CbGeAlD": 0.04809549549941393,
     "CbGpPWpGaD": 0.08686351694901161,
     "CrCbGaD": 0.011076475483802176
   },
+  "n_trials": 0.0,
   "prediction": 0.00210224596095141,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

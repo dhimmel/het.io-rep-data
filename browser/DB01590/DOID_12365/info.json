@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGbCtD": 0.15783258893984095,
     "CbGeAlD": 0.02331187778335285,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08066326450911401,
     "CiPCiCtD": 0.7246743360414923
   },
+  "n_trials": 0.0,
   "prediction": 0.004144990656829379,
   "status": 0,
   "training_prediction": 0.0105797075411641

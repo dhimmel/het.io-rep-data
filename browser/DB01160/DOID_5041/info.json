@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01160",
   "compound_name": "Dinoprost Tromethamine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGbCtD": 0.6491250971567731,
     "CbGeAlD": 0.0781973221424038,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09269175550096534,
     "CrCbGaD": 0.0015283137380989987
   },
+  "n_trials": 0.0,
   "prediction": 0.00205182049661884,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

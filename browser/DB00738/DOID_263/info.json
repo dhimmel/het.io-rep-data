@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.27262369164108935,
     "CbGbCtD": 0.4316944112468832,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06262061657234572,
     "CcSEcCtD": 0.19692290907880913
   },
+  "n_trials": 0.0,
   "prediction": 0.00519344326146568,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

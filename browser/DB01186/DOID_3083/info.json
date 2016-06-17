@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.648244473342003,
   "metapath_contribution": {
     "CbGaD": 0.3970108265384733,
     "CbGbCtD": 0.2134120083020166,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2635821120651023,
     "CrCbGaD": 0.004917653429299403
   },
+  "n_trials": 0.0,
   "prediction": 0.00273247129643902,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

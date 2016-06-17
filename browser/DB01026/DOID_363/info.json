@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGaD": 0.36437595027923375,
     "CbGbCtD": 0.432973005734157,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0687327153075118,
     "CrCbGaD": 0.0007650956317602383
   },
+  "n_trials": 0.0,
   "prediction": 0.00394005205645841,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

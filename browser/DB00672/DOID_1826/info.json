@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00672",
   "compound_name": "Chlorpropamide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.501300390117035,
   "metapath_contribution": {
     "CbGaD": 0.38722137996612344,
     "CbGbCtD": 0.40674685869426036,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11741016726469346,
     "CrCbGaD": 0.004815627229912802
   },
+  "n_trials": 0.0,
   "prediction": 0.00341327684492669,
   "status": 0,
   "training_prediction": 0.0165375584491148

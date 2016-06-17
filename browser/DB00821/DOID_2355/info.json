@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.0955882352941176,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.49349804941482395,
   "metapath_contribution": {
-    "CbGeAlD": 0.15764735758922166,
-    "CbGpPWpGaD": 0.676445834834575,
+    "CbGeAlD": 0.1576473575892217,
+    "CbGpPWpGaD": 0.6764458348345751,
     "CrCbGaD": 0.16590680757620327
   },
+  "n_trials": 0.0,
   "prediction": 0.0012200712485060901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

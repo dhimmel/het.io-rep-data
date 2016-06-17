@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.43302990897269206,
   "metapath_contribution": {
     "CbGbCtD": 0.05061853596777247,
     "CbGeAlD": 0.05500946177294931,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11639799761247614,
     "CtDrD": 0.7037419981910612
   },
+  "n_trials": 0.0,
   "prediction": 0.00130776047362051,
   "status": 0,
   "training_prediction": 0.0026392887079960898

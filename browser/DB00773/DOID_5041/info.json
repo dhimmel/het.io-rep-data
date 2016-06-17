@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.27726028658966456,
     "CbGbCtD": 0.319616397714066,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.04984325682277865,
     "CtDrD": 0.28762594000841407
   },
+  "n_trials": 0.0,
   "prediction": 0.0033937454825571103,
   "status": 0,
   "training_prediction": 0.027277745856325003

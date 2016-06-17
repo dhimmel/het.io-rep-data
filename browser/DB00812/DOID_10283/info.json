@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.486345903771131,
   "metapath_contribution": {
     "CbGaD": 0.27988101700165335,
     "CbGbCtD": 0.531573766257513,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15769301471480904,
     "CrCbGaD": 0.0038092807592891896
   },
+  "n_trials": 0.0,
   "prediction": 0.00223687976916635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

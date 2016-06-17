@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.589726918075423,
   "metapath_contribution": {
     "CbGaD": 0.3427282874022763,
     "CbGbCtD": 0.36104492371151287,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.15653786432288144,
     "CrCbGaD": 0.002703643775692536
   },
+  "n_trials": 0.0,
   "prediction": 0.00207988072545079,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

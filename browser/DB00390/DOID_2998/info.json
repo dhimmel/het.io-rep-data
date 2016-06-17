@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.41157347204161204,
   "metapath_contribution": {
     "CbGbCtD": 0.75540966846297,
     "CbGdCrCtD": 0.006736843343444367,
     "CbGeAlD": 0.14811833753014636,
     "CcSEcCtD": 0.08973515066343923
   },
+  "n_trials": 0.0,
   "prediction": 0.0014227212701912,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00117",
   "compound_name": "L-Histidine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGbCtD": 0.36538669000121393,
     "CbGeAlD": 0.052527468279674035,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004324965674117482,
     "CrCrCtD": 0.5395868758901633
   },
+  "n_trials": 0.0,
   "prediction": 0.0061132332945095,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

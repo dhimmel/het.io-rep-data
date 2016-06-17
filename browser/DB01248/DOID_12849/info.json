@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.547464239271782,
   "metapath_contribution": {
     "CbGaD": 0.6206440624693529,
     "CbGeAlD": 0.15940829974590454,
     "CbGpPWpGaD": 0.21522350110191754,
     "CrCbGaD": 0.004724136682825053
   },
+  "n_trials": 0.0,
   "prediction": 0.00148664145954261,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

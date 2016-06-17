@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00869",
   "compound_name": "Dorzolamide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
     "CbGaD": 0.5853076670897226,
     "CbGbCtD": 0.1325280514194905,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1485176518699584,
     "CrCbGaD": 0.0053671651762254935
   },
+  "n_trials": 0.0,
   "prediction": 0.00506626945699407,
   "status": 0,
   "training_prediction": 0.0146459593424475

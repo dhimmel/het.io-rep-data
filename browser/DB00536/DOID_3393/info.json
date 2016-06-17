@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00536",
   "compound_name": "Guanidine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.4568609858961186,
     "CbGbCtD": 0.1289764118630308,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15571788343528567,
     "CcSEcCtD": 0.154950285529626
   },
+  "n_trials": 0.0,
   "prediction": 0.00525369538020535,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

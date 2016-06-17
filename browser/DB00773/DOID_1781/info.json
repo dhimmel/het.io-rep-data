@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.06881447082797791,
     "CbGbCtD": 0.1773345938761297,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.44746802751987613,
     "CtDrD": 0.24304487359528865
   },
+  "n_trials": 1.0,
   "prediction": 0.0138213523183334,
   "status": 0,
   "training_prediction": 0.103471983598724

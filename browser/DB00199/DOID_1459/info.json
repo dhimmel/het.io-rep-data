@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGbCtD": 0.8742862421624411,
     "CbGeAlD": 0.027154175374497113,
     "CbGpPWpGaD": 0.010639880596178167,
     "CcSEcCtD": 0.08791970186688369
   },
+  "n_trials": 0.0,
   "prediction": 0.00217017833482595,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

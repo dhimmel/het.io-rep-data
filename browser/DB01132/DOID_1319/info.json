@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGaD": 0.5904123002174066,
     "CbGbCtD": 0.29575380753943026,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07239625868718247,
     "CrCbGaD": 0.0029965863241974656
   },
+  "n_trials": 1.0,
   "prediction": 0.00253821809731824,
   "status": 0,
   "training_prediction": 0.004633170550827129

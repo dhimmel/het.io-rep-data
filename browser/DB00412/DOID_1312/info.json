@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.7639791937581271,
   "metapath_contribution": {
     "CbGaD": 0.4650230314201931,
     "CbGbCtD": 0.4497980505009995,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.021164180724610102,
     "CcSEcCtD": 0.03943288466414751
   },
+  "n_trials": 1.0,
   "prediction": 0.00207744383202158,
   "status": 0,
   "training_prediction": 0.000936883876581898

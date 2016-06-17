@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01245",
   "compound_name": "Decamethonium",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGbCtD": 0.915104331279792,
     "CbGeAlD": 0.0021623424385803325,
     "CbGpPWpGaD": 0.08010870617794863,
     "CrCbGaD": 0.0026246201036790903
   },
+  "n_trials": 0.0,
   "prediction": 0.00299792044743769,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

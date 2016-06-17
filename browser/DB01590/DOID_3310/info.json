@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGbCtD": 0.2719627842942295,
     "CbGeAlD": 0.00031895929222682136,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.2583200979248158,
     "CrCtD": 0.39972965865983784
   },
+  "n_trials": 0.0,
   "prediction": 0.0383043479748726,
   "status": 0,
   "training_prediction": 0.12020381886398401

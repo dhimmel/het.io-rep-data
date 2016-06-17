@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.841352405721717,
   "metapath_contribution": {
     "CbGaD": 0.5905132825357938,
     "CbGbCtD": 0.38832778772814025,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.006339238974380174,
     "CrCbGaD": 0.007147646981766869
   },
+  "n_trials": 0.0,
   "prediction": 0.00245177382138548,
   "status": 0,
   "training_prediction": 0.0018444995708087198

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.6418049218283213,
     "CbGeAlD": 0.13090107496256218,
     "CbGpPWpGaD": 0.22226253242271574,
     "CrCbGaD": 0.005031470786400708
   },
+  "n_trials": 0.0,
   "prediction": 0.00258876581715156,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

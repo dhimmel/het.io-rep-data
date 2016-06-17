@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.36215864759427796,
   "metapath_contribution": {
     "CbGbCtD": 0.6829455727600244,
     "CbGdCrCtD": 0.005192818395529879,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14580853108157713,
     "CrCbGaD": 0.006634903009696279
   },
+  "n_trials": 0.0,
   "prediction": 0.0018168132664836602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

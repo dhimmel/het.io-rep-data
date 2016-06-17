@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.7876486739669151,
     "CbGeAlD": 0.053995987315047574,
     "CbGpPWpGaD": 0.15111522083378578,
     "CrCbGaD": 0.007240117884251634
   },
+  "n_trials": 5.0,
   "prediction": 0.00482637555912421,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

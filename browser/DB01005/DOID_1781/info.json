@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01005",
   "compound_name": "Hydroxyurea",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGdCrCtD": 0.004149081106698146,
     "CbGeAlD": 0.020633678208668772,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12277288396332421,
     "CtDrD": 0.8206412135090646
   },
+  "n_trials": 0.0,
   "prediction": 0.0058511637196774205,
   "status": 0,
   "training_prediction": 0.0199261320596702

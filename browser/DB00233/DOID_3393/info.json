@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
-    "CbGaD": 0.2951212643903208,
-    "CbGbCtD": 0.05202807382940939,
-    "CbGeAlD": 0.01451084375602277,
-    "CbGpPWpGaD": 0.1153242184494477,
-    "CcSEcCtD": 0.11960195485155879,
-    "CrCbGaD": 0.0017210365834312638,
-    "CrCrCtD": 0.4016926081398094
+    "CbGaD": 0.29512126439032077,
+    "CbGbCtD": 0.05202807382940938,
+    "CbGeAlD": 0.014510843756022768,
+    "CbGpPWpGaD": 0.11532421844944768,
+    "CcSEcCtD": 0.11960195485155878,
+    "CrCbGaD": 0.0017210365834312636,
+    "CrCrCtD": 0.40169260813980934
   },
+  "n_trials": 0.0,
   "prediction": 0.00414441678065219,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

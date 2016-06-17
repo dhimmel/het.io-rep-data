@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.8161693737210762,
     "CbGeAlD": 0.05004203415847488,
     "CbGpPWpGaD": 0.12925784763777617,
     "CrCbGaD": 0.0045307444826726976
   },
+  "n_trials": 0.0,
   "prediction": 0.00338119084183339,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3277",
   "disease_name": "thymus cancer",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
-    "CbGaD": 0.43898324307396064,
-    "CbGeAlD": 0.04786314199460438,
-    "CbGpPWpGaD": 0.02447186620370153,
-    "CcSEcCtD": 0.03849844810290558,
-    "CrCbGaD": 0.0021764390660844453,
-    "CtDrD": 0.44800686155874336
+    "CbGaD": 0.43898324307396075,
+    "CbGeAlD": 0.0478631419946044,
+    "CbGpPWpGaD": 0.024471866203701537,
+    "CcSEcCtD": 0.038498448102905584,
+    "CrCbGaD": 0.0021764390660844457,
+    "CtDrD": 0.4480068615587434
   },
+  "n_trials": 0.0,
   "prediction": 0.0141180843294433,
   "status": 0,
   "training_prediction": 0.0144496436358433

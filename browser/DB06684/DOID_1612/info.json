@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06684",
   "compound_name": "Vilazodone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7009102730819251,
   "metapath_contribution": {
     "CbGaD": 0.3810308900461907,
     "CbGbCtD": 0.3877211877467545,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1595451274522183,
     "CrCbGaD": 0.0012795445770931633
   },
+  "n_trials": 0.0,
   "prediction": 0.0036285098113278,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

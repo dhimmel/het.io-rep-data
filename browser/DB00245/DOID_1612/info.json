@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00245",
   "compound_name": "Benzatropine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.37711313394018203,
   "metapath_contribution": {
     "CbGaD": 0.2027578793529218,
     "CbGbCtD": 0.11883357486582077,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0021484943707542176,
     "CrCrCtD": 0.5093062163443086
   },
+  "n_trials": 0.0,
   "prediction": 0.0018982829804064,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

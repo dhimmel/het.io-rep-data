@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01181",
   "compound_name": "Ifosfamide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGbCtD": 0.03842391770113995,
     "CbGpPWpGaD": 0.00502686915326335,
@@ -11,6 +13,7 @@
     "CrCbGaD": 8.666855013562194e-05,
     "CtDrD": 0.29026318059618017
   },
+  "n_trials": 0.0,
   "prediction": 0.016584679391946,
   "status": 0,
   "training_prediction": 0.065476448200028

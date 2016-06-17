@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.165799739921977,
   "metapath_contribution": {
     "CbGaD": 0.35862183431904704,
     "CbGbCtD": 0.1667769690088287,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.20271793755336648,
     "CrCbGaD": 0.007287479354011464
   },
+  "n_trials": 0.0,
   "prediction": 0.00156061461379052,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

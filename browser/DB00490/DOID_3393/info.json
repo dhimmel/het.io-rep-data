@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00490",
   "compound_name": "Buspirone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.14977161171434908,
     "CbGbCtD": 0.560862140055884,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0833515737885656,
     "CcSEcCtD": 0.17817103048728475
   },
+  "n_trials": 0.0,
   "prediction": 0.00661556411426196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

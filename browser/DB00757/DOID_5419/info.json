@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00757",
   "compound_name": "Dolasetron",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
     "CbGaD": 0.9420240316722852,
     "CbGeAlD": 0.021484291756385585,
     "CbGpPWpGaD": 0.031498083157786655,
     "CrCbGaD": 0.004993593413542474
   },
+  "n_trials": 0.0,
   "prediction": 0.00263899363495519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

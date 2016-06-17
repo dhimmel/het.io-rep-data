@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.49544863459037697,
   "metapath_contribution": {
     "CbGbCtD": 0.9369453361243444,
     "CbGeAlD": 0.05059433804186719,
     "CrCbGaD": 0.012460325833788375
   },
+  "n_trials": 60.0,
   "prediction": 0.00208232111431277,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

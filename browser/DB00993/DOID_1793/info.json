@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGbCtD": 0.02198602679807797,
     "CbGeAlD": 0.017558388011479603,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08368290349075362,
     "CiPCiCtD": 0.8605223173051091
   },
+  "n_trials": 0.0,
   "prediction": 0.00641398151427253,
   "status": 0,
   "training_prediction": 0.057758303199605

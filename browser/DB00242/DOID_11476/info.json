@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.5953939681749749,
     "CbGbCtD": 0.18842486964621338,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.06487714126784307,
     "CcSEcCtD": 0.13950129551560697
   },
+  "n_trials": 0.0,
   "prediction": 0.0032601800302357103,
   "status": 0,
   "training_prediction": 0.0174925163215419

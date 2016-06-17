@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.1912131116461288,
     "CbGbCtD": 0.22726282231332257,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.45713111372985854,
     "CrCbGaD": 0.0019623227518506784
   },
+  "n_trials": 15.0,
   "prediction": 0.011101548682876002,
   "status": 0,
   "training_prediction": 0.297463084520189

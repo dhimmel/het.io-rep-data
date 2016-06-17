@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00496",
   "compound_name": "Darifenacin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.7886866059817951,
   "metapath_contribution": {
     "CbGaD": 0.5090179673732614,
     "CbGbCtD": 0.2557064254571851,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11608740106750884,
     "CrCbGaD": 0.006817057884325092
   },
+  "n_trials": 0.0,
   "prediction": 0.00391615284639905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

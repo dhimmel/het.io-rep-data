@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7418725617685309,
   "metapath_contribution": {
     "CbGaD": 0.3707778737890334,
     "CbGbCtD": 0.33657296945813336,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17133345627532215,
     "CrCbGaD": 0.006028942116190138
   },
+  "n_trials": 0.0,
   "prediction": 0.004035474020856429,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

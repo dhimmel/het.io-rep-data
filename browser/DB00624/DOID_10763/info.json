@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGaD": 0.16383230943001256,
     "CbGbCtD": 0.23642365926583092,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.17449986443519583,
     "CrCtD": 0.2724078722496518
   },
+  "n_trials": 0.0,
   "prediction": 0.0116007382017693,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

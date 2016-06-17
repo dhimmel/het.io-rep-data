@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.00325097529258778,
   "metapath_contribution": {
     "CbGeAlD": 0.3325275531294482,
     "CbGpPWpGaD": 0.6674724468705518
   },
+  "n_trials": 0.0,
   "prediction": 0.0005178356044615599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

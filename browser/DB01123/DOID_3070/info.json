@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01123",
   "compound_name": "Proflavine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.899128086284334,
     "CbGeAlD": 0.03802123977714388,
     "CbGpPWpGaD": 0.06285067393852202
   },
+  "n_trials": 0.0,
   "prediction": 0.00527042167001494,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

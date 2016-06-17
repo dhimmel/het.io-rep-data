@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGbCtD": 0.870984970450292,
     "CbGpPWpGaD": 0.019049964613721264,
     "CcSEcCtD": 0.10996506493598679
   },
+  "n_trials": 1.0,
   "prediction": 0.00308875115719498,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

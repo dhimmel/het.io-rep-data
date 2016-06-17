@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGbCtD": 0.21638340656981886,
     "CcSEcCtD": 0.05552533471675829,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.30585538995385875,
     "CrCtD": 0.42192649736554294
   },
+  "n_trials": 0.0,
   "prediction": 0.0145177083101648,
   "status": 0,
   "training_prediction": 0.0481022417754306

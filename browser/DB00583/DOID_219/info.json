@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8328998699609879,
   "metapath_contribution": {
     "CbGbCtD": 0.7439186002835995,
     "CbGdCrCtD": 0.006906733619421352,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.028781702737537898,
     "CcSEcCtD": 0.0771314901358128
   },
+  "n_trials": 0.0,
   "prediction": 0.00252174759792112,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

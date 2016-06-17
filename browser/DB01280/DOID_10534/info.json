@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0013153241924669767,
     "CbGeAlD": 0.02063006238294782,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002399525926203981,
     "CrCrCtD": 0.21449494330348542
   },
+  "n_trials": 0.0,
   "prediction": 0.0043461142246789,
   "status": 0,
   "training_prediction": 0.00954476491055952

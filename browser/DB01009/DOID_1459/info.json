@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.395318595578674,
   "metapath_contribution": {
     "CbGbCtD": 0.7739422058277553,
     "CbGeAlD": 0.056200351521134666,
     "CbGpPWpGaD": 0.04507818928343082,
     "CcSEcCtD": 0.1247792533676793
   },
+  "n_trials": 0.0,
   "prediction": 0.00148731116963998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

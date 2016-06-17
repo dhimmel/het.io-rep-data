@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.6716514954486351,
   "metapath_contribution": {
     "CbGbCtD": 0.6501952474113459,
     "CbGeAlD": 0.015151119111327162,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21203913802020702,
     "CrCbGaD": 0.003941530291480696
   },
+  "n_trials": 0.0,
   "prediction": 0.00232402269700413,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

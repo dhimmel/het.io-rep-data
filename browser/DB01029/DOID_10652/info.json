@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7964889466840049,
   "metapath_contribution": {
     "CbGaD": 0.3910415188684448,
     "CbGbCtD": 0.30207019128501567,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1749219431530655,
     "CrCbGaD": 0.000789655821737113
   },
+  "n_trials": 0.0,
   "prediction": 0.0032624824880787,
   "status": 0,
   "training_prediction": 0.00658492022685134

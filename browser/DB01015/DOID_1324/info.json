@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.544863459037711,
   "metapath_contribution": {
     "CbGaD": 0.19700917731741185,
     "CbGbCtD": 0.461470767172007,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18366659609298025,
     "CrCbGaD": 0.002286398661377827
   },
+  "n_trials": 0.0,
   "prediction": 0.0019821785705883897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

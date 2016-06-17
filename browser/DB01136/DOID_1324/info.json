@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.4470429371482636,
     "CbGbCtD": 0.26087730183556396,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.11263844768522008,
     "CcSEcCtD": 0.11705663207649157
   },
+  "n_trials": 0.0,
   "prediction": 0.0046061220435866706,
   "status": 0,
   "training_prediction": 0.015625240695596

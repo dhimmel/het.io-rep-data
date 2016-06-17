@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.774382314694408,
   "metapath_contribution": {
     "CbGaD": 0.18835853845266606,
     "CbGbCtD": 0.25035975901588814,
@@ -13,7 +15,7 @@
     "CiPCiCtD": 0.4998812362089601,
     "CrCbGaD": 0.0016888741009167302
   },
+  "n_trials": 0.0,
   "prediction": 0.00436304252211589,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7366710013003901,
   "metapath_contribution": {
     "CbGaD": 0.33996253537913007,
     "CbGbCtD": 0.42091885955233027,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10607097256008101,
     "CrCbGaD": 0.0021776732307810676
   },
+  "n_trials": 3.0,
   "prediction": 0.00398317481207589,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

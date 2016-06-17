@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01222",
   "compound_name": "Budesonide",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0260078023407022,
   "metapath_contribution": {
     "CbGbCtD": 0.37066370360668155,
     "CbGpPWpGaD": 0.052176510058073916,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0033725988078301874,
     "CrCrCtD": 0.289511741301259
   },
+  "n_trials": 0.0,
   "prediction": 0.000574305316883631,
   "status": 0,
   "training_prediction": 0.005146591194123621

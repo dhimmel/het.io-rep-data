@@ -1,15 +1,18 @@
 {
   "compound_id": "DB01097",
   "compound_name": "Leflunomide",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGbCtD": 0.27314506965945595,
-    "CbGeAlD": 0.027585966577507302,
-    "CbGpPWpGaD": 0.3738969101661063,
-    "CcSEcCtD": 0.315900824579762,
-    "CrCbGaD": 0.009471229017168403
+    "CbGeAlD": 0.027585966577507306,
+    "CbGpPWpGaD": 0.3738969101661064,
+    "CcSEcCtD": 0.31590082457976204,
+    "CrCbGaD": 0.009471229017168405
   },
+  "n_trials": 1.0,
   "prediction": 0.00252950444184936,
   "status": 0,
   "training_prediction": 0.00423118087889879

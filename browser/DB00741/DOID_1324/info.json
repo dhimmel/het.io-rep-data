@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.278933680104031,
   "metapath_contribution": {
     "CbGaD": 0.4335526441748651,
     "CbGbCtD": 0.38035405716175424,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10614730272996117,
     "CrCbGaD": 0.0018228042980912285
   },
+  "n_trials": 0.0,
   "prediction": 0.00120152693873376,
   "status": 0,
   "training_prediction": 0.0205725385588667

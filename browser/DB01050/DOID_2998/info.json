@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.3715311391358397,
     "CbGdCrCtD": 0.0011095074893048185,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10567129134632575,
     "CrCrCtD": 0.44718829928607795
   },
+  "n_trials": 0.0,
   "prediction": 0.0037287816104905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

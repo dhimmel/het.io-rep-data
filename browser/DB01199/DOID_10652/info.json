@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01199",
   "compound_name": "Tubocurarine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.30946956514357304,
     "CbGbCtD": 0.6061117057958725,
     "CbGeAlD": 0.011085478215444635,
     "CbGpPWpGaD": 0.0733332508451098
   },
+  "n_trials": 0.0,
   "prediction": 0.00939863735893215,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00204",
   "compound_name": "Dofetilide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGaD": 0.08116134914212216,
     "CbGbCtD": 0.08442062079875721,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.27135171541635256,
     "CrCtD": 0.4821522360351472
   },
+  "n_trials": 0.0,
   "prediction": 0.0262644280345242,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.24910711969614052,
     "CbGbCtD": 0.5061841678348397,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.08430442091626401,
     "CcSEcCtD": 0.11736158722389516
   },
+  "n_trials": 0.0,
   "prediction": 0.00666666182246386,
   "status": 0,
   "training_prediction": 0.0805263521962703

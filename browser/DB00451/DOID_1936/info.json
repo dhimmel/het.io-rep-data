@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.1463108359227319,
     "CbGbCtD": 0.6712486296585347,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06783867578561166,
     "CrCbGaD": 0.0004102754060842783
   },
+  "n_trials": 0.0,
   "prediction": 0.0035862112637155704,
   "status": 0,
   "training_prediction": 0.0058417543237279

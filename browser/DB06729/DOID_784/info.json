@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06729",
   "compound_name": "Sulfaphenazole",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.5624187256176851,
   "metapath_contribution": {
     "CbGaD": 0.8043041191073512,
     "CbGeAlD": 0.03214231619774723,
     "CbGpPWpGaD": 0.15418955593214845,
     "CrCbGaD": 0.009364008762753062
   },
+  "n_trials": 0.0,
   "prediction": 0.00170609964817426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

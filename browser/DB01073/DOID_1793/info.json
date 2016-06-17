@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01073",
   "compound_name": "Fludarabine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.339754555840972,
     "CbGbCtD": 0.3494554486287257,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0026730470592463227,
     "CrCrCtD": 0.19191820804326248
   },
+  "n_trials": 0.0,
   "prediction": 0.008482505127710241,
   "status": 0,
   "training_prediction": 0.0329765174460749

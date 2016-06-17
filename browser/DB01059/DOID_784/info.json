@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.393368010403121,
   "metapath_contribution": {
     "CbGaD": 0.8001799118533307,
     "CbGeAlD": 0.015735822721309665,
     "CbGpPWpGaD": 0.17746669355417355,
     "CrCbGaD": 0.006617571871186041
   },
+  "n_trials": 0.0,
   "prediction": 0.00136576931003081,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

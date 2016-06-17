@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.48515646939158547,
     "CbGbCtD": 0.3711876614485956,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05214083367870223,
     "CrCbGaD": 0.0037628204679861026
   },
+  "n_trials": 0.0,
   "prediction": 0.00288898035589665,
   "status": 0,
   "training_prediction": 0.00738832274412952

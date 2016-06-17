@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01215",
   "compound_name": "Estazolam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.1268689852767176,
     "CbGbCtD": 0.1567465800660847,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1451944759195949,
     "CrCtD": 0.20578235551999735
   },
+  "n_trials": 0.0,
   "prediction": 0.42988439638853604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00349",
   "compound_name": "Clobazam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGbCtD": 0.24128447756061905,
     "CbGeAlD": 0.011570230233960123,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.15949112112182234,
     "CtDrD": 0.507088711639818
   },
+  "n_trials": 0.0,
   "prediction": 0.010401898615033002,
   "status": 0,
   "training_prediction": 0.0188644959883278

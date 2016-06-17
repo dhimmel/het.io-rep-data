@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01357",
   "compound_name": "Mestranol",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.123537061118335,
   "metapath_contribution": {
     "CbGaD": 0.7830521729855121,
     "CbGbCtD": 0.16293040266786288,
     "CbGpPWpGaD": 0.04480844621467133,
     "CrCbGaD": 0.009208978131953574
   },
+  "n_trials": 0.0,
   "prediction": 0.0008702839004315871,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

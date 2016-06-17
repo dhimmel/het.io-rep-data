@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01085",
   "compound_name": "Pilocarpine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGaD": 0.40824913755007136,
     "CbGbCtD": 0.3673544739817515,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05351902643737857,
     "CcSEcCtD": 0.1704819451791117
   },
+  "n_trials": 0.0,
   "prediction": 0.0110020179472942,
   "status": 0,
   "training_prediction": 0.0517891812886343

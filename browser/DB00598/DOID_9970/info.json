@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00598",
   "compound_name": "Labetalol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.2469475233197467,
     "CbGbCtD": 0.16071801202217595,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.17196025719402888,
     "CtDrD": 0.3210618896643376
   },
+  "n_trials": 0.0,
   "prediction": 0.0150419872766149,
   "status": 0,
   "training_prediction": 0.0377519964676367

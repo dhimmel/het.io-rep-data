@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGbCtD": 0.7746276128855403,
     "CbGeAlD": 0.08213764049578287,
     "CbGpPWpGaD": 0.022695574121665466,
     "CcSEcCtD": 0.12053917249701143
   },
+  "n_trials": 0.0,
   "prediction": 0.00154558396239993,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

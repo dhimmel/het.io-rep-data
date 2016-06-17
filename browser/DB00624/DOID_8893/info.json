@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGbCtD": 0.23863254545077936,
     "CbGpPWpGaD": 0.022364441284031627,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.21339624314280844,
     "CrCtD": 0.25765998081512936
   },
+  "n_trials": 0.0,
   "prediction": 0.0100555175488035,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

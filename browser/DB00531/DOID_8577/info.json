@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.21053024796948067,
     "CbGbCtD": 0.5909518707560237,
     "CcSEcCtD": 0.1959926792153338,
     "CrCbGaD": 0.002525202059161764
   },
+  "n_trials": 0.0,
   "prediction": 0.00411319784574805,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

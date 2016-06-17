@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.14369310793238002,
   "metapath_contribution": {
     "CbGaD": 0.47247258669389547,
     "CbGbCtD": 0.12305652057413083,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19488002171696356,
     "CrCbGaD": 0.005871254905936144
   },
+  "n_trials": 0.0,
   "prediction": 0.00103497424986018,
   "status": 0,
   "training_prediction": 0.00439196571340654

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00770",
   "compound_name": "Alprostadil",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.166449934980494,
   "metapath_contribution": {
     "CbGbCtD": 0.43581341228093207,
     "CbGeAlD": 0.05103663592810012,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.30756475746189343,
     "CrCbGaD": 0.008747446013562709
   },
+  "n_trials": 0.0,
   "prediction": 0.0015619908327755801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

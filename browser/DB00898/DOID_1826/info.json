@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8003901170351109,
   "metapath_contribution": {
     "CbGaD": 0.3025064557484946,
     "CbGbCtD": 0.5779604385568835,
     "CbGeAlD": 0.030368258432659574,
     "CbGpPWpGaD": 0.08916484726196228
   },
+  "n_trials": 0.0,
   "prediction": 0.00848378850833378,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

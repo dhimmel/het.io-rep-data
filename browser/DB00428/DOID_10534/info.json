@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGbCtD": 0.0777174924139355,
     "CbGeAlD": 0.020793043817736685,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.8023639528738112,
     "CrCbGaD": 0.0015053041443264608
   },
+  "n_trials": 0.0,
   "prediction": 0.004520076742189421,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

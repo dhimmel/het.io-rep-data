@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00449",
   "compound_name": "Dipivefrin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.655396618985696,
   "metapath_contribution": {
     "CbGaD": 0.41462412796861,
     "CbGbCtD": 0.43281823305119804,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.028362448477592922,
     "CrCbGaD": 0.003150860148839356
   },
+  "n_trials": 0.0,
   "prediction": 0.0034016328928598303,
   "status": 0,
   "training_prediction": 0.0148699351002325

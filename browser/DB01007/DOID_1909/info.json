@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.690507152145644,
   "metapath_contribution": {
     "CbGaD": 0.6216606423625923,
     "CbGbCtD": 0.3267633812191961,
     "CbGpPWpGaD": 0.04798147668519401,
     "CrCbGaD": 0.003594499733017536
   },
+  "n_trials": 0.0,
   "prediction": 0.0019242226349526102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00353",
   "compound_name": "Methylergometrine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.520806241872562,
   "metapath_contribution": {
     "CbGaD": 0.13515099180220927,
     "CbGbCtD": 0.2137697040215611,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.4834382573493868,
     "CrCbGaD": 0.000726224635167002
   },
+  "n_trials": 0.0,
   "prediction": 0.0023672872000957603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

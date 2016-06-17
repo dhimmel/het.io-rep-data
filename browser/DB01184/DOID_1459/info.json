@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGbCtD": 0.7200784082039463,
     "CbGeAlD": 0.050564082188950484,
     "CcSEcCtD": 0.22935750960710316
   },
+  "n_trials": 0.0,
   "prediction": 0.00187463032826425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGaD": 0.4570490140254419,
     "CbGbCtD": 0.31752593465389245,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05155062170313337,
     "CrCbGaD": 0.0012704056252411842
   },
+  "n_trials": 0.0,
   "prediction": 0.00129498582713785,
   "status": 0,
   "training_prediction": 0.0012774617302035302

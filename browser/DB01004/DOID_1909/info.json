@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01004",
   "compound_name": "Ganciclovir",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.254876462938882,
   "metapath_contribution": {
     "CbGbCtD": 0.27117384958813134,
     "CcSEcCtD": 0.7081460477817485,
     "CrCbGaD": 0.02068010263012014
   },
+  "n_trials": 1.0,
   "prediction": 0.0009790423044357302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

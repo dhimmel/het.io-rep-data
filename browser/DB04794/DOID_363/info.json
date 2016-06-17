@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04794",
   "compound_name": "Bifonazole",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.4526036693609202,
     "CbGbCtD": 0.4439053626848737,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07566350722116255,
     "CrCbGaD": 0.003715900854250573
   },
+  "n_trials": 0.0,
   "prediction": 0.00332587991073481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

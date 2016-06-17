@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01168",
   "compound_name": "Procarbazine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGbCtD": 0.7504951669995755,
     "CbGeAlD": 0.023653753807625577,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1981688521819174,
     "CrCbGaD": 0.0014928957753311766
   },
+  "n_trials": 0.0,
   "prediction": 0.00281668693514466,
   "status": 0,
   "training_prediction": 0.008544135360901579

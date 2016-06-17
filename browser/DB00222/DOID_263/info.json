@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00222",
   "compound_name": "Glimepiride",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.16970091027308198,
   "metapath_contribution": {
     "CbGbCtD": 0.04079301825337605,
     "CbGeAlD": 0.33450941247278293,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.6116070667507317,
     "CrCbGaD": 0.008782507190021905
   },
+  "n_trials": 0.0,
   "prediction": 0.0009596048172370779,
   "status": 0,
   "training_prediction": 0.0027959204430260103

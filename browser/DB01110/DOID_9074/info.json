@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7873862158647591,
   "metapath_contribution": {
     "CbGaD": 0.3458210133440717,
     "CbGbCtD": 0.4530891596728596,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.056902734618643376,
     "CcSEcCtD": 0.0695551179768685
   },
+  "n_trials": 0.0,
   "prediction": 0.0031201876557405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

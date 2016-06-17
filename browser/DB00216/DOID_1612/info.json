@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.553966189856957,
   "metapath_contribution": {
     "CbGaD": 0.32909283536986134,
     "CbGbCtD": 0.41712232323045395,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16922372048774553,
     "CrCbGaD": 0.002308716768988151
   },
+  "n_trials": 0.0,
   "prediction": 0.00263788066476524,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

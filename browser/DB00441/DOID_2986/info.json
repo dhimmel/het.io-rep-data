@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.220588235294118,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.419375812743823,
   "metapath_contribution": {
     "CbGaD": 0.7893399463098545,
     "CbGeAlD": 0.05802827309781284,
     "CbGpPWpGaD": 0.14936327840385744,
     "CrCbGaD": 0.0032685021884751916
   },
+  "n_trials": 0.0,
   "prediction": 0.000851944637496182,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

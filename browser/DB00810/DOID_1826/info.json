@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00810",
   "compound_name": "Biperiden",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGaD": 0.43530770500585725,
     "CbGbCtD": 0.14018726754873678,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.3602308266359982,
     "CrCbGaD": 0.0033793848221498274
   },
+  "n_trials": 0.0,
   "prediction": 0.00761492428288057,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

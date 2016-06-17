@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
-    "CbGaD": 0.23756939223983786,
-    "CbGbCtD": 0.2864941497227869,
-    "CbGeAlD": 0.008329332184672819,
-    "CbGpPWpGaD": 0.02521475617732334,
-    "CcSEcCtD": 0.10089024729140321,
-    "CpDpCtD": 0.3388501943106296,
-    "CrCbGaD": 0.002651928073346354
+    "CbGaD": 0.2375693922398378,
+    "CbGbCtD": 0.28649414972278686,
+    "CbGeAlD": 0.008329332184672817,
+    "CbGpPWpGaD": 0.025214756177323338,
+    "CcSEcCtD": 0.10089024729140318,
+    "CpDpCtD": 0.33885019431062957,
+    "CrCbGaD": 0.0026519280733463537
   },
+  "n_trials": 2.0,
   "prediction": 0.0110457255950336,
   "status": 0,
   "training_prediction": 0.0709049382801233

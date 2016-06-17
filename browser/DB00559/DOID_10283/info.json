@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00559",
   "compound_name": "Bosentan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGaD": 0.16847576957165436,
     "CbGbCtD": 0.47335421534086136,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11510731734526461,
     "CcSEcCtD": 0.21718343715379088
   },
+  "n_trials": 0.0,
   "prediction": 0.0056249661349932895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

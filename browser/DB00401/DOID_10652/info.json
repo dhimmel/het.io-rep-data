@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.136540962288687,
   "metapath_contribution": {
     "CbGbCtD": 0.19781461320981425,
     "CbGeAlD": 0.040968845334529415,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5047224219130375,
     "CrCbGaD": 0.009839617288601015
   },
+  "n_trials": 0.0,
   "prediction": 0.000897826535835656,
   "status": 0,
   "training_prediction": 0.00108991495587551

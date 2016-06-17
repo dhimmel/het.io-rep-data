@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8433029908972691,
   "metapath_contribution": {
     "CbGaD": 0.28450856922947426,
     "CbGbCtD": 0.46634043582693385,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14922615675596382,
     "CrCbGaD": 0.0020340644012397918
   },
+  "n_trials": 0.0,
   "prediction": 0.00601595971945165,
   "status": 0,
   "training_prediction": 0.0260676878383874

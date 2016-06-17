@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.0507152145643693,
   "metapath_contribution": {
     "CbGbCtD": 0.4815909647409814,
     "CbGdCrCtD": 0.00846017774417453,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20364299976591263,
     "CrCbGaD": 0.00047512571634516994
   },
+  "n_trials": 0.0,
   "prediction": 0.000779342682709829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00751",
   "compound_name": "Epinastine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.626788036410923,
   "metapath_contribution": {
     "CbGaD": 0.5115794454823397,
     "CbGbCtD": 0.344894945732554,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03704132164869517,
     "CrCbGaD": 0.004795277734602252
   },
+  "n_trials": 0.0,
   "prediction": 0.00218704198072575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

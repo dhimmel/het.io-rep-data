@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00455",
   "compound_name": "Loratadine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.8622685951547221,
     "CbGbCtD": 0.05688485488136353,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.048802130041715255,
     "CrCbGaD": 0.0013562373145506758
   },
+  "n_trials": 0.0,
   "prediction": 0.00244940206179923,
   "status": 0,
   "training_prediction": 0.00789997512994332

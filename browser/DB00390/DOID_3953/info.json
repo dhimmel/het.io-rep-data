@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.170351105331599,
   "metapath_contribution": {
     "CbGaD": 0.6495076668309548,
     "CbGeAlD": 0.2514830846216141,
     "CbGpPWpGaD": 0.09735832268224061,
     "CrCbGaD": 0.001650925865190418
   },
+  "n_trials": 0.0,
   "prediction": 0.0008431603861544759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

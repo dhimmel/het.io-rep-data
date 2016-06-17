@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.587126137841352,
   "metapath_contribution": {
     "CbGaD": 0.684206206608433,
     "CbGeAlD": 0.10450963927214266,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06126278756662876,
     "CrCbGaD": 0.0056777262743771175
   },
+  "n_trials": 0.0,
   "prediction": 0.00157199260317377,
   "status": 0,
   "training_prediction": 0.00115939268428955

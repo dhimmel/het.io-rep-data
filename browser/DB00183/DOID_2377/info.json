@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00183",
   "compound_name": "Pentagastrin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.7407731042496475,
     "CbGbCtD": 0.16104887794629658,
     "CbGeAlD": 0.012281241618751618,
     "CbGpPWpGaD": 0.08589677618530443
   },
+  "n_trials": 0.0,
   "prediction": 0.003659271892285,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

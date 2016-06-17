@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00356",
   "compound_name": "Chlorzoxazone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.8951583763919093,
     "CbGeAlD": 0.0066016599280050705,
     "CbGpPWpGaD": 0.09823996368008567
   },
+  "n_trials": 0.0,
   "prediction": 0.00329203255053043,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

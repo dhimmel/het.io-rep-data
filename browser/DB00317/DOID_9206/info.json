@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.47789336801040294,
   "metapath_contribution": {
     "CbGbCtD": 0.6786076631557502,
     "CbGeAlD": 0.05025268284708171,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17656253176258938,
     "CrCbGaD": 0.004908731234881423
   },
+  "n_trials": 0.0,
   "prediction": 0.00164438189769999,
   "status": 0,
   "training_prediction": 0.00121280508533949

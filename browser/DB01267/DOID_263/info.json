@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGbCtD": 0.5664336009601125,
     "CbGeAlD": 0.0068995073056457275,
     "CbGpPWpGaD": 0.04172985636079457,
     "CcSEcCtD": 0.3849370353734472
   },
+  "n_trials": 0.0,
   "prediction": 0.00259567786658355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

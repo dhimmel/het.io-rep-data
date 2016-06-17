@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.46749024707412196,
   "metapath_contribution": {
     "CbGaD": 0.5385049439097099,
     "CbGbCtD": 0.18367380957681992,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14664877240862095,
     "CcSEcCtD": 0.09316621063226803
   },
+  "n_trials": 0.0,
   "prediction": 0.00234392871090978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

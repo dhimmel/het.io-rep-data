@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01124",
   "compound_name": "Tolbutamide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5481144343302989,
   "metapath_contribution": {
     "CbGaD": 0.34612550500925104,
     "CbGbCtD": 0.4695836844016431,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06967098833593736,
     "CrCbGaD": 0.0018565035230568559
   },
+  "n_trials": 0.0,
   "prediction": 0.00247283246270803,
   "status": 0,
   "training_prediction": 0.0104448272555631

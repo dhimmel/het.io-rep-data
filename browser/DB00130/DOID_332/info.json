@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.559167750325098,
   "metapath_contribution": {
-    "CbGeAlD": 0.3124554840960653,
-    "CbGpPWpGaD": 0.39700810766181915,
+    "CbGeAlD": 0.3124554840960652,
+    "CbGpPWpGaD": 0.3970081076618191,
     "CcSEcCtD": 0.2819421650115183,
-    "CrCbGaD": 0.008594243230597329
+    "CrCbGaD": 0.008594243230597327
   },
+  "n_trials": 0.0,
   "prediction": 0.00139677809584571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

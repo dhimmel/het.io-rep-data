@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.07246430035627513,
     "CbGbCtD": 0.22647469571557055,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.22331474119021752,
     "CrCtD": 0.35591990723233313
   },
+  "n_trials": 0.0,
   "prediction": 0.0435796706281386,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

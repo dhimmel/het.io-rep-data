@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01102",
   "compound_name": "Arbutamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.1448872630391773,
     "CbGbCtD": 0.19831324582952609,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.25813718943183467,
     "CrCtD": 0.39477877952255336
   },
+  "n_trials": 0.0,
   "prediction": 0.0388064431448158,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.23261279307979552,
     "CbGbCtD": 0.3153233023167491,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05918569202102915,
     "CpDpCtD": 0.377154242631416
   },
+  "n_trials": 0.0,
   "prediction": 0.007176893271470679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

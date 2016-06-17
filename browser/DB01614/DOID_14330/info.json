@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.576072821846554,
   "metapath_contribution": {
     "CbGaD": 0.8114710101819138,
     "CbGeAlD": 0.07710369743858135,
     "CbGpPWpGaD": 0.10344219227878257,
     "CrCbGaD": 0.007983100100722207
   },
+  "n_trials": 0.0,
   "prediction": 0.00153807240128371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

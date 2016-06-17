@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01384",
   "compound_name": "Paramethasone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.13323396117064334,
     "CbGbCtD": 0.20558969200967528,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.27184993151518544,
     "CrCtD": 0.3798636772052328
   },
+  "n_trials": 0.0,
   "prediction": 0.0166081934826911,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

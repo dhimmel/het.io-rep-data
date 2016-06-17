@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00286",
   "compound_name": "Conjugated Estrogens",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.31593875811803046,
     "CbGbCtD": 0.39052297397431773,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0011439200611271085,
     "CrCrCtD": 0.17288145086662124
   },
+  "n_trials": 0.0,
   "prediction": 0.0103650413143299,
   "status": 0,
   "training_prediction": 0.037108627588355

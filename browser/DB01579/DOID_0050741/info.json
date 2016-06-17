@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01579",
   "compound_name": "Phendimetrazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.4661738005036295,
     "CbGbCtD": 0.41086565949313436,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.04050481298767311,
     "CrCbGaD": 0.005087035749786031
   },
+  "n_trials": 0.0,
   "prediction": 0.00545100444705544,
   "status": 0,
   "training_prediction": 0.00661079167968069

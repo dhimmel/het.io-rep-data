@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7080624187256179,
   "metapath_contribution": {
     "CbGaD": 0.23823408179394856,
     "CbGbCtD": 0.3936407502394695,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23438124903080876,
     "CrCbGaD": 0.0011683759081072608
   },
+  "n_trials": 0.0,
   "prediction": 0.0036534711896213296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

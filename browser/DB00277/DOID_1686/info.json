@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.832249674902471,
   "metapath_contribution": {
     "CbGaD": 0.4233001440627395,
     "CbGbCtD": 0.35891763955703326,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13251903700059348,
     "CrCbGaD": 0.0006589174123471577
   },
+  "n_trials": 0.0,
   "prediction": 0.00334319959045078,
   "status": 0,
   "training_prediction": 0.0140815017371669

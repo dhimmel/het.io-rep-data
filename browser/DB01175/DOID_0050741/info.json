@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.1375730433082397,
     "CbGbCtD": 0.14582842760017237,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0013611178415706667,
     "CrCtD": 0.4115238482516948
   },
+  "n_trials": 0.0,
   "prediction": 0.138263499140993,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

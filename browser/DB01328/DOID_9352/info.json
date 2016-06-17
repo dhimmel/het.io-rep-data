@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01328",
   "compound_name": "Cefonicid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.423927178153446,
   "metapath_contribution": {
     "CbGaD": 0.3573071157591257,
     "CbGbCtD": 0.5858485512690171,
     "CbGpPWpGaD": 0.05414501126048789,
     "CrCbGaD": 0.002699321711369321
   },
+  "n_trials": 0.0,
   "prediction": 0.00221457912933278,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

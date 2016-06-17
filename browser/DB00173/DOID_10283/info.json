@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00173",
   "compound_name": "Adenine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6788036410923279,
   "metapath_contribution": {
     "CbGaD": 0.6778087413517166,
     "CbGbCtD": 0.09009492670024676,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13579799646452487,
     "CrCbGaD": 0.006289756415403346
   },
+  "n_trials": 0.0,
   "prediction": 0.0033336686549607698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

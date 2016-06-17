@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00205",
   "compound_name": "Pyrimethamine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.626137841352406,
   "metapath_contribution": {
     "CbGaD": 0.2574921599874971,
     "CbGbCtD": 0.5156929481305468,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09957202015409196,
     "CrCbGaD": 0.0036224925011976187
   },
+  "n_trials": 0.0,
   "prediction": 0.00308264950570733,
   "status": 0,
   "training_prediction": 0.016875757451863

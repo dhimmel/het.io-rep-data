@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00413",
   "compound_name": "Pramipexole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGaD": 0.1079677262633108,
     "CbGbCtD": 0.20181884252729018,
@@ -13,6 +15,5 @@
     "CpDpCtD": 0.4461896688879205
   },
   "prediction": 0.0163684551850968,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

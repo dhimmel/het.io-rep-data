@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.6169689004679737,
     "CbGbCtD": 0.14028112456448222,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1285190378515522,
     "CrCbGaD": 0.0017529253502686984
   },
+  "n_trials": 0.0,
   "prediction": 0.00229449932342805,
   "status": 0,
   "training_prediction": 0.00169258499617149

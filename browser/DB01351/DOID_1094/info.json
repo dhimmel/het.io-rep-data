@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01351",
   "compound_name": "Amobarbital",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.7732240494306286,
     "CbGeAlD": 0.08100377134415514,
     "CbGpPWpGaD": 0.13660071104641544,
     "CrCbGaD": 0.009171468178800785
   },
+  "n_trials": 0.0,
   "prediction": 0.00309276024081233,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

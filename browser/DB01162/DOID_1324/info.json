@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01162",
   "compound_name": "Terazosin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.741222366710013,
   "metapath_contribution": {
     "CbGaD": 0.3139042694123395,
     "CbGbCtD": 0.3691118419348931,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.25481635949618875,
     "CrCbGaD": 0.008745138428088566
   },
+  "n_trials": 0.0,
   "prediction": 0.0028081180725163303,
   "status": 0,
   "training_prediction": 0.00956725592254752

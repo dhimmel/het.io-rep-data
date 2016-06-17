@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGaD": 0.12212874775478415,
     "CbGbCtD": 0.19199619024060613,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5997372872630323,
     "CrCbGaD": 0.0011290309604331903
   },
+  "n_trials": 0.0,
   "prediction": 0.0192835577631752,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.2797432803437608,
     "CbGbCtD": 0.4768667432154136,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1211774665272472,
     "CrCbGaD": 0.0016372151574380956
   },
+  "n_trials": 0.0,
   "prediction": 0.0030658854304832198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

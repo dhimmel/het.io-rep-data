@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.9800124036127054,
     "CbGeAlD": 0.011692103462210258,
     "CbGpPWpGaD": 0.0008440639668932651,
     "CrCbGaD": 0.007451428958191127
   },
+  "n_trials": 0.0,
   "prediction": 0.00215126032223529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

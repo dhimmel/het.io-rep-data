@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.566970091027308,
   "metapath_contribution": {
     "CbGaD": 0.6277779655321784,
     "CbGeAlD": 0.0038842707325093618,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3118660062734091,
     "CrCbGaD": 0.008765560874864388
   },
+  "n_trials": 0.0,
   "prediction": 0.0018606641644827102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

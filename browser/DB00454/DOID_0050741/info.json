@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.4009029091872465,
     "CbGbCtD": 0.45018406610118505,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0507297515276711,
     "CrCbGaD": 0.0037031059721855854
   },
+  "n_trials": 0.0,
   "prediction": 0.0143860406588971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

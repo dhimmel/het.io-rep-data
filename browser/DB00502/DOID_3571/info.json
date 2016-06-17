@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.7607282184655401,
   "metapath_contribution": {
     "CbGaD": 0.2706437049291748,
     "CbGbCtD": 0.5544777348196599,
     "CbGpPWpGaD": 0.11469807616888265,
     "CcSEcCtD": 0.06018048408228265
   },
+  "n_trials": 0.0,
   "prediction": 0.00207957112234405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

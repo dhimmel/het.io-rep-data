@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00235",
   "compound_name": "Milrinone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.7964889466840049,
   "metapath_contribution": {
     "CbGbCtD": 0.8163661661114313,
     "CbGeAlD": 0.0012061293631960802,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16727378081968566,
     "CrCbGaD": 0.00655122699472685
   },
+  "n_trials": 0.0,
   "prediction": 0.004691303821473029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

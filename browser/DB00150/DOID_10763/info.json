@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00150",
   "compound_name": "L-Tryptophan",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6924577373211961,
   "metapath_contribution": {
     "CbGaD": 0.4104266807749152,
     "CbGbCtD": 0.24065984127048673,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0016930257055796313,
     "CrCrCtD": 0.17665035953486186
   },
+  "n_trials": 0.0,
   "prediction": 0.0067611769317934,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

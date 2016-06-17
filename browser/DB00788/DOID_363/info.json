@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9115734720416121,
   "metapath_contribution": {
     "CbGaD": 0.40117167043654617,
     "CbGbCtD": 0.4337596655280813,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11387324258898991,
     "CrCbGaD": 0.002018855399563189
   },
+  "n_trials": 0.0,
   "prediction": 0.00386437660188774,
   "status": 0,
   "training_prediction": 0.0070461597282896705

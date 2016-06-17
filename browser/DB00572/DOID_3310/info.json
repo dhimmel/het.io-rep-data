@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00572",
   "compound_name": "Atropine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
-    "CbGbCtD": 0.1709395549167186,
-    "CbGpPWpGaD": 0.008197960645213663,
-    "CcSEcCtD": 0.10370976264771366,
-    "CpDpCtD": 0.42389424386513175,
-    "CrCrCtD": 0.29325847792522236
+    "CbGbCtD": 0.17093955491671858,
+    "CbGpPWpGaD": 0.008197960645213661,
+    "CcSEcCtD": 0.10370976264771363,
+    "CpDpCtD": 0.4238942438651317,
+    "CrCrCtD": 0.2932584779252223
   },
+  "n_trials": 0.0,
   "prediction": 0.00471258452786808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

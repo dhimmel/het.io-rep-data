@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00774",
   "compound_name": "Hydroflumethiazide",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.104031209362809,
   "metapath_contribution": {
     "CbGaD": 0.5876798340017902,
     "CbGeAlD": 0.06185582376230897,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1964542563698216,
     "CrCbGaD": 0.0017444570111145262
   },
+  "n_trials": 0.0,
   "prediction": 0.0010084958440369199,
   "status": 0,
   "training_prediction": 0.00557282208945003

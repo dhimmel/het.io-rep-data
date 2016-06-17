@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.343953185955787,
   "metapath_contribution": {
     "CbGbCtD": 0.9388194363620846,
     "CbGdCrCtD": 0.010766401686946876,
     "CbGeAlD": 0.033120551440980556,
     "CbGpPWpGaD": 0.01729361050998796
   },
+  "n_trials": 0.0,
   "prediction": 0.0014797986254113,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

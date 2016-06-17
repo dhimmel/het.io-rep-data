@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00118",
   "compound_name": "S-Adenosylmethionine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.345253576072822,
   "metapath_contribution": {
     "CbGaD": 0.5110242677838516,
     "CbGbCtD": 0.2748129488663642,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.14103634880706692,
     "CrCbGaD": 0.0038999718228142164
   },
+  "n_trials": 0.0,
   "prediction": 0.00264657665026514,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

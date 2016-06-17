@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.45318595578673604,
   "metapath_contribution": {
     "CbGaD": 0.3830884471595419,
     "CbGbCtD": 0.41752748624899066,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.15410530619768478,
     "CrCbGaD": 0.004238818691490807
   },
+  "n_trials": 12.0,
   "prediction": 0.00212352858222922,
   "status": 0,
   "training_prediction": 0.0202061648809737

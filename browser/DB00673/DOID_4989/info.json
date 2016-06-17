@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00673",
   "compound_name": "Aprepitant",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.7767889231228865,
     "CbGpPWpGaD": 0.10314984283573359,
     "CcSEcCtD": 0.11055685064847205,
     "CrCbGaD": 0.009504383392907882
   },
+  "n_trials": 1.0,
   "prediction": 0.00259076316403994,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

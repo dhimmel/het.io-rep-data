@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
-    "CbGbCtD": 0.3495468450848483,
-    "CbGpPWpGaD": 0.014413387140945429,
-    "CcSEcCtD": 0.10756177465489239,
-    "CpDpCtD": 0.528477993119314
+    "CbGbCtD": 0.34954684508484823,
+    "CbGpPWpGaD": 0.014413387140945427,
+    "CcSEcCtD": 0.10756177465489236,
+    "CpDpCtD": 0.5284779931193139
   },
+  "n_trials": 0.0,
   "prediction": 0.004232228481212679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

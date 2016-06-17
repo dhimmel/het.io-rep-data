@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGaD": 0.47053342251482144,
     "CbGbCtD": 0.4090690487627798,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.011066174123673618,
     "CrCbGaD": 0.005867840420774154
   },
+  "n_trials": 0.0,
   "prediction": 0.0020712359941382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.21179938808574567,
     "CbGbCtD": 0.2682303501017613,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.0018939486906323114,
     "CrCrCtD": 0.10073370571978399
   },
+  "n_trials": 0.0,
   "prediction": 0.0148534059132115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

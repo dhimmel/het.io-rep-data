@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.7722456558142614,
     "CbGeAlD": 0.0506134288736651,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05271187681885782,
     "CrCbGaD": 0.0070760968060838364
   },
+  "n_trials": 0.0,
   "prediction": 0.00577241441070937,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

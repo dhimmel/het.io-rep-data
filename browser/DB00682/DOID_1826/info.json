@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.09996369460881602,
     "CbGbCtD": 0.25668763530501426,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.24319210695005608,
     "CrCtD": 0.378892800820245
   },
+  "n_trials": 0.0,
   "prediction": 0.0229335102437213,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

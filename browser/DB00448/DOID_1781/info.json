@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.804941482444733,
   "metapath_contribution": {
     "CbGbCtD": 0.598526560150881,
     "CbGeAlD": 0.03641000667376433,
     "CbGpPWpGaD": 0.05082330425527794,
     "CcSEcCtD": 0.3142401289200767
   },
+  "n_trials": 0.0,
   "prediction": 0.0022606941243412397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

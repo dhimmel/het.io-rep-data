@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.5202475612792252,
     "CbGbCtD": 0.21766634763983525,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.07971371483798906,
     "CrCbGaD": 0.0026132686848358137
   },
+  "n_trials": 0.0,
   "prediction": 0.0052569498998545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

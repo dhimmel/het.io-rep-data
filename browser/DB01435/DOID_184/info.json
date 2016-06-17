@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGaD": 0.6906571178850874,
     "CbGbCtD": 0.18943864816739658,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07147664770556382,
     "CrCbGaD": 0.001598583080146665
   },
+  "n_trials": 0.0,
   "prediction": 0.00262697375273885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

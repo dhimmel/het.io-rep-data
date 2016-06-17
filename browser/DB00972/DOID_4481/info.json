@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGbCtD": 0.2001784502962897,
     "CcSEcCtD": 0.05365878177547021,
     "CiPCiCtD": 0.5511611849322315,
     "CrCrCtD": 0.19500158299600853
   },
+  "n_trials": 0.0,
   "prediction": 0.0436034606771199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

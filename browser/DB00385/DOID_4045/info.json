@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00385",
   "compound_name": "Valrubicin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGbCtD": 0.11627720514784584,
     "CbGdCrCtD": 0.0012359153542854885,
@@ -11,6 +13,7 @@
     "CrCtD": 0.36941994070611256,
     "CtDrD": 0.27404328965313446
   },
+  "n_trials": 0.0,
   "prediction": 0.0213910390816543,
   "status": 0,
   "training_prediction": 0.0344576494761646

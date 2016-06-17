@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.421976592977893,
   "metapath_contribution": {
     "CbGaD": 0.3243187707304893,
     "CbGeAlD": 0.14596685874199597,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3536934838446625,
     "CrCbGaD": 0.006532886285915461
   },
+  "n_trials": 0.0,
   "prediction": 0.00215112518271579,
   "status": 0,
   "training_prediction": 0.005507668046731739

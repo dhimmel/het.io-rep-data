@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.637841352405722,
   "metapath_contribution": {
     "CbGaD": 0.3542493189565527,
     "CbGbCtD": 0.390709725170071,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1531503191897358,
     "CrCbGaD": 0.0032019828704802525
   },
+  "n_trials": 0.0,
   "prediction": 0.00328681352388627,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

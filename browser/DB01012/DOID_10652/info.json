@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.565019505851756,
   "metapath_contribution": {
     "CbGaD": 0.3653218265742763,
     "CbGbCtD": 0.44287258744750785,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14371367858390965,
     "CrCbGaD": 0.005816531745055559
   },
+  "n_trials": 0.0,
   "prediction": 0.00205257189271587,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

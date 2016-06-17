@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.18913145492744324,
     "CbGbCtD": 0.20305051311306446,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.040152900764701537,
     "CiPCiCtD": 0.4883595120825789
   },
+  "n_trials": 0.0,
   "prediction": 0.0216130494669944,
   "status": 0,
   "training_prediction": 0.18389386704426602

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.47051533512890337,
     "CbGbCtD": 0.33443561095626795,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07211760983364096,
     "CcSEcCtD": 0.07995166415570736
   },
+  "n_trials": 0.0,
   "prediction": 0.0108656529423869,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

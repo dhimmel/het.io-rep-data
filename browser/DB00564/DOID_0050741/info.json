@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.6027308192457739,
   "metapath_contribution": {
     "CbGbCtD": 0.28925618114879453,
     "CbGeAlD": 0.03103665870214592,
@@ -11,6 +13,7 @@
     "CpDpCtD": 0.49611158148314555,
     "CrCbGaD": 0.004006160120039136
   },
+  "n_trials": 0.0,
   "prediction": 0.0024922390231158,
   "status": 0,
   "training_prediction": 0.00302441659005266

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGaD": 0.40548092688536813,
     "CbGeAlD": 0.0053203260567261604,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.003542388440008303,
     "CtDrD": 0.4653783634776966
   },
+  "n_trials": 2.0,
   "prediction": 0.00260963174825903,
   "status": 0,
   "training_prediction": 0.00316679706243749

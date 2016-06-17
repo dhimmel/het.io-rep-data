@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01436",
   "compound_name": "Alfacalcidol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.14545995149630095,
     "CbGbCtD": 0.25081145152431145,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.22921788228893886,
     "CrCtD": 0.34029539997695607
   },
+  "n_trials": 6.0,
   "prediction": 0.11055905533834401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

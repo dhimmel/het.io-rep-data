@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01219",
   "compound_name": "Dantrolene",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGbCtD": 0.3608367617975936,
     "CbGeAlD": 0.168360810356921,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.28650685828332634,
     "CrCbGaD": 0.029097589301786433
   },
+  "n_trials": 0.0,
   "prediction": 0.00165316129062694,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

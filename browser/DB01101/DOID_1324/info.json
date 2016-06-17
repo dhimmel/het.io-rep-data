@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01101",
   "compound_name": "Capecitabine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.12063966325646396,
     "CbGbCtD": 0.18307935521151955,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.32929542241053794,
     "CtDrD": 0.26176320295684247
   },
+  "n_trials": 0.0,
   "prediction": 0.0680477965400342,
   "status": 0,
   "training_prediction": 0.49896701430534995

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
-    "CbGaD": 0.7917898679770773,
-    "CbGeAlD": 0.09069636963577221,
-    "CbGpPWpGaD": 0.11412548610489184,
-    "CrCbGaD": 0.003388276282258727
+    "CbGaD": 0.7917898679770772,
+    "CbGeAlD": 0.0906963696357722,
+    "CbGpPWpGaD": 0.11412548610489183,
+    "CrCbGaD": 0.0033882762822587268
   },
+  "n_trials": 0.0,
   "prediction": 0.00286617120048792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

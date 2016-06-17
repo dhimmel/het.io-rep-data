@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.0735294117647059,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.13849154746423903,
   "metapath_contribution": {
-    "CbGeAlD": 0.14599060291396249,
-    "CbGpPWpGaD": 0.8291256255340821,
-    "CrCbGaD": 0.024883771551955567
+    "CbGeAlD": 0.14599060291396246,
+    "CbGpPWpGaD": 0.829125625534082,
+    "CrCbGaD": 0.024883771551955564
   },
+  "n_trials": 0.0,
   "prediction": 0.000811812832302866,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

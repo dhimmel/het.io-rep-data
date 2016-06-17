@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.41821576607175276,
     "CbGbCtD": 0.36989657913705004,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.054375405301939995,
     "CbGpPWpGaD": 0.15473574068111065
   },
+  "n_trials": 1.0,
   "prediction": 0.0110708443511654,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

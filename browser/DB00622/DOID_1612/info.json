@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.30039011703511104,
   "metapath_contribution": {
     "CbGaD": 0.22238739957494588,
     "CbGbCtD": 0.42342102845663054,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1552103242670726,
     "CrCbGaD": 0.0031103472403302005
   },
+  "n_trials": 0.0,
   "prediction": 0.0016307779223678801,
   "status": 0,
   "training_prediction": 0.00898614128484642

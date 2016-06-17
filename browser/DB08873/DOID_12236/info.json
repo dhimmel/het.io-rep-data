@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGbCtD": 0.06780444776962458,
     "CbGeAlD": 0.021548682543586505,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.7325286417278635,
     "CrCbGaD": 0.001151490132346752
   },
+  "n_trials": 0.0,
   "prediction": 0.00927288615569823,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

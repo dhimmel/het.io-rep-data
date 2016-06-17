@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGbCtD": 0.4188265076807603,
     "CbGeAlD": 0.004180651805972193,
     "CcSEcCtD": 0.03631784733579048,
     "CrCrCtD": 0.540674993177477
   },
+  "n_trials": 0.0,
   "prediction": 0.00349986360374883,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

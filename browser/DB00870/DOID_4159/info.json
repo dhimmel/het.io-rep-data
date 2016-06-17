@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGaD": 0.8850914699302195,
     "CbGbCtD": 0.05342864652326471,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.027775759010825636,
     "CrCbGaD": 0.010028205990073516
   },
+  "n_trials": 0.0,
   "prediction": 0.00157695885163975,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

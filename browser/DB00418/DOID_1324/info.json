@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00418",
   "compound_name": "Secobarbital",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.41027308192457707,
   "metapath_contribution": {
     "CbGbCtD": 0.33454706319429733,
     "CbGpPWpGaD": 0.38200154096871186,
     "CcSEcCtD": 0.27540155294779556,
     "CrCbGaD": 0.008049842889195299
   },
+  "n_trials": 0.0,
   "prediction": 0.00155674287562221,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

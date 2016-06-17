@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
     "CbGaD": 0.19328989586639284,
     "CbGbCtD": 0.6138489793335634,
     "CcSEcCtD": 0.18982505674640449,
     "CrCbGaD": 0.003036068053639311
   },
+  "n_trials": 0.0,
   "prediction": 0.00263528412443822,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

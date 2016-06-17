@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00274",
   "compound_name": "Cefmetazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.573472041612484,
   "metapath_contribution": {
     "CbGaD": 0.19324114823595823,
     "CbGbCtD": 0.7561842199537544,
     "CbGpPWpGaD": 0.04844336006133122,
     "CrCbGaD": 0.0021312717489561056
   },
+  "n_trials": 0.0,
   "prediction": 0.00273972652642988,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.5626377356112902,
     "CbGbCtD": 0.27051503090038587,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.11385727686863717,
     "CrCbGaD": 0.005771129534687492
   },
+  "n_trials": 1.0,
   "prediction": 0.00291484514727871,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

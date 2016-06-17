@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.8151434677388188,
     "CbGpPWpGaD": 0.03251699873108687,
     "CcSEcCtD": 0.14015329638233093,
     "CrCbGaD": 0.012186237147763394
   },
+  "n_trials": 0.0,
   "prediction": 0.00310215052473218,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

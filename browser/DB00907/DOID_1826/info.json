@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7886866059817951,
   "metapath_contribution": {
     "CbGaD": 0.31543343666339496,
-    "CbGbCtD": 0.4909866579891813,
-    "CbGeAlD": 0.030611772555336484,
-    "CbGpPWpGaD": 0.08363932821409883,
-    "CcSEcCtD": 0.07600667037040594,
-    "CrCbGaD": 0.0033221342075824382
+    "CbGbCtD": 0.49098665798918134,
+    "CbGeAlD": 0.030611772555336488,
+    "CbGpPWpGaD": 0.08363932821409885,
+    "CcSEcCtD": 0.07600667037040595,
+    "CrCbGaD": 0.0033221342075824387
   },
+  "n_trials": 0.0,
   "prediction": 0.007975161222321529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01616",
   "compound_name": "Alverine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.41775316627164066,
     "CbGbCtD": 0.21486111456965826,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0021847898369226023,
     "CrCrCtD": 0.3316056719881231
   },
+  "n_trials": 0.0,
   "prediction": 0.00615630396193546,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

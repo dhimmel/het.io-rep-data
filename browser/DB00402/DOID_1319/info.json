@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00402",
   "compound_name": "Eszopiclone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGaD": 0.6384130578906317,
     "CbGbCtD": 0.13844744495184902,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1544368590690557,
     "CrCbGaD": 0.005365696084291015
   },
+  "n_trials": 0.0,
   "prediction": 0.0033462828380846697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

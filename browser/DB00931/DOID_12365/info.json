@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00931",
   "compound_name": "Methacycline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.0046765203106992875,
     "CrCbGaD": 0.0008991270583374013,
     "CrCrCtD": 0.39758697570283597,
     "CrCtD": 0.5968373769281272
   },
+  "n_trials": 0.0,
   "prediction": 0.0118518256270046,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

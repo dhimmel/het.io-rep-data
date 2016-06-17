@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.5007142794133391,
     "CbGbCtD": 0.19868367978085993,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1428955536455729,
     "CrCbGaD": 0.004482995919868023
   },
+  "n_trials": 0.0,
   "prediction": 0.00600442738507455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

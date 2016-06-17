@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.08090011019500574,
     "CbGbCtD": 0.17573825143734614,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.13031760392858244,
     "CrCtD": 0.2062751540658645
   },
+  "n_trials": 0.0,
   "prediction": 0.0605392658598004,
   "status": 0,
   "training_prediction": 0.18103059067336802

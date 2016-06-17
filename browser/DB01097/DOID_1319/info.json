@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01097",
   "compound_name": "Leflunomide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.5899015080404303,
     "CbGbCtD": 0.2038774159822802,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04044481050884453,
     "CcSEcCtD": 0.14053297311883572
   },
+  "n_trials": 1.0,
   "prediction": 0.00513340382789686,
   "status": 0,
   "training_prediction": 0.020987162209824

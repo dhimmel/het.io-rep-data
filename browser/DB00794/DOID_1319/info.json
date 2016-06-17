@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00794",
   "compound_name": "Primidone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.7288686605981791,
   "metapath_contribution": {
     "CbGaD": 0.6131859858686334,
     "CbGbCtD": 0.16352519488293812,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08193257809994563,
     "CrCbGaD": 0.0010968748171722696
   },
+  "n_trials": 0.0,
   "prediction": 0.0021720960566958803,
   "status": 0,
   "training_prediction": 0.00396606628904006

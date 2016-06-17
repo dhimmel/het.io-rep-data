@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.345903771131339,
   "metapath_contribution": {
     "CbGbCtD": 0.2906920904673546,
     "CbGdCrCtD": 0.012925129546820397,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03818283690387472,
     "CcSEcCtD": 0.3276906101818196
   },
+  "n_trials": 0.0,
   "prediction": 0.00141225268711626,
   "status": 0,
   "training_prediction": 0.0028678723808159

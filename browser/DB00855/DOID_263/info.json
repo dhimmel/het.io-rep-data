@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00855",
   "compound_name": "Aminolevulinic acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.785435630689207,
   "metapath_contribution": {
     "CbGaD": 0.8028350433539417,
     "CbGeAlD": 0.049518245089926506,
     "CcSEcCtD": 0.1433531645296319,
     "CrCbGaD": 0.004293547026499932
   },
+  "n_trials": 0.0,
   "prediction": 0.00297064059012725,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

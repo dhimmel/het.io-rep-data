@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.4758372071611987,
     "CbGbCtD": 0.45997750660557923,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.03368838643453445,
     "CrCbGaD": 0.0031382869635887887
   },
+  "n_trials": 0.0,
   "prediction": 0.0066801485601493205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

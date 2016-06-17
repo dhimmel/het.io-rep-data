@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.3879806863286263,
     "CbGeAlD": 0.030318022474163767,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.045539571321759585,
     "CtDrD": 0.4747093974013603
   },
+  "n_trials": 4.0,
   "prediction": 0.0131587748942258,
   "status": 0,
   "training_prediction": 0.047621995458003

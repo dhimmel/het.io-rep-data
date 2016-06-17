@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGbCtD": 0.7120870831131765,
     "CbGeAlD": 0.13937578036219664,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10293796340676249,
     "CrCbGaD": 0.008877219003440833
   },
+  "n_trials": 1.0,
   "prediction": 0.00327443681368856,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

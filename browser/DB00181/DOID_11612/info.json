@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGeAlD": 0.34382543291638124,
     "CbGpPWpGaD": 0.36851180145864754,
     "CcSEcCtD": 0.2620034396957662,
     "CrCbGaD": 0.025659325929204967
   },
+  "n_trials": 0.0,
   "prediction": 0.00165330634350847,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

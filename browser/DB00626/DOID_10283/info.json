@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00626",
   "compound_name": "Bacitracin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.258127438231469,
   "metapath_contribution": {
     "CbGeAlD": 0.30340321605239706,
     "CbGpPWpGaD": 0.5541161436631157,
     "CcSEcCtD": 0.14056486685692773,
     "CrCbGaD": 0.001915773427559486
   },
+  "n_trials": 0.0,
   "prediction": 0.00137974060818822,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

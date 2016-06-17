@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00422",
   "compound_name": "Methylphenidate",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.568270481144343,
   "metapath_contribution": {
-    "CbGaD": 0.7723141420857279,
+    "CbGaD": 0.7723141420857278,
     "CbGeAlD": 0.08330656747346561,
     "CbGpPWpGaD": 0.1441903918585017,
-    "CrCbGaD": 0.00018889858230486585
+    "CrCbGaD": 0.00018889858230486582
   },
+  "n_trials": 4.0,
   "prediction": 0.00152177277261332,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

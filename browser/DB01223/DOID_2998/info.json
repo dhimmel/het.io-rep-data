@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.7509752925877758,
   "metapath_contribution": {
     "CbGbCtD": 0.08171335309175462,
     "CbGdCrCtD": 0.01283622757818992,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06209411178920181,
     "CcSEcCtD": 0.7905239058194238
   },
+  "n_trials": 0.0,
   "prediction": 0.00219612612969687,
   "status": 0,
   "training_prediction": 0.009342641287563009

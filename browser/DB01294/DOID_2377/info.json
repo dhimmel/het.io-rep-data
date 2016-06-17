@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.908972691807542,
   "metapath_contribution": {
     "CbGaD": 0.42741892408574184,
     "CbGbCtD": 0.3903329164156129,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.0414598742021746,
     "CcSEcCtD": 0.08884679879914599
   },
+  "n_trials": 0.0,
   "prediction": 0.00425796350888506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

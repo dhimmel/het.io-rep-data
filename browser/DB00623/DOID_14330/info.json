@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.37581274382314706,
   "metapath_contribution": {
     "CbGaD": 0.7628642359492197,
     "CbGeAlD": 0.09293757932946708,
     "CbGpPWpGaD": 0.136965672808737,
     "CrCbGaD": 0.007232511912576278
   },
+  "n_trials": 0.0,
   "prediction": 0.00117391216690818,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

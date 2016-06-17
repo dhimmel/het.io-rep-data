@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01185",
   "compound_name": "Fluoxymesterone",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0370611183355007,
   "metapath_contribution": {
     "CbGaD": 0.7381955291280492,
     "CbGeAlD": 0.04272745214452101,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06189939311725377,
     "CrCbGaD": 0.006493030366260324
   },
+  "n_trials": 0.0,
   "prediction": 0.0007215385373649719,
   "status": 0,
   "training_prediction": 0.0018515419269944898

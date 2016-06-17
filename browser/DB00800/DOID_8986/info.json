@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00800",
   "compound_name": "Fenoldopam",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGeAlD": 0.1117373349399621,
     "CbGpPWpGaD": 0.8882626650600379
   },
+  "n_trials": 0.0,
   "prediction": 0.00253009161846756,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

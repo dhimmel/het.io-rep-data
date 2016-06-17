@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGaD": 0.595667715378476,
     "CbGbCtD": 0.10764848345702438,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.17250409368715522,
     "CrCbGaD": 0.0005850375287586765
   },
+  "n_trials": 0.0,
   "prediction": 0.0037177223992695702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

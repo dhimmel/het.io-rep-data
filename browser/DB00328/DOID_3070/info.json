@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.5435630689206761,
   "metapath_contribution": {
     "CbGaD": 0.7133321503924637,
     "CbGeAlD": 0.07336901134315973,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07305094444885452,
     "CrCbGaD": 0.005160732846848007
   },
+  "n_trials": 0.0,
   "prediction": 0.00147340814343787,
   "status": 0,
   "training_prediction": 0.00108665546434539

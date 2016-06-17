@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGaD": 0.41424173986300966,
     "CbGbCtD": 0.24441073250141887,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1331333204326061,
     "CcSEcCtD": 0.14002330934568608
   },
+  "n_trials": 0.0,
   "prediction": 0.00587789699739348,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

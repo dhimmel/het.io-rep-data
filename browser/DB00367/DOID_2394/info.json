@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.40052015604681396,
   "metapath_contribution": {
     "CbGaD": 0.6028013697290847,
     "CbGbCtD": 0.11251538617939374,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11037643342916043,
     "CrCbGaD": 0.0062157139059044976
   },
+  "n_trials": 2.0,
   "prediction": 0.0012859415937258,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

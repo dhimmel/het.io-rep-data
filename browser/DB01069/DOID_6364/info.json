@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.10837166860114267,
     "CbGbCtD": 0.21327480493070858,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.20974676569015352,
     "CrCtD": 0.3485992932091085
   },
+  "n_trials": 6.0,
   "prediction": 0.0179148712940424,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

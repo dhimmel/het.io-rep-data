@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01193",
   "compound_name": "Acebutolol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.291853714391607,
     "CbGpPWpGaD": 0.00038110367553347826,
     "CrCbGaD": 0.0006986330630173218,
     "CtDrD": 0.7070665488698422
   },
+  "n_trials": 0.0,
   "prediction": 0.0030517993555658103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

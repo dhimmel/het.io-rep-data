@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.20249878923802975,
     "CbGbCtD": 0.2755209612633965,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.4931185247576326,
     "CrCbGaD": 0.0008820617454836626
   },
+  "n_trials": 0.0,
   "prediction": 0.0150122750977865,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

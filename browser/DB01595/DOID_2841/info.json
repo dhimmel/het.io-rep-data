@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.40702210663199,
   "metapath_contribution": {
     "CbGbCtD": 0.6301751088857876,
     "CbGpPWpGaD": 0.04794213934241304,
     "CcSEcCtD": 0.3140021369221359,
     "CrCbGaD": 0.007880614849663273
   },
+  "n_trials": 0.0,
   "prediction": 0.0021229778832318803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

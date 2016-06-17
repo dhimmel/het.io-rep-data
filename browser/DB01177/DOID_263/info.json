@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGbCtD": 0.1212410672307602,
     "CbGdCrCtD": 0.0009806181609523024,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.18116762656006588,
     "CrCtD": 0.286317015569868
   },
+  "n_trials": 0.0,
   "prediction": 0.0177249521496808,
   "status": 0,
   "training_prediction": 0.0808094868041437

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7288686605981791,
   "metapath_contribution": {
     "CbGaD": 0.25196667163852066,
     "CbGbCtD": 0.09295020693329854,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.36668125139876867,
     "CrCbGaD": 0.001626705199555061
   },
+  "n_trials": 0.0,
   "prediction": 0.00626994896515444,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

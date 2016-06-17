@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.0786736020806242,
   "metapath_contribution": {
     "CbGaD": 0.5708524446131017,
     "CbGeAlD": 0.05052390926217875,
     "CbGpPWpGaD": 0.36285732667638915,
     "CrCbGaD": 0.015766319448330544
   },
+  "n_trials": 0.0,
   "prediction": 0.0006731600139507019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

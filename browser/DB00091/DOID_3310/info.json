@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGbCtD": 0.4330740319924024,
     "CbGdCrCtD": 0.002169229799743791,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10471233068852881,
     "CtDrD": 0.424054844105795
   },
+  "n_trials": 7.0,
   "prediction": 0.0113390447652448,
   "status": 0,
   "training_prediction": 0.10091679469531402

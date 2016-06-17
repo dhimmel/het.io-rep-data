@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.2526890366518253,
     "CbGbCtD": 0.22819414976727914,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3730407644153379,
     "CrCbGaD": 0.002160382185413154
   },
+  "n_trials": 0.0,
   "prediction": 0.01713665884155,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

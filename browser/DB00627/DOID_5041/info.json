@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8107932379713909,
   "metapath_contribution": {
     "CbGbCtD": 0.29672325237905006,
     "CbGeAlD": 0.14898051275053414,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19684621623334977,
     "CrCbGaD": 0.011396126863825226
   },
+  "n_trials": 0.0,
   "prediction": 0.00229578793339564,
   "status": 0,
   "training_prediction": 0.00463834720283637

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.3608582574772429,
   "metapath_contribution": {
     "CbGbCtD": 0.49614932041106036,
     "CbGdCrCtD": 0.0033378072082899694,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1810363458298108,
     "CrCbGaD": 0.0019706816120530195
   },
+  "n_trials": 0.0,
   "prediction": 0.00154447118222165,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

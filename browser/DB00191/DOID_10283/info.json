@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00191",
   "compound_name": "Phentermine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.217815344603381,
   "metapath_contribution": {
     "CbGbCtD": 0.5429439982508271,
     "CbGeAlD": 0.021115382938059122,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2262468797536856,
     "CrCbGaD": 0.007668674777971243
   },
+  "n_trials": 0.0,
   "prediction": 0.00127172141063283,
   "status": 0,
   "training_prediction": 0.0053924691208738

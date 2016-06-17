@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.8361508452535759,
   "metapath_contribution": {
     "CbGbCtD": 0.44330608718161674,
     "CbGdCrCtD": 0.004043146410677751,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2697540362616474,
     "CrCbGaD": 0.001268408756094249
   },
+  "n_trials": 0.0,
   "prediction": 0.00318761497921332,
   "status": 0,
   "training_prediction": 0.0103211927182304

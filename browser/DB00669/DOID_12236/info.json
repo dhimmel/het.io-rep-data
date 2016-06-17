@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.47947576687228033,
     "CbGbCtD": 0.3079881120521782,
     "CbGpPWpGaD": 0.0574653946849721,
     "CcSEcCtD": 0.15507072639056935
   },
+  "n_trials": 0.0,
   "prediction": 0.00268344141245298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

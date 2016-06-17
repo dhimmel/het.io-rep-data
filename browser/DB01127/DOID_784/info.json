@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01127",
   "compound_name": "Econazole",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.388166449934981,
   "metapath_contribution": {
     "CbGaD": 0.704938054525803,
     "CbGeAlD": 0.018109315807443724,
     "CbGpPWpGaD": 0.26524272258446746,
     "CrCbGaD": 0.01170990708228568
   },
+  "n_trials": 0.0,
   "prediction": 0.00135520577293116,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

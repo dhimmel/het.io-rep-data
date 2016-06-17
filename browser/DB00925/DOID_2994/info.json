@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.717165149544863,
   "metapath_contribution": {
     "CbGaD": 0.7391562084964431,
     "CbGbCtD": 0.11921791621664693,
     "CbGeAlD": 0.08408006572487617,
     "CbGpPWpGaD": 0.05754580956203374
   },
+  "n_trials": 0.0,
   "prediction": 0.00212291003256516,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

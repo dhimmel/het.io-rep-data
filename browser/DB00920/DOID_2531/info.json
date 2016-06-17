@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.41027308192457707,
   "metapath_contribution": {
     "CbGaD": 0.3841728256472646,
     "CbGbCtD": 0.28939014810213937,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1089432189780354,
     "CcSEcCtD": 0.1666191412754614
   },
+  "n_trials": 0.0,
   "prediction": 0.0019366293043452602,
   "status": 0,
   "training_prediction": 0.0173591156453699

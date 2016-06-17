@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.42782834850455104,
   "metapath_contribution": {
-    "CbGeAlD": 0.7285170120308178,
+    "CbGeAlD": 0.7285170120308176,
     "CbGpPWpGaD": 0.26279140481828034,
-    "CrCbGaD": 0.008691583150901953
+    "CrCbGaD": 0.008691583150901952
   },
+  "n_trials": 0.0,
   "prediction": 0.00128285626974849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

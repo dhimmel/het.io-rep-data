@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.33940182054616397,
   "metapath_contribution": {
     "CbGaD": 0.7893366777656573,
     "CbGeAlD": 0.04965909351719938,
     "CbGpPWpGaD": 0.1494337625590999,
     "CrCbGaD": 0.011570466158043325
   },
+  "n_trials": 0.0,
   "prediction": 0.00142213546129971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

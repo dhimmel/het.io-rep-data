@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00194",
   "compound_name": "Vidarabine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.26592977893367997,
   "metapath_contribution": {
     "CbGaD": 0.6762851279889869,
     "CbGeAlD": 0.027771476198250687,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1973588946403624,
     "CrCbGaD": 0.005506828863259228
   },
+  "n_trials": 0.0,
   "prediction": 0.00202621806962528,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00359",
   "compound_name": "Sulfadiazine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.3608582574772429,
   "metapath_contribution": {
     "CbGbCtD": 0.5844048103538467,
     "CbGeAlD": 0.014326851939309361,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2991583395363234,
     "CrCbGaD": 0.017020926709304513
   },
+  "n_trials": 0.0,
   "prediction": 0.00120949852449014,
   "status": 0,
   "training_prediction": 0.0031013255955081

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.7469756862256373,
     "CbGeAlD": 0.10184248440104691,
     "CbGpPWpGaD": 0.1467433753110963,
     "CrCbGaD": 0.00443845406221953
   },
+  "n_trials": 0.0,
   "prediction": 0.00226876889332933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

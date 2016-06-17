@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00823",
   "compound_name": "Ethynodiol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6755526657997399,
   "metapath_contribution": {
     "CbGaD": 0.20940488117944422,
     "CbGbCtD": 0.34376688969692537,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003590224515981445,
     "CrCrCtD": 0.3984984928462791
   },
+  "n_trials": 0.0,
   "prediction": 0.0033286923827119,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

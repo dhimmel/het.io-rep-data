@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.4127408013578974,
     "CbGeAlD": 0.059314261128217756,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.4232379086429784,
     "CrCbGaD": 0.0033649321227578024
   },
+  "n_trials": 0.0,
   "prediction": 0.00489151719742499,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

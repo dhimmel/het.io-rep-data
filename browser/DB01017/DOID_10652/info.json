@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8029908972691808,
   "metapath_contribution": {
     "CbGaD": 0.7300942932233213,
     "CbGeAlD": 0.07897186997374737,
     "CbGpPWpGaD": 0.18835690497627935,
     "CrCbGaD": 0.002576931826651991
   },
+  "n_trials": 1.0,
   "prediction": 0.00332517734231693,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08996",
   "compound_name": "Dimetacrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.2736307276154309,
     "CbGbCtD": 0.06307177352928878,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2517871615707649,
     "CrCtD": 0.3931055816554058
   },
+  "n_trials": 0.0,
   "prediction": 0.006019692158836999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8686605981794541,
   "metapath_contribution": {
     "CbGbCtD": 0.2508338353594364,
     "CbGdCrCtD": 0.0006904856330029614,
     "CcSEcCtD": 0.13936060361653063,
     "CpDpCtD": 0.60911507539103
   },
+  "n_trials": 0.0,
   "prediction": 0.00459530838042944,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

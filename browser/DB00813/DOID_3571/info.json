@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.0929778933680104,
   "metapath_contribution": {
     "CbGbCtD": 0.5322137856346766,
     "CbGpPWpGaD": 0.06289656900231189,
     "CcSEcCtD": 0.4043423135762705,
     "CrCbGaD": 0.0005473317867410393
   },
+  "n_trials": 0.0,
   "prediction": 0.0007363229933239389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

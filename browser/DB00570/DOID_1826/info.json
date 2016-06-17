@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.301690507152146,
   "metapath_contribution": {
     "CbGaD": 0.3803392910396341,
     "CbGbCtD": 0.32362104087575944,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.12615275908994525,
     "CrCbGaD": 0.001677983487563734
   },
+  "n_trials": 0.0,
   "prediction": 0.00217588159829451,
   "status": 0,
   "training_prediction": 0.0462297769133381

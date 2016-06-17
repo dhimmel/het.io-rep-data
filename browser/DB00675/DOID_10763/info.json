@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGaD": 0.21321925055974608,
     "CbGbCtD": 0.35770331680416667,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.002167641980962268,
     "CrCrCtD": 0.19661665966321437
   },
+  "n_trials": 0.0,
   "prediction": 0.00725524019406623,
   "status": 0,
   "training_prediction": 0.126708088673815

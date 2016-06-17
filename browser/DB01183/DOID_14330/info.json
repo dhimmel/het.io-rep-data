@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.272058823529412,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.340052015604681,
   "metapath_contribution": {
     "CbGaD": 0.48221686779974604,
     "CbGeAlD": 0.1870657322190297,
     "CbGpPWpGaD": 0.32267272712217415,
     "CrCbGaD": 0.008044672859050092
   },
+  "n_trials": 0.0,
   "prediction": 0.00112293222705835,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

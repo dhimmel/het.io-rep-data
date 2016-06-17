@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.826397919375813,
   "metapath_contribution": {
-    "CbGaD": 0.3342931944536389,
-    "CbGbCtD": 0.3103167986909067,
-    "CbGeAlD": 0.04530362606961046,
-    "CbGpPWpGaD": 0.07582608105312866,
-    "CcSEcCtD": 0.07237286307241227,
-    "CrCbGaD": 0.0028652979536518174,
-    "CrCrCtD": 0.15902213870665105
+    "CbGaD": 0.334293194453639,
+    "CbGbCtD": 0.3103167986909068,
+    "CbGeAlD": 0.04530362606961047,
+    "CbGpPWpGaD": 0.07582608105312867,
+    "CcSEcCtD": 0.07237286307241228,
+    "CrCbGaD": 0.002865297953651818,
+    "CrCrCtD": 0.15902213870665108
   },
+  "n_trials": 0.0,
   "prediction": 0.0098037650591873,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

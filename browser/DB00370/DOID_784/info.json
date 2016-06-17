@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.576723016905072,
   "metapath_contribution": {
     "CbGaD": 0.4651224544289683,
     "CbGeAlD": 0.1911681424896545,
     "CbGpPWpGaD": 0.3368064009467347,
     "CrCbGaD": 0.006903002134642479
   },
+  "n_trials": 0.0,
   "prediction": 0.00174550275080421,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

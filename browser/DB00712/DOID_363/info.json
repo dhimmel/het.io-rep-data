@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.189206762028609,
   "metapath_contribution": {
     "CbGbCtD": 0.5944906378027129,
     "CbGeAlD": 0.0269261137319933,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3110434903964772,
     "CrCbGaD": 0.008786165172522656
   },
+  "n_trials": 0.0,
   "prediction": 0.0010892658756178199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

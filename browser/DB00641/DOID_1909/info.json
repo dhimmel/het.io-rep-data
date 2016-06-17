@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.46553966189857,
   "metapath_contribution": {
     "CbGaD": 0.1882347347864337,
     "CbGbCtD": 0.38594456598543964,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1819842574037933,
     "CrCbGaD": 0.008207974795387712
   },
+  "n_trials": 0.0,
   "prediction": 0.00135878123467622,
   "status": 0,
   "training_prediction": 0.00413401557485011

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.5504768994780977,
     "CbGbCtD": 0.24148563173264445,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08645272683345119,
     "CrCbGaD": 0.006295855528625151
   },
+  "n_trials": 0.0,
   "prediction": 0.00732470578651662,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

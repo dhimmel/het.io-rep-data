@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.21378984029500467,
     "CbGeAlD": 0.022830898233020043,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.013911194927419449,
     "CtDrD": 0.6906064865440013
   },
+  "n_trials": 1.0,
   "prediction": 0.0041972584547189,
   "status": 0,
   "training_prediction": 0.00189508623204088

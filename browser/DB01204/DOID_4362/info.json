@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGbCtD": 0.13559425073187562,
     "CbGdCrCtD": 0.0013488668578244929,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.01855346414699736,
     "CiPCiCtD": 0.8082392807540348
   },
+  "n_trials": 0.0,
   "prediction": 0.0167192615421565,
   "status": 0,
   "training_prediction": 0.0294946288235137

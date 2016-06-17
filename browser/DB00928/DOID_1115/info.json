@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.00975292587776333,
   "metapath_contribution": {
     "CbGdCrCtD": 0.012322885988601978,
     "CbGeAlD": 0.27239615757911206,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.6499283821970391,
     "CrCbGaD": 0.013224722727533151
   },
+  "n_trials": 1.0,
   "prediction": 0.0004986674948675741,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

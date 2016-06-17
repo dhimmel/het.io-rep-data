@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00990",
   "compound_name": "Exemestane",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGbCtD": 0.15097997585566902,
     "CcSEcCtD": 0.060117146303154984,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.3016831847991216,
     "CrCtD": 0.48627532174140387
   },
+  "n_trials": 0.0,
   "prediction": 0.0107431102233573,
   "status": 0,
   "training_prediction": 0.0307255115685363

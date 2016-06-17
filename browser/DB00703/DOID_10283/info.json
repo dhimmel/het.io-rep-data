@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8433029908972691,
   "metapath_contribution": {
     "CbGaD": 0.34295255875996605,
     "CbGbCtD": 0.41665967131073833,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10981451859711865,
     "CrCbGaD": 0.0004755406077644528
   },
+  "n_trials": 0.0,
   "prediction": 0.005375418776699971,
   "status": 0,
   "training_prediction": 0.0224938554134585

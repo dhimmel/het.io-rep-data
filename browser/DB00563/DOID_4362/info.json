@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.5473874917689083,
     "CbGbCtD": 0.20708130681370077,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.051451636671916164,
     "CrCbGaD": 0.0036961144392539044
   },
+  "n_trials": 0.0,
   "prediction": 0.00318700022459668,
   "status": 0,
   "training_prediction": 0.0168244898216558

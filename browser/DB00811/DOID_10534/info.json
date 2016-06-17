@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.15474642392717802,
   "metapath_contribution": {
     "CbGbCtD": 0.40143501672026677,
     "CbGeAlD": 0.1028939538285785,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.306067307664921,
     "CrCbGaD": 0.009786345533867634
   },
+  "n_trials": 0.0,
   "prediction": 0.000827239042345619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

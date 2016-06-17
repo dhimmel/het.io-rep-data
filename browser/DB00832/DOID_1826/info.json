@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00832",
   "compound_name": "Phensuximide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.2027243967348423,
     "CbGbCtD": 0.20043134357050865,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.22579364113918476,
     "CrCtD": 0.3385344569287499
   },
+  "n_trials": 0.0,
   "prediction": 0.0487250983307385,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

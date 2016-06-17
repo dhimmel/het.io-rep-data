@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00728",
   "compound_name": "Rocuronium",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.605981794538362,
   "metapath_contribution": {
-    "CbGaD": 0.6683691399315765,
-    "CbGbCtD": 0.00012505101309847114,
-    "CbGeAlD": 0.042438492245759414,
-    "CbGpPWpGaD": 0.14141619782486206,
-    "CcSEcCtD": 0.14117702846242652,
-    "CrCbGaD": 0.006474090522276848
+    "CbGaD": 0.6683691399315767,
+    "CbGbCtD": 0.00012505101309847117,
+    "CbGeAlD": 0.04243849224575943,
+    "CbGpPWpGaD": 0.1414161978248621,
+    "CcSEcCtD": 0.14117702846242655,
+    "CrCbGaD": 0.006474090522276849
   },
+  "n_trials": 0.0,
   "prediction": 0.00434189880609717,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

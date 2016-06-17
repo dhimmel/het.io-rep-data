@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.16679490991343968,
     "CcSEcCtD": 0.031048209062141813,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.174337494884944,
     "CrCtD": 0.23378292361331263
   },
+  "n_trials": 0.0,
   "prediction": 0.0541355170640992,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

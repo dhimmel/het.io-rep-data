@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00546",
   "compound_name": "Adinazolam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.7828409061945395,
     "CbGbCtD": 0.09635497351406731,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10479158987246742,
     "CrCbGaD": 0.008011124001159551
   },
+  "n_trials": 0.0,
   "prediction": 0.0028583860298840302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

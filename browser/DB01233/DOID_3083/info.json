@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.539661898569571,
   "metapath_contribution": {
     "CbGbCtD": 0.2249905233325104,
     "CbGpPWpGaD": 0.07475496845405466,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.5900872663978342,
     "CrCbGaD": 0.0021367274546095923
   },
+  "n_trials": 0.0,
   "prediction": 0.00227860688722122,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

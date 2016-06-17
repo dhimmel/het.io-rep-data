@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01148",
   "compound_name": "Flavoxate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.4089726918075421,
   "metapath_contribution": {
     "CbGaD": 0.8215431082620079,
     "CbGeAlD": 0.061761791597089735,
     "CbGpPWpGaD": 0.11236275548653309,
     "CrCbGaD": 0.004332344654369221
   },
+  "n_trials": 0.0,
   "prediction": 0.00124468887367155,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

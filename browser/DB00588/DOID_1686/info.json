@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.291937581274382,
   "metapath_contribution": {
     "CbGaD": 0.3253370236175976,
     "CbGbCtD": 0.4511982479948819,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19116806755321142,
     "CrCbGaD": 0.005367603825478007
   },
+  "n_trials": 0.0,
   "prediction": 0.00140692764812019,
   "status": 0,
   "training_prediction": 0.00596316710607784

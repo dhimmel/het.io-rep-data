@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.432379713914174,
   "metapath_contribution": {
     "CbGaD": 0.30970201863096475,
     "CbGbCtD": 0.44979011018401843,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09484051791183655,
     "CrCbGaD": 0.0019139114009961357
   },
+  "n_trials": 4.0,
   "prediction": 0.00224181669143208,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.201560468140442,
   "metapath_contribution": {
     "CbGaD": 0.8357232885297583,
     "CbGeAlD": 0.028500763565490063,
     "CbGpPWpGaD": 0.1307493502483096,
     "CrCbGaD": 0.0050265976564419805
   },
+  "n_trials": 0.0,
   "prediction": 0.000870689310864901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

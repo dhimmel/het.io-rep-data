@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00545",
   "compound_name": "Pyridostigmine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.5045621506784388,
     "CbGbCtD": 0.2895923822786427,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13716304753102013,
     "CrCbGaD": 0.003964178880712309
   },
+  "n_trials": 0.0,
   "prediction": 0.004421215683657429,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

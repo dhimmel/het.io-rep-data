@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.639791937581274,
   "metapath_contribution": {
     "CbGaD": 0.08334638520660004,
     "CbGbCtD": 0.2124242841798891,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0009386241183928515,
     "CtDrD": 0.5852634793275739
   },
+  "n_trials": 0.0,
   "prediction": 0.0015765060353584099,
   "status": 0,
   "training_prediction": 0.00480770752216292

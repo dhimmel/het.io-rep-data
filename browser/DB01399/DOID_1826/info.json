@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.900520156046814,
   "metapath_contribution": {
     "CbGaD": 0.087141038463412,
     "CbGbCtD": 0.042410704817639415,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.233816870870779,
     "CrCtD": 0.3835541508762173
   },
+  "n_trials": 0.0,
   "prediction": 0.0175891730754315,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

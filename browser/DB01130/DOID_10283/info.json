@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01130",
   "compound_name": "Prednicarbate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8511053315994799,
   "metapath_contribution": {
     "CbGaD": 0.15251246574664062,
     "CbGbCtD": 0.03341340938523596,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.17683385922679049,
     "CrCtD": 0.24548646729671997
   },
+  "n_trials": 0.0,
   "prediction": 0.00553281036412555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

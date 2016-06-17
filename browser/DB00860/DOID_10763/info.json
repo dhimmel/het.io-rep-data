@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.25227568270481104,
   "metapath_contribution": {
     "CbGaD": 0.26210423675334327,
     "CbGbCtD": 0.33158948885491074,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0029149918472876637,
     "CrCrCtD": 0.23798257943048656
   },
+  "n_trials": 0.0,
   "prediction": 0.00211783402364748,
   "status": 0,
   "training_prediction": 0.16284081725602803

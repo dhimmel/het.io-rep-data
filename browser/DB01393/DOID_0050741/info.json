@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.298439531859558,
   "metapath_contribution": {
     "CbGbCtD": 0.09960685350717274,
     "CbGeAlD": 0.22170081266702274,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3851188539937212,
     "CrCbGaD": 0.016093688321334128
   },
+  "n_trials": 0.0,
   "prediction": 0.00156601992846295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.272058823529412,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.252925877763329,
   "metapath_contribution": {
     "CbGaD": 0.14166143962681366,
     "CbGbCtD": 0.4967385693474644,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1605305547289695,
     "CrCbGaD": 0.0002721109475311575
   },
+  "n_trials": 0.0,
   "prediction": 0.0009750060549463119,
   "status": 0,
   "training_prediction": 0.00178204549737212

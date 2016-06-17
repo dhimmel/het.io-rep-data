@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00889",
   "compound_name": "Granisetron",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.761378413524057,
   "metapath_contribution": {
     "CbGaD": 0.38530388817802486,
     "CbGbCtD": 0.4048652186362083,
     "CbGpPWpGaD": 0.07292752646501705,
     "CcSEcCtD": 0.13690336672074996
   },
+  "n_trials": 1.0,
   "prediction": 0.00423600339456459,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

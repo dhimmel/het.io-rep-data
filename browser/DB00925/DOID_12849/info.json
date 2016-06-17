@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.349154746423927,
   "metapath_contribution": {
     "CbGaD": 0.5798072858121742,
     "CbGeAlD": 0.11094094248166542,
     "CbGpPWpGaD": 0.30016780358940914,
     "CrCbGaD": 0.009083968116751238
   },
+  "n_trials": 0.0,
   "prediction": 0.00112962531521633,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

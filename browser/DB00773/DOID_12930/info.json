@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.029258777633290003,
   "metapath_contribution": {
     "CbGbCtD": 0.7689910348234306,
     "CbGdCrCtD": 0.002660240489191798,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1726325629905262,
     "CrCbGaD": 0.017026143974479213
   },
+  "n_trials": 0.0,
   "prediction": 0.000799531411340585,
   "status": 0,
   "training_prediction": 0.0053212849602567395

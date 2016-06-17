@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00507",
   "compound_name": "Nitazoxanide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CcSEcCtD": 0.102623171764428,
     "CrCbGaD": 0.0024797012581953275,
     "CrCrCtD": 0.18634625747544023,
     "CrCtD": 0.7085508695019365
   },
+  "n_trials": 0.0,
   "prediction": 0.00931239310972655,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.30234070221066306,
   "metapath_contribution": {
     "CbGaD": 0.33418442336148807,
     "CbGbCtD": 0.3215176335098189,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.18749488263200212,
     "CrCbGaD": 0.005586623290570798
   },
+  "n_trials": 0.0,
   "prediction": 0.00163659341077983,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

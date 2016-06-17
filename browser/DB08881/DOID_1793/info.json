@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGbCtD": 0.2559693866966419,
     "CbGdCrCtD": 0.0018045860498648457,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.6349273550273071,
     "CrCbGaD": 0.0004536951814813875
   },
+  "n_trials": 0.0,
   "prediction": 0.00639246147454477,
   "status": 0,
   "training_prediction": 0.0250034726100407

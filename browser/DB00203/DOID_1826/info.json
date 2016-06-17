@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
-    "CbGaD": 0.13251602848326435,
-    "CbGbCtD": 0.31514058023561675,
-    "CbGeAlD": 0.016045477137852242,
-    "CbGpPWpGaD": 0.04259659319629792,
-    "CcSEcCtD": 0.1257532260208633,
-    "CpDpCtD": 0.3679480949261056
+    "CbGaD": 0.13251602848326433,
+    "CbGbCtD": 0.31514058023561664,
+    "CbGeAlD": 0.01604547713785224,
+    "CbGpPWpGaD": 0.04259659319629791,
+    "CcSEcCtD": 0.12575322602086328,
+    "CpDpCtD": 0.36794809492610553
   },
+  "n_trials": 0.0,
   "prediction": 0.0125095577437625,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

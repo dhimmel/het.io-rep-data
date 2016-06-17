@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00245",
   "compound_name": "Benzatropine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.3083647861602238,
     "CbGpPWpGaD": 0.03509222929288279,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.21848944371761211,
     "CrCtD": 0.388551734597911
   },
+  "n_trials": 0.0,
   "prediction": 0.009567826247285091,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

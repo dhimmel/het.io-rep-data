@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06594",
   "compound_name": "Agomelatine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6521456436931079,
   "metapath_contribution": {
     "CbGaD": 0.2704103137883165,
     "CbGbCtD": 0.2517679424352291,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003193571650635111,
     "CrCrCtD": 0.24023486327004234
   },
+  "n_trials": 0.0,
   "prediction": 0.005732612627684271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

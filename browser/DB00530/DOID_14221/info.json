@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.7777481638561518,
     "CbGeAlD": 0.048222884863955706,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.02829645734028487,
     "CrCbGaD": 0.0058970147030858395
   },
+  "n_trials": 0.0,
   "prediction": 0.00239263672271705,
   "status": 0,
   "training_prediction": 0.00244951131302622

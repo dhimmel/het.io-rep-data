@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.615734720416125,
   "metapath_contribution": {
     "CbGaD": 0.655297960561407,
     "CbGeAlD": 0.12304291834192468,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11577955456374403,
     "CrCbGaD": 0.006495451286953973
   },
+  "n_trials": 0.0,
   "prediction": 0.0025462466488052104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.29973992197659305,
   "metapath_contribution": {
     "CbGbCtD": 0.9524131842123874,
     "CbGpPWpGaD": 0.03978039202936001,
     "CcSEcCtD": 0.007806423758252516
   },
+  "n_trials": 0.0,
   "prediction": 0.0011240177378520199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

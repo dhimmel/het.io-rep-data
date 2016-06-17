@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.013831503464176612,
     "CbGbCtD": 0.1722884042679183,
@@ -16,6 +18,7 @@
     "CrCtD": 0.22523000248057187,
     "CtDrD": 0.14738247246906122
   },
+  "n_trials": 4.0,
   "prediction": 0.260003595693644,
   "status": 0,
   "training_prediction": 0.852941483536971

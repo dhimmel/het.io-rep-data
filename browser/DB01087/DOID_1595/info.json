@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.8543811143176158,
     "CbGeAlD": 0.11673951065657846,
     "CbGpPWpGaD": 0.02163334159282489,
     "CrCbGaD": 0.007246033432980856
   },
+  "n_trials": 0.0,
   "prediction": 0.0027760291379463602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

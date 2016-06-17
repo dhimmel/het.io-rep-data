@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00897",
   "compound_name": "Triazolam",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.423927178153446,
   "metapath_contribution": {
     "CbGaD": 0.8440037927462193,
     "CbGpPWpGaD": 0.048830361120879684,
     "CcSEcCtD": 0.09860792662650128,
     "CrCbGaD": 0.008557919506399825
   },
+  "n_trials": 0.0,
   "prediction": 0.00136298919925017,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

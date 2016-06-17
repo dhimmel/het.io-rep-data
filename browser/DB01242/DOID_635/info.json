@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.701560468140442,
   "metapath_contribution": {
     "CbGaD": 0.2149724083530738,
     "CbGbCtD": 0.5277120563849291,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2050546057160982,
     "CrCbGaD": 0.00036090226482930624
   },
+  "n_trials": 0.0,
   "prediction": 0.00342003284112098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

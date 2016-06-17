@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.3084571181108396,
     "CbGbCtD": 0.40821990367764915,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10317204751734305,
     "CcSEcCtD": 0.14726582078360445
   },
+  "n_trials": 1.0,
   "prediction": 0.0037497239605252296,
   "status": 0,
   "training_prediction": 0.0453962948944122

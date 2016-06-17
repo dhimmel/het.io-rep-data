@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGbCtD": 0.24559066274120342,
     "CbGpPWpGaD": 0.02120510012999092,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2779749462308599,
     "CrCtD": 0.42142862856012925
   },
+  "n_trials": 1.0,
   "prediction": 0.0121890643959801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

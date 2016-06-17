@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.4167055185457033,
     "CbGbCtD": 0.39517451736227116,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17224420602695173,
     "CrCbGaD": 0.004208709125771722
   },
+  "n_trials": 0.0,
   "prediction": 0.00651414420561439,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

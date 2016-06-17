@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.58777633289987,
   "metapath_contribution": {
     "CbGbCtD": 0.7149217101638679,
     "CbGdCrCtD": 0.003267154598511498,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.26973447325295824,
     "CrCbGaD": 0.0005954771390031388
   },
+  "n_trials": 0.0,
   "prediction": 0.00279274727730044,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

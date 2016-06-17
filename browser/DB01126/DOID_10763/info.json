@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01126",
   "compound_name": "Dutasteride",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.649544863459038,
   "metapath_contribution": {
     "CbGaD": 0.3159500131281209,
     "CbGbCtD": 0.40821814102534054,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16032898162408266,
     "CrCbGaD": 0.000916737574866323
   },
+  "n_trials": 0.0,
   "prediction": 0.00569733695679614,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

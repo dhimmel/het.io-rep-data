@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.6134746367028034,
     "CbGeAlD": 0.12375359951460473,
     "CbGpPWpGaD": 0.2601469604298097,
     "CrCbGaD": 0.002624803352781943
   },
+  "n_trials": 0.0,
   "prediction": 0.00272264256353563,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

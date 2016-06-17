@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGaD": 0.4818789490758831,
     "CbGeAlD": 0.1420136894741146,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21963297790719974,
     "CrCbGaD": 0.008843469633524847
   },
+  "n_trials": 6.0,
   "prediction": 0.00229847584883923,
   "status": 0,
   "training_prediction": 0.00169552013534825

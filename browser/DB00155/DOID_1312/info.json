@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.7971168099985917,
     "CbGeAlD": 0.13583548648315105,
     "CbGpPWpGaD": 0.06534921957713312,
     "CrCbGaD": 0.001698483941124253
   },
+  "n_trials": 0.0,
   "prediction": 0.00239142572456549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

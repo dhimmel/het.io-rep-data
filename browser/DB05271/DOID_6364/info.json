@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05271",
   "compound_name": "Rotigotine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.25567277538053856,
     "CbGbCtD": 0.25314592762627297,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08247282645372407,
     "CpDpCtD": 0.34296448459107853
   },
+  "n_trials": 0.0,
   "prediction": 0.0151671631475885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

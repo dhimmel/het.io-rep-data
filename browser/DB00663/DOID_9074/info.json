@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00663",
   "compound_name": "Flumethasone Pivalate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.14922034180510943,
     "CbGbCtD": 0.21586612724127952,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.26953958559751834,
     "CrCtD": 0.35593918972339067
   },
+  "n_trials": 0.0,
   "prediction": 0.0166535012453155,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

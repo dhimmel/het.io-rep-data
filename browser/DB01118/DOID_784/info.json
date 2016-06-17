@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.37061118335500604,
   "metapath_contribution": {
     "CbGaD": 0.7561641269083346,
     "CbGeAlD": 0.0569079108671573,
     "CbGpPWpGaD": 0.18570269102056802,
     "CrCbGaD": 0.0012252712039400881
   },
+  "n_trials": 0.0,
   "prediction": 0.00131559625759411,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

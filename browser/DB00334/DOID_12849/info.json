@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.7487940997979348,
     "CbGeAlD": 0.08962420975108953,
     "CbGpPWpGaD": 0.1565212538654685,
     "CrCbGaD": 0.005060436585507088
   },
+  "n_trials": 2.0,
   "prediction": 0.0028816743318076697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

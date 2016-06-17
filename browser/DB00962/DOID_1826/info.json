@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00962",
   "compound_name": "Zaleplon",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.3358897889506212,
     "CbGbCtD": 0.4334534340453363,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06758788451489778,
     "CcSEcCtD": 0.1437414840365811
   },
+  "n_trials": 0.0,
   "prediction": 0.0169711984621245,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

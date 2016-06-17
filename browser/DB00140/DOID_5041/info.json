@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.6967221623067009,
     "CbGbCtD": 0.18458993911606966,
     "CbGeAlD": 0.030220049177823824,
     "CbGpPWpGaD": 0.08846784939940562
   },
+  "n_trials": 0.0,
   "prediction": 0.00656623060674948,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

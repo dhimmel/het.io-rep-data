@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.260078023407022,
   "metapath_contribution": {
     "CbGbCtD": 0.933261449035363,
     "CbGeAlD": 0.010776600025442453,
     "CcSEcCtD": 0.05476242944214118,
     "CrCbGaD": 0.0011995214970534282
   },
+  "n_trials": 0.0,
   "prediction": 0.00106620542458446,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

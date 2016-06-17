@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.040962288686606,
   "metapath_contribution": {
     "CbGbCtD": 0.23085407833862248,
     "CbGeAlD": 0.3395021949199096,
     "CcSEcCtD": 0.42604224294225146,
     "CrCbGaD": 0.003601483799216435
   },
+  "n_trials": 0.0,
   "prediction": 0.0006545907353121321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

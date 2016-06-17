@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.508452535760728,
   "metapath_contribution": {
     "CbGaD": 0.3234112792540107,
     "CbGbCtD": 0.3571602950103732,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1368644649050923,
     "CrCbGaD": 0.003445822860648958
   },
+  "n_trials": 0.0,
   "prediction": 0.0025275968061507803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

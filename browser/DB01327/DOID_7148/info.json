@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.5233612904844469,
     "CbGbCtD": 0.40093814664965555,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0691710683749885,
     "CrCbGaD": 0.001410736815753731
   },
+  "n_trials": 0.0,
   "prediction": 0.0036284752304037798,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

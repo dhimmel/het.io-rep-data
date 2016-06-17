@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.29778933680103997,
   "metapath_contribution": {
     "CbGaD": 0.10360534682417437,
     "CbGbCtD": 0.7831463536015735,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.084672401410112,
     "CrCbGaD": 0.0015260954144946035
   },
+  "n_trials": 0.0,
   "prediction": 0.00238044091895052,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

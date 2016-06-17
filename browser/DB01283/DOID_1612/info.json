@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01283",
   "compound_name": "Lumiracoxib",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.48764629388816605,
   "metapath_contribution": {
     "CbGaD": 0.44008546879687876,
     "CbGbCtD": 0.4290965212146965,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1253227146259402,
     "CrCbGaD": 0.005364587179375621
   },
+  "n_trials": 0.0,
   "prediction": 0.00228832502271568,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

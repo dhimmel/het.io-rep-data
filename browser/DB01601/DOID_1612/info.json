@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01601",
   "compound_name": "Lopinavir",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.312743823146944,
   "metapath_contribution": {
     "CbGaD": 0.3582337940809656,
     "CbGbCtD": 0.5644181077733595,
     "CbGpPWpGaD": 0.07144775765494753,
     "CrCbGaD": 0.005900340490727279
   },
+  "n_trials": 0.0,
   "prediction": 0.00165626240153322,
   "status": 0,
   "training_prediction": 0.00912551880308491

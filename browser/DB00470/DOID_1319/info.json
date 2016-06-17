@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.5889057355060094,
     "CbGbCtD": 0.26554303022827813,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05409381731881876,
     "CcSEcCtD": 0.0807829558108505
   },
+  "n_trials": 1.0,
   "prediction": 0.00436045106394736,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

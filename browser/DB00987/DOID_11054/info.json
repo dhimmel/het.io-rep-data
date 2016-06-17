@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.16302640671102223,
     "CbGbCtD": 0.16637858635149383,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.120531444582283,
     "CrCtD": 0.20750470139672655
   },
+  "n_trials": 0.0,
   "prediction": 0.067569764566728,
   "status": 0,
   "training_prediction": 0.23693603388609302

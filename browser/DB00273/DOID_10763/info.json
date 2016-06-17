@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00273",
   "compound_name": "Topiramate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.10396425281803533,
     "CbGbCtD": 0.35502376360739524,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10973522982727277,
     "CtDrD": 0.34125606367302325
   },
+  "n_trials": 1.0,
   "prediction": 0.0238004733093236,
   "status": 0,
   "training_prediction": 0.39621650714006

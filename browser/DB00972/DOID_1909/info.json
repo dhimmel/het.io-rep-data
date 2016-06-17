@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.294117647058824,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.343953185955787,
   "metapath_contribution": {
     "CbGaD": 0.1801311976885569,
     "CbGbCtD": 0.5861496079328451,
     "CbGpPWpGaD": 0.108262585487656,
     "CcSEcCtD": 0.12545660889094212
   },
+  "n_trials": 0.0,
   "prediction": 0.00114438010982149,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

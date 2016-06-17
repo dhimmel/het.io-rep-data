@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01074",
   "compound_name": "Perhexiline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.1963406669158284,
     "CbGbCtD": 0.46989084126083336,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15226469968261527,
     "CcSEcCtD": 0.1358075232644352
   },
+  "n_trials": 0.0,
   "prediction": 0.00522219127312736,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

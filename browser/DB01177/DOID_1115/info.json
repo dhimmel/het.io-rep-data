@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGbCtD": 0.1299402573684715,
     "CbGdCrCtD": 0.0007084629660986059,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.1798280943889802,
     "CrCtD": 0.28047155378894184
   },
+  "n_trials": 1.0,
   "prediction": 0.0524306279072093,
   "status": 0,
   "training_prediction": 0.15709267375976801

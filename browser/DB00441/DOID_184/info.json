@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGbCtD": 0.20134715010733206,
     "CbGdCrCtD": 0.0011746496892508472,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.00034420058151152753,
     "CtDrD": 0.6260260360660342
   },
+  "n_trials": 9.0,
   "prediction": 0.0034806280131092,
   "status": 0,
   "training_prediction": 0.0194039377530861

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.764629388816645,
   "metapath_contribution": {
     "CbGdCrCtD": 0.002641947449457039,
     "CbGeAlD": 0.037280079215034255,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09242829082593873,
     "CtDrD": 0.8514497148634563
   },
+  "n_trials": 0.0,
   "prediction": 0.0020993069388009,
   "status": 0,
   "training_prediction": 0.0034228759439705898

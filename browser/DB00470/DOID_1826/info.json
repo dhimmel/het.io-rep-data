@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGaD": 0.3776162355642457,
     "CbGbCtD": 0.4066477808717021,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13099155716061664,
     "CrCbGaD": 0.0034968945043737
   },
+  "n_trials": 0.0,
   "prediction": 0.00986526537317971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

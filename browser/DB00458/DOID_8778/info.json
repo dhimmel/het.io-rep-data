@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.46228868660598205,
   "metapath_contribution": {
     "CbGaD": 0.6971698208287828,
     "CbGeAlD": 0.07252676838272326,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11320240623568059,
     "CrCbGaD": 0.0020331673134305716
   },
+  "n_trials": 0.0,
   "prediction": 0.0014919093719659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

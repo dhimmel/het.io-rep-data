@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00378",
   "compound_name": "Dydrogesterone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.612483745123537,
   "metapath_contribution": {
     "CbGaD": 0.8694051465412971,
     "CbGeAlD": 0.0961707621547168,
     "CbGpPWpGaD": 0.0298928021822069,
     "CrCbGaD": 0.0045312891217792915
   },
+  "n_trials": 0.0,
   "prediction": 0.00175753441910146,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

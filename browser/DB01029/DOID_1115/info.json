@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.6490776578422368,
     "CbGbCtD": 0.14009281748904084,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.074814801791688,
     "CcSEcCtD": 0.0924086077165516
   },
+  "n_trials": 0.0,
   "prediction": 0.00361756076302676,
   "status": 0,
   "training_prediction": 0.0120812825800202

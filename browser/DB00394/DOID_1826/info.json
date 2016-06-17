@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00394",
   "compound_name": "Beclomethasone",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.150845253576073,
   "metapath_contribution": {
     "CbGaD": 0.42198923686040307,
     "CbGbCtD": 0.3937393747199595,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1743705580860678,
     "CrCbGaD": 0.006287681602010129
   },
+  "n_trials": 0.0,
   "prediction": 0.00147731099275944,
   "status": 0,
   "training_prediction": 0.0119870426214855

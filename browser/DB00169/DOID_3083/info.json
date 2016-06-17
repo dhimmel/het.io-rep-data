@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGaD": 0.6026008658929074,
     "CbGbCtD": 0.2751422891172886,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.08781566466338661,
     "CrCbGaD": 0.0050408178825004845
   },
+  "n_trials": 5.0,
   "prediction": 0.0033728842693299997,
   "status": 0,
   "training_prediction": 0.0166978452068762

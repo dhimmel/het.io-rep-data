@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.584525357607282,
   "metapath_contribution": {
     "CbGaD": 0.5542513244043968,
     "CbGbCtD": 0.2502663999624604,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11256122193642834,
     "CrCbGaD": 0.001472235579178871
   },
+  "n_trials": 0.0,
   "prediction": 0.00295273483701214,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

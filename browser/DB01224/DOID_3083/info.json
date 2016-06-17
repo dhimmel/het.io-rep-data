@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.5858257477243171,
   "metapath_contribution": {
     "CbGaD": 0.23478188057029029,
     "CbGbCtD": 0.43965212511928553,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1953510353226332,
     "CrCbGaD": 0.004749803069826938
   },
+  "n_trials": 0.0,
   "prediction": 0.00242694891826893,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

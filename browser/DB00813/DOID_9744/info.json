@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.37256176853055895,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.01358450950868961,
     "CcSEcCtD": 0.09790516352400999,
     "CrCbGaD": 0.006082273609032469,
     "CrCrCtD": 0.8824280533582679
   },
+  "n_trials": 0.0,
   "prediction": 0.00121702827853755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

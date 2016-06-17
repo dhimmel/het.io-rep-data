@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8511053315994799,
   "metapath_contribution": {
     "CbGaD": 0.1581103124604987,
     "CbGbCtD": 0.09036740195308536,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2606823306942046,
     "CrCtD": 0.3547483466912028
   },
+  "n_trials": 1.0,
   "prediction": 0.0118235273612088,
   "status": 0,
   "training_prediction": 0.0554853639326781

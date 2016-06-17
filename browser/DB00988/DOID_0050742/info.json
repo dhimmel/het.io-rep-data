@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.701560468140442,
   "metapath_contribution": {
     "CbGaD": 0.7706886494710354,
     "CbGeAlD": 0.04649557385262134,
     "CbGpPWpGaD": 0.18078039844329358,
     "CrCbGaD": 0.002035378233049704
   },
+  "n_trials": 2.0,
   "prediction": 0.0019481360213432601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGbCtD": 0.5912815592584075,
     "CbGdCrCtD": 0.003749370294871572,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11300136340824583,
     "CcSEcCtD": 0.14056170379749325
   },
+  "n_trials": 11.0,
   "prediction": 0.00412586255483364,
   "status": 0,
   "training_prediction": 0.0219932677019606

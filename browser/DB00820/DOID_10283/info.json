@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00820",
   "compound_name": "Tadalafil",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8361508452535759,
   "metapath_contribution": {
     "CbGaD": 0.2501039798232834,
     "CbGbCtD": 0.37468109103291936,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07106663460489077,
     "CcSEcCtD": 0.24071358250756023
   },
+  "n_trials": 0.0,
   "prediction": 0.00526779688345344,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

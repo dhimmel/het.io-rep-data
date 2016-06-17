@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.402470741222367,
   "metapath_contribution": {
     "CbGaD": 0.5242298399207425,
     "CbGbCtD": 0.32025238780015136,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12096238937667816,
     "CrCbGaD": 0.00429693018920104
   },
+  "n_trials": 0.0,
   "prediction": 0.00150233900702755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

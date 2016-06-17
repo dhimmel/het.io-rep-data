@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00951",
   "compound_name": "Isoniazid",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.6049171399938552,
     "CbGbCtD": 0.1859679686068215,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09649138240655772,
     "CcSEcCtD": 0.0688234484776914
   },
+  "n_trials": 0.0,
   "prediction": 0.007508681307254391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

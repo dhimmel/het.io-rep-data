@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.662548764629389,
   "metapath_contribution": {
     "CbGaD": 0.5828786584089168,
     "CbGbCtD": 0.07246225766146931,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2237391322904187,
     "CrCbGaD": 0.0014119077240182345
   },
+  "n_trials": 0.0,
   "prediction": 0.0018557470712412699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

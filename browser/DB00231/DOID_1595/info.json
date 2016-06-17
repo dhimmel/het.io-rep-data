@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.16970091027308198,
   "metapath_contribution": {
-    "CbGeAlD": 0.8102939040381084,
-    "CbGpPWpGaD": 0.14126531119931307,
-    "CrCbGaD": 0.04844078476257838
+    "CbGeAlD": 0.8102939040381086,
+    "CbGpPWpGaD": 0.1412653111993131,
+    "CrCbGaD": 0.04844078476257839
   },
+  "n_trials": 0.0,
   "prediction": 0.00102878574501144,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

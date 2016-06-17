@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.568270481144343,
   "metapath_contribution": {
     "CbGaD": 0.471055906159873,
     "CbGbCtD": 0.2902002709361633,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12246993694629307,
     "CrCbGaD": 0.003825474577469688
   },
+  "n_trials": 0.0,
   "prediction": 0.00152993566949102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

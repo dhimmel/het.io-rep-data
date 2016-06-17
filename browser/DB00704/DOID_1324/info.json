@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00704",
   "compound_name": "Naltrexone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.822496749024707,
   "metapath_contribution": {
     "CbGaD": 0.4778024039411494,
     "CbGbCtD": 0.3370014669415212,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.139527756116747,
     "CrCbGaD": 0.0017955620047651272
   },
+  "n_trials": 0.0,
   "prediction": 0.0036933448726895897,
   "status": 0,
   "training_prediction": 0.0125563931374414

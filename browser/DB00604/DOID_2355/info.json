@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.631339401820546,
   "metapath_contribution": {
     "CbGaD": 0.6111716346847271,
     "CbGeAlD": 0.1808688689863578,
     "CbGpPWpGaD": 0.20733854988477093,
     "CrCbGaD": 0.000620946444144178
   },
+  "n_trials": 0.0,
   "prediction": 0.00145160475681705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

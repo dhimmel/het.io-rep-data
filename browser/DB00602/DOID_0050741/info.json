@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGbCtD": 0.5832410371806404,
     "CbGeAlD": 0.08525938147197908,
     "CbGpPWpGaD": 0.13339308016452942,
     "CcSEcCtD": 0.19810650118285114
   },
+  "n_trials": 0.0,
   "prediction": 0.00464141931252484,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

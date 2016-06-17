@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.0221066319895969,
   "metapath_contribution": {
     "CbGbCtD": 0.7619550512560482,
     "CbGeAlD": 0.08376964490691227,
     "CcSEcCtD": 0.15327078226923666,
     "CrCbGaD": 0.0010045215678029385
   },
+  "n_trials": 3.0,
   "prediction": 0.000701241873922029,
   "status": 0,
   "training_prediction": 0.0034071802034127898

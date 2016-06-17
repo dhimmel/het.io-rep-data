@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01226",
   "compound_name": "Mivacurium",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.505851755526658,
   "metapath_contribution": {
     "CbGaD": 0.6510658009924236,
     "CbGeAlD": 0.03416828861186019,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.25122623469197153,
     "CrCbGaD": 0.0018100772965974502
   },
+  "n_trials": 0.0,
   "prediction": 0.00238598892102442,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

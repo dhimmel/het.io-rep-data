@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.17647058823529396,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.133289986996099,
   "metapath_contribution": {
     "CbGbCtD": 0.524064835643335,
     "CbGeAlD": 0.06416589607471201,
     "CcSEcCtD": 0.40595883022762463,
     "CrCbGaD": 0.005810438054328309
   },
+  "n_trials": 0.0,
   "prediction": 0.000953518408887067,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

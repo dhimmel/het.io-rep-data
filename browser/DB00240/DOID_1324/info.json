@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.00715214564369311,
   "metapath_contribution": {
     "CbGbCtD": 0.7920435669801832,
     "CbGpPWpGaD": 0.10422087633748406,
     "CcSEcCtD": 0.09034464773581068,
     "CrCbGaD": 0.013390908946522114
   },
+  "n_trials": 1.0,
   "prediction": 0.00037307963149894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

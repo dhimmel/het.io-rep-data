@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.797139141742523,
   "metapath_contribution": {
     "CbGaD": 0.5967828851413702,
     "CbGeAlD": 0.18093247556666625,
     "CbGpPWpGaD": 0.22228463929196352
   },
+  "n_trials": 0.0,
   "prediction": 0.00237578489164163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

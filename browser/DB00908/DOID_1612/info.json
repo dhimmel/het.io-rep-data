@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7223667100130041,
   "metapath_contribution": {
     "CbGaD": 0.32811564599798965,
     "CbGbCtD": 0.42526216903228803,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12673803306204726,
     "CrCbGaD": 0.00329927793085782
   },
+  "n_trials": 0.0,
   "prediction": 0.0037726743628278,
   "status": 0,
   "training_prediction": 0.0205894861517303

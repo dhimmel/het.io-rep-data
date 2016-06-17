@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.203511053315995,
   "metapath_contribution": {
     "CbGaD": 0.18906045118312548,
     "CbGbCtD": 0.6738862712286003,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12136515180771047,
     "CrCbGaD": 0.0018059409434580589
   },
+  "n_trials": 0.0,
   "prediction": 0.00175689862908558,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

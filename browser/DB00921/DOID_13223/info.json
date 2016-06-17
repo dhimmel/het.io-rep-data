@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.422626788036411,
   "metapath_contribution": {
-    "CbGeAlD": 0.5466702020611327,
-    "CbGpPWpGaD": 0.1596514365444145,
-    "CrCbGaD": 0.29367836139445286
+    "CbGeAlD": 0.5466702020611326,
+    "CbGpPWpGaD": 0.15965143654441447,
+    "CrCbGaD": 0.2936783613944528
   },
+  "n_trials": 0.0,
   "prediction": 0.00120672331965032,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

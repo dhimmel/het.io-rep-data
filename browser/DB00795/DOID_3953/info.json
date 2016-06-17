@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.6788036410923279,
   "metapath_contribution": {
     "CbGaD": 0.6938973520743048,
     "CbGeAlD": 0.1165756989835431,
     "CbGpPWpGaD": 0.18398580140537332,
     "CrCbGaD": 0.00554114753677879
   },
+  "n_trials": 0.0,
   "prediction": 0.00161883809193717,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

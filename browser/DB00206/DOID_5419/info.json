@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00206",
   "compound_name": "Reserpine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGaD": 0.7780685640926747,
     "CbGeAlD": 0.044485428355768075,
     "CbGpPWpGaD": 0.16814134212204793,
     "CrCbGaD": 0.009304665429509243
   },
+  "n_trials": 0.0,
   "prediction": 0.0023711200204734897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

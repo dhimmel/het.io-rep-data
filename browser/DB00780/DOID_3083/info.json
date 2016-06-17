@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.38751625487646296,
   "metapath_contribution": {
     "CbGbCtD": 0.5797905771232623,
     "CbGeAlD": 0.06339047941743572,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2192531691733513,
     "CrCbGaD": 0.0064496845123256765
   },
+  "n_trials": 0.0,
   "prediction": 0.00183399312764165,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

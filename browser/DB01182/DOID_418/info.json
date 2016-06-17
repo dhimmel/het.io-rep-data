@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.842002600780234,
   "metapath_contribution": {
-    "CbGbCtD": 0.37057496137655616,
-    "CcSEcCtD": 0.20619380804125836,
-    "CrCbGaD": 0.0017374297826937537,
-    "CrCrCtD": 0.4214938007994919
+    "CbGbCtD": 0.37057496137655604,
+    "CcSEcCtD": 0.2061938080412583,
+    "CrCbGaD": 0.0017374297826937533,
+    "CrCrCtD": 0.4214938007994918
   },
+  "n_trials": 0.0,
   "prediction": 0.00287821009549511,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

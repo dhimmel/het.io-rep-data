@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGbCtD": 0.5791269225059458,
     "CbGdCrCtD": 0.005557514891231528,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.049412678013448515,
     "CcSEcCtD": 0.25090880046826014
   },
+  "n_trials": 4.0,
   "prediction": 0.00263984150950857,
   "status": 0,
   "training_prediction": 0.00883635713307904

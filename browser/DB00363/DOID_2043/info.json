@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.34200260078023403,
   "metapath_contribution": {
-    "CbGaD": 0.7939636194177531,
-    "CbGeAlD": 0.0780009525734777,
-    "CbGpPWpGaD": 0.12654314388904198,
-    "CrCbGaD": 0.0014922841197272517
+    "CbGaD": 0.7939636194177532,
+    "CbGeAlD": 0.07800095257347771,
+    "CbGpPWpGaD": 0.126543143889042,
+    "CrCbGaD": 0.001492284119727252
   },
+  "n_trials": 0.0,
   "prediction": 0.00126573133222303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

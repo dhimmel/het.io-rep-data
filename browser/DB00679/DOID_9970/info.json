@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.596879063719116,
   "metapath_contribution": {
     "CbGaD": 0.28659273274288294,
     "CbGbCtD": 0.3385692611997008,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0028920146297700725,
     "CrCrCtD": 0.1981647779879016
   },
+  "n_trials": 0.0,
   "prediction": 0.00302248309705091,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

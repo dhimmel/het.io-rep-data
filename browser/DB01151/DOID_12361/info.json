@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.579973992197659,
   "metapath_contribution": {
     "CbGbCtD": 0.8149357921726895,
     "CbGeAlD": 0.013306573269850734,
     "CbGpPWpGaD": 0.002207069090612152,
     "CcSEcCtD": 0.1695505654668477
   },
+  "n_trials": 0.0,
   "prediction": 0.00165601166490623,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

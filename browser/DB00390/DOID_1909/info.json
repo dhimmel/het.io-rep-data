@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.124837451235371,
   "metapath_contribution": {
     "CbGaD": 0.2350833008510458,
     "CbGbCtD": 0.30964622635647937,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.06323247084059286,
     "CrCbGaD": 0.0010894160346771912
   },
+  "n_trials": 2.0,
   "prediction": 0.000753244443376966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

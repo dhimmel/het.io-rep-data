@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00352",
   "compound_name": "Tioguanine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.2550580110165861,
     "CbGeAlD": 0.0086971368687041,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.2717241373944703,
     "CrCtD": 0.43486261553718036
   },
+  "n_trials": 0.0,
   "prediction": 0.0687675344271506,
   "status": 0,
   "training_prediction": 0.10759209898424599

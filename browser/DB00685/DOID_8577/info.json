@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00685",
   "compound_name": "Trovafloxacin",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.21976592977893397,
   "metapath_contribution": {
     "CbGdCrCtD": 0.016686323201822607,
     "CcSEcCtD": 0.9641867423414481,
     "CrCbGaD": 0.019126934456729288
   },
+  "n_trials": 0.0,
   "prediction": 0.00137176493916074,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

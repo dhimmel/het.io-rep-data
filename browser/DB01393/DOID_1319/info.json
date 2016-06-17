@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.28543563068920697,
   "metapath_contribution": {
-    "CbGbCtD": 0.3486898499901042,
+    "CbGbCtD": 0.34868984999010416,
     "CbGdCrCtD": 0.010237981255761919,
-    "CbGeAlD": 0.10411791914248146,
-    "CbGpPWpGaD": 0.27686198322414324,
-    "CcSEcCtD": 0.24457504779488057,
-    "CrCbGaD": 0.015517218592628671
+    "CbGeAlD": 0.10411791914248145,
+    "CbGpPWpGaD": 0.2768619832241432,
+    "CcSEcCtD": 0.24457504779488054,
+    "CrCbGaD": 0.01551721859262867
   },
+  "n_trials": 0.0,
   "prediction": 0.00115738498290836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00222",
   "compound_name": "Glimepiride",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.41983140416353754,
     "CbGeAlD": 0.011918956795348164,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.004191756694015083,
     "CtDrD": 0.5172972680012488
   },
+  "n_trials": 0.0,
   "prediction": 0.007540290693124029,
   "status": 0,
   "training_prediction": 0.00341076489013217

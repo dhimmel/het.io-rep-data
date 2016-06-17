@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.18775009450297275,
     "CbGbCtD": 0.5889153574108456,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17215271430572043,
     "CrCbGaD": 0.0037130269552529183
   },
+  "n_trials": 0.0,
   "prediction": 0.00307463396748518,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00509",
   "compound_name": "Dextrothyroxine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.656046814044213,
   "metapath_contribution": {
     "CbGbCtD": 0.5991343928525853,
     "CbGdCrCtD": 0.007379242963535536,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18631286059300337,
     "CrCbGaD": 0.0022280715706177044
   },
+  "n_trials": 0.0,
   "prediction": 0.00236477731810171,
   "status": 0,
   "training_prediction": 0.00687155914283554

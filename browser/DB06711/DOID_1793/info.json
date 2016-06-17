@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06711",
   "compound_name": "Naphazoline",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.358257477243173,
   "metapath_contribution": {
     "CbGdCrCtD": 0.008077332909591882,
     "CbGpPWpGaD": 0.07472883955515859,
     "CcSEcCtD": 0.16430974033874385,
     "CrCrCtD": 0.7528840871965057
   },
+  "n_trials": 0.0,
   "prediction": 0.00142594620395289,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

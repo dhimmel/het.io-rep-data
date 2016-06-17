@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.35630689206762,
   "metapath_contribution": {
     "CbGdCrCtD": 0.009555159782753028,
     "CbGeAlD": 0.27996870226716275,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3264171397546209,
     "CrCbGaD": 0.017697827520988908
   },
+  "n_trials": 0.0,
   "prediction": 0.00139005069258369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

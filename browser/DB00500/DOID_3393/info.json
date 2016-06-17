@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.1663997776208765,
     "CbGbCtD": 0.09458303994351351,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.001139457883135795,
     "CrCrCtD": 0.15596583651599835
   },
+  "n_trials": 0.0,
   "prediction": 0.0190146164518438,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

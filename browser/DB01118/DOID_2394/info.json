@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.40377113133940207,
   "metapath_contribution": {
     "CbGaD": 0.21547684588077032,
     "CbGbCtD": 0.4016781050423564,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23925824635927836,
     "CrCbGaD": 0.007161051546166899
   },
+  "n_trials": 0.0,
   "prediction": 0.00128822311544384,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

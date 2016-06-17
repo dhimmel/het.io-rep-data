@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.4427725021861626,
     "CbGbCtD": 0.387983399812514,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07309477083814879,
     "CrCbGaD": 0.0022747371009857976
   },
+  "n_trials": 0.0,
   "prediction": 0.00277653866852997,
   "status": 0,
   "training_prediction": 0.00273902078479289

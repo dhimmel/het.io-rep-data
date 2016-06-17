@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00526",
   "compound_name": "Oxaliplatin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.126946299160906,
     "CbGbCtD": 0.315123567336792,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.019953351658202948,
     "CiPCiCtD": 0.5375200008338046
   },
+  "n_trials": 3.0,
   "prediction": 0.0706330026739168,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

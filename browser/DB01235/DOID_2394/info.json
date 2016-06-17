@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGbCtD": 0.23047831447477138,
     "CbGdCrCtD": 0.0010970150245759448,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.25311785758189764,
     "CrCtD": 0.43739002307723845
   },
+  "n_trials": 0.0,
   "prediction": 0.00694033699470301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

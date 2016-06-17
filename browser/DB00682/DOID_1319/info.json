@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.698309492847854,
   "metapath_contribution": {
     "CbGaD": 0.7070176105442667,
     "CbGbCtD": 0.24212580740787795,
     "CbGpPWpGaD": 0.04425859202770357,
     "CrCbGaD": 0.006597990020151653
   },
+  "n_trials": 0.0,
   "prediction": 0.0020832514339174197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

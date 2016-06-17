@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00310",
   "compound_name": "Chlorthalidone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGeAlD": 0.088901293332764,
     "CbGpPWpGaD": 0.02932338334620051,
     "CrCbGaD": 0.00039194337690386143,
     "CtDrD": 0.8813833799441316
   },
+  "n_trials": 0.0,
   "prediction": 0.00287403348666655,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

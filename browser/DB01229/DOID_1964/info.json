@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1964",
   "disease_name": "fallopian tube cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGeAlD": 0.0840380166816597,
     "CtDrD": 0.9159619833183403
   },
+  "n_trials": 70.0,
   "prediction": 0.00356761186251581,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

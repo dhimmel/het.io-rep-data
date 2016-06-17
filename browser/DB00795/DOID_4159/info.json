@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.09350101386479709,
     "CbGbCtD": 0.11747255306641718,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.18155803539976764,
     "CrCtD": 0.5456554121631827
   },
+  "n_trials": 0.0,
   "prediction": 0.0167772616901365,
   "status": 0,
   "training_prediction": 0.0969237916653756

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00388",
   "compound_name": "Phenylephrine",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.273081924577373,
   "metapath_contribution": {
     "CbGbCtD": 0.07287562587206935,
     "CbGpPWpGaD": 0.1058136318500947,
     "CcSEcCtD": 0.7937660858594309,
     "CrCbGaD": 0.027544656418405027
   },
+  "n_trials": 0.0,
   "prediction": 0.00117033001591654,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.7886866059817951,
   "metapath_contribution": {
     "CbGbCtD": 0.3378726626166011,
     "CbGeAlD": 0.02498740002368206,
     "CcSEcCtD": 0.13438147054404662,
     "CpDpCtD": 0.5027584668156703
   },
+  "n_trials": 0.0,
   "prediction": 0.00330982777496763,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

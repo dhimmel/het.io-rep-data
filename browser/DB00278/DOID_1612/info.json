@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00278",
   "compound_name": "Argatroban",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.835500650195058,
   "metapath_contribution": {
     "CbGaD": 0.2346330191721135,
     "CbGbCtD": 0.4662880852070889,
     "CbGpPWpGaD": 0.09726417949087621,
     "CcSEcCtD": 0.20181471612992136
   },
+  "n_trials": 0.0,
   "prediction": 0.00527061445178143,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

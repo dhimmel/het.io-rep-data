@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7223667100130041,
   "metapath_contribution": {
     "CbGaD": 0.6957777232659391,
     "CbGeAlD": 0.08089136817095084,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11142415208557309,
     "CrCbGaD": 0.004184140972650423
   },
+  "n_trials": 0.0,
   "prediction": 0.00212004459395836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00335",
   "compound_name": "Atenolol",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGaD": 0.4520679138673942,
     "CbGbCtD": 0.34429701491163406,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13518490813093367,
     "CrCbGaD": 0.005562235513601779
   },
+  "n_trials": 0.0,
   "prediction": 0.00278176291833135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

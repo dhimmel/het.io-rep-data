@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.289336801040312,
   "metapath_contribution": {
     "CbGaD": 0.661185055471371,
     "CbGeAlD": 0.043179321246155436,
     "CbGpPWpGaD": 0.17537645440363203,
     "CcSEcCtD": 0.12025916887884164
   },
+  "n_trials": 32.0,
   "prediction": 0.00104229430486353,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

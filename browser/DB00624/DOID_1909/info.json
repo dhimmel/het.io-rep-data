@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.130689206762029,
   "metapath_contribution": {
     "CbGaD": 0.40704096428510134,
     "CbGbCtD": 0.3930862025830602,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09707942904483573,
     "CrCbGaD": 0.0041389484799229095
   },
+  "n_trials": 0.0,
   "prediction": 0.00076121249209945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

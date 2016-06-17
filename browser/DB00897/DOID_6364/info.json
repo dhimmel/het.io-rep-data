@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00897",
   "compound_name": "Triazolam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.591027308192458,
   "metapath_contribution": {
     "CbGbCtD": 0.478818528011088,
     "CbGeAlD": 0.06549314707435511,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0009264224287267959,
     "CrCrCtD": 0.19998522975253244
   },
+  "n_trials": 0.0,
   "prediction": 0.00278294189415407,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

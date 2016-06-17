@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.533159947984395,
   "metapath_contribution": {
     "CbGbCtD": 0.5984084433412928,
     "CbGeAlD": 0.007183221557397525,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.24669315253937094,
     "CrCbGaD": 0.00021621000928825587
   },
+  "n_trials": 0.0,
   "prediction": 0.0025545982829787896,
   "status": 0,
   "training_prediction": 0.0225373022985072

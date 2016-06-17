@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01582",
   "compound_name": "Sulfamethazine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.235370611183355,
   "metapath_contribution": {
     "CbGaD": 0.7266372161386169,
     "CbGbCtD": 0.21200491317293535,
     "CbGpPWpGaD": 0.05278565815791789,
     "CrCbGaD": 0.008572212530529918
   },
+  "n_trials": 0.0,
   "prediction": 0.00139073676176691,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

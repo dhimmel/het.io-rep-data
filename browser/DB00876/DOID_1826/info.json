@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00876",
   "compound_name": "Eprosartan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.32250024097454993,
     "CbGbCtD": 0.4231608625361783,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19247355030911875,
     "CrCbGaD": 0.0007338465663861366
   },
+  "n_trials": 0.0,
   "prediction": 0.00494255781226783,
   "status": 0,
   "training_prediction": 0.0238065621974986

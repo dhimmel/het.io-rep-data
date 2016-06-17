@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00796",
   "compound_name": "Candesartan",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.568920676202861,
   "metapath_contribution": {
     "CbGbCtD": 0.5702743217252856,
     "CbGeAlD": 0.03408515533607688,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2511767354634085,
     "CrCbGaD": 0.00777698595119093
   },
+  "n_trials": 0.0,
   "prediction": 0.00176138318231277,
   "status": 0,
   "training_prediction": 0.00451253600229724

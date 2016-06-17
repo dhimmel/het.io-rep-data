@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.263979193758127,
   "metapath_contribution": {
     "CbGbCtD": 0.7054551041372387,
     "CbGeAlD": 0.10464959576742096,
     "CbGpPWpGaD": 0.1854706067605501,
     "CrCbGaD": 0.0044246933347902055
   },
+  "n_trials": 0.0,
   "prediction": 0.00108981431445479,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

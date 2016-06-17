@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.76853055916775,
   "metapath_contribution": {
     "CbGaD": 0.44632527869149674,
     "CbGbCtD": 0.4049627923309436,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11079067331225931,
     "CrCbGaD": 0.0031587826876026625
   },
+  "n_trials": 0.0,
   "prediction": 0.0035815872992481603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

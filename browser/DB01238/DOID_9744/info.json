@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.746423927178153,
   "metapath_contribution": {
     "CbGaD": 0.667656355823978,
     "CbGeAlD": 0.05974793405696995,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12023673341784785,
     "CrCbGaD": 0.0015112755613612885
   },
+  "n_trials": 0.0,
   "prediction": 0.0019250652577687,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

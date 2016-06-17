@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.29565116807062325,
     "CbGbCtD": 0.3436117248266349,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003229151402742294,
     "CrCrCtD": 0.3014202229253428
   },
+  "n_trials": 0.0,
   "prediction": 0.00583127432410796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

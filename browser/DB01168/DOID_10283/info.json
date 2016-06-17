@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01168",
   "compound_name": "Procarbazine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.18023620549161498,
     "CbGbCtD": 0.23751707454900073,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.4731940121194007,
     "CrCbGaD": 0.0009460091599955684
   },
+  "n_trials": 0.0,
   "prediction": 0.0171969186646689,
   "status": 0,
   "training_prediction": 0.11066697904594099

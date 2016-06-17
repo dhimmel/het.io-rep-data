@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.16631249323397712,
     "CbGbCtD": 0.16233896861764038,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.00015863941061886665,
     "CtDrD": 0.1960378313283157
   },
+  "n_trials": 0.0,
   "prediction": 0.0619169824167353,
   "status": 0,
   "training_prediction": 0.24332331178600503

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.6137841352405721,
   "metapath_contribution": {
     "CbGbCtD": 0.5566939436814553,
     "CbGeAlD": 0.30073606546257897,
     "CbGpPWpGaD": 0.111475970087411,
     "CcSEcCtD": 0.031094020768554664
   },
+  "n_trials": 0.0,
   "prediction": 0.0018911659429652397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

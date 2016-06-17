@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01587",
   "compound_name": "Ketazolam",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGaD": 0.9143057504853335,
     "CbGeAlD": 0.0002736487812268481,
     "CbGpPWpGaD": 0.0768612491268845,
     "CrCbGaD": 0.008559351606555179
   },
+  "n_trials": 0.0,
   "prediction": 0.0018652601306404699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

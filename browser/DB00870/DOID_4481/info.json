@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGbCtD": 0.6550912799006537,
     "CbGdCrCtD": 0.005686050901576847,
     "CcSEcCtD": 0.10622335184687307,
     "CrCrCtD": 0.2329993173508963
   },
+  "n_trials": 0.0,
   "prediction": 0.00215231985730547,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

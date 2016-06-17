@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04574",
   "compound_name": "Estropipate",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.7623578373816953,
     "CbGbCtD": 0.2186282241852847,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.008421719289999862,
     "CrCbGaD": 0.007008482263401325
   },
+  "n_trials": 0.0,
   "prediction": 0.00289563396249594,
   "status": 0,
   "training_prediction": 0.0013064586626708

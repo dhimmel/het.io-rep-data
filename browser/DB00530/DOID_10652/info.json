@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.611833550065019,
   "metapath_contribution": {
     "CbGaD": 0.2169046927145635,
     "CbGbCtD": 0.26488114858821993,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.23385080568438477,
     "CrCbGaD": 0.0022459756328702227
   },
+  "n_trials": 0.0,
   "prediction": 0.0021750306860205,
   "status": 0,
   "training_prediction": 0.005971057771724029

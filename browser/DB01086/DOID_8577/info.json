@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.637841352405722,
   "metapath_contribution": {
     "CbGaD": 0.2549361969354849,
     "CbGbCtD": 0.028741841253752454,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004565488270969042,
     "CrCrCtD": 0.6275066003528609
   },
+  "n_trials": 0.0,
   "prediction": 0.00252758331002113,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

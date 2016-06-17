@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
     "CbGbCtD": 0.24013566233244477,
     "CbGeAlD": 0.051120144603870606,
     "CbGpPWpGaD": 0.011586942837708968,
     "CcSEcCtD": 0.6971572502259756
   },
+  "n_trials": 0.0,
   "prediction": 0.00188964586303348,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGbCtD": 0.2200632382857661,
     "CcSEcCtD": 0.08878687730339124,
     "CiPCiCtD": 0.6911498844108427
   },
+  "n_trials": 5.0,
   "prediction": 0.00580837460025851,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

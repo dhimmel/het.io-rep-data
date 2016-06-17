@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06702",
   "compound_name": "Fesoterodine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
     "CbGaD": 0.17137250218813316,
     "CbGbCtD": 0.5099058390186019,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1881431436447068,
     "CrCbGaD": 0.0021406941639168643
   },
+  "n_trials": 1.0,
   "prediction": 0.0039295855535559,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

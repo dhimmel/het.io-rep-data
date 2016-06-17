@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.7124170395266215,
     "CbGbCtD": 0.032201962683646494,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14095890982259107,
     "CrCbGaD": 0.001794415614493441
   },
+  "n_trials": 0.0,
   "prediction": 0.00326171929070288,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.26072821846554,
   "metapath_contribution": {
     "CbGbCtD": 0.1980482407385271,
     "CbGeAlD": 0.07429463987554119,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.5121193633026523,
     "CrCbGaD": 0.004374519247740743
   },
+  "n_trials": 0.0,
   "prediction": 0.00145704000776046,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

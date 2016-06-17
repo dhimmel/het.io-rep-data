@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.6504687329851457,
     "CbGbCtD": 0.028752072423319255,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16171869871590894,
     "CrCbGaD": 0.006087817209747648
   },
+  "n_trials": 0.0,
   "prediction": 0.00103607792164025,
   "status": 0,
   "training_prediction": 0.00247080678773593

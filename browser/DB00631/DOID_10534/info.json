@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGbCtD": 0.0753220399355341,
     "CbGdCrCtD": 0.0011891800045119832,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0021961899164025184,
     "CrCrCtD": 0.20365374028749095
   },
+  "n_trials": 0.0,
   "prediction": 0.00573840437614321,
   "status": 0,
   "training_prediction": 0.0125814131319802

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00455",
   "compound_name": "Loratadine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.882314694408322,
   "metapath_contribution": {
     "CbGaD": 0.4081952419712989,
     "CbGbCtD": 0.42588741885007847,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1532329105851851,
     "CrCbGaD": 0.0002446626223268102
   },
+  "n_trials": 0.0,
   "prediction": 0.00276458514787688,
   "status": 0,
   "training_prediction": 0.0148246156776989

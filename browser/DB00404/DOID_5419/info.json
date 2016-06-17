@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGaD": 0.7355800563914255,
     "CbGeAlD": 0.062082876962310525,
     "CbGpPWpGaD": 0.19311726046197294,
     "CrCbGaD": 0.009219806184291022
   },
+  "n_trials": 0.0,
   "prediction": 0.00163219574421699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

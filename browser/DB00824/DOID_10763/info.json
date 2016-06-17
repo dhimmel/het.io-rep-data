@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00824",
   "compound_name": "Enprofylline",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.35370611183354994,
   "metapath_contribution": {
     "CbGaD": 0.7916293261593882,
     "CbGeAlD": 0.02819116884645498,
     "CbGpPWpGaD": 0.173054256732739,
     "CrCbGaD": 0.0071252482614178395
   },
+  "n_trials": 0.0,
   "prediction": 0.0027017258211271397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

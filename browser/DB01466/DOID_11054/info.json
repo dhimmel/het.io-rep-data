@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01466",
   "compound_name": "Ethylmorphine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.5123674559510388,
     "CbGbCtD": 0.4702747868162432,
     "CbGpPWpGaD": 0.015157283654871024,
     "CrCbGaD": 0.0022004735778469696
   },
+  "n_trials": 0.0,
   "prediction": 0.00542068087965847,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

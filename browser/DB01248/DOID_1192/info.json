@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.07262393722173707,
     "CbGbCtD": 0.3558561076662417,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0006750152697741515,
     "CtDrD": 0.4053111469742932
   },
+  "n_trials": 2.0,
   "prediction": 0.0061493452203996,
   "status": 0,
   "training_prediction": 0.0876091121505583

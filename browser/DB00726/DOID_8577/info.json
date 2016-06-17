@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.37711313394018203,
   "metapath_contribution": {
     "CbGaD": 0.24943824449389745,
     "CbGbCtD": 0.43549826033911515,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16460859056993896,
     "CrCbGaD": 0.006728942531125119
   },
+  "n_trials": 0.0,
   "prediction": 0.0017800119476120398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

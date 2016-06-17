@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.535760728218466,
   "metapath_contribution": {
     "CbGbCtD": 0.721480800905734,
     "CbGeAlD": 0.0566541494676317,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19838990738277354,
     "CrCbGaD": 0.00040812670333242575
   },
+  "n_trials": 0.0,
   "prediction": 0.0025701807648030603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

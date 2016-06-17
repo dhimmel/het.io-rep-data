@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.520156046814044,
   "metapath_contribution": {
     "CbGaD": 0.44365109356939525,
     "CbGbCtD": 0.34528249331711774,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.179436781374625,
     "CrCbGaD": 0.0037701215880449885
   },
+  "n_trials": 0.0,
   "prediction": 0.0022186959808644102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

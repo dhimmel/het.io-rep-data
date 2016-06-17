@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00728",
   "compound_name": "Rocuronium",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGbCtD": 0.8143442570149458,
     "CbGeAlD": 0.07909601417907501,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08344874059941443,
     "CrCbGaD": 0.0007389276348742739
   },
+  "n_trials": 0.0,
   "prediction": 0.00263660607511565,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01140",
   "compound_name": "Cefadroxil",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.192457737321196,
   "metapath_contribution": {
     "CbGbCtD": 0.24792647048482214,
     "CbGdCrCtD": 0.013719885497799768,
     "CbGeAlD": 0.14679372486550282,
     "CcSEcCtD": 0.5915599191518753
   },
+  "n_trials": 0.0,
   "prediction": 0.0010158054437653,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

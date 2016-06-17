@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.0975292587776333,
   "metapath_contribution": {
     "CbGbCtD": 0.5825108908385801,
     "CbGdCrCtD": 0.004214054885993742,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.13812527608586553,
     "CcSEcCtD": 0.25589732938401405
   },
+  "n_trials": 0.0,
   "prediction": 0.0010019967357835198,
   "status": 0,
   "training_prediction": 0.0333200408202208

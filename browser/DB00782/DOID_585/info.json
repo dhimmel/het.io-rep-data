@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00782",
   "compound_name": "Propantheline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.9526091167056162,
     "CbGeAlD": 0.015300100560209263,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0019089216491992155,
     "CrCbGaD": 0.00444823336855424
   },
+  "n_trials": 0.0,
   "prediction": 0.00439348071835874,
   "status": 0,
   "training_prediction": 0.00198389612827947

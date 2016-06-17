@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.160598179453836,
   "metapath_contribution": {
     "CbGaD": 0.20292439819456237,
     "CbGbCtD": 0.4596859858350599,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1544131722857696,
     "CrCbGaD": 0.0010491680130779372
   },
+  "n_trials": 0.0,
   "prediction": 0.000932442017964561,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

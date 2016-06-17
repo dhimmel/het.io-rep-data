@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.3387438417635539,
     "CbGbCtD": 0.4365801075940556,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1061225694687896,
     "CrCbGaD": 0.0005761778019587618
   },
+  "n_trials": 0.0,
   "prediction": 0.0103841477737669,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

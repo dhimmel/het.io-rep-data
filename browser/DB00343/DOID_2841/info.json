@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00343",
   "compound_name": "Diltiazem",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.676853055916775,
   "metapath_contribution": {
     "CbGbCtD": 0.49409981803439806,
     "CbGpPWpGaD": 0.009555231984289748,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0007556897069581264,
     "CrCrCtD": 0.32634735975179
   },
+  "n_trials": 0.0,
   "prediction": 0.00345848225563637,
   "status": 0,
   "training_prediction": 0.0231638201806892

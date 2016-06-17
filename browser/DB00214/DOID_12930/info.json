@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00214",
   "compound_name": "Torasemide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.14546091085709006,
     "CbGeAlD": 0.0009305634522881321,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.5708390642145421,
     "CpDpCtD": 0.26544603960820895
   },
+  "n_trials": 0.0,
   "prediction": 0.0485479320881803,
   "status": 0,
   "training_prediction": 0.0479216511327074

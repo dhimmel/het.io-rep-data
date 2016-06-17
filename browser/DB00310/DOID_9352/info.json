@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00310",
   "compound_name": "Chlorthalidone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6222366710013001,
   "metapath_contribution": {
     "CbGeAlD": 0.025311452723295266,
     "CbGpPWpGaD": 0.05889811258686205,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0027738741419805427,
     "CtDrD": 0.7376452103353569
   },
+  "n_trials": 0.0,
   "prediction": 0.00311063582365098,
   "status": 0,
   "training_prediction": 0.0136112665342842

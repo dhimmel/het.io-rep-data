@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01064",
   "compound_name": "Isoprenaline",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.29973992197659305,
   "metapath_contribution": {
     "CbGaD": 0.21518167657523976,
     "CbGbCtD": 0.09501052347309277,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0035252892484160608,
     "CrCrCtD": 0.21519458515136272
   },
+  "n_trials": 0.0,
   "prediction": 0.00162836862774019,
   "status": 0,
   "training_prediction": 0.00897296291771056

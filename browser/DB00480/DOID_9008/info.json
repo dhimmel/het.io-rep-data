@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGbCtD": 0.5875197175408398,
     "CbGdCrCtD": 0.00633798139909045,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2650808440823912,
     "CrCbGaD": 0.009822193818299818
   },
+  "n_trials": 0.0,
   "prediction": 0.0027425890509776103,
   "status": 0,
   "training_prediction": 0.00552693810125837

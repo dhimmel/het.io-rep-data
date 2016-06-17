@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01621",
   "compound_name": "Pipotiazine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.289336801040312,
   "metapath_contribution": {
     "CbGaD": 0.3837368898538382,
     "CbGbCtD": 0.4479417087748368,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0036278650571328233,
     "CrCrCtD": 0.07023819345809273
   },
+  "n_trials": 0.0,
   "prediction": 0.0015883681667132699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8459037711313391,
   "metapath_contribution": {
     "CbGaD": 0.49782166711663395,
     "CbGbCtD": 0.3735324247787761,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07174108514946843,
     "CrCbGaD": 0.00012184997640969242
   },
+  "n_trials": 0.0,
   "prediction": 0.0035960117182354603,
   "status": 0,
   "training_prediction": 0.0116328764361828

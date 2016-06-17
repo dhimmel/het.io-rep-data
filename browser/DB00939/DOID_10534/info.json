@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00939",
   "compound_name": "Meclofenamic acid",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.6250796262031165,
     "CbGbCtD": 0.23656975044364395,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07224223430788326,
     "CrCbGaD": 0.004705505306797203
   },
+  "n_trials": 0.0,
   "prediction": 0.00290068577869925,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

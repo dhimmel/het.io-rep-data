@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.4382314694408321,
   "metapath_contribution": {
     "CbGaD": 0.4382601940513097,
     "CbGbCtD": 0.28430506929874483,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13101163072019237,
     "CrCbGaD": 0.008094931398296406
   },
+  "n_trials": 0.0,
   "prediction": 0.00139657590541836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

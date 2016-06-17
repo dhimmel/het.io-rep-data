@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8777633289986999,
   "metapath_contribution": {
     "CbGaD": 0.1654182329607152,
     "CbGbCtD": 0.533035617450635,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07692893571780106,
     "CcSEcCtD": 0.16771006451338646
   },
+  "n_trials": 0.0,
   "prediction": 0.0072088239048943,
   "status": 0,
   "training_prediction": 0.0620083084943832

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00154",
   "compound_name": "Dihomo-gamma-linolenic acid",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.39503369728551524,
-    "CbGeAlD": 0.005921291298168584,
-    "CbGpPWpGaD": 4.2665205617786495e-05,
-    "CrCbGaD": 0.0036047722857699424,
-    "CrCrCtD": 0.5953975739249285
+    "CbGeAlD": 0.005921291298168583,
+    "CbGpPWpGaD": 4.266520561778649e-05,
+    "CrCbGaD": 0.003604772285769942,
+    "CrCrCtD": 0.5953975739249284
   },
+  "n_trials": 0.0,
   "prediction": 0.00259826758178837,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

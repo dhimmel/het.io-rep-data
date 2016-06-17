@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.586475942782835,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0023402673680037733,
     "CbGeAlD": 0.04694147825929329,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.8570380934308569,
     "CrCbGaD": 0.0020531358072341955
   },
+  "n_trials": 0.0,
   "prediction": 0.00213802875643596,
   "status": 0,
   "training_prediction": 0.006215366459278121

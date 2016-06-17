@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.27307484537222326,
-    "CbGbCtD": 0.24763194270154917,
-    "CbGeAlD": 0.012020314085054041,
-    "CbGpPWpGaD": 0.0536142732465406,
-    "CcSEcCtD": 0.04729135914492209,
-    "CpDpCtD": 0.36485876422139774,
-    "CrCbGaD": 0.0015085012283130267
+    "CbGbCtD": 0.24763194270154923,
+    "CbGeAlD": 0.012020314085054044,
+    "CbGpPWpGaD": 0.05361427324654061,
+    "CcSEcCtD": 0.0472913591449221,
+    "CpDpCtD": 0.36485876422139785,
+    "CrCbGaD": 0.001508501228313027
   },
+  "n_trials": 0.0,
   "prediction": 0.0109461947353092,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

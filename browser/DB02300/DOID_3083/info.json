@@ -1,8 +1,10 @@
 {
   "compound_id": "DB02300",
   "compound_name": "Calcipotriol",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.5663198959687911,
   "metapath_contribution": {
     "CbGaD": 0.8171190347538873,
     "CbGeAlD": 0.053087846052924735,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.017300712839573344,
     "CrCbGaD": 0.009586507031550095
   },
+  "n_trials": 0.0,
   "prediction": 0.00234986277825569,
   "status": 0,
   "training_prediction": 0.00517308249548886

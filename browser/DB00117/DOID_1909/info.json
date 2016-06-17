@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00117",
   "compound_name": "L-Histidine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.449934980494148,
   "metapath_contribution": {
-    "CbGeAlD": 0.46360275064442785,
-    "CbGpPWpGaD": 0.5203835104805021,
+    "CbGeAlD": 0.4636027506444278,
+    "CbGpPWpGaD": 0.520383510480502,
     "CrCbGaD": 0.016013738875070144
   },
+  "n_trials": 0.0,
   "prediction": 0.001329228377181,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

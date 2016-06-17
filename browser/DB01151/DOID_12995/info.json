@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGaD": 0.846949618476649,
     "CbGeAlD": 0.030230979701020313,
     "CbGpPWpGaD": 0.11489505524781012,
     "CrCbGaD": 0.007924346574520673
   },
+  "n_trials": 0.0,
   "prediction": 0.00205135530664457,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.5884265279583879,
   "metapath_contribution": {
     "CbGaD": 0.6091906373564892,
     "CbGeAlD": 0.1437271528961869,
     "CbGpPWpGaD": 0.2347840327635852,
     "CrCbGaD": 0.012298176983738732
   },
+  "n_trials": 2.0,
   "prediction": 0.0017771494018853698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

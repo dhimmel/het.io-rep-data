@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00151",
   "compound_name": "L-Cysteine",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.249674902470741,
   "metapath_contribution": {
-    "CbGeAlD": 0.5132121371100365,
-    "CbGpPWpGaD": 0.4720629068812047,
-    "CrCbGaD": 0.014724956008758597
+    "CbGeAlD": 0.5132121371100367,
+    "CbGpPWpGaD": 0.4720629068812048,
+    "CrCbGaD": 0.014724956008758599
   },
+  "n_trials": 0.0,
   "prediction": 0.00112696611722898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

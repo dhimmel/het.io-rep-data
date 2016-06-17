@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01045",
   "compound_name": "Rifampicin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.4661960096801483,
     "CbGbCtD": 0.43217484228164793,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0772714421062296,
     "CrCbGaD": 0.0027159100700338977
   },
+  "n_trials": 0.0,
   "prediction": 0.0031685470857746698,
   "status": 0,
   "training_prediction": 0.00578073496652507

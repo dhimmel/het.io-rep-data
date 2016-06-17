@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00380",
   "compound_name": "Dexrazoxane",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGbCtD": 0.8338340572876223,
     "CbGdCrCtD": 0.0069151587067344195,
     "CbGpPWpGaD": 0.015173139151006175,
     "CcSEcCtD": 0.14407764485463714
   },
+  "n_trials": 8.0,
   "prediction": 0.0036637508398336704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

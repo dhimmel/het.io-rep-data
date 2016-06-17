@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01028",
   "compound_name": "Methoxyflurane",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.5736914594567596,
     "CbGbCtD": 0.26424457373513394,
     "CbGeAlD": 0.13721764114881238,
     "CbGpPWpGaD": 0.024846325659294014
   },
+  "n_trials": 0.0,
   "prediction": 0.00459527698761407,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

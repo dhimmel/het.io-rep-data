@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01252",
   "compound_name": "Mitiglinide",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.552665799739922,
   "metapath_contribution": {
     "CbGbCtD": 0.2267113090064243,
     "CbGdCrCtD": 0.008836780847259054,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0011954656781235841,
     "CrCrCtD": 0.689616166015949
   },
+  "n_trials": 0.0,
   "prediction": 0.00159230049348307,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

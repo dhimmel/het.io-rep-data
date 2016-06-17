@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.384265279583875,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.004857491966635741,
-    "CbGeAlD": 0.0544135932222857,
-    "CbGpPWpGaD": 0.04339378794997784,
-    "CcSEcCtD": 0.1719607167297052,
-    "CpDpCtD": 0.7253744101313956
+    "CbGdCrCtD": 0.0048574919666357404,
+    "CbGeAlD": 0.05441359322228569,
+    "CbGpPWpGaD": 0.043393787949977836,
+    "CcSEcCtD": 0.17196071672970517,
+    "CpDpCtD": 0.7253744101313955
   },
+  "n_trials": 0.0,
   "prediction": 0.0018481214031818801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.07545205667939738,
     "CbGbCtD": 0.29714067083935497,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1053909613215409,
     "CpDpCtD": 0.41484718928998277
   },
+  "n_trials": 1.0,
   "prediction": 0.00332732546090174,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

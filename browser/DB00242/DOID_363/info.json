@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.48348442315307216,
     "CbGbCtD": 0.22004252485921863,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11112673783284126,
     "CrCbGaD": 0.001627163341456726
   },
+  "n_trials": 0.0,
   "prediction": 0.0031484508896119103,
   "status": 0,
   "training_prediction": 0.00954405112753647

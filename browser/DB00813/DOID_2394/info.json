@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.41742522756827005,
   "metapath_contribution": {
     "CbGaD": 0.29952518766504477,
     "CbGbCtD": 0.43045180941750916,
     "CcSEcCtD": 0.26924818663748745,
     "CrCbGaD": 0.0007748162799585532
   },
+  "n_trials": 0.0,
   "prediction": 0.00131103076198564,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

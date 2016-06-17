@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.03497539604452607,
     "CbGbCtD": 0.20312456978790328,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2147998819090282,
     "CrCtD": 0.2661602811520889
   },
+  "n_trials": 0.0,
   "prediction": 0.0125590510544247,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

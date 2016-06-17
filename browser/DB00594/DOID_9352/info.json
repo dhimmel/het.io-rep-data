@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00594",
   "compound_name": "Amiloride",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.3567022026406252,
     "CbGeAlD": 0.042466834400457815,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09749587683328029,
     "CtDrD": 0.4301556473833293
   },
+  "n_trials": 3.0,
   "prediction": 0.0116053591329642,
   "status": 0,
   "training_prediction": 0.0493618761492827

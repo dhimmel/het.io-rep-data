@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.26853055916775,
   "metapath_contribution": {
     "CbGaD": 0.18551995961446585,
     "CbGbCtD": 0.05581737535080016,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0031545308825051094,
     "CrCrCtD": 0.5920422599232982
   },
+  "n_trials": 0.0,
   "prediction": 0.00204509380392191,
   "status": 0,
   "training_prediction": 0.00996120150502706

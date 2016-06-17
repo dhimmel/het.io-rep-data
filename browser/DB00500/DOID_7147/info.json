@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGbCtD": 0.3298133104999892,
     "CbGdCrCtD": 0.003302846958024347,
@@ -12,6 +14,5 @@
     "CpDpCtD": 0.6313568330907
   },
   "prediction": 0.0026929827126909197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

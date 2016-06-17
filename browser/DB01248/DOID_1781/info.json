@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGbCtD": 0.314487693173114,
     "CbGdCrCtD": 0.0023065676279818213,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10008388989639894,
     "CtDrD": 0.49355104932047367
   },
+  "n_trials": 0.0,
   "prediction": 0.0041617517932527204,
   "status": 0,
   "training_prediction": 0.0278383308710544

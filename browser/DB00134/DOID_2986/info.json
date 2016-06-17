@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGaD": 0.782248140112411,
     "CbGeAlD": 0.07447974249041474,
     "CbGpPWpGaD": 0.13928804357821237,
     "CrCbGaD": 0.003984073818961897
   },
+  "n_trials": 0.0,
   "prediction": 0.00381367371838534,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

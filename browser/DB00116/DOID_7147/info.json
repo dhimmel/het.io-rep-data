@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGbCtD": 0.18646348554365932,
     "CbGdCrCtD": 0.001676794254798735,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.319871644118223,
     "CrCtD": 0.48357837806634585
   },
+  "n_trials": 0.0,
   "prediction": 0.012259106117648,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

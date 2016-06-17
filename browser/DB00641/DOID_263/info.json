@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7197659297789342,
   "metapath_contribution": {
     "CbGaD": 0.11074434663956588,
     "CbGbCtD": 0.6190874409124791,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15234232637437836,
     "CrCbGaD": 0.0007695871850323334
   },
+  "n_trials": 1.0,
   "prediction": 0.00253899486083592,
   "status": 0,
   "training_prediction": 0.0122494901810111

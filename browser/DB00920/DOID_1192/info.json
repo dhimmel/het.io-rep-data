@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.49674902470741206,
   "metapath_contribution": {
     "CbGbCtD": 0.6942177325887826,
     "CbGeAlD": 0.04460333515770013,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16329900936178818,
     "CrCbGaD": 0.0003801160007167422
   },
+  "n_trials": 0.0,
   "prediction": 0.00171892905170489,
   "status": 0,
   "training_prediction": 0.0047029515547450705

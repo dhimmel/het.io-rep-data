@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00247",
   "compound_name": "Methysergide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGaD": 0.40916509843426296,
     "CbGbCtD": 0.186417054358539,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1973072200937114,
     "CrCbGaD": 0.002339464372018397
   },
+  "n_trials": 0.0,
   "prediction": 0.0030377885807516803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.166449934980494,
   "metapath_contribution": {
     "CbGbCtD": 0.6317885806879942,
     "CbGpPWpGaD": 0.07960379861945067,
     "CcSEcCtD": 0.28770441858888474,
     "CrCbGaD": 0.0009032021036704595
   },
+  "n_trials": 0.0,
   "prediction": 0.0008781230062820099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

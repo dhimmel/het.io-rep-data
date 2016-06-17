@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
     "CbGaD": 0.5778354185045039,
     "CbGbCtD": 0.2653193024994778,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.026007283197490877,
     "CrCbGaD": 0.00016000844435731386
   },
+  "n_trials": 0.0,
   "prediction": 0.00384371472096707,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

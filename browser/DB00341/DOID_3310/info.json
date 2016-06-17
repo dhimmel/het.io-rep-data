@@ -1,15 +1,18 @@
 {
   "compound_id": "DB00341",
   "compound_name": "Cetirizine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
-    "CbGbCtD": 0.11839642867956895,
-    "CcSEcCtD": 0.04856444942533626,
+    "CbGbCtD": 0.11839642867956897,
+    "CcSEcCtD": 0.04856444942533627,
     "CiPCiCtD": 0.39164169963225004,
-    "CrCrCtD": 0.13077382384477873,
+    "CrCrCtD": 0.13077382384477876,
     "CtDrD": 0.3106235984180659
   },
+  "n_trials": 3.0,
   "prediction": 0.0427984036637808,
   "status": 0,
   "training_prediction": 0.132978065922387

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.28868551621972016,
     "CbGbCtD": 0.20823022128481883,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.001846095392808817,
     "CtDrD": 0.3598545349178236
   },
+  "n_trials": 2.0,
   "prediction": 0.017572053014323998,
   "status": 0,
   "training_prediction": 0.33726558112506105

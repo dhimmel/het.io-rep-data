@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.48130544747942683,
     "CbGbCtD": 0.24005327960251896,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09336416876517892,
     "CcSEcCtD": 0.11020529216070345
   },
+  "n_trials": 0.0,
   "prediction": 0.00616581812223762,
   "status": 0,
   "training_prediction": 0.030149273952759997

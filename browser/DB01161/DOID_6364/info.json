@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.8360695115542595,
     "CbGeAlD": 0.04342882964476967,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09566245538994805,
     "CrCbGaD": 0.009098973971091868
   },
+  "n_trials": 0.0,
   "prediction": 0.0029993327354791302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

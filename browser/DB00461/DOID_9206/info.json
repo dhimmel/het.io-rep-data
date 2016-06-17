@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
     "CbGaD": 0.6650121314056423,
     "CbGbCtD": 0.0979883865202428,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20592849547347347,
     "CrCbGaD": 0.0004582273670488578
   },
+  "n_trials": 0.0,
   "prediction": 0.0027960430678044103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

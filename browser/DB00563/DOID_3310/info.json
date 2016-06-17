@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGbCtD": 0.22085040001689557,
     "CbGdCrCtD": 0.003639957036436063,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16430427198380532,
     "CtDrD": 0.5673427594849035
   },
+  "n_trials": 1.0,
   "prediction": 0.00478317143211839,
   "status": 0,
   "training_prediction": 0.16421445566942403

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01062",
   "compound_name": "Oxybutynin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.397919375812744,
   "metapath_contribution": {
     "CbGbCtD": 0.5758154036195826,
     "CbGpPWpGaD": 0.06088336113005715,
     "CcSEcCtD": 0.36330123525036034
   },
+  "n_trials": 1.0,
   "prediction": 0.0016202041796966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

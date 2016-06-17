@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.311443433029909,
   "metapath_contribution": {
     "CbGbCtD": 0.7028349917518713,
     "CbGeAlD": 0.006295172026468429,
     "CcSEcCtD": 0.2908698362216603
   },
+  "n_trials": 0.0,
   "prediction": 0.00112024656733452,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

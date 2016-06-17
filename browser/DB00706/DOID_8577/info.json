@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00706",
   "compound_name": "Tamsulosin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGbCtD": 0.11510004688169409,
     "CbGeAlD": 0.02812267236479831,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.7248009144977787,
     "CrCbGaD": 0.004252249091236952
   },
+  "n_trials": 0.0,
   "prediction": 0.00465422352993194,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

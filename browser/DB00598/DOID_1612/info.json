@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00598",
   "compound_name": "Labetalol",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.20221066319895997,
   "metapath_contribution": {
     "CbGaD": 0.45695477333448686,
     "CbGbCtD": 0.09854204635161981,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.36486907882162284,
     "CrCbGaD": 0.008177971833492975
   },
+  "n_trials": 0.0,
   "prediction": 0.0013062988552112302,
   "status": 0,
   "training_prediction": 0.007208718480520241

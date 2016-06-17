@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.611183355006502,
   "metapath_contribution": {
     "CbGaD": 0.5599502646397455,
     "CbGbCtD": 0.040412121339027676,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3067844302378155,
     "CrCbGaD": 0.0013392383464596428
   },
+  "n_trials": 2.0,
   "prediction": 0.00217116296159466,
   "status": 0,
   "training_prediction": 0.00438711748224503

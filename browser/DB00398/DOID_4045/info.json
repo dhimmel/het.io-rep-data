@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.22865818471937124,
     "CbGbCtD": 0.2603896967522691,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.001959917334834024,
     "CtDrD": 0.36399892695887603
   },
+  "n_trials": 5.0,
   "prediction": 0.0127465642239862,
   "status": 0,
   "training_prediction": 0.0457498994108602

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGbCtD": 0.3252421559547627,
     "CbGeAlD": 0.00262889583440615,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.009987995333839235,
     "CtDrD": 0.6464271552414969
   },
+  "n_trials": 0.0,
   "prediction": 0.00873983425370088,
   "status": 0,
   "training_prediction": 0.0175058668059276

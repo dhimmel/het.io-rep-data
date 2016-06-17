@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.23756232969133598,
     "CbGbCtD": 0.22279483322771312,
@@ -14,6 +16,5 @@
     "CrCbGaD": 0.0014234041725419782
   },
   "prediction": 0.0577205139375809,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

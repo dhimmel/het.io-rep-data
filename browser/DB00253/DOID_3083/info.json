@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGbCtD": 0.138161895223746,
     "CcSEcCtD": 0.02884595390939173,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.17597022435623533,
     "CrCtD": 0.24740651270152159
   },
+  "n_trials": 0.0,
   "prediction": 0.0134191433053424,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

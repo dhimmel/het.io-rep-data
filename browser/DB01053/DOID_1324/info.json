@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.203511053315995,
   "metapath_contribution": {
     "CbGbCtD": 0.5496034223131406,
     "CbGeAlD": 0.05265939707457573,
     "CbGpPWpGaD": 0.10567902397136539,
     "CcSEcCtD": 0.2920581566409184
   },
+  "n_trials": 0.0,
   "prediction": 0.00103477999921474,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

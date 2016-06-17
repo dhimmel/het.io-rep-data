@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.7253578406163425,
     "CbGeAlD": 0.10637906559506337,
     "CbGpPWpGaD": 0.16523325662665225,
     "CrCbGaD": 0.0030298371619420505
   },
+  "n_trials": 0.0,
   "prediction": 0.00215593160195475,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

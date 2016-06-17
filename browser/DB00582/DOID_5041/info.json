@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.591677503250975,
   "metapath_contribution": {
     "CbGaD": 0.5707417531145961,
     "CbGbCtD": 0.0664842946655297,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21530868916710377,
     "CrCbGaD": 0.0023543710659324965
   },
+  "n_trials": 0.0,
   "prediction": 0.00167592693859316,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

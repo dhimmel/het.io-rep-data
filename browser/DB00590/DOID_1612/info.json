@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5318595578673599,
   "metapath_contribution": {
     "CbGaD": 0.3088345458431866,
     "CbGbCtD": 0.30387396496920505,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2759707692382263,
     "CrCbGaD": 0.006231711558002773
   },
+  "n_trials": 0.0,
   "prediction": 0.0025162828349263103,
   "status": 0,
   "training_prediction": 0.013810327123562

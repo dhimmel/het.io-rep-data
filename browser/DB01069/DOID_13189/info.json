@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.04681404421326401,
   "metapath_contribution": {
     "CbGbCtD": 0.6876556208057817,
     "CcSEcCtD": 0.3123443791942183
   },
+  "n_trials": 0.0,
   "prediction": 0.00108010009136215,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

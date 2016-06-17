@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00758",
   "compound_name": "Clopidogrel",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.14709051187500938,
     "CbGbCtD": 0.5585052032536776,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19015240108124923,
     "CrCbGaD": 0.0036169908669464036
   },
+  "n_trials": 0.0,
   "prediction": 0.00409814617847266,
   "status": 0,
   "training_prediction": 0.013919038931148998

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6723016905071519,
   "metapath_contribution": {
     "CbGaD": 0.3669836596208026,
     "CbGbCtD": 0.37678677814783285,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11745378755467108,
     "CrCbGaD": 0.0032893793949855333
   },
+  "n_trials": 0.0,
   "prediction": 0.0052912209327072,
   "status": 0,
   "training_prediction": 0.0417977172136506

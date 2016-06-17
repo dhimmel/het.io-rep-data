@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.269180754226268,
   "metapath_contribution": {
     "CbGbCtD": 0.6660790827785156,
     "CbGdCrCtD": 0.0032263517030595547,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2876219604147296,
     "CrCbGaD": 0.0014391443663418315
   },
+  "n_trials": 0.0,
   "prediction": 0.00219315549427078,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

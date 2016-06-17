@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00387",
   "compound_name": "Procyclidine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.9282271313900199,
     "CbGeAlD": 0.009880360701840648,
     "CbGpPWpGaD": 0.05328422590119525,
     "CrCbGaD": 0.008608282006944145
   },
+  "n_trials": 0.0,
   "prediction": 0.00286294842095525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.841352405721717,
   "metapath_contribution": {
     "CbGaD": 0.7931338831415808,
     "CbGdCrCtD": 0.005188777315114929,
     "CbGeAlD": 0.06661045518578605,
     "CbGpPWpGaD": 0.13506688435751824
   },
+  "n_trials": 0.0,
   "prediction": 0.00382933129219593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

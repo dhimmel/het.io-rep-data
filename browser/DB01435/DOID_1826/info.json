@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.11393240672891133,
     "CbGbCtD": 0.25508239439694164,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2554479906474263,
     "CrCtD": 0.3348039386435585
   },
+  "n_trials": 0.0,
   "prediction": 0.040051656960191,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.2974147381930612,
     "CbGbCtD": 0.35223189810732686,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18961593791649362,
     "CrCbGaD": 0.0013209684593667834
   },
+  "n_trials": 0.0,
   "prediction": 0.00269451279257212,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.301690507152146,
   "metapath_contribution": {
     "CbGaD": 0.16680141852406596,
     "CbGbCtD": 0.5835190561753241,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0492836679364188,
     "CrCbGaD": 0.0051790462535642075
   },
+  "n_trials": 0.0,
   "prediction": 0.0017548881170448,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

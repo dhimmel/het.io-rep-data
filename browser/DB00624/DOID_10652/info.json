@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.279411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.0357607282184655,
   "metapath_contribution": {
     "CbGbCtD": 0.3812169062610338,
     "CbGeAlD": 0.06813901036440963,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3547033631663778,
     "CrCbGaD": 0.007638347350988002
   },
+  "n_trials": 2.0,
   "prediction": 0.000619316566520269,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

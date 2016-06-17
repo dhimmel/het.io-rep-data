@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.6872561768530561,
   "metapath_contribution": {
     "CbGeAlD": 0.32541974124982037,
     "CbGpPWpGaD": 0.3676939364557091,
     "CcSEcCtD": 0.30688632229447066
   },
+  "n_trials": 0.0,
   "prediction": 0.0024822411015279397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

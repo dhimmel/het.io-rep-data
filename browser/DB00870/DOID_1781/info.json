@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.735370611183355,
   "metapath_contribution": {
     "CbGaD": 0.5234129527733339,
     "CbGbCtD": 0.4408836302406194,
     "CbGpPWpGaD": 0.0294544576061704,
     "CrCbGaD": 0.00624895937987625
   },
+  "n_trials": 0.0,
   "prediction": 0.00208703683634532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

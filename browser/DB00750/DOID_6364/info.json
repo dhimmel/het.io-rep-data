@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00750",
   "compound_name": "Prilocaine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.6034750827293309,
     "CbGbCtD": 0.26638773300653257,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07259686667921252,
     "CrCbGaD": 0.005380308312087331
   },
+  "n_trials": 0.0,
   "prediction": 0.00722460346825596,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

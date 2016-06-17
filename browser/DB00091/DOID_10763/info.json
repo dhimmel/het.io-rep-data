@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGaD": 0.13451339858143455,
     "CbGbCtD": 0.28398411055841044,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10001998177559344,
     "CtDrD": 0.38181129762031
   },
+  "n_trials": 0.0,
   "prediction": 0.0238292041675661,
   "status": 0,
   "training_prediction": 0.45064590634745705

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.589726918075423,
   "metapath_contribution": {
     "CbGaD": 0.3788727343041911,
     "CbGbCtD": 0.4461568124948119,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12426205321350135,
     "CrCbGaD": 0.004497201202261562
   },
+  "n_trials": 0.0,
   "prediction": 0.00203411416361961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

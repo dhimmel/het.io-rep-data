@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00579",
   "compound_name": "Mazindol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.5372067844169762,
     "CbGbCtD": 0.4052237724624254,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.018371836208835333,
     "CrCbGaD": 0.005607499162236152
   },
+  "n_trials": 0.0,
   "prediction": 0.00517513221099125,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

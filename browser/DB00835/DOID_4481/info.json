@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00835",
   "compound_name": "Brompheniramine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGbCtD": 0.3161751744129577,
     "CbGeAlD": 0.00011802004783950628,
     "CrCrCtD": 0.2870706359466872,
     "CrCtD": 0.39663616959251563
   },
+  "n_trials": 0.0,
   "prediction": 0.0111049339075207,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

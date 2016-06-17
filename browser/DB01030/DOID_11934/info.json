@@ -1,15 +1,18 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.58777633289987,
   "metapath_contribution": {
-    "CbGbCtD": 0.18283847643690676,
-    "CbGeAlD": 0.0018432379843771728,
-    "CbGpPWpGaD": 0.006020591377399115,
-    "CcSEcCtD": 0.10238149179793442,
-    "CtDrD": 0.7069162024033827
+    "CbGbCtD": 0.18283847643690673,
+    "CbGeAlD": 0.0018432379843771724,
+    "CbGpPWpGaD": 0.006020591377399114,
+    "CcSEcCtD": 0.1023814917979344,
+    "CtDrD": 0.7069162024033826
   },
+  "n_trials": 2.0,
   "prediction": 0.00158179909880373,
   "status": 0,
   "training_prediction": 0.0054430440182521396

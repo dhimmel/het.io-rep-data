@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.659947984395319,
   "metapath_contribution": {
     "CbGaD": 0.5441987614216782,
     "CbGbCtD": 0.22796143656865273,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19358015186681676,
     "CrCbGaD": 0.00411725692069731
   },
+  "n_trials": 0.0,
   "prediction": 0.00232503831854934,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

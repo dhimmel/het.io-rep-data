@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.5203091765580131,
     "CbGbCtD": 0.18194803807181023,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1677596532478937,
     "CrCbGaD": 0.005323467517733923
   },
+  "n_trials": 0.0,
   "prediction": 0.00282598150670793,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.30039011703511104,
   "metapath_contribution": {
     "CbGaD": 0.591430396057763,
     "CbGbCtD": 0.10309272675634101,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09748764871520145,
     "CrCbGaD": 0.005347430973482106
   },
+  "n_trials": 0.0,
   "prediction": 0.0011094221802666901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

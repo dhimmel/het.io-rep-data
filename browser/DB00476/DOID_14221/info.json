@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.3901170351105329,
   "metapath_contribution": {
-    "CbGaD": 0.7540145669359121,
-    "CbGeAlD": 0.05144847601353543,
-    "CbGpPWpGaD": 0.057846757633824485,
-    "CcSEcCtD": 0.1347972270356429,
-    "CrCbGaD": 0.0018929723810851742
+    "CbGaD": 0.754014566935912,
+    "CbGeAlD": 0.051448476013535416,
+    "CbGpPWpGaD": 0.05784675763382447,
+    "CcSEcCtD": 0.13479722703564287,
+    "CrCbGaD": 0.0018929723810851738
   },
+  "n_trials": 0.0,
   "prediction": 0.00120849877644906,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

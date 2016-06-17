@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7698309492847851,
   "metapath_contribution": {
     "CbGaD": 0.5992941589125939,
     "CbGbCtD": 0.2843080590923138,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.045326645337790156,
     "CcSEcCtD": 0.06831999864125164
   },
+  "n_trials": 0.0,
   "prediction": 0.00358875829253908,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

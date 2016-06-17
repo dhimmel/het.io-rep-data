@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01198",
   "compound_name": "Zopiclone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.27653828623808924,
     "CbGbCtD": 0.48523581252149056,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1650664096858892,
     "CrCbGaD": 0.0007865496966929607
   },
+  "n_trials": 0.0,
   "prediction": 0.00581371101565011,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

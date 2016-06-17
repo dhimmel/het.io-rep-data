@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.7555266579973992,
   "metapath_contribution": {
     "CbGaD": 0.730342252509989,
     "CbGpPWpGaD": 0.24585089484614617,
     "CcSEcCtD": 0.015798303111725306,
     "CrCbGaD": 0.008008549532139588
   },
+  "n_trials": 0.0,
   "prediction": 0.00207264005340933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

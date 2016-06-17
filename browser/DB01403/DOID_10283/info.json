@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.18530559167750302,
   "metapath_contribution": {
     "CbGaD": 0.2456025809906212,
     "CbGbCtD": 0.3018415132405857,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1562217896449852,
     "CrCbGaD": 0.005667670171123606
   },
+  "n_trials": 0.0,
   "prediction": 0.00117064150102359,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

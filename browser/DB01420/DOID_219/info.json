@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01420",
   "compound_name": "Testosterone Propionate",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.100780234070221,
   "metapath_contribution": {
     "CbGbCtD": 0.5028657927474022,
     "CbGeAlD": 0.14643727847157242,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22236470424481838,
     "CrCbGaD": 0.003467937793895167
   },
+  "n_trials": 0.0,
   "prediction": 0.000797402615515879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
-    "CbGbCtD": 0.24008162662690272,
-    "CbGdCrCtD": 0.0013847800144090544,
-    "CbGeAlD": 0.0365759954471324,
-    "CbGpPWpGaD": 0.04544458095059438,
-    "CcSEcCtD": 0.05105596885565112,
-    "CpDpCtD": 0.3583768195126196,
-    "CrCrCtD": 0.26708022859269087
+    "CbGbCtD": 0.24008162662690266,
+    "CbGdCrCtD": 0.001384780014409054,
+    "CbGeAlD": 0.036575995447132394,
+    "CbGpPWpGaD": 0.045444580950594365,
+    "CcSEcCtD": 0.05105596885565111,
+    "CpDpCtD": 0.3583768195126195,
+    "CrCrCtD": 0.2670802285926908
   },
+  "n_trials": 0.0,
   "prediction": 0.00834401968429126,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

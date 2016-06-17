@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00449",
   "compound_name": "Dipivefrin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.16004051278606524,
     "CbGbCtD": 0.34867570720227775,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.00147486887155422,
     "CrCrCtD": 0.39287918409945105
   },
+  "n_trials": 0.0,
   "prediction": 0.0143242893940474,
   "status": 0,
   "training_prediction": 0.0903279542360017

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00547",
   "compound_name": "Desoximetasone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.10405228568757648,
     "CbGbCtD": 0.12113004731271022,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.17255401094159248,
     "CrCtD": 0.23996336960909043
   },
+  "n_trials": 0.0,
   "prediction": 0.0702001796893874,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

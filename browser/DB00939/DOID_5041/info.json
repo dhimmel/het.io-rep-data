@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00939",
   "compound_name": "Meclofenamic acid",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.76853055916775,
   "metapath_contribution": {
     "CbGaD": 0.6011251064203134,
     "CbGbCtD": 0.2773415125011727,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.018639048886973483,
     "CrCbGaD": 0.007748130362075334
   },
+  "n_trials": 0.0,
   "prediction": 0.00214020628596022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

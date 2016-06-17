@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGbCtD": 0.5807552176546843,
     "CbGdCrCtD": 0.005743602849108005,
     "CbGeAlD": 0.15310370622572197,
     "CbGpPWpGaD": 0.26039747327048574
   },
+  "n_trials": 0.0,
   "prediction": 0.00377905305832755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.28074556235254483,
     "CbGbCtD": 0.2231978692460465,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0007842090094301072,
     "CrCrCtD": 0.27417679534383926
   },
+  "n_trials": 0.0,
   "prediction": 0.01759405986227,
   "status": 0,
   "training_prediction": 0.0880891203329835

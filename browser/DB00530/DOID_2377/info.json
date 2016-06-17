@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGaD": 0.14591501014112612,
     "CbGbCtD": 0.4752013369687942,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18441346120514168,
     "CrCbGaD": 0.00026634199690157053
   },
+  "n_trials": 0.0,
   "prediction": 0.00253322459869503,
   "status": 0,
   "training_prediction": 0.0146121766126556

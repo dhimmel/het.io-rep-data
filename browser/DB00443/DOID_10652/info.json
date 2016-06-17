@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.17647058823529396,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.0156046814044213,
   "metapath_contribution": {
     "CbGaD": 0.36341134895247135,
     "CbGbCtD": 0.16457206641889974,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.29733804451539314,
     "CrCbGaD": 0.0009872623150900585
   },
+  "n_trials": 0.0,
   "prediction": 0.000513585963356922,
   "status": 0,
   "training_prediction": 0.00421372658631987

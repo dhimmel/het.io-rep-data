@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.663198959687906,
   "metapath_contribution": {
     "CbGaD": 0.9187640097861682,
     "CbGeAlD": 0.01734941151485486,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.015694975370000627,
     "CrCbGaD": 0.007455237538485606
   },
+  "n_trials": 0.0,
   "prediction": 0.00176994334332555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

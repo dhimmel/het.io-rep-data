@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01329",
   "compound_name": "Cefoperazone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.7659297789336801,
   "metapath_contribution": {
     "CbGaD": 0.4282854612756512,
     "CbGbCtD": 0.5686045247705886,
     "CrCbGaD": 0.00311001395376015
   },
+  "n_trials": 0.0,
   "prediction": 0.0021484245704025302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

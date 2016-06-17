@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01437",
   "compound_name": "Glutethimide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.439531859557867,
   "metapath_contribution": {
     "CbGaD": 0.46718278638366584,
     "CbGbCtD": 0.35033468944145246,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11208981817242168,
     "CrCbGaD": 0.004736019284364295
   },
+  "n_trials": 0.0,
   "prediction": 0.00330851009697593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

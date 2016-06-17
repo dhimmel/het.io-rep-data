@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.15224501835503235,
     "CbGbCtD": 0.20520441369053993,
@@ -16,6 +18,5 @@
     "CrCtD": 0.34918383655432167
   },
   "prediction": 0.0539472776949258,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

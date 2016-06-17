@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7600780234070219,
   "metapath_contribution": {
     "CbGaD": 0.30891829271385257,
     "CbGbCtD": 0.3960933099270882,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19110405169597888,
     "CrCbGaD": 0.0012577462244887292
   },
+  "n_trials": 0.0,
   "prediction": 0.0022416915657382302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

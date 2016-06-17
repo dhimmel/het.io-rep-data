@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:13241",
   "disease_name": "Behcet's disease",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGaD": 0.8806188377868177,
     "CbGeAlD": 0.07447983426275966,
     "CbGpPWpGaD": 0.043075536070355955,
     "CrCbGaD": 0.0018257918800667528
   },
+  "n_trials": 0.0,
   "prediction": 0.0021878614421859,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

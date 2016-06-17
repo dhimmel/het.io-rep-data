@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00751",
   "compound_name": "Epinastine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.38166449934980495,
   "metapath_contribution": {
-    "CbGaD": 0.644067856179972,
-    "CbGeAlD": 0.1756261552829961,
-    "CbGpPWpGaD": 0.1765949550503333,
-    "CrCbGaD": 0.0037110334866986045
+    "CbGaD": 0.6440678561799721,
+    "CbGeAlD": 0.17562615528299613,
+    "CbGpPWpGaD": 0.17659495505033332,
+    "CrCbGaD": 0.003711033486698605
   },
+  "n_trials": 0.0,
   "prediction": 0.00120209753904821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

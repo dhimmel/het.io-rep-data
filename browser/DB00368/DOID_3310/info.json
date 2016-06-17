@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.11053315994798402,
   "metapath_contribution": {
     "CbGbCtD": 0.7789395053782928,
     "CbGdCrCtD": 0.011852323780981788,
     "CbGpPWpGaD": 0.1457752722022236,
     "CcSEcCtD": 0.06343289863850184
   },
+  "n_trials": 0.0,
   "prediction": 0.00123906587165423,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

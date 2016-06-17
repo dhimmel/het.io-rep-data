@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.408322496749025,
   "metapath_contribution": {
     "CbGbCtD": 0.49754816916452704,
     "CbGdCrCtD": 0.0070714764936837616,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00014645507528793884,
     "CrCrCtD": 0.3123119404981066
   },
+  "n_trials": 0.0,
   "prediction": 0.00190392281340049,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

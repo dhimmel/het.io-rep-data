@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00492",
   "compound_name": "Fosinopril",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.13450436325275997,
     "CbGbCtD": 0.22490244779398272,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.22858492764216554,
     "CrCtD": 0.3701711247087427
   },
+  "n_trials": 0.0,
   "prediction": 0.0650620160586346,
   "status": 0,
   "training_prediction": 0.0303948506148283

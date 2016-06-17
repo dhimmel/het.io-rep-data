@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGbCtD": 0.5067711823093515,
     "CbGeAlD": 0.17354458409016668,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12285278820824665,
     "CrCbGaD": 0.002392897021867937
   },
+  "n_trials": 0.0,
   "prediction": 0.00150705236131771,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

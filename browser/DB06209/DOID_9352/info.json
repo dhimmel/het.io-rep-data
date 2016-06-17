@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06209",
   "compound_name": "Prasugrel",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.498699609882965,
   "metapath_contribution": {
     "CbGaD": 0.2615089166326442,
     "CbGbCtD": 0.5178115202953777,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12725358299056877,
     "CrCbGaD": 0.0019133518659330002
   },
+  "n_trials": 0.0,
   "prediction": 0.00250009361146378,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

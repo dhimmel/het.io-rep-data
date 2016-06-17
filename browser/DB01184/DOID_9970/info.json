@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.45513654096228895,
   "metapath_contribution": {
     "CbGaD": 0.23161724978168108,
     "CbGbCtD": 0.5271712233199783,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13017518577005954,
     "CrCbGaD": 0.0052887220820715284
   },
+  "n_trials": 0.0,
   "prediction": 0.00229445944760092,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

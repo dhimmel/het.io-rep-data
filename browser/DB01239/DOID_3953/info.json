@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.325097529258778,
   "metapath_contribution": {
     "CbGaD": 0.8522285199425004,
     "CbGpPWpGaD": 0.1459349354884121,
     "CrCbGaD": 0.0018365445690875723
   },
+  "n_trials": 0.0,
   "prediction": 0.00105134214871987,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.41222366710013003,
   "metapath_contribution": {
     "CbGaD": 0.4226162690423218,
     "CbGbCtD": 0.3228034902743758,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13727917197045952,
     "CrCbGaD": 0.0039474261066608
   },
+  "n_trials": 0.0,
   "prediction": 0.00156657440831315,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

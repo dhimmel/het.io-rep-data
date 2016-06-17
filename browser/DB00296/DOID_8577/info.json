@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.420026007802341,
   "metapath_contribution": {
     "CbGbCtD": 0.6495410870142949,
     "CbGpPWpGaD": 0.013966922126197942,
     "CcSEcCtD": 0.3327496075896266,
     "CrCbGaD": 0.003742383269880473
   },
+  "n_trials": 0.0,
   "prediction": 0.00187350898771064,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

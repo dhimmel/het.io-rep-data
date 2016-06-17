@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGbCtD": 0.03551923607666203,
     "CbGeAlD": 0.0086471090132749,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.04975903541048776,
     "CtDrD": 0.8948741828241646
   },
+  "n_trials": 0.0,
   "prediction": 0.00427454490467018,
   "status": 0,
   "training_prediction": 0.0032172487402042

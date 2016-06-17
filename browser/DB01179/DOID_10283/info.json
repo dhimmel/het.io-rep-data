@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.15863500884087772,
     "CbGbCtD": 0.22478478181242592,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.19322994770862992,
     "CrCtD": 0.34413910619807336
   },
+  "n_trials": 0.0,
   "prediction": 0.0218768981826172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

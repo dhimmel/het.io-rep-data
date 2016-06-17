@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01160",
   "compound_name": "Dinoprost Tromethamine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.3485045513654099,
   "metapath_contribution": {
     "CbGbCtD": 0.058678974628853305,
     "CbGeAlD": 0.12326909890337336,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.39346512688134283,
     "CrCbGaD": 8.805866228151079e-06
   },
+  "n_trials": 0.0,
   "prediction": 0.0019361525177551198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

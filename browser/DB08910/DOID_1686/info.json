@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.851755526657997,
   "metapath_contribution": {
     "CbGaD": 0.5655870947107802,
     "CbGbCtD": 0.22930138098313135,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15555746904512568,
     "CrCbGaD": 0.003651176749994493
   },
+  "n_trials": 0.0,
   "prediction": 0.00354923177628869,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

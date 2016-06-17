@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.433680104031209,
   "metapath_contribution": {
     "CbGaD": 0.8567534607970797,
     "CbGeAlD": 0.0610574308822126,
     "CbGpPWpGaD": 0.07892797527759965,
     "CrCbGaD": 0.003261133043108092
   },
+  "n_trials": 0.0,
   "prediction": 0.00139106237696928,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

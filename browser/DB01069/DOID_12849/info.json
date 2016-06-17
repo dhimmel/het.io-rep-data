@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.0754226267880364,
   "metapath_contribution": {
-    "CbGaD": 0.46104322715449325,
-    "CbGeAlD": 0.1761152612464762,
-    "CbGpPWpGaD": 0.34948548643731664,
-    "CrCbGaD": 0.013356025161713834
+    "CbGaD": 0.4610432271544933,
+    "CbGeAlD": 0.17611526124647622,
+    "CbGpPWpGaD": 0.3494854864373167,
+    "CrCbGaD": 0.013356025161713836
   },
+  "n_trials": 0.0,
   "prediction": 0.000660107445517862,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

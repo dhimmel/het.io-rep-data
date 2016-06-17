@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.7418725617685309,
   "metapath_contribution": {
     "CbGaD": 0.7514509569043717,
     "CbGeAlD": 0.06240545714793347,
     "CbGpPWpGaD": 0.18253884284155616,
     "CrCbGaD": 0.0036047431061386487
   },
+  "n_trials": 0.0,
   "prediction": 0.00217374008966849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

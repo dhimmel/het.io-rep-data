@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.636540962288687,
   "metapath_contribution": {
     "CbGaD": 0.7745314780017138,
     "CbGbCtD": 0.15829109680820175,
@@ -10,6 +12,7 @@
     "CbGeAlD": 0.056745895837616765,
     "CrCbGaD": 0.005600194626629943
   },
+  "n_trials": 0.0,
   "prediction": 0.0017544871538681401,
   "status": 0,
   "training_prediction": 0.00475988297152005

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.3439114479314746,
     "CbGbCtD": 0.4872908659875644,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07060748435312694,
     "CcSEcCtD": 0.0905468976958744
   },
+  "n_trials": 0.0,
   "prediction": 0.0113476785844761,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.304291287386216,
   "metapath_contribution": {
     "CbGaD": 0.2763017430786998,
     "CbGbCtD": 0.5711397172160692,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11343675269397527,
     "CrCbGaD": 0.00469952433943329
   },
+  "n_trials": 0.0,
   "prediction": 0.0016405377639023301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00572",
   "compound_name": "Atropine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6690507152145639,
   "metapath_contribution": {
     "CbGaD": 0.2280420551343776,
     "CbGbCtD": 0.06621450916593562,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.5124239180787766,
     "CrCbGaD": 0.000982982341660317
   },
+  "n_trials": 0.0,
   "prediction": 0.00352801182568589,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

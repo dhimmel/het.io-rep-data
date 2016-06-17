@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00232",
   "compound_name": "Methyclothiazide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.464239271781534,
   "metapath_contribution": {
     "CbGaD": 0.8056258601284361,
     "CbGeAlD": 0.021220359836413145,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10869707249561499,
     "CrCbGaD": 0.007733721950644084
   },
+  "n_trials": 0.0,
   "prediction": 0.00174742465183379,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

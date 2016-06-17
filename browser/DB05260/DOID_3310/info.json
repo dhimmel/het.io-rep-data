@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.7229451240496091,
     "CbGdCrCtD": 0.006435913766840717,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13026723300255086,
     "CcSEcCtD": 0.07781067123996033
   },
+  "n_trials": 0.0,
   "prediction": 0.0057539438090817106,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

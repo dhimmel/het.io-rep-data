@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGaD": 0.4207831000814937,
     "CbGbCtD": 0.40406767610979877,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06646767836194334,
     "CrCbGaD": 0.0026994557989130225
   },
+  "n_trials": 0.0,
   "prediction": 0.00182296554992251,
   "status": 0,
   "training_prediction": 0.005541009862588471

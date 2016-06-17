@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGaD": 0.30949063591392556,
     "CbGbCtD": 0.40825560908561614,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11325015156218297,
     "CrCbGaD": 0.0032449390636049916
   },
+  "n_trials": 0.0,
   "prediction": 0.00319966061795867,
   "status": 0,
   "training_prediction": 0.0139965945497543

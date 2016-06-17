@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01438",
   "compound_name": "Phenazopyridine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.8885719277986595,
     "CbGeAlD": 0.01924023936944564,
     "CbGpPWpGaD": 0.07227975929648268,
     "CcSEcCtD": 0.019908073535412175
   },
+  "n_trials": 0.0,
   "prediction": 0.00496032882255826,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

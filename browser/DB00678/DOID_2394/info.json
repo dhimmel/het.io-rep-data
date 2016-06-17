@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.518855656697009,
   "metapath_contribution": {
     "CbGaD": 0.2095789512076886,
     "CbGbCtD": 0.4954065865128512,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18068141648586572,
     "CrCbGaD": 0.00018911559095286329
   },
+  "n_trials": 0.0,
   "prediction": 0.00151266437255318,
   "status": 0,
   "training_prediction": 0.00815607049624447

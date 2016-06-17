@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01064",
   "compound_name": "Isoprenaline",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.4345498895381642,
     "CbGbCtD": 0.27400829822457023,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08033749127435244,
     "CrCbGaD": 0.0036884907970847333
   },
+  "n_trials": 1.0,
   "prediction": 0.0028951444897732602,
   "status": 0,
   "training_prediction": 0.0154196797299509

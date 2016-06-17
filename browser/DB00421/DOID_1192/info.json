@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.3834677028937463,
     "CbGbCtD": 0.4436569613672736,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.144451702621219,
     "CrCbGaD": 0.0018492459826489045
   },
+  "n_trials": 0.0,
   "prediction": 0.00170519432763809,
   "status": 0,
   "training_prediction": 0.007751967353440691

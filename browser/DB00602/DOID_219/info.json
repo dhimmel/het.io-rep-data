@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.31776100020572506,
     "CbGbCtD": 0.5594754816003293,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.011855501789466878,
     "CcSEcCtD": 0.0571356797660106
   },
+  "n_trials": 0.0,
   "prediction": 0.00592372224524811,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

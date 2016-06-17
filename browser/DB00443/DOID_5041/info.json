@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.0435630689206762,
   "metapath_contribution": {
     "CbGaD": 0.7121786387301556,
     "CbGbCtD": 0.05333352071040089,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.110699542187156,
     "CrCbGaD": 0.005117000840407886
   },
+  "n_trials": 0.0,
   "prediction": 0.000623444125084164,
   "status": 0,
   "training_prediction": 0.0051110128114225705

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.36117383938020586,
     "CbGbCtD": 0.30028075634693535,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0021952608232218692,
     "CrCrCtD": 0.2433115497882779
   },
+  "n_trials": 0.0,
   "prediction": 0.008270126545608441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

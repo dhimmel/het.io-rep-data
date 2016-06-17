@@ -1,8 +1,10 @@
 {
   "compound_id": "DB02187",
   "compound_name": "Equilin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.28149015668436417,
     "CbGbCtD": 0.24701088743876026,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00398234905642704,
     "CrCrCtD": 0.4017752243690759
   },
+  "n_trials": 0.0,
   "prediction": 0.00488104567660252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

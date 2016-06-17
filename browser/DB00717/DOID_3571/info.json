@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.127438231469441,
   "metapath_contribution": {
     "CbGaD": 0.37356360170539965,
     "CbGbCtD": 0.40129768860939985,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12646218572703838,
     "CrCbGaD": 0.008406039375095887
   },
+  "n_trials": 0.0,
   "prediction": 0.000799799478954875,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

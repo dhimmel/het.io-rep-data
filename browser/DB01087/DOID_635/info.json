@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.7529258777633292,
   "metapath_contribution": {
     "CbGbCtD": 0.8352658515989712,
     "CbGeAlD": 0.0793441397369195,
     "CcSEcCtD": 0.08198354648384157,
     "CrCbGaD": 0.0034064621802677737
   },
+  "n_trials": 0.0,
   "prediction": 0.00372485068351313,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

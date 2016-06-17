@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
-    "CbGaD": 0.25418587144530747,
-    "CbGbCtD": 0.42254329524272594,
-    "CbGeAlD": 0.010723229473078105,
-    "CbGpPWpGaD": 0.09353953420416389,
-    "CcSEcCtD": 0.2153285297207332,
-    "CrCbGaD": 0.003679539913991429
+    "CbGaD": 0.2541858714453074,
+    "CbGbCtD": 0.4225432952427259,
+    "CbGeAlD": 0.010723229473078104,
+    "CbGpPWpGaD": 0.09353953420416387,
+    "CcSEcCtD": 0.21532852972073319,
+    "CrCbGaD": 0.0036795399139914284
   },
+  "n_trials": 0.0,
   "prediction": 0.00209835406475106,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

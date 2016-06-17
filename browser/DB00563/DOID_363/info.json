@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.1782445076312568,
     "CbGbCtD": 0.24596603111704762,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0011093536452983276,
     "CtDrD": 0.3951115880265669
   },
+  "n_trials": 0.0,
   "prediction": 0.0101840253382088,
   "status": 0,
   "training_prediction": 0.183172030613191

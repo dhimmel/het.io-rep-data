@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00323",
   "compound_name": "Tolcapone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGbCtD": 0.07909100140481465,
     "CbGeAlD": 0.00541078369976003,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.7009905209013303,
     "CrCbGaD": 0.0019668021635595528
   },
+  "n_trials": 0.0,
   "prediction": 0.00394014267417879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

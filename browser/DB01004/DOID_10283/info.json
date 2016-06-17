@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01004",
   "compound_name": "Ganciclovir",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.40052015604681396,
   "metapath_contribution": {
     "CbGaD": 0.4360174760930608,
     "CbGbCtD": 0.300693000829906,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24123240749329355,
     "CrCbGaD": 0.0008395065950009104
   },
+  "n_trials": 0.0,
   "prediction": 0.0019340048201806801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

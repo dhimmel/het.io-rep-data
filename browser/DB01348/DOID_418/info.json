@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01348",
   "compound_name": "Spirapril",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.18464854806575637,
     "CbGbCtD": 0.20880566212090707,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2465205993536384,
     "CrCtD": 0.34151196739618656
   },
+  "n_trials": 0.0,
   "prediction": 0.0317993563505315,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

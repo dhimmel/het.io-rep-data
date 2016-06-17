@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.0201560468140442,
   "metapath_contribution": {
     "CbGaD": 0.8030351817282455,
     "CbGeAlD": 0.07942942795513679,
     "CbGpPWpGaD": 0.11065276865959342,
     "CrCbGaD": 0.0068826216570242495
   },
+  "n_trials": 0.0,
   "prediction": 0.00046118864685167803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

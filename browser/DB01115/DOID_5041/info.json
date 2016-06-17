@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.636540962288687,
   "metapath_contribution": {
     "CbGaD": 0.48051702467743196,
     "CbGbCtD": 0.2848940694624226,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07840017919202275,
     "CrCbGaD": 0.0024194476402497242
   },
+  "n_trials": 0.0,
   "prediction": 0.0017759018166227198,
   "status": 0,
   "training_prediction": 0.0021554476181297197

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.683355006501951,
   "metapath_contribution": {
     "CbGaD": 0.6111904083986774,
     "CbGeAlD": 0.1045747648918728,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15494279281961074,
     "CrCbGaD": 0.006355012030614449
   },
+  "n_trials": 0.0,
   "prediction": 0.00238210724190868,
   "status": 0,
   "training_prediction": 0.00692168720992554

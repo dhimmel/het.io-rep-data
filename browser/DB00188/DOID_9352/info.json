@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.09263415240297565,
     "CbGbCtD": 0.19301646968998812,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.18509153502472353,
     "CrCtD": 0.37611238410805714
   },
+  "n_trials": 0.0,
   "prediction": 0.0421659213309457,
   "status": 0,
   "training_prediction": 0.162955205388784

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGbCtD": 0.15399040500778083,
     "CbGeAlD": 0.23901509285330355,
     "CbGpPWpGaD": 0.5760958542000586,
     "CrCbGaD": 0.030898647938857004
   },
+  "n_trials": 0.0,
   "prediction": 0.0015424073119728301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

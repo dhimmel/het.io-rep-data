@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00207",
   "compound_name": "Azithromycin",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.595578673602081,
   "metapath_contribution": {
     "CbGaD": 0.8203127756383509,
     "CbGpPWpGaD": 0.06787338230319574,
     "CcSEcCtD": 0.10866532075473291,
     "CrCbGaD": 0.0031485213037204646
   },
+  "n_trials": 0.0,
   "prediction": 0.00167976446054382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

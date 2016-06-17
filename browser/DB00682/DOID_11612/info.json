@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.470091027308192,
   "metapath_contribution": {
     "CbGaD": 0.8166450123684612,
     "CbGeAlD": 0.05886167963996444,
     "CbGpPWpGaD": 0.12442679695292815,
     "CrCbGaD": 6.651103864615568e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00134463706092694,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

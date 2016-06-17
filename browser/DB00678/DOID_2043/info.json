@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.33724878528708985,
     "CbGbCtD": 0.28051000553018424,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08845538207967632,
     "CcSEcCtD": 0.2243394324116942
   },
+  "n_trials": 0.0,
   "prediction": 0.00222197691341863,
   "status": 0,
   "training_prediction": 0.006099437243730321

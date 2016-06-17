@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.39227518050527105,
     "CbGbCtD": 0.435155359472817,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.02929575435243074,
     "CrCbGaD": 0.0021594545942373645
   },
+  "n_trials": 0.0,
   "prediction": 0.00455310551002115,
   "status": 0,
   "training_prediction": 0.0154473622000428

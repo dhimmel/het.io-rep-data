@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.3810143042912871,
   "metapath_contribution": {
     "CbGaD": 0.12409152169109759,
     "CbGbCtD": 0.3055655915917757,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.35327918924551255,
     "CrCbGaD": 0.002618471409488519
   },
+  "n_trials": 0.0,
   "prediction": 0.0018761846197050199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

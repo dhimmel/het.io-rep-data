@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.5779044608947068,
     "CbGdCrCtD": 0.004601648748005209,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1037936222279849,
     "CcSEcCtD": 0.08939463359188013
   },
+  "n_trials": 2.0,
   "prediction": 0.004495369561217721,
   "status": 0,
   "training_prediction": 0.0184151272618935

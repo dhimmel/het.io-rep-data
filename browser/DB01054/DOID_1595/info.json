@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.8465231788506268,
     "CbGeAlD": 0.06107609720606268,
     "CbGpPWpGaD": 0.08348623283854491,
     "CrCbGaD": 0.008914491104765634
   },
+  "n_trials": 0.0,
   "prediction": 0.0030519880140793603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

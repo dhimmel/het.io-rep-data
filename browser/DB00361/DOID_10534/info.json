@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.15864759427828304,
   "metapath_contribution": {
     "CbGbCtD": 0.6591460830603916,
     "CbGeAlD": 0.04456561695763207,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16471433458176166,
     "CrCbGaD": 0.0015655682663644893
   },
+  "n_trials": 1.0,
   "prediction": 0.000835999463895547,
   "status": 0,
   "training_prediction": 0.00523511824140301

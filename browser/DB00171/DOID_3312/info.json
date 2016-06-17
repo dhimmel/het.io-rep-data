@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.750247226785999,
     "CbGeAlD": 0.10904252074481385,
     "CbGpPWpGaD": 0.1371545820662472,
     "CrCbGaD": 0.0035556704029400146
   },
+  "n_trials": 0.0,
   "prediction": 0.0025867320822676398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

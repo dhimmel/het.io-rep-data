@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.8459037711313391,
   "metapath_contribution": {
     "CbGaD": 0.35746947308528104,
     "CbGbCtD": 0.059094219519760106,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3137439620198012,
     "CrCbGaD": 0.0013223864769057166
   },
+  "n_trials": 0.0,
   "prediction": 0.00239061551412224,
   "status": 0,
   "training_prediction": 0.0065604236790861

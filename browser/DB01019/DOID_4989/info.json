@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01019",
   "compound_name": "Bethanechol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGbCtD": 0.9079598729976498,
     "CbGpPWpGaD": 0.009110988261981683,
     "CcSEcCtD": 0.0791477280181153,
     "CrCbGaD": 0.0037814107222531542
   },
+  "n_trials": 0.0,
   "prediction": 0.0038586581978125203,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

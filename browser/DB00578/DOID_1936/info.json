@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.101430429128739,
   "metapath_contribution": {
     "CbGbCtD": 0.4089610053964547,
     "CbGpPWpGaD": 0.30931758453382735,
     "CcSEcCtD": 0.277341274111839,
     "CrCbGaD": 0.0043801359578789405
   },
+  "n_trials": 0.0,
   "prediction": 0.0009074510826995939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

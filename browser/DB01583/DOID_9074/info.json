@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8407022106631992,
   "metapath_contribution": {
     "CbGaD": 0.14909035165052711,
     "CbGbCtD": 0.5865692157928515,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1354478717691815,
     "CrCbGaD": 0.00046912366505886817
   },
+  "n_trials": 0.0,
   "prediction": 0.00368148380904381,
   "status": 0,
   "training_prediction": 0.0106707983699253

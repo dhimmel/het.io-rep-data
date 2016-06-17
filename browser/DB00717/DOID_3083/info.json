@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.45838751625487606,
   "metapath_contribution": {
     "CbGaD": 0.24066858553704704,
     "CbGbCtD": 0.2680335765654556,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00020023679123863552,
     "CrCrCtD": 0.38305102829308996
   },
+  "n_trials": 0.0,
   "prediction": 0.0020275319826717603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

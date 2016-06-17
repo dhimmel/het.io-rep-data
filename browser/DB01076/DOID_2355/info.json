@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGaD": 0.6404961989445638,
     "CbGeAlD": 0.1455487484561823,
     "CbGpPWpGaD": 0.20945012400494242,
     "CrCbGaD": 0.004504928594311503
   },
+  "n_trials": 0.0,
   "prediction": 0.00112139621494853,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

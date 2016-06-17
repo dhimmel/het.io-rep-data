@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.570871261378413,
   "metapath_contribution": {
     "CbGbCtD": 0.3455696156178781,
     "CbGdCrCtD": 0.0016507682851650358,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1315857653846465,
     "CpDpCtD": 0.4725739938275674
   },
+  "n_trials": 0.0,
   "prediction": 0.00188978045794282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

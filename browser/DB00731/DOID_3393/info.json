@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.06561861524056022,
     "CbGbCtD": 0.17981437410641232,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2839656588387974,
     "CtDrD": 0.21211890112237705
   },
+  "n_trials": 0.0,
   "prediction": 0.0701758892091153,
   "status": 0,
   "training_prediction": 0.28930937063582396

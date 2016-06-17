@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01051",
   "compound_name": "Novobiocin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8166449934980491,
   "metapath_contribution": {
     "CbGaD": 0.37027022615917626,
     "CbGbCtD": 0.5611855203136884,
     "CbGpPWpGaD": 0.06854425352713517
   },
+  "n_trials": 0.0,
   "prediction": 0.00490685601405473,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

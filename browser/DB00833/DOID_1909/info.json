@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.48049414824447295,
   "metapath_contribution": {
     "CbGaD": 0.8381711907152319,
     "CbGpPWpGaD": 0.03988603418563729,
     "CcSEcCtD": 0.114579718641075,
     "CrCbGaD": 0.007363056458055808
   },
+  "n_trials": 0.0,
   "prediction": 0.00139732392564051,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

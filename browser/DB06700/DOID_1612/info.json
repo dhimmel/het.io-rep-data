@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.397919375812744,
   "metapath_contribution": {
     "CbGaD": 0.28459894626311366,
     "CbGbCtD": 0.4400680753280482,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23617554976507074,
     "CrCbGaD": 0.004068567247571874
   },
+  "n_trials": 0.0,
   "prediction": 0.00198199847075501,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

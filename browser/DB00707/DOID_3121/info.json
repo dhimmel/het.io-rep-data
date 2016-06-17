@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00707",
   "compound_name": "Porfimer",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3121",
   "disease_name": "gallbladder cancer",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGeAlD": 0.6249818594558041,
     "CbGpPWpGaD": 0.37501814054419585
   },
+  "n_trials": 3.0,
   "prediction": 0.00187970687670987,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

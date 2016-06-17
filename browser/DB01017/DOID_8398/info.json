@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.7402948668714172,
     "CbGeAlD": 0.09868997760146214,
     "CbGpPWpGaD": 0.15647246232170925,
     "CrCbGaD": 0.00454269320541127
   },
+  "n_trials": 0.0,
   "prediction": 0.00322599481820557,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

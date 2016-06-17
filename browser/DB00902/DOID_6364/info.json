@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00902",
   "compound_name": "Methdilazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.295838751625488,
   "metapath_contribution": {
     "CbGbCtD": 0.15645126399301434,
     "CbGpPWpGaD": 0.027881827065487245,
     "CrCbGaD": 0.009644167182693337,
     "CrCrCtD": 0.8060227417588051
   },
+  "n_trials": 0.0,
   "prediction": 0.00188186302197967,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

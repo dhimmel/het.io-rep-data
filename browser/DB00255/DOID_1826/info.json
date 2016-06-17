@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00255",
   "compound_name": "Diethylstilbestrol",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGaD": 0.27135741745152253,
     "CbGbCtD": 0.5831539377255058,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09760307099764684,
     "CrCbGaD": 0.0006075396215139633
   },
+  "n_trials": 0.0,
   "prediction": 0.00302527272535631,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.6321786551214152,
     "CbGbCtD": 0.21006635613478802,
     "CbGpPWpGaD": 0.1562067427375092,
     "CrCbGaD": 0.0015482460062876096
   },
+  "n_trials": 0.0,
   "prediction": 0.00170254381196179,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

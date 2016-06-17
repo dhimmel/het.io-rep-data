@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00576",
   "compound_name": "Sulfamethizole",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.533159947984395,
   "metapath_contribution": {
     "CbGaD": 0.8317905540142789,
     "CbGeAlD": 0.057588535227401066,
     "CbGpPWpGaD": 0.10977546376517967,
     "CrCbGaD": 0.0008454469931403426
   },
+  "n_trials": 0.0,
   "prediction": 0.00129187053324507,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

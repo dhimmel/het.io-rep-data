@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.565019505851756,
   "metapath_contribution": {
     "CbGbCtD": 0.48075594618430434,
     "CbGdCrCtD": 0.002232033219553753,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4227654705761303,
     "CrCbGaD": 0.0026446430204565105
   },
+  "n_trials": 0.0,
   "prediction": 0.00209913772696141,
   "status": 0,
   "training_prediction": 0.00610276170609189

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.664499349804942,
   "metapath_contribution": {
     "CbGaD": 0.8699351123317318,
     "CbGeAlD": 0.020715120013382292,
     "CbGpPWpGaD": 0.10016002810593394,
     "CrCbGaD": 0.009189739548952018
   },
+  "n_trials": 2.0,
   "prediction": 0.00174938179890871,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

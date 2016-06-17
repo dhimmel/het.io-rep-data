@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00202",
   "compound_name": "Succinylcholine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.673602080624187,
   "metapath_contribution": {
     "CbGbCtD": 0.5593069777939144,
     "CbGeAlD": 0.031243787951944577,
     "CbGpPWpGaD": 0.24744855761489243,
     "CcSEcCtD": 0.1620006766392486
   },
+  "n_trials": 0.0,
   "prediction": 0.0028690277566389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

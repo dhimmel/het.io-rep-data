@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGaD": 0.7991993178681235,
     "CbGdCrCtD": 0.004453713423486357,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15633509441155496,
     "CrCbGaD": 0.004393657557011531
   },
+  "n_trials": 0.0,
   "prediction": 0.00268334913440532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

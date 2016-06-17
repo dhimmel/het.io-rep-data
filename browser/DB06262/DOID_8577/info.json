@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06262",
   "compound_name": "Droxidopa",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.1510613377781236,
     "CbGpPWpGaD": 0.024791536099549823,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.3140474638672339,
     "CrCtD": 0.49795797201827896
   },
+  "n_trials": 0.0,
   "prediction": 0.00527593855109584,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00897",
   "compound_name": "Triazolam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.12017727910312082,
     "CbGbCtD": 0.16465407871471713,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.14457655823061344,
     "CrCtD": 0.20560802194753475
   },
+  "n_trials": 0.0,
   "prediction": 0.40158655947814004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

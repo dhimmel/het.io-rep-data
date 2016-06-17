@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.738621586475943,
   "metapath_contribution": {
     "CbGaD": 0.7406648830162532,
     "CbGbCtD": 0.04656703680149592,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.014019077365719378,
     "CrCbGaD": 0.0016449116999507532
   },
+  "n_trials": 0.0,
   "prediction": 0.00416018083988765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

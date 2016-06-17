@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGbCtD": 0.7577969301151815,
     "CbGdCrCtD": 0.004925513770199451,
     "CbGeAlD": 0.02769694689948744,
     "CcSEcCtD": 0.2095806092151316
   },
+  "n_trials": 0.0,
   "prediction": 0.00228150036659193,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

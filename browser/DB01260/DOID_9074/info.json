@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.10419819982709148,
     "CbGbCtD": 0.1212999098631218,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.17284127995294285,
     "CrCtD": 0.24159301789372892
   },
+  "n_trials": 0.0,
   "prediction": 0.0705830870536092,
   "status": 0,
   "training_prediction": 0.181453320913714

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00172",
   "compound_name": "L-Proline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.738621586475943,
   "metapath_contribution": {
     "CbGaD": 0.49699800881771095,
     "CbGbCtD": 0.2922867658078329,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.09045071604891616,
     "CbGpPWpGaD": 0.11783815669583678
   },
+  "n_trials": 0.0,
   "prediction": 0.00785370331952282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

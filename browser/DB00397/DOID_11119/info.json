@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.8536605804151911,
     "CbGeAlD": 0.029614686094455576,
     "CbGpPWpGaD": 0.11108730694477513,
     "CrCbGaD": 0.005637426545578197
   },
+  "n_trials": 0.0,
   "prediction": 0.00268409532249297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

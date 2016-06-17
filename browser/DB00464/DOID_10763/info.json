@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00464",
   "compound_name": "Sodium Tetradecyl Sulfate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.707494494234467,
     "CbGeAlD": 0.04030428799500836,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09380366023937745,
     "CrCbGaD": 0.003518216505518161
   },
+  "n_trials": 0.0,
   "prediction": 0.0035080273282387603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

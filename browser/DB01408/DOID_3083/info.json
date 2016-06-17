@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01408",
   "compound_name": "Bambuterol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.3039730289816452,
     "CbGbCtD": 0.311097890144929,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0030999390796084495,
     "CrCrCtD": 0.37568214771851277
   },
+  "n_trials": 1.0,
   "prediction": 0.0103630524577816,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

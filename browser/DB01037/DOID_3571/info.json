@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGaD": 0.399746022341941,
     "CbGbCtD": 0.32348634496825923,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17005448614754912,
     "CrCbGaD": 0.0046018239684752224
   },
+  "n_trials": 0.0,
   "prediction": 0.00197807816038303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

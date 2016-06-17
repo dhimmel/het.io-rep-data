@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08906",
   "compound_name": "Fluticasone furoate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.12985595852990545,
     "CbGbCtD": 0.19829010704417935,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.2784001891083428,
     "CrCtD": 0.35284117851058766
   },
+  "n_trials": 0.0,
   "prediction": 0.0131989913605382,
   "status": 0,
   "training_prediction": 0.04179762322031

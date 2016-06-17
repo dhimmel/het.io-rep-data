@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.9335201109970552,
     "CbGpPWpGaD": 0.0023499004420718126,
     "CcSEcCtD": 0.05511498248793622,
     "CrCbGaD": 0.009015006072936801
   },
+  "n_trials": 0.0,
   "prediction": 0.00241772762029917,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

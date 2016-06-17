@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01127",
   "compound_name": "Econazole",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.13589076723016902,
   "metapath_contribution": {
     "CbGbCtD": 0.6517941959638234,
     "CbGpPWpGaD": 0.26067210029360427,
     "CcSEcCtD": 0.07768946154006316,
     "CrCbGaD": 0.009844242202509202
   },
+  "n_trials": 0.0,
   "prediction": 0.0010393498345289,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGaD": 0.3937204863625514,
     "CbGbCtD": 0.35486251660909923,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12344120392258677,
     "CrCbGaD": 0.0011498840336703906
   },
+  "n_trials": 0.0,
   "prediction": 0.00475256067385126,
   "status": 0,
   "training_prediction": 0.0266122570227164

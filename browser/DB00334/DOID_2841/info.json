@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7197659297789342,
   "metapath_contribution": {
     "CbGaD": 0.3806811344248592,
     "CbGbCtD": 0.4383684745940459,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12964095380243643,
     "CrCbGaD": 0.0018432371072550837
   },
+  "n_trials": 0.0,
   "prediction": 0.00380574622625102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

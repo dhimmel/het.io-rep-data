@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.542912873862159,
   "metapath_contribution": {
     "CbGaD": 0.20302805741004548,
     "CbGbCtD": 0.47669954943784143,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18745744140198087,
     "CrCbGaD": 0.003560370302989355
   },
+  "n_trials": 0.0,
   "prediction": 0.00436306888817981,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

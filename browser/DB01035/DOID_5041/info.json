@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.29778933680103997,
   "metapath_contribution": {
     "CbGbCtD": 0.3536939623628845,
     "CbGeAlD": 0.2019801739468057,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0764099107880167,
     "CrCbGaD": 0.035856766682175925
   },
+  "n_trials": 0.0,
   "prediction": 0.00107003066819501,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

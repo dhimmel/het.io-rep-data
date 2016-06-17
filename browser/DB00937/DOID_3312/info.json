@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00937",
   "compound_name": "Diethylpropion",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8244473342002601,
   "metapath_contribution": {
     "CbGaD": 0.9012206178501728,
     "CbGeAlD": 0.05766849218762594,
     "CbGpPWpGaD": 0.03464110728913204,
     "CrCbGaD": 0.006469782673069179
   },
+  "n_trials": 0.0,
   "prediction": 0.0021327360293614,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

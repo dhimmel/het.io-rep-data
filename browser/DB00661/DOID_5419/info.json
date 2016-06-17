@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8029908972691808,
   "metapath_contribution": {
-    "CbGaD": 0.6983411335743775,
-    "CbGeAlD": 0.10065810029494551,
-    "CbGpPWpGaD": 0.19866468592864459,
-    "CrCbGaD": 0.0023360802020322875
+    "CbGaD": 0.6983411335743777,
+    "CbGeAlD": 0.10065810029494553,
+    "CbGpPWpGaD": 0.1986646859286446,
+    "CrCbGaD": 0.002336080202032288
   },
+  "n_trials": 0.0,
   "prediction": 0.00237075340558372,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

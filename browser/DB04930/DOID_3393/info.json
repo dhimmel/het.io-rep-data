@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04930",
   "compound_name": "Permethrin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.587126137841352,
   "metapath_contribution": {
     "CbGbCtD": 0.756978344916526,
     "CbGpPWpGaD": 0.023954818100685487,
     "CcSEcCtD": 0.2188750097727869,
     "CrCbGaD": 0.00019182721000151712
   },
+  "n_trials": 0.0,
   "prediction": 0.00281381648343825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

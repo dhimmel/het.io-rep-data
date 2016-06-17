@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00415",
   "compound_name": "Ampicillin",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.14694408322496696,
   "metapath_contribution": {
     "CbGaD": 0.4136970921822468,
     "CbGbCtD": 0.43111925722718003,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.028784274925788212,
     "CcSEcCtD": 0.11987175169782814
   },
+  "n_trials": 0.0,
   "prediction": 0.000812212550847128,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.6966223566745312,
     "CbGeAlD": 0.07548727685431456,
     "CbGpPWpGaD": 0.2211365068787284,
     "CrCbGaD": 0.0067538595924256685
   },
+  "n_trials": 0.0,
   "prediction": 0.00166898875214479,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

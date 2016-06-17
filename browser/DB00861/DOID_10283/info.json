@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.33875162548764604,
   "metapath_contribution": {
-    "CbGaD": 0.12756130211711003,
-    "CbGbCtD": 0.22360457586908108,
-    "CbGeAlD": 0.016675522312760514,
-    "CbGpPWpGaD": 0.1077768758033861,
-    "CcSEcCtD": 0.12072636690328839,
-    "CpDpCtD": 0.40035192193990526,
-    "CrCbGaD": 0.0033034350544687363
+    "CbGaD": 0.12756130211711,
+    "CbGbCtD": 0.22360457586908106,
+    "CbGeAlD": 0.01667552231276051,
+    "CbGpPWpGaD": 0.10777687580338607,
+    "CcSEcCtD": 0.12072636690328836,
+    "CpDpCtD": 0.4003519219399052,
+    "CrCbGaD": 0.003303435054468736
   },
+  "n_trials": 0.0,
   "prediction": 0.00168721840983998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

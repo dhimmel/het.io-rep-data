@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.243172951885566,
   "metapath_contribution": {
     "CbGaD": 0.47841505086427527,
     "CbGbCtD": 0.16693407951239161,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17046117356664964,
     "CrCbGaD": 0.005013412995956712
   },
+  "n_trials": 1.0,
   "prediction": 0.00141659904590293,
   "status": 0,
   "training_prediction": 0.0129824180036965

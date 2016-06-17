@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.651837489842642,
     "CbGbCtD": 0.022699161942238547,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1450393310499595,
     "CcSEcCtD": 0.11591049632503664
   },
+  "n_trials": 0.0,
   "prediction": 0.0038041175111664296,
   "status": 0,
   "training_prediction": 0.0054228858313394605

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00360",
   "compound_name": "Tetrahydrobiopterin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.2915502045080208,
     "CbGbCtD": 0.35402360626712137,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15582316598582624,
     "CcSEcCtD": 0.14739706561315363
   },
+  "n_trials": 0.0,
   "prediction": 0.0045305654170405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

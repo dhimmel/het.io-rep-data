@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01227",
   "compound_name": "Levomethadyl Acetate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.24578169724390897,
     "CbGbCtD": 0.41998414531414335,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0024952252889443092,
     "CrCrCtD": 0.27224478321352585
   },
+  "n_trials": 0.0,
   "prediction": 0.00515369808121347,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

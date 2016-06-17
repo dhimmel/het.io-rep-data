@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGaD": 0.73033142824648,
     "CbGeAlD": 0.05364230874718307,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07350770867712053,
     "CrCbGaD": 0.0046947409541235555
   },
+  "n_trials": 0.0,
   "prediction": 0.00163966234041565,
   "status": 0,
   "training_prediction": 0.0041518793758287

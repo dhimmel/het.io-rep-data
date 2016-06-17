@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.39661898569570897,
   "metapath_contribution": {
     "CbGbCtD": 0.7911532076972176,
     "CbGeAlD": 0.20547342981166372,
     "CbGpPWpGaD": 0.00035551054209389935,
     "CcSEcCtD": 0.0030178519490247197
   },
+  "n_trials": 0.0,
   "prediction": 0.00141010371289481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

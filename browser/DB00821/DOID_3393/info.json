@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.46553966189857,
   "metapath_contribution": {
     "CbGaD": 0.3164929791993565,
     "CbGbCtD": 0.5970241216331543,
     "CbGpPWpGaD": 0.07959131086910821,
     "CrCbGaD": 0.006891588298381025
   },
+  "n_trials": 0.0,
   "prediction": 0.0022126910863188103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

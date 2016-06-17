@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.844603381014304,
   "metapath_contribution": {
     "CbGaD": 0.1003221491893932,
     "CbGbCtD": 0.3122663064942596,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.05161129490967205,
     "CpDpCtD": 0.39002575355909824
   },
+  "n_trials": 1.0,
   "prediction": 0.00424326713988328,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

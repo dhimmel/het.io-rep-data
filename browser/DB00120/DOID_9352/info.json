@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00120",
   "compound_name": "L-Phenylalanine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGeAlD": 0.047831980816238996,
     "CbGpPWpGaD": 0.06866310558569907,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3330381984334338,
     "CrCtD": 0.5474008383887607
   },
+  "n_trials": 0.0,
   "prediction": 0.0043126065009527,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08932",
   "compound_name": "MACITENTAN",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.6010336786920056,
     "CbGbCtD": 0.2722206018850651,
     "CbGpPWpGaD": 0.0947082985683914,
     "CcSEcCtD": 0.032037420854537924
   },
+  "n_trials": 0.0,
   "prediction": 0.0073743712509463,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00239",
   "compound_name": "Oxiconazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.41612483745123496,
   "metapath_contribution": {
     "CbGaD": 0.9970388092843644,
     "CrCbGaD": 0.0029611907156355394
   },
+  "n_trials": 0.0,
   "prediction": 0.00133751421772196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

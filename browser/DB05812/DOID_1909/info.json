@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05812",
   "compound_name": "Abiraterone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.45585063763228584,
     "CbGbCtD": 0.4314730604241467,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07132046297009084,
     "CrCbGaD": 0.00044956376128796934
   },
+  "n_trials": 0.0,
   "prediction": 0.00523082676850406,
   "status": 0,
   "training_prediction": 0.00952693366122213

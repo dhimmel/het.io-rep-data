@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.535760728218466,
   "metapath_contribution": {
     "CbGaD": 0.23871625124010531,
     "CbGbCtD": 0.5878554877601027,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1493506737048742,
     "CrCbGaD": 0.0011344016774016237
   },
+  "n_trials": 0.0,
   "prediction": 0.00182554010500469,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

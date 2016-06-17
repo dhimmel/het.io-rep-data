@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.76853055916775,
   "metapath_contribution": {
-    "CbGaD": 0.7547363135183411,
-    "CbGeAlD": 0.12099405953366636,
-    "CbGpPWpGaD": 0.12289938795570655,
-    "CrCbGaD": 0.0013702389922858134
+    "CbGaD": 0.7547363135183413,
+    "CbGeAlD": 0.12099405953366638,
+    "CbGpPWpGaD": 0.12289938795570658,
+    "CrCbGaD": 0.0013702389922858136
   },
+  "n_trials": 0.0,
   "prediction": 0.00368530645486848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

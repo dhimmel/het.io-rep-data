@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.0845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.9106167716525831,
     "CbGbCtD": 0.04855330453367576,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.015508352964502536,
     "CrCbGaD": 0.0010968248176964157
   },
+  "n_trials": 0.0,
   "prediction": 0.000766848528289358,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

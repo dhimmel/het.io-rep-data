@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00889",
   "compound_name": "Granisetron",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.38029786315742464,
     "CbGbCtD": 0.4051003489453999,
     "CbGpPWpGaD": 0.05247308357260062,
     "CcSEcCtD": 0.16212870432457493
   },
+  "n_trials": 2.0,
   "prediction": 0.0048562445870216605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

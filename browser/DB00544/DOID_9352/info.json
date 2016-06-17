@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.808192457737321,
   "metapath_contribution": {
     "CbGaD": 0.3086717135108004,
     "CbGbCtD": 0.42196759361587255,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09781138660554986,
     "CcSEcCtD": 0.12270116870058288
   },
+  "n_trials": 0.0,
   "prediction": 0.00532094417826898,
   "status": 0,
   "training_prediction": 0.09698559792605

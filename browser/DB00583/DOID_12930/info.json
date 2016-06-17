@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.5667994028190169,
     "CbGbCtD": 0.210123354509442,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05984350075544586,
     "CrCbGaD": 0.00586806581439666
   },
+  "n_trials": 0.0,
   "prediction": 0.00362888317800843,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

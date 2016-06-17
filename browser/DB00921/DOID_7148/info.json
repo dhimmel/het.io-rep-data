@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGbCtD": 0.7231258095928877,
     "CbGpPWpGaD": 0.08599833131517994,
     "CcSEcCtD": 0.18814260811866695,
     "CrCbGaD": 0.0027332509732652995
   },
+  "n_trials": 2.0,
   "prediction": 0.0022460481281405898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01043",
   "compound_name": "Memantine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.5401523210263174,
     "CbGbCtD": 0.0701812957828485,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07538984852395769,
     "CcSEcCtD": 0.2706925762598116
   },
+  "n_trials": 0.0,
   "prediction": 0.0038305820361518297,
   "status": 0,
   "training_prediction": 0.0084177869851385

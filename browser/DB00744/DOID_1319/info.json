@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.892717815344603,
   "metapath_contribution": {
     "CbGaD": 0.6196303329088648,
     "CbGbCtD": 0.25143767470552736,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07155769855620335,
     "CcSEcCtD": 0.055794612463630315
   },
+  "n_trials": 0.0,
   "prediction": 0.0031563313363218103,
   "status": 0,
   "training_prediction": 0.0057585065851769104

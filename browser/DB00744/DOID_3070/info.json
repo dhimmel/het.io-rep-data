@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.8686605981794541,
   "metapath_contribution": {
     "CbGaD": 0.5774624845985119,
     "CbGbCtD": 0.2556836437815891,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.03475023431706862,
     "CrCbGaD": 0.0034207587995541433
   },
+  "n_trials": 0.0,
   "prediction": 0.00242790028527335,
   "status": 0,
   "training_prediction": 0.0017910538034163301

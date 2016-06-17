@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.598179453836151,
   "metapath_contribution": {
     "CbGaD": 0.5580275114397609,
     "CbGbCtD": 0.30106976708077315,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06902013444296098,
     "CrCbGaD": 0.004561921070060444
   },
+  "n_trials": 0.0,
   "prediction": 0.00211499866613591,
   "status": 0,
   "training_prediction": 0.005415476869233471

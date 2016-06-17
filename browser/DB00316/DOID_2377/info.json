@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.27857868694904336,
     "CbGbCtD": 0.2114941538702876,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.057955752609098396,
     "CpDpCtD": 0.3686724988376913
   },
+  "n_trials": 1.0,
   "prediction": 0.009904889670391371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

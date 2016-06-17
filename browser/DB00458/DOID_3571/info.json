@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.426527958387516,
   "metapath_contribution": {
     "CbGaD": 0.36553954760481316,
     "CbGbCtD": 0.3856448147792299,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10940251532986267,
     "CrCbGaD": 0.0032639822621515734
   },
+  "n_trials": 0.0,
   "prediction": 0.0012798051946733401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

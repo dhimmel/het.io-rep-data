@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGbCtD": 0.6450718821571606,
     "CbGdCrCtD": 0.00368571466777666,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11596791720873897,
     "CcSEcCtD": 0.058564423376763416
   },
+  "n_trials": 0.0,
   "prediction": 0.00396320190897606,
   "status": 0,
   "training_prediction": 0.0145601014620048

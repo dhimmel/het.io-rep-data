@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGaD": 0.2119210162381271,
     "CbGbCtD": 0.26165924607261637,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.33889372867803924,
     "CrCbGaD": 0.0019315674085228765
   },
+  "n_trials": 2.0,
   "prediction": 0.0197838042170659,
   "status": 0,
   "training_prediction": 0.0901592917780145

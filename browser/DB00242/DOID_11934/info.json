@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGbCtD": 0.7539053633386402,
     "CbGdCrCtD": 0.002861826095245086,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0980550115798549,
     "CrCbGaD": 0.002876730657515481
   },
+  "n_trials": 0.0,
   "prediction": 0.00257178338467093,
   "status": 0,
   "training_prediction": 0.00519449463990012

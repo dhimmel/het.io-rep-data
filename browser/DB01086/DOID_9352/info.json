@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.5741222366710009,
   "metapath_contribution": {
     "CbGbCtD": 0.14583457613546325,
     "CbGeAlD": 0.046707840106460174,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0054198550398994365,
     "CrCrCtD": 0.5995753100431321
   },
+  "n_trials": 0.0,
   "prediction": 0.0028256437406500396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

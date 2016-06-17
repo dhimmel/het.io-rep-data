@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.182054616384915,
   "metapath_contribution": {
     "CbGaD": 0.4566069661623254,
     "CbGbCtD": 0.2380244178867478,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2136611356534907,
     "CrCbGaD": 0.004312391718701058
   },
+  "n_trials": 0.0,
   "prediction": 0.00124984079106507,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

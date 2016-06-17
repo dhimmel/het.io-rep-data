@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.2245147379852221,
     "CbGbCtD": 0.3036000726215495,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0006541255783177011,
     "CrCrCtD": 0.3202697566460177
   },
+  "n_trials": 0.0,
   "prediction": 0.01298182156594,
   "status": 0,
   "training_prediction": 0.0132870556956259

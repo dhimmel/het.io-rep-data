@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.7451235370611179,
   "metapath_contribution": {
     "CbGaD": 0.7747108766704861,
     "CbGeAlD": 0.07688858820059202,
     "CbGpPWpGaD": 0.14049284368218265,
     "CrCbGaD": 0.007907691446739244
   },
+  "n_trials": 1.0,
   "prediction": 0.0019469802767616102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

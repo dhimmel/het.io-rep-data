@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00324",
   "compound_name": "Fluorometholone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0266579973992198,
   "metapath_contribution": {
     "CbGaD": 0.4251608697985973,
     "CbGbCtD": 0.4253431396515119,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14034749463678717,
     "CrCbGaD": 0.006687840032242077
   },
+  "n_trials": 0.0,
   "prediction": 0.000808579423925144,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

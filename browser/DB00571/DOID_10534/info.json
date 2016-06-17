@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.47789336801040294,
   "metapath_contribution": {
     "CbGaD": 0.5553548843677234,
     "CbGbCtD": 0.2555794833516844,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10119184894724138,
     "CrCbGaD": 0.00732535618624338
   },
+  "n_trials": 0.0,
   "prediction": 0.00150774248905426,
   "status": 0,
   "training_prediction": 0.00552557754333233

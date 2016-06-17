@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
-    "CbGbCtD": 0.21028420953104654,
-    "CbGdCrCtD": 0.0012312142274838304,
-    "CbGeAlD": 0.03410819052282846,
-    "CbGpPWpGaD": 0.01855293765012607,
-    "CcSEcCtD": 0.05279463761782525,
-    "CiPCiCtD": 0.36958843666606517,
-    "CtDrD": 0.3134403737846247
+    "CbGbCtD": 0.2102842095310465,
+    "CbGdCrCtD": 0.0012312142274838302,
+    "CbGeAlD": 0.03410819052282845,
+    "CbGpPWpGaD": 0.018552937650126066,
+    "CcSEcCtD": 0.05279463761782524,
+    "CiPCiCtD": 0.3695884366660651,
+    "CtDrD": 0.31344037378462464
   },
+  "n_trials": 1.0,
   "prediction": 0.0134109966188622,
   "status": 0,
   "training_prediction": 0.207627564370496

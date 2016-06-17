@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.35767739040527335,
     "CbGdCrCtD": 0.0010996909724856059,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03889273918518888,
     "CiPCiCtD": 0.560385185737288
   },
+  "n_trials": 0.0,
   "prediction": 0.00807612326584434,
   "status": 0,
   "training_prediction": 0.009788948519544729

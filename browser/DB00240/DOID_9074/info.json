@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.0854988688393603,
     "CbGbCtD": 0.13193097283467062,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.17312258716710818,
     "CrCtD": 0.2457853333487346
   },
+  "n_trials": 0.0,
   "prediction": 0.0663683365554845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

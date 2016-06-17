@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.18639046022463618,
     "CbGbCtD": 0.5372891290458403,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15740029478609963,
     "CrCbGaD": 0.00029330674792073556
   },
+  "n_trials": 9.0,
   "prediction": 0.0059636544738054294,
   "status": 0,
   "training_prediction": 0.0313454089774616

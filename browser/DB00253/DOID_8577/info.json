@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGbCtD": 0.16478561026456998,
     "CcSEcCtD": 0.029148478470456658,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.17891862779775652,
     "CrCtD": 0.23566349871773398
   },
+  "n_trials": 0.0,
   "prediction": 0.0503142556014171,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.030369746496028697,
     "CbGbCtD": 0.138979535246527,
@@ -16,6 +18,7 @@
     "CrCtD": 0.21453594567888926,
     "CtDrD": 0.15424679774106803
   },
+  "n_trials": 2.0,
   "prediction": 0.144674334209136,
   "status": 0,
   "training_prediction": 0.677873276618557

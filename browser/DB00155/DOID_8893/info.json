@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.773081924577373,
   "metapath_contribution": {
     "CbGaD": 0.6325676786353681,
     "CbGbCtD": 0.17739875070104014,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.07513504327742519,
     "CrCbGaD": 0.0009302227909477882
   },
+  "n_trials": 0.0,
   "prediction": 0.00283978190462053,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

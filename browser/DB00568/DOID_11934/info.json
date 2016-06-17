@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.664499349804942,
   "metapath_contribution": {
     "CbGaD": 0.686198374770808,
     "CbGbCtD": 0.2285459304360772,
     "CbGeAlD": 0.030765698963484356,
     "CbGpPWpGaD": 0.05448999582963049
   },
+  "n_trials": 0.0,
   "prediction": 0.00179205154145808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

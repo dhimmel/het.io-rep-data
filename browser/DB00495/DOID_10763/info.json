@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.347204161248374,
   "metapath_contribution": {
     "CbGaD": 0.05012682003178254,
     "CbGbCtD": 0.5831013314105803,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.11930033602868968,
     "CcSEcCtD": 0.20155481829545877
   },
+  "n_trials": 0.0,
   "prediction": 0.00265493490980612,
   "status": 0,
   "training_prediction": 0.0308596105464448

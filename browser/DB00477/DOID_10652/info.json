@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.485045513654096,
   "metapath_contribution": {
     "CbGaD": 0.43813430168157663,
     "CbGbCtD": 0.3209307415301247,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07630855205454869,
     "CrCbGaD": 0.003572590462086096
   },
+  "n_trials": 0.0,
   "prediction": 0.0018090813552949603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

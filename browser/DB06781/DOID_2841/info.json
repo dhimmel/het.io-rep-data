@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06781",
   "compound_name": "Difluprednate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.1283018117305231,
     "CbGbCtD": 0.2257371148157018,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2537137278494759,
     "CrCtD": 0.35203416981440167
   },
+  "n_trials": 0.0,
   "prediction": 0.0344384401913191,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

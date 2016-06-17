@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.841352405721717,
   "metapath_contribution": {
-    "CbGaD": 0.8049673062959245,
-    "CbGeAlD": 0.10101228360473193,
-    "CbGpPWpGaD": 0.0908189152148035,
-    "CrCbGaD": 0.00320149488454018
+    "CbGaD": 0.8049673062959243,
+    "CbGeAlD": 0.10101228360473191,
+    "CbGpPWpGaD": 0.09081891521480348,
+    "CrCbGaD": 0.0032014948845401794
   },
+  "n_trials": 0.0,
   "prediction": 0.00184674246382398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

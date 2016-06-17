@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06684",
   "compound_name": "Vilazodone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.8146535812754753,
     "CbGpPWpGaD": 0.05496505911318144,
     "CcSEcCtD": 0.1287164128096055,
     "CrCbGaD": 0.001664946801737753
   },
+  "n_trials": 0.0,
   "prediction": 0.00344193101907205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

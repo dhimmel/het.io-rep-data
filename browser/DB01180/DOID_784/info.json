@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.7881226418671976,
     "CbGeAlD": 0.13587219622564034,
     "CbGpPWpGaD": 0.0693061369405775,
     "CrCbGaD": 0.006699024966584585
   },
+  "n_trials": 0.0,
   "prediction": 0.00238164364851805,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

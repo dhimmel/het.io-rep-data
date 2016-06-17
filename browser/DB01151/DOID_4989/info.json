@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.8894668400520159,
   "metapath_contribution": {
     "CbGaD": 0.18341061548102008,
     "CbGbCtD": 0.6448923406305024,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08233893551536547,
     "CrCbGaD": 0.00210269467879807
   },
+  "n_trials": 0.0,
   "prediction": 0.0027635133114536302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

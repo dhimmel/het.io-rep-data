@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.267880364109233,
   "metapath_contribution": {
     "CbGbCtD": 0.5588857587501342,
     "CbGdCrCtD": 0.01307905960198125,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3931808658746391,
     "CrCbGaD": 5.284159669609925e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00132021287543864,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

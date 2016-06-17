@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.7192224992498054,
     "CbGeAlD": 0.10572280570372242,
     "CbGpPWpGaD": 0.16952958699825071,
     "CrCbGaD": 0.0055251080482215335
   },
+  "n_trials": 0.0,
   "prediction": 0.00235740237150135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

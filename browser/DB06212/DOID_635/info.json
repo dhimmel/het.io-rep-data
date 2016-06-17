@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06212",
   "compound_name": "Tolvaptan",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGbCtD": 0.6568744991039771,
     "CbGeAlD": 0.02437154747037039,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2452589939856863,
     "CrCbGaD": 0.0006305991729684525
   },
+  "n_trials": 0.0,
   "prediction": 0.003908535336332721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.2955169335791682,
     "CbGbCtD": 0.5002232347889111,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.156036993130442,
     "CrCbGaD": 0.0017476046367084234
   },
+  "n_trials": 4.0,
   "prediction": 0.00617049784798204,
   "status": 0,
   "training_prediction": 0.0535022785246404

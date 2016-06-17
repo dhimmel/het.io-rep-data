@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.278283485045514,
   "metapath_contribution": {
     "CbGaD": 0.08548361061029366,
     "CbGbCtD": 0.532396457323608,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.18046714299937994,
     "CrCbGaD": 0.001245094083182989
   },
+  "n_trials": 0.0,
   "prediction": 0.00224794663269329,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06684",
   "compound_name": "Vilazodone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.8775150706445062,
     "CbGbCtD": 0.04446300211946043,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04507442204920747,
     "CcSEcCtD": 0.015610042004948177
   },
+  "n_trials": 0.0,
   "prediction": 0.00330013156357155,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

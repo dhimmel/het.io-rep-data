@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00537",
   "compound_name": "Ciprofloxacin",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.365409622886866,
   "metapath_contribution": {
     "CbGbCtD": 0.6900595866323387,
     "CbGdCrCtD": 0.004430496848735927,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2414071931142913,
     "CrCbGaD": 0.0006431457148543954
   },
+  "n_trials": 0.0,
   "prediction": 0.0011801102296551801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

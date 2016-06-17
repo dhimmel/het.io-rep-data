@@ -1,17 +1,19 @@
 {
   "compound_id": "DB08819",
   "compound_name": "Tafluprost",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.232769830949285,
   "metapath_contribution": {
-    "CbGaD": 0.4214140098854457,
-    "CbGbCtD": 0.05152274796589677,
-    "CbGeAlD": 0.017940848229881075,
-    "CbGpPWpGaD": 0.23342352215648815,
-    "CcSEcCtD": 0.26560573232742135,
-    "CrCbGaD": 0.010093139434866885
+    "CbGaD": 0.4214140098854458,
+    "CbGbCtD": 0.05152274796589679,
+    "CbGeAlD": 0.01794084822988108,
+    "CbGpPWpGaD": 0.2334235221564882,
+    "CcSEcCtD": 0.2656057323274214,
+    "CrCbGaD": 0.010093139434866887
   },
+  "n_trials": 0.0,
   "prediction": 0.00201876775572324,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

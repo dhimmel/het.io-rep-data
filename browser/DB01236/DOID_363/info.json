@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGbCtD": 0.36584688843655,
     "CbGeAlD": 0.18760156093511998,
     "CbGpPWpGaD": 0.05423187731593788,
     "CcSEcCtD": 0.3923196733123922
   },
+  "n_trials": 0.0,
   "prediction": 0.00234389529240739,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGaD": 0.7420779906223778,
     "CbGeAlD": 0.017701126967610687,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20347701461929268,
     "CrCbGaD": 0.005492201101625116
   },
+  "n_trials": 0.0,
   "prediction": 0.00322243944539276,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGaD": 0.6995589024907005,
     "CbGeAlD": 0.03240414819480476,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10709582361005583,
     "CrCbGaD": 0.005516076965614533
   },
+  "n_trials": 0.0,
   "prediction": 0.00187705916293315,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

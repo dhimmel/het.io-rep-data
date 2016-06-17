@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.7217165149544859,
   "metapath_contribution": {
     "CbGaD": 0.506363635186219,
     "CbGbCtD": 0.3315804561539379,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10740006732436934,
     "CrCbGaD": 0.0012138047400062474
   },
+  "n_trials": 0.0,
   "prediction": 0.00198389882746331,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGaD": 0.5265036480231762,
     "CbGbCtD": 0.1424783916869386,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11177421486888914,
     "CcSEcCtD": 0.1708684126826646
   },
+  "n_trials": 0.0,
   "prediction": 0.00293565844497309,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

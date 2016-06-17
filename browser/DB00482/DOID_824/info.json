@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGaD": 0.6538894123577548,
     "CbGeAlD": 0.17413617461948974,
     "CbGpPWpGaD": 0.16908473577694091,
     "CrCbGaD": 0.0028896772458144667
   },
+  "n_trials": 0.0,
   "prediction": 0.00162249292465395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

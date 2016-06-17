@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGbCtD": 0.3252459646858012,
     "CbGdCrCtD": 0.002711921367509617,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09085706529129385,
     "CpDpCtD": 0.4640059828042049
   },
+  "n_trials": 0.0,
   "prediction": 0.0039471797090890005,
   "status": 0,
   "training_prediction": 0.0211150839826636

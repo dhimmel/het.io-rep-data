@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.5444810696727286,
     "CbGeAlD": 0.14050377904990083,
     "CbGpPWpGaD": 0.20821054567365635,
     "CcSEcCtD": 0.10680460560371416
   },
+  "n_trials": 0.0,
   "prediction": 0.0021735558155025897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

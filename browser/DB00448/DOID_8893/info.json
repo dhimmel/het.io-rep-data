@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.724317295188557,
   "metapath_contribution": {
     "CbGbCtD": 0.6823893500840079,
     "CbGpPWpGaD": 0.06107763925639911,
     "CcSEcCtD": 0.25653301065959294
   },
+  "n_trials": 0.0,
   "prediction": 0.00257208629400222,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

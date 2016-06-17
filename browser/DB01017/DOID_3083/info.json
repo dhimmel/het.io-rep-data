@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.6001919899628577,
     "CbGbCtD": 0.21855826224170957,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.10415583368817707,
     "CrCbGaD": 0.0024138442736406263
   },
+  "n_trials": 0.0,
   "prediction": 0.00538152063354757,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

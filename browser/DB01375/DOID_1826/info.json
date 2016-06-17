@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01375",
   "compound_name": "Dihydroxyaluminium",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.784135240572172,
   "metapath_contribution": {
     "CbGaD": 0.8108056083151969,
     "CbGdCrCtD": 0.0022296949118633504,
     "CbGeAlD": 0.05352567023726322,
     "CcSEcCtD": 0.13343902653567655
   },
+  "n_trials": 0.0,
   "prediction": 0.0078294024063742,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

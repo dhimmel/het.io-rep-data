@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.76853055916775,
   "metapath_contribution": {
     "CbGaD": 0.3776557444624139,
     "CbGbCtD": 0.47406926381701436,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1308764561189553,
     "CrCbGaD": 0.00413336012883356
   },
+  "n_trials": 0.0,
   "prediction": 0.00210505011794066,
   "status": 0,
   "training_prediction": 0.0034322276230476

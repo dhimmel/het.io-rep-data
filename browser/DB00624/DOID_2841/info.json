@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.028826490471787515,
     "CbGbCtD": 0.2189616005273688,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.21530006977262606,
     "CrCtD": 0.23555979247400197
   },
+  "n_trials": 0.0,
   "prediction": 0.0127774642747947,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

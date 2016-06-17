@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0487646293888166,
   "metapath_contribution": {
     "CbGbCtD": 0.5744782990362385,
     "CbGdCrCtD": 0.0065229175131921455,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2714577031365525,
     "CrCbGaD": 0.00045203865883569275
   },
+  "n_trials": 0.0,
   "prediction": 0.000983635374830886,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

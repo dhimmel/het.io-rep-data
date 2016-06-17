@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01193",
   "compound_name": "Acebutolol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.3810143042912871,
   "metapath_contribution": {
     "CbGaD": 0.3447146664216797,
     "CbGbCtD": 0.3250728255365945,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.24011167693756608,
     "CrCbGaD": 0.0023770154067093855
   },
+  "n_trials": 0.0,
   "prediction": 0.00254711841337985,
   "status": 0,
   "training_prediction": 0.0123823418047705

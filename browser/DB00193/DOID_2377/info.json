@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00193",
   "compound_name": "Tramadol",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.45578673602080605,
   "metapath_contribution": {
     "CbGbCtD": 0.3834254541208676,
     "CbGeAlD": 0.06394443175895545,
     "CbGpPWpGaD": 0.12463579045469868,
     "CcSEcCtD": 0.42799432366547835
   },
+  "n_trials": 0.0,
   "prediction": 0.00175583778619794,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

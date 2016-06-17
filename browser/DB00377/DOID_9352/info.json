@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00377",
   "compound_name": "Palonosetron",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7639791937581271,
   "metapath_contribution": {
     "CbGaD": 0.40292284029601955,
     "CbGbCtD": 0.39045607356877926,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.167090495764189,
     "CrCbGaD": 0.002909214590489442
   },
+  "n_trials": 0.0,
   "prediction": 0.0047422871969087,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

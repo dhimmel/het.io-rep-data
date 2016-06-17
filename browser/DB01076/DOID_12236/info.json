@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.8777633289986999,
   "metapath_contribution": {
     "CbGaD": 0.3107226211908324,
     "CbGbCtD": 0.5542522247164502,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08154680880986007,
     "CrCbGaD": 0.0029011087403967304
   },
+  "n_trials": 0.0,
   "prediction": 0.00322965658797005,
   "status": 0,
   "training_prediction": 0.0053026889166181

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01245",
   "compound_name": "Decamethonium",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6410923276983089,
   "metapath_contribution": {
     "CbGbCtD": 0.4345300675180704,
     "CbGeAlD": 0.1114960077836569,
     "CbGpPWpGaD": 0.4518885345829465,
     "CrCbGaD": 0.002085390115326275
   },
+  "n_trials": 0.0,
   "prediction": 0.00230442804176852,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00903",
   "compound_name": "Ethacrynic acid",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.31777245031510354,
     "CbGbCtD": 0.6272850615801124,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.004377379876034166,
     "CcSEcCtD": 0.027161979357610447
   },
+  "n_trials": 0.0,
   "prediction": 0.00469470995437156,
   "status": 0,
   "training_prediction": 0.0076420947111873905

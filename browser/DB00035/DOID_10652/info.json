@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6358907672301689,
   "metapath_contribution": {
     "CbGaD": 0.6479950656868062,
     "CbGeAlD": 0.01573754590811064,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21954697309727375,
     "CrCbGaD": 0.00918950331975011
   },
+  "n_trials": 0.0,
   "prediction": 0.00224206391756794,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

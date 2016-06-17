@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.330299089726918,
   "metapath_contribution": {
     "CbGbCtD": 0.6345580435954227,
     "CbGeAlD": 0.09782908738310604,
     "CbGpPWpGaD": 0.10340857322540369,
     "CcSEcCtD": 0.16420429579606768
   },
+  "n_trials": 0.0,
   "prediction": 0.00130975375068256,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

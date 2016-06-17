@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.9803160757188331,
     "CbGeAlD": 0.010413910644004126,
     "CrCbGaD": 0.009270013637162768
   },
+  "n_trials": 0.0,
   "prediction": 0.00211407295693257,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

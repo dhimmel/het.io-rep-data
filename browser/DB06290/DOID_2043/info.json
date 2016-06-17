@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
     "CbGaD": 0.6637098151787234,
     "CbGeAlD": 0.008140459407254953,
     "CbGpPWpGaD": 0.08739989729435067,
     "CcSEcCtD": 0.24074982811967102
   },
+  "n_trials": 0.0,
   "prediction": 0.0024974599163633897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

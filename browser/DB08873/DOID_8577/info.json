@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7997399219765929,
   "metapath_contribution": {
     "CbGaD": 0.2687364369185816,
     "CbGbCtD": 0.32228449966989164,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.19448022792000788,
     "CrCbGaD": 0.0038494025887174654
   },
+  "n_trials": 0.0,
   "prediction": 0.0035475659973054604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

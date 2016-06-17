@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.654746423927178,
   "metapath_contribution": {
     "CbGaD": 0.7754119180534181,
     "CbGeAlD": 0.07453512067452307,
     "CbGpPWpGaD": 0.1409585449147487,
     "CrCbGaD": 0.009094416357310092
   },
+  "n_trials": 0.0,
   "prediction": 0.00195259727366044,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

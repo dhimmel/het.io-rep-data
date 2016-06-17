@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00989",
   "compound_name": "Rivastigmine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.7160227231628469,
     "CbGbCtD": 0.07860088112892946,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17027517619617571,
     "CrCbGaD": 0.006057853568023395
   },
+  "n_trials": 0.0,
   "prediction": 0.00319150183700476,
   "status": 0,
   "training_prediction": 0.00235483288733356

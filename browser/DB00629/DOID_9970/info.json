@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00629",
   "compound_name": "Guanabenz",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGbCtD": 0.33485436663046075,
     "CbGeAlD": 0.0022532517063387366,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08715999711373007,
     "CtDrD": 0.5199987643252508
   },
+  "n_trials": 0.0,
   "prediction": 0.0115594304521807,
   "status": 0,
   "training_prediction": 0.0291672639491754

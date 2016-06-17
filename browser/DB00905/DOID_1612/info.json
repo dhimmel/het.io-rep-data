@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00905",
   "compound_name": "Bimatoprost",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGaD": 0.5939276166442934,
     "CbGbCtD": 0.09776540004218721,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13580525386536277,
     "CrCbGaD": 0.005882433404731499
   },
+  "n_trials": 0.0,
   "prediction": 0.00395331038917828,
   "status": 0,
   "training_prediction": 0.0215578888658006

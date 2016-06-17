@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00255",
   "compound_name": "Diethylstilbestrol",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.583224967490247,
   "metapath_contribution": {
     "CbGaD": 0.6174662742202447,
     "CbGeAlD": 0.18560821576850098,
     "CbGpPWpGaD": 0.19379792792815362,
     "CrCbGaD": 0.003127582083100595
   },
+  "n_trials": 0.0,
   "prediction": 0.00156717369571929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

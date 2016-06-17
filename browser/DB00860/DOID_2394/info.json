@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.0448634590377113,
   "metapath_contribution": {
     "CbGaD": 0.3282584013678149,
     "CbGbCtD": 0.49023893808696584,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12796544767739218,
     "CrCbGaD": 0.0033064573958943
   },
+  "n_trials": 1.0,
   "prediction": 0.000615420028592987,
   "status": 0,
   "training_prediction": 0.0116259731980498

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00615",
   "compound_name": "Rifabutin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.905071521456437,
   "metapath_contribution": {
     "CbGaD": 0.5139396023798384,
     "CbGbCtD": 0.2345147106866451,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10496012075307919,
     "CrCbGaD": 0.0036047496813002987
   },
+  "n_trials": 0.0,
   "prediction": 0.00722436644748971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

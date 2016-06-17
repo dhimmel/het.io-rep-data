@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.0745182172052803,
     "CbGbCtD": 0.15445579175060706,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.17048987965181658,
     "CrCtD": 0.24541688499017492
   },
+  "n_trials": 0.0,
   "prediction": 0.121036778959162,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

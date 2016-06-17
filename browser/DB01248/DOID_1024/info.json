@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGbCtD": 0.8025756650115035,
     "CbGdCrCtD": 0.003221384305280204,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.024227894386287856,
     "CcSEcCtD": 0.11637593540716057
   },
+  "n_trials": 0.0,
   "prediction": 0.00303750463015609,
   "status": 0,
   "training_prediction": 0.0165975886674107

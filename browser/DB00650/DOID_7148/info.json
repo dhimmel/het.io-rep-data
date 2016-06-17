@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.1945241362314465,
     "CbGdCrCtD": 0.0016693213684551521,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.30364406846262076,
     "CrCtD": 0.45983506681160125
   },
+  "n_trials": 0.0,
   "prediction": 0.0100372301181377,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

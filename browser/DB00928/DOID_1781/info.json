@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.264705882352941,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.0227568270481144,
   "metapath_contribution": {
     "CbGeAlD": 0.11119039998933837,
     "CbGpPWpGaD": 0.04281055843733928,
     "CcSEcCtD": 0.8430019396667717,
     "CrCbGaD": 0.002997101906550629
   },
+  "n_trials": 1.0,
   "prediction": 0.000605292647113612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

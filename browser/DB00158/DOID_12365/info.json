@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.61443433029909,
   "metapath_contribution": {
     "CbGbCtD": 0.5456596465984088,
     "CbGeAlD": 0.1369462771895431,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13194403112688316,
     "CrCbGaD": 0.00937470222833828
   },
+  "n_trials": 2.0,
   "prediction": 0.00237452707638089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04786",
   "compound_name": "Suramin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.5842683765303843,
     "CbGbCtD": 0.19598448952607544,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.07040036162638484,
     "CbGpPWpGaD": 0.14692805016105046
   },
+  "n_trials": 0.0,
   "prediction": 0.00823053174739974,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.0318595578673602,
   "metapath_contribution": {
     "CbGdCrCtD": 0.026624629968274666,
     "CbGeAlD": 0.33825587573826715,
     "CbGpPWpGaD": 0.591532831098013,
     "CrCbGaD": 0.04358666319544512
   },
+  "n_trials": 0.0,
   "prediction": 0.000620407583406705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

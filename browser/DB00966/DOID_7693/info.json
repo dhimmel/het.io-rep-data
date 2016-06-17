@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.9590226423719973,
     "CbGeAlD": 0.0313972555814043,
     "CrCbGaD": 0.009580102046598347
   },
+  "n_trials": 1.0,
   "prediction": 0.00231579135466738,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

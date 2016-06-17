@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.25942782834850503,
   "metapath_contribution": {
     "CbGaD": 0.2823796991127216,
     "CbGbCtD": 0.5392246113842923,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1428777830446978,
     "CrCbGaD": 0.002510781249253191
   },
+  "n_trials": 0.0,
   "prediction": 0.00198878287772452,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

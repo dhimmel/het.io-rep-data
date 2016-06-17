@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.20758499867758595,
     "CbGbCtD": 0.2525565219155125,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0006551638015835604,
     "CrCrCtD": 0.1973940363300824
   },
+  "n_trials": 3.0,
   "prediction": 0.00897973641448035,
   "status": 0,
   "training_prediction": 0.10118237889526802

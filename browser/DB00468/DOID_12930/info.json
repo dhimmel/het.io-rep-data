@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGaD": 0.4806485630832566,
     "CbGbCtD": 0.32581855424111617,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09122197885153552,
     "CrCbGaD": 0.006563692202078303
   },
+  "n_trials": 0.0,
   "prediction": 0.00510379030514126,
   "status": 0,
   "training_prediction": 0.00503498428884456

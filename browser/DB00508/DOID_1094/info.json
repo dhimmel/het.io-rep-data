@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00508",
   "compound_name": "Triflupromazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.8109607779445536,
     "CbGeAlD": 0.032834004193067354,
     "CbGpPWpGaD": 0.1471198372805699,
     "CrCbGaD": 0.009085380581809153
   },
+  "n_trials": 0.0,
   "prediction": 0.00219233740268015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

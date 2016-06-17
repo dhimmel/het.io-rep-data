@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.48244473342002603,
   "metapath_contribution": {
     "CbGaD": 0.3872602432750593,
     "CbGbCtD": 0.18305225086397467,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1783571786924303,
     "CrCbGaD": 0.003990021148593708
   },
+  "n_trials": 0.0,
   "prediction": 0.0032631141145288197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

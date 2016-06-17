@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00561",
   "compound_name": "Doxapram",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.3901170351105329,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.01252245792879566,
     "CcSEcCtD": 0.1270553282609956,
     "CrCbGaD": 0.005811413888472895,
     "CrCrCtD": 0.8546107999217358
   },
+  "n_trials": 0.0,
   "prediction": 0.00149339812417452,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

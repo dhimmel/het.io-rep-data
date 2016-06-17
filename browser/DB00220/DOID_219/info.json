@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGaD": 0.29254816127460914,
     "CbGbCtD": 0.6093192777993416,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08484813933752981,
     "CrCbGaD": 0.003689072907043038
   },
+  "n_trials": 0.0,
   "prediction": 0.0033607752972959993,
   "status": 0,
   "training_prediction": 0.00479179540072894

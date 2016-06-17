@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.36764705882352894,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.0104031209362809,
   "metapath_contribution": {
     "CbGeAlD": 0.3429517462843876,
     "CbGpPWpGaD": 0.5927012502900573,
     "CrCbGaD": 0.06434700342555516
   },
+  "n_trials": 2.0,
   "prediction": 0.000689948655503818,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

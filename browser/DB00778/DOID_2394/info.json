@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00778",
   "compound_name": "Roxithromycin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.646944083224967,
   "metapath_contribution": {
     "CbGaD": 0.481035681687482,
     "CbGbCtD": 0.39031720858011204,
     "CcSEcCtD": 0.12638598365439987,
     "CrCbGaD": 0.0022611260780060127
   },
+  "n_trials": 0.0,
   "prediction": 0.00185100710001161,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

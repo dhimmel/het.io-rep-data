@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.773081924577373,
   "metapath_contribution": {
     "CbGaD": 0.8410570619144639,
     "CbGeAlD": 0.07626918695722278,
     "CbGpPWpGaD": 0.07644355672615868,
     "CrCbGaD": 0.006230194402154667
   },
+  "n_trials": 0.0,
   "prediction": 0.00223827766875322,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

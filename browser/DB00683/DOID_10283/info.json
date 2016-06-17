@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.583875162548765,
   "metapath_contribution": {
     "CbGaD": 0.373031040845693,
     "CbGbCtD": 0.36064393074634965,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12861445713241274,
     "CrCbGaD": 0.003524761776666986
   },
+  "n_trials": 0.0,
   "prediction": 0.00265308129258438,
   "status": 0,
   "training_prediction": 0.0111996437576743

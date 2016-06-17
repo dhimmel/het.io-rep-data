@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.264705882352941,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.18335500650195102,
   "metapath_contribution": {
     "CbGaD": 0.7382472886835387,
     "CbGeAlD": 0.03641840645827767,
     "CbGpPWpGaD": 0.11561803107475134,
     "CcSEcCtD": 0.10971627378343227
   },
+  "n_trials": 47.0,
   "prediction": 0.0008743402124076929,
   "status": 0,
   "training_prediction": 0.0025532639913113803

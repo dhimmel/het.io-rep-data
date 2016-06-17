@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.5266579973992199,
   "metapath_contribution": {
     "CbGaD": 0.7352019227637214,
     "CbGeAlD": 0.0898624505376133,
     "CbGpPWpGaD": 0.1718703854534074,
     "CrCbGaD": 0.0030652412452578486
   },
+  "n_trials": 0.0,
   "prediction": 0.00160542755782973,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

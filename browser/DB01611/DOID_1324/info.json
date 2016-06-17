@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.26592977893367997,
   "metapath_contribution": {
     "CbGbCtD": 0.214988412900895,
     "CbGpPWpGaD": 0.3254765724426685,
     "CcSEcCtD": 0.441680213404924,
     "CrCbGaD": 0.017854801251512512
   },
+  "n_trials": 7.0,
   "prediction": 0.00117758587193629,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

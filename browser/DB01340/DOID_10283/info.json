@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.553966189856957,
   "metapath_contribution": {
     "CbGaD": 0.4028685602685024,
     "CbGbCtD": 0.28683984142068697,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.24109817302547942,
     "CrCbGaD": 0.00475306172152696
   },
+  "n_trials": 0.0,
   "prediction": 0.00249178956238116,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

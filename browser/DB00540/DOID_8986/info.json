@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.676853055916775,
   "metapath_contribution": {
     "CbGaD": 0.6771245756312592,
     "CbGeAlD": 0.10308034346117571,
     "CbGpPWpGaD": 0.21305877572479567,
     "CrCbGaD": 0.006736305182769412
   },
+  "n_trials": 0.0,
   "prediction": 0.00160287049791089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

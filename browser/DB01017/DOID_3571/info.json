@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.8311720284359003,
     "CbGeAlD": 0.012463804376728426,
     "CbGpPWpGaD": 0.15589831848151103,
     "CrCbGaD": 0.00046584870586019927
   },
+  "n_trials": 0.0,
   "prediction": 0.0036196632632441604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

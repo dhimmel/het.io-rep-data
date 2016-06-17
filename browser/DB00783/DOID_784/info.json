@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.237321196358908,
   "metapath_contribution": {
     "CbGaD": 0.719370122245666,
     "CbGeAlD": 0.0909920416683585,
     "CbGpPWpGaD": 0.18435584908674688,
     "CrCbGaD": 0.0052819869992287065
   },
+  "n_trials": 0.0,
   "prediction": 0.00108287493365306,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

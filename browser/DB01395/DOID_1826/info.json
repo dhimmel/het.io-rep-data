@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.064369310793238,
   "metapath_contribution": {
     "CbGaD": 0.6411615443828439,
     "CbGeAlD": 0.03851826836388559,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.207703358174584,
     "CrCbGaD": 0.0061987169839872736
   },
+  "n_trials": 0.0,
   "prediction": 0.00101516642822524,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

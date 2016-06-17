@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01058",
   "compound_name": "Praziquantel",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGbCtD": 0.8291582489776502,
     "CbGeAlD": 0.02606880004823066,
     "CcSEcCtD": 0.14477295097411913
   },
+  "n_trials": 2.0,
   "prediction": 0.00460309576411547,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

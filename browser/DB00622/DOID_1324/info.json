@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.563068920676203,
   "metapath_contribution": {
     "CbGaD": 0.26459905702165193,
     "CbGbCtD": 0.40720503490440996,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14248899515194294,
     "CrCbGaD": 0.0037343253675176167
   },
+  "n_trials": 0.0,
   "prediction": 0.0020441864348392,
   "status": 0,
   "training_prediction": 0.0069774075389170106

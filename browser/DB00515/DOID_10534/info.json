@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.2978106271145536,
     "CbGbCtD": 0.21502964894935875,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06868711578319432,
     "CtDrD": 0.32834470466361027
   },
+  "n_trials": 109.0,
   "prediction": 0.0237539102000362,
   "status": 0,
   "training_prediction": 0.214365119665833

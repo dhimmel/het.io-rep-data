@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06262",
   "compound_name": "Droxidopa",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGbCtD": 0.604566282545099,
     "CbGdCrCtD": 0.001357645466859954,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0005157468894438229,
     "CrCrCtD": 0.297385569065977
   },
+  "n_trials": 0.0,
   "prediction": 0.0038734653787369797,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

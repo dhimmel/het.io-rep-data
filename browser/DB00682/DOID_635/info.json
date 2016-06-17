@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.679453836150845,
   "metapath_contribution": {
     "CbGaD": 0.2840354325782381,
     "CbGbCtD": 0.6853485345805777,
     "CbGeAlD": 0.028781352847195497,
     "CrCbGaD": 0.0018346799939887113
   },
+  "n_trials": 0.0,
   "prediction": 0.0032514597092190398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

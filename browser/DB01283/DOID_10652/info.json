@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01283",
   "compound_name": "Lumiracoxib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.715864759427828,
   "metapath_contribution": {
     "CbGaD": 0.700105499510137,
     "CbGbCtD": 0.23580909013274082,
     "CbGpPWpGaD": 0.05600079391449916,
     "CrCbGaD": 0.008084616442623056
   },
+  "n_trials": 0.0,
   "prediction": 0.0026108102299422,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

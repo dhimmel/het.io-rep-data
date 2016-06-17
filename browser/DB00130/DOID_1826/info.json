@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.2410790894503646,
     "CbGdCrCtD": 0.0006995513674520991,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.18896811184264614,
     "CrCtD": 0.4014761629401992
   },
+  "n_trials": 0.0,
   "prediction": 0.0255551660387155,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00796",
   "compound_name": "Candesartan",
+  "compound_percentile": 0.220588235294118,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.296488946684005,
   "metapath_contribution": {
-    "CbGeAlD": 0.5681808520974347,
-    "CbGpPWpGaD": 0.4226856394351326,
-    "CrCbGaD": 0.009133508467432603
+    "CbGeAlD": 0.5681808520974349,
+    "CbGpPWpGaD": 0.42268563943513265,
+    "CrCbGaD": 0.009133508467432605
   },
+  "n_trials": 1.0,
   "prediction": 0.0011949667389085802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

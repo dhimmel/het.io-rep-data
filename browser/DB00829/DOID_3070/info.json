@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.695708712613784,
   "metapath_contribution": {
     "CbGaD": 0.6922908341711551,
     "CbGbCtD": 0.06296876678923095,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09817834602166035,
     "CrCbGaD": 0.004170846334597796
   },
+  "n_trials": 0.0,
   "prediction": 0.0018305896986658301,
   "status": 0,
   "training_prediction": 0.00135020774933218

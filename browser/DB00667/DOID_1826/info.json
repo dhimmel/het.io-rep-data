@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
     "CbGaD": 0.3932505631541653,
     "CbGbCtD": 0.34609600011443786,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14696635113570608,
     "CrCbGaD": 0.00010132286962893573
   },
+  "n_trials": 0.0,
   "prediction": 0.00709243597071616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

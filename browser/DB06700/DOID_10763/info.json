@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5741222366710009,
   "metapath_contribution": {
     "CbGaD": 0.41022827118602584,
     "CbGbCtD": 0.35694299923292944,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1747765853206846,
     "CrCbGaD": 0.0036334582407798422
   },
+  "n_trials": 0.0,
   "prediction": 0.00466953980016437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

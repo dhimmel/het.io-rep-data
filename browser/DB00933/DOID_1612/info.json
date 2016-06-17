@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00933",
   "compound_name": "Mesoridazine",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.00910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.35196190608313105,
     "CbGbCtD": 0.3495618957859202,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.007799491936015851,
     "CrCrCtD": 0.14553439944331362
   },
+  "n_trials": 0.0,
   "prediction": 0.000583126226566226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

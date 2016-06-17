@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.7592397913953451,
     "CbGeAlD": 0.07630963092519095,
     "CbGpPWpGaD": 0.15877207065962332,
     "CrCbGaD": 0.005678507019840699
   },
+  "n_trials": 0.0,
   "prediction": 0.00334521991350455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

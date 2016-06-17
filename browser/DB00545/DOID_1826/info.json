@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00545",
   "compound_name": "Pyridostigmine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.639141742522757,
   "metapath_contribution": {
     "CbGaD": 0.3819408936960098,
     "CbGbCtD": 0.336960667478833,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20798235044826502,
     "CrCbGaD": 0.0037908288059343843
   },
+  "n_trials": 0.0,
   "prediction": 0.0047489166274347,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

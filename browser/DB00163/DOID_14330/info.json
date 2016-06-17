@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.7388673541174597,
     "CbGeAlD": 0.09476747762865141,
     "CbGpPWpGaD": 0.16636516825388875
   },
+  "n_trials": 1.0,
   "prediction": 0.00533091267968079,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

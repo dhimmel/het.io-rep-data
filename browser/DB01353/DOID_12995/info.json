@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01353",
   "compound_name": "Butethal",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.8740585492830522,
     "CbGeAlD": 0.01878461808104897,
     "CbGpPWpGaD": 0.09867129377163249,
     "CrCbGaD": 0.00848553886426643
   },
+  "n_trials": 0.0,
   "prediction": 0.00332489923416604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:986",
   "disease_name": "alopecia areata",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGbCtD": 0.09822316568506687,
     "CbGeAlD": 0.0009970104539028274,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.20534163672418682,
     "CrCtD": 0.2829641029958001
   },
+  "n_trials": 0.0,
   "prediction": 0.0324680269247367,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

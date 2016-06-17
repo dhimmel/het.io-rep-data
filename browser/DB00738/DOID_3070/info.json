@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.8699609882964889,
   "metapath_contribution": {
     "CbGbCtD": 0.3910557547961884,
     "CbGeAlD": 0.10455439922687934,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23720205378938977,
     "CrCbGaD": 0.006832471124347918
   },
+  "n_trials": 0.0,
   "prediction": 0.0024324735381636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

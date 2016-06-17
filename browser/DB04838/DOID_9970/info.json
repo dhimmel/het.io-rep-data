@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04838",
   "compound_name": "Cyclandelate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7678803641092329,
   "metapath_contribution": {
     "CbGaD": 0.5014301185599956,
     "CbGeAlD": 0.01722166065393891,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.001994078765197612,
     "CrCrCtD": 0.4520923046648396
   },
+  "n_trials": 0.0,
   "prediction": 0.004732219688703521,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.7220722349892178,
     "CbGbCtD": 0.013563789120191601,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04683496545646077,
     "CrCbGaD": 0.0008414512822393116
   },
+  "n_trials": 3.0,
   "prediction": 0.00139071332117426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

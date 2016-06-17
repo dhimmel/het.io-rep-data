@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.11698957699019737,
     "CbGeAlD": 0.001888552586516333,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.14993407499639394,
     "CrCtD": 0.2163528688546607
   },
+  "n_trials": 0.0,
   "prediction": 0.0851962529813942,
   "status": 0,
   "training_prediction": 0.54859066946089

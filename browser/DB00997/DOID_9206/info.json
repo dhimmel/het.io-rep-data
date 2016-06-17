@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGbCtD": 0.30793121390257777,
     "CbGeAlD": 0.04077619316828663,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1135812239878176,
     "CtDrD": 0.4902241258666883
   },
+  "n_trials": 0.0,
   "prediction": 0.00334038183920254,
   "status": 0,
   "training_prediction": 0.0253604845534687

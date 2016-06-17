@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00247",
   "compound_name": "Methysergide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.64369310793238,
   "metapath_contribution": {
     "CbGaD": 0.39012333912495195,
     "CbGbCtD": 0.2773894653854573,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16102077163940381,
     "CrCbGaD": 0.0044356675329009195
   },
+  "n_trials": 0.0,
   "prediction": 0.00557513474200695,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

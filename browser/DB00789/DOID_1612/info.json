@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00789",
   "compound_name": "Gadopentetate dimeglumine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.49154746423927204,
   "metapath_contribution": {
     "CbGbCtD": 0.4579511720171604,
     "CbGeAlD": 0.052233176724013716,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.411943571426907,
     "CrCbGaD": 0.0012848468138209085
   },
+  "n_trials": 6.0,
   "prediction": 0.00230329527420232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

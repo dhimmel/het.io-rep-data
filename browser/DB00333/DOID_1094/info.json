@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.0747724317295189,
   "metapath_contribution": {
     "CbGeAlD": 0.45252903316096876,
     "CbGpPWpGaD": 0.4685706781550436,
     "CrCbGaD": 0.0789002886839876
   },
+  "n_trials": 1.0,
   "prediction": 0.000785941738579607,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

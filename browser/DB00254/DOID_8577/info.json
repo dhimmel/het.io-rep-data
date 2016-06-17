@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.6719096605730072,
     "CbGbCtD": 0.18010434299659345,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11747371882687815,
     "CrCbGaD": 0.003097368182127906
   },
+  "n_trials": 2.0,
   "prediction": 0.0037512846110515897,
   "status": 0,
   "training_prediction": 0.0127515933288302

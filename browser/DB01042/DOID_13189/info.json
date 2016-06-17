@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.782834850455137,
   "metapath_contribution": {
     "CbGbCtD": 0.3048040834228819,
     "CbGdCrCtD": 0.002739718315413397,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0025334496273552616,
     "CrCrCtD": 0.46628895409808546
   },
+  "n_trials": 0.0,
   "prediction": 0.00357714673960507,
   "status": 0,
   "training_prediction": 0.0220816986916794

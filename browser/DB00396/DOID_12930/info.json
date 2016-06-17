@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.17147949715398877,
     "CbGbCtD": 0.1994138873648487,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.23230342961995473,
     "CrCtD": 0.3405312289856468
   },
+  "n_trials": 0.0,
   "prediction": 0.0231391896684288,
   "status": 0,
   "training_prediction": 0.0228328220943695

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.405721716514954,
   "metapath_contribution": {
-    "CbGaD": 0.6350153416644728,
-    "CbGeAlD": 0.1405575552648201,
-    "CbGpPWpGaD": 0.22256038144871734,
-    "CrCbGaD": 0.0018667216219895937
+    "CbGaD": 0.6350153416644729,
+    "CbGeAlD": 0.14055755526482014,
+    "CbGpPWpGaD": 0.22256038144871737,
+    "CrCbGaD": 0.001866721621989594
   },
+  "n_trials": 0.0,
   "prediction": 0.0012385975510559,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

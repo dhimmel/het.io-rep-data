@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.429778933680104,
   "metapath_contribution": {
     "CbGaD": 0.24618949386197767,
     "CbGbCtD": 0.44206663826029047,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16106036409011432,
     "CrCbGaD": 0.00442631494560371
   },
+  "n_trials": 0.0,
   "prediction": 0.00203085274009556,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

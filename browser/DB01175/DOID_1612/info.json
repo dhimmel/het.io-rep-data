@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.53446033810143,
   "metapath_contribution": {
     "CbGaD": 0.29812866692224416,
     "CbGbCtD": 0.337922155561387,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.28155002255842565,
     "CrCbGaD": 0.0027681745196778853
   },
+  "n_trials": 0.0,
   "prediction": 0.0025278273715028,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

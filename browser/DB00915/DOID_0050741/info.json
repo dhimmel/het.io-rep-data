@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.3620442853765833,
     "CbGbCtD": 0.4742042581177353,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.061265926671343805,
     "CcSEcCtD": 0.06400375738546447
   },
+  "n_trials": 0.0,
   "prediction": 0.0165448838479783,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

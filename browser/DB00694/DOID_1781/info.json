@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.15319502339352592,
     "CbGdCrCtD": 0.0006415179134750099,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.1797089295169522,
     "CrCtD": 0.2793307511157222
   },
+  "n_trials": 0.0,
   "prediction": 0.0699272940026263,
   "status": 0,
   "training_prediction": 0.0836515783734048

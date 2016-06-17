@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8198959687906371,
   "metapath_contribution": {
     "CbGbCtD": 0.31655881973497696,
     "CcSEcCtD": 0.11487263958386351,
     "CpDpCtD": 0.5675193812665194,
     "CrCbGaD": 0.0010491594146402998
   },
+  "n_trials": 0.0,
   "prediction": 0.0041167171079792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

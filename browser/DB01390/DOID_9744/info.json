@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01390",
   "compound_name": "Sodium bicarbonate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGeAlD": 0.46151863808713056,
     "CbGpPWpGaD": 0.4451594361771314,
     "CcSEcCtD": 0.09332192573573814
   },
+  "n_trials": 0.0,
   "prediction": 0.00228006983303208,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

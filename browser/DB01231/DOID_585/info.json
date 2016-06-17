@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01231",
   "compound_name": "Diphenidol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.8010403120936279,
   "metapath_contribution": {
     "CbGaD": 0.951898804514313,
     "CbGeAlD": 0.015288692053020431,
     "CbGpPWpGaD": 0.02571443945843267,
     "CrCbGaD": 0.007098063974233907
   },
+  "n_trials": 0.0,
   "prediction": 0.0021515541921181603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

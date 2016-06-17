@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.23206500058017634,
     "CbGbCtD": 0.4173591738294736,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.26477606949175686,
     "CrCbGaD": 0.0009712538667047117
   },
+  "n_trials": 0.0,
   "prediction": 0.0132783877925211,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

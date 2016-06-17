@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00794",
   "compound_name": "Primidone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.5728218465539661,
   "metapath_contribution": {
     "CbGaD": 0.27466517749680724,
     "CbGbCtD": 0.5013371326699034,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1372367292789111,
     "CrCbGaD": 0.0023895199526458703
   },
+  "n_trials": 0.0,
   "prediction": 0.00281982018929876,
   "status": 0,
   "training_prediction": 0.0123509020596299

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01022",
   "compound_name": "Phylloquinone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6690507152145639,
   "metapath_contribution": {
     "CbGaD": 0.7335440223514869,
     "CbGeAlD": 0.05622389612797558,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0941360168311953,
     "CrCbGaD": 0.00936739379700817
   },
+  "n_trials": 0.0,
   "prediction": 0.00328342092795028,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

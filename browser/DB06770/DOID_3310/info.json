@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGbCtD": 0.7110515526128214,
     "CcSEcCtD": 0.17661970580894115,
     "CrCbGaD": 0.0026527208257523536,
     "CrCrCtD": 0.10967602075248509
   },
+  "n_trials": 0.0,
   "prediction": 0.00211319195517273,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

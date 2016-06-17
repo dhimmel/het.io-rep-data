@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00520",
   "compound_name": "Caspofungin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.3166035677631913,
     "CbGbCtD": 0.47675833174594723,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15706347160685705,
     "CrCbGaD": 0.0020884289841455717
   },
+  "n_trials": 0.0,
   "prediction": 0.00631903554448454,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

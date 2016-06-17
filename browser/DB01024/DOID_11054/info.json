@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.5658808503657774,
     "CbGbCtD": 0.12221538683584063,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13992592731476314,
     "CrCbGaD": 0.004339382723083546
   },
+  "n_trials": 0.0,
   "prediction": 0.00340382282797472,
   "status": 0,
   "training_prediction": 0.0144235497983794

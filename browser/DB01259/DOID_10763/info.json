@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6274382314694411,
   "metapath_contribution": {
     "CbGaD": 0.28035166309758536,
     "CbGbCtD": 0.4071179885706963,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1412009535433987,
     "CrCbGaD": 0.0013837674136168087
   },
+  "n_trials": 0.0,
   "prediction": 0.00527460955815409,
   "status": 0,
   "training_prediction": 0.0596450286225256

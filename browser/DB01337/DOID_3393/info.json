@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01337",
   "compound_name": "Pancuronium",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.391417425227568,
   "metapath_contribution": {
     "CbGbCtD": 0.5065292977751941,
     "CbGeAlD": 0.04977965561758008,
     "CbGpPWpGaD": 0.19750175999755357,
     "CcSEcCtD": 0.2461892866096723
   },
+  "n_trials": 0.0,
   "prediction": 0.0019650268325746303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

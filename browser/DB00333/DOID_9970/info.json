@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.08862937739483538,
     "CbGbCtD": 0.1889815627597466,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.25526868619125676,
     "CrCtD": 0.34408487509984526
   },
+  "n_trials": 0.0,
   "prediction": 0.00922960563538742,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

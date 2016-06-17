@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.07710650481107578,
     "CbGbCtD": 0.1170684438905963,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.4785949862507711,
     "CtDrD": 0.2581467884618378
   },
+  "n_trials": 0.0,
   "prediction": 0.0328989443645088,
   "status": 0,
   "training_prediction": 0.16158374127126998

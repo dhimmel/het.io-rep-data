@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00747",
   "compound_name": "Scopolamine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.429778933680104,
   "metapath_contribution": {
     "CbGaD": 0.23709119221205974,
     "CbGbCtD": 0.32487107819804506,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1410165444143759,
     "CcSEcCtD": 0.2687245287573276
   },
+  "n_trials": 0.0,
   "prediction": 0.00209028596607142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

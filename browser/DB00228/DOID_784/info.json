@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.622886866059818,
   "metapath_contribution": {
     "CbGaD": 0.6367775109132676,
     "CbGeAlD": 0.14224205314063815,
     "CbGpPWpGaD": 0.2127639385579603,
     "CrCbGaD": 0.008216497388133884
   },
+  "n_trials": 0.0,
   "prediction": 0.00186838873119189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

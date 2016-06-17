@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.358907672301691,
   "metapath_contribution": {
-    "CbGaD": 0.33227749588107014,
-    "CbGbCtD": 0.5287750887042068,
-    "CbGeAlD": 0.04385617588344357,
-    "CbGpPWpGaD": 0.09397559366939308,
-    "CrCbGaD": 0.0011156458618865404
+    "CbGaD": 0.3322774958810701,
+    "CbGbCtD": 0.5287750887042066,
+    "CbGeAlD": 0.043856175883443566,
+    "CbGpPWpGaD": 0.09397559366939306,
+    "CrCbGaD": 0.0011156458618865402
   },
+  "n_trials": 0.0,
   "prediction": 0.0013929848577376,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

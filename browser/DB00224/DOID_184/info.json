@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00224",
   "compound_name": "Indinavir",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.34711477264981233,
     "CbGbCtD": 0.5103496442011607,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10416681062544175,
     "CrCbGaD": 0.002631239586882908
   },
+  "n_trials": 1.0,
   "prediction": 0.00294147580700569,
   "status": 0,
   "training_prediction": 0.00419470938053327

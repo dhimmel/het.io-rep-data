@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.1493332313500324,
     "CbGbCtD": 0.5729323064518917,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06837691580020674,
     "CcSEcCtD": 0.2075229329362545
   },
+  "n_trials": 0.0,
   "prediction": 0.00598115157867969,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

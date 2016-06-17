@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.07216666107458701,
     "CbGbCtD": 0.15342939535720482,
@@ -16,6 +18,7 @@
     "CrCtD": 0.19703279314845878,
     "CtDrD": 0.14288954423323766
   },
+  "n_trials": 7.0,
   "prediction": 0.31148306629545397,
   "status": 0,
   "training_prediction": 0.8754756844062349

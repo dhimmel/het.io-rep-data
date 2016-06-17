@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.604031209362809,
   "metapath_contribution": {
     "CbGaD": 0.5271508646788421,
     "CbGbCtD": 0.2501798613564145,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.12001964358871034,
     "CrCbGaD": 0.0025528514854899964
   },
+  "n_trials": 2.0,
   "prediction": 0.0018591539722112,
   "status": 0,
   "training_prediction": 0.0047622891404308

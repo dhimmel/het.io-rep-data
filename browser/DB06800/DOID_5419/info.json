@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06800",
   "compound_name": "Methylnaltrexone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.402470741222367,
   "metapath_contribution": {
     "CbGaD": 0.8239158442771336,
     "CbGeAlD": 0.06709368404960514,
     "CbGpPWpGaD": 0.10158184389757464,
     "CrCbGaD": 0.007408627775686647
   },
+  "n_trials": 0.0,
   "prediction": 0.001362816380179,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

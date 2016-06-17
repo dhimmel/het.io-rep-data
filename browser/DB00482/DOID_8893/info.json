@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
-    "CbGbCtD": 0.2239236181126109,
-    "CbGdCrCtD": 0.002344362111713118,
-    "CbGeAlD": 0.00447229637231981,
-    "CbGpPWpGaD": 0.05617673901565906,
-    "CcSEcCtD": 0.13604567843641643,
-    "CpDpCtD": 0.5770373059512806
+    "CbGbCtD": 0.22392361811261094,
+    "CbGdCrCtD": 0.0023443621117131184,
+    "CbGeAlD": 0.004472296372319811,
+    "CbGpPWpGaD": 0.05617673901565907,
+    "CcSEcCtD": 0.13604567843641646,
+    "CpDpCtD": 0.5770373059512807
   },
+  "n_trials": 0.0,
   "prediction": 0.00353997268273335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

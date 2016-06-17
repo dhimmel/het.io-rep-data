@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.0240572171651495,
   "metapath_contribution": {
     "CbGaD": 0.2615763819561788,
     "CbGbCtD": 0.3905440663533476,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2135726384233097,
     "CrCbGaD": 0.00392775225306956
   },
+  "n_trials": 0.0,
   "prediction": 0.000495235055788755,
   "status": 0,
   "training_prediction": 0.009994723464744509

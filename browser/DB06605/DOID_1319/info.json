@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06605",
   "compound_name": "Apixaban",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.5449086862543916,
     "CbGbCtD": 0.33068708363959826,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06352399081593324,
     "CcSEcCtD": 0.054691704956435334
   },
+  "n_trials": 0.0,
   "prediction": 0.00537551228085996,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00878",
   "compound_name": "Chlorhexidine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.631989596879064,
   "metapath_contribution": {
     "CbGbCtD": 0.5235387420173379,
     "CbGeAlD": 0.054466964728834985,
     "CbGpPWpGaD": 0.14077923781622056,
     "CcSEcCtD": 0.2812150554376066
   },
+  "n_trials": 0.0,
   "prediction": 0.0032295673807978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

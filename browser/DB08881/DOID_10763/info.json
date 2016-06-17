@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.41742522756827005,
   "metapath_contribution": {
     "CbGaD": 0.29370852387123414,
     "CbGbCtD": 0.43144104038575354,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14497677667655268,
     "CrCbGaD": 0.00016301461450574507
   },
+  "n_trials": 0.0,
   "prediction": 0.00317075105653812,
   "status": 0,
   "training_prediction": 0.0593987924297305

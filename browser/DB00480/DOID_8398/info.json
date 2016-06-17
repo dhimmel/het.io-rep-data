@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.8216366803501064,
     "CbGeAlD": 0.09782576627430113,
     "CbGpPWpGaD": 0.07585868659406331,
     "CrCbGaD": 0.004678866781529207
   },
+  "n_trials": 0.0,
   "prediction": 0.00411556462620785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

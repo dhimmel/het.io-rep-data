@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.3440891618174305,
     "CbGbCtD": 0.24155136153535828,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0021249059059066213,
     "CrCrCtD": 0.25254368901893737
   },
+  "n_trials": 0.0,
   "prediction": 0.008054642605737641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

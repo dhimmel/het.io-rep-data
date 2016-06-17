@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.35955786736020795,
   "metapath_contribution": {
     "CbGaD": 0.31506957321920825,
     "CbGeAlD": 5.4686349655326405e-05,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.005227739377253683,
     "CtDrD": 0.6325694249900824
   },
+  "n_trials": 1.0,
   "prediction": 0.0011609372409362199,
   "status": 0,
   "training_prediction": 0.00415565740803666

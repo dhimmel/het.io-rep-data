@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00418",
   "compound_name": "Secobarbital",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.2462584454673974,
     "CbGbCtD": 0.5281767499756687,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12888842841201117,
     "CrCbGaD": 0.002252613540728464
   },
+  "n_trials": 0.0,
   "prediction": 0.0033975750059312,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

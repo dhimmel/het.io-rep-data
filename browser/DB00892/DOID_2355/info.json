@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00892",
   "compound_name": "Oxybuprocaine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.8516465535278365,
     "CbGeAlD": 0.014213564545039362,
     "CbGpPWpGaD": 0.1303047100495942,
     "CrCbGaD": 0.003835171877529845
   },
+  "n_trials": 0.0,
   "prediction": 0.00227030677880258,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

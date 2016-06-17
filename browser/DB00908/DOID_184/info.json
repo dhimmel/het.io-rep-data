@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.782834850455137,
   "metapath_contribution": {
     "CbGaD": 0.3083898754102622,
     "CbGbCtD": 0.5055242240660235,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10716525745209696,
     "CrCbGaD": 0.0010150553270699644
   },
+  "n_trials": 0.0,
   "prediction": 0.00230211160549632,
   "status": 0,
   "training_prediction": 0.0032838373633291198

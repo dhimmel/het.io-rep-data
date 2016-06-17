@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00193",
   "compound_name": "Tramadol",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.43888166449934995,
   "metapath_contribution": {
     "CbGbCtD": 0.5249008466823087,
     "CbGpPWpGaD": 0.06262638579451918,
     "CcSEcCtD": 0.41075562499955925,
     "CrCbGaD": 0.0017171425236128756
   },
+  "n_trials": 0.0,
   "prediction": 0.00192321954349815,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

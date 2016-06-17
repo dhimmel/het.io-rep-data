@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
     "CbGaD": 0.19604790363869087,
     "CbGbCtD": 0.660232232921851,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09958819525567437,
     "CrCbGaD": 9.288370183252455e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00344658805265403,
   "status": 0,
   "training_prediction": 0.0105727862745671

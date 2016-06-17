@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.21948042931330863,
     "CbGbCtD": 0.5174971078756069,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07785711065861749,
     "CrCbGaD": 1.9417145332082754e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00302156559899932,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

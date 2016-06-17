@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.764629388816645,
   "metapath_contribution": {
     "CbGbCtD": 0.6815106674473242,
     "CbGdCrCtD": 0.003330462984675017,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12088292144333786,
     "CcSEcCtD": 0.15120057947401308
   },
+  "n_trials": 9.0,
   "prediction": 0.0027383936814100803,
   "status": 0,
   "training_prediction": 0.0126027338183158

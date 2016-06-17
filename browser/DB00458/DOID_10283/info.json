@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5994798439531861,
   "metapath_contribution": {
     "CbGaD": 0.37995684225170007,
     "CbGbCtD": 0.34489454408021525,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12808051118727878,
     "CrCbGaD": 0.002816755524803144
   },
+  "n_trials": 0.0,
   "prediction": 0.0027595664970370103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

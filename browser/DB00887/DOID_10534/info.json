@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7451235370611179,
   "metapath_contribution": {
     "CbGaD": 0.20960608852450072,
     "CbGbCtD": 0.39018953601444284,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11616952973357321,
     "CrCbGaD": 0.007819131634148097
   },
+  "n_trials": 0.0,
   "prediction": 0.00218632218461448,
   "status": 0,
   "training_prediction": 0.00481400575482449

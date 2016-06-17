@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
     "CbGaD": 0.7772702339694844,
     "CbGbCtD": 0.08666374921305155,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.006873873393206519,
     "CrCbGaD": 0.006989199746814189
   },
+  "n_trials": 0.0,
   "prediction": 0.00198642565125885,
   "status": 0,
   "training_prediction": 0.00146520937904951

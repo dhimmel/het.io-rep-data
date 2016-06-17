@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.535529251487891,
     "CbGbCtD": 0.1932571566450509,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.08372716644982572,
     "CrCbGaD": 0.004253315560396708
   },
+  "n_trials": 0.0,
   "prediction": 0.00449624127144511,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6183355006501949,
   "metapath_contribution": {
     "CbGaD": 0.13363519170606902,
     "CbGbCtD": 0.1960441400545729,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002394330009481111,
     "CrCrCtD": 0.3883809916436643
   },
+  "n_trials": 0.0,
   "prediction": 0.00447929847040444,
   "status": 0,
   "training_prediction": 0.0592508626270164

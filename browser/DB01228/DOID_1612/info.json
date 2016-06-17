@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01228",
   "compound_name": "Encainide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.22756827048114397,
   "metapath_contribution": {
     "CbGaD": 0.7042258624741963,
     "CbGbCtD": 0.23308061503006458,
     "CbGpPWpGaD": 0.053236692391003405,
     "CrCbGaD": 0.009456830104735662
   },
+  "n_trials": 0.0,
   "prediction": 0.00137080413234854,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

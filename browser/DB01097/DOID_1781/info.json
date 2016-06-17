@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01097",
   "compound_name": "Leflunomide",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGbCtD": 0.540851643376114,
     "CbGeAlD": 0.03414913698295441,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3274535652862938,
     "CrCbGaD": 0.0026515680672942565
   },
+  "n_trials": 0.0,
   "prediction": 0.00324491601314667,
   "status": 0,
   "training_prediction": 0.00889154852893388

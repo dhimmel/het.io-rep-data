@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01148",
   "compound_name": "Flavoxate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.6269540403601097,
     "CbGbCtD": 0.13777170433416466,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.039920505260704224,
     "CrCbGaD": 0.0013711786604403947
   },
+  "n_trials": 0.0,
   "prediction": 0.0025688604167148697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

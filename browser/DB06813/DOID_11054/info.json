@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06813",
   "compound_name": "Pralatrexate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.25145035424804957,
     "CbGbCtD": 0.2025802698967155,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.18829503041531837,
     "CrCtD": 0.2849248680201611
   },
+  "n_trials": 0.0,
   "prediction": 0.0497357024240685,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00983",
   "compound_name": "Formoterol",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.45838751625487606,
   "metapath_contribution": {
     "CbGaD": 0.7592914933366885,
     "CbGeAlD": 0.034671279056760575,
     "CbGpPWpGaD": 0.20054225953093557,
     "CrCbGaD": 0.005494968075615304
   },
+  "n_trials": 0.0,
   "prediction": 0.00147784860561879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

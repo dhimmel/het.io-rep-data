@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
-    "CbGaD": 0.3634944783177258,
-    "CbGeAlD": 0.06454567064691334,
-    "CbGpPWpGaD": 0.047421745805856,
-    "CrCbGaD": 0.003522509193808167,
-    "CtDrD": 0.5210155960356968
+    "CbGaD": 0.36349447831772574,
+    "CbGeAlD": 0.06454567064691333,
+    "CbGpPWpGaD": 0.047421745805855994,
+    "CrCbGaD": 0.0035225091938081666,
+    "CtDrD": 0.5210155960356967
   },
+  "n_trials": 0.0,
   "prediction": 0.00532558419872451,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

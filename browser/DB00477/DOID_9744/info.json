@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.23992197659297798,
   "metapath_contribution": {
     "CbGaD": 0.5035578708379513,
-    "CbGbCtD": 0.24360680538744287,
-    "CbGeAlD": 0.06972005303012067,
-    "CbGpPWpGaD": 0.1588538614461417,
-    "CcSEcCtD": 0.019720346767518476,
-    "CrCbGaD": 0.004541062530825016
+    "CbGbCtD": 0.2436068053874428,
+    "CbGeAlD": 0.06972005303012066,
+    "CbGpPWpGaD": 0.15885386144614166,
+    "CcSEcCtD": 0.019720346767518472,
+    "CrCbGaD": 0.004541062530825015
   },
+  "n_trials": 0.0,
   "prediction": 0.00103059142334122,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

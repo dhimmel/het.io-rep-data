@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.8422322310975421,
     "CbGeAlD": 0.029607673473299234,
     "CbGpPWpGaD": 0.12414531398225674,
     "CrCbGaD": 0.004014781446902062
   },
+  "n_trials": 0.0,
   "prediction": 0.0019351236625109601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

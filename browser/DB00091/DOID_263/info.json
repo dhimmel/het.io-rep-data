@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.029608972941063284,
     "CbGbCtD": 0.3055536755551837,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08075390260052348,
     "CiPCiCtD": 0.512105116779291
   },
+  "n_trials": 6.0,
   "prediction": 0.0217839974052913,
   "status": 0,
   "training_prediction": 0.156350782917789

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.4568143058988654,
     "CbGbCtD": 0.3517188895368426,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06975670262011452,
     "CcSEcCtD": 0.0782681203400899
   },
+  "n_trials": 0.0,
   "prediction": 0.00528678131233213,
   "status": 0,
   "training_prediction": 0.00641185274588816

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00268",
   "compound_name": "Ropinirole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.23941222822168132,
     "CbGbCtD": 0.2956491209043502,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11321281769069905,
     "CpDpCtD": 0.28425584094119805
   },
+  "n_trials": 0.0,
   "prediction": 0.0209210558358432,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

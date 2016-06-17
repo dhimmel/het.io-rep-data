@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00763",
   "compound_name": "Methimazole",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGaD": 0.5567969880510216,
     "CbGbCtD": 0.2788280637583825,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05665203764123392,
     "CcSEcCtD": 0.08253840595278562
   },
+  "n_trials": 0.0,
   "prediction": 0.00375314574690673,
   "status": 0,
   "training_prediction": 0.00824838689006496

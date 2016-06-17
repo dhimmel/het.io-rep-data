@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8894668400520159,
   "metapath_contribution": {
     "CbGaD": 0.6829211790762995,
     "CbGbCtD": 0.0367973929583365,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06959474366614264,
     "CrCbGaD": 0.005503637044119528
   },
+  "n_trials": 0.0,
   "prediction": 0.00273762142197904,
   "status": 0,
   "training_prediction": 0.00332202195389431

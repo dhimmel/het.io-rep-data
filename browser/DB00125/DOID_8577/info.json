@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.5785162382344736,
     "CbGbCtD": 0.29924927398728574,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.026410211449140984,
     "CrCbGaD": 0.0011003714480411942
   },
+  "n_trials": 0.0,
   "prediction": 0.00435613890989971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

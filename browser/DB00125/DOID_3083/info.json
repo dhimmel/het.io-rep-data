@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.5771617115295082,
     "CbGbCtD": 0.2612748747028267,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03304876384904349,
     "CrCbGaD": 0.004952401678461726
   },
+  "n_trials": 0.0,
   "prediction": 0.00505081362730594,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

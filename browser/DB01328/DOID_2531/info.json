@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01328",
   "compound_name": "Cefonicid",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.187906371911573,
   "metapath_contribution": {
     "CbGaD": 0.659082657041033,
     "CbGbCtD": 0.3227551413613902,
     "CbGpPWpGaD": 0.013203808770243507,
     "CrCbGaD": 0.004958392827333269
   },
+  "n_trials": 0.0,
   "prediction": 0.00122643646521451,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

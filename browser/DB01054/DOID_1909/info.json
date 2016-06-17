@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.386215864759428,
   "metapath_contribution": {
     "CbGaD": 0.31949140696578465,
     "CbGbCtD": 0.40802188167813414,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.19934961792698935,
     "CrCbGaD": 0.0002225045231746231
   },
+  "n_trials": 0.0,
   "prediction": 0.00120772197496948,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

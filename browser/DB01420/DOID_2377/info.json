@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01420",
   "compound_name": "Testosterone Propionate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
-    "CbGbCtD": 0.08836984594837667,
-    "CbGpPWpGaD": 0.02190798996608261,
+    "CbGbCtD": 0.08836984594837669,
+    "CbGpPWpGaD": 0.021907989966082612,
     "CcSEcCtD": 0.06416085012805786,
-    "CpDpCtD": 0.4222387070806557,
+    "CpDpCtD": 0.42223870708065575,
     "CrCbGaD": 0.0030421355488576157,
-    "CrCrCtD": 0.4002804713279696
+    "CrCrCtD": 0.4002804713279697
   },
+  "n_trials": 0.0,
   "prediction": 0.00405156680736243,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

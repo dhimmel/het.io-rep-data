@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00118",
   "compound_name": "S-Adenosylmethionine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.205461638491547,
   "metapath_contribution": {
     "CbGdCrCtD": 0.008794922549355409,
     "CbGeAlD": 0.0954639310692395,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.006486203955196061,
     "CrCrCtD": 0.7249124067418312
   },
+  "n_trials": 0.0,
   "prediction": 0.00104059337854256,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

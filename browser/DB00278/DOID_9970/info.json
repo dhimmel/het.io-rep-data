@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00278",
   "compound_name": "Argatroban",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.5364519348808363,
     "CbGbCtD": 0.2403189901151076,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10055405567458275,
     "CcSEcCtD": 0.11487639201568468
   },
+  "n_trials": 0.0,
   "prediction": 0.00625476123348871,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

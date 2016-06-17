@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.5643693107932379,
   "metapath_contribution": {
     "CbGaD": 0.5270011491221257,
     "CbGbCtD": 0.30648842250547337,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15690227853382216,
     "CrCbGaD": 0.003381751412589602
   },
+  "n_trials": 0.0,
   "prediction": 0.00204797933976117,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

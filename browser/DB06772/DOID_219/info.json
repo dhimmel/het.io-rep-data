@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.679453836150845,
   "metapath_contribution": {
     "CbGaD": 0.16312850030098805,
     "CbGbCtD": 0.6875046337244988,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09781429206506397,
     "CrCbGaD": 0.002679072606030796
   },
+  "n_trials": 0.0,
   "prediction": 0.00205062488251065,
   "status": 0,
   "training_prediction": 0.00292541965281184

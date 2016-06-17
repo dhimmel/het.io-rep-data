@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00202",
   "compound_name": "Succinylcholine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.47529258777633293,
   "metapath_contribution": {
     "CbGaD": 0.5841129886168643,
     "CbGeAlD": 0.06367999569459475,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16087493707086864,
     "CrCbGaD": 0.007179665322934914
   },
+  "n_trials": 1.0,
   "prediction": 0.00238365084180908,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

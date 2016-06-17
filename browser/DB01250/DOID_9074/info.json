@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01250",
   "compound_name": "Olsalazine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
     "CbGaD": 0.4952071946602245,
     "CbGbCtD": 0.3664000281845362,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.08885754663626874,
     "CrCbGaD": 0.00302434891694684
   },
+  "n_trials": 0.0,
   "prediction": 0.0037866051309530103,
   "status": 0,
   "training_prediction": 0.0109732949534068

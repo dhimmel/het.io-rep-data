@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:3565",
   "disease_name": "meningioma",
+  "disease_percentile": 0.0741222366710013,
   "metapath_contribution": {
     "CbGaD": 0.9439135155209234,
     "CbGpPWpGaD": 0.04948561859431352,
     "CrCbGaD": 0.006600865884763103
   },
+  "n_trials": 1.0,
   "prediction": 0.000701051341608433,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.20593769425059466,
     "CbGbCtD": 0.2041747767926424,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.0014254879010043365,
     "CrCrCtD": 0.21145456487052972
   },
+  "n_trials": 0.0,
   "prediction": 0.00750140448595986,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

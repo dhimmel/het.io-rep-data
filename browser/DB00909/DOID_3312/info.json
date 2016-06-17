@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.6003963091286487,
     "CbGeAlD": 0.1681008187026349,
     "CbGpPWpGaD": 0.23150287216871634
   },
+  "n_trials": 2.0,
   "prediction": 0.00250703792846293,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

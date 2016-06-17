@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGbCtD": 0.28446119871026304,
     "CbGdCrCtD": 0.0020746222629394475,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0540420019534002,
     "CpDpCtD": 0.5995978659308244
   },
+  "n_trials": 0.0,
   "prediction": 0.00294922855209952,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

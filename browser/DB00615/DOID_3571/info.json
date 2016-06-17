@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00615",
   "compound_name": "Rifabutin",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.607282184655397,
   "metapath_contribution": {
     "CbGbCtD": 0.00958698567442496,
     "CbGeAlD": 0.12199307142683904,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18766677848769553,
     "CrCbGaD": 0.0013055027645900471
   },
+  "n_trials": 0.0,
   "prediction": 0.00166459914008192,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

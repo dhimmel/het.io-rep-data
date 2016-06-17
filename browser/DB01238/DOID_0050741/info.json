@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.3081954795340161,
     "CbGbCtD": 0.18021023321385324,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3037812311645821,
     "CrCbGaD": 0.0024924507619510502
   },
+  "n_trials": 0.0,
   "prediction": 0.0185057175027977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7139141742522759,
   "metapath_contribution": {
     "CbGaD": 0.3192610851959707,
     "CbGbCtD": 0.2920632340737379,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003295385496723261,
     "CrCrCtD": 0.18413375065420007
   },
+  "n_trials": 0.0,
   "prediction": 0.007283401948952009,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.16230690095555594,
     "CbGbCtD": 0.17641986629916012,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.17470067304009593,
     "CrCtD": 0.23008884932777188
   },
+  "n_trials": 1.0,
   "prediction": 0.061091308733635004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

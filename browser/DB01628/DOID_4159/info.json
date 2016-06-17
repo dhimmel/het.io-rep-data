@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.1122609005621436,
     "CbGbCtD": 0.15656725756422402,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003007134244487149,
     "CrCtD": 0.6556203390698572
   },
+  "n_trials": 0.0,
   "prediction": 0.0138006872829177,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

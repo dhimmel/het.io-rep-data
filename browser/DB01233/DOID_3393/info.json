@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.770481144343303,
   "metapath_contribution": {
     "CbGaD": 0.3178289492054755,
     "CbGbCtD": 0.2433404594959854,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.27760333824336997,
     "CrCbGaD": 0.0020494605487454257
   },
+  "n_trials": 1.0,
   "prediction": 0.00443853312164619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

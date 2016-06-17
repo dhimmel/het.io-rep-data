@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.41742522756827005,
   "metapath_contribution": {
     "CbGaD": 0.7275933783389902,
     "CbGeAlD": 0.04999454552691741,
     "CbGpPWpGaD": 0.2135333796712722,
     "CrCbGaD": 0.00887869646282027
   },
+  "n_trials": 0.0,
   "prediction": 0.0012420440222692401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

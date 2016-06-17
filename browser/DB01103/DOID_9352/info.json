@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.373211963589077,
   "metapath_contribution": {
     "CbGaD": 0.20767670329486546,
     "CbGbCtD": 0.6096631425769854,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.10964520319073066,
     "CrCbGaD": 0.0031922093158951352
   },
+  "n_trials": 0.0,
   "prediction": 0.00201970143713951,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

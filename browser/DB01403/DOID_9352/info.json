@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
     "CbGaD": 0.31104358844958113,
     "CbGbCtD": 0.3373494784618741,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0027547416114354936,
     "CrCrCtD": 0.20152902696917924
   },
+  "n_trials": 1.0,
   "prediction": 0.00391566847239485,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

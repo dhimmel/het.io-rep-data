@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00700",
   "compound_name": "Eplerenone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGbCtD": 0.18129396385934626,
     "CbGeAlD": 0.0023127272613936516,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.28914076378875414,
     "CrCtD": 0.4716757609854348
   },
+  "n_trials": 0.0,
   "prediction": 0.0160816606605156,
   "status": 0,
   "training_prediction": 0.0474973300087751

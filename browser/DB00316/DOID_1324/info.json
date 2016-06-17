@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.4211904312916218,
     "CbGbCtD": 0.3305743174230929,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11797796610535966,
     "CcSEcCtD": 0.10975571327625908
   },
+  "n_trials": 1.0,
   "prediction": 0.00612868885949883,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

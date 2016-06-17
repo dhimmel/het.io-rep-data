@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00332",
   "compound_name": "Ipratropium bromide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGaD": 0.8691998423739211,
     "CbGeAlD": 0.036848416585248935,
     "CbGpPWpGaD": 0.08520865149913805,
     "CrCbGaD": 0.008743089541691836
   },
+  "n_trials": 0.0,
   "prediction": 0.0022120712752613397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

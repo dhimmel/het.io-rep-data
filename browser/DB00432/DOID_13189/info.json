@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.345253576072822,
   "metapath_contribution": {
     "CbGbCtD": 0.7259253213201163,
     "CbGdCrCtD": 0.008604817150571407,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.00713121175695014,
     "CrCbGaD": 0.011559347998915073
   },
+  "n_trials": 0.0,
   "prediction": 0.0017761483360552801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

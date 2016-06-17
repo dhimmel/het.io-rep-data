@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01339",
   "compound_name": "Vecuronium",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
     "CbGaD": 0.5314194211743016,
     "CbGeAlD": 0.042348642595678665,
     "CbGpPWpGaD": 0.4189937202932551,
     "CrCbGaD": 0.007238215936764645
   },
+  "n_trials": 0.0,
   "prediction": 0.0020618745212564803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.464239271781534,
   "metapath_contribution": {
     "CbGbCtD": 0.5605147070704402,
     "CbGpPWpGaD": 0.07424376738792506,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0018754664530687872,
     "CrCrCtD": 0.2452487349652478
   },
+  "n_trials": 0.0,
   "prediction": 0.00209106550275517,
   "status": 0,
   "training_prediction": 0.007651429184687629

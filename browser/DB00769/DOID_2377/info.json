@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00769",
   "compound_name": "Hydrocortamate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGbCtD": 0.24199000173316598,
     "CrCbGaD": 0.0008398421685001058,
     "CrCrCtD": 0.321825864424848,
     "CrCtD": 0.4353442916734858
   },
+  "n_trials": 0.0,
   "prediction": 0.00900009752415637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

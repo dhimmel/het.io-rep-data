@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.804941482444733,
   "metapath_contribution": {
     "CbGaD": 0.38766647407921184,
     "CbGbCtD": 0.3741579427275417,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11659360096970006,
     "CrCbGaD": 0.0020685197400555377
   },
+  "n_trials": 0.0,
   "prediction": 0.00343233953496513,
   "status": 0,
   "training_prediction": 0.011676384744533

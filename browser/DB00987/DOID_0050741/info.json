@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.0208062418725618,
   "metapath_contribution": {
     "CbGbCtD": 0.009902514074683346,
     "CbGdCrCtD": 0.019652723076668297,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.3244319330698562,
     "CrCbGaD": 0.008097640105783684
   },
+  "n_trials": 0.0,
   "prediction": 0.000803303086146434,
   "status": 0,
   "training_prediction": 0.00162545268601145

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.17815344603381,
   "metapath_contribution": {
     "CbGaD": 0.47019046490928473,
     "CbGbCtD": 0.260035169290407,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08495167640990173,
     "CrCbGaD": 0.006210378703962139
   },
+  "n_trials": 0.0,
   "prediction": 0.0009762165268106119,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

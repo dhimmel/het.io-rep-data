@@ -1,15 +1,18 @@
 {
   "compound_id": "DB01101",
   "compound_name": "Capecitabine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.0019148614303246426,
-    "CbGeAlD": 0.006296171908677961,
-    "CcSEcCtD": 0.08182683771585011,
-    "CiPCiCtD": 0.5196751772313754,
-    "CtDrD": 0.3902869517137719
+    "CbGdCrCtD": 0.001914861430324643,
+    "CbGeAlD": 0.006296171908677962,
+    "CcSEcCtD": 0.08182683771585014,
+    "CiPCiCtD": 0.5196751772313755,
+    "CtDrD": 0.390286951713772
   },
+  "n_trials": 0.0,
   "prediction": 0.0160487829601755,
   "status": 0,
   "training_prediction": 0.181977904996332

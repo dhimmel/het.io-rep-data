@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.0487646293888166,
   "metapath_contribution": {
     "CbGaD": 0.723002985274496,
     "CbGeAlD": 0.07081296049837076,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07337365954617321,
     "CrCbGaD": 0.0032585842718890305
   },
+  "n_trials": 1.0,
   "prediction": 0.000708973508110428,
   "status": 0,
   "training_prediction": 0.0035374042027042

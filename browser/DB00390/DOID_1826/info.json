@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.376462938881664,
   "metapath_contribution": {
     "CbGaD": 0.3816111188065249,
     "CbGbCtD": 0.3041962794542011,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1339620959847785,
     "CrCbGaD": 0.00306587921420954
   },
+  "n_trials": 0.0,
   "prediction": 0.00250508188582782,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08911",
   "compound_name": "Trametinib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.5394272069415387,
     "CbGbCtD": 0.1568311382102659,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15123054647105982,
     "CcSEcCtD": 0.1386802864694759
   },
+  "n_trials": 9.0,
   "prediction": 0.00961345960193491,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

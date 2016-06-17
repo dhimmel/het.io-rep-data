@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.1749243973967939,
     "CbGbCtD": 0.16882215505133086,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0017725895083702489,
     "CtDrD": 0.5216506595487186
   },
+  "n_trials": 3.0,
   "prediction": 0.00536647741374385,
   "status": 0,
   "training_prediction": 0.0144694452997152

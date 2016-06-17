@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.5176686890918534,
     "CbGbCtD": 0.1853340585032568,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1840577790758112,
     "CrCbGaD": 0.007182167148856476
   },
+  "n_trials": 0.0,
   "prediction": 0.00269487217660281,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

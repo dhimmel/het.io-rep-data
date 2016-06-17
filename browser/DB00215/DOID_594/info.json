@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.272351165101457,
     "CbGeAlD": 0.015313119504616621,
@@ -12,6 +14,5 @@
     "CtDrD": 0.6616644870793453
   },
   "prediction": 0.0102419204604425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

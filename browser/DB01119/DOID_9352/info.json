@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01119",
   "compound_name": "Diazoxide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.3317416942680254,
     "CbGbCtD": 0.5034928131081238,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05663467623393886,
     "CcSEcCtD": 0.07802771310304767
   },
+  "n_trials": 1.0,
   "prediction": 0.0140862810808382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

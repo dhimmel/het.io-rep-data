@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00191",
   "compound_name": "Phentermine",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.202860858257477,
   "metapath_contribution": {
     "CbGbCtD": 0.17366235239333427,
     "CbGeAlD": 0.006212647188751879,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.554619351427202,
     "CrCbGaD": 0.05500511559020074
   },
+  "n_trials": 0.0,
   "prediction": 0.000903193733649475,
   "status": 0,
   "training_prediction": 0.00199179710596809

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00801",
   "compound_name": "Halazepam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.7891122205170679,
     "CbGeAlD": 0.022420854204758166,
     "CbGpPWpGaD": 0.18283201475601052,
     "CrCbGaD": 0.005634910522163458
   },
+  "n_trials": 0.0,
   "prediction": 0.00301989852409161,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

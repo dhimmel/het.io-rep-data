@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.45913697051986363,
     "CbGbCtD": 0.47122372305475735,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0469861560097803,
     "CrCbGaD": 0.00251375841142762
   },
+  "n_trials": 0.0,
   "prediction": 0.00989227457200073,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

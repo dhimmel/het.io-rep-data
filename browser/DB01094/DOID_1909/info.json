@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01094",
   "compound_name": "Hesperetin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.481057346708296,
     "CbGbCtD": 0.46087819934912727,
     "CbGeAlD": 0.015572477951627993,
     "CbGpPWpGaD": 0.04249197599094871
   },
+  "n_trials": 0.0,
   "prediction": 0.005666913189685229,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

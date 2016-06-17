@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.29713914174252304,
   "metapath_contribution": {
     "CbGaD": 0.49987036817150277,
     "CbGbCtD": 0.05985369480938958,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.29067188469491984,
     "CrCbGaD": 0.003216781622087249
   },
+  "n_trials": 0.0,
   "prediction": 0.00119014520091314,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

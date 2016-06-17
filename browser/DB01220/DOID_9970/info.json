@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01220",
   "compound_name": "Rifaximin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGaD": 0.5872381955502621,
     "CbGbCtD": 0.20140262241263224,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16458869475549198,
     "CrCbGaD": 0.0019293239370590945
   },
+  "n_trials": 0.0,
   "prediction": 0.00418212670188119,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

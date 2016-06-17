@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.364109232769831,
   "metapath_contribution": {
     "CbGaD": 0.45261163715464253,
     "CbGbCtD": 0.4790785168188301,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.054199150936089166,
     "CrCbGaD": 0.003837267892861134
   },
+  "n_trials": 0.0,
   "prediction": 0.00146145360779725,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

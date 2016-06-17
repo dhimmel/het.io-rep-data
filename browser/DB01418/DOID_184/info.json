@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.769180754226268,
   "metapath_contribution": {
     "CbGaD": 0.942117313389579,
     "CbGpPWpGaD": 0.00545457784615554,
     "CcSEcCtD": 0.048889874076574164,
     "CrCbGaD": 0.0035382346876911774
   },
+  "n_trials": 0.0,
   "prediction": 0.00225614477757612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

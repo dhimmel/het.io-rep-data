@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.413524057217165,
   "metapath_contribution": {
     "CbGbCtD": 0.46141908014239336,
     "CbGeAlD": 0.1912975318345782,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2882275732685286,
     "CrCbGaD": 0.006430750791359713
   },
+  "n_trials": 0.0,
   "prediction": 0.00140355999267147,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

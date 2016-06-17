@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.41612483745123496,
   "metapath_contribution": {
     "CbGaD": 0.40994382098333493,
     "CbGbCtD": 0.44242040364499036,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10082444094353618,
     "CrCbGaD": 0.0028583321347266347
   },
+  "n_trials": 0.0,
   "prediction": 0.00316507464380997,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

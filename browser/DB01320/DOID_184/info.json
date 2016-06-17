@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01320",
   "compound_name": "Fosphenytoin",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.6222366710013001,
   "metapath_contribution": {
     "CbGaD": 0.6204537376259833,
     "CbGbCtD": 0.14184022912240887,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21780233406580982,
     "CrCbGaD": 0.001964774467964877
   },
+  "n_trials": 0.0,
   "prediction": 0.0018416366475571399,
   "status": 0,
   "training_prediction": 0.00262751195581208

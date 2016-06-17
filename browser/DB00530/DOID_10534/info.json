@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.16466928253749166,
     "CbGbCtD": 0.23151910880627094,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0025357641480903545,
     "CtDrD": 0.40785135988735993
   },
+  "n_trials": 0.0,
   "prediction": 0.00713346194180972,
   "status": 0,
   "training_prediction": 0.0347963065676932

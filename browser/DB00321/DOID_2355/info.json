@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.279411764705882,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.296488946684005,
   "metapath_contribution": {
     "CbGaD": 0.5396946236191635,
     "CbGeAlD": 0.1882607764415346,
     "CbGpPWpGaD": 0.2691273443440547,
     "CrCbGaD": 0.0029172555952471954
   },
+  "n_trials": 0.0,
   "prediction": 0.0009290630895343311,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

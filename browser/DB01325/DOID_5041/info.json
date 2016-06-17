@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01325",
   "compound_name": "Quinethazone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGaD": 0.9143631887433324,
     "CbGeAlD": 0.03806193584420462,
     "CbGpPWpGaD": 0.03904409806159569,
     "CrCbGaD": 0.008530777350867281
   },
+  "n_trials": 0.0,
   "prediction": 0.00200146338711027,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

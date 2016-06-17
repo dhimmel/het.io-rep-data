@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00335",
   "compound_name": "Atenolol",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.208062418725618,
   "metapath_contribution": {
     "CbGbCtD": 0.5916830443568747,
     "CbGpPWpGaD": 0.0931882593475639,
     "CcSEcCtD": 0.3073976616930956,
     "CrCbGaD": 0.007731034602465783
   },
+  "n_trials": 1.0,
   "prediction": 0.00140647227265189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

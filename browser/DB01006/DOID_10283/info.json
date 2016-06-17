@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01006",
   "compound_name": "Letrozole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.4623514448324839,
     "CbGbCtD": 0.24935374402533841,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19051164553608183,
     "CrCbGaD": 0.00282113098557504
   },
+  "n_trials": 0.0,
   "prediction": 0.00781485946741237,
   "status": 0,
   "training_prediction": 0.0324484426470603

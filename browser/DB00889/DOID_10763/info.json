@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00889",
   "compound_name": "Granisetron",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.716514954486346,
   "metapath_contribution": {
     "CbGaD": 0.3047424794784511,
     "CbGbCtD": 0.42537029012567673,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06202255099879311,
     "CcSEcCtD": 0.18239912438631417
   },
+  "n_trials": 0.0,
   "prediction": 0.00734282939207001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

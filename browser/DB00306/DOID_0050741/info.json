@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00306",
   "compound_name": "Talbutal",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGaD": 0.5832602087422261,
     "CbGbCtD": 0.26037790023745183,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09685838434878104,
     "CrCbGaD": 0.004398206748317144
   },
+  "n_trials": 0.0,
   "prediction": 0.00665857533206669,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

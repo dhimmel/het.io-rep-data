@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01351",
   "compound_name": "Amobarbital",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.7659845430503008,
     "CbGeAlD": 0.06744464537325381,
     "CbGpPWpGaD": 0.1583502359990632,
     "CrCbGaD": 0.008220575577382072
   },
+  "n_trials": 0.0,
   "prediction": 0.0035186875211779,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

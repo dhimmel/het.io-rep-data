@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00508",
   "compound_name": "Triflupromazine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.276332899869961,
   "metapath_contribution": {
     "CbGaD": 0.41802547084073316,
     "CbGbCtD": 0.33980665032487195,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0040152636641044995,
     "CrCrCtD": 0.16931395688794
   },
+  "n_trials": 0.0,
   "prediction": 0.00155237979231714,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

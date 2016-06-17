@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.7659297789336801,
   "metapath_contribution": {
     "CbGaD": 0.7309755653276802,
     "CbGeAlD": 0.0901561105165221,
     "CbGpPWpGaD": 0.1726177038376595,
     "CrCbGaD": 0.006250620318138236
   },
+  "n_trials": 2.0,
   "prediction": 0.00221372313609078,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

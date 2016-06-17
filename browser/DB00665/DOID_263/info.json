@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00665",
   "compound_name": "Nilutamide",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGbCtD": 0.6400543537380498,
     "CbGeAlD": 0.01777258247525494,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.31853531675502894,
     "CrCbGaD": 0.003509598637772723
   },
+  "n_trials": 0.0,
   "prediction": 0.00204281672095661,
   "status": 0,
   "training_prediction": 0.005939660669898979

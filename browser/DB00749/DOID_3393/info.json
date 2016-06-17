@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.07840759111206752,
     "CbGbCtD": 0.26391049048392157,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.3517334757080793,
     "CpDpCtD": 0.1810924228443025
   },
+  "n_trials": 0.0,
   "prediction": 0.0297342861567876,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

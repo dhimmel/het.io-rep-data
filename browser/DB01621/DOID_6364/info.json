@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01621",
   "compound_name": "Pipotiazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.830299089726918,
   "metapath_contribution": {
     "CbGaD": 0.33501208907700586,
     "CbGbCtD": 0.3175531487176054,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0038369978634084684,
     "CrCrCtD": 0.2740162792471583
   },
+  "n_trials": 0.0,
   "prediction": 0.0054793564948409,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

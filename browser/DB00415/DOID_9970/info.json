@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00415",
   "compound_name": "Ampicillin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.15604681404421303,
   "metapath_contribution": {
     "CbGaD": 0.2758082132534019,
     "CbGbCtD": 0.4563474988178775,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13119311673985182,
     "CcSEcCtD": 0.11935415501717823
   },
+  "n_trials": 0.0,
   "prediction": 0.0012108683159540198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

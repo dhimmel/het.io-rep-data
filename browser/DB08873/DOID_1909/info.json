@@ -1,17 +1,19 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8511053315994799,
   "metapath_contribution": {
-    "CbGaD": 0.23045811760468493,
-    "CbGbCtD": 0.1813729814845559,
-    "CbGeAlD": 0.12860797418744557,
-    "CbGpPWpGaD": 0.2571395996802312,
-    "CcSEcCtD": 0.19881183622007403,
-    "CrCbGaD": 0.003609490823008401
+    "CbGaD": 0.23045811760468488,
+    "CbGbCtD": 0.18137298148455588,
+    "CbGeAlD": 0.12860797418744555,
+    "CbGpPWpGaD": 0.25713959968023115,
+    "CcSEcCtD": 0.19881183622007398,
+    "CrCbGaD": 0.0036094908230084005
   },
+  "n_trials": 0.0,
   "prediction": 0.00252524654609047,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

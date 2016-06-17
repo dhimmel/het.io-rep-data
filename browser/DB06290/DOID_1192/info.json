@@ -1,14 +1,16 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.7711313394018209,
   "metapath_contribution": {
     "CbGaD": 0.4572682679557079,
     "CbGbCtD": 0.4396102112468744,
     "CcSEcCtD": 0.10312152079741771
   },
+  "n_trials": 0.0,
   "prediction": 0.00250816454842941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

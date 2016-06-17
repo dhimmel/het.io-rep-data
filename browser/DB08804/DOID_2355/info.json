@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08804",
   "compound_name": "Nandrolone decanoate",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.584525357607282,
   "metapath_contribution": {
     "CbGaD": 0.8718335141488042,
     "CbGeAlD": 0.05394548141393251,
     "CbGpPWpGaD": 0.07317681404428572,
     "CrCbGaD": 0.0010441903929775274
   },
+  "n_trials": 1.0,
   "prediction": 0.00137130269422861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

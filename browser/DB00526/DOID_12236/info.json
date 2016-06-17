@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00526",
   "compound_name": "Oxaliplatin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.4781369567031515,
     "CbGbCtD": 0.38638946506706445,
     "CbGeAlD": 0.06542979031934876,
     "CbGpPWpGaD": 0.07004378791043536
   },
+  "n_trials": 0.0,
   "prediction": 0.00611053279983005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

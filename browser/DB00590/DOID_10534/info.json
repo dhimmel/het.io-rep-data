@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.503250975292588,
   "metapath_contribution": {
     "CbGbCtD": 0.2491818015405173,
     "CbGeAlD": 0.06946198004711507,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5352612535820366,
     "CrCbGaD": 0.0009854952940560103
   },
+  "n_trials": 0.0,
   "prediction": 0.00156490785030722,
   "status": 0,
   "training_prediction": 0.00344831080534134

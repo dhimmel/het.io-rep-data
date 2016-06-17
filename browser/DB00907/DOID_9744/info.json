@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.861375430464188,
     "CbGeAlD": 0.06369433925481578,
     "CbGpPWpGaD": 0.06966498374098827,
     "CrCbGaD": 0.005265246540008045
   },
+  "n_trials": 0.0,
   "prediction": 0.00227989180425314,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

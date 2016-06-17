@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06204",
   "compound_name": "Tapentadol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGaD": 0.2771386764069434,
     "CbGbCtD": 0.21767720812159208,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0005608181503369218,
     "CrCrCtD": 0.36854497110824197
   },
+  "n_trials": 0.0,
   "prediction": 0.00512475508377379,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

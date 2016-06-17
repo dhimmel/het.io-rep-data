@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.38036410923277003,
   "metapath_contribution": {
     "CbGaD": 0.15505908879489297,
     "CbGbCtD": 0.2957024888503559,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2284673893317911,
     "CrCbGaD": 6.788633456671191e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00199406551343122,
   "status": 0,
   "training_prediction": 0.00510679201252601

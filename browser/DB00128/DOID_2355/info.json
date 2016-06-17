@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.7238825315766303,
     "CbGeAlD": 0.10598550272910605,
     "CbGpPWpGaD": 0.16581639534095746,
     "CrCbGaD": 0.004315570353306092
   },
+  "n_trials": 0.0,
   "prediction": 0.0030663370871826198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

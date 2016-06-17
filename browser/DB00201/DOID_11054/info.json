@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGaD": 0.5537765218902136,
     "CbGbCtD": 0.18317464695560626,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14515195030772537,
     "CcSEcCtD": 0.04258144359636642
   },
+  "n_trials": 0.0,
   "prediction": 0.0024079887269545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

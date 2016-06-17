@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00121",
   "compound_name": "Biotin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGaD": 0.4903416024215744,
     "CbGbCtD": 0.3294707278919249,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.06248341251547844,
     "CbGpPWpGaD": 0.11464122048071845
   },
+  "n_trials": 1.0,
   "prediction": 0.008266327044502341,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00237",
   "compound_name": "Butabarbital",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.7633443864821718,
     "CbGeAlD": 0.0784523358731745,
     "CbGpPWpGaD": 0.1491600039613732,
     "CrCbGaD": 0.009043273683280418
   },
+  "n_trials": 0.0,
   "prediction": 0.00408965140732569,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

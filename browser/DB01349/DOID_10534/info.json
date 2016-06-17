@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01349",
   "compound_name": "Tasosartan",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.8946972601269103,
     "CbGeAlD": 0.035941420206348745,
     "CbGpPWpGaD": 0.06661754632428475,
     "CrCbGaD": 0.0027437733424561864
   },
+  "n_trials": 0.0,
   "prediction": 0.00274447585291937,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

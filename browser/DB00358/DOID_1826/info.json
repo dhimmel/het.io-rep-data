@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7262678803641089,
   "metapath_contribution": {
     "CbGaD": 0.30001029417545827,
     "CbGbCtD": 0.3597092202523133,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17587491716007778,
     "CrCbGaD": 0.0042640835784381
   },
+  "n_trials": 0.0,
   "prediction": 0.00620752606044569,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

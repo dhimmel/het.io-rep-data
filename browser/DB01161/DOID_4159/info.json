@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.7100130039011701,
   "metapath_contribution": {
     "CbGaD": 0.9309605826439313,
     "CbGeAlD": 0.03672050107322496,
     "CcSEcCtD": 0.0238445376534268,
     "CrCbGaD": 0.008474378629416884
   },
+  "n_trials": 0.0,
   "prediction": 0.00226416005496085,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

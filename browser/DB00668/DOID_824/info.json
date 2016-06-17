@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.738621586475943,
   "metapath_contribution": {
     "CbGaD": 0.8749231025092735,
     "CbGpPWpGaD": 0.1178892149929279,
     "CrCbGaD": 0.007187682497798625
   },
+  "n_trials": 1.0,
   "prediction": 0.00170409968922156,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

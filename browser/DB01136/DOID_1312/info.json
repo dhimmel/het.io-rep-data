@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGbCtD": 0.034350924903962736,
     "CbGeAlD": 0.05712880142179982,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06672184441702168,
     "CtDrD": 0.7520754788139448
   },
+  "n_trials": 0.0,
   "prediction": 0.00393753062385,
   "status": 0,
   "training_prediction": 0.00177756333116407

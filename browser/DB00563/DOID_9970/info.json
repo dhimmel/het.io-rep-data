@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.419117647058824,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6196358907672299,
   "metapath_contribution": {
     "CbGaD": 0.29588148853905344,
     "CbGbCtD": 0.25975813566445793,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1775310112719276,
     "CrCbGaD": 0.004821237460205743
   },
+  "n_trials": 0.0,
   "prediction": 0.0031610038647924103,
   "status": 0,
   "training_prediction": 0.0885116591127548

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01185",
   "compound_name": "Fluoxymesterone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.19960988296488896,
   "metapath_contribution": {
-    "CbGpPWpGaD": 0.04433326891207757,
+    "CbGpPWpGaD": 0.04433326891207756,
     "CcSEcCtD": 0.011032080580096247,
-    "CrCbGaD": 0.002866162492137807,
-    "CtDrD": 0.9417684880156885
+    "CrCbGaD": 0.0028661624921378064,
+    "CtDrD": 0.9417684880156884
   },
+  "n_trials": 0.0,
   "prediction": 0.0009778274202763891,
   "status": 0,
   "training_prediction": 0.00139560775580731

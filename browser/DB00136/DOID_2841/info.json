@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00136",
   "compound_name": "Calcitriol",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.640442132639792,
   "metapath_contribution": {
     "CbGaD": 0.47259705219643877,
     "CbGbCtD": 0.313409341560602,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16746833980592274,
     "CrCbGaD": 0.005176434978258116
   },
+  "n_trials": 1.0,
   "prediction": 0.00319004810278895,
   "status": 0,
   "training_prediction": 0.0352356767208754

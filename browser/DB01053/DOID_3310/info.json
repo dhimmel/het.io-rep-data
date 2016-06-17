@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.11443433029909,
   "metapath_contribution": {
     "CbGbCtD": 0.19772067387432846,
     "CbGdCrCtD": 0.016675393048390667,
     "CcSEcCtD": 0.7856039330772809
   },
+  "n_trials": 0.0,
   "prediction": 0.00124367854373829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

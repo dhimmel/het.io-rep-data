@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01355",
   "compound_name": "Hexobarbital",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.27225810367003633,
     "CbGbCtD": 0.35230727789140714,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002263411096529385,
     "CrCrCtD": 0.28193759585186723
   },
+  "n_trials": 0.0,
   "prediction": 0.0346387398264573,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

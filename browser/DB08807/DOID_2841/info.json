@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08807",
   "compound_name": "Bopindolol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.18395979547525462,
     "CbGbCtD": 0.44246688838680365,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.001994086937097343,
     "CrCrCtD": 0.3250196329471391
   },
+  "n_trials": 0.0,
   "prediction": 0.007290140684616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

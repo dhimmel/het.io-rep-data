@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00876",
   "compound_name": "Eprosartan",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7191157347204159,
   "metapath_contribution": {
     "CbGaD": 0.5086119391328695,
     "CbGbCtD": 0.22780778940488106,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1935684680782737,
     "CrCbGaD": 0.0024575375868845653
   },
+  "n_trials": 0.0,
   "prediction": 0.00380331567246785,
   "status": 0,
   "training_prediction": 0.0254232815421576

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01000",
   "compound_name": "Cyclacillin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.676853055916775,
   "metapath_contribution": {
     "CbGaD": 0.8036281960918088,
     "CbGbCtD": 0.18843904558628055,
     "CbGpPWpGaD": 0.0023451167316273403,
     "CrCbGaD": 0.005587641590283345
   },
+  "n_trials": 0.0,
   "prediction": 0.00189767861352796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

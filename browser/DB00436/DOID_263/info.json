@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00436",
   "compound_name": "Bendroflumethiazide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGaD": 0.7699659890489708,
     "CbGeAlD": 0.08569021895167478,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08900737052164082,
     "CrCbGaD": 0.006538365402772367
   },
+  "n_trials": 0.0,
   "prediction": 0.00219418795415586,
   "status": 0,
   "training_prediction": 0.00637793978435043

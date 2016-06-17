@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.471391417425228,
   "metapath_contribution": {
     "CbGbCtD": 0.6238693367983031,
     "CbGeAlD": 0.015379098450816558,
     "CbGpPWpGaD": 0.08551549918659727,
     "CcSEcCtD": 0.275236065564283
   },
+  "n_trials": 0.0,
   "prediction": 0.0014566035265703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

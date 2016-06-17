@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04711",
   "compound_name": "Iodipamide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGaD": 0.31397589728457337,
     "CbGbCtD": 0.49666634657404124,
     "CbGpPWpGaD": 0.06658264967538549,
     "CcSEcCtD": 0.12277510646599987
   },
+  "n_trials": 0.0,
   "prediction": 0.00380630036429023,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00973",
   "compound_name": "Ezetimibe",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.22366710013003896,
   "metapath_contribution": {
     "CbGbCtD": 0.17600697720640612,
     "CbGeAlD": 0.188019022946921,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.26434520901379255,
     "CrCbGaD": 0.0051546078338192336
   },
+  "n_trials": 0.0,
   "prediction": 0.00141675363020077,
   "status": 0,
   "training_prediction": 0.00604243535679145

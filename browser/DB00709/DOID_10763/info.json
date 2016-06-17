@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.28998699609883005,
   "metapath_contribution": {
     "CbGaD": 0.21147076520118915,
     "CbGbCtD": 0.46178285161465354,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.17805630839716552,
     "CrCbGaD": 7.51699288323816e-06
   },
+  "n_trials": 0.0,
   "prediction": 0.0023330167560647397,
   "status": 0,
   "training_prediction": 0.0443664184906482

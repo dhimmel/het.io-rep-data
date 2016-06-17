@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.8726813252556989,
     "CbGeAlD": 0.033022093324176084,
     "CbGpPWpGaD": 0.08353141065362842,
     "CrCbGaD": 0.010765170766496676
   },
+  "n_trials": 0.0,
   "prediction": 0.00180380429153523,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

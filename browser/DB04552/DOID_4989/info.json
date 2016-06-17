@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04552",
   "compound_name": "Niflumic Acid",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.9115766996297849,
     "CbGeAlD": 0.0301144948038715,
     "CbGpPWpGaD": 0.05682506493200675,
     "CrCbGaD": 0.0014837406343367917
   },
+  "n_trials": 0.0,
   "prediction": 0.00289067309593915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

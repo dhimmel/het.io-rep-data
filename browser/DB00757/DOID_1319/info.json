@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00757",
   "compound_name": "Dolasetron",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.6016389191654886,
     "CbGbCtD": 0.2716050572261518,
     "CbGeAlD": 0.03448959096140219,
     "CcSEcCtD": 0.09226643264695732
   },
+  "n_trials": 0.0,
   "prediction": 0.004297397596697661,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

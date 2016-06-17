@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.192457737321196,
   "metapath_contribution": {
     "CbGaD": 0.7452294206388977,
     "CbGeAlD": 0.08596604688538045,
     "CbGpPWpGaD": 0.15821491917575922,
     "CrCbGaD": 0.010589613299962643
   },
+  "n_trials": 0.0,
   "prediction": 0.000998255128620816,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

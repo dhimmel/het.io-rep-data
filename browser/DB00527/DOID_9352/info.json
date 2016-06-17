@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.15864759427828304,
   "metapath_contribution": {
     "CbGaD": 0.6652600006396722,
     "CbGbCtD": 0.09694400207954543,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.164544949485308,
     "CrCbGaD": 0.0029494616306048466
   },
+  "n_trials": 0.0,
   "prediction": 0.0012421510919495401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

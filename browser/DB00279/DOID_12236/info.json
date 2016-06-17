@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGaD": 0.2097899242265327,
     "CbGbCtD": 0.5836172206687243,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.017314242245756253,
     "CrCbGaD": 0.0005929678167662813
   },
+  "n_trials": 0.0,
   "prediction": 0.00351556058577029,
   "status": 0,
   "training_prediction": 0.00346809142248389

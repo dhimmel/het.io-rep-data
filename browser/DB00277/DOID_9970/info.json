@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.586475942782835,
   "metapath_contribution": {
     "CbGaD": 0.17137525164123615,
     "CbGbCtD": 0.45734146056036745,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1338487449501976,
     "CrCbGaD": 0.004594451643453476
   },
+  "n_trials": 0.0,
   "prediction": 0.00296710109822748,
   "status": 0,
   "training_prediction": 0.00758718415041789

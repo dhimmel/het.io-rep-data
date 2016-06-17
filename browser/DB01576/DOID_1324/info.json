@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01576",
   "compound_name": "Dextroamphetamine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.171651495448635,
   "metapath_contribution": {
     "CbGbCtD": 0.12081044122715254,
     "CbGpPWpGaD": 0.28258156945111346,
     "CcSEcCtD": 0.5834797470559954,
     "CrCbGaD": 0.013128242265738745
   },
+  "n_trials": 0.0,
   "prediction": 0.000964294919410484,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

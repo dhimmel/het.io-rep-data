@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.058821157434073415,
     "CbGbCtD": 0.26207963990040944,
@@ -12,7 +14,7 @@
     "CrCbGaD": 2.1515863067808085e-05,
     "CrCrCtD": 0.4600076906467587
   },
+  "n_trials": 0.0,
   "prediction": 0.006134559821029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

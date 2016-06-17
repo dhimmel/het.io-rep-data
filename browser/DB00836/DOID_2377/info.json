@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGaD": 0.5647278840235144,
     "CbGbCtD": 0.21091991685851935,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09980268724417542,
     "CcSEcCtD": 0.055299846928350035
   },
+  "n_trials": 1.0,
   "prediction": 0.00260281595977921,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

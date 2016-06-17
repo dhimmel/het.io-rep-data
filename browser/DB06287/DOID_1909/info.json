@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06287",
   "compound_name": "Temsirolimus",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.04779128755350439,
     "CbGbCtD": 0.07469246921979904,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0010245481928695447,
     "CtDrD": 0.3025638061669734
   },
+  "n_trials": 0.0,
   "prediction": 0.0072187513095675,
   "status": 0,
   "training_prediction": 0.0131260081619311

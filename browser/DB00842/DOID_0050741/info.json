@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00842",
   "compound_name": "Oxazepam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.5349386086446734,
     "CbGbCtD": 0.27161266225382785,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04167215232468755,
     "CrCbGaD": 0.005419631032968894
   },
+  "n_trials": 1.0,
   "prediction": 0.00580717688198878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

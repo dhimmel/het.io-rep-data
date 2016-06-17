@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.165799739921977,
   "metapath_contribution": {
     "CbGaD": 0.6708101353350527,
     "CbGeAlD": 0.12307489608285387,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.01595749416463246,
     "CrCbGaD": 0.0012539788642596055
   },
+  "n_trials": 0.0,
   "prediction": 0.00126644985344132,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

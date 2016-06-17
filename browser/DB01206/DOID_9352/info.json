@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01206",
   "compound_name": "Lomustine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.624187256176853,
   "metapath_contribution": {
     "CbGaD": 0.35282424909459414,
     "CbGbCtD": 0.5108134069925029,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12958690009466248,
     "CrCbGaD": 0.004409828067078376
   },
+  "n_trials": 0.0,
   "prediction": 0.0031470960571417,
   "status": 0,
   "training_prediction": 0.0227717611970063

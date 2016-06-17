@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.2629621224484149,
     "CbGbCtD": 0.18750695068071824,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.014527111933131037,
     "CtDrD": 0.42059158185908824
   },
+  "n_trials": 0.0,
   "prediction": 0.0036621121436157798,
   "status": 0,
   "training_prediction": 0.0161275764232019

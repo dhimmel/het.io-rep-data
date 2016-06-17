@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04876",
   "compound_name": "Vildagliptin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.3827645946609251,
     "CbGbCtD": 0.47186499896353257,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09855643089352033,
     "CrCbGaD": 0.003013912269334496
   },
+  "n_trials": 117.0,
   "prediction": 0.0132319149732073,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

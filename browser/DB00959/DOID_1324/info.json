@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0331599479843953,
   "metapath_contribution": {
     "CbGaD": 0.2837701375028912,
     "CbGbCtD": 0.4722451124122222,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19280618720979498,
     "CrCbGaD": 0.002755885043715708
   },
+  "n_trials": 0.0,
   "prediction": 0.000615129558829513,
   "status": 0,
   "training_prediction": 0.0129744153435884

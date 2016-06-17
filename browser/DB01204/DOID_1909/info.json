@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.22514667437727173,
     "CbGbCtD": 0.26552006979203885,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.05926358195327736,
     "CtDrD": 0.3808316001246385
   },
+  "n_trials": 0.0,
   "prediction": 0.00790790131314575,
   "status": 0,
   "training_prediction": 0.054651719010421

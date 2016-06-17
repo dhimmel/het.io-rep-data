@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.517555266579974,
   "metapath_contribution": {
     "CbGaD": 0.35247465428194735,
     "CbGeAlD": 0.1070766300361298,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20270659335916116,
     "CrCbGaD": 0.004425399408317173
   },
+  "n_trials": 0.0,
   "prediction": 0.0014255563279868,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

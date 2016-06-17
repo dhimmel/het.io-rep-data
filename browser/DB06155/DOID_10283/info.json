@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06155",
   "compound_name": "Rimonabant",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.17059985000204123,
     "CbGbCtD": 0.5109859069629217,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1197747679196529,
     "CcSEcCtD": 0.18242925720425585
   },
+  "n_trials": 0.0,
   "prediction": 0.00548232815755453,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

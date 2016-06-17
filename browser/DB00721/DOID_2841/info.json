@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.28543563068920697,
   "metapath_contribution": {
     "CbGbCtD": 0.548754391255338,
-    "CbGeAlD": 0.053818300853784105,
-    "CbGpPWpGaD": 0.00776196344320189,
-    "CcSEcCtD": 0.38775288931580576,
-    "CrCbGaD": 0.0019124551318702256
+    "CbGeAlD": 0.05381830085378411,
+    "CbGpPWpGaD": 0.007761963443201891,
+    "CcSEcCtD": 0.3877528893158058,
+    "CrCbGaD": 0.0019124551318702259
   },
+  "n_trials": 0.0,
   "prediction": 0.00175666118365703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

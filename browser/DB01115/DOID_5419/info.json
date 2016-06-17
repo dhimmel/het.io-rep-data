@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.42327698309492895,
   "metapath_contribution": {
     "CbGaD": 0.7326440669914711,
     "CbGeAlD": 0.08266732393915266,
     "CbGpPWpGaD": 0.1767220013954683,
     "CrCbGaD": 0.007966607673907982
   },
+  "n_trials": 0.0,
   "prediction": 0.0013959868460615302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

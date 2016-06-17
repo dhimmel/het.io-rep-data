@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.312743823146944,
   "metapath_contribution": {
     "CbGbCtD": 0.6669739376028139,
     "CbGpPWpGaD": 0.03499352817717969,
     "CcSEcCtD": 0.2849906244762846,
     "CrCbGaD": 0.013041909743721831
   },
+  "n_trials": 0.0,
   "prediction": 0.00162341975892523,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

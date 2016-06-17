@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.06728800250050605,
     "CbGbCtD": 0.24984968685318443,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06981857781788316,
     "CiPCiCtD": 0.5666076689755619
   },
+  "n_trials": 0.0,
   "prediction": 0.012681608030189,
   "status": 0,
   "training_prediction": 0.145284466842393

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01253",
   "compound_name": "Ergonovine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.477243172951886,
   "metapath_contribution": {
     "CbGbCtD": 0.7162004868691204,
     "CbGpPWpGaD": 0.005528210462856886,
     "CcSEcCtD": 0.27827130266802275
   },
+  "n_trials": 0.0,
   "prediction": 0.0018291804836095898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

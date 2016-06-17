@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.3662389265040414,
     "CbGbCtD": 0.5591736414563827,
     "CbGpPWpGaD": 0.04511823925692649,
     "CcSEcCtD": 0.029469192782649454
   },
+  "n_trials": 0.0,
   "prediction": 0.00553984660666258,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

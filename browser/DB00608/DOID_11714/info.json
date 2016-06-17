@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.835100609362821,
     "CbGbCtD": 0.057856209707083224,
     "CbGpPWpGaD": 0.04266730041661856,
     "CcSEcCtD": 0.0643758805134771
   },
+  "n_trials": 0.0,
   "prediction": 0.00256813875461777,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

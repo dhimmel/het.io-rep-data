@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.6723016905071519,
   "metapath_contribution": {
     "CbGaD": 0.24506934161661786,
     "CbGbCtD": 0.31262832919517386,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.23598234522036646,
     "CrCbGaD": 0.002459259678390893
   },
+  "n_trials": 0.0,
   "prediction": 0.0034302189400903104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

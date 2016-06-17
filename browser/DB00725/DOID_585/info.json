@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00725",
   "compound_name": "Homatropine Methylbromide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.9105441024136819,
     "CbGeAlD": 0.005837329036243753,
     "CbGpPWpGaD": 0.07399484525716693,
     "CrCbGaD": 0.009623723292907433
   },
+  "n_trials": 0.0,
   "prediction": 0.00297902402629503,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

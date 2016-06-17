@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.612483745123537,
   "metapath_contribution": {
-    "CbGeAlD": 0.03643905612329697,
-    "CbGpPWpGaD": 0.09705496624862531,
-    "CcSEcCtD": 0.29434061142293716,
-    "CrCbGaD": 0.0057755194123459705,
-    "CrCrCtD": 0.5663898467927945
+    "CbGeAlD": 0.036439056123296974,
+    "CbGpPWpGaD": 0.09705496624862532,
+    "CcSEcCtD": 0.2943406114229372,
+    "CrCbGaD": 0.005775519412345971,
+    "CrCrCtD": 0.5663898467927946
   },
+  "n_trials": 0.0,
   "prediction": 0.00298552348667487,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

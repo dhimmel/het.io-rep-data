@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGaD": 0.302035135376688,
     "CbGbCtD": 0.468927560561847,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08454799703448979,
     "CcSEcCtD": 0.12600381481405068
   },
+  "n_trials": 0.0,
   "prediction": 0.0072370891199082,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

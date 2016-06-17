@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00175",
   "compound_name": "Pravastatin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.1960553391481903,
     "CbGbCtD": 0.28408547450734606,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0018857343930455334,
     "CtDrD": 0.39397800582882686
   },
+  "n_trials": 3.0,
   "prediction": 0.0131552967017344,
   "status": 0,
   "training_prediction": 0.0895807993634285

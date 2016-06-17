@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.2030584891724435,
     "CbGbCtD": 0.14960521437298907,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2188330154024715,
     "CrCtD": 0.3272615064163823
   },
+  "n_trials": 0.0,
   "prediction": 0.0115318398663964,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

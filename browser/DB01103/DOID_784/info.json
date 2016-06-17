@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6475942782834849,
   "metapath_contribution": {
     "CbGaD": 0.8120162064581039,
     "CbGeAlD": 0.07581799787819353,
     "CbGpPWpGaD": 0.1075360954761782,
     "CrCbGaD": 0.004629700187524318
   },
+  "n_trials": 0.0,
   "prediction": 0.00193028915384005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

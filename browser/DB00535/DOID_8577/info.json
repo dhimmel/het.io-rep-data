@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00535",
   "compound_name": "Cefdinir",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.756176853055917,
   "metapath_contribution": {
     "CbGaD": 0.5493327846913871,
     "CbGbCtD": 0.3057401005566818,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06669926254807418,
     "CrCbGaD": 0.00359389704824309
   },
+  "n_trials": 0.0,
   "prediction": 0.00314979989707889,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

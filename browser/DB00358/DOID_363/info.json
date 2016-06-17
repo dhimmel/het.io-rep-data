@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGaD": 0.5137014897153828,
     "CbGbCtD": 0.18911041494306294,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04521118304353242,
     "CcSEcCtD": 0.16138817989636553
   },
+  "n_trials": 0.0,
   "prediction": 0.00388544988561029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

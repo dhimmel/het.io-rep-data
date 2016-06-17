@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00769",
   "compound_name": "Hydrocortamate",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.10039229364560534,
     "CbGbCtD": 0.205358737332799,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.27435690455287626,
     "CrCtD": 0.39124912005566576
   },
+  "n_trials": 0.0,
   "prediction": 0.00700135548050375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

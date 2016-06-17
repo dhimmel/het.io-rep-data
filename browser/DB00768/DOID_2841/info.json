@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00768",
   "compound_name": "Olopatadine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGbCtD": 0.09884026292968708,
     "CbGdCrCtD": 0.0011421215180417632,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0006451286410192222,
     "CtDrD": 0.3125495243262018
   },
+  "n_trials": 0.0,
   "prediction": 0.0344567167633555,
   "status": 0,
   "training_prediction": 0.19603643885155397

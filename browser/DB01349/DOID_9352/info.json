@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01349",
   "compound_name": "Tasosartan",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.20276770644155917,
     "CbGbCtD": 0.17364646481777307,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.23332437787438476,
     "CrCtD": 0.35577652855553515
   },
+  "n_trials": 0.0,
   "prediction": 0.0607377434305448,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

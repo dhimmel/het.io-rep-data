@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01102",
   "compound_name": "Arbutamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.15476959573702462,
     "CbGbCtD": 0.2984018190953224,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.22230087522372877,
     "CrCtD": 0.2815265211480384
   },
+  "n_trials": 0.0,
   "prediction": 0.0242637732871149,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

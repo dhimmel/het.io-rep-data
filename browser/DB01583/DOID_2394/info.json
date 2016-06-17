@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.8029908972691808,
   "metapath_contribution": {
     "CbGaD": 0.22089123257111204,
     "CbGbCtD": 0.47838816615839674,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17246555618099618,
     "CrCbGaD": 0.0006579860355962592
   },
+  "n_trials": 0.0,
   "prediction": 0.00231712318916092,
   "status": 0,
   "training_prediction": 0.00551600888948345

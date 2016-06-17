@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGaD": 0.6601325703283557,
     "CbGeAlD": 0.09199758816739491,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10632102815731663,
     "CrCbGaD": 0.005147263803058568
   },
+  "n_trials": 6.0,
   "prediction": 0.00218814832871215,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

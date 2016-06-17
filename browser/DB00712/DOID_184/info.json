@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.462938881664499,
   "metapath_contribution": {
     "CbGaD": 0.39839194844856873,
     "CbGbCtD": 0.3813772333596392,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1567806443922652,
     "CrCbGaD": 0.005746882374547204
   },
+  "n_trials": 0.0,
   "prediction": 0.00144962676225398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

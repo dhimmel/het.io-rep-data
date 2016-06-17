@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00633",
   "compound_name": "Dexmedetomidine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.49079512130750563,
     "CbGbCtD": 0.22505917961880315,
     "CbGpPWpGaD": 0.08450026642858736,
     "CcSEcCtD": 0.1996454326451039
   },
+  "n_trials": 0.0,
   "prediction": 0.00409867533931703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

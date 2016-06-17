@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00450",
   "compound_name": "Droperidol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
-    "CbGaD": 0.6257992351944717,
-    "CbGbCtD": 0.17805521115489875,
-    "CbGeAlD": 0.04107851578804831,
-    "CbGpPWpGaD": 0.057771302612094164,
-    "CcSEcCtD": 0.09094561844850804,
-    "CrCbGaD": 0.006350116801978938
+    "CbGaD": 0.6257992351944718,
+    "CbGbCtD": 0.1780552111548988,
+    "CbGeAlD": 0.041078515788048324,
+    "CbGpPWpGaD": 0.05777130261209418,
+    "CcSEcCtD": 0.09094561844850806,
+    "CrCbGaD": 0.006350116801978939
   },
+  "n_trials": 0.0,
   "prediction": 0.00419524919259169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

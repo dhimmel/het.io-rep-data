@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01601",
   "compound_name": "Lopinavir",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGaD": 0.7685272837770681,
     "CbGeAlD": 0.1219485725689498,
     "CbGpPWpGaD": 0.10856453545020013,
     "CrCbGaD": 0.0009596082037819026
   },
+  "n_trials": 0.0,
   "prediction": 0.0011275403710012599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00750",
   "compound_name": "Prilocaine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGaD": 0.8197626420762376,
     "CbGeAlD": 0.10948670743354989,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.019899731172607425,
     "CrCbGaD": 0.0030525949560523146
   },
+  "n_trials": 0.0,
   "prediction": 0.00241476849509298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

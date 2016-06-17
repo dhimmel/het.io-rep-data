@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.1332760657657832,
     "CbGbCtD": 0.15318639663255276,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.11324425436010238,
     "CrCtD": 0.19429841652882196
   },
+  "n_trials": 5.0,
   "prediction": 0.11240608552981698,
   "status": 0,
   "training_prediction": 0.532732583258275

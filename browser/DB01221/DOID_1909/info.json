@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.7675415719897684,
     "CbGbCtD": 0.04415433054931022,
     "CbGpPWpGaD": 0.18512430513657296,
     "CcSEcCtD": 0.003179792324348533
   },
+  "n_trials": 0.0,
   "prediction": 0.0039846721866818105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

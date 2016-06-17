@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00524",
   "compound_name": "Metolazone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.2139969988187604,
     "CbGbCtD": 0.38509287886741245,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0022823617096691656,
     "CrCrCtD": 0.24612421847280747
   },
+  "n_trials": 0.0,
   "prediction": 0.0133681848515231,
   "status": 0,
   "training_prediction": 0.0623740764897467

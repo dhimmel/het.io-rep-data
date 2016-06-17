@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.7607282184655401,
   "metapath_contribution": {
     "CbGbCtD": 0.8522120409735565,
     "CbGdCrCtD": 0.009988957984822659,
     "CbGpPWpGaD": 0.13779900104162085
   },
+  "n_trials": 0.0,
   "prediction": 0.00339735995111296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

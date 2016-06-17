@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.40052015604681396,
   "metapath_contribution": {
     "CbGaD": 0.45791574146464414,
     "CbGbCtD": 0.43046947436662625,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08922281686499732,
     "CrCbGaD": 0.004312590982959875
   },
+  "n_trials": 0.0,
   "prediction": 0.00305075200327666,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

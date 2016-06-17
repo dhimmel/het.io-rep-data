@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.09431023534381314,
     "CbGbCtD": 0.6309106474045877,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.20352585880739213,
     "CrCbGaD": 0.0007348432564930177
   },
+  "n_trials": 0.0,
   "prediction": 0.00528820920339647,
   "status": 0,
   "training_prediction": 0.035052059388156

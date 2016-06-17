@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7217165149544859,
   "metapath_contribution": {
     "CbGaD": 0.5129601482076984,
     "CbGbCtD": 0.2849018572640799,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06284773807813615,
     "CrCbGaD": 0.000636167423007876
   },
+  "n_trials": 0.0,
   "prediction": 0.00319728800619222,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

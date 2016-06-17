@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01073",
   "compound_name": "Fludarabine",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.0708712613784135,
   "metapath_contribution": {
     "CbGdCrCtD": 0.012621264214407846,
     "CbGeAlD": 0.1625703070530831,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5743850005015259,
     "CrCbGaD": 0.014631123988362088
   },
+  "n_trials": 0.0,
   "prediction": 0.000799416132851411,
   "status": 0,
   "training_prediction": 0.0056575152602959

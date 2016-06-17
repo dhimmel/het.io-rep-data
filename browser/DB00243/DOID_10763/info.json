@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.811443433029909,
   "metapath_contribution": {
     "CbGbCtD": 0.18330715311090892,
     "CbGeAlD": 0.01111594248985429,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.28021535477992443,
     "CrCtD": 0.41161435092014176
   },
+  "n_trials": 0.0,
   "prediction": 0.0104226032743678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.6249900396533432,
     "CbGbCtD": 0.2969304902678981,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0075499723042934605,
     "CrCbGaD": 0.006605727218399749
   },
+  "n_trials": 0.0,
   "prediction": 0.00432685566542745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

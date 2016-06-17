@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.315994798439532,
   "metapath_contribution": {
     "CbGaD": 0.3976023000236228,
     "CbGbCtD": 0.3559593355170184,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1058798783499879,
     "CrCbGaD": 0.005163711889980706
   },
+  "n_trials": 0.0,
   "prediction": 0.00137757218447555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

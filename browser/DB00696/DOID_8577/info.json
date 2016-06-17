@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGaD": 0.16456275557992292,
     "CbGbCtD": 0.16446795048765958,
-    "CbGeAlD": 0.0025449173773377442,
+    "CbGeAlD": 0.0025449173773377447,
     "CbGpPWpGaD": 0.06741283329132947,
     "CcSEcCtD": 0.01752852409364778,
     "CpDpCtD": 0.582454399383949,
     "CrCbGaD": 0.0010286197861534704
   },
+  "n_trials": 0.0,
   "prediction": 0.0027752525091233,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

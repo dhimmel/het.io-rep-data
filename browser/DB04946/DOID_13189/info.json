@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.44018205461638504,
   "metapath_contribution": {
     "CbGbCtD": 0.6262647142094209,
     "CbGdCrCtD": 0.002377218170273523,
     "CcSEcCtD": 0.3674029576178996,
     "CrCbGaD": 0.003955110002406071
   },
+  "n_trials": 0.0,
   "prediction": 0.00201664623653128,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

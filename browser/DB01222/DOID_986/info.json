@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01222",
   "compound_name": "Budesonide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:986",
   "disease_name": "alopecia areata",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGbCtD": 0.10642095927799174,
     "CcSEcCtD": 0.02663000666326926,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.20093597035858274,
     "CrCtD": 0.2799446806571398
   },
+  "n_trials": 0.0,
   "prediction": 0.0313103788469872,
   "status": 0,
   "training_prediction": 0.0237251852965978

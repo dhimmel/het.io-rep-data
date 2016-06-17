@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.278283485045514,
   "metapath_contribution": {
     "CbGbCtD": 0.80357976561323,
     "CbGpPWpGaD": 0.18540215391580298,
     "CrCbGaD": 0.011018080470966985
   },
+  "n_trials": 3.0,
   "prediction": 0.0012398521673147,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

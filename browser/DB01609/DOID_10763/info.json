@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01609",
   "compound_name": "Deferasirox",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7951885565669699,
   "metapath_contribution": {
     "CbGbCtD": 0.1542343970052079,
     "CbGpPWpGaD": 0.0032021402560827032,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.32391724755308476,
     "CrCtD": 0.5160242736172467
   },
+  "n_trials": 0.0,
   "prediction": 0.00963176486427085,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

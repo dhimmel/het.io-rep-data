@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.1827967195494486,
     "CbGbCtD": 0.22489126130518344,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0007838587505414539,
     "CtDrD": 0.4707904788350799
   },
+  "n_trials": 59.0,
   "prediction": 0.00359883160172674,
   "status": 0,
   "training_prediction": 0.0170791036490614

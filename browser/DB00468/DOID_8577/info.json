@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.4512772584336682,
     "CbGbCtD": 0.41421904183662794,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08235821369211785,
     "CrCbGaD": 0.0029719851423729822
   },
+  "n_trials": 0.0,
   "prediction": 0.00728960790356568,
   "status": 0,
   "training_prediction": 0.0245699075087314

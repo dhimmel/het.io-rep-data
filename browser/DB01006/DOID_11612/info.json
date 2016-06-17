@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01006",
   "compound_name": "Letrozole",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.7750925584418524,
     "CbGeAlD": 0.12195898785361191,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.03774997010209076,
     "CrCbGaD": 0.005558815557858193
   },
+  "n_trials": 19.0,
   "prediction": 0.00382470945499181,
   "status": 0,
   "training_prediction": 0.00172652393824737

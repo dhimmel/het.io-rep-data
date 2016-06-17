@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.317945383615085,
   "metapath_contribution": {
-    "CbGaD": 0.3820926700552076,
-    "CbGbCtD": 0.3379339063652181,
-    "CbGeAlD": 0.028734609634611653,
-    "CbGpPWpGaD": 0.08601472046003164,
+    "CbGaD": 0.38209267005520753,
+    "CbGbCtD": 0.33793390636521803,
+    "CbGeAlD": 0.02873460963461165,
+    "CbGpPWpGaD": 0.08601472046003163,
     "CcSEcCtD": 0.16191099539351952,
-    "CrCbGaD": 0.0033130980914116196
+    "CrCbGaD": 0.003313098091411619
   },
+  "n_trials": 2.0,
   "prediction": 0.0022603474095761397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

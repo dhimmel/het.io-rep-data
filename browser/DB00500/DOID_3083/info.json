@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGaD": 0.4981784653115311,
     "CbGbCtD": 0.030589037608095126,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3502107785168095,
     "CrCbGaD": 0.0020302364229774963
   },
+  "n_trials": 0.0,
   "prediction": 0.00469588782624403,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

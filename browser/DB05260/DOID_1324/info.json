@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.4996782980859764,
     "CbGbCtD": 0.275747526348292,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.10802760143746383,
     "CcSEcCtD": 0.07125296789121052
   },
+  "n_trials": 0.0,
   "prediction": 0.009365098594773441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

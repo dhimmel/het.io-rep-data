@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.21066319895968802,
   "metapath_contribution": {
     "CbGaD": 0.41187203559212093,
     "CbGbCtD": 0.2090956396637779,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1858558081697836,
     "CrCbGaD": 0.005225086563586996
   },
+  "n_trials": 0.0,
   "prediction": 0.00125191160981635,
   "status": 0,
   "training_prediction": 0.00883553675085648

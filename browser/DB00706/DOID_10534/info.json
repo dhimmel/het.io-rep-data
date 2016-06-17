@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00706",
   "compound_name": "Tamsulosin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7399219765929781,
   "metapath_contribution": {
     "CbGaD": 0.5900107725327381,
     "CbGeAlD": 0.08742712093708396,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2011891153821558,
     "CrCbGaD": 0.0065784195492030505
   },
+  "n_trials": 0.0,
   "prediction": 0.00216731500258499,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00121",
   "compound_name": "Biotin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.708712613784135,
   "metapath_contribution": {
     "CbGdCrCtD": 0.01766787329342578,
     "CbGeAlD": 0.4030721237592906,
     "CbGpPWpGaD": 0.5545825869322453,
     "CrCbGaD": 0.024677416015038263
   },
+  "n_trials": 0.0,
   "prediction": 0.00215925906764375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

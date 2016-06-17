@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00856",
   "compound_name": "Chlorphenesin",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGaD": 0.8643085648003548,
     "CbGeAlD": 0.001160091701082161,
     "CbGpPWpGaD": 0.12821634512517013,
     "CrCbGaD": 0.006314998373392972
   },
+  "n_trials": 0.0,
   "prediction": 0.00189908432968458,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

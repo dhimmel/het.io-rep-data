@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7678803641092329,
   "metapath_contribution": {
     "CbGbCtD": 0.17233181187967592,
     "CbGeAlD": 0.04173343190927678,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0025378012810970824,
     "CrCrCtD": 0.21326401429215178
   },
+  "n_trials": 0.0,
   "prediction": 0.0044049986005713394,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

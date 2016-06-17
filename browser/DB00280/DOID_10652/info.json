@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00280",
   "compound_name": "Disopyramide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.642392717815345,
   "metapath_contribution": {
     "CbGbCtD": 0.5560963632567654,
     "CbGeAlD": 0.06583528514027648,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2748506684319785,
     "CrCbGaD": 0.0022070322928620153
   },
+  "n_trials": 0.0,
   "prediction": 0.00225554077904246,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06213",
   "compound_name": "Regadenoson",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.260078023407022,
   "metapath_contribution": {
-    "CbGpPWpGaD": 0.01675905074513079,
-    "CcSEcCtD": 0.25342830094742463,
-    "CrCbGaD": 0.010553073405914314,
-    "CrCrCtD": 0.71925957490153
+    "CbGpPWpGaD": 0.016759050745130795,
+    "CcSEcCtD": 0.2534283009474247,
+    "CrCbGaD": 0.010553073405914316,
+    "CrCrCtD": 0.7192595749015301
   },
+  "n_trials": 0.0,
   "prediction": 0.0011640808412405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

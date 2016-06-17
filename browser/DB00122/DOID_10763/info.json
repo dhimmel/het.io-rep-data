@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.4384569582116929,
     "CbGbCtD": 0.33710125854448725,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1488867628624342,
     "CrCbGaD": 0.0016970847473195036
   },
+  "n_trials": 0.0,
   "prediction": 0.006442807342670271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

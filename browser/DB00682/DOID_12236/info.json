@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.5624187256176851,
   "metapath_contribution": {
     "CbGaD": 0.5372280655778832,
     "CbGbCtD": 0.41776337603699254,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.00754463551638498,
     "CrCbGaD": 0.004057402011020209
   },
+  "n_trials": 0.0,
   "prediction": 0.001788324158891,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

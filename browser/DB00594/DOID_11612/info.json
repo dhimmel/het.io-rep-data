@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00594",
   "compound_name": "Amiloride",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.643715036490683,
     "CbGbCtD": 0.1759666547331826,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09504328442989285,
     "CcSEcCtD": 0.00840277347987328
   },
+  "n_trials": 0.0,
   "prediction": 0.00624542836220366,
   "status": 0,
   "training_prediction": 0.00282303146377159

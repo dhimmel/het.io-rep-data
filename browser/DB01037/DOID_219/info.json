@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.653446033810143,
   "metapath_contribution": {
     "CbGaD": 0.3968586998923801,
     "CbGbCtD": 0.39067515842659944,
     "CbGeAlD": 0.012924328284217143,
     "CcSEcCtD": 0.19954181339680332
   },
+  "n_trials": 0.0,
   "prediction": 0.00198953899351435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

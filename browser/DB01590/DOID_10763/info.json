@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0884265279583875,
   "metapath_contribution": {
     "CbGaD": 0.4147693512431417,
     "CbGbCtD": 0.20867926900577838,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2163434249044614,
     "CrCbGaD": 0.0044506655380232695
   },
+  "n_trials": 0.0,
   "prediction": 0.00122369263725249,
   "status": 0,
   "training_prediction": 0.0144437788914602

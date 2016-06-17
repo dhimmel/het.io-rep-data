@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.263979193758127,
   "metapath_contribution": {
     "CbGaD": 0.3272325792865571,
     "CbGbCtD": 0.3254798143508005,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1840053322164103,
     "CrCbGaD": 0.0014136119115373464
   },
+  "n_trials": 0.0,
   "prediction": 0.000993227695461654,
   "status": 0,
   "training_prediction": 0.00181532228662396

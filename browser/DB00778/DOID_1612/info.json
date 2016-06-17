@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00778",
   "compound_name": "Roxithromycin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.561768530559168,
   "metapath_contribution": {
     "CbGaD": 0.29364267061990534,
     "CbGbCtD": 0.5296452358466058,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11859462538686433,
     "CrCbGaD": 0.003107108498478354
   },
+  "n_trials": 0.0,
   "prediction": 0.00268615920141275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

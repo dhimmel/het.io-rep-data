@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.337451235370611,
   "metapath_contribution": {
     "CbGdCrCtD": 0.006585745792468526,
     "CbGeAlD": 0.062619182693968,
     "CbGpPWpGaD": 0.504121380048731,
     "CcSEcCtD": 0.42667369146483247
   },
+  "n_trials": 0.0,
   "prediction": 0.00175657603361819,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

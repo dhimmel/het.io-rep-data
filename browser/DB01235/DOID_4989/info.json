@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.397919375812744,
   "metapath_contribution": {
     "CbGeAlD": 0.001216500591226501,
     "CbGpPWpGaD": 0.05716773175879404,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.8485518364334013,
     "CrCbGaD": 0.005304747967918274
   },
+  "n_trials": 0.0,
   "prediction": 0.00129963332550769,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

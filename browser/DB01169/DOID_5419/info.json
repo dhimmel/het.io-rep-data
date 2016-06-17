@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.651640132738791,
     "CbGeAlD": 0.1040099366041903,
     "CbGpPWpGaD": 0.24434993065701877
   },
+  "n_trials": 0.0,
   "prediction": 0.00442349072981301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

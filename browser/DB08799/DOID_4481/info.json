@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08799",
   "compound_name": "Antazoline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGbCtD": 0.3242917729884393,
     "CbGeAlD": 0.0031525402563537027,
     "CrCrCtD": 0.2863908538322419,
     "CrCtD": 0.38616483292296516
   },
+  "n_trials": 0.0,
   "prediction": 0.0121843063782667,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

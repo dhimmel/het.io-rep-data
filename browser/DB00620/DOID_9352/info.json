@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.0916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.46147437337449176,
     "CbGbCtD": 0.296438662151408,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15647033862353893,
     "CrCbGaD": 0.00550776903256231
   },
+  "n_trials": 0.0,
   "prediction": 0.0009388933460307099,
   "status": 0,
   "training_prediction": 0.0297675642282273

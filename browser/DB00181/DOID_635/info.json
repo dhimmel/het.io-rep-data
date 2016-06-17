@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.481144343302991,
   "metapath_contribution": {
     "CbGbCtD": 0.2925992291851146,
     "CbGeAlD": 0.08762826321687525,
     "CbGpPWpGaD": 0.050505295767724716,
     "CcSEcCtD": 0.5692672118302855
   },
+  "n_trials": 0.0,
   "prediction": 0.00237421931419741,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

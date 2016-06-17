@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.30297024038177145,
     "CbGeAlD": 0.019483448538077593,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0003014965803297568,
     "CtDrD": 0.6068658721220732
   },
+  "n_trials": 0.0,
   "prediction": 0.00488369724810091,
   "status": 0,
   "training_prediction": 0.00220585129952339

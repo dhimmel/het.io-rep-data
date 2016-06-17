@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00724",
   "compound_name": "Imiquimod",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.5049721300448412,
     "CbGbCtD": 0.2237375333282465,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07259998215399975,
     "CcSEcCtD": 0.1859758869169934
   },
+  "n_trials": 0.0,
   "prediction": 0.00575200946823885,
   "status": 0,
   "training_prediction": 0.0126110364231315

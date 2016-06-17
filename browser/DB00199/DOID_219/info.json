@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.637841352405722,
   "metapath_contribution": {
     "CbGaD": 0.3014535814661539,
     "CbGbCtD": 0.6132235208202398,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05022010339245546,
     "CrCbGaD": 0.002553165326190891
   },
+  "n_trials": 0.0,
   "prediction": 0.00194247630808095,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

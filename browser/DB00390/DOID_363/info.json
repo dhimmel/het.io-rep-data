@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.46879063719115704,
   "metapath_contribution": {
     "CbGaD": 0.5353284173809157,
     "CbGbCtD": 0.2679610505412159,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.05890237630063551,
     "CrCbGaD": 0.0031361025784000006
   },
+  "n_trials": 0.0,
   "prediction": 0.00160282880194216,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

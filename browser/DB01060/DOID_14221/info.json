@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.294117647058824,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.099479843953186,
   "metapath_contribution": {
     "CcSEcCtD": 0.007807337679013859,
     "CrCbGaD": 0.9921926623209862
   },
+  "n_trials": 1.0,
   "prediction": 0.000783933325938855,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

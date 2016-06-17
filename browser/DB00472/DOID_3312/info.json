@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.85630689206762,
   "metapath_contribution": {
     "CbGaD": 0.836708285738681,
     "CbGeAlD": 0.08885887175168306,
     "CbGpPWpGaD": 0.06865321015610763,
     "CrCbGaD": 0.0057796323535283115
   },
+  "n_trials": 9.0,
   "prediction": 0.0022575523984861103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

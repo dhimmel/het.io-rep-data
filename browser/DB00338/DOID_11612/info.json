@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.7698309492847851,
   "metapath_contribution": {
     "CbGaD": 0.7164127340395907,
     "CbGeAlD": 0.0887562669728543,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07320970666408409,
     "CrCbGaD": 0.0016600786887102557
   },
+  "n_trials": 0.0,
   "prediction": 0.0020428500117622896,
   "status": 0,
   "training_prediction": 0.0009212652507764391

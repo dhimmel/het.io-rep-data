@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01192",
   "compound_name": "Oxymorphone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.41742522756827005,
   "metapath_contribution": {
     "CbGaD": 0.22817418153771213,
     "CbGbCtD": 0.44751607540495164,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22949710260051026,
     "CrCbGaD": 0.005719451661366493
   },
+  "n_trials": 0.0,
   "prediction": 0.00198201674513836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

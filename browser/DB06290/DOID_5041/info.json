@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.661898569570871,
   "metapath_contribution": {
     "CbGaD": 0.5872727321867093,
     "CbGbCtD": 0.19852756084326087,
     "CbGeAlD": 0.04277773504944795,
     "CbGpPWpGaD": 0.17142197192058187
   },
+  "n_trials": 0.0,
   "prediction": 0.0018539558972232302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.09362808842652802,
   "metapath_contribution": {
     "CbGbCtD": 0.40240275985860857,
     "CbGeAlD": 0.19222242363294162,
     "CbGpPWpGaD": 0.16092000483767524,
     "CcSEcCtD": 0.24445481167077443
   },
+  "n_trials": 0.0,
   "prediction": 0.0009180567383017359,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

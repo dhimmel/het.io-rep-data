@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01021",
   "compound_name": "Trichlormethiazide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.560468140442133,
   "metapath_contribution": {
     "CbGaD": 0.3272979832712231,
     "CbGbCtD": 0.5628175858530501,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07047666199476829,
     "CrCbGaD": 0.0022530287135886194
   },
+  "n_trials": 0.0,
   "prediction": 0.00256675487919055,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

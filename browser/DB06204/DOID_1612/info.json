@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06204",
   "compound_name": "Tapentadol",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.35110533159948,
   "metapath_contribution": {
     "CbGaD": 0.19359532013302175,
     "CbGbCtD": 0.4113882268881501,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24570732113204968,
     "CrCbGaD": 0.006679610339669197
   },
+  "n_trials": 0.0,
   "prediction": 0.00181099307511973,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

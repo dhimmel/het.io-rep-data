@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.19375812743823104,
   "metapath_contribution": {
     "CbGaD": 0.40072499215303564,
     "CbGbCtD": 0.4165527148940285,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15638782022501022,
     "CrCbGaD": 0.004128437299457851
   },
+  "n_trials": 0.0,
   "prediction": 0.00124459947983551,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

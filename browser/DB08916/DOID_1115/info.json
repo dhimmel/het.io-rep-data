@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.7932379713914169,
   "metapath_contribution": {
     "CbGaD": 0.4611237789313,
     "CbGbCtD": 0.24144297272403537,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.07326272733404202,
     "CrCbGaD": 0.006447449911601682
   },
+  "n_trials": 0.0,
   "prediction": 0.00223671655532125,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

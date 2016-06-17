@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.195708712613784,
   "metapath_contribution": {
     "CbGaD": 0.5962509956334491,
     "CbGbCtD": 0.018676933877901064,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11044746534205015,
     "CrCbGaD": 0.006887255795311503
   },
+  "n_trials": 0.0,
   "prediction": 0.0009003540199848131,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

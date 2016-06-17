@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.420676202860858,
   "metapath_contribution": {
     "CbGaD": 0.5052458007040099,
     "CbGbCtD": 0.354335977062933,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09869208392196675,
     "CrCbGaD": 0.004856114766392033
   },
+  "n_trials": 0.0,
   "prediction": 0.00318382463148626,
   "status": 0,
   "training_prediction": 0.0596298358450922

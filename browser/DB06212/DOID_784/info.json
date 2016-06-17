@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06212",
   "compound_name": "Tolvaptan",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8465539661898571,
   "metapath_contribution": {
     "CbGaD": 0.7653026848432336,
     "CbGeAlD": 0.0754501820930818,
     "CbGpPWpGaD": 0.15119360817864352,
     "CrCbGaD": 0.008053524885040981
   },
+  "n_trials": 0.0,
   "prediction": 0.00276253020627233,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

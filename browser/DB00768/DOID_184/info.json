@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00768",
   "compound_name": "Olopatadine",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.22561768530559198,
   "metapath_contribution": {
     "CbGaD": 0.7642783951054931,
     "CbGeAlD": 0.11292816511594855,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.047037615810920946,
     "CrCbGaD": 0.0038916650545671653
   },
+  "n_trials": 0.0,
   "prediction": 0.00101672693717896,
   "status": 0,
   "training_prediction": 0.00145110309245353

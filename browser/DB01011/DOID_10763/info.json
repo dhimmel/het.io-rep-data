@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01011",
   "compound_name": "Metyrapone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGaD": 0.40821514952537297,
     "CbGbCtD": 0.35853170217618313,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08440835043813104,
     "CcSEcCtD": 0.08369248810662479
   },
+  "n_trials": 0.0,
   "prediction": 0.0100357055780772,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

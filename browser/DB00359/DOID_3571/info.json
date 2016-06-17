@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00359",
   "compound_name": "Sulfadiazine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.425227568270481,
   "metapath_contribution": {
     "CbGaD": 0.7359146552276089,
     "CbGbCtD": 0.13287616730036786,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07419003598888474,
     "CrCbGaD": 0.006217844625387744
   },
+  "n_trials": 0.0,
   "prediction": 0.0012782921140985,
   "status": 0,
   "training_prediction": 0.00126099363575177

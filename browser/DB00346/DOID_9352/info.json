@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00346",
   "compound_name": "Alfuzosin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.711963589076723,
   "metapath_contribution": {
     "CbGaD": 0.2417813060910952,
     "CbGbCtD": 0.46413106062088627,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21218223767027478,
     "CrCbGaD": 0.002040889592604151
   },
+  "n_trials": 0.0,
   "prediction": 0.00397767088388996,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

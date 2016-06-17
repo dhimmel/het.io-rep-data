@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.263979193758127,
   "metapath_contribution": {
     "CbGbCtD": 0.83735744873928,
     "CbGdCrCtD": 0.006784898501864516,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.009485609928383192,
     "CrCbGaD": 0.0070741092538317936
   },
+  "n_trials": 0.0,
   "prediction": 0.0010135653463589302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

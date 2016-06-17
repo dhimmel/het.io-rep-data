@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.3671230695175863,
     "CbGbCtD": 0.473823160603266,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1381799144302962,
     "CrCbGaD": 0.0031708240015987698
   },
+  "n_trials": 0.0,
   "prediction": 0.00242979029326541,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.733420026007802,
   "metapath_contribution": {
     "CbGbCtD": 0.41036074132476796,
     "CbGdCrCtD": 0.003027782432759204,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06733403643282468,
     "CtDrD": 0.44713632471888975
   },
+  "n_trials": 0.0,
   "prediction": 0.00208444733345577,
   "status": 0,
   "training_prediction": 0.0113281319388711

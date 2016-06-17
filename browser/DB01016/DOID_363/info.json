@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.461104805782144,
     "CbGbCtD": 0.37852203187089317,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07233888614827713,
     "CrCbGaD": 0.0008461639274084065
   },
+  "n_trials": 0.0,
   "prediction": 0.00479728299493212,
   "status": 0,
   "training_prediction": 0.014493538176468

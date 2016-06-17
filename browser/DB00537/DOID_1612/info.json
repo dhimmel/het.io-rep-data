@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00537",
   "compound_name": "Ciprofloxacin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.476592977893368,
   "metapath_contribution": {
     "CbGaD": 0.3213414608481464,
     "CbGbCtD": 0.44806834117405375,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17099588616281297,
     "CrCbGaD": 0.0034928604032386946
   },
+  "n_trials": 1.0,
   "prediction": 0.00224095178318785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

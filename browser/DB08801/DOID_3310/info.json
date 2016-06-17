@@ -1,14 +1,16 @@
 {
   "compound_id": "DB08801",
   "compound_name": "Dimetindene",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGbCtD": 0.2676803331593113,
     "CrCrCtD": 0.3025440031555025,
     "CrCtD": 0.4297756636851862
   },
+  "n_trials": 1.0,
   "prediction": 0.00832971968616371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

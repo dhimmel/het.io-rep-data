@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.22756827048114397,
   "metapath_contribution": {
     "CbGbCtD": 0.9599514959725908,
     "CbGeAlD": 0.010884294437076102,
     "CrCbGaD": 0.029164209590333123
   },
+  "n_trials": 2.0,
   "prediction": 0.00118174827977881,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

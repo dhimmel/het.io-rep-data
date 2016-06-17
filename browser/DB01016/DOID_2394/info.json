@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.7230169050715209,
   "metapath_contribution": {
     "CbGaD": 0.14164954764473883,
     "CbGbCtD": 0.6175533123426606,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12524244103071544,
     "CrCbGaD": 0.0014456370461196778
   },
+  "n_trials": 0.0,
   "prediction": 0.00207863403932295,
   "status": 0,
   "training_prediction": 0.00823445291449492

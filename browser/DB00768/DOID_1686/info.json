@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00768",
   "compound_name": "Olopatadine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.21456436931079298,
   "metapath_contribution": {
     "CbGbCtD": 0.15002080998498651,
     "CbGdCrCtD": 0.01180209430476105,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.695099920888356,
     "CrCbGaD": 0.003398358573824612
   },
+  "n_trials": 0.0,
   "prediction": 0.00123301814082444,
   "status": 0,
   "training_prediction": 0.00522901259083384

@@ -1,21 +1,23 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
-    "CbGaD": 0.14802135290449145,
-    "CbGbCtD": 0.21503093393673536,
-    "CbGdCrCtD": 0.00026810348534534996,
-    "CbGeAlD": 0.015324312080863314,
-    "CbGpPWpGaD": 0.04311699368715939,
-    "CcSEcCtD": 0.0593913842848703,
-    "CpDpCtD": 0.1694903821853014,
-    "CrCbGaD": 0.0015561329692733903,
-    "CrCrCtD": 0.14856110177894,
-    "CrCtD": 0.1992393026870199
+    "CbGaD": 0.14802135290449148,
+    "CbGbCtD": 0.21503093393673542,
+    "CbGdCrCtD": 0.00026810348534535,
+    "CbGeAlD": 0.015324312080863317,
+    "CbGpPWpGaD": 0.043116993687159405,
+    "CcSEcCtD": 0.05939138428487031,
+    "CpDpCtD": 0.16949038218530144,
+    "CrCbGaD": 0.0015561329692733905,
+    "CrCrCtD": 0.14856110177894002,
+    "CrCtD": 0.19923930268701995
   },
+  "n_trials": 0.0,
   "prediction": 0.0479887525190673,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

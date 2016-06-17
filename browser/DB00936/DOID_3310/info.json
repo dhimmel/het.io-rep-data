@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.193107932379714,
   "metapath_contribution": {
     "CbGbCtD": 0.755253644928698,
     "CbGdCrCtD": 0.0076010959886726025,
     "CcSEcCtD": 0.23079391533817556,
     "CrCbGaD": 0.006351343744453859
   },
+  "n_trials": 0.0,
   "prediction": 0.00142027985268148,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGbCtD": 0.016418928512357718,
     "CbGeAlD": 0.021805041089001068,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0002589036069830784,
     "CrCrCtD": 0.9420816471335332
   },
+  "n_trials": 0.0,
   "prediction": 0.00230684937780693,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

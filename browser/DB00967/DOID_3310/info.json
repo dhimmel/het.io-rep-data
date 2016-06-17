@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00967",
   "compound_name": "Desloratadine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.09907319460347046,
     "CcSEcCtD": 0.027564755711535435,
@@ -11,6 +13,7 @@
     "CrCtD": 0.2650034372162552,
     "CtDrD": 0.22739271857127777
   },
+  "n_trials": 2.0,
   "prediction": 0.19846570212088802,
   "status": 0,
   "training_prediction": 0.45927086512794607

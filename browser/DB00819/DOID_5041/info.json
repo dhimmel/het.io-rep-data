@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00819",
   "compound_name": "Acetazolamide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.7335374081225293,
     "CbGeAlD": 0.0647154430813392,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.025290800953945685,
     "CrCbGaD": 0.0065142736465354425
   },
+  "n_trials": 0.0,
   "prediction": 0.0030750482185968103,
   "status": 0,
   "training_prediction": 0.00620779598830974

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.608582574772432,
   "metapath_contribution": {
     "CbGaD": 0.08779052734764015,
     "CbGbCtD": 0.33728653792185365,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0025515494810861073,
     "CrCrCtD": 0.38686141887862463
   },
+  "n_trials": 1.0,
   "prediction": 0.0029596747136738802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

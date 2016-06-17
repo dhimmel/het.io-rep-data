@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.7392717815344599,
   "metapath_contribution": {
     "CbGaD": 0.7211196420730451,
     "CbGdCrCtD": 0.006333631640644495,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09422118794259945,
     "CcSEcCtD": 0.1337229516748703
   },
+  "n_trials": 0.0,
   "prediction": 0.00260273943404619,
   "status": 0,
   "training_prediction": 0.0166004432948807

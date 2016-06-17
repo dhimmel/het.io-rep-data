@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00186",
   "compound_name": "Lorazepam",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.34200260078023403,
   "metapath_contribution": {
     "CbGaD": 0.7566817485413889,
     "CbGeAlD": 0.013439378092441652,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15342525582302743,
     "CrCbGaD": 0.004783733834720188
   },
+  "n_trials": 0.0,
   "prediction": 0.00170043371509169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

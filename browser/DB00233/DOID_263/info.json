@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.49154746423927204,
   "metapath_contribution": {
     "CbGaD": 0.663381392166917,
     "CbGpPWpGaD": 0.15833211305619996,
     "CcSEcCtD": 0.17467015449862727,
     "CrCbGaD": 0.003616340278255727
   },
+  "n_trials": 0.0,
   "prediction": 0.00179696955261698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

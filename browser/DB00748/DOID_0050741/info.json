@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00748",
   "compound_name": "Carbinoxamine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.730819245773732,
   "metapath_contribution": {
-    "CbGaD": 0.37573383807675104,
-    "CbGbCtD": 0.45185264659005775,
-    "CbGeAlD": 0.007596711596158584,
-    "CbGpPWpGaD": 0.07394815188318091,
-    "CcSEcCtD": 0.08707060419891065,
-    "CrCbGaD": 0.0037980476549409653
+    "CbGaD": 0.3757338380767511,
+    "CbGbCtD": 0.45185264659005786,
+    "CbGeAlD": 0.007596711596158586,
+    "CbGpPWpGaD": 0.07394815188318092,
+    "CcSEcCtD": 0.08707060419891066,
+    "CrCbGaD": 0.003798047654940966
   },
+  "n_trials": 0.0,
   "prediction": 0.00330490942307858,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

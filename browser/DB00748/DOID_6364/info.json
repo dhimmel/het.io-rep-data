@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00748",
   "compound_name": "Carbinoxamine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.6449934980494151,
   "metapath_contribution": {
     "CbGbCtD": 0.43170996184664695,
     "CcSEcCtD": 0.09347308715066328,
     "CrCbGaD": 0.0034513318206881812,
     "CrCrCtD": 0.47136561918200165
   },
+  "n_trials": 0.0,
   "prediction": 0.00305195309255884,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

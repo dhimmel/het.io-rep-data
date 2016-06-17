@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.3839245138725611,
     "CbGbCtD": 0.07834025956289949,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0033981034043158577,
     "CtDrD": 0.4383324411328516
   },
+  "n_trials": 0.0,
   "prediction": 0.00463221939701154,
   "status": 0,
   "training_prediction": 0.00660103541760929

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.7723946382222276,
     "CbGeAlD": 0.06188440907297752,
     "CbGpPWpGaD": 0.1596287105322178,
     "CrCbGaD": 0.006092242172577152
   },
+  "n_trials": 0.0,
   "prediction": 0.00415901553580457,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

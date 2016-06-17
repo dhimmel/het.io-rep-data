@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.209362808842653,
   "metapath_contribution": {
     "CbGaD": 0.8572305684410444,
     "CbGeAlD": 0.010505270430822706,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04914330899705383,
     "CrCbGaD": 0.01586448167603875
   },
+  "n_trials": 0.0,
   "prediction": 0.000919541430501719,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

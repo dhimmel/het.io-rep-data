@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.8759855255824299,
     "CbGeAlD": 0.027776332072536294,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.033153097388911,
     "CrCbGaD": 0.006038883238501612
   },
+  "n_trials": 0.0,
   "prediction": 0.0026754733728240397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

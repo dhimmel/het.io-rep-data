@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGaD": 0.2541026359675477,
     "CbGbCtD": 0.4653251637635954,
     "CbGpPWpGaD": 0.06644276788118962,
     "CcSEcCtD": 0.2141294323876672
   },
+  "n_trials": 0.0,
   "prediction": 0.0024173249710725602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

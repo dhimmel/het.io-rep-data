@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.592327698309493,
   "metapath_contribution": {
     "CbGaD": 0.6026983623896252,
     "CbGbCtD": 0.09708458846966071,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.10365921876947784,
     "CrCbGaD": 0.005015417625999515
   },
+  "n_trials": 0.0,
   "prediction": 0.0018235891597808802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

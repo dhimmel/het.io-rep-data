@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0017098260895130255,
     "CbGeAlD": 0.085250429114871,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.002376512690469633,
     "CpDpCtD": 0.7415482202107913
   },
+  "n_trials": 1.0,
   "prediction": 0.002064422721602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

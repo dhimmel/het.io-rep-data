@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGbCtD": 0.20871407437997136,
     "CbGeAlD": 0.0874567440464867,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00502397487367484,
     "CrCrCtD": 0.6026711439090321
   },
+  "n_trials": 0.0,
   "prediction": 0.00429979948776123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

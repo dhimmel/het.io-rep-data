@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01246",
   "compound_name": "Alimemazine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.0962288686605982,
   "metapath_contribution": {
     "CbGbCtD": 0.6472776652496772,
     "CcSEcCtD": 0.35051667910978057,
     "CrCbGaD": 0.002205655640542188
   },
+  "n_trials": 0.0,
   "prediction": 0.000974961309622744,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

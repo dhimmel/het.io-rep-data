@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.580624187256177,
   "metapath_contribution": {
     "CbGaD": 0.6688334142341085,
     "CbGbCtD": 0.14609860095166852,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12074482153807642,
     "CrCbGaD": 0.008231725192077115
   },
+  "n_trials": 0.0,
   "prediction": 0.00240894348502237,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

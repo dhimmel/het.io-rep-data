@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.17759800911448603,
     "CbGbCtD": 0.7163350363976402,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06652783980668579,
     "CrCbGaD": 0.002551124547466205
   },
+  "n_trials": 0.0,
   "prediction": 0.0035050102394298,
   "status": 0,
   "training_prediction": 0.009559937302801729

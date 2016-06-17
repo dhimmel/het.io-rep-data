@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.642392717815345,
   "metapath_contribution": {
     "CbGaD": 0.4827136135848619,
     "CbGeAlD": 0.07480018004893701,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20672200060031834,
     "CrCbGaD": 0.006784940954901901
   },
+  "n_trials": 0.0,
   "prediction": 0.0017681859750399897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

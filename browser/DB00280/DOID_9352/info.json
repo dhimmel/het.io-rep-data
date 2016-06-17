@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00280",
   "compound_name": "Disopyramide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7360208062418729,
   "metapath_contribution": {
     "CbGaD": 0.1590688186247936,
     "CbGbCtD": 0.29961816313280504,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.000751839076838629,
     "CrCrCtD": 0.2718644866463549
   },
+  "n_trials": 0.0,
   "prediction": 0.00414327147952561,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

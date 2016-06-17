@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.85630689206762,
   "metapath_contribution": {
     "CbGbCtD": 0.26877684384260603,
     "CbGeAlD": 0.04263015305717018,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12079807762337906,
     "CpDpCtD": 0.5464589304292897
   },
+  "n_trials": 0.0,
   "prediction": 0.00650721033420002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

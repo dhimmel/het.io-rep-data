@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.13658200758894695,
     "CbGdCrCtD": 0.0004577653919966221,
@@ -13,6 +15,7 @@
     "CrCtD": 0.2082591446170688,
     "CtDrD": 0.18877866664352566
   },
+  "n_trials": 0.0,
   "prediction": 0.165178433729133,
   "status": 0,
   "training_prediction": 0.392197789837889

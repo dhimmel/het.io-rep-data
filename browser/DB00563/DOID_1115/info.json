@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGbCtD": 0.3426850092060401,
     "CbGdCrCtD": 0.0010690303392533983,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08745542429355432,
     "CtDrD": 0.4951741471162805
   },
+  "n_trials": 1.0,
   "prediction": 0.00786696721576004,
   "status": 0,
   "training_prediction": 0.16013200871456099

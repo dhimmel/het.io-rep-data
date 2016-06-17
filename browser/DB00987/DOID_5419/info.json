@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.011703511053316002,
   "metapath_contribution": {
-    "CbGeAlD": 0.39685078988743105,
+    "CbGeAlD": 0.3968507898874311,
     "CbGpPWpGaD": 0.5718463929604444,
     "CrCbGaD": 0.03130281715212457
   },
+  "n_trials": 0.0,
   "prediction": 0.000392239019012461,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

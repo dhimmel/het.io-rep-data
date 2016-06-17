@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01215",
   "compound_name": "Estazolam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.349154746423927,
   "metapath_contribution": {
     "CbGbCtD": 0.13945467802001868,
-    "CbGeAlD": 0.0055979374191807455,
-    "CbGpPWpGaD": 0.11699647493841535,
+    "CbGeAlD": 0.005597937419180746,
+    "CbGpPWpGaD": 0.11699647493841536,
     "CcSEcCtD": 0.2927882489520301,
-    "CrCbGaD": 0.0037397978178746226,
-    "CrCrCtD": 0.44142286285248045
+    "CrCbGaD": 0.003739797817874623,
+    "CrCrCtD": 0.4414228628524805
   },
+  "n_trials": 0.0,
   "prediction": 0.00266143703580308,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

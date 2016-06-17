@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.169117647058824,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.287386215864759,
   "metapath_contribution": {
     "CbGdCrCtD": 0.01874295604596935,
     "CbGeAlD": 0.6007752038898079,
     "CbGpPWpGaD": 0.3634481913808765,
     "CrCbGaD": 0.01703364868334638
   },
+  "n_trials": 0.0,
   "prediction": 0.00108034159950105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

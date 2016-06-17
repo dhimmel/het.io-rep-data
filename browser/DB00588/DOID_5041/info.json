@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.0367647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.00650195058517555,
   "metapath_contribution": {
     "CbGdCrCtD": 0.021956755927048592,
     "CbGeAlD": 0.08684537928950445,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4339828840724218,
     "CrCbGaD": 0.027152596906135196
   },
+  "n_trials": 0.0,
   "prediction": 0.000350310508878169,
   "status": 0,
   "training_prediction": 0.000425308696201684

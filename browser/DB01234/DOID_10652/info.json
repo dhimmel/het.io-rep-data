@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.133289986996099,
   "metapath_contribution": {
     "CbGaD": 0.39381500435226385,
     "CbGbCtD": 0.32208287876272884,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1429943285124811,
     "CrCbGaD": 0.00018714695677158404
   },
+  "n_trials": 0.0,
   "prediction": 0.0008916953021325221,
   "status": 0,
   "training_prediction": 0.007296047074212371

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGaD": 0.6136047275602172,
     "CbGbCtD": 0.1859264668474148,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.16285706538045486,
     "CrCbGaD": 0.0034660576479141583
   },
+  "n_trials": 2.0,
   "prediction": 0.00365723764547818,
   "status": 0,
   "training_prediction": 0.0124347195749508

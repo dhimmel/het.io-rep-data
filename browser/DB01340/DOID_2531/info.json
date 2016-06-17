@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.661248374512354,
   "metapath_contribution": {
-    "CbGaD": 0.1413633223212629,
-    "CbGbCtD": 0.24229748389624473,
-    "CbGpPWpGaD": 0.034059094255724606,
-    "CcSEcCtD": 0.23007224563687914,
-    "CrCbGaD": 0.0006478427393638598,
-    "CrCrCtD": 0.3515600111505246
+    "CbGaD": 0.14136332232126292,
+    "CbGbCtD": 0.24229748389624478,
+    "CbGpPWpGaD": 0.03405909425572461,
+    "CcSEcCtD": 0.2300722456368792,
+    "CrCbGaD": 0.0006478427393638599,
+    "CrCrCtD": 0.3515600111505247
   },
+  "n_trials": 0.0,
   "prediction": 0.00312123377184162,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

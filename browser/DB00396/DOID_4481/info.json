@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
     "CbGbCtD": 0.29360644567015926,
     "CbGdCrCtD": 0.00020542630315717648,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.2737442998488866,
     "CrCtD": 0.3543348737420857
   },
+  "n_trials": 0.0,
   "prediction": 0.0101811051137284,
   "status": 0,
   "training_prediction": 0.0324558621766902

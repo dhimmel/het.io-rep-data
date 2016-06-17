@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00787",
   "compound_name": "Aciclovir",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
-    "CbGbCtD": 0.267385675609851,
-    "CbGpPWpGaD": 0.0015460669983559728,
-    "CcSEcCtD": 0.05469864772621618,
-    "CiPCiCtD": 0.43556077339853216,
-    "CrCbGaD": 0.0019079249630123414,
-    "CrCrCtD": 0.23890091130403246
+    "CbGbCtD": 0.26738567560985094,
+    "CbGpPWpGaD": 0.0015460669983559723,
+    "CcSEcCtD": 0.054698647726216174,
+    "CiPCiCtD": 0.4355607733985321,
+    "CrCbGaD": 0.0019079249630123412,
+    "CrCrCtD": 0.2389009113040324
   },
+  "n_trials": 2.0,
   "prediction": 0.0128687874930282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

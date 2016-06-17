@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.149544863459038,
   "metapath_contribution": {
     "CbGaD": 0.49082833653352814,
     "CbGeAlD": 0.038417517525400006,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.46336645893538053,
     "CrCbGaD": 0.002651530201855569
   },
+  "n_trials": 0.0,
   "prediction": 0.00135044485367573,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

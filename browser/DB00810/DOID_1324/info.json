@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00810",
   "compound_name": "Biperiden",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.552015604681404,
   "metapath_contribution": {
     "CbGaD": 0.34015736291603366,
     "CbGbCtD": 0.5320132144065275,
     "CbGpPWpGaD": 0.12782942267743885
   },
+  "n_trials": 0.0,
   "prediction": 0.00200728487812673,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

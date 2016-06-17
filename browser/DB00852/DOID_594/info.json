@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.8361408910065555,
     "CbGeAlD": 0.047452084443194494,
     "CbGpPWpGaD": 0.11108506584564093,
     "CrCbGaD": 0.00532195870460908
   },
+  "n_trials": 0.0,
   "prediction": 0.00294058181292041,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

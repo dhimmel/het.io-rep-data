@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06594",
   "compound_name": "Agomelatine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8088426527958391,
   "metapath_contribution": {
     "CbGaD": 0.793626059093362,
     "CbGbCtD": 0.05115056183924011,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07347151697354838,
     "CrCbGaD": 0.003471198319397283
   },
+  "n_trials": 0.0,
   "prediction": 0.00246852326690668,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

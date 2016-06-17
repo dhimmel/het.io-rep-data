@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7529258777633292,
   "metapath_contribution": {
     "CbGaD": 0.4503769207670008,
     "CbGbCtD": 0.3554522672700206,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05622021419336362,
     "CrCbGaD": 0.0021421342553412798
   },
+  "n_trials": 0.0,
   "prediction": 0.00411751318003015,
   "status": 0,
   "training_prediction": 0.0385241567976531

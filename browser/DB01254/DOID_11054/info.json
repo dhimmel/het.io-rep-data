@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.3562656092959062,
     "CbGbCtD": 0.1748421578759777,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.18063872525286376,
     "CcSEcCtD": 0.1566376316518502
   },
+  "n_trials": 0.0,
   "prediction": 0.00572334460953951,
   "status": 0,
   "training_prediction": 0.0145724561146054

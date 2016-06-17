@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.386866059817945,
   "metapath_contribution": {
-    "CbGbCtD": 0.5160577325911151,
-    "CbGeAlD": 0.09243550199930482,
-    "CbGpPWpGaD": 0.09925736282172376,
-    "CcSEcCtD": 0.29205630662039395,
-    "CrCbGaD": 0.00019309596746251953
+    "CbGbCtD": 0.516057732591115,
+    "CbGeAlD": 0.09243550199930481,
+    "CbGpPWpGaD": 0.09925736282172375,
+    "CcSEcCtD": 0.2920563066203939,
+    "CrCbGaD": 0.0001930959674625195
   },
+  "n_trials": 2.0,
   "prediction": 0.00195277341084897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

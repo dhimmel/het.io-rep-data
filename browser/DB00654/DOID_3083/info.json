@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00654",
   "compound_name": "Latanoprost",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.242522756827048,
   "metapath_contribution": {
     "CbGbCtD": 0.743223919894959,
     "CbGeAlD": 0.01745862734747816,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.23131913400717977,
     "CrCbGaD": 0.007085829604664847
   },
+  "n_trials": 0.0,
   "prediction": 0.00147115573534679,
   "status": 0,
   "training_prediction": 0.00324209222976656

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.5240572171651501,
   "metapath_contribution": {
     "CbGaD": 0.5308139740500174,
     "CbGeAlD": 0.008331299649623898,
     "CbGpPWpGaD": 0.19809504108061596,
     "CcSEcCtD": 0.26275968521974286
   },
+  "n_trials": 0.0,
   "prediction": 0.00161339971453542,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

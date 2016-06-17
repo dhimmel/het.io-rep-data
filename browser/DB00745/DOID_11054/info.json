@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.25942782834850503,
   "metapath_contribution": {
     "CbGbCtD": 0.5304952733607615,
     "CbGeAlD": 0.09148074347071063,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2780276413965195,
     "CrCbGaD": 0.005682009904454359
   },
+  "n_trials": 0.0,
   "prediction": 0.00108030545575462,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

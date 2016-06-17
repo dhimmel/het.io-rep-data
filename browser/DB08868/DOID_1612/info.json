@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08868",
   "compound_name": "Fingolimod",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8511053315994799,
   "metapath_contribution": {
     "CbGaD": 0.25965936731174744,
     "CbGbCtD": 0.2960379685477653,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1818544043087106,
     "CcSEcCtD": 0.1579050099088136
   },
+  "n_trials": 0.0,
   "prediction": 0.0054625607507138105,
   "status": 0,
   "training_prediction": 0.0295883680446461

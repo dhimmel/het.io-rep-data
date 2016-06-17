@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5994798439531861,
   "metapath_contribution": {
     "CbGaD": 0.3711368298336428,
     "CbGbCtD": 0.3729499959446863,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15158653039539766,
     "CrCbGaD": 0.003677718101652506
   },
+  "n_trials": 0.0,
   "prediction": 0.00290262513490838,
   "status": 0,
   "training_prediction": 0.0262817798118138

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGaD": 0.23657108125463117,
     "CbGbCtD": 0.6395717249678341,
     "CbGpPWpGaD": 0.015888250167273705,
     "CcSEcCtD": 0.10796894361026105
   },
+  "n_trials": 0.0,
   "prediction": 0.0024001232290322603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

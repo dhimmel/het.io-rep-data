@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01010",
   "compound_name": "Edrophonium",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.661898569570871,
   "metapath_contribution": {
     "CbGbCtD": 0.9524061034626792,
     "CcSEcCtD": 0.04580559652089053,
     "CrCbGaD": 0.0017883000164303703
   },
+  "n_trials": 0.0,
   "prediction": 0.00200578194393205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

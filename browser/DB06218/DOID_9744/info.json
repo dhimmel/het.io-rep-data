@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06218",
   "compound_name": "Lacosamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.49804941482444703,
   "metapath_contribution": {
     "CbGeAlD": 0.0547313842016892,
     "CbGpPWpGaD": 0.04479366046746472,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.006567177991925899,
     "CrCrCtD": 0.8497398124108211
   },
+  "n_trials": 0.0,
   "prediction": 0.00141372836691603,
   "status": 0,
   "training_prediction": 0.000637329310721578

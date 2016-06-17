@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01252",
   "compound_name": "Mitiglinide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.696358907672302,
   "metapath_contribution": {
     "CbGaD": 0.8044156036889243,
     "CbGbCtD": 0.14077090642044196,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.0036231502189062246,
     "CbGpPWpGaD": 0.04602111017089223
   },
+  "n_trials": 0.0,
   "prediction": 0.00227722134688516,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

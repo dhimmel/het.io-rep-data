@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01006",
   "compound_name": "Letrozole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.681404421326398,
   "metapath_contribution": {
     "CbGaD": 0.33703411590051896,
     "CbGbCtD": 0.33170623587054354,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2489704707904108,
     "CrCbGaD": 0.0022279782677711406
   },
+  "n_trials": 0.0,
   "prediction": 0.0064971314208133,
   "status": 0,
   "training_prediction": 0.0725501436893712

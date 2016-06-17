@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.2585389746589348,
     "CbGbCtD": 0.3538359012084598,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.2921439688252616,
     "CrCbGaD": 0.0026601503965733423
   },
+  "n_trials": 0.0,
   "prediction": 0.0068255670848229,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

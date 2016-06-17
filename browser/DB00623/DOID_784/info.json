@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.7213762855999782,
     "CbGeAlD": 0.0858219353349742,
     "CbGpPWpGaD": 0.18355791189317272,
     "CrCbGaD": 0.00924386717187481
   },
+  "n_trials": 0.0,
   "prediction": 0.000818661180248848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

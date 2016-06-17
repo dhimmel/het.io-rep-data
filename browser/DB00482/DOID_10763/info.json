@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.793888166449935,
   "metapath_contribution": {
     "CbGaD": 0.16478239226538627,
     "CbGbCtD": 0.4025737215161176,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11698249219501793,
     "CpDpCtD": 0.20916170027566525
   },
+  "n_trials": 0.0,
   "prediction": 0.009577640416557391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

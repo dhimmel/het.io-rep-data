@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00553",
   "compound_name": "Methoxsalen",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.6592416759979814,
     "CbGbCtD": 0.15958391664713123,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.048623960235699114,
     "CcSEcCtD": 0.08002202958102327
   },
+  "n_trials": 0.0,
   "prediction": 0.00439301092263993,
   "status": 0,
   "training_prediction": 0.0120134187371661

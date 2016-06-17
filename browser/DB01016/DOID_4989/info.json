@@ -1,15 +1,18 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.784135240572172,
   "metapath_contribution": {
-    "CbGaD": 0.7730792841083336,
-    "CbGeAlD": 0.11462233345308538,
+    "CbGaD": 0.7730792841083335,
+    "CbGeAlD": 0.11462233345308537,
     "CbGpPWpGaD": 0.07999880667214464,
-    "CcSEcCtD": 0.02984726054415225,
+    "CcSEcCtD": 0.029847260544152248,
     "CrCbGaD": 0.0024523152222842323
   },
+  "n_trials": 0.0,
   "prediction": 0.00210924870552071,
   "status": 0,
   "training_prediction": 0.00258868314992673

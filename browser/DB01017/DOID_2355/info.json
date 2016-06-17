@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.6342359857112683,
     "CbGeAlD": 0.15260418492228336,
     "CbGpPWpGaD": 0.21272938373662978,
     "CrCbGaD": 0.0004304456298185872
   },
+  "n_trials": 0.0,
   "prediction": 0.0022834753641996,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

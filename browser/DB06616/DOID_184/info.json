@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06616",
   "compound_name": "Bosutinib",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.43888166449934995,
   "metapath_contribution": {
     "CbGaD": 0.6256027008584515,
     "CbGdCrCtD": 0.004014636303180766,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08100329825635713,
     "CrCbGaD": 0.005101916114572324
   },
+  "n_trials": 0.0,
   "prediction": 0.00138949237240922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

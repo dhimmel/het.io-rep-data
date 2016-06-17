@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
-    "CbGaD": 0.31754288684649534,
-    "CbGbCtD": 0.42348547170784706,
-    "CbGdCrCtD": 0.0003910830872673949,
+    "CbGaD": 0.3175428868464953,
+    "CbGbCtD": 0.423485471707847,
+    "CbGdCrCtD": 0.00039108308726739483,
     "CbGeAlD": 0.033184248583099554,
     "CbGpPWpGaD": 0.09622613462243014,
-    "CcSEcCtD": 0.1267897664479058,
+    "CcSEcCtD": 0.12678976644790577,
     "CrCbGaD": 0.002380408704954802
   },
+  "n_trials": 1.0,
   "prediction": 0.00410337919583158,
   "status": 0,
   "training_prediction": 0.0230462688643125

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.659947984395319,
   "metapath_contribution": {
     "CbGaD": 0.22683446416877362,
     "CbGbCtD": 0.5518774706919264,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05283700269894814,
     "CcSEcCtD": 0.14628746635986384
   },
+  "n_trials": 0.0,
   "prediction": 0.0033143308401409398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

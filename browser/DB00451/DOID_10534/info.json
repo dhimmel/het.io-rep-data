@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
     "CbGaD": 0.14871380024222483,
     "CbGbCtD": 0.579542621152339,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08578887177030106,
     "CrCbGaD": 0.00018374180958372543
   },
+  "n_trials": 0.0,
   "prediction": 0.00220947426131709,
   "status": 0,
   "training_prediction": 0.00486484804297192

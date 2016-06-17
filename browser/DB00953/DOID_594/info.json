@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00953",
   "compound_name": "Rizatriptan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.846098303502964,
     "CbGeAlD": 0.018654355373728615,
     "CbGpPWpGaD": 0.12841327366759012,
     "CrCbGaD": 0.006834067455717328
   },
+  "n_trials": 0.0,
   "prediction": 0.00348031296212863,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

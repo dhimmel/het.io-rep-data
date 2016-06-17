@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05109",
   "compound_name": "Trabectedin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.2419738503345382,
     "CbGbCtD": 0.09202429999333124,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.047614646175091216,
     "CiPCiCtD": 0.5841632051168048
   },
+  "n_trials": 17.0,
   "prediction": 0.0223400464794619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

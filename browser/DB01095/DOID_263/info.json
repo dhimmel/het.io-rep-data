@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.6137841352405721,
   "metapath_contribution": {
     "CbGaD": 0.21839026509054982,
     "CbGbCtD": 0.5271281827330618,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15743776855131905,
     "CrCbGaD": 0.00035338573911231254
   },
+  "n_trials": 0.0,
   "prediction": 0.0021555654094606302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

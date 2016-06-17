@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00943",
   "compound_name": "Zalcitabine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.7217165149544859,
   "metapath_contribution": {
     "CbGbCtD": 0.6548785339181303,
     "CbGdCrCtD": 0.0023581960561814474,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2051038300765677,
     "CrCbGaD": 0.0015743170487384393
   },
+  "n_trials": 0.0,
   "prediction": 0.00308373840903998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

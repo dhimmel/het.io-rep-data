@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.567620286085826,
   "metapath_contribution": {
     "CbGaD": 0.4945749767983812,
     "CbGbCtD": 0.28293618438096696,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15102579635464955,
     "CrCbGaD": 0.005338369410111426
   },
+  "n_trials": 0.0,
   "prediction": 0.0023533439315458803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

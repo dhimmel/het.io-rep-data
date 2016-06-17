@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.7369910628502455,
     "CbGbCtD": 0.012547179782590137,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1679811749945657,
     "CcSEcCtD": 0.05011505256124044
   },
+  "n_trials": 0.0,
   "prediction": 0.00237336354946866,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

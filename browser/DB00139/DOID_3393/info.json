@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00139",
   "compound_name": "Succinic acid",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.262678803641092,
   "metapath_contribution": {
     "CbGbCtD": 0.18571812268029764,
     "CbGdCrCtD": 0.012921650870275912,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.54971637967615,
     "CrCbGaD": 0.006344822230496255
   },
+  "n_trials": 0.0,
   "prediction": 0.00146566990737947,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

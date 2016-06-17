@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00697",
   "compound_name": "Tizanidine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8101430429128741,
   "metapath_contribution": {
     "CbGaD": 0.3692416359814256,
     "CbGpPWpGaD": 0.018886462939318893,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.46918329318345586,
     "CrCbGaD": 0.001497033412464214
   },
+  "n_trials": 0.0,
   "prediction": 0.00400137188642431,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

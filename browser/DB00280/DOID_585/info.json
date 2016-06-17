@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00280",
   "compound_name": "Disopyramide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.8191379693376041,
     "CbGeAlD": 0.041994537437659525,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09121587531142927,
     "CrCbGaD": 0.0060529284369123275
   },
+  "n_trials": 0.0,
   "prediction": 0.00324281025839137,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

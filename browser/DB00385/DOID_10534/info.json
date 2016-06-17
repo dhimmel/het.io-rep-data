@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00385",
   "compound_name": "Valrubicin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGbCtD": 0.14140185689531468,
     "CbGdCrCtD": 0.0015117848904538161,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.32504401638500446,
     "CrCtD": 0.507267433021587
   },
+  "n_trials": 0.0,
   "prediction": 0.00937808291914327,
   "status": 0,
   "training_prediction": 0.0204720165805811

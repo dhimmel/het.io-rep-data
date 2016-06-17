@@ -1,18 +1,21 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
-    "CbGbCtD": 0.03165376468060064,
-    "CbGeAlD": 0.027471032774446943,
-    "CbGpPWpGaD": 0.052121105565723753,
-    "CcSEcCtD": 0.04771334490774036,
-    "CrCbGaD": 0.0002578252328815752,
-    "CrCrCtD": 0.20883956731216674,
-    "CrCtD": 0.336365899064609,
-    "CtDrD": 0.29557746046183114
+    "CbGbCtD": 0.03165376468060063,
+    "CbGeAlD": 0.02747103277444694,
+    "CbGpPWpGaD": 0.05212110556572375,
+    "CcSEcCtD": 0.04771334490774035,
+    "CrCbGaD": 0.00025782523288157513,
+    "CrCrCtD": 0.2088395673121667,
+    "CrCtD": 0.33636589906460895,
+    "CtDrD": 0.2955774604618311
   },
+  "n_trials": 0.0,
   "prediction": 0.0207535865690571,
   "status": 0,
   "training_prediction": 0.0516347647113258

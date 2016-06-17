@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1964",
   "disease_name": "fallopian tube cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGeAlD": 0.0402361572115518,
     "CtDrD": 0.9597638427884482
   },
+  "n_trials": 1.0,
   "prediction": 0.00291964323686259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

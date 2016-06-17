@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.7605851190893671,
     "CbGeAlD": 0.06904211765011378,
     "CbGpPWpGaD": 0.16404676844972277,
     "CrCbGaD": 0.006325994810796362
   },
+  "n_trials": 0.0,
   "prediction": 0.00264148161767031,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

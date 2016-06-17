@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8686605981794541,
   "metapath_contribution": {
     "CbGaD": 0.4524705112055707,
     "CbGbCtD": 0.27031419026514963,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.15712749873737233,
     "CrCbGaD": 0.00413886469236203
   },
+  "n_trials": 0.0,
   "prediction": 0.00398464795661343,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

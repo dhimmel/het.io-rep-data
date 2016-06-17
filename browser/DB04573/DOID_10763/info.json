@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.42847854356306897,
   "metapath_contribution": {
     "CbGaD": 0.31160835970849365,
     "CbGbCtD": 0.43684616001799886,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17369575952808042,
     "CrCbGaD": 0.003177153616002606
   },
+  "n_trials": 0.0,
   "prediction": 0.00325085884439691,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

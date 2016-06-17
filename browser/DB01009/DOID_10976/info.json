@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.21911573472041604,
   "metapath_contribution": {
     "CbGaD": 0.8217086927747835,
     "CbGeAlD": 0.07543447230400332,
     "CbGpPWpGaD": 0.09802903393098172,
     "CrCbGaD": 0.004827800990231459
   },
+  "n_trials": 0.0,
   "prediction": 0.0009205525398109061,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

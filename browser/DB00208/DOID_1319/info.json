@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.47452822971744707,
     "CbGbCtD": 0.3942320568700831,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07106496655579139,
     "CrCbGaD": 0.0034886582490793547
   },
+  "n_trials": 0.0,
   "prediction": 0.0026509287412431197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

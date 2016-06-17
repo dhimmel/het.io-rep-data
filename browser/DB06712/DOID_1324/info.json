@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06712",
   "compound_name": "Nilvadipine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGaD": 0.5232872864246775,
     "CbGbCtD": 0.32825607809439306,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1319177312876458,
     "CrCbGaD": 0.004411866734269575
   },
+  "n_trials": 0.0,
   "prediction": 0.00201902067465625,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

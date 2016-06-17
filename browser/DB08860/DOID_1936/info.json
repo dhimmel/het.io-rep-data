@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.10555476381405508,
     "CbGbCtD": 0.18966879304192646,
@@ -13,6 +15,7 @@
     "CrCtD": 0.28754800379662937,
     "CtDrD": 0.19451827524876736
   },
+  "n_trials": 1.0,
   "prediction": 0.17074555331371802,
   "status": 0,
   "training_prediction": 0.251589752083318

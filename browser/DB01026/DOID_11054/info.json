@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.472041612483745,
   "metapath_contribution": {
     "CbGbCtD": 0.5055701705528084,
     "CbGeAlD": 0.0973386504896385,
     "CbGpPWpGaD": 0.220534411828322,
     "CcSEcCtD": 0.17655676712923102
   },
+  "n_trials": 0.0,
   "prediction": 0.00147553655467235,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

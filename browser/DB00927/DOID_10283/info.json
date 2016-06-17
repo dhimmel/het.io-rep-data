@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00927",
   "compound_name": "Famotidine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGaD": 0.26098705207533973,
     "CbGbCtD": 0.46781894693324627,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06252614377647672,
     "CcSEcCtD": 0.19106040520321985
   },
+  "n_trials": 0.0,
   "prediction": 0.00445131258299139,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

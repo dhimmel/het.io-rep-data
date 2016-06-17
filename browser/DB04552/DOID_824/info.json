@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04552",
   "compound_name": "Niflumic Acid",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.8485045513654101,
   "metapath_contribution": {
     "CbGaD": 0.9144339049247101,
     "CbGeAlD": 0.06533497556292808,
     "CbGpPWpGaD": 0.015336967477555651,
     "CrCbGaD": 0.004894152034806268
   },
+  "n_trials": 0.0,
   "prediction": 0.00198149748607625,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

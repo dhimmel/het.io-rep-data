@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.20328981788373401,
     "CbGpPWpGaD": 0.08260235993595616,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.6401422111855422,
     "CrCbGaD": 0.001757086720112119
   },
+  "n_trials": 0.0,
   "prediction": 0.0038479069235060896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

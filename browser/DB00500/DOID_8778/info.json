@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.26326205273421194,
     "CbGbCtD": 0.23893608576225903,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0015337506100379066,
     "CrCrCtD": 0.24977095236519167
   },
+  "n_trials": 0.0,
   "prediction": 0.0123949160534505,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

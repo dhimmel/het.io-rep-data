@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.608582574772432,
   "metapath_contribution": {
     "CbGbCtD": 0.7468026221689121,
     "CbGeAlD": 0.009449492556215746,
     "CcSEcCtD": 0.23693488560711837,
     "CrCbGaD": 0.006812999667753594
   },
+  "n_trials": 0.0,
   "prediction": 0.0019726235640456,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

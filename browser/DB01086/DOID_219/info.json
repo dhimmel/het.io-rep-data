@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.3470371021845525,
     "CbGbCtD": 0.6204843742454772,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.011246607454699615,
     "CrCbGaD": 0.0035573856388553945
   },
+  "n_trials": 0.0,
   "prediction": 0.00243436732640405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

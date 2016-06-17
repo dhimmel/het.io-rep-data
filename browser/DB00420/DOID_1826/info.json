@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGaD": 0.20979923449559687,
     "CbGbCtD": 0.16300676556349425,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2106418811335554,
     "CrCtD": 0.34291516933507316
   },
+  "n_trials": 0.0,
   "prediction": 0.0155388404821611,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

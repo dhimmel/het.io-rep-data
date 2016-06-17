@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.03236374639282453,
     "CbGbCtD": 0.12639437377229235,
@@ -14,6 +16,7 @@
     "CrCtD": 0.1757499188880411,
     "CtDrD": 0.2290146451198994
   },
+  "n_trials": 1.0,
   "prediction": 0.0299517095546926,
   "status": 0,
   "training_prediction": 0.254921718406571

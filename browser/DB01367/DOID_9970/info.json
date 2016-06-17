@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01367",
   "compound_name": "Rasagiline",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.36544783394134966,
     "CbGbCtD": 0.42208641474959563,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.06462434181883117,
     "CcSEcCtD": 0.13542731590320972
   },
+  "n_trials": 0.0,
   "prediction": 0.0096730483860175,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

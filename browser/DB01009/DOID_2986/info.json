@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.007352941176470591,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.0435630689206762,
   "metapath_contribution": {
-    "CbGaD": 0.3995666348872136,
-    "CbGeAlD": 0.1711501056899259,
-    "CbGpPWpGaD": 0.42893608668086397,
-    "CrCbGaD": 0.0003471727419966358
+    "CbGaD": 0.39956663488721356,
+    "CbGeAlD": 0.17115010568992586,
+    "CbGpPWpGaD": 0.4289360866808639,
+    "CrCbGaD": 0.00034717274199663577
   },
+  "n_trials": 0.0,
   "prediction": 0.000369071023511965,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

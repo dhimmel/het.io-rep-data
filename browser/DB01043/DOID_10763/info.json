@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01043",
   "compound_name": "Memantine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.704161248374512,
   "metapath_contribution": {
     "CbGaD": 0.17617158802479863,
     "CbGbCtD": 0.42183809877919903,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1070306397709874,
     "CcSEcCtD": 0.25532789601239164
   },
+  "n_trials": 0.0,
   "prediction": 0.007019950169977421,
   "status": 0,
   "training_prediction": 0.0779710489063774

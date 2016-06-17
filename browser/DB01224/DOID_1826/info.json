@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.20416081999365251,
     "CbGbCtD": 0.17009360933172119,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0018620545626498249,
     "CrCrCtD": 0.16305785326312697
   },
+  "n_trials": 0.0,
   "prediction": 0.0192198078910636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

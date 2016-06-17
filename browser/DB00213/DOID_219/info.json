@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.3308912816433963,
     "CbGbCtD": 0.4836575006454164,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16326858006807785,
     "CrCbGaD": 0.001005960701395086
   },
+  "n_trials": 0.0,
   "prediction": 0.00323611879621303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.6144872808194284,
     "CbGeAlD": 0.0028195146871853897,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.30168467841222246,
     "CrCbGaD": 0.005837833121286234
   },
+  "n_trials": 2.0,
   "prediction": 0.0009440480115819641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGaD": 0.7919087087089411,
     "CbGbCtD": 0.10929449875891323,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08580300561863176,
     "CrCbGaD": 0.003181769989982659
   },
+  "n_trials": 0.0,
   "prediction": 0.00221196185883247,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

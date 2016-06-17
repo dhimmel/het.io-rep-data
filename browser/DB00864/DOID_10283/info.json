@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.40201756863320354,
     "CbGbCtD": 0.325729092481247,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1463417330326023,
     "CrCbGaD": 0.002339415428377002
   },
+  "n_trials": 1.0,
   "prediction": 0.0028899554349782,
   "status": 0,
   "training_prediction": 0.012190251055472

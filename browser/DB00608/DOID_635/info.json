@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.36069760357061,
     "CbGbCtD": 0.484006002854781,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.024649092858273013,
     "CcSEcCtD": 0.10693224140264215
   },
+  "n_trials": 2.0,
   "prediction": 0.0051098177877370605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

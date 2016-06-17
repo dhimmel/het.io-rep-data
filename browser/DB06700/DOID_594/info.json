@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.9206444371234112,
     "CbGeAlD": 0.059138701440200475,
     "CbGpPWpGaD": 0.015991926540334524,
     "CrCbGaD": 0.004224934896053947
   },
+  "n_trials": 0.0,
   "prediction": 0.00307941250733319,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

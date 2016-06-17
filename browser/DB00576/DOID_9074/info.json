@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00576",
   "compound_name": "Sulfamethizole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.13842474592720375,
     "CbGbCtD": 0.11296497481319688,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.3078319616564237,
     "CrCtD": 0.4342582999080229
   },
+  "n_trials": 0.0,
   "prediction": 0.0105724374409786,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

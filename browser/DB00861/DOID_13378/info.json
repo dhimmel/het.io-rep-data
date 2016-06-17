@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGbCtD": 0.14236422595597445,
     "CbGeAlD": 0.0023476530567012933,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.23282048017939413,
     "CrCrCtD": 0.18979476376670007
   },
+  "n_trials": 0.0,
   "prediction": 0.0322553246832526,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

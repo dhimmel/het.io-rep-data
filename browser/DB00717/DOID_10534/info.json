@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.0903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.23918333105950598,
     "CbGbCtD": 0.5268681319416167,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16760013517649736,
     "CrCbGaD": 0.000985754108092372
   },
+  "n_trials": 0.0,
   "prediction": 0.000707008910856172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

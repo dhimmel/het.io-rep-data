@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.4603381014304289,
   "metapath_contribution": {
     "CbGaD": 0.25421427048469303,
     "CbGbCtD": 0.4911169654882051,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11729347242553598,
     "CrCbGaD": 0.001983755456878942
   },
+  "n_trials": 0.0,
   "prediction": 0.00149045626751925,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

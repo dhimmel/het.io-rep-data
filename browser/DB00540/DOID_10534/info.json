@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.394668400520156,
   "metapath_contribution": {
     "CbGaD": 0.45935077014463666,
     "CbGbCtD": 0.17104712154634044,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15471944452268055,
     "CrCbGaD": 0.004478455256404237
   },
+  "n_trials": 0.0,
   "prediction": 0.00131796858936305,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

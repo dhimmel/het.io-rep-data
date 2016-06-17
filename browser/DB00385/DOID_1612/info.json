@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00385",
   "compound_name": "Valrubicin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.1462309781118208,
     "CbGbCtD": 0.16106958249897768,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.24936105926839583,
     "CrCtD": 0.3879011534132519
   },
+  "n_trials": 0.0,
   "prediction": 0.0280641122358992,
   "status": 0,
   "training_prediction": 0.138145712889227

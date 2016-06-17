@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.291287386215865,
   "metapath_contribution": {
     "CbGaD": 0.5191697628620522,
     "CbGbCtD": 0.16497699868059093,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1521355163183985,
     "CrCbGaD": 0.007993586991450212
   },
+  "n_trials": 0.0,
   "prediction": 0.00112475213624999,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

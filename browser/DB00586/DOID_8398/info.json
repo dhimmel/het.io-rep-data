@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.648244473342003,
   "metapath_contribution": {
     "CbGaD": 0.853054244726472,
     "CbGeAlD": 0.025410601908576,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.004509523930656838
   },
   "prediction": 0.00147459649990793,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

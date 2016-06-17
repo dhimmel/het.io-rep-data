@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01375",
   "compound_name": "Dihydroxyaluminium",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.799303837144255,
     "CbGeAlD": 0.05033604112124616,
     "CbGpPWpGaD": 0.1310205005242736,
     "CcSEcCtD": 0.01933962121022519
   },
+  "n_trials": 0.0,
   "prediction": 0.00706464972916767,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGbCtD": 0.2161450500969728,
     "CbGpPWpGaD": 0.019487238271886167,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.30980401557589443,
     "CrCtD": 0.40719665160105034
   },
+  "n_trials": 0.0,
   "prediction": 0.0188738237132703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

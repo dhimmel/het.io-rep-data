@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.773081924577373,
   "metapath_contribution": {
     "CbGaD": 0.34162382152514553,
     "CbGbCtD": 0.35104491486425216,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17251919904370536,
     "CrCbGaD": 0.00285823672409184
   },
+  "n_trials": 0.0,
   "prediction": 0.0037326794784330103,
   "status": 0,
   "training_prediction": 0.00753033749226441

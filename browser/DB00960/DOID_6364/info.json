@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00960",
   "compound_name": "Pindolol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.18961392243678127,
     "CbGbCtD": 0.20376487248456307,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.22538668192943845,
     "CrCtD": 0.2873666721689663
   },
+  "n_trials": 0.0,
   "prediction": 0.0547881636540997,
   "status": 0,
   "training_prediction": 0.0958636527818486

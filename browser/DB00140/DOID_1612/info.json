@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGaD": 0.42895318629434215,
     "CbGbCtD": 0.3262631820957765,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.16014477685151118,
     "CrCbGaD": 0.0056693792993398485
   },
+  "n_trials": 0.0,
   "prediction": 0.00405314090402267,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

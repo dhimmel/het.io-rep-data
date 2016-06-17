@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGeAlD": 0.011936637373840993,
     "CbGpPWpGaD": 0.035607282194785476,
@@ -10,7 +12,7 @@
     "CiPCiCtD": 0.888482122560896,
     "CrCbGaD": 0.0012658090303387833
   },
+  "n_trials": 3.0,
   "prediction": 0.00301927871955206,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

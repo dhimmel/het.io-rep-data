@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.402470741222367,
   "metapath_contribution": {
     "CbGaD": 0.6612438711728622,
     "CbGbCtD": 0.16238131052733235,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15332681533644088,
     "CrCbGaD": 0.0001467298962356595
   },
+  "n_trials": 0.0,
   "prediction": 0.00123477847357221,
   "status": 0,
   "training_prediction": 0.00091060621395231

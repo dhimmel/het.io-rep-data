@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01544",
   "compound_name": "Flunitrazepam",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.581274382314694,
   "metapath_contribution": {
     "CbGaD": 0.7524710045148145,
     "CbGbCtD": 0.023467796235504695,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0008434376937553891,
     "CrCbGaD": 0.001012162430353893
   },
+  "n_trials": 0.0,
   "prediction": 0.00165346864402946,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

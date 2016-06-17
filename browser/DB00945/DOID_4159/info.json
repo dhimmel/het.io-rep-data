@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGaD": 0.49343161353693976,
     "CbGbCtD": 0.300992041200125,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.048383905936188604,
     "CrCbGaD": 0.001928954701742893
   },
+  "n_trials": 0.0,
   "prediction": 0.0035561072415357703,
   "status": 0,
   "training_prediction": 0.0129615711931861

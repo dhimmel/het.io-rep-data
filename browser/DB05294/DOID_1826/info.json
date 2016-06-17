@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.349804941482445,
   "metapath_contribution": {
     "CbGaD": 0.4982852600502025,
     "CbGbCtD": 0.18229109618979197,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13619003612765562,
     "CrCbGaD": 0.00325818942626066
   },
+  "n_trials": 0.0,
   "prediction": 0.00240489611980788,
   "status": 0,
   "training_prediction": 0.0116973948139096

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00202",
   "compound_name": "Succinylcholine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.6541644243455359,
     "CbGeAlD": 0.0592113009284132,
     "CbGpPWpGaD": 0.27927260123858744,
     "CrCbGaD": 0.007351673487463488
   },
+  "n_trials": 0.0,
   "prediction": 0.00277050691834444,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

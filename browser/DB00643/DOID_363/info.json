@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.17685305591677497,
   "metapath_contribution": {
     "CbGbCtD": 0.7229607675177651,
     "CbGeAlD": 0.16384760650505692,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.030757640225926967,
     "CrCbGaD": 0.0008390333456490778
   },
+  "n_trials": 0.0,
   "prediction": 0.0010624587225676,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

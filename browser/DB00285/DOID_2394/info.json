@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGaD": 0.24153064280622957,
     "CbGbCtD": 0.4813686172963692,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02640955106674803,
     "CcSEcCtD": 0.22188200355728918
   },
+  "n_trials": 0.0,
   "prediction": 0.00171854407195189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

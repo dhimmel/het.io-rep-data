@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.269830949284785,
   "metapath_contribution": {
     "CbGaD": 0.261314306960982,
     "CbGbCtD": 0.42684147428842334,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2286948155285289,
     "CrCbGaD": 0.00393278634711943
   },
+  "n_trials": 0.0,
   "prediction": 0.00153138733709001,
   "status": 0,
   "training_prediction": 0.0033745839289547

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.2693648442203854,
     "CbGbCtD": 0.4616198082403724,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0940890878459274,
     "CcSEcCtD": 0.1048934877788821
   },
+  "n_trials": 0.0,
   "prediction": 0.00363735404114765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

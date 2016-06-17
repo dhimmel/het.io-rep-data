@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.7801627600208232,
     "CbGeAlD": 0.05058512509205289,
     "CbGpPWpGaD": 0.16338460385460593,
     "CrCbGaD": 0.00586751103251806
   },
+  "n_trials": 0.0,
   "prediction": 0.00297075802501538,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

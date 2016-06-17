@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.421976592977893,
   "metapath_contribution": {
     "CbGaD": 0.7292359814289701,
     "CbGpPWpGaD": 0.04337272095063155,
     "CcSEcCtD": 0.22203450027133687,
     "CrCbGaD": 0.005356797349061464
   },
+  "n_trials": 0.0,
   "prediction": 0.00135333914656019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

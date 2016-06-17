@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01070",
   "compound_name": "Dihydrotachysterol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
-    "CbGaD": 0.8623097997548059,
-    "CbGeAlD": 0.08000563015831336,
-    "CbGpPWpGaD": 0.05048191785547731,
-    "CrCbGaD": 0.007202652231403426
+    "CbGaD": 0.8623097997548058,
+    "CbGeAlD": 0.08000563015831334,
+    "CbGpPWpGaD": 0.0504819178554773,
+    "CrCbGaD": 0.007202652231403425
   },
+  "n_trials": 0.0,
   "prediction": 0.00205758152266978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

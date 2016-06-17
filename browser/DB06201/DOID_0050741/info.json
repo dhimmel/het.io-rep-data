@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06201",
   "compound_name": "Rufinamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.25631990515050257,
     "CbGbCtD": 0.5732047539159676,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03549667460115073,
     "CcSEcCtD": 0.07472547332451972
   },
+  "n_trials": 0.0,
   "prediction": 0.0115857842551421,
   "status": 0,
   "training_prediction": 0.0140324262101487

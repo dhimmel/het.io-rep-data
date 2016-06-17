@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGaD": 0.31584370041370724,
     "CbGbCtD": 0.47604048044421926,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.046946646389100004,
     "CcSEcCtD": 0.15741321515369566
   },
+  "n_trials": 0.0,
   "prediction": 0.00734867287695762,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

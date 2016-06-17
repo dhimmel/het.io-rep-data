@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.7223667100130041,
   "metapath_contribution": {
     "CbGaD": 0.1933274018350353,
     "CbGbCtD": 0.5323055105176274,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18506959765511982,
     "CrCbGaD": 0.00275165827235424
   },
+  "n_trials": 3.0,
   "prediction": 0.00230003988485428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

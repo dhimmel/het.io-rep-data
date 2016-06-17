@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06207",
   "compound_name": "Silodosin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.38140973871699985,
     "CbGbCtD": 0.35627469554880403,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.031654837449187845,
     "CcSEcCtD": 0.11135279723671666
   },
+  "n_trials": 0.0,
   "prediction": 0.0037269827970256102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01407",
   "compound_name": "Clenbuterol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.1287267629709669,
     "CbGbCtD": 0.22057486048932082,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.23313927316437233,
     "CrCtD": 0.37300496191675503
   },
+  "n_trials": 0.0,
   "prediction": 0.0778118227122876,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

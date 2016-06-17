@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.514954486345904,
   "metapath_contribution": {
     "CbGaD": 0.7470965971008207,
     "CbGeAlD": 0.06722555058055828,
     "CbGpPWpGaD": 0.1769180787700033,
     "CrCbGaD": 0.008759773548617782
   },
+  "n_trials": 0.0,
   "prediction": 0.00157951004056184,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

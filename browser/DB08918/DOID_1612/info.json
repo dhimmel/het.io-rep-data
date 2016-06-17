@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08918",
   "compound_name": "Levomilnacipran",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.3199341827701571,
     "CbGbCtD": 0.42437167126046615,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16658305071964208,
     "CrCbGaD": 8.91728274429502e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00257125030230733,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

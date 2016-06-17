@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00899",
   "compound_name": "Remifentanil",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.5370611183355011,
   "metapath_contribution": {
     "CbGeAlD": 0.6388306619092734,
     "CbGpPWpGaD": 0.25928075958983915,
-    "CrCbGaD": 0.10188857850088742
+    "CrCbGaD": 0.10188857850088741
   },
+  "n_trials": 0.0,
   "prediction": 0.00144559588390902,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

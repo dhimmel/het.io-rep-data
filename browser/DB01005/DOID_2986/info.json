@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01005",
   "compound_name": "Hydroxyurea",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.8410473853750231,
     "CbGeAlD": 0.021267891758020338,
     "CbGpPWpGaD": 0.12802181794197107,
     "CrCbGaD": 0.009662904924985567
   },
+  "n_trials": 0.0,
   "prediction": 0.0037983376387298296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.14413028672100747,
     "CbGbCtD": 0.263773438631818,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19950241946366246,
     "CrCtD": 0.3257054993725812
   },
+  "n_trials": 3.0,
   "prediction": 0.0644320222315736,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

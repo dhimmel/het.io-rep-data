@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00851",
   "compound_name": "Dacarbazine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.18478939741513872,
     "CbGbCtD": 0.18003563049105487,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.054654378683909724,
     "CiPCiCtD": 0.561286070487343
   },
+  "n_trials": 1.0,
   "prediction": 0.0120704137664096,
   "status": 0,
   "training_prediction": 0.19073221211161398

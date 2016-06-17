@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.7600780234070219,
   "metapath_contribution": {
     "CbGaD": 0.21955879090540087,
     "CbGbCtD": 0.4612471573561378,
     "CbGpPWpGaD": 0.08724524327211183,
     "CcSEcCtD": 0.23194880846634944
   },
+  "n_trials": 0.0,
   "prediction": 0.00212702005294195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

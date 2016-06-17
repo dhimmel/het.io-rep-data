@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00939",
   "compound_name": "Meclofenamic acid",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.45123537061118296,
   "metapath_contribution": {
     "CbGbCtD": 0.6176896525548848,
     "CbGdCrCtD": 0.0076997436071438875,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17822042956744483,
     "CrCbGaD": 0.01042096746445083
   },
+  "n_trials": 0.0,
   "prediction": 0.00173491034238338,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

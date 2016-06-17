@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.540962288686606,
   "metapath_contribution": {
     "CbGbCtD": 0.5897539498315068,
     "CbGeAlD": 0.11547109117724558,
     "CbGpPWpGaD": 0.21501476099858713,
     "CcSEcCtD": 0.07976019799266044
   },
+  "n_trials": 0.0,
   "prediction": 0.0016751521770801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

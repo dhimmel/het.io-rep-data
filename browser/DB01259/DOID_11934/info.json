@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGaD": 0.45609200490884133,
     "CbGbCtD": 0.28226436183687803,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.0765501786938274,
     "CrCbGaD": 0.0026063545913128645
   },
+  "n_trials": 10.0,
   "prediction": 0.0041697197865887894,
   "status": 0,
   "training_prediction": 0.00505827999788712

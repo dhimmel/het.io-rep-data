@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.8610593364939488,
     "CbGeAlD": 0.04246050563698467,
     "CbGpPWpGaD": 0.08797321932069391,
     "CrCbGaD": 0.008506938548372546
   },
+  "n_trials": 0.0,
   "prediction": 0.00224347799697593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

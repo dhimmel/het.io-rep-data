@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.85630689206762,
   "metapath_contribution": {
     "CbGaD": 0.4459912722228243,
     "CbGbCtD": 0.3780314115607442,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10358514913326984,
     "CrCbGaD": 0.002260950311594248
   },
+  "n_trials": 0.0,
   "prediction": 0.00397479561009263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

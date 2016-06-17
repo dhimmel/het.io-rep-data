@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.5554746168044652,
     "CbGbCtD": 0.16487085599915804,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03856837363113152,
     "CcSEcCtD": 0.16800955069142345
   },
+  "n_trials": 0.0,
   "prediction": 0.0040400512388419395,
   "status": 0,
   "training_prediction": 0.00900644480216096

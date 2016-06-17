@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.6508452535760729,
   "metapath_contribution": {
     "CbGbCtD": 0.6012372736126109,
     "CbGeAlD": 0.048100310309280754,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21062303365675222,
     "CrCbGaD": 0.0003137439964615668
   },
+  "n_trials": 0.0,
   "prediction": 0.0019646852946956,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

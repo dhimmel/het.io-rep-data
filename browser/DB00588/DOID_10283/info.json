@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.791287386215865,
   "metapath_contribution": {
     "CbGaD": 0.17269046011845482,
     "CbGbCtD": 0.1855291438129849,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0020031230134699286,
     "CrCrCtD": 0.1579496888946181
   },
+  "n_trials": 0.0,
   "prediction": 0.00457469692718699,
   "status": 0,
   "training_prediction": 0.0191923772350661

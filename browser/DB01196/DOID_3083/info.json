@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.0942782834850455,
   "metapath_contribution": {
     "CbGbCtD": 0.3784551473373434,
     "CbGeAlD": 0.08137052446952901,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0072145711386645715,
     "CrCrCtD": 0.21698124466905386
   },
+  "n_trials": 0.0,
   "prediction": 0.00109311347885497,
   "status": 0,
   "training_prediction": 0.00241007156759912

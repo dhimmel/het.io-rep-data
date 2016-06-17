@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01431",
   "compound_name": "Allylestrenol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.7301690507152149,
   "metapath_contribution": {
     "CbGaD": 0.8080994553764228,
     "CbGbCtD": 0.03517676404684789,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.061367218852961106,
     "CrCbGaD": 0.0067437869930394015
   },
+  "n_trials": 0.0,
   "prediction": 0.0020967220314264,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

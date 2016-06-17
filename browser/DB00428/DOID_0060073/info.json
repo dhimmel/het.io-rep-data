@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.06193002748045644,
     "CcSEcCtD": 0.04010901183584472,
     "CiPCiCtD": 0.6580289496372856,
     "CrCrCtD": 0.23993201104641315
   },
+  "n_trials": 0.0,
   "prediction": 0.0167190078946859,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

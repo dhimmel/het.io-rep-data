@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00737",
   "compound_name": "Meclizine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.200910273081925,
   "metapath_contribution": {
     "CbGaD": 0.6005042186352252,
     "CbGbCtD": 0.2594273084427701,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10059139433111587,
     "CrCbGaD": 0.005584467122219252
   },
+  "n_trials": 0.0,
   "prediction": 0.00137343469665084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

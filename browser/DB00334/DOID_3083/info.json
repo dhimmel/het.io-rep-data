@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.42096612907835507,
     "CbGbCtD": 0.4304483464480777,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09834267862394715,
     "CrCbGaD": 0.0020222718574802864
   },
+  "n_trials": 0.0,
   "prediction": 0.00355672210820445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

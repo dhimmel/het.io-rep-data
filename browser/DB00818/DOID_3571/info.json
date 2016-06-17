@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.4421192550293694,
     "CbGbCtD": 0.34878886686771565,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06719828503575026,
     "CrCbGaD": 0.005717727903042805
   },
+  "n_trials": 0.0,
   "prediction": 0.00449387657036118,
   "status": 0,
   "training_prediction": 0.0044332563792282105

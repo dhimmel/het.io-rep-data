@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.0812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.19265740851524155,
     "CbGbCtD": 0.5766799139677917,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12168905267186442,
     "CrCbGaD": 0.0015362341105557896
   },
+  "n_trials": 0.0,
   "prediction": 0.000765469484436961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

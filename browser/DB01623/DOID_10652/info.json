@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGaD": 0.4749893528865148,
     "CbGbCtD": 0.3123703094373522,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09378152024859387,
     "CrCbGaD": 0.004697856779352827
   },
+  "n_trials": 0.0,
   "prediction": 0.00266850923539472,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

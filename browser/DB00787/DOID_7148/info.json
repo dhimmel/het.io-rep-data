@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00787",
   "compound_name": "Aciclovir",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGbCtD": 0.2778059852479906,
     "CbGpPWpGaD": 0.008664490650678558,
     "CcSEcCtD": 0.08882804514400687,
     "CiPCiCtD": 0.624701478957324
   },
+  "n_trials": 1.0,
   "prediction": 0.0048381285900530105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

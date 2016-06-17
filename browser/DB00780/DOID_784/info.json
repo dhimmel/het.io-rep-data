@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.557867360208062,
   "metapath_contribution": {
     "CbGaD": 0.6744508474149794,
     "CbGeAlD": 0.10142159850151912,
     "CbGpPWpGaD": 0.21836099059339867,
     "CrCbGaD": 0.005766563490102799
   },
+  "n_trials": 0.0,
   "prediction": 0.0016866911561003199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

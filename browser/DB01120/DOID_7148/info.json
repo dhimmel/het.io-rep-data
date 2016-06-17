@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.714564369310793,
   "metapath_contribution": {
     "CbGaD": 0.5332526234568385,
     "CbGbCtD": 0.2452799674332679,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06830804973017247,
     "CcSEcCtD": 0.1503027342728433
   },
+  "n_trials": 0.0,
   "prediction": 0.00242894856826477,
   "status": 0,
   "training_prediction": 0.00787812180068732

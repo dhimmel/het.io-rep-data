@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.701560468140442,
   "metapath_contribution": {
     "CbGaD": 0.4657903189370452,
     "CbGbCtD": 0.20388201366524586,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.11607918103792006,
     "CrCbGaD": 0.002856415873065251
   },
+  "n_trials": 0.0,
   "prediction": 0.0036285131065246796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

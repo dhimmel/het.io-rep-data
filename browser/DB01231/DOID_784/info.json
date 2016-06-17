@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01231",
   "compound_name": "Diphenidol",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0377113133940182,
   "metapath_contribution": {
-    "CbGeAlD": 0.29488358024768013,
-    "CbGpPWpGaD": 0.2983241743437062,
-    "CrCbGaD": 0.4067922454086135
+    "CbGeAlD": 0.2948835802476802,
+    "CbGpPWpGaD": 0.2983241743437063,
+    "CrCbGaD": 0.4067922454086136
   },
+  "n_trials": 0.0,
   "prediction": 0.0006742887917552259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

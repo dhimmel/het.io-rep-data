@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00871",
   "compound_name": "Terbutaline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.17259472812118618,
     "CbGbCtD": 0.35768181588425724,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0031676544760663346,
     "CrCrCtD": 0.32719327015218425
   },
+  "n_trials": 0.0,
   "prediction": 0.00900717082348558,
   "status": 0,
   "training_prediction": 0.0980597879587722

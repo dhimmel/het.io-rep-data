@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGaD": 0.8025808606714551,
     "CbGeAlD": 0.03731690857372839,
     "CbGpPWpGaD": 0.15569796030536712,
     "CrCbGaD": 0.0044042704494494335
   },
+  "n_trials": 0.0,
   "prediction": 0.00179857846296183,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

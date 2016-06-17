@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.11499385405222745,
     "CbGbCtD": 0.14412349537707203,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2666383047673048,
     "CrCtD": 0.3867101021014114
   },
+  "n_trials": 0.0,
   "prediction": 0.00560618539719613,
   "status": 0,
   "training_prediction": 0.0496762410554404

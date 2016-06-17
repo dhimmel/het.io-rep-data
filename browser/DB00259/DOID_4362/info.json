@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.9525041715512268,
     "CbGeAlD": 0.019386610869484035,
     "CbGpPWpGaD": 0.024390167848575152,
     "CrCbGaD": 0.003719049730714039
   },
+  "n_trials": 0.0,
   "prediction": 0.00239058907810745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

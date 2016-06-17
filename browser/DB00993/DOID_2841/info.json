@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.55331599479844,
   "metapath_contribution": {
     "CbGaD": 0.6224877432995346,
     "CbGdCrCtD": 0.004509350286968412,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10365924941175428,
     "CcSEcCtD": 0.19900571711027867
   },
+  "n_trials": 0.0,
   "prediction": 0.00267421906371195,
   "status": 0,
   "training_prediction": 0.0678038543029571

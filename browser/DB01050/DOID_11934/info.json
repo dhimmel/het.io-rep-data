@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.46321540711470016,
     "CbGbCtD": 0.34575071769673027,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07403266414100075,
     "CrCbGaD": 0.0015753814210582647
   },
+  "n_trials": 0.0,
   "prediction": 0.0023483329708184303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.3603939705651337,
     "CbGbCtD": 0.3494255376321394,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0020022408862614767,
     "CrCrCtD": 0.1339173777092759
   },
+  "n_trials": 0.0,
   "prediction": 0.0067034099375371395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

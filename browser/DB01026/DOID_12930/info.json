@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.611833550065019,
   "metapath_contribution": {
     "CbGbCtD": 0.8496737309822326,
     "CbGeAlD": 0.001316867904659505,
     "CbGpPWpGaD": 0.03219155865423291,
     "CcSEcCtD": 0.11681784245887489
   },
+  "n_trials": 0.0,
   "prediction": 0.00190509196047594,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

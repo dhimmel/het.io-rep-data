@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.462938881664499,
   "metapath_contribution": {
     "CbGaD": 0.7902770703760027,
     "CbGpPWpGaD": 0.04700325782051336,
     "CcSEcCtD": 0.15700344930282203,
     "CrCbGaD": 0.005716222500662003
   },
+  "n_trials": 0.0,
   "prediction": 0.00143616684348517,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

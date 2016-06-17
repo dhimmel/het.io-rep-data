@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00436",
   "compound_name": "Bendroflumethiazide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.30184717575277553,
     "CbGbCtD": 0.35922344988349475,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002839320352113268,
     "CrCrCtD": 0.2607769439154428
   },
+  "n_trials": 0.0,
   "prediction": 0.0101689946066123,
   "status": 0,
   "training_prediction": 0.0419097131396273

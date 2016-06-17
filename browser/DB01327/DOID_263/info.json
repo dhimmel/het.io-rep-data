@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.177503250975293,
   "metapath_contribution": {
     "CbGbCtD": 0.43034885507838955,
     "CbGeAlD": 0.12031154969883821,
     "CbGpPWpGaD": 0.011086698578681416,
     "CcSEcCtD": 0.4382528966440908
   },
+  "n_trials": 0.0,
   "prediction": 0.000981181647581784,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

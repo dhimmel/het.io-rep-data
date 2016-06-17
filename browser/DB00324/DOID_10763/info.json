@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00324",
   "compound_name": "Fluorometholone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0513654096228869,
   "metapath_contribution": {
     "CbGaD": 0.25664588170443997,
     "CbGbCtD": 0.27216919602843376,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.005097170652164901,
     "CrCrCtD": 0.3093196176207858
   },
+  "n_trials": 0.0,
   "prediction": 0.000996409275784938,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.782834850455137,
   "metapath_contribution": {
     "CbGaD": 0.10458931657238653,
     "CbGbCtD": 0.5836500742372767,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1644559658970601,
     "CcSEcCtD": 0.1139075558875626
   },
+  "n_trials": 0.0,
   "prediction": 0.0044811034591884895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

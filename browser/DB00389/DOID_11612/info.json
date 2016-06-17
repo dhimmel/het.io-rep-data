@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00389",
   "compound_name": "Carbimazole",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.7900522317957644,
     "CbGeAlD": 0.13462015891392903,
     "CbGpPWpGaD": 0.06534303171977257,
     "CcSEcCtD": 0.009984577570533901
   },
+  "n_trials": 0.0,
   "prediction": 0.00455126020005946,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

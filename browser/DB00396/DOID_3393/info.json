@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.18181450998360865,
     "CbGbCtD": 0.23209050470944764,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.1692039411799344,
     "CrCtD": 0.28879175307131705
   },
+  "n_trials": 1.0,
   "prediction": 0.0137596398572894,
   "status": 0,
   "training_prediction": 0.0699856103198211

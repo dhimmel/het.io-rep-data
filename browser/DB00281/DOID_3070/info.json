@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.6820546163849152,
   "metapath_contribution": {
     "CbGaD": 0.7187145826151703,
     "CbGbCtD": 0.09150970840082763,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05031589269806423,
     "CrCbGaD": 0.0029804592704727856
   },
+  "n_trials": 0.0,
   "prediction": 0.0017977857131439199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

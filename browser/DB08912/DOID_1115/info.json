@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08912",
   "compound_name": "Dabrafenib",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGbCtD": 0.5304845501923885,
     "CbGeAlD": 0.07239570377984393,
     "CbGpPWpGaD": 0.20721281827525675,
     "CcSEcCtD": 0.18990692775251092
   },
+  "n_trials": 0.0,
   "prediction": 0.00277792261869793,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

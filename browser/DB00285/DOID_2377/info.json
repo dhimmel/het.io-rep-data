@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGbCtD": 0.6308295141637156,
     "CbGeAlD": 0.03116358621163681,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.26544021642399834,
     "CrCbGaD": 0.0019211050168165972
   },
+  "n_trials": 0.0,
   "prediction": 0.00214019552876596,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

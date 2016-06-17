@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.12542265323979954,
     "CbGbCtD": 0.21143856370675346,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5335814176325043,
     "CrCbGaD": 0.0004825609712144408
   },
+  "n_trials": 0.0,
   "prediction": 0.011743144401711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

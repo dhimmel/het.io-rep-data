@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00801",
   "compound_name": "Halazepam",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.8428828090560533,
     "CbGeAlD": 0.0012978953255613544,
     "CbGpPWpGaD": 0.14703976821927067,
     "CrCbGaD": 0.008779527399114799
   },
+  "n_trials": 0.0,
   "prediction": 0.00277164230330441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

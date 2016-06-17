@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.22431729518855703,
   "metapath_contribution": {
     "CbGaD": 0.3403131907606111,
     "CbGbCtD": 0.33670570587799603,
     "CbGpPWpGaD": 0.10325664983185395,
     "CcSEcCtD": 0.2197244535295388
   },
+  "n_trials": 0.0,
   "prediction": 0.00116362811663554,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

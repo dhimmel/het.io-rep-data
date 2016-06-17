@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.7542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.8207087973361007,
     "CbGeAlD": 0.04677793582748742,
     "CbGpPWpGaD": 0.1240033271991637,
     "CrCbGaD": 0.008509939637248167
   },
+  "n_trials": 0.0,
   "prediction": 0.00196423769101933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

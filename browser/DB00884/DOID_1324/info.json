@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00884",
   "compound_name": "Risedronate",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.5071521456436929,
   "metapath_contribution": {
     "CbGaD": 0.5300522406665211,
     "CbGbCtD": 0.13599950431670105,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.046297589329993456,
     "CcSEcCtD": 0.27561999395475145
   },
+  "n_trials": 0.0,
   "prediction": 0.0018733590845425399,
   "status": 0,
   "training_prediction": 0.0106314552788377

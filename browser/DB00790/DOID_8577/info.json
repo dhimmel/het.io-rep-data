@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.669700910273082,
   "metapath_contribution": {
     "CbGaD": 0.4330285359858062,
     "CbGbCtD": 0.3046755933744384,
     "CcSEcCtD": 0.262059894068951,
     "CrCbGaD": 0.00023597657080445862
   },
+  "n_trials": 0.0,
   "prediction": 0.00264400941327653,
   "status": 0,
   "training_prediction": 0.0149509872564802

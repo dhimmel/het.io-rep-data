@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.3982372532838847,
     "CbGbCtD": 0.4337733334126453,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10648925902067136,
     "CrCbGaD": 0.002954355137579606
   },
+  "n_trials": 0.0,
   "prediction": 0.00449283882040211,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

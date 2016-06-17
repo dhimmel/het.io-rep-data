@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01201",
   "compound_name": "Rifapentine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.289336801040312,
   "metapath_contribution": {
     "CbGaD": 0.2595882635540531,
     "CbGbCtD": 0.6413358553476738,
     "CbGpPWpGaD": 0.09596131095531524,
     "CrCbGaD": 0.003114570142957727
   },
+  "n_trials": 0.0,
   "prediction": 0.00233002709319737,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

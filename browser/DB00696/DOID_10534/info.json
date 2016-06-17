@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.5283458800574873,
     "CbGbCtD": 0.1581132896883174,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07199825523521883,
     "CrCbGaD": 0.006090753720592148
   },
+  "n_trials": 0.0,
   "prediction": 0.0014710163326983698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

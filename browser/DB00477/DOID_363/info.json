@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.0169050715214564,
   "metapath_contribution": {
     "CbGbCtD": 0.5985130976985825,
     "CbGeAlD": 0.1317109587477377,
     "CbGpPWpGaD": 0.1308751960404721,
     "CcSEcCtD": 0.1389007475132078
   },
+  "n_trials": 0.0,
   "prediction": 0.000689755484650741,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

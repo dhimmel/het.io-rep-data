@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.567620286085826,
   "metapath_contribution": {
     "CbGaD": 0.7510585679649865,
     "CbGbCtD": 0.06573207607104288,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09958015894742386,
     "CrCbGaD": 0.0023132880005010624
   },
+  "n_trials": 0.0,
   "prediction": 0.00167619203589569,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

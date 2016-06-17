@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5624187256176851,
   "metapath_contribution": {
     "CbGaD": 0.40621997450982994,
     "CbGbCtD": 0.31392895044976504,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1140075217455636,
     "CrCbGaD": 0.0037915220203114195
   },
+  "n_trials": 0.0,
   "prediction": 0.0026880426363284898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

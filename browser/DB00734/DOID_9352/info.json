@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGaD": 0.2852896361838132,
     "CbGbCtD": 0.4309596579373701,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1592946767699062,
     "CrCbGaD": 0.0027162951981235276
   },
+  "n_trials": 4.0,
   "prediction": 0.00626412951208116,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

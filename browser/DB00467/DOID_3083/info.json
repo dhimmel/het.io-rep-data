@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00467",
   "compound_name": "Enoxacin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.44603381014304294,
   "metapath_contribution": {
     "CbGaD": 0.9650880794173818,
     "CbGbCtD": 0.02278235530661482,
     "CbGdCrCtD": 0.0050319079757130646,
     "CrCbGaD": 0.007097657300290369
   },
+  "n_trials": 0.0,
   "prediction": 0.00199307667540263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

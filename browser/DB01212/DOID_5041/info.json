@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.19635890767230202,
   "metapath_contribution": {
     "CbGbCtD": 0.7020973705966779,
     "CbGeAlD": 0.07699714745586565,
     "CbGpPWpGaD": 0.0174774385470375,
     "CcSEcCtD": 0.20342804340041898
   },
+  "n_trials": 0.0,
   "prediction": 0.0009007359479954609,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

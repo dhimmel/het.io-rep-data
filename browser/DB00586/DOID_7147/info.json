@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGbCtD": 0.3894173198423135,
     "CbGdCrCtD": 0.0019910777420743563,
@@ -13,6 +15,5 @@
     "CpDpCtD": 0.4976553048265698
   },
   "prediction": 0.003120866387165,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

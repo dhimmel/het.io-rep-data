@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00193",
   "compound_name": "Tramadol",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.782834850455137,
   "metapath_contribution": {
-    "CbGaD": 0.8297049142266462,
-    "CbGeAlD": 0.0447979186168514,
-    "CbGpPWpGaD": 0.11755370619491055,
-    "CrCbGaD": 0.007943460961591766
+    "CbGaD": 0.8297049142266464,
+    "CbGeAlD": 0.04479791861685141,
+    "CbGpPWpGaD": 0.11755370619491057,
+    "CrCbGaD": 0.007943460961591767
   },
+  "n_trials": 0.0,
   "prediction": 0.00231444815977196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

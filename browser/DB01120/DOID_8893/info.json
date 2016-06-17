@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.549602423246274,
     "CbGbCtD": 0.23845646693093211,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18191549734046802,
     "CrCbGaD": 0.0009255074441831392
   },
+  "n_trials": 1.0,
   "prediction": 0.00323457194565232,
   "status": 0,
   "training_prediction": 0.0136287350380525

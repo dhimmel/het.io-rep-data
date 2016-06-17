@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.2658808668077212,
     "CbGbCtD": 0.44225958594382975,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09144698142902695,
     "CcSEcCtD": 0.15990071448063162
   },
+  "n_trials": 0.0,
   "prediction": 0.00767150957054462,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.592327698309493,
   "metapath_contribution": {
     "CbGbCtD": 0.33967371702425814,
     "CbGeAlD": 0.01657651843051555,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.42152367244359146,
     "CrCbGaD": 0.00013382563376786397
   },
+  "n_trials": 1.0,
   "prediction": 0.00486961990029673,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.427178153446034,
   "metapath_contribution": {
     "CbGaD": 0.6117531249058981,
     "CbGbCtD": 0.006606525922586896,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13253315663106371,
     "CrCbGaD": 0.00344141883041019
   },
+  "n_trials": 0.0,
   "prediction": 0.0020164141512585302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

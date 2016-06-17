@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.19206264066824813,
     "CbGbCtD": 0.22153738268590184,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08958661585497195,
     "CpDpCtD": 0.4179479576239194
   },
+  "n_trials": 0.0,
   "prediction": 0.00646446114263696,
   "status": 0,
   "training_prediction": 0.00637742902348756

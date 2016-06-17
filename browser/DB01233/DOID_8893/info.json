@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGbCtD": 0.326171924197114,
     "CbGpPWpGaD": 0.02364817037048737,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.577687210590792,
     "CrCbGaD": 0.0009900534254936551
   },
+  "n_trials": 0.0,
   "prediction": 0.00314283642407462,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

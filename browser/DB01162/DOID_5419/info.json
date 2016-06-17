@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01162",
   "compound_name": "Terazosin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.6996098829648891,
   "metapath_contribution": {
     "CbGaD": 0.5464435329372729,
     "CbGeAlD": 0.10590176500590653,
     "CbGpPWpGaD": 0.34077775350129014,
     "CrCbGaD": 0.006876948555530408
   },
+  "n_trials": 0.0,
   "prediction": 0.0020577660544037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

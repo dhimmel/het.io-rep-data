@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.42502672103027733,
     "CbGbCtD": 0.3761953662692104,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12143306558187675,
     "CrCbGaD": 0.0007927537937830118
   },
+  "n_trials": 1.0,
   "prediction": 0.00787572038763022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

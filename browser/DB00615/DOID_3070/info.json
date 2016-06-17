@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00615",
   "compound_name": "Rifabutin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.8361508452535759,
   "metapath_contribution": {
     "CbGbCtD": 0.4707283881150824,
     "CbGeAlD": 0.1607386920582948,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05914362461392099,
     "CrCbGaD": 0.002070832773338906
   },
+  "n_trials": 0.0,
   "prediction": 0.0022667704481333898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

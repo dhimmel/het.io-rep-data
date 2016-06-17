@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00173",
   "compound_name": "Adenine",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.36996098829648905,
   "metapath_contribution": {
     "CbGbCtD": 0.6977494900083921,
     "CbGeAlD": 0.15389155888047912,
     "CbGpPWpGaD": 0.12791038183624426,
     "CrCbGaD": 0.020448569274884528
   },
+  "n_trials": 0.0,
   "prediction": 0.0014560777816794,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

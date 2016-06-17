@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.401820546163849,
   "metapath_contribution": {
     "CbGdCrCtD": 0.011496717032365756,
     "CbGeAlD": 0.24212352201803464,
     "CbGpPWpGaD": 0.508765544731859,
     "CcSEcCtD": 0.23761421621774062
   },
+  "n_trials": 2.0,
   "prediction": 0.0016320058078139802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

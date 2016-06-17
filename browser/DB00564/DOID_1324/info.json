@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.21131339401820498,
   "metapath_contribution": {
     "CbGaD": 0.1115828709394651,
     "CbGbCtD": 0.5986336537900369,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1807699245970203,
     "CrCbGaD": 0.002090471359237728
   },
+  "n_trials": 0.0,
   "prediction": 0.00105284037330456,
   "status": 0,
   "training_prediction": 0.0036022886254329

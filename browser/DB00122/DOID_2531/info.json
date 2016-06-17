@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.24257064294711986,
     "CbGbCtD": 0.301448539171009,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.28107057726925017,
     "CrCbGaD": 0.00040253623898896615
   },
+  "n_trials": 3.0,
   "prediction": 0.006591181968712,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

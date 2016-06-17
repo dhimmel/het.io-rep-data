@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00728",
   "compound_name": "Rocuronium",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.357607282184655,
   "metapath_contribution": {
     "CbGaD": 0.47712443697988627,
     "CbGbCtD": 0.38579263520138984,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08946869328002817,
     "CrCbGaD": 0.003503768820122181
   },
+  "n_trials": 0.0,
   "prediction": 0.00176647987865745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

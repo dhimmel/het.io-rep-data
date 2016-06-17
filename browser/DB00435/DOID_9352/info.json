@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00435",
   "compound_name": "Nitric Oxide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.728218465539662,
   "metapath_contribution": {
     "CbGaD": 0.4396247948431901,
     "CbGbCtD": 0.334027599371863,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10031900769750035,
     "CcSEcCtD": 0.07870603495567981
   },
+  "n_trials": 0.0,
   "prediction": 0.00409578507597906,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

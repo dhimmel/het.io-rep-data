@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGbCtD": 0.0012473134592035473,
     "CbGdCrCtD": 0.002422804922366499,
     "CcSEcCtD": 0.10247808345241077,
     "CiPCiCtD": 0.8938517981660192
   },
+  "n_trials": 20.0,
   "prediction": 0.0119285351873488,
   "status": 0,
   "training_prediction": 0.0259604951203159

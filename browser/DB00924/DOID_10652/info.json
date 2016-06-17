@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6918075422626789,
   "metapath_contribution": {
     "CbGaD": 0.39767759798462415,
     "CbGbCtD": 0.4185518123143962,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1458167544012711,
     "CrCbGaD": 0.004423974869804956
   },
+  "n_trials": 0.0,
   "prediction": 0.00247608387897808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

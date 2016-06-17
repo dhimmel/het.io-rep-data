@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01601",
   "compound_name": "Lopinavir",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.09841500020234806,
     "CbGbCtD": 0.253475595262924,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.6334651581924546,
     "CrCbGaD": 0.000997929272118444
   },
+  "n_trials": 0.0,
   "prediction": 0.00507322464357264,
   "status": 0,
   "training_prediction": 0.0146658720690421

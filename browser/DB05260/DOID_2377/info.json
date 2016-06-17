@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.4340478363089505,
     "CbGbCtD": 0.37452022651149974,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.10149789390602647,
     "CcSEcCtD": 0.03395141711856153
   },
+  "n_trials": 0.0,
   "prediction": 0.0106337999404671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.578673602080624,
   "metapath_contribution": {
     "CbGaD": 0.1042202757687673,
     "CbGbCtD": 0.30073295583721665,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003568174253422842,
     "CrCrCtD": 0.34357506421874634
   },
+  "n_trials": 1.0,
   "prediction": 0.0026294264191305,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

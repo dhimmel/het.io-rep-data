@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.0962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.7709607073458993,
     "CbGeAlD": 0.11440514631579472,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.003512820186691588,
     "CrCbGaD": 0.007238611689179103
   },
+  "n_trials": 0.0,
   "prediction": 0.000735063006568592,
   "status": 0,
   "training_prediction": 0.0022455244701291397

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00253",
   "compound_name": "Medrysone",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.0247074122236671,
   "metapath_contribution": {
     "CbGaD": 0.8782505044417148,
     "CbGeAlD": 0.0029975964427709488,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04761255845170061,
     "CrCbGaD": 0.012936818390188513
   },
+  "n_trials": 0.0,
   "prediction": 0.0006363047870194309,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

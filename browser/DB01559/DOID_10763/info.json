@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01559",
   "compound_name": "Clotiazepam",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.607282184655397,
   "metapath_contribution": {
     "CbGaD": 0.26135632216163496,
     "CbGbCtD": 0.3047651496317934,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0004139144337083765,
     "CrCrCtD": 0.3183670054724425
   },
+  "n_trials": 0.0,
   "prediction": 0.00503802942197648,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

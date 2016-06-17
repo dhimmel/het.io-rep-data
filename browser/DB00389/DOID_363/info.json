@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00389",
   "compound_name": "Carbimazole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGaD": 0.8154728869559428,
     "CbGeAlD": 0.044762303155051066,
     "CbGpPWpGaD": 0.028346161404566538,
     "CcSEcCtD": 0.11141864848443968
   },
+  "n_trials": 0.0,
   "prediction": 0.0049188293443102795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

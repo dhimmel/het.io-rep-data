@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00701",
   "compound_name": "Amprenavir",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.659947984395319,
   "metapath_contribution": {
     "CbGaD": 0.15926846520296725,
     "CbGbCtD": 0.6228493442742158,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15211939660025453,
     "CrCbGaD": 0.0029745955653234396
   },
+  "n_trials": 0.0,
   "prediction": 0.00346125131806685,
   "status": 0,
   "training_prediction": 0.0151275007550676

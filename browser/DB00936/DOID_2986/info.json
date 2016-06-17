@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.007352941176470591,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.10923276983094901,
   "metapath_contribution": {
     "CbGaD": 0.45683792672942947,
     "CbGeAlD": 0.17466654555234046,
     "CbGpPWpGaD": 0.3489896947133568,
     "CrCbGaD": 0.019505833004873335
   },
+  "n_trials": 0.0,
   "prediction": 0.000505895890601737,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

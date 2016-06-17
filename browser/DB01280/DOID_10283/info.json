@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.32444733420026,
   "metapath_contribution": {
     "CbGdCrCtD": 0.002479981457871625,
     "CbGeAlD": 0.04038090131278671,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.781423093496734,
     "CrCbGaD": 0.0030681641686056246
   },
+  "n_trials": 0.0,
   "prediction": 0.0016295531117900802,
   "status": 0,
   "training_prediction": 0.00690176709517339

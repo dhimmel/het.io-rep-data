@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00716",
   "compound_name": "Nedocromil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.19925011259979505,
     "CbGbCtD": 0.11680712609394431,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.3598068345493281,
     "CtDrD": 0.24924350953830818
   },
+  "n_trials": 0.0,
   "prediction": 0.17489080861886497,
   "status": 0,
   "training_prediction": 0.408723362950465

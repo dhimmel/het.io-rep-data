@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.8088426527958391,
   "metapath_contribution": {
     "CbGbCtD": 0.6742750146774986,
     "CbGdCrCtD": 0.006272544838657599,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06885572463107656,
     "CcSEcCtD": 0.1842357111495008
   },
+  "n_trials": 0.0,
   "prediction": 0.00228777797780935,
   "status": 0,
   "training_prediction": 0.0076642432876955

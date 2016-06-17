@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00715",
   "compound_name": "Paroxetine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.15483079915127507,
     "CbGbCtD": 0.4319056056331662,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11606938813037718,
     "CcSEcCtD": 0.2679644173233104
   },
+  "n_trials": 0.0,
   "prediction": 0.0044081002549684395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.33662103742503713,
     "CbGbCtD": 0.17438431863567064,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0033383034805728085,
     "CtDrD": 0.36944000345181927
   },
+  "n_trials": 1.0,
   "prediction": 0.0124739989684043,
   "status": 0,
   "training_prediction": 0.0488739293833625

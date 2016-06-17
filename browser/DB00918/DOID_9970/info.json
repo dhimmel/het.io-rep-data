@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.2934993281362155,
     "CbGbCtD": 0.49722849243178263,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11933539011400533,
     "CrCbGaD": 0.0027697741117098814
   },
+  "n_trials": 0.0,
   "prediction": 0.00435634201804384,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

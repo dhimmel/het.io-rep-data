@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.0767230169050715,
   "metapath_contribution": {
     "CbGbCtD": 0.5363629678564089,
     "CbGeAlD": 0.029168843777785808,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.41449690685772017,
     "CrCbGaD": 0.004081872361699402
   },
+  "n_trials": 0.0,
   "prediction": 0.00102658251154463,
   "status": 0,
   "training_prediction": 0.00642212377763645

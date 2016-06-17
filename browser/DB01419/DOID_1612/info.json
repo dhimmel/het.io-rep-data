@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.646944083224967,
   "metapath_contribution": {
     "CbGaD": 0.4237959763472702,
     "CbGeAlD": 0.0019445463184978931,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0037756166836047846,
     "CrCrCtD": 0.5186405789261458
   },
+  "n_trials": 0.0,
   "prediction": 0.00324172983521798,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

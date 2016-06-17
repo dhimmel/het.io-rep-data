@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.691157347204161,
   "metapath_contribution": {
     "CbGaD": 0.5056603744800774,
     "CbGbCtD": 0.12293505838018892,
     "CbGpPWpGaD": 0.13441741655250036,
     "CcSEcCtD": 0.2369871505872333
   },
+  "n_trials": 0.0,
   "prediction": 0.00211387039055919,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

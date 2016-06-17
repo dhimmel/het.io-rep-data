@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00562",
   "compound_name": "Benzthiazide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.5156046814044211,
   "metapath_contribution": {
     "CbGaD": 0.8842191542430584,
     "CbGeAlD": 0.02042126446851236,
     "CbGpPWpGaD": 0.08636060168911167,
     "CrCbGaD": 0.008998979599317669
   },
+  "n_trials": 0.0,
   "prediction": 0.0019098846194891398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

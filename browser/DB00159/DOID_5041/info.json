@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.704161248374512,
   "metapath_contribution": {
     "CbGaD": 0.7053771368489391,
     "CbGeAlD": 0.11159741373999119,
     "CbGpPWpGaD": 0.17940051371613377,
     "CrCbGaD": 0.0036249356949358416
   },
+  "n_trials": 0.0,
   "prediction": 0.00197975048445791,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

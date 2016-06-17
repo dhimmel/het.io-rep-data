@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.39596879063719104,
   "metapath_contribution": {
     "CbGaD": 0.32134723944961235,
     "CbGbCtD": 0.3087064388874953,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.24177570299403386,
     "CrCbGaD": 0.001649394589807168
   },
+  "n_trials": 0.0,
   "prediction": 0.0013387363498918,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

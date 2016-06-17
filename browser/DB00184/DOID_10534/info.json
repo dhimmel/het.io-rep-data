@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.3415098276798322,
     "CbGbCtD": 0.2541810431272172,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11069026534841798,
     "CcSEcCtD": 0.1907992501533846
   },
+  "n_trials": 2.0,
   "prediction": 0.00379156510354976,
   "status": 0,
   "training_prediction": 0.00833243724944745

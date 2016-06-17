@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00379",
   "compound_name": "Mexiletine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.7374631783414148,
     "CbGbCtD": 0.1356332597763082,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05297099772870997,
     "CrCbGaD": 3.3289135690757485e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00472568686714755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

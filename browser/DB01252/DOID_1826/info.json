@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01252",
   "compound_name": "Mitiglinide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.30228162168274464,
     "CbGbCtD": 0.29679346541663865,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003742610744929693,
     "CrCrCtD": 0.31927191883967065
   },
+  "n_trials": 0.0,
   "prediction": 0.005267970898085029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

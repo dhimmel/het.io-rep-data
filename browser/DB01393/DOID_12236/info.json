@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGbCtD": 0.3786719888655002,
     "CbGeAlD": 0.03931048184023351,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.30639634789251535,
     "CrCbGaD": 0.00641629475279962
   },
+  "n_trials": 1.0,
   "prediction": 0.00150617613362528,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

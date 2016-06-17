@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01081",
   "compound_name": "Diphenoxylate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGaD": 0.5410390533514354,
     "CbGbCtD": 0.41917959474775357,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.027096089689849116,
     "CrCbGaD": 0.004523884664200721
   },
+  "n_trials": 0.0,
   "prediction": 0.00692354900395348,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

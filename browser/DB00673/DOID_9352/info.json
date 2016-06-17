@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00673",
   "compound_name": "Aprepitant",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.695708712613784,
   "metapath_contribution": {
     "CbGaD": 0.2806996173454875,
     "CbGbCtD": 0.45454642173800247,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08315651411875967,
     "CcSEcCtD": 0.16861141167457128
   },
+  "n_trials": 1.0,
   "prediction": 0.00378600488144939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

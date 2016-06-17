@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.7080624187256179,
   "metapath_contribution": {
     "CbGaD": 0.30124623940560624,
     "CbGbCtD": 0.37875830402101995,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19844393452374356,
     "CrCbGaD": 0.003038966671689346
   },
+  "n_trials": 0.0,
   "prediction": 0.00226067855816485,
   "status": 0,
   "training_prediction": 0.0082683242550923

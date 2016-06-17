@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.4089726918075421,
   "metapath_contribution": {
     "CbGaD": 0.306458843559106,
     "CbGeAlD": 0.260659033738529,
     "CbGpPWpGaD": 0.43288212270236487
   },
+  "n_trials": 0.0,
   "prediction": 0.00107595136248973,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

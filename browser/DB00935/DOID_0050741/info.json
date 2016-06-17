@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00935",
   "compound_name": "Oxymetazoline",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.5658253435702226,
     "CbGbCtD": 0.24024073603006293,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13423126252169404,
     "CrCbGaD": 0.003961696995470685
   },
+  "n_trials": 0.0,
   "prediction": 0.00598931334698063,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

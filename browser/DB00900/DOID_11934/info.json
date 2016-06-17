@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00900",
   "compound_name": "Didanosine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.7997399219765929,
   "metapath_contribution": {
     "CbGbCtD": 0.8252047513459405,
     "CbGdCrCtD": 0.007727063045601829,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04074090035005729,
     "CcSEcCtD": 0.09681710009898506
   },
+  "n_trials": 0.0,
   "prediction": 0.00215195215005124,
   "status": 0,
   "training_prediction": 0.0026116571716588

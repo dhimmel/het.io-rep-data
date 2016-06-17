@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGaD": 0.4567466673565527,
     "CbGbCtD": 0.21830927763258035,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1262995251590116,
     "CrCbGaD": 0.0026781501924290426
   },
+  "n_trials": 0.0,
   "prediction": 0.00212784867887478,
   "status": 0,
   "training_prediction": 0.00258241798657729

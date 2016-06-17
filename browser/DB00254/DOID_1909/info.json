@@ -1,15 +1,18 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
-    "CbGaD": 0.7458046036593501,
-    "CbGbCtD": 0.017788036600601267,
-    "CbGeAlD": 0.0906826427951067,
-    "CbGpPWpGaD": 0.14277294350481598,
-    "CrCbGaD": 0.00295177344012574
+    "CbGaD": 0.7458046036593503,
+    "CbGbCtD": 0.01778803660060127,
+    "CbGeAlD": 0.09068264279510672,
+    "CbGpPWpGaD": 0.142772943504816,
+    "CrCbGaD": 0.0029517734401257405
   },
+  "n_trials": 1.0,
   "prediction": 0.00390690482295594,
   "status": 0,
   "training_prediction": 0.007123453692040979

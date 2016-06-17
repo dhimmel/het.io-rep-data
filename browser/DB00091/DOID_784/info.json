@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.3126459070617446,
     "CbGeAlD": 0.04660863272847181,
     "CbGpPWpGaD": 0.07546603095746869,
     "CtDrD": 0.5652794292523149
   },
+  "n_trials": 10.0,
   "prediction": 0.0093613824874147,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

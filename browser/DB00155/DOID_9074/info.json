@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.697659297789337,
   "metapath_contribution": {
     "CbGaD": 0.5816426797384375,
     "CbGbCtD": 0.2260204126658261,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.06615571021919867,
     "CrCbGaD": 0.0006217272081597849
   },
+  "n_trials": 0.0,
   "prediction": 0.00253728028374267,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

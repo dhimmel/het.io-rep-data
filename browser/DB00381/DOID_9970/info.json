@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.5273081924577371,
   "metapath_contribution": {
     "CbGbCtD": 0.299990890781305,
     "CbGeAlD": 0.031331065016224256,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0006884623469415168,
     "CtDrD": 0.5027268099427298
   },
+  "n_trials": 2.0,
   "prediction": 0.00265654645652923,
   "status": 0,
   "training_prediction": 0.00679636010337213

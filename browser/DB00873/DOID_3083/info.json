@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00873",
   "compound_name": "Loteprednol",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGbCtD": 0.09881391065105308,
     "CiPCiCtD": 0.40035521016338255,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.21727304295927588,
     "CrCtD": 0.28319924040849
   },
+  "n_trials": 0.0,
   "prediction": 0.0105010242413717,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

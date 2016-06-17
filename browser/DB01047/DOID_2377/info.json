@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGbCtD": 0.14267914095938874,
     "CbGeAlD": 0.00367399676789271,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.19308862851027328,
     "CrCtD": 0.25394020543702867
   },
+  "n_trials": 0.0,
   "prediction": 0.0422786928384266,
   "status": 0,
   "training_prediction": 0.159066327891361

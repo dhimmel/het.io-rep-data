@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
-    "CbGaD": 0.453268291614886,
+    "CbGaD": 0.4532682916148861,
     "CbGbCtD": 0.3298850430677527,
-    "CbGeAlD": 0.04363707001893959,
+    "CbGeAlD": 0.0436370700189396,
     "CbGpPWpGaD": 0.08080713001963205,
-    "CcSEcCtD": 0.08815864853070442,
-    "CrCbGaD": 0.0042438167480852345
+    "CcSEcCtD": 0.08815864853070443,
+    "CrCbGaD": 0.004243816748085235
   },
+  "n_trials": 0.0,
   "prediction": 0.00734198786437351,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

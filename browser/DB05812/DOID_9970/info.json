@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05812",
   "compound_name": "Abiraterone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.4928106914972941,
     "CbGbCtD": 0.2962235792880566,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0835283649082363,
     "CrCbGaD": 0.0013786960996714868
   },
+  "n_trials": 0.0,
   "prediction": 0.00713185218541195,
   "status": 0,
   "training_prediction": 0.0181190324411915

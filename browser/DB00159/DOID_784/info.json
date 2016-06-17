@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.646944083224967,
   "metapath_contribution": {
     "CbGaD": 0.6582962174628121,
     "CbGeAlD": 0.09831709036351854,
     "CbGpPWpGaD": 0.23987115171284354,
     "CrCbGaD": 0.0035155404608257805
   },
+  "n_trials": 0.0,
   "prediction": 0.0019293425020603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

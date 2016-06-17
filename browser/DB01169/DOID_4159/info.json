@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGbCtD": 0.5203330999072666,
     "CbGeAlD": 0.1944218604286476,
     "CbGpPWpGaD": 0.2852450396640858
   },
+  "n_trials": 2.0,
   "prediction": 0.00400474750932891,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

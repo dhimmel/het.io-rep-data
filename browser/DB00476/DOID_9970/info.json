@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.15333227477145636,
     "CbGbCtD": 0.18584015401964588,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.0007459755483863368,
     "CrCrCtD": 0.09656126594351996
   },
+  "n_trials": 0.0,
   "prediction": 0.0999990513351696,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

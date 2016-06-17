@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00438",
   "compound_name": "Ceftazidime",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.402470741222367,
   "metapath_contribution": {
     "CbGbCtD": 0.8070257921444771,
     "CbGpPWpGaD": 0.004426221918133334,
     "CcSEcCtD": 0.18793663081839002,
     "CrCbGaD": 0.0006113551189995174
   },
+  "n_trials": 0.0,
   "prediction": 0.00201364649412124,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.7074122236670999,
   "metapath_contribution": {
     "CbGbCtD": 0.2693140695733559,
     "CcSEcCtD": 0.16452132931054952,
     "CpDpCtD": 0.5636259599376785,
     "CrCbGaD": 0.002538641178416
   },
+  "n_trials": 0.0,
   "prediction": 0.0030244419593284198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8985695708712611,
   "metapath_contribution": {
     "CbGaD": 0.6558754922628739,
     "CbGbCtD": 0.10164552367532494,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1592023012091009,
     "CrCbGaD": 0.005070261503407282
   },
+  "n_trials": 0.0,
   "prediction": 0.00317014787794871,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

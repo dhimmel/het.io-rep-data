@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.395318595578674,
   "metapath_contribution": {
     "CbGbCtD": 0.673122155847794,
     "CbGdCrCtD": 0.0028353293014523133,
     "CcSEcCtD": 0.323910909364792,
     "CrCbGaD": 0.00013160548596178757
   },
+  "n_trials": 0.0,
   "prediction": 0.00159678376866103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

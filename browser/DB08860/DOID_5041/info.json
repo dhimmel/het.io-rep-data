@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.696358907672302,
   "metapath_contribution": {
     "CbGaD": 0.47032837080899675,
     "CbGbCtD": 0.41227328108315825,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.010764499853335531,
     "CrCbGaD": 0.0014574410113317147
   },
+  "n_trials": 0.0,
   "prediction": 0.00196475400712748,
   "status": 0,
   "training_prediction": 0.00238456488989491

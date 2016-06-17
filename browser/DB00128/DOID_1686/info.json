@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.13719115734720402,
   "metapath_contribution": {
     "CbGdCrCtD": 0.017138404812311363,
     "CbGeAlD": 0.51440378066249,
     "CbGpPWpGaD": 0.46013750971239376,
     "CrCbGaD": 0.008320304812804867
   },
+  "n_trials": 0.0,
   "prediction": 0.00106954682696094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

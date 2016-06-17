@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00757",
   "compound_name": "Dolasetron",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.862158647594278,
   "metapath_contribution": {
     "CbGbCtD": 0.40599795252682896,
     "CbGeAlD": 0.00010787086878933349,
     "CcSEcCtD": 0.16321348401114924,
     "CrCrCtD": 0.4306806925932325
   },
+  "n_trials": 0.0,
   "prediction": 0.00658447463166224,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

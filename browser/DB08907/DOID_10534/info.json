@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.21250518449696368,
     "CbGbCtD": 0.5407108882263355,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09647812064752347,
     "CrCbGaD": 0.003432801900972751
   },
+  "n_trials": 0.0,
   "prediction": 0.00361940237061372,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

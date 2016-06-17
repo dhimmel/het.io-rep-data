@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.0104031209362809,
   "metapath_contribution": {
     "CbGaD": 0.8039264219285592,
     "CbGeAlD": 0.09308263431556345,
     "CbGpPWpGaD": 0.09962254570458408,
     "CrCbGaD": 0.003368398051293317
   },
+  "n_trials": 0.0,
   "prediction": 0.000354266717269715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

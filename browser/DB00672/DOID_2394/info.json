@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00672",
   "compound_name": "Chlorpropamide",
+  "compound_percentile": 0.419117647058824,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.240572171651495,
   "metapath_contribution": {
     "CbGaD": 0.5782136983698549,
     "CbGbCtD": 0.197123588811867,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18454601527096381,
     "CrCbGaD": 0.004208556149966897
   },
+  "n_trials": 0.0,
   "prediction": 0.0010043107085700698,
   "status": 0,
   "training_prediction": 0.0023951547870077

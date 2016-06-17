@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.6422128759520154,
     "CbGbCtD": 0.03153869626308324,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.053516549358786455,
     "CrCbGaD": 0.002455604725267051
   },
+  "n_trials": 0.0,
   "prediction": 0.00317456653366663,
   "status": 0,
   "training_prediction": 0.0023423268301370898

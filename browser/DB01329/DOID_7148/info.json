@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01329",
   "compound_name": "Cefoperazone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.414174252275683,
   "metapath_contribution": {
     "CbGaD": 0.38784382001677575,
     "CbGbCtD": 0.596993461127078,
     "CbGpPWpGaD": 0.010515224580797114,
     "CrCbGaD": 0.0046474942753492055
   },
+  "n_trials": 0.0,
   "prediction": 0.00155815820142305,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.7886866059817951,
   "metapath_contribution": {
     "CbGaD": 0.43830034652570105,
     "CbGbCtD": 0.2761712972117861,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14416317141221546,
     "CrCbGaD": 0.0013938855935871604
   },
+  "n_trials": 0.0,
   "prediction": 0.00219504894064234,
   "status": 0,
   "training_prediction": 0.00266393582060903

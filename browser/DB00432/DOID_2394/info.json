@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.211963589076723,
   "metapath_contribution": {
     "CbGaD": 0.820911475576585,
     "CbGdCrCtD": 0.005260783125322487,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08534283268215642,
     "CrCbGaD": 0.00676356683173382
   },
+  "n_trials": 0.0,
   "prediction": 0.000946744542716519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01348",
   "compound_name": "Spirapril",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.16926742455033267,
     "CbGbCtD": 0.19560774284389482,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.25061519098697027,
     "CrCtD": 0.36890972742926265
   },
+  "n_trials": 0.0,
   "prediction": 0.0360886523416145,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.291287386215865,
   "metapath_contribution": {
     "CbGbCtD": 0.829876404380012,
     "CbGdCrCtD": 0.0024382872477665754,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10713083001825806,
     "CrCbGaD": 0.003789355076697366
   },
+  "n_trials": 0.0,
   "prediction": 0.00154017881457808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

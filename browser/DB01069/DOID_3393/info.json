@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.10338101430429099,
   "metapath_contribution": {
     "CbGaD": 0.134614467679033,
     "CbGbCtD": 0.4667428493334173,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16894582702349728,
     "CrCbGaD": 0.004097971999378186
   },
+  "n_trials": 0.0,
   "prediction": 0.0009170255924442971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

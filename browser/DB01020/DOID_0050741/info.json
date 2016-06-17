@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01020",
   "compound_name": "Isosorbide Mononitrate",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.39661898569570897,
   "metapath_contribution": {
     "CbGbCtD": 0.21312783438252356,
     "CbGeAlD": 0.13678516762888795,
     "CcSEcCtD": 0.6366605632016874,
     "CrCbGaD": 0.013426434786901136
   },
+  "n_trials": 0.0,
   "prediction": 0.00182600183733543,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

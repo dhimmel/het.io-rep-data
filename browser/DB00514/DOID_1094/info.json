@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.7711313394018209,
   "metapath_contribution": {
     "CbGaD": 0.7484680367690455,
     "CbGeAlD": 0.09548798442626953,
     "CbGpPWpGaD": 0.1545700251343533,
     "CrCbGaD": 0.0014739536703316613
   },
+  "n_trials": 1.0,
   "prediction": 0.00209899143839703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

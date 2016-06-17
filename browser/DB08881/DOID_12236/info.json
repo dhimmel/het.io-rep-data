@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.5258477569030459,
     "CbGbCtD": 0.27609711665897074,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07146576452461986,
     "CcSEcCtD": 0.10465452593000682
   },
+  "n_trials": 0.0,
   "prediction": 0.0026518777516937896,
   "status": 0,
   "training_prediction": 0.0043556694974241795

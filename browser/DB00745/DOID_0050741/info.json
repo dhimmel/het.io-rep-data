@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGaD": 0.3880225552591272,
     "CbGbCtD": 0.38934895444673245,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14399775963892408,
     "CrCbGaD": 0.004890974128075495
   },
+  "n_trials": 1.0,
   "prediction": 0.00308933901477843,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

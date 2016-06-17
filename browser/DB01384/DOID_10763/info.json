@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01384",
   "compound_name": "Paramethasone",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0786736020806242,
   "metapath_contribution": {
     "CbGaD": 0.37501831587349205,
     "CbGbCtD": 0.3977014275443165,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.006840121043796346,
     "CrCrCtD": 0.16001519936220013
   },
+  "n_trials": 0.0,
   "prediction": 0.00117974195253917,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.702860858257477,
   "metapath_contribution": {
     "CbGaD": 0.7132279285303328,
     "CbGeAlD": 0.016428803054961298,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12213343004004415,
     "CrCbGaD": 0.00601743924094828
   },
+  "n_trials": 0.0,
   "prediction": 0.0025247265888542897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

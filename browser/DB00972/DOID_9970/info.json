@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.663198959687906,
   "metapath_contribution": {
     "CbGaD": 0.36469862369082423,
     "CbGbCtD": 0.41879710614110127,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11123246960900365,
     "CrCbGaD": 0.0019452082325335167
   },
+  "n_trials": 0.0,
   "prediction": 0.00351727917291236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

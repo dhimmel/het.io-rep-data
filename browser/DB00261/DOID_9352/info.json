@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00261",
   "compound_name": "Anagrelide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8003901170351109,
   "metapath_contribution": {
     "CbGaD": 0.477257227646225,
     "CbGbCtD": 0.2061826614382684,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0461625860111312,
     "CcSEcCtD": 0.26426737747294116
   },
+  "n_trials": 0.0,
   "prediction": 0.00522961912050354,
   "status": 0,
   "training_prediction": 0.0227203132334637

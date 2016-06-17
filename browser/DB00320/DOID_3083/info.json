@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
     "CbGbCtD": 0.15183831695512487,
     "CbGpPWpGaD": 0.03967199034816134,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.6577080815969223,
     "CrCbGaD": 0.0030093797411779566
   },
+  "n_trials": 0.0,
   "prediction": 0.00342087055656853,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

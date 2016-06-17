@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.350455136540962,
   "metapath_contribution": {
     "CbGaD": 0.30691716270859426,
     "CbGbCtD": 0.4543460290798468,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11965754919354145,
     "CrCbGaD": 0.0022684381114019526
   },
+  "n_trials": 0.0,
   "prediction": 0.00137736402751214,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

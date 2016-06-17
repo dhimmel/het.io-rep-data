@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.0637191157347204,
   "metapath_contribution": {
     "CbGbCtD": 0.3587327314167938,
     "CcSEcCtD": 0.6412672685832062
   },
+  "n_trials": 2.0,
   "prediction": 0.000823381295969659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

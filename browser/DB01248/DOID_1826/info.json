@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.661248374512354,
   "metapath_contribution": {
     "CbGaD": 0.3712781493957472,
     "CbGbCtD": 0.3388930054450828,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14062721448293505,
     "CrCbGaD": 0.0029218994700712917
   },
+  "n_trials": 0.0,
   "prediction": 0.00507971922651534,
   "status": 0,
   "training_prediction": 0.12426677516639899

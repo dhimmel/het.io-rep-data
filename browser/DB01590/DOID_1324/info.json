@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.20739720467770273,
     "CbGbCtD": 0.05002811427171264,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0019537311698629824,
     "CtDrD": 0.28551325605693656
   },
+  "n_trials": 0.0,
   "prediction": 0.007450070775033271,
   "status": 0,
   "training_prediction": 0.0251011356998247

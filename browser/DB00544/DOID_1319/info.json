@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.4668794294050838,
     "CbGbCtD": 0.23061161815621062,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.06117672176739057,
     "CcSEcCtD": 0.16621014690802016
   },
+  "n_trials": 2.0,
   "prediction": 0.0034440467141112104,
   "status": 0,
   "training_prediction": 0.0278046951957605

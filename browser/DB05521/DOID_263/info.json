@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.09376727400175441,
     "CbGbCtD": 0.1993648489231786,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5752987738330922,
     "CrCbGaD": 0.0006287651570014392
   },
+  "n_trials": 0.0,
   "prediction": 0.00776179753134995,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

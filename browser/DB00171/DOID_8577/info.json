@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.20611183355006502,
   "metapath_contribution": {
     "CbGaD": 0.24142454995637597,
     "CbGbCtD": 0.19824369378214496,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.33436826571771927,
     "CrCbGaD": 0.010327185097924789
   },
+  "n_trials": 0.0,
   "prediction": 0.0013292251833303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

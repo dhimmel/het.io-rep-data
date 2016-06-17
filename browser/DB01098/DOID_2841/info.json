@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.41027308192457707,
   "metapath_contribution": {
     "CbGaD": 0.13927169283146704,
     "CbGbCtD": 0.599314866506522,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.048682390635921294,
     "CcSEcCtD": 0.19362995336001354
   },
+  "n_trials": 0.0,
   "prediction": 0.00214765711462851,
   "status": 0,
   "training_prediction": 0.0239737879712154

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.0975292587776333,
   "metapath_contribution": {
     "CbGbCtD": 0.6250976848694522,
     "CbGdCrCtD": 0.0038503562010664683,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2492631297634234,
     "CrCbGaD": 0.005406293058883505
   },
+  "n_trials": 0.0,
   "prediction": 0.0011484305724803,
   "status": 0,
   "training_prediction": 0.007794775154109841

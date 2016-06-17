@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.36653672605273,
     "CbGbCtD": 0.47661307028903294,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05572193402661275,
     "CrCbGaD": 0.0007019674296121905
   },
+  "n_trials": 0.0,
   "prediction": 0.00371020195951275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

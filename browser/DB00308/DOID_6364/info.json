@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00308",
   "compound_name": "Ibutilide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7919375812743821,
   "metapath_contribution": {
     "CbGbCtD": 0.7592434660345552,
     "CbGeAlD": 0.04976215584422801,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06917129306880347,
     "CrCbGaD": 0.0041167229154767514
   },
+  "n_trials": 0.0,
   "prediction": 0.00459917643690137,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00794",
   "compound_name": "Primidone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5019505851755529,
   "metapath_contribution": {
     "CbGaD": 0.25503126313078306,
     "CbGbCtD": 0.5061477856096731,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1220072907116997,
     "CrCbGaD": 0.0034291915888948056
   },
+  "n_trials": 0.0,
   "prediction": 0.002303729996164,
   "status": 0,
   "training_prediction": 0.00973588771039513

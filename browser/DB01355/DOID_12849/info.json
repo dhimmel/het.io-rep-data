@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01355",
   "compound_name": "Hexobarbital",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.7657521236985756,
     "CbGeAlD": 0.07264306918655995,
     "CbGpPWpGaD": 0.15503997225834845,
     "CrCbGaD": 0.006564834856516116
   },
+  "n_trials": 0.0,
   "prediction": 0.00545949820862241,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

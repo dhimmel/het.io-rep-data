@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00433",
   "compound_name": "Prochlorperazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8003901170351109,
   "metapath_contribution": {
     "CbGaD": 0.287729444828842,
     "CbGbCtD": 0.2662068253169978,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004580197090888713,
     "CrCrCtD": 0.30462864146372537
   },
+  "n_trials": 7.0,
   "prediction": 0.00477816356412135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

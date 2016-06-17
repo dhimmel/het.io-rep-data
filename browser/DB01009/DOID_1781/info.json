@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.38166449934980495,
   "metapath_contribution": {
     "CbGaD": 0.443371579522278,
     "CbGbCtD": 0.2829461941587505,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18045656781573308,
     "CrCbGaD": 0.006385763763047212
   },
+  "n_trials": 0.0,
   "prediction": 0.0012902434121095801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

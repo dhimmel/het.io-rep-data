@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.53446033810143,
   "metapath_contribution": {
     "CbGaD": 0.21767031531588704,
     "CbGbCtD": 0.465107255537729,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20895761236890048,
     "CrCbGaD": 0.002462134379061584
   },
+  "n_trials": 0.0,
   "prediction": 0.00195370846242804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

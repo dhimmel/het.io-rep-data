@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGbCtD": 0.5788374149000606,
     "CbGeAlD": 0.1280890238476498,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1356480648721131,
     "CrCbGaD": 0.00028239104324636515
   },
+  "n_trials": 0.0,
   "prediction": 0.00222296921371194,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

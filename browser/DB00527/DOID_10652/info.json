@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.5118730178444767,
     "CbGbCtD": 0.34667499911750627,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11860250594441693,
     "CrCbGaD": 0.002708373488143632
   },
+  "n_trials": 0.0,
   "prediction": 0.00254669558850357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

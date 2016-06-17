@@ -1,13 +1,16 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.0279583875162549,
   "metapath_contribution": {
     "CbGaD": 0.7714797085479659,
     "CbGeAlD": 0.05947652779782932,
     "CbGpPWpGaD": 0.16904376365420484
   },
+  "n_trials": 1.0,
   "prediction": 0.000585515993885765,
   "status": 0,
   "training_prediction": 0.00178922750447966

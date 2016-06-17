@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01392",
   "compound_name": "Yohimbine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.45058517555266603,
   "metapath_contribution": {
     "CbGaD": 0.20485913388963475,
     "CbGbCtD": 0.5181005233823941,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.22435797797145707,
     "CrCbGaD": 0.0021987589936234213
   },
+  "n_trials": 0.0,
   "prediction": 0.0021616372444001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

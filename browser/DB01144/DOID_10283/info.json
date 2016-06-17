@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01144",
   "compound_name": "Diclofenamide",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.18335500650195102,
   "metapath_contribution": {
     "CbGbCtD": 0.3225291180991518,
     "CbGeAlD": 0.0754568846725864,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3752210317712125,
     "CrCbGaD": 0.007490265426071926
   },
+  "n_trials": 0.0,
   "prediction": 0.0011647272926980099,
   "status": 0,
   "training_prediction": 0.00494049791553751

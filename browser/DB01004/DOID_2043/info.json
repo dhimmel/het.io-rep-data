@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01004",
   "compound_name": "Ganciclovir",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGbCtD": 0.16109570298738338,
     "CcSEcCtD": 0.05133246283352717,
     "CiPCiCtD": 0.5026327830377841,
     "CrCrCtD": 0.28493905114130524
   },
+  "n_trials": 0.0,
   "prediction": 0.0237271935540289,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

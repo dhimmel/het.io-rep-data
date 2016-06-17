@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00958",
   "compound_name": "Carboplatin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.5523318473235168,
     "CbGbCtD": 0.27533302334990156,
     "CbGeAlD": 0.05671041121506322,
     "CbGpPWpGaD": 0.1156247181115185
   },
+  "n_trials": 10.0,
   "prediction": 0.00818508387760132,
   "status": 0,
   "training_prediction": 0.0437174026987242

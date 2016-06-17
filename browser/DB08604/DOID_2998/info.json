@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08604",
   "compound_name": "Triclosan",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.5942782834850461,
   "metapath_contribution": {
     "CbGbCtD": 0.9433045188788985,
     "CbGdCrCtD": 0.007386398766283133,
     "CbGeAlD": 0.004911619249822642,
     "CbGpPWpGaD": 0.04439746310499573
   },
+  "n_trials": 0.0,
   "prediction": 0.00179314180015575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

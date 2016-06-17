@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7347204161248371,
   "metapath_contribution": {
     "CbGaD": 0.3524915735382128,
     "CbGbCtD": 0.30396067862926013,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17589957294922914,
     "CrCbGaD": 0.0035037661182817197
   },
+  "n_trials": 8.0,
   "prediction": 0.00277301947858073,
   "status": 0,
   "training_prediction": 0.0156710605484814

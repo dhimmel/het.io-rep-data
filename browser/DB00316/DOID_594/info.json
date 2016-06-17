@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.530559167750325,
   "metapath_contribution": {
     "CbGeAlD": 0.3466566657161734,
     "CbGpPWpGaD": 0.6533433342838266
   },
+  "n_trials": 0.0,
   "prediction": 0.00146296736581299,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00275",
   "compound_name": "Olmesartan",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.589726918075423,
   "metapath_contribution": {
     "CbGeAlD": 0.018120776838195077,
     "CbGpPWpGaD": 0.09243452045441154,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.001160203384755589,
     "CtDrD": 0.7471423102503427
   },
+  "n_trials": 0.0,
   "prediction": 0.00298293053822432,
   "status": 0,
   "training_prediction": 0.012657343258397

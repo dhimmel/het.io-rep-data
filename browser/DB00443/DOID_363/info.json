@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.21610129471183442,
     "CbGbCtD": 0.2398900468758032,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0007002632663581299,
     "CrCrCtD": 0.20835234599548969
   },
+  "n_trials": 0.0,
   "prediction": 0.00793975649411983,
   "status": 0,
   "training_prediction": 0.0904385207714961

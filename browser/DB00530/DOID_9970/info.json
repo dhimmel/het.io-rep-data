@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.624837451235371,
   "metapath_contribution": {
     "CbGaD": 0.35752922244161284,
     "CbGbCtD": 0.32786437771403165,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12771763752334417,
     "CcSEcCtD": 0.1174850238871694
   },
+  "n_trials": 0.0,
   "prediction": 0.00319700148270225,
   "status": 0,
   "training_prediction": 0.0183826530322364

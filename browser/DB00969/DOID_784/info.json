@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00969",
   "compound_name": "Alosetron",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.690507152145644,
   "metapath_contribution": {
     "CbGaD": 0.721919058960527,
     "CbGeAlD": 0.08518888435519564,
     "CbGpPWpGaD": 0.18953015737215828,
     "CrCbGaD": 0.003361899312119195
   },
+  "n_trials": 0.0,
   "prediction": 0.00205051688004585,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01128",
   "compound_name": "Bicalutamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.035574940715919566,
     "CbGeAlD": 0.035338000340638165,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11801416004593003,
     "CtDrD": 0.7795727390581813
   },
+  "n_trials": 0.0,
   "prediction": 0.00594641759484896,
   "status": 0,
   "training_prediction": 0.0151351817085893

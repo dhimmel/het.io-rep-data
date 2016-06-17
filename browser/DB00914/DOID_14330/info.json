@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00914",
   "compound_name": "Phenformin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.609882964889467,
   "metapath_contribution": {
     "CbGaD": 0.7615091302394369,
     "CbGeAlD": 0.022488190346188926,
     "CbGpPWpGaD": 0.20077936487120265,
     "CrCbGaD": 0.015223314543171527
   },
+  "n_trials": 0.0,
   "prediction": 0.00161250359193281,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

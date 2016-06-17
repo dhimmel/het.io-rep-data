@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01594",
   "compound_name": "Cinolazepam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.5935430599851423,
     "CbGbCtD": 0.2759688823263421,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08535413354024819,
     "CrCbGaD": 0.0055620518075314394
   },
+  "n_trials": 0.0,
   "prediction": 0.00628847009336963,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

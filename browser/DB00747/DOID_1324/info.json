@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00747",
   "compound_name": "Scopolamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.661248374512354,
   "metapath_contribution": {
     "CbGaD": 0.3320811741298202,
     "CbGbCtD": 0.39048559003174077,
     "CbGpPWpGaD": 0.08730748461486625,
     "CcSEcCtD": 0.19012575122357286
   },
+  "n_trials": 0.0,
   "prediction": 0.00237706810532559,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

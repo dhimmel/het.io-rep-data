@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.3456097792191911,
     "CbGbCtD": 0.25372069072495573,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.23349660023951962,
     "CrCbGaD": 0.0029656876830578107
   },
+  "n_trials": 0.0,
   "prediction": 0.0243965722784705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

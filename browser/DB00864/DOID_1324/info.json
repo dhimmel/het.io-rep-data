@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6989596879063721,
   "metapath_contribution": {
     "CbGaD": 0.3746377095980898,
     "CbGbCtD": 0.35042653409639185,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14580581272448329,
     "CrCbGaD": 0.00392962481193261
   },
+  "n_trials": 0.0,
   "prediction": 0.0025576096238453198,
   "status": 0,
   "training_prediction": 0.00871904600724706

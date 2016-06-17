@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00878",
   "compound_name": "Chlorhexidine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6703511053315989,
   "metapath_contribution": {
     "CbGaD": 0.6837798923463879,
     "CbGpPWpGaD": 0.08107633629270974,
     "CcSEcCtD": 0.2351437713609023
   },
+  "n_trials": 4.0,
   "prediction": 0.0032783846299616103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

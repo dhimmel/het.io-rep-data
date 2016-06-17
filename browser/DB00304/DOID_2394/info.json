@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.334200260078023,
   "metapath_contribution": {
     "CbGaD": 0.7863159577149661,
     "CbGeAlD": 0.09304788038292895,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05409863518512287,
     "CrCbGaD": 0.006911632041258639
   },
+  "n_trials": 0.0,
   "prediction": 0.00117207003342846,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

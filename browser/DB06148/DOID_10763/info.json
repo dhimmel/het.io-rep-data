@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGaD": 0.3091019237573066,
     "CbGbCtD": 0.30083998725315025,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0024032435256390204,
     "CrCrCtD": 0.17288132463840328
   },
+  "n_trials": 0.0,
   "prediction": 0.0107716226093264,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

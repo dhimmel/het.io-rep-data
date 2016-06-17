@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGaD": 0.45048970126083515,
     "CbGbCtD": 0.302434192608054,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12253042274794806,
     "CrCbGaD": 0.004013224446148507
   },
+  "n_trials": 0.0,
   "prediction": 0.0030882341264200103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

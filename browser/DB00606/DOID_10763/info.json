@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00606",
   "compound_name": "Cyclothiazide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.18767059050913668,
     "CbGbCtD": 0.22741661415182887,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.21911373584774638,
     "CrCtD": 0.31998571840265494
   },
+  "n_trials": 0.0,
   "prediction": 0.0805587321020552,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

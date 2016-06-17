@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00449",
   "compound_name": "Dipivefrin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8335500650195059,
   "metapath_contribution": {
     "CbGaD": 0.8484425618680902,
     "CbGbCtD": 0.07027745607604043,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.012864189467652356,
     "CrCbGaD": 0.007092661813568596
   },
+  "n_trials": 0.0,
   "prediction": 0.00311470498956056,
   "status": 0,
   "training_prediction": 0.007962786985446491

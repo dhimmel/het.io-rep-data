@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.0882352941176471,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.0136540962288687,
   "metapath_contribution": {
-    "CbGeAlD": 0.2932852747593643,
+    "CbGeAlD": 0.2932852747593642,
     "CbGpPWpGaD": 0.6082063466257358,
-    "CrCbGaD": 0.09850837861489992
+    "CrCbGaD": 0.0985083786148999
   },
+  "n_trials": 0.0,
   "prediction": 0.000410063854368502,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

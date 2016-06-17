@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.38480179225585454,
     "CbGbCtD": 0.34249392979697524,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1105332564575816,
     "CcSEcCtD": 0.1231588659506255
   },
+  "n_trials": 1.0,
   "prediction": 0.009452520916711641,
   "status": 0,
   "training_prediction": 0.0390451089499457

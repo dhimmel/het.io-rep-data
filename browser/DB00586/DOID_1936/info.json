@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.4304146481271951,
     "CbGbCtD": 0.37288777519399774,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09417418040074142,
     "CrCbGaD": 0.0016712496136526188
   },
+  "n_trials": 0.0,
   "prediction": 0.00450756202963784,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

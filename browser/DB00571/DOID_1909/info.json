@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.33940182054616397,
   "metapath_contribution": {
     "CbGaD": 0.15921893382479416,
     "CbGbCtD": 0.6573310441933379,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09134188162486763,
     "CrCbGaD": 0.002384824746454965
   },
+  "n_trials": 3.0,
   "prediction": 0.00113667698579629,
   "status": 0,
   "training_prediction": 0.00345984751969779

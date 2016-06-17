@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.25942782834850503,
   "metapath_contribution": {
     "CbGaD": 0.6428348370934974,
     "CbGbCtD": 0.018775317317433936,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.12775098094825058,
     "CrCbGaD": 0.005696079445270644
   },
+  "n_trials": 0.0,
   "prediction": 0.00150334935083471,
   "status": 0,
   "training_prediction": 0.00331291105019679

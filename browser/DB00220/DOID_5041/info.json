@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGaD": 0.27625063455707094,
     "CbGbCtD": 0.503991227296437,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06931195697007253,
     "CrCbGaD": 0.0050268914029279145
   },
+  "n_trials": 0.0,
   "prediction": 0.00240707185521158,
   "status": 0,
   "training_prediction": 0.00292111659935853

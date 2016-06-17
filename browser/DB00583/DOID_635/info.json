@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGbCtD": 0.5310562862129741,
     "CbGeAlD": 0.145209855954669,
     "CbGpPWpGaD": 0.06461250180240603,
     "CcSEcCtD": 0.2591213560299509
   },
+  "n_trials": 0.0,
   "prediction": 0.00321323722724453,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01044",
   "compound_name": "Gatifloxacin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.665799739921977,
   "metapath_contribution": {
     "CbGaD": 0.45246737042601376,
     "CbGbCtD": 0.37321802690991696,
     "CcSEcCtD": 0.17185676802397729,
     "CrCbGaD": 0.0024578346400919524
   },
+  "n_trials": 0.0,
   "prediction": 0.00224840081402396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.18920914837784472,
     "CbGbCtD": 0.17247010112851235,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0018891902550999308,
     "CtDrD": 0.44367793816440787
   },
+  "n_trials": 0.0,
   "prediction": 0.0068334240984819,
   "status": 0,
   "training_prediction": 0.0386226979245771

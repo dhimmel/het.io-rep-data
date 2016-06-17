@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7035110533159951,
   "metapath_contribution": {
     "CbGaD": 0.41066628542286737,
     "CbGbCtD": 0.387150094660402,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09025351665272807,
     "CrCbGaD": 0.0015476148750629148
   },
+  "n_trials": 0.0,
   "prediction": 0.00389835338907364,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

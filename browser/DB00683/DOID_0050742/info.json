@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.6887186174267862,
     "CbGeAlD": 0.022403689050890328,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11381648409115443,
     "CrCbGaD": 0.004981939337992344
   },
+  "n_trials": 0.0,
   "prediction": 0.00301065737362681,
   "status": 0,
   "training_prediction": 0.00135844118795475

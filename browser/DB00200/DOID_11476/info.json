@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGeAlD": 0.03160296839463386,
     "CbGpPWpGaD": 0.46789398766042434,
     "CcSEcCtD": 0.4884138477935283,
     "CrCbGaD": 0.012089196151413533
   },
+  "n_trials": 0.0,
   "prediction": 0.00265278935976117,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

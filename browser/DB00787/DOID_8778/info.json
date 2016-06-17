@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00787",
   "compound_name": "Aciclovir",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGbCtD": 0.06241850352510885,
     "CbGeAlD": 0.026912402987380294,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04953263808685588,
     "CiPCiCtD": 0.826246977150284
   },
+  "n_trials": 0.0,
   "prediction": 0.004790245589217821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

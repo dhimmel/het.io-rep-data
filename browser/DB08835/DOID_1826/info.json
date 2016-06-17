@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08835",
   "compound_name": "Spaglumic Acid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7477243172951891,
   "metapath_contribution": {
     "CbGbCtD": 0.5343915474794677,
     "CbGeAlD": 0.010959708489001185,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002973067524692858,
     "CrCrCtD": 0.4129740443075021
   },
+  "n_trials": 0.0,
   "prediction": 0.00673069356671977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

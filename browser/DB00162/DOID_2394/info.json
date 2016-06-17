@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.0474642392717815,
   "metapath_contribution": {
     "CbGdCrCtD": 0.011941974032413491,
     "CbGeAlD": 0.4844847332730176,
     "CbGpPWpGaD": 0.5035732926945687
   },
+  "n_trials": 1.0,
   "prediction": 0.0006278420262424581,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

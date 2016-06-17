@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.0754226267880364,
   "metapath_contribution": {
     "CbGaD": 0.15781335228250667,
     "CbGbCtD": 0.4964349352509401,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12358166194890366,
     "CcSEcCtD": 0.10320609684597802
   },
+  "n_trials": 0.0,
   "prediction": 0.0008567522810288901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

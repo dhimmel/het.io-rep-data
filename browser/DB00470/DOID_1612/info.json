@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.4382828512035286,
     "CbGbCtD": 0.3786322976272556,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.091921891833396,
     "CrCbGaD": 0.003984784468976318
   },
+  "n_trials": 0.0,
   "prediction": 0.00847181874051517,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

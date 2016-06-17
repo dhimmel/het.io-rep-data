@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00344",
   "compound_name": "Protriptyline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.710663198959688,
   "metapath_contribution": {
     "CbGaD": 0.2705601823771785,
     "CbGbCtD": 0.3225479162914194,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00293445125927198,
     "CrCrCtD": 0.24285102425997598
   },
+  "n_trials": 0.0,
   "prediction": 0.0071817493571937,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

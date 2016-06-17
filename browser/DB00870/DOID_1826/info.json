@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.447984395318596,
   "metapath_contribution": {
     "CbGaD": 0.17954414524335202,
     "CbGbCtD": 0.49550903449071687,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004166841310889023,
     "CrCrCtD": 0.19373856949106813
   },
+  "n_trials": 0.0,
   "prediction": 0.0029711271179332,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

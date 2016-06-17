@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGbCtD": 0.43852973370430837,
     "CbGdCrCtD": 0.0010713656977975028,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10905685648958148,
     "CpDpCtD": 0.3824127168503487
   },
+  "n_trials": 0.0,
   "prediction": 0.00406155381621295,
   "status": 0,
   "training_prediction": 0.009645416510940459

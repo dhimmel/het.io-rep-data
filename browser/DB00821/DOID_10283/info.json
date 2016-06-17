@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.340052015604681,
   "metapath_contribution": {
     "CbGaD": 0.5339604438498087,
     "CbGbCtD": 0.2768849257129761,
     "CbGpPWpGaD": 0.1809594394289064,
     "CrCbGaD": 0.008195191008308744
   },
+  "n_trials": 0.0,
   "prediction": 0.0016882548973364,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

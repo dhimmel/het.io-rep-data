@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.3173990557245655,
     "CbGbCtD": 0.4942729355274307,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08195945996348583,
     "CcSEcCtD": 0.02899979557755466
   },
+  "n_trials": 0.0,
   "prediction": 0.00579790286444524,
   "status": 0,
   "training_prediction": 0.00571979306731546

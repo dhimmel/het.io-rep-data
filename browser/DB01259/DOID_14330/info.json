@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.55331599479844,
   "metapath_contribution": {
-    "CbGaD": 0.5195892802039422,
+    "CbGaD": 0.5195892802039421,
     "CbGeAlD": 0.15605971846683517,
-    "CbGpPWpGaD": 0.32218157713517476,
+    "CbGpPWpGaD": 0.3221815771351747,
     "CrCbGaD": 0.0021694241940480234
   },
+  "n_trials": 0.0,
   "prediction": 0.00149734413329778,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

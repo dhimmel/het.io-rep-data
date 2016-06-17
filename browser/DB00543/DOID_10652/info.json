@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.4149016734531302,
     "CbGbCtD": 0.33383925996844827,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10987278010709611,
     "CrCbGaD": 0.003227902189307283
   },
+  "n_trials": 0.0,
   "prediction": 0.00462888781470127,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

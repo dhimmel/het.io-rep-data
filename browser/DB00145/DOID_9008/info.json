@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00145",
   "compound_name": "Glycine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.9779816940436724,
     "CbGdCrCtD": 0.0034697094308508256,
     "CbGeAlD": 0.004681159515570456,
     "CcSEcCtD": 0.013867437009906235
   },
+  "n_trials": 0.0,
   "prediction": 0.00345764570269286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

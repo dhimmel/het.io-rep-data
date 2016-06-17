@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00599",
   "compound_name": "Thiopental",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.7763578559812242,
     "CbGeAlD": 0.1019452314070047,
     "CbGpPWpGaD": 0.11398073705657401,
     "CrCbGaD": 0.007716175555197159
   },
+  "n_trials": 0.0,
   "prediction": 0.00270988649000745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

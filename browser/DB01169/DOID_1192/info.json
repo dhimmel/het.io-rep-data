@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.520707302387146,
     "CbGbCtD": 0.2924682771567599,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.030500282100271742,
     "CbGpPWpGaD": 0.15218642413701158
   },
+  "n_trials": 1.0,
   "prediction": 0.00783734248825988,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

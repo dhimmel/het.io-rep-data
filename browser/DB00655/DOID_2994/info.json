@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.271131339401821,
   "metapath_contribution": {
     "CbGbCtD": 0.8127093883399035,
     "CbGeAlD": 0.09416839439156922,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.029054644400550753,
     "CrCbGaD": 0.001597554593441078
   },
+  "n_trials": 0.0,
   "prediction": 0.0012066827076338599,
   "status": 0,
   "training_prediction": 0.00220506404749676

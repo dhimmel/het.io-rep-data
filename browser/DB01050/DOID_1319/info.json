@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.1340607203843616,
     "CbGbCtD": 0.05277791237519978,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.18735634360017667,
     "CrCtD": 0.5207373831334846
   },
+  "n_trials": 0.0,
   "prediction": 0.0124588122203537,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

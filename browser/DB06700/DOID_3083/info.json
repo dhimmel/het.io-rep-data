@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.682704811443433,
   "metapath_contribution": {
     "CbGaD": 0.6369206833036086,
     "CbGbCtD": 0.20425125703398997,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14995746470961008,
     "CrCbGaD": 0.002084520120560031
   },
+  "n_trials": 0.0,
   "prediction": 0.0029132680790000197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

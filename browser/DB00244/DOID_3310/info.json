@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.36215864759427796,
   "metapath_contribution": {
     "CbGbCtD": 0.3610848318161189,
     "CbGdCrCtD": 0.008049010119640888,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3330006570007723,
     "CrCbGaD": 0.004569885997450802
   },
+  "n_trials": 0.0,
   "prediction": 0.0018028153291485601,
   "status": 0,
   "training_prediction": 0.0102344957472762

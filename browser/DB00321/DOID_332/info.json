@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.690507152145644,
   "metapath_contribution": {
     "CbGaD": 0.6658033536177996,
     "CbGbCtD": 0.03694804142435123,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08319389051319613,
     "CcSEcCtD": 0.09972778051559544
   },
+  "n_trials": 0.0,
   "prediction": 0.00171973936040274,
   "status": 0,
   "training_prediction": 0.00077541401564315

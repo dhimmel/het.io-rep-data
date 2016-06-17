@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00832",
   "compound_name": "Phensuximide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.835500650195058,
   "metapath_contribution": {
     "CbGbCtD": 0.010167452113715225,
     "CbGpPWpGaD": 0.01004060219131893,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3527494542492347,
     "CrCtD": 0.625227745456134
   },
+  "n_trials": 0.0,
   "prediction": 0.00605359093799539,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

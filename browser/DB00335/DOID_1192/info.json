@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00335",
   "compound_name": "Atenolol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.830299089726918,
   "metapath_contribution": {
     "CbGaD": 0.34236242557451757,
     "CbGbCtD": 0.17352378692519024,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00169523170367902,
     "CrCrCtD": 0.3522903295971506
   },
+  "n_trials": 0.0,
   "prediction": 0.0028338298378400802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00546",
   "compound_name": "Adinazolam",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.22236671001300398,
   "metapath_contribution": {
     "CbGaD": 0.2565088546752056,
     "CbGbCtD": 0.5901574435392899,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13137234773458029,
     "CrCbGaD": 0.006808673257277929
   },
+  "n_trials": 0.0,
   "prediction": 0.0013555936780864,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

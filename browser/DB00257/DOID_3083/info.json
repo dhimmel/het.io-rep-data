@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.695058517555267,
   "metapath_contribution": {
     "CbGaD": 0.31828380041091875,
     "CbGbCtD": 0.5441501108285839,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05025673067880845,
     "CrCbGaD": 0.0006066690190355448
   },
+  "n_trials": 0.0,
   "prediction": 0.0029792626963946,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

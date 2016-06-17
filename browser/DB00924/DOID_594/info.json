@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.6989596879063721,
   "metapath_contribution": {
     "CbGaD": 0.9223034242944601,
     "CbGeAlD": 0.045519650236909195,
     "CbGpPWpGaD": 0.022754377175530163,
     "CrCbGaD": 0.00942254829310055
   },
+  "n_trials": 0.0,
   "prediction": 0.0017848997905508198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00202",
   "compound_name": "Succinylcholine",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.277633289986996,
   "metapath_contribution": {
-    "CbGeAlD": 0.23455707729622582,
+    "CbGeAlD": 0.2345570772962258,
     "CbGpPWpGaD": 0.2689201207541597,
-    "CcSEcCtD": 0.487930865772304,
-    "CrCbGaD": 0.008591936177310485
+    "CcSEcCtD": 0.48793086577230393,
+    "CrCbGaD": 0.008591936177310484
   },
+  "n_trials": 21.0,
   "prediction": 0.00144275407042024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

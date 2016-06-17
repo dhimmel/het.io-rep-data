@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGbCtD": 0.4979297711571351,
     "CbGdCrCtD": 0.0024628543200817606,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11807900959214321,
     "CpDpCtD": 0.35748853265561964
   },
+  "n_trials": 0.0,
   "prediction": 0.00607955433991437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

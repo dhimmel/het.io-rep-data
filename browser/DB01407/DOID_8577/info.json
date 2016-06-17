@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01407",
   "compound_name": "Clenbuterol",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7360208062418729,
   "metapath_contribution": {
     "CbGaD": 0.6910705881789616,
     "CbGbCtD": 0.1795909603743822,
     "CbGpPWpGaD": 0.12351983115021269,
     "CrCbGaD": 0.005818620296443584
   },
+  "n_trials": 0.0,
   "prediction": 0.00300511604903297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

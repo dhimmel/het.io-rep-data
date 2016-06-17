@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGbCtD": 0.3978632234553182,
     "CbGdCrCtD": 0.0017987067144988262,
     "CrCbGaD": 0.0027980765097183843,
     "CrCrCtD": 0.5975399933204645
   },
+  "n_trials": 0.0,
   "prediction": 0.004108095857580821,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

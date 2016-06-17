@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.37711313394018203,
   "metapath_contribution": {
     "CbGaD": 0.52460165627066,
     "CbGeAlD": 0.22650153474302417,
     "CbGpPWpGaD": 0.24506267793202427,
     "CrCbGaD": 0.0038341310542916603
   },
+  "n_trials": 0.0,
   "prediction": 0.00103578302079809,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

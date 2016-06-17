@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGbCtD": 0.7443644226848811,
     "CbGeAlD": 0.04622548837625859,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10794784416310628,
     "CrCbGaD": 0.003538710344709088
   },
+  "n_trials": 0.0,
   "prediction": 0.00189794205186287,
   "status": 0,
   "training_prediction": 0.0038361111126500205

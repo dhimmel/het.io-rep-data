@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6853055916775029,
   "metapath_contribution": {
     "CbGaD": 0.8064596165175225,
     "CbGeAlD": 0.03932168100895847,
     "CbGpPWpGaD": 0.14478071451835112,
     "CrCbGaD": 0.009437987955167813
   },
+  "n_trials": 0.0,
   "prediction": 0.0020408739719993,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8107932379713909,
   "metapath_contribution": {
     "CbGaD": 0.05288217661235345,
     "CbGbCtD": 0.19187869777792163,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.22184189620600897,
     "CrCtD": 0.390890130174511
   },
+  "n_trials": 0.0,
   "prediction": 0.0048461702111784605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

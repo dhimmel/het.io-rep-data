@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.745649122272058,
     "CbGeAlD": 0.07763836474302761,
     "CbGpPWpGaD": 0.17318897912702214,
     "CrCbGaD": 0.003523533857892208
   },
+  "n_trials": 0.0,
   "prediction": 0.00261842339721207,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

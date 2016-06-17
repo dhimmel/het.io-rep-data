@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01624",
   "compound_name": "Zuclopenthixol",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.17295188556567,
   "metapath_contribution": {
     "CbGaD": 0.2710317588161116,
     "CbGbCtD": 0.27135597711273785,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3478866899859113,
     "CrCbGaD": 0.005699203905330268
   },
+  "n_trials": 0.0,
   "prediction": 0.0012202516785625099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.6053315994798439,
   "metapath_contribution": {
     "CbGaD": 0.5307074813131962,
     "CbGbCtD": 0.37319419401376575,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08693796136026774,
     "CrCbGaD": 0.0028561679458292645
   },
+  "n_trials": 0.0,
   "prediction": 0.0024913905886751603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

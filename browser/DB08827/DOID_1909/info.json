@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08827",
   "compound_name": "Lomitapide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.13174623626328938,
     "CbGbCtD": 0.09568343861869294,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.7172327424904913,
     "CrCbGaD": 0.00044879788088512414
   },
+  "n_trials": 0.0,
   "prediction": 0.00467395218738215,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

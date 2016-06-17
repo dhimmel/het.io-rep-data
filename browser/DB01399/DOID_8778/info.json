@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.20083934658003086,
     "CbGbCtD": 0.3563686156905795,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002726694725258671,
     "CrCrCtD": 0.4374013603388051
   },
+  "n_trials": 0.0,
   "prediction": 0.00700438448346879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

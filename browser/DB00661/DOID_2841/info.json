@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.609232769830949,
   "metapath_contribution": {
     "CbGbCtD": 0.6594379582813246,
     "CbGeAlD": 0.044727872813200786,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2085985290980325,
     "CrCbGaD": 0.004356071096922656
   },
+  "n_trials": 0.0,
   "prediction": 0.0030064950206802397,
   "status": 0,
   "training_prediction": 0.0332697830219447

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
-    "CbGaD": 0.5257654548803147,
+    "CbGaD": 0.5257654548803148,
     "CbGbCtD": 0.25000525067999474,
-    "CbGdCrCtD": 0.001982371057652135,
-    "CbGeAlD": 0.09186568668728384,
+    "CbGdCrCtD": 0.0019823710576521354,
+    "CbGeAlD": 0.09186568668728386,
     "CbGpPWpGaD": 0.13038123669475454
   },
+  "n_trials": 0.0,
   "prediction": 0.00517623893831305,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.5021099837092813,
     "CbGbCtD": 0.3165524231567115,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06621392641774415,
     "CrCbGaD": 0.004107828104979124
   },
+  "n_trials": 0.0,
   "prediction": 0.0063654771100301105,
   "status": 0,
   "training_prediction": 0.00627976920631669

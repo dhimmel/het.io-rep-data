@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.05847836703859042,
     "CbGbCtD": 0.27872705749102145,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0900949688364269,
     "CiPCiCtD": 0.535409718664641
   },
+  "n_trials": 0.0,
   "prediction": 0.00478222823441845,
   "status": 0,
   "training_prediction": 0.0154291616126261

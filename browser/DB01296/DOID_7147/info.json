@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.3912693770633434,
     "CbGbCtD": 0.0040563286436688635,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.0864872237813217,
     "CpDpCtD": 0.47358795337492066
   },
+  "n_trials": 0.0,
   "prediction": 0.00409190525775899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

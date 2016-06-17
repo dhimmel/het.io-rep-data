@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01166",
   "compound_name": "Cilostazol",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.617685305591678,
   "metapath_contribution": {
     "CbGbCtD": 0.6587739792548245,
     "CbGeAlD": 0.002004042952762477,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23805950919812455,
     "CrCbGaD": 0.005517799181000521
   },
+  "n_trials": 0.0,
   "prediction": 0.00314354974172795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.432379713914174,
   "metapath_contribution": {
     "CbGaD": 0.677594998495323,
     "CbGeAlD": 0.10068683526217925,
     "CbGpPWpGaD": 0.21176706732530676,
     "CrCbGaD": 0.00995109891719103
   },
+  "n_trials": 0.0,
   "prediction": 0.0014165589157002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

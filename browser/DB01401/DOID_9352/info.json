@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.773081924577373,
   "metapath_contribution": {
     "CbGaD": 0.29773915984952787,
     "CbGbCtD": 0.47952785970569917,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15186982744930438,
     "CrCbGaD": 0.001505995765766067
   },
+  "n_trials": 0.0,
   "prediction": 0.00482497301682598,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGbCtD": 0.259540074825497,
     "CbGeAlD": 0.014661987827207368,
     "CcSEcCtD": 0.07532148244916823,
     "CiPCiCtD": 0.6504764548981274
   },
+  "n_trials": 0.0,
   "prediction": 0.00529348874042762,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.620286085825748,
   "metapath_contribution": {
     "CbGaD": 0.30593001609297615,
     "CbGbCtD": 0.31503803147040554,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17712358321482516,
     "CrCbGaD": 0.004055030978604065
   },
+  "n_trials": 0.0,
   "prediction": 0.00297934147230682,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

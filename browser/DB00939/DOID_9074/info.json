@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00939",
   "compound_name": "Meclofenamic acid",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.547464239271782,
   "metapath_contribution": {
     "CbGaD": 0.32618178858868696,
     "CbGbCtD": 0.49594469553464177,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.10444271522531151,
     "CrCbGaD": 0.0034605274109408934
   },
+  "n_trials": 0.0,
   "prediction": 0.00205930645154432,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

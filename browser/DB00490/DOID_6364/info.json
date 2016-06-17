@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00490",
   "compound_name": "Buspirone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGaD": 0.45900295295407884,
     "CbGbCtD": 0.35087117002531165,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05635846429791055,
     "CcSEcCtD": 0.11049081631344584
   },
+  "n_trials": 0.0,
   "prediction": 0.0125378545943951,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

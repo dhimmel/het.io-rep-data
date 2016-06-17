@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.27369794964522975,
     "CbGbCtD": 0.2217696612762438,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0017455191654136696,
     "CtDrD": 0.4120117534960843
   },
+  "n_trials": 0.0,
   "prediction": 0.0038360218807328,
   "status": 0,
   "training_prediction": 0.00908734757613075

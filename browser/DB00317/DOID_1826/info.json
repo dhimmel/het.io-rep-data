@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.48179453836150804,
   "metapath_contribution": {
     "CbGaD": 0.29486435889318424,
     "CbGbCtD": 0.4098241048580882,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1444349522691601,
     "CrCbGaD": 0.0047737499204882836
   },
+  "n_trials": 0.0,
   "prediction": 0.00325751785900183,
   "status": 0,
   "training_prediction": 0.0157923860844866

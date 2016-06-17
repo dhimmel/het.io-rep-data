@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00177",
   "compound_name": "Valsartan",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.677503250975293,
   "metapath_contribution": {
     "CbGaD": 0.11067214072230597,
     "CbGbCtD": 0.07346007198283426,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09283129430933619,
     "CtDrD": 0.6466389915353205
   },
+  "n_trials": 0.0,
   "prediction": 0.00362526062655225,
   "status": 0,
   "training_prediction": 0.0208026761027051

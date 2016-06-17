@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGaD": 0.8017219946755744,
     "CbGeAlD": 0.034092547605575944,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13427084130119787,
     "CrCbGaD": 0.007186313486294571
   },
+  "n_trials": 0.0,
   "prediction": 0.00244665019291691,
   "status": 0,
   "training_prediction": 0.00742727057750843

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.6619266330911824,
     "CbGbCtD": 0.17521712081517007,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10926651505724061,
     "CrCbGaD": 0.0020828446716083474
   },
+  "n_trials": 0.0,
   "prediction": 0.00284904093965472,
   "status": 0,
   "training_prediction": 0.0040630525633667

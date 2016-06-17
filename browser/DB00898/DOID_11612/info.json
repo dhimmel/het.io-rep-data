@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.6602001262521581,
     "CbGeAlD": 0.1316152173311053,
     "CbGpPWpGaD": 0.20818465641673659
   },
+  "n_trials": 0.0,
   "prediction": 0.00286507474771699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

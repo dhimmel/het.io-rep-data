@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.23367133165203288,
     "CbGbCtD": 0.18067701452533835,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.19232320845542863,
     "CrCtD": 0.3275685428505943
   },
+  "n_trials": 0.0,
   "prediction": 0.024179393807711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

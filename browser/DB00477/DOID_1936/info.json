@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.251625487646294,
   "metapath_contribution": {
     "CbGaD": 0.4042505158836001,
     "CbGbCtD": 0.35313263477693785,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06987378324590897,
     "CrCbGaD": 0.005349207265770508
   },
+  "n_trials": 0.0,
   "prediction": 0.00124854500696778,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

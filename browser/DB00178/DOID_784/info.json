@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00178",
   "compound_name": "Ramipril",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.3427818866009373,
     "CbGeAlD": 0.05997950418680066,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004071205120566441,
     "CtDrD": 0.5709851429062173
   },
+  "n_trials": 1.0,
   "prediction": 0.0048299452149448705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

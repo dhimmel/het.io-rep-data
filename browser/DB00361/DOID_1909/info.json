@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.771781534460338,
   "metapath_contribution": {
     "CbGaD": 0.060663028789633804,
     "CbGbCtD": 0.40157639179519355,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.00048170882159314797,
     "CtDrD": 0.4059498555114041
   },
+  "n_trials": 2.0,
   "prediction": 0.0021753954921908698,
   "status": 0,
   "training_prediction": 0.0112341217573425

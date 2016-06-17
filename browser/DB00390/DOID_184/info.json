@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.335500650195059,
   "metapath_contribution": {
     "CbGaD": 0.3353674874264979,
     "CbGbCtD": 0.5552603759606372,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.008770592669893131,
     "CrCbGaD": 0.0007382859322983047
   },
+  "n_trials": 0.0,
   "prediction": 0.0011933410141600801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGaD": 0.23576464246539977,
     "CbGbCtD": 0.5585513979901291,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17866588987176543,
     "CrCbGaD": 0.0016680697160559995
   },
+  "n_trials": 0.0,
   "prediction": 0.00281082066855442,
   "status": 0,
   "training_prediction": 0.0027728408385167

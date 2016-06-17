@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.011703511053316002,
   "metapath_contribution": {
     "CbGbCtD": 0.8874248786944458,
     "CbGpPWpGaD": 0.09988398936556253,
     "CrCbGaD": 0.012691131939991768
   },
+  "n_trials": 0.0,
   "prediction": 0.000522962543902894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

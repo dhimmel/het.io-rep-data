@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00900",
   "compound_name": "Didanosine",
+  "compound_percentile": 0.0955882352941176,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.159297789336801,
   "metapath_contribution": {
     "CbGdCrCtD": 0.02461095202177444,
     "CbGeAlD": 0.09373582131945171,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.7378200588325793,
     "CrCbGaD": 0.018294544395489536
   },
+  "n_trials": 0.0,
   "prediction": 0.00108928743447028,
   "status": 0,
   "training_prediction": 0.00462163144144785

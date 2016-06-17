@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00175",
   "compound_name": "Pravastatin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.37765157086290696,
     "CbGbCtD": 0.38164235509516997,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09863362831318098,
     "CrCbGaD": 0.0025732887157559805
   },
+  "n_trials": 0.0,
   "prediction": 0.00434101131276504,
   "status": 0,
   "training_prediction": 0.007122296103955359

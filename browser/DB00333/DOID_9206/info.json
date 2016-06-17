@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.4603381014304289,
   "metapath_contribution": {
     "CbGbCtD": 0.8414519886233446,
     "CbGpPWpGaD": 0.03410950194364281,
     "CcSEcCtD": 0.12418671927942918,
     "CrCbGaD": 0.0002517901535834747
   },
+  "n_trials": 0.0,
   "prediction": 0.00160720292258135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

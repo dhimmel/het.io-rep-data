@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00445",
   "compound_name": "Epirubicin",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.542912873862159,
   "metapath_contribution": {
     "CbGaD": 0.3028965337224412,
     "CbGeAlD": 0.0306637732595766,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.004287371374967885,
     "CtDrD": 0.4960050750244499
   },
+  "n_trials": 0.0,
   "prediction": 0.00147336063319387,
   "status": 0,
   "training_prediction": 0.00926607074574654

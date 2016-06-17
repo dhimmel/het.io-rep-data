@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00667",
   "compound_name": "Histamine Phosphate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8862158647594279,
   "metapath_contribution": {
     "CbGaD": 0.49174106442051907,
     "CbGbCtD": 0.3096181616876307,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12362327211794732,
     "CrCbGaD": 0.0002649847065786872
   },
+  "n_trials": 0.0,
   "prediction": 0.008025896432082059,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

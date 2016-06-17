@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.00715214564369311,
   "metapath_contribution": {
     "CbGbCtD": 0.6073636317879862,
     "CbGpPWpGaD": 0.07550603372102595,
-    "CcSEcCtD": 0.049640411887520275,
-    "CrCbGaD": 0.007136750418401688,
+    "CcSEcCtD": 0.04964041188752028,
+    "CrCbGaD": 0.007136750418401689,
     "CrCrCtD": 0.2603531721850659
   },
+  "n_trials": 0.0,
   "prediction": 0.000401100050643935,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.116384915474642,
   "metapath_contribution": {
     "CbGbCtD": 0.48655574097892557,
     "CbGdCrCtD": 0.003493809243084411,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2837706002583677,
     "CrCbGaD": 0.005047572895502368
   },
+  "n_trials": 0.0,
   "prediction": 0.00139093592079413,
   "status": 0,
   "training_prediction": 0.0269088931011942

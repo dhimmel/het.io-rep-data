@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00686",
   "compound_name": "Pentosan Polysulfate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGaD": 0.671367500597059,
     "CbGeAlD": 0.01824909692557873,
     "CbGpPWpGaD": 0.15720829724471938,
     "CcSEcCtD": 0.15317510523264297
   },
+  "n_trials": 0.0,
   "prediction": 0.00612278951136149,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

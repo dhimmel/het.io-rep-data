@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.8346136586746987,
     "CbGeAlD": 0.10735841030277148,
     "CbGpPWpGaD": 0.0504406905342388,
     "CrCbGaD": 0.007587240488290993
   },
+  "n_trials": 0.0,
   "prediction": 0.0038545747224161,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

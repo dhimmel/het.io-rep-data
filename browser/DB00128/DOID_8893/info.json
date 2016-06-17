@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.14369310793238002,
   "metapath_contribution": {
     "CbGdCrCtD": 0.03731990875746566,
     "CbGeAlD": 0.3576313306659247,
     "CbGpPWpGaD": 0.6005422299832782,
     "CrCbGaD": 0.004506530593331392
   },
+  "n_trials": 0.0,
   "prediction": 0.0010844826219199599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

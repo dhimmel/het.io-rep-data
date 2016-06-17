@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.12361415699086806,
     "CbGbCtD": 0.36320559476226744,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.20193879967206035,
     "CcSEcCtD": 0.24401695449773475
   },
+  "n_trials": 0.0,
   "prediction": 0.00480023462998865,
   "status": 0,
   "training_prediction": 0.0130633377764765

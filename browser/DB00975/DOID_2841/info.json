@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.21896933468718738,
     "CbGbCtD": 0.5285908276252833,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09111352732143915,
     "CcSEcCtD": 0.1175437184317145
   },
+  "n_trials": 0.0,
   "prediction": 0.0118514048658255,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

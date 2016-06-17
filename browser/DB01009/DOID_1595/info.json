@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.0221066319895969,
   "metapath_contribution": {
     "CbGeAlD": 0.4257443098800556,
     "CbGpPWpGaD": 0.5289407630098112,
     "CrCbGaD": 0.045314927110133116
   },
+  "n_trials": 0.0,
   "prediction": 0.000766064495169789,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

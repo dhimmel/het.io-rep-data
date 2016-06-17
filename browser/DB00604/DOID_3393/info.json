@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGaD": 0.2487519657086073,
     "CbGbCtD": 0.5863643649675209,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1056888027614191,
     "CrCbGaD": 0.0026739175673743862
   },
+  "n_trials": 0.0,
   "prediction": 0.00301998318787889,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

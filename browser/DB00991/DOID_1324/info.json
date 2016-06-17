@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.38231469440832205,
   "metapath_contribution": {
     "CbGaD": 0.3760583607238682,
     "CbGbCtD": 0.3307460366985561,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22821489912641474,
     "CrCbGaD": 0.0029804396392859762
   },
+  "n_trials": 0.0,
   "prediction": 0.0014683283001588599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

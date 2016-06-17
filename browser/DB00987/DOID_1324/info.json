@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGbCtD": 0.22573988064413172,
     "CbGdCrCtD": 0.0009989422584311975,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.14771007579340095,
     "CrCtD": 0.25590444099571513
   },
+  "n_trials": 0.0,
   "prediction": 0.0184218111416641,
   "status": 0,
   "training_prediction": 0.0970247450036488

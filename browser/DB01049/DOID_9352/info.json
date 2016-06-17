@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01049",
   "compound_name": "Ergoloid mesylate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.07988421323235734,
     "CbGbCtD": 0.1845918307809667,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2635512187771369,
     "CrCtD": 0.4539047114829684
   },
+  "n_trials": 0.0,
   "prediction": 0.0293464614507953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

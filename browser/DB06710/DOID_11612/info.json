@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.3485045513654099,
   "metapath_contribution": {
     "CbGaD": 0.8430855135209122,
     "CbGeAlD": 0.08727254739231248,
     "CbGpPWpGaD": 0.05924592114293518,
     "CrCbGaD": 0.01039601794384016
   },
+  "n_trials": 3.0,
   "prediction": 0.0011475563443342901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.287386215864759,
   "metapath_contribution": {
     "CbGaD": 0.22953941420374935,
     "CbGbCtD": 0.41248040899784905,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14939382064890194,
     "CrCbGaD": 0.003082017013754173
   },
+  "n_trials": 0.0,
   "prediction": 0.00158035960118083,
   "status": 0,
   "training_prediction": 0.00871030316976512

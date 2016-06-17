@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGaD": 0.33511828991202375,
     "CbGbCtD": 0.45506754962382645,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15347456743791402,
     "CrCbGaD": 0.0033827334834608527
   },
+  "n_trials": 5.0,
   "prediction": 0.0071231385764744595,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.4473342002600779,
   "metapath_contribution": {
     "CbGbCtD": 0.8033533885384506,
     "CbGeAlD": 0.013103451680991062,
     "CcSEcCtD": 0.06786759941152767,
     "CrCrCtD": 0.11567556036903073
   },
+  "n_trials": 0.0,
   "prediction": 0.0021781054775047,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.22404126711794073,
     "CbGbCtD": 0.21288751484398938,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.20942653569462807,
     "CrCtD": 0.32643931757660827
   },
+  "n_trials": 0.0,
   "prediction": 0.0264782541809181,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

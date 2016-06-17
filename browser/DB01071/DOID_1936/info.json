@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01071",
   "compound_name": "Mequitazine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.49544863459037697,
   "metapath_contribution": {
     "CbGaD": 0.6683989635536715,
     "CbGbCtD": 0.3152552108262091,
     "CbGpPWpGaD": 0.010415980330157391,
     "CrCbGaD": 0.005929845289962089
   },
+  "n_trials": 0.0,
   "prediction": 0.00184770824644283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

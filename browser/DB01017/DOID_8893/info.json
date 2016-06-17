@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.5988797995442005,
-    "CbGbCtD": 0.0920645443013988,
-    "CbGdCrCtD": 0.006729643607361769,
-    "CbGeAlD": 0.1282832408745899,
+    "CbGbCtD": 0.09206454430139882,
+    "CbGdCrCtD": 0.00672964360736177,
+    "CbGeAlD": 0.12828324087458992,
     "CbGpPWpGaD": 0.17404277167244903
   },
+  "n_trials": 0.0,
   "prediction": 0.0032007833364252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

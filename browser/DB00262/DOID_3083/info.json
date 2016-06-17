@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00262",
   "compound_name": "Carmustine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7997399219765929,
   "metapath_contribution": {
     "CbGaD": 0.7080547722389249,
     "CbGbCtD": 0.016714697592606992,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09064042335713368,
     "CcSEcCtD": 0.17057929826412205
   },
+  "n_trials": 0.0,
   "prediction": 0.00386108008418743,
   "status": 0,
   "training_prediction": 0.0283500389152443

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.789336801040312,
   "metapath_contribution": {
     "CbGaD": 0.4210452857375808,
     "CbGbCtD": 0.33845388988332614,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1469554415218478,
     "CrCbGaD": 0.0034964086759422513
   },
+  "n_trials": 1.0,
   "prediction": 0.0037493472190479205,
   "status": 0,
   "training_prediction": 0.00824007639597123

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.583734126903643,
     "CbGbCtD": 0.17388868833942464,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.158044218435381,
     "CrCbGaD": 0.003618008150125988
   },
+  "n_trials": 2.0,
   "prediction": 0.00345126163557829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

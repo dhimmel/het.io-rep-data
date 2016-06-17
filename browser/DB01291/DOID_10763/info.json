@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01291",
   "compound_name": "Pirbuterol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.15063471105522303,
     "CbGbCtD": 0.25169057439463427,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.19215661582779683,
     "CrCtD": 0.3074331810588231
   },
+  "n_trials": 0.0,
   "prediction": 0.0335156290663832,
   "status": 0,
   "training_prediction": 0.29319066045384695

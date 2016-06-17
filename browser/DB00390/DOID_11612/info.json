@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.24447334200260104,
   "metapath_contribution": {
     "CbGaD": 0.6900826719391872,
     "CbGeAlD": 0.1501304731823612,
     "CbGpPWpGaD": 0.15514248227909597,
     "CrCbGaD": 0.00464437259935559
   },
+  "n_trials": 0.0,
   "prediction": 0.0009723025527539051,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0279583875162549,
   "metapath_contribution": {
     "CbGbCtD": 0.6354835300274538,
     "CbGdCrCtD": 0.005446679067426329,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1560209551866885,
     "CrCbGaD": 0.005584240725995709
   },
+  "n_trials": 0.0,
   "prediction": 0.00079931822635236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

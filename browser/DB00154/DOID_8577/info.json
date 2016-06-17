@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00154",
   "compound_name": "Dihomo-gamma-linolenic acid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGaD": 0.4561695477128211,
     "CbGbCtD": 0.5309760602040091,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.006867800300991664,
     "CrCbGaD": 0.0031573301775642613
   },
+  "n_trials": 0.0,
   "prediction": 0.004174571717920621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

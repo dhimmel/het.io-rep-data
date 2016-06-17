@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00399",
   "compound_name": "Zoledronate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.30224859533788917,
     "CbGbCtD": 0.5210040189968801,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12012696806669386,
     "CrCbGaD": 0.0008300656129379583
   },
+  "n_trials": 0.0,
   "prediction": 0.007532060907038541,
   "status": 0,
   "training_prediction": 0.05120800516824

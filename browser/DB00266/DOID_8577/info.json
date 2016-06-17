@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00266",
   "compound_name": "Dicoumarol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.980147215278492,
     "CbGbCtD": 0.00020591380567196854,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.0031411208171083743,
     "CrCbGaD": 0.001177436510434839
   },
+  "n_trials": 0.0,
   "prediction": 0.00433596309842899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

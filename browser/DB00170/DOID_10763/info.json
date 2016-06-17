@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.782184655396619,
   "metapath_contribution": {
     "CbGaD": 0.39342805369188444,
     "CbGbCtD": 0.25129160334441647,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0012419138360345733,
     "CrCrCtD": 0.1904064404871592
   },
+  "n_trials": 0.0,
   "prediction": 0.00917232247497887,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

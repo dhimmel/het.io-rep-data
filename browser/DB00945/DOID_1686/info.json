@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.7594278283485051,
   "metapath_contribution": {
     "CbGaD": 0.5274213327386643,
     "CbGbCtD": 0.18888753130612593,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1291699603749455,
     "CrCbGaD": 0.0018687479453092972
   },
+  "n_trials": 0.0,
   "prediction": 0.00283778060230157,
   "status": 0,
   "training_prediction": 0.0198372158110502

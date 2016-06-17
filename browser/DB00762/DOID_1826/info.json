@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.36605981794538395,
   "metapath_contribution": {
     "CbGaD": 0.31057009617620474,
     "CbGbCtD": 0.457512843100869,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13843979233461137,
     "CrCbGaD": 0.0020866997825143433
   },
+  "n_trials": 0.0,
   "prediction": 0.0024679600132677198,
   "status": 0,
   "training_prediction": 0.0460726386236018

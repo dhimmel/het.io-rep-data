@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.805591677503251,
   "metapath_contribution": {
     "CbGbCtD": 0.6755578092789603,
     "CbGdCrCtD": 0.002100787542809207,
     "CbGpPWpGaD": 0.03044470964776054,
     "CcSEcCtD": 0.29189669353047
   },
+  "n_trials": 0.0,
   "prediction": 0.0029556673482100198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

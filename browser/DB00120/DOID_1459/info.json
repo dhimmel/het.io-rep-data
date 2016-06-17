@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00120",
   "compound_name": "L-Phenylalanine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGbCtD": 0.17498398180852742,
     "CbGeAlD": 0.03735960070536673,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.30514498785005634,
     "CrCtD": 0.4498326341666054
   },
+  "n_trials": 0.0,
   "prediction": 0.0179728837547636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

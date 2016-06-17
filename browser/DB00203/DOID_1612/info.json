@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8407022106631992,
   "metapath_contribution": {
     "CbGaD": 0.2509669926351691,
     "CbGbCtD": 0.46483417462294796,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17372530347891268,
     "CrCbGaD": 0.0010631271681127551
   },
+  "n_trials": 0.0,
   "prediction": 0.00531279456291573,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

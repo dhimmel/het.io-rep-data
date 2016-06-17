@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06209",
   "compound_name": "Prasugrel",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.402470741222367,
   "metapath_contribution": {
     "CbGaD": 0.23452973519956904,
     "CbGbCtD": 0.5114382782497789,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.139313852913682,
     "CrCbGaD": 0.0010798601505201738
   },
+  "n_trials": 0.0,
   "prediction": 0.0020072140450632103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

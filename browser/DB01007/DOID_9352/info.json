@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6274382314694411,
   "metapath_contribution": {
     "CbGaD": 0.39093971259448695,
     "CbGbCtD": 0.5140872581393197,
     "CbGpPWpGaD": 0.09234809432024205,
     "CrCbGaD": 0.0026249349459511874
   },
+  "n_trials": 0.0,
   "prediction": 0.00318370648448756,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.537711313394018,
   "metapath_contribution": {
     "CbGbCtD": 0.6514895039796976,
     "CbGeAlD": 0.08178471400296199,
     "CbGpPWpGaD": 0.16402522114530044,
     "CcSEcCtD": 0.10270056087203992
   },
+  "n_trials": 0.0,
   "prediction": 0.00196132772068838,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

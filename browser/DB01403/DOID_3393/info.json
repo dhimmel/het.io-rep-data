@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.13784135240572198,
   "metapath_contribution": {
     "CbGaD": 0.23395965507208433,
     "CbGbCtD": 0.21590093816235195,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20511945791955705,
     "CrCbGaD": 0.005851872866544309
   },
+  "n_trials": 0.0,
   "prediction": 0.00104913726225479,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

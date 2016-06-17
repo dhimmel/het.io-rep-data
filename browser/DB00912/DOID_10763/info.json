@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.21939008777449492,
     "CbGbCtD": 0.2572522053350163,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0940179044008797,
     "CtDrD": 0.36460161622230863
   },
+  "n_trials": 0.0,
   "prediction": 0.0298210848182949,
   "status": 0,
   "training_prediction": 0.268833417329965

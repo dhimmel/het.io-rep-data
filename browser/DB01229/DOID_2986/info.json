@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.007352941176470591,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.15279583875162603,
   "metapath_contribution": {
-    "CbGeAlD": 0.27518654818209837,
-    "CbGpPWpGaD": 0.6970598745931086,
-    "CrCbGaD": 0.027753577224793158
+    "CbGeAlD": 0.2751865481820983,
+    "CbGpPWpGaD": 0.6970598745931085,
+    "CrCbGaD": 0.027753577224793154
   },
+  "n_trials": 0.0,
   "prediction": 0.000565441639054347,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

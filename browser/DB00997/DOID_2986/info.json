@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.007352941176470591,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.0507152145643693,
   "metapath_contribution": {
     "CbGaD": 0.6554589435607449,
     "CbGeAlD": 0.12778772860553292,
     "CbGpPWpGaD": 0.2101788699525846,
     "CrCbGaD": 0.006574457881137564
   },
+  "n_trials": 0.0,
   "prediction": 0.000403146299675075,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

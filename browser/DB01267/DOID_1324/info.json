@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGbCtD": 0.21070460974686966,
     "CbGeAlD": 0.005196715368365236,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0006472394158786142,
     "CrCrCtD": 0.5762391105277894
   },
+  "n_trials": 0.0,
   "prediction": 0.00508404720200745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.5555840124609283,
     "CbGbCtD": 0.20336406310293,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06057299746049092,
     "CrCbGaD": 0.00390879812405807
   },
+  "n_trials": 0.0,
   "prediction": 0.0035546301870952703,
   "status": 0,
   "training_prediction": 0.010766410702394

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01330",
   "compound_name": "Cefotetan",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.401170351105332,
   "metapath_contribution": {
     "CbGaD": 0.620222333738105,
     "CbGbCtD": 0.2748096430357568,
     "CcSEcCtD": 0.10232987282919742,
     "CrCbGaD": 0.0026381503969408948
   },
+  "n_trials": 0.0,
   "prediction": 0.0016289874083819,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

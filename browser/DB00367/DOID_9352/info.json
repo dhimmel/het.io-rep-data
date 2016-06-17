@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGaD": 0.6093942909040263,
     "CbGbCtD": 0.1501735528091766,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14804344811589623,
     "CrCbGaD": 0.004109249898304358
   },
+  "n_trials": 2.0,
   "prediction": 0.00231697863717012,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.3819689124054856,
     "CbGbCtD": 0.3775673408472312,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06809993276355084,
     "CcSEcCtD": 0.11721101863341424
   },
+  "n_trials": 0.0,
   "prediction": 0.00475536733086107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

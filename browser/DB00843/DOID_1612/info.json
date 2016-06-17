@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8010403120936279,
   "metapath_contribution": {
     "CbGaD": 0.3875734748090315,
     "CbGbCtD": 0.3929263377999271,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1684653775079799,
     "CrCbGaD": 0.0012747277989244138
   },
+  "n_trials": 1.0,
   "prediction": 0.00468652148589202,
   "status": 0,
   "training_prediction": 0.0254726789348785

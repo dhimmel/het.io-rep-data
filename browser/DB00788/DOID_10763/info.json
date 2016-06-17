@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.626137841352406,
   "metapath_contribution": {
-    "CbGaD": 0.17546097530357294,
-    "CbGbCtD": 0.34441642985258564,
-    "CbGeAlD": 0.017919667662739194,
-    "CbGpPWpGaD": 0.0689629340895395,
-    "CcSEcCtD": 0.1478173621916379,
-    "CrCbGaD": 0.002782913780033183,
-    "CrCrCtD": 0.24263971711989174
+    "CbGaD": 0.1754609753035729,
+    "CbGbCtD": 0.3444164298525856,
+    "CbGeAlD": 0.01791966766273919,
+    "CbGpPWpGaD": 0.06896293408953949,
+    "CcSEcCtD": 0.14781736219163788,
+    "CrCbGaD": 0.0027829137800331827,
+    "CrCrCtD": 0.24263971711989168
   },
+  "n_trials": 3.0,
   "prediction": 0.00526136272426072,
   "status": 0,
   "training_prediction": 0.0595034022060939

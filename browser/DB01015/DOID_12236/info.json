@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.617685305591678,
   "metapath_contribution": {
     "CbGaD": 0.43104953434271187,
     "CbGbCtD": 0.3440006350299372,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1839103013958741,
     "CrCbGaD": 0.001899930425336235
   },
+  "n_trials": 0.0,
   "prediction": 0.0019217887445938,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

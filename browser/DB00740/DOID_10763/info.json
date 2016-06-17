@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00740",
   "compound_name": "Riluzole",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.698309492847854,
   "metapath_contribution": {
     "CbGaD": 0.2137968927865968,
     "CbGbCtD": 0.4031487175342736,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09613838888672883,
     "CcSEcCtD": 0.24353289872073075
   },
+  "n_trials": 0.0,
   "prediction": 0.00688241887024335,
   "status": 0,
   "training_prediction": 0.0765506402550868

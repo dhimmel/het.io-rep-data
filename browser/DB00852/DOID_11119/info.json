@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGaD": 0.8541240882099225,
     "CbGeAlD": 0.06321540357814202,
     "CbGpPWpGaD": 0.07614460233122153,
     "CrCbGaD": 0.006515905880714055
   },
+  "n_trials": 0.0,
   "prediction": 0.00222830252793229,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

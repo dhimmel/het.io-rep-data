@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.7841534142167762,
     "CbGpPWpGaD": 0.05897029550619355,
     "CcSEcCtD": 0.14411794376198214,
     "CrCbGaD": 0.012758346515048029
   },
+  "n_trials": 1.0,
   "prediction": 0.00275725786514825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

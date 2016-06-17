@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.49479843953186,
   "metapath_contribution": {
     "CbGaD": 0.28150590162825195,
     "CbGbCtD": 0.46911186478885014,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1318052032814328,
     "CrCbGaD": 0.004203634824124417
   },
+  "n_trials": 0.0,
   "prediction": 0.00151889886048754,
   "status": 0,
   "training_prediction": 0.00216735241683752

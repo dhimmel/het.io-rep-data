@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00585",
   "compound_name": "Nizatidine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.669700910273082,
   "metapath_contribution": {
     "CbGaD": 0.783130453636132,
     "CbGeAlD": 0.09023759692980875,
     "CbGpPWpGaD": 0.11444550690199731,
     "CrCbGaD": 0.012186442532061897
   },
+  "n_trials": 0.0,
   "prediction": 0.00200677683493078,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04844",
   "compound_name": "Tetrabenazine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.34655396618985695,
   "metapath_contribution": {
     "CbGbCtD": 0.4687586307993943,
     "CbGeAlD": 0.009975687780799929,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3497042254300042,
     "CrCbGaD": 0.0015125337888329635
   },
+  "n_trials": 1.0,
   "prediction": 0.0019293356623886102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

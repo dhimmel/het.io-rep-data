@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGbCtD": 0.6956357748491899,
     "CbGeAlD": 0.0044628537417817325,
     "CbGpPWpGaD": 0.13198004110606293,
     "CcSEcCtD": 0.16792133030296538
   },
+  "n_trials": 0.0,
   "prediction": 0.00169743796752336,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

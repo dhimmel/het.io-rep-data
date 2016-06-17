@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.09682115696306247,
     "CbGbCtD": 0.12138645236265562,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.17520866098292545,
     "CrCtD": 0.2447317647634042
   },
+  "n_trials": 0.0,
   "prediction": 0.0537099443904527,
   "status": 0,
   "training_prediction": 0.156191533323943

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00450",
   "compound_name": "Droperidol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.604031209362809,
   "metapath_contribution": {
     "CbGaD": 0.215376343780723,
     "CbGeAlD": 0.06338781271356439,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0016680193176996717,
     "CrCrCtD": 0.5496684532807047
   },
+  "n_trials": 0.0,
   "prediction": 0.0029005786169436602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

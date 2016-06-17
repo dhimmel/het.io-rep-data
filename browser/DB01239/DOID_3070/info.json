@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.0441176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.0910273081924577,
   "metapath_contribution": {
     "CbGeAlD": 0.6282647737560813,
     "CbGpPWpGaD": 0.33085906948053606,
-    "CrCbGaD": 0.0408761567633827
+    "CrCbGaD": 0.04087615676338271
   },
+  "n_trials": 0.0,
   "prediction": 0.000726503521337532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

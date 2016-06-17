@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01020",
   "compound_name": "Isosorbide Mononitrate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.826397919375813,
   "metapath_contribution": {
     "CbGaD": 0.28157788348469626,
     "CbGbCtD": 0.11126038933203598,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3829994428513452,
     "CrCbGaD": 0.003376078523566386
   },
+  "n_trials": 2.0,
   "prediction": 0.0111529023442334,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

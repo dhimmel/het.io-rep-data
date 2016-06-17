@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.73146944083225,
   "metapath_contribution": {
     "CbGaD": 0.586859406605089,
     "CbGbCtD": 0.10597926856995893,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11937044899391916,
     "CcSEcCtD": 0.10171380873243356
   },
+  "n_trials": 0.0,
   "prediction": 0.00193389872519495,
   "status": 0,
   "training_prediction": 0.00142644524233893

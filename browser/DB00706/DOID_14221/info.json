@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00706",
   "compound_name": "Tamsulosin",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.537711313394018,
   "metapath_contribution": {
     "CbGeAlD": 0.1116492976674423,
     "CbGpPWpGaD": 0.2905260009792729,
     "CcSEcCtD": 0.5712981312163825,
     "CrCbGaD": 0.026526570136902343
   },
+  "n_trials": 0.0,
   "prediction": 0.0014594022848339,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

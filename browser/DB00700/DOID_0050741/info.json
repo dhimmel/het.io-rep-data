@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00700",
   "compound_name": "Eplerenone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.284785435630689,
   "metapath_contribution": {
     "CbGbCtD": 0.4706742313145675,
     "CbGeAlD": 0.0465547828136219,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3332380790288068,
     "CrCbGaD": 0.0025370060607533343
   },
+  "n_trials": 0.0,
   "prediction": 0.00153157895972569,
   "status": 0,
   "training_prediction": 0.00309678063413029

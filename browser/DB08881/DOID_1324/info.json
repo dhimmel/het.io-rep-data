@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.2119926747016793,
     "CbGbCtD": 0.17486913246101504,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0006443498019830898,
     "CtDrD": 0.24009114808135326
   },
+  "n_trials": 0.0,
   "prediction": 0.027884341021380002,
   "status": 0,
   "training_prediction": 0.14106017570300303

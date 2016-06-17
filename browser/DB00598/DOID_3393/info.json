@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00598",
   "compound_name": "Labetalol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.24749787524198508,
     "CbGbCtD": 0.27541032908258695,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0026884585786381408,
     "CrCrCtD": 0.3214521612208092
   },
+  "n_trials": 0.0,
   "prediction": 0.006053081122661261,
   "status": 0,
   "training_prediction": 0.0318032649102475

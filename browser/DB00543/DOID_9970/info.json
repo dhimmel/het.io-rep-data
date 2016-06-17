@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.33093497952363177,
     "CbGbCtD": 0.45520622781097747,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08608975618264643,
     "CrCbGaD": 0.0027593986017285213
   },
+  "n_trials": 0.0,
   "prediction": 0.007236589085105291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

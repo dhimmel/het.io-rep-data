@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.477243172951886,
   "metapath_contribution": {
     "CbGaD": 0.7539223654943433,
     "CbGpPWpGaD": 0.02953354056718044,
     "CcSEcCtD": 0.20905638258059403,
     "CrCbGaD": 0.007487711357882293
   },
+  "n_trials": 0.0,
   "prediction": 0.00164400038011951,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

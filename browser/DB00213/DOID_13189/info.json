@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.44583322318993296,
     "CbGbCtD": 0.3766602641839153,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15199604624492516,
     "CrCbGaD": 0.0036935821952477467
   },
+  "n_trials": 0.0,
   "prediction": 0.00662768570838612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

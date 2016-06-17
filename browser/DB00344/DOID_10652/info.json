@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00344",
   "compound_name": "Protriptyline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7126137841352409,
   "metapath_contribution": {
     "CbGaD": 0.5420360560080518,
     "CbGbCtD": 0.2649046344534183,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1546625864347424,
     "CrCbGaD": 0.005036150868523071
   },
+  "n_trials": 0.0,
   "prediction": 0.00258200992934634,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

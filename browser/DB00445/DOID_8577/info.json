@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00445",
   "compound_name": "Epirubicin",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.00325097529258778,
   "metapath_contribution": {
     "CbGdCrCtD": 0.012170775012592951,
     "CbGeAlD": 0.07215751584453803,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.6991194243115773,
     "CrCbGaD": 0.0008461363141716806
   },
+  "n_trials": 0.0,
   "prediction": 0.0005345838532861849,
   "status": 0,
   "training_prediction": 0.0155759681831435

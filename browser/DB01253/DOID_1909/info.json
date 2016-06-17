@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01253",
   "compound_name": "Ergonovine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.547464239271782,
   "metapath_contribution": {
     "CbGaD": 0.5372430186524101,
     "CbGbCtD": 0.3537685267080534,
     "CbGpPWpGaD": 0.09948132001580672,
     "CcSEcCtD": 0.009507134623729627
   },
+  "n_trials": 0.0,
   "prediction": 0.00155422093209711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

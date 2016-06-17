@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00209",
   "compound_name": "Trospium",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.19635890767230202,
   "metapath_contribution": {
     "CbGbCtD": 0.3231131399081167,
     "CbGpPWpGaD": 0.18101684553346753,
     "CcSEcCtD": 0.4956490448405708,
     "CrCbGaD": 0.00022096971784498902
   },
+  "n_trials": 0.0,
   "prediction": 0.0012581568485909,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

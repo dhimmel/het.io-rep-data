@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGaD": 0.43631725196339605,
     "CbGbCtD": 0.3161443064938061,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14823582754721948,
     "CrCbGaD": 0.0028255953693030085
   },
+  "n_trials": 0.0,
   "prediction": 0.00373818894112781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.23259046230965455,
     "CbGbCtD": 0.15482289660015694,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.002446469342770605,
     "CtDrD": 0.46549220739140135
   },
+  "n_trials": 0.0,
   "prediction": 0.00922257919392409,
   "status": 0,
   "training_prediction": 0.0293025423564227

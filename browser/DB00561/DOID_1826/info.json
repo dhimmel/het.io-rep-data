@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00561",
   "compound_name": "Doxapram",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.29216161320787826,
     "CbGeAlD": 0.013375643707131681,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.19834848385224535,
     "CrCtD": 0.3838776370790207
   },
+  "n_trials": 0.0,
   "prediction": 0.0246206219315123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

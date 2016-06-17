@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.715864759427828,
   "metapath_contribution": {
     "CbGaD": 0.7505344963685917,
     "CbGbCtD": 0.08994984390952966,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06480249993696513,
     "CrCbGaD": 0.0029883815742420762
   },
+  "n_trials": 0.0,
   "prediction": 0.0019541634447091103,
   "status": 0,
   "training_prediction": 0.0019277363967781602

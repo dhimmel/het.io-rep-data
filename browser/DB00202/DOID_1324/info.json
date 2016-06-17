@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00202",
   "compound_name": "Succinylcholine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.573472041612484,
   "metapath_contribution": {
     "CbGbCtD": 0.13314652350450415,
     "CbGeAlD": 0.13023626111096107,
     "CbGpPWpGaD": 0.4976303132456403,
     "CcSEcCtD": 0.23898690213889454
   },
+  "n_trials": 11.0,
   "prediction": 0.00208128249890738,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGaD": 0.7569314039509348,
     "CbGeAlD": 0.09096855474748915,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0678151885470535,
     "CrCbGaD": 0.007396034986557189
   },
+  "n_trials": 0.0,
   "prediction": 0.0023927359709181397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

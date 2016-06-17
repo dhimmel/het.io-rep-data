@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.171651495448635,
   "metapath_contribution": {
     "CbGbCtD": 0.7971114941962171,
     "CbGeAlD": 0.023709748591219246,
     "CbGpPWpGaD": 0.17621323804525232,
     "CrCbGaD": 0.002965519167311416
   },
+  "n_trials": 0.0,
   "prediction": 0.00140681895539274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.464889466840052,
   "metapath_contribution": {
     "CbGaD": 0.6391239538407545,
     "CbGbCtD": 0.08929307732610815,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.17458710565980728,
     "CrCbGaD": 0.009808668385802778
   },
+  "n_trials": 0.0,
   "prediction": 0.001480520717002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

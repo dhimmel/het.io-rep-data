@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8166449934980491,
   "metapath_contribution": {
-    "CbGbCtD": 0.2457183495157946,
+    "CbGbCtD": 0.24571834951579458,
     "CbGeAlD": 0.03523079018239795,
-    "CcSEcCtD": 0.12309316855436112,
-    "CpDpCtD": 0.5959576917474464
+    "CcSEcCtD": 0.1230931685543611,
+    "CpDpCtD": 0.5959576917474463
   },
+  "n_trials": 0.0,
   "prediction": 0.00334103236282715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

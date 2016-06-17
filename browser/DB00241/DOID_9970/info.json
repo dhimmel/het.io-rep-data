@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00241",
   "compound_name": "Butalbital",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.631989596879064,
   "metapath_contribution": {
     "CbGaD": 0.5054404727544136,
     "CbGbCtD": 0.360851652790974,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0768070640264469,
     "CrCbGaD": 0.00462669389117483
   },
+  "n_trials": 0.0,
   "prediction": 0.00323644685535646,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

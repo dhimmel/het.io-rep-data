@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00939",
   "compound_name": "Meclofenamic acid",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.640442132639792,
   "metapath_contribution": {
     "CbGaD": 0.9554178083272811,
     "CbGeAlD": 0.004544373244752346,
     "CbGpPWpGaD": 0.02972874497559562,
     "CrCbGaD": 0.010309073452370834
   },
+  "n_trials": 0.0,
   "prediction": 0.00152090949198406,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

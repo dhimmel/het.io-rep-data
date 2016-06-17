@@ -1,18 +1,20 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8296488946684009,
   "metapath_contribution": {
-    "CbGaD": 0.3173554363513399,
-    "CbGbCtD": 0.23710571069592234,
-    "CbGeAlD": 0.0515849349330397,
-    "CbGpPWpGaD": 0.07462116803006029,
-    "CcSEcCtD": 0.09037200781556419,
-    "CpDpCtD": 0.22620728971291343,
-    "CrCbGaD": 0.0027534524611600255
+    "CbGaD": 0.31735543635133995,
+    "CbGbCtD": 0.2371057106959224,
+    "CbGeAlD": 0.05158493493303971,
+    "CbGpPWpGaD": 0.0746211680300603,
+    "CcSEcCtD": 0.0903720078155642,
+    "CpDpCtD": 0.22620728971291348,
+    "CrCbGaD": 0.0027534524611600264
   },
+  "n_trials": 0.0,
   "prediction": 0.0115627833574565,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

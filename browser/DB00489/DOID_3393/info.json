@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00489",
   "compound_name": "Sotalol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7223667100130041,
   "metapath_contribution": {
     "CbGaD": 0.40095444651333184,
     "CbGbCtD": 0.32543280760875803,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17766864355774167,
     "CrCbGaD": 0.004434699948745731
   },
+  "n_trials": 1.0,
   "prediction": 0.0037118121533421,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

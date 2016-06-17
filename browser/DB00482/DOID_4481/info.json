@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
-    "CbGbCtD": 0.22298465527034506,
-    "CbGdCrCtD": 0.0019770755781923282,
-    "CbGeAlD": 0.031184201441621057,
-    "CbGpPWpGaD": 0.019285123461938877,
-    "CcSEcCtD": 0.12640273921091771,
-    "CpDpCtD": 0.5981662050369851
+    "CbGbCtD": 0.22298465527034503,
+    "CbGdCrCtD": 0.001977075578192328,
+    "CbGeAlD": 0.031184201441621054,
+    "CbGpPWpGaD": 0.019285123461938874,
+    "CcSEcCtD": 0.1264027392109177,
+    "CpDpCtD": 0.598166205036985
   },
+  "n_trials": 0.0,
   "prediction": 0.0054788274367742,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

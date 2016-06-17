@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.648244473342003,
   "metapath_contribution": {
     "CbGbCtD": 0.4328606451544857,
     "CbGeAlD": 0.12640818647361737,
     "CbGpPWpGaD": 0.2862257194774448,
     "CcSEcCtD": 0.15450544889445217
   },
+  "n_trials": 0.0,
   "prediction": 0.00185955994629168,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

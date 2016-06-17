@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00446",
   "compound_name": "Chloramphenicol",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGbCtD": 0.27472787487096784,
     "CbGeAlD": 0.13839768118122697,
     "CbGpPWpGaD": 0.5584538410927514,
     "CcSEcCtD": 0.028420602855053722
   },
+  "n_trials": 0.0,
   "prediction": 0.00216809289037989,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

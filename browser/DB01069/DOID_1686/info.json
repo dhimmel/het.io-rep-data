@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.232769830949285,
   "metapath_contribution": {
     "CbGbCtD": 0.6990929584548484,
     "CbGpPWpGaD": 0.08254203237383036,
     "CcSEcCtD": 0.21768947304071662,
     "CrCbGaD": 0.0006755361306046126
   },
+  "n_trials": 0.0,
   "prediction": 0.0012675952625319199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

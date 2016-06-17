@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGbCtD": 0.25171306194045795,
     "CbGdCrCtD": 0.0012814824942449048,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.001607235639100161,
     "CrCrCtD": 0.16486046178147162
   },
+  "n_trials": 0.0,
   "prediction": 0.0116257565873923,
   "status": 0,
   "training_prediction": 0.0273236503144741

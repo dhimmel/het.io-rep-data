@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.5780170484539282,
     "CbGbCtD": 0.3755982675602185,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0369581137076089,
     "CrCbGaD": 0.006159724382613101
   },
+  "n_trials": 0.0,
   "prediction": 0.00116870192240592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

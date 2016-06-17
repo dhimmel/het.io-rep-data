@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.419375812743823,
   "metapath_contribution": {
     "CbGaD": 0.3528735325647287,
     "CbGbCtD": 0.18656688978430377,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.25920388123898397,
     "CrCbGaD": 0.00012689895920022198
   },
+  "n_trials": 0.0,
   "prediction": 0.0019883474133311,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

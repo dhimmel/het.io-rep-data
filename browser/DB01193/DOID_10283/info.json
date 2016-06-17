@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01193",
   "compound_name": "Acebutolol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.513003901170351,
   "metapath_contribution": {
     "CbGaD": 0.4607326869952755,
     "CbGbCtD": 0.3146366455619295,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1694822397635498,
     "CrCbGaD": 0.003407257792211164
   },
+  "n_trials": 0.0,
   "prediction": 0.00234086544658932,
   "status": 0,
   "training_prediction": 0.0098916395624068

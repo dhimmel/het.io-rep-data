@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.579973992197659,
   "metapath_contribution": {
     "CbGaD": 0.7562105345712675,
     "CbGeAlD": 0.024742724530857144,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07334395572349026,
     "CrCbGaD": 0.010420119379396076
   },
+  "n_trials": 0.0,
   "prediction": 0.00169295364505643,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

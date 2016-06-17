@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
     "CbGaD": 0.5380580617024902,
     "CbGbCtD": 0.18898048760307692,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09167748141832238,
     "CcSEcCtD": 0.13050633562620134
   },
+  "n_trials": 0.0,
   "prediction": 0.00560673696744555,
   "status": 0,
   "training_prediction": 0.0518101865426291

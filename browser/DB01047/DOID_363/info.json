@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.224967490247074,
   "metapath_contribution": {
     "CbGbCtD": 0.4386692806646788,
     "CbGeAlD": 0.05161515843572856,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.00205258422609524,
     "CrCrCtD": 0.4350123793910938
   },
+  "n_trials": 0.0,
   "prediction": 0.00115610777644825,
   "status": 0,
   "training_prediction": 0.00351885157124451

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00880",
   "compound_name": "Chlorothiazide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.19475749495788716,
     "CbGbCtD": 0.2342397793730144,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.1862819888032881,
     "CrCtD": 0.32309903805663526
   },
+  "n_trials": 0.0,
   "prediction": 0.0371893963534041,
   "status": 0,
   "training_prediction": 0.141235433868288

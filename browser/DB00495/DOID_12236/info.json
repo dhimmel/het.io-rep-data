@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGaD": 0.36417545138148666,
     "CbGbCtD": 0.4516622316276148,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05670735146800439,
     "CcSEcCtD": 0.11531265226051728
   },
+  "n_trials": 0.0,
   "prediction": 0.00338648057960755,
   "status": 0,
   "training_prediction": 0.0033407484871777397

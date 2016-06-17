@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00344",
   "compound_name": "Protriptyline",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.5273081924577371,
   "metapath_contribution": {
     "CbGaD": 0.8673720118950481,
     "CbGeAlD": 0.05822975657660589,
     "CbGpPWpGaD": 0.06351385255154288,
     "CrCbGaD": 0.010884378976803185
   },
+  "n_trials": 0.0,
   "prediction": 0.00161487989776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

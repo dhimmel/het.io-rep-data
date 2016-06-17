@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00359",
   "compound_name": "Sulfadiazine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGbCtD": 0.14960158764573636,
     "CcSEcCtD": 0.05607736215005998,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.2041615586761882,
     "CrCtD": 0.5890067501844586
   },
+  "n_trials": 0.0,
   "prediction": 0.00520294228437675,
   "status": 0,
   "training_prediction": 0.0167707501602763

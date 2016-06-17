@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.6417396773773648,
     "CbGbCtD": 0.19997156674217412,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.032658953972718265,
     "CrCbGaD": 0.001943970677887677
   },
+  "n_trials": 0.0,
   "prediction": 0.00311654915190727,
   "status": 0,
   "training_prediction": 0.00234500528986053

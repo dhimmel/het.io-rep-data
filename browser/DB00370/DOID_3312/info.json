@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.7746578934784225,
     "CbGeAlD": 0.07545041167147985,
     "CbGpPWpGaD": 0.1467663780231412,
     "CrCbGaD": 0.0031253168269563814
   },
+  "n_trials": 0.0,
   "prediction": 0.00358700334964122,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

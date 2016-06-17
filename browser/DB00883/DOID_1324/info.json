@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00883",
   "compound_name": "Isosorbide Dinitrate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.641742522756827,
   "metapath_contribution": {
     "CbGaD": 0.5317595918819741,
     "CbGbCtD": 0.2228135891413123,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07512981429384073,
     "CcSEcCtD": 0.10146685179266418
   },
+  "n_trials": 0.0,
   "prediction": 0.00230737463981494,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

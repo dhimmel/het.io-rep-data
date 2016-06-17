@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.46879063719115704,
   "metapath_contribution": {
     "CbGbCtD": 0.15795289283525768,
     "CbGeAlD": 0.3961195728368207,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.312144030150903,
     "CrCbGaD": 0.03848693669945666
   },
+  "n_trials": 0.0,
   "prediction": 0.00163248174884693,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

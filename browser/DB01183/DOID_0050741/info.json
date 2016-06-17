@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.1436248449374402,
     "CbGbCtD": 0.10810347889450748,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1491962922964686,
     "CrCtD": 0.22145777216969553
   },
+  "n_trials": 0.0,
   "prediction": 0.40181448602470793,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

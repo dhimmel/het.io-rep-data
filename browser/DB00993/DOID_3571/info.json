@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.7297685409894894,
     "CbGbCtD": 0.09277839247046818,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10764882598439444,
     "CcSEcCtD": 0.05104369037912139
   },
+  "n_trials": 0.0,
   "prediction": 0.0042625071885550895,
   "status": 0,
   "training_prediction": 0.0164560212357701

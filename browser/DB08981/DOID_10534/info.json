@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08981",
   "compound_name": "Fenbufen",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.271131339401821,
   "metapath_contribution": {
     "CbGaD": 0.9047188835815081,
     "CbGeAlD": 0.011087234736834286,
     "CbGpPWpGaD": 0.07098219619312755,
     "CrCbGaD": 0.013211685488529983
   },
+  "n_trials": 0.0,
   "prediction": 0.0010597400462960401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

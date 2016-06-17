@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01011",
   "compound_name": "Metyrapone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.17587663889013916,
     "CbGbCtD": 0.15883945088533477,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.20250212150557936,
     "CrCtD": 0.4017066693376032
   },
+  "n_trials": 0.0,
   "prediction": 0.0500859599661813,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

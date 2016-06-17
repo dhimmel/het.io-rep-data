@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00230",
   "compound_name": "Pregabalin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.21879837151428863,
     "CbGbCtD": 0.20207619211662384,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.21456570430209607,
     "CtDrD": 0.28793871531673965
   },
+  "n_trials": 0.0,
   "prediction": 0.10887224456494099,
   "status": 0,
   "training_prediction": 0.182659641765178

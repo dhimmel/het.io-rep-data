@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00593",
   "compound_name": "Ethosuximide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7951885565669699,
   "metapath_contribution": {
     "CbGaD": 0.32962178364255673,
     "CbGbCtD": 0.4530581760348683,
     "CbGpPWpGaD": 0.0982269881945485,
     "CcSEcCtD": 0.11909305212802643
   },
+  "n_trials": 0.0,
   "prediction": 0.00332390520666037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

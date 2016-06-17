@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.615084525357607,
   "metapath_contribution": {
-    "CbGaD": 0.7082801965560059,
-    "CbGeAlD": 0.02969938733669462,
-    "CbGpPWpGaD": 0.05490831177505196,
-    "CcSEcCtD": 0.19554259687041148,
-    "CrCbGaD": 0.011569507461835951
+    "CbGaD": 0.708280196556006,
+    "CbGeAlD": 0.029699387336694628,
+    "CbGpPWpGaD": 0.054908311775051975,
+    "CcSEcCtD": 0.1955425968704115,
+    "CrCbGaD": 0.011569507461835953
   },
+  "n_trials": 0.0,
   "prediction": 0.0017167152368840401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

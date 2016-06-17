@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGbCtD": 0.2771387735500188,
     "CbGeAlD": 0.0051510000933147095,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.3045401326440653,
     "CrCtD": 0.34583534111316383
   },
+  "n_trials": 0.0,
   "prediction": 0.0132585743234672,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

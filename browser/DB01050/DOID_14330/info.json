@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.181404421326398,
   "metapath_contribution": {
-    "CbGaD": 0.4126921274600422,
-    "CbGeAlD": 0.1448485574350662,
-    "CbGpPWpGaD": 0.42607298643229197,
-    "CrCbGaD": 0.016386328672599555
+    "CbGaD": 0.41269212746004225,
+    "CbGeAlD": 0.14484855743506622,
+    "CbGpPWpGaD": 0.4260729864322921,
+    "CrCbGaD": 0.016386328672599558
   },
+  "n_trials": 0.0,
   "prediction": 0.000870137120894423,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

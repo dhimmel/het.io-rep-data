@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00206",
   "compound_name": "Reserpine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGbCtD": 0.40609364848026464,
     "CbGeAlD": 0.030982780189478892,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0018408267049336588,
     "CrCrCtD": 0.5228029502098126
   },
+  "n_trials": 0.0,
   "prediction": 0.0045859708492218204,
   "status": 0,
   "training_prediction": 0.00835690330433338

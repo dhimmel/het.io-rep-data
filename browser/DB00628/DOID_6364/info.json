@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00628",
   "compound_name": "Clorazepate",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.347204161248374,
   "metapath_contribution": {
     "CbGbCtD": 0.45484599460430447,
     "CbGeAlD": 0.034406437599134546,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004004344144678087,
     "CrCrCtD": 0.3374890705905993
   },
+  "n_trials": 0.0,
   "prediction": 0.00203033986814953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
     "CbGaD": 0.17805699727917013,
     "CbGbCtD": 0.17491782138474088,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.002293269954222275,
     "CrCrCtD": 0.14750527409900188
   },
+  "n_trials": 0.0,
   "prediction": 0.00585137354079255,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.35110533159948,
   "metapath_contribution": {
     "CbGaD": 0.7928882327618176,
     "CbGeAlD": 0.059570194282889934,
     "CbGpPWpGaD": 0.14307216096671474,
     "CrCbGaD": 0.004469411988577759
   },
+  "n_trials": 0.0,
   "prediction": 0.0010016120119501599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

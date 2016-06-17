@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.7399219765929781,
   "metapath_contribution": {
     "CbGbCtD": 0.7910408808688724,
     "CbGeAlD": 0.11521947943436105,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06833717481631991,
     "CrCbGaD": 0.005166704542373961
   },
+  "n_trials": 0.0,
   "prediction": 0.00218597326772961,
   "status": 0,
   "training_prediction": 0.0055305864959238

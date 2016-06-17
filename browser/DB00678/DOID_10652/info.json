@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.462938881664499,
   "metapath_contribution": {
     "CbGaD": 0.3954636580613192,
     "CbGbCtD": 0.23993502845790465,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.238817154226418,
     "CrCbGaD": 0.002963711849707562
   },
+  "n_trials": 0.0,
   "prediction": 0.00174155007645372,
   "status": 0,
   "training_prediction": 0.00478466190312927

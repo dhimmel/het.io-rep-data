@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.4748774554702879,
     "CbGbCtD": 0.364842942580524,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08076900721187617,
     "CrCbGaD": 0.003267573149579401
   },
+  "n_trials": 0.0,
   "prediction": 0.00699882368123357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

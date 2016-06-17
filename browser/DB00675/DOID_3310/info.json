@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGbCtD": 0.24466972789202923,
     "CbGdCrCtD": 0.0014194723579585,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.28477932474420475,
     "CrCtD": 0.3890570817355589
   },
+  "n_trials": 0.0,
   "prediction": 0.00998820394647789,
   "status": 0,
   "training_prediction": 0.0546082281264069

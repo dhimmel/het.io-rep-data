@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.818595578673602,
   "metapath_contribution": {
     "CbGaD": 0.12486246133787215,
     "CbGbCtD": 0.25888339102484553,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.45996769986043534,
     "CrCbGaD": 0.00035207117432189494
   },
+  "n_trials": 0.0,
   "prediction": 0.00933699936269544,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.35630689206762,
   "metapath_contribution": {
     "CbGaD": 0.13351894295355227,
     "CbGbCtD": 0.4956290630841489,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3046670709377475,
     "CrCbGaD": 0.0021657654658522323
   },
+  "n_trials": 0.0,
   "prediction": 0.00243261602501933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

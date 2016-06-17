@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00194",
   "compound_name": "Vidarabine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6820546163849152,
   "metapath_contribution": {
     "CbGaD": 0.36750413325001596,
     "CbGbCtD": 0.45647001446338065,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08785984884781205,
     "CrCbGaD": 0.004044375566640948
   },
+  "n_trials": 0.0,
   "prediction": 0.0036709221622594898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

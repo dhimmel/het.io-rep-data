@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.264705882352941,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.076072821846554,
   "metapath_contribution": {
     "CbGaD": 0.7704934402408262,
     "CbGpPWpGaD": 0.08609146111279958,
     "CcSEcCtD": 0.136368898760352,
     "CrCbGaD": 0.007046199886022148
   },
+  "n_trials": 0.0,
   "prediction": 0.000742564760834751,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

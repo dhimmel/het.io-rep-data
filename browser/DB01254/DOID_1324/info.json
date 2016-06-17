@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.3281593491659417,
     "CbGbCtD": 0.43245452112980937,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.10186845775512411,
     "CcSEcCtD": 0.08732542030264662
   },
+  "n_trials": 0.0,
   "prediction": 0.0228114617055161,
   "status": 0,
   "training_prediction": 0.0741389349605234

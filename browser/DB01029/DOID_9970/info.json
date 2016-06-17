@@ -1,16 +1,19 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.756827048114434,
   "metapath_contribution": {
-    "CbGbCtD": 0.2435377885773246,
-    "CbGeAlD": 0.02080840969469075,
-    "CbGpPWpGaD": 0.08543429451479183,
-    "CcSEcCtD": 0.09580353812441902,
-    "CrCbGaD": 0.0002530242236704434,
-    "CtDrD": 0.5541629448651033
+    "CbGbCtD": 0.24353778857732464,
+    "CbGeAlD": 0.020808409694690753,
+    "CbGpPWpGaD": 0.08543429451479184,
+    "CcSEcCtD": 0.09580353812441904,
+    "CrCbGaD": 0.00025302422367044346,
+    "CtDrD": 0.5541629448651034
   },
+  "n_trials": 1.0,
   "prediction": 0.00453571064852509,
   "status": 0,
   "training_prediction": 0.0191494630733448

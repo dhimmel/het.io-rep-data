@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.673602080624187,
   "metapath_contribution": {
     "CbGbCtD": 0.4225341418340666,
     "CbGdCrCtD": 0.003477208349482034,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16427017191490498,
     "CpDpCtD": 0.40350386235092767
   },
+  "n_trials": 0.0,
   "prediction": 0.0023905999363469698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

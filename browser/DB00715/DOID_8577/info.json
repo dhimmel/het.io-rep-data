@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00715",
   "compound_name": "Paroxetine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8511053315994799,
   "metapath_contribution": {
     "CbGaD": 0.2362764647290768,
     "CbGbCtD": 0.39928297503521976,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06614245882884577,
     "CcSEcCtD": 0.2669730585603391
   },
+  "n_trials": 0.0,
   "prediction": 0.00431417530666583,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

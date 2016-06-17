@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
     "CbGaD": 0.24093405706782003,
     "CbGbCtD": 0.45873348233250366,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09724718379349313,
     "CcSEcCtD": 0.18578816415314578
   },
+  "n_trials": 0.0,
   "prediction": 0.00703149084751172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

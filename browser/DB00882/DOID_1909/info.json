@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6235370611183361,
   "metapath_contribution": {
     "CbGaD": 0.18861627031525874,
     "CbGbCtD": 0.5106885375375991,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18665740423103144,
     "CrCbGaD": 0.002274705283168927
   },
+  "n_trials": 0.0,
   "prediction": 0.00173721022137138,
   "status": 0,
   "training_prediction": 0.0031731432235322103

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00446",
   "compound_name": "Chloramphenicol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.756176853055917,
   "metapath_contribution": {
     "CbGaD": 0.1889397827152461,
     "CbGbCtD": 0.6086693168929049,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.053687914984381246,
     "CcSEcCtD": 0.1460814280379499
   },
+  "n_trials": 0.0,
   "prediction": 0.00689243967175735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01337",
   "compound_name": "Pancuronium",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6170351105331601,
   "metapath_contribution": {
     "CbGbCtD": 0.42192094038103545,
     "CbGeAlD": 0.08376032037756545,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1754535331795427,
     "CrCbGaD": 5.739404286918461e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0022166313736018,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

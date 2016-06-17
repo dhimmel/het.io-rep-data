@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.24187256176853103,
   "metapath_contribution": {
     "CbGaD": 0.5739445914369268,
     "CbGbCtD": 0.03662745938912732,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.2646670803219305,
     "CrCbGaD": 0.0042351213415113475
   },
+  "n_trials": 0.0,
   "prediction": 0.00104362909295353,
   "status": 0,
   "training_prediction": 0.00337657084842418

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01083",
   "compound_name": "Orlistat",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.3669775705337875,
     "CbGbCtD": 0.01943225422296916,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0027506590558401497,
     "CtDrD": 0.45086943818304764
   },
+  "n_trials": 0.0,
   "prediction": 0.0135189900496611,
   "status": 0,
   "training_prediction": 0.0359509383826307

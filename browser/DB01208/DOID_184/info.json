@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.639141742522757,
   "metapath_contribution": {
     "CbGbCtD": 0.8029790165872991,
     "CbGdCrCtD": 0.004835942051233519,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14916556670747386,
     "CrCbGaD": 0.0007814219363115198
   },
+  "n_trials": 0.0,
   "prediction": 0.00188554159729205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

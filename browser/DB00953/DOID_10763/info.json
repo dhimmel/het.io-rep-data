@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00953",
   "compound_name": "Rizatriptan",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.546163849154746,
   "metapath_contribution": {
     "CbGaD": 0.2469789128306636,
     "CbGbCtD": 0.41488398542230576,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20330922214228037,
     "CrCbGaD": 0.003231717116265206
   },
+  "n_trials": 0.0,
   "prediction": 0.004391840080222371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.49349804941482395,
   "metapath_contribution": {
     "CbGaD": 0.8612266528184221,
     "CbGpPWpGaD": 0.027905690748907586,
     "CcSEcCtD": 0.10598797868123606,
     "CrCbGaD": 0.004879677751434295
   },
+  "n_trials": 0.0,
   "prediction": 0.00180259706294455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

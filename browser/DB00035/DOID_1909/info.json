@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGaD": 0.518933506759618,
     "CbGeAlD": 0.006035493957316533,
     "CbGpPWpGaD": 0.27839234390430656,
     "CcSEcCtD": 0.1966386553787589
   },
+  "n_trials": 0.0,
   "prediction": 0.00161654704610891,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

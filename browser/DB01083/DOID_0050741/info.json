@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01083",
   "compound_name": "Orlistat",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.5481144343302989,
   "metapath_contribution": {
     "CbGbCtD": 0.03806986348150855,
     "CbGeAlD": 0.2630529855939073,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5121934418359099,
     "CrCbGaD": 0.005159899421817482
   },
+  "n_trials": 0.0,
   "prediction": 0.00229686439815887,
   "status": 0,
   "training_prediction": 0.00464051695397656

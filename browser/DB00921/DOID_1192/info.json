@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGaD": 0.2120029674745806,
     "CbGbCtD": 0.5907435511812282,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1876205800906198,
     "CrCbGaD": 0.0004936204568256764
   },
+  "n_trials": 0.0,
   "prediction": 0.0033283126468066897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

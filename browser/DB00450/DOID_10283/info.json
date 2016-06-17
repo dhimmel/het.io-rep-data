@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00450",
   "compound_name": "Droperidol",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.135240572171652,
   "metapath_contribution": {
     "CbGeAlD": 0.020781904714317994,
     "CbGpPWpGaD": 0.16258123023873106,
     "CcSEcCtD": 0.7893440411223399,
     "CrCbGaD": 0.027292823924611104
   },
+  "n_trials": 0.0,
   "prediction": 0.00101087292652831,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

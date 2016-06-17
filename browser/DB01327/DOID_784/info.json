@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.29778933680103997,
   "metapath_contribution": {
     "CbGaD": 0.6497547603156206,
     "CbGeAlD": 0.1676126744482316,
     "CbGpPWpGaD": 0.17625745442563945,
     "CrCbGaD": 0.006375110810508306
   },
+  "n_trials": 0.0,
   "prediction": 0.00118974205807271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

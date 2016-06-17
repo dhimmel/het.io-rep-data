@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01156",
   "compound_name": "Bupropion",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGaD": 0.3044173624590714,
     "CbGbCtD": 0.4141293501548448,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09284091711637646,
     "CcSEcCtD": 0.17129467295355133
   },
+  "n_trials": 0.0,
   "prediction": 0.00587497658442481,
   "status": 0,
   "training_prediction": 0.0245450344273019

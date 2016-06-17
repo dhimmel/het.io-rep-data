@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.350455136540962,
   "metapath_contribution": {
     "CbGaD": 0.5599525578183051,
     "CbGbCtD": 0.0034475518238126024,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3267630909569419,
     "CrCbGaD": 0.007328169942758331
   },
+  "n_trials": 3.0,
   "prediction": 0.00142363103534924,
   "status": 0,
   "training_prediction": 0.0017280198419802801

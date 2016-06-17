@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.0604681404421326,
   "metapath_contribution": {
     "CbGbCtD": 0.5635604963090853,
     "CbGeAlD": 0.12469255022401084,
     "CbGpPWpGaD": 0.030675918879067256,
     "CcSEcCtD": 0.28107103458783644
   },
+  "n_trials": 0.0,
   "prediction": 0.000863989702151424,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

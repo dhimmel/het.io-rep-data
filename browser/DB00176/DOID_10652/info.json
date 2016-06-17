@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.3036357473280326,
     "CbGbCtD": 0.4398554617525889,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04808984636306026,
     "CcSEcCtD": 0.2015425521779992
   },
+  "n_trials": 0.0,
   "prediction": 0.00654666095961387,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.0994881990579844,
     "CbGbCtD": 0.16166527969830458,
@@ -15,7 +17,7 @@
     "CrCbGaD": 0.0016435700763128853,
     "CrCrCtD": 0.15775745519217943
   },
+  "n_trials": 1.0,
   "prediction": 0.0999193655986914,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

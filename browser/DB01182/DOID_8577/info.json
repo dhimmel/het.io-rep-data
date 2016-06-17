@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7594278283485051,
   "metapath_contribution": {
     "CbGaD": 0.20099306830575492,
     "CbGbCtD": 0.3531922360388772,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.005187498122747612,
     "CrCrCtD": 0.2903162974721858
   },
+  "n_trials": 0.0,
   "prediction": 0.00316618057239439,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

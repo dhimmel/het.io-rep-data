@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGaD": 0.5643152950082315,
     "CbGeAlD": 0.16959720090800312,
     "CbGpPWpGaD": 0.2615834818824608,
     "CrCbGaD": 0.004504022201304496
   },
+  "n_trials": 0.0,
   "prediction": 0.00173581514823791,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

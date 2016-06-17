@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00692",
   "compound_name": "Phentolamine",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.278933680104031,
   "metapath_contribution": {
     "CbGdCrCtD": 0.01730271005915158,
     "CbGeAlD": 0.23488484738749402,
     "CbGpPWpGaD": 0.1996036539737839,
     "CcSEcCtD": 0.5482087885795706
   },
+  "n_trials": 1.0,
   "prediction": 0.00145170382180382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

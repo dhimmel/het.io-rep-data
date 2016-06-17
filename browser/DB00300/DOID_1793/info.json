@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.7529258777633292,
   "metapath_contribution": {
     "CbGbCtD": 0.7350558349505869,
     "CbGdCrCtD": 0.003924141027037951,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16177743611403064,
     "CrCbGaD": 0.01027258276262131
   },
+  "n_trials": 0.0,
   "prediction": 0.00247115923177605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

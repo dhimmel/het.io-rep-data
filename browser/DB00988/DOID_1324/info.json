@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.11963589076723,
   "metapath_contribution": {
     "CbGbCtD": 0.537836964272702,
     "CbGeAlD": 0.04662535538141105,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12477386956278613,
     "CrCbGaD": 0.005198297641215469
   },
+  "n_trials": 0.0,
   "prediction": 0.000849073490754427,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.5643671915713625,
     "CbGbCtD": 0.2674027153283903,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06698886903065536,
     "CcSEcCtD": 0.09582742780713352
   },
+  "n_trials": 1.0,
   "prediction": 0.00547013064581265,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

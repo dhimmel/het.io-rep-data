@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00343",
   "compound_name": "Diltiazem",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.06424189780832798,
     "CbGbCtD": 0.27420264514447407,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.16504693143121765,
     "CtDrD": 0.36090355580545824
   },
+  "n_trials": 0.0,
   "prediction": 0.0066781273252527395,
   "status": 0,
   "training_prediction": 0.0288728090884909

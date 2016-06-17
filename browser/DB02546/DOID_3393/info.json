@@ -1,8 +1,10 @@
 {
   "compound_id": "DB02546",
   "compound_name": "Vorinostat",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8894668400520159,
   "metapath_contribution": {
     "CbGaD": 0.45744574436567714,
     "CbGbCtD": 0.20831010267333563,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.16012278783810865,
     "CcSEcCtD": 0.12032592147557108
   },
+  "n_trials": 0.0,
   "prediction": 0.007303045952115,
   "status": 0,
   "training_prediction": 0.0381664744857951

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGbCtD": 0.08214370888688965,
     "CbGdCrCtD": 0.0004794876570239556,
@@ -13,6 +15,7 @@
     "CrCtD": 0.22312317356639058,
     "CtDrD": 0.23819834818130584
   },
+  "n_trials": 0.0,
   "prediction": 0.0300472236434254,
   "status": 0,
   "training_prediction": 0.33490009833784

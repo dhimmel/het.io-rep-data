@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.184005201560468,
   "metapath_contribution": {
     "CbGaD": 0.7356839690530846,
     "CbGeAlD": 0.11500483317933861,
     "CbGpPWpGaD": 0.13932117136389377,
     "CcSEcCtD": 0.00999002640368287
   },
+  "n_trials": 0.0,
   "prediction": 0.000882949507411214,
   "status": 0,
   "training_prediction": 0.0015770283290531802

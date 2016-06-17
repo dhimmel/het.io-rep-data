@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01025",
   "compound_name": "Amlexanox",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGdCrCtD": 0.013769654523249132,
     "CbGeAlD": 0.24854392146029836,
     "CbGpPWpGaD": 0.5251651941823969,
     "CcSEcCtD": 0.2125212298340557
   },
+  "n_trials": 2.0,
   "prediction": 0.00235785890526707,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00961",
   "compound_name": "Mepivacaine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGaD": 0.585703118072484,
     "CbGbCtD": 0.23004144102083385,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07961727884945206,
     "CrCbGaD": 0.004353480874065354
   },
+  "n_trials": 0.0,
   "prediction": 0.005392897166419571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

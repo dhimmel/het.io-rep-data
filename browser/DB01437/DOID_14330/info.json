@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01437",
   "compound_name": "Glutethimide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.726918075422627,
   "metapath_contribution": {
     "CbGaD": 0.820897965293222,
     "CbGeAlD": 0.05513560484813465,
     "CbGpPWpGaD": 0.11144953876972301,
     "CrCbGaD": 0.012516891088920264
   },
+  "n_trials": 0.0,
   "prediction": 0.0019115651725613101,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

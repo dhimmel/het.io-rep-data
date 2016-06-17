@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00198",
   "compound_name": "Oseltamivir",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGbCtD": 0.5001828347666664,
     "CbGeAlD": 0.0876390028984241,
     "CbGpPWpGaD": 0.14502820637347608,
     "CcSEcCtD": 0.2671499559614336
   },
+  "n_trials": 0.0,
   "prediction": 0.003961915066529279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

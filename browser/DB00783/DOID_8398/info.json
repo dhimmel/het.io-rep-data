@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.23422617569742438,
     "CbGpPWpGaD": 0.015066019472775659,
     "CrCbGaD": 0.003796848667146513,
     "CtDrD": 0.7469109561626535
   },
+  "n_trials": 0.0,
   "prediction": 0.0023039442306868898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

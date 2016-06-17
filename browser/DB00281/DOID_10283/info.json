@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.788036410923277,
   "metapath_contribution": {
     "CbGaD": 0.2953896007211705,
     "CbGbCtD": 0.30218678445055264,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.223824163974491,
     "CrCbGaD": 0.0014138868155622708
   },
+  "n_trials": 2.0,
   "prediction": 0.004561093406894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

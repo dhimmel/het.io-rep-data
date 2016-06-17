@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.2971610842668881,
     "CbGbCtD": 0.2895297147920439,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.24255750022233183,
     "CrCbGaD": 0.0003510274689793583
   },
+  "n_trials": 4.0,
   "prediction": 0.0149775528675924,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

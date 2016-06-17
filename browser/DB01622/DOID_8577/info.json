@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.13849154746423903,
   "metapath_contribution": {
     "CbGaD": 0.6733283702423729,
     "CbGbCtD": 0.17571009219559813,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12358868629742407,
     "CrCbGaD": 0.010903976171151353
   },
+  "n_trials": 0.0,
   "prediction": 0.00112034073310295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

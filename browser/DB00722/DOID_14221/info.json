@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGaD": 0.30554624188956425,
     "CbGeAlD": 0.04257237257890619,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.003134941542925755,
     "CtDrD": 0.5834914974424821
   },
+  "n_trials": 0.0,
   "prediction": 0.0065549855325953395,
   "status": 0,
   "training_prediction": 0.00837951139853592

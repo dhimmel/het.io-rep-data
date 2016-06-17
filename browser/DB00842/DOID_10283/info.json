@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00842",
   "compound_name": "Oxazepam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.626788036410923,
   "metapath_contribution": {
     "CbGaD": 0.5542971269561434,
     "CbGbCtD": 0.2490543849156318,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07533358054061345,
     "CrCbGaD": 0.002977885947831078
   },
+  "n_trials": 0.0,
   "prediction": 0.00295084228083925,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

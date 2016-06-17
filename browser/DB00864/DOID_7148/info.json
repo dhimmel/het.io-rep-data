@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.545513654096229,
   "metapath_contribution": {
     "CbGaD": 0.12232614006919058,
     "CbGbCtD": 0.5823967784920502,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09675092188735301,
     "CcSEcCtD": 0.18105438050910877
   },
+  "n_trials": 8.0,
   "prediction": 0.0019109458822500602,
   "status": 0,
   "training_prediction": 0.00620524564491376

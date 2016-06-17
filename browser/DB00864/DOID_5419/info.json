@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.117685305591678,
   "metapath_contribution": {
     "CbGaD": 0.4417230539454045,
     "CbGeAlD": 0.22937846172440646,
     "CbGpPWpGaD": 0.32510883987768413,
     "CrCbGaD": 0.0037896444525048795
   },
+  "n_trials": 0.0,
   "prediction": 0.000809308842303857,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

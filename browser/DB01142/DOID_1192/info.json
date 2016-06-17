@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGaD": 0.28311772479160574,
     "CbGbCtD": 0.3011330097045966,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3122596413864517,
     "CrCbGaD": 0.0034364538598081634
   },
+  "n_trials": 0.0,
   "prediction": 0.0017309833515530002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

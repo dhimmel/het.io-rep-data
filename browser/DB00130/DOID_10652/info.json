@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.3524057217165151,
   "metapath_contribution": {
     "CbGeAlD": 0.28020266887877016,
     "CbGpPWpGaD": 0.32962092369926294,
     "CcSEcCtD": 0.38246399187039853,
     "CrCbGaD": 0.007712415551568365
   },
+  "n_trials": 0.0,
   "prediction": 0.0014272445374637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00671",
   "compound_name": "Cefixime",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.697009102730819,
   "metapath_contribution": {
     "CbGaD": 0.7496972951088081,
     "CbGbCtD": 0.17579303894008788,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06591283211211729,
     "CrCbGaD": 0.006409096177509175
   },
+  "n_trials": 0.0,
   "prediction": 0.00195025195349812,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

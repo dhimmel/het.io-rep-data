@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.844603381014304,
   "metapath_contribution": {
     "CbGaD": 0.5381542281801933,
     "CbGbCtD": 0.2767027913714697,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12324573856018904,
     "CrCbGaD": 0.0024237781347364864
   },
+  "n_trials": 0.0,
   "prediction": 0.00540402376975079,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

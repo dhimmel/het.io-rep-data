@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01582",
   "compound_name": "Sulfamethazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.16824078775441362,
     "CbGbCtD": 0.0745445436448404,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.31362958344358555,
     "CrCtD": 0.44243700028486244
   },
+  "n_trials": 0.0,
   "prediction": 0.00941927647810735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.28727094220738114,
     "CbGbCtD": 0.4721295809662536,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2303898476496966,
     "CrCbGaD": 0.004008281651515352
   },
+  "n_trials": 0.0,
   "prediction": 0.0018051801787894802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

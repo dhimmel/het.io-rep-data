@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00673",
   "compound_name": "Aprepitant",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.25783311217044996,
     "CbGbCtD": 0.2561286449478477,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.31416775857603185,
     "CrCbGaD": 0.003213997724277506
   },
+  "n_trials": 0.0,
   "prediction": 0.0119762668170741,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.785435630689207,
   "metapath_contribution": {
     "CbGaD": 0.5601944148222555,
     "CbGbCtD": 0.21675810934417136,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0856104594335422,
     "CrCbGaD": 0.0035897067363200386
   },
+  "n_trials": 0.0,
   "prediction": 0.00220513572488915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

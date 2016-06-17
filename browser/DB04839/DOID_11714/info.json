@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04839",
   "compound_name": "Cyproterone acetate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.9690181978719322,
     "CbGpPWpGaD": 0.001491463024043524,
     "CcSEcCtD": 0.02564126621801372,
     "CrCbGaD": 0.003849072886010472
   },
+  "n_trials": 0.0,
   "prediction": 0.0038177503428358703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

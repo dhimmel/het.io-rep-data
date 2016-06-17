@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.280884265279584,
   "metapath_contribution": {
     "CbGaD": 0.8643584057098295,
     "CbGeAlD": 0.03624401079364949,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.01560732415201837,
     "CrCbGaD": 0.01678222910890179
   },
+  "n_trials": 0.0,
   "prediction": 0.0010290118243525199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

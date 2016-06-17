@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
     "CbGbCtD": 0.5094067365881446,
     "CbGeAlD": 0.0770913436908656,
     "CbGpPWpGaD": 0.02239319387335761,
     "CcSEcCtD": 0.3911087258476322
   },
+  "n_trials": 0.0,
   "prediction": 0.00130743318371544,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

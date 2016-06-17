@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.29388872611969263,
     "CbGbCtD": 0.3510164969390652,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0006392778182945251,
     "CrCrCtD": 0.3073158250992164
   },
+  "n_trials": 0.0,
   "prediction": 0.0054458691569196,
   "status": 0,
   "training_prediction": 0.0199278421023947

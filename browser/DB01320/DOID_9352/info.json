@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01320",
   "compound_name": "Fosphenytoin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.631339401820546,
   "metapath_contribution": {
     "CbGaD": 0.25264817153063696,
     "CbGbCtD": 0.5491905644335612,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1374129780714367,
     "CrCbGaD": 0.0009478588881526782
   },
+  "n_trials": 0.0,
   "prediction": 0.00322288457330086,
   "status": 0,
   "training_prediction": 0.0140970771232705

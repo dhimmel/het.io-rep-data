@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.08461892488312107,
     "CbGdCrCtD": 0.00036786347203530083,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.15541185259563403,
     "CrCtD": 0.2568311459594292
   },
+  "n_trials": 0.0,
   "prediction": 0.22166840622103198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

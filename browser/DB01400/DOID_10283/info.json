@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01400",
   "compound_name": "Neostigmine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6820546163849152,
   "metapath_contribution": {
     "CbGaD": 0.5032584801139918,
     "CbGbCtD": 0.27939493053302716,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14703698310518443,
     "CrCbGaD": 0.0061240840066450995
   },
+  "n_trials": 0.0,
   "prediction": 0.00334513410710536,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.626788036410923,
   "metapath_contribution": {
     "CbGbCtD": 0.31548705303363705,
     "CbGeAlD": 0.01386883319113549,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0008035940259009485,
     "CrCrCtD": 0.2165192878318277
   },
+  "n_trials": 1.0,
   "prediction": 0.00226533233360036,
   "status": 0,
   "training_prediction": 0.010940673548874999

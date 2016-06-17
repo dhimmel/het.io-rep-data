@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00325",
   "compound_name": "Nitroprusside",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.871911573472042,
   "metapath_contribution": {
     "CbGbCtD": 0.760155159814201,
     "CbGeAlD": 0.07622514906239083,
     "CbGpPWpGaD": 0.16361969112340816
   },
+  "n_trials": 0.0,
   "prediction": 0.0026660108117765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

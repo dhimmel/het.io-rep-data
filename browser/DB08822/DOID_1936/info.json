@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08822",
   "compound_name": "Azilsartan medoxomil",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.570221066319896,
   "metapath_contribution": {
     "CbGaD": 0.8387903593998773,
     "CbGeAlD": 0.023675027929625864,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07579365520717259,
     "CrCbGaD": 0.006788322181427393
   },
+  "n_trials": 0.0,
   "prediction": 0.00206159359470227,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

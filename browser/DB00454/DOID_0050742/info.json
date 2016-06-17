@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.7516462162283591,
     "CbGeAlD": 0.034324012773065266,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07155785513022446,
     "CrCbGaD": 0.008731394810617766
   },
+  "n_trials": 0.0,
   "prediction": 0.0031152555896991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00815",
   "compound_name": "Sodium lauryl sulfate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.18131297646720795,
     "CbGbCtD": 0.2972847164375966,
@@ -11,7 +13,7 @@
     "CrCbGaD": 8.547251039321062e-05,
     "CrCrCtD": 0.3993048898116186
   },
+  "n_trials": 0.0,
   "prediction": 0.0109403868358611,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

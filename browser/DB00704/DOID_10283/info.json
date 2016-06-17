@@ -1,15 +1,18 @@
 {
   "compound_id": "DB00704",
   "compound_name": "Naltrexone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.3901170351105329,
   "metapath_contribution": {
     "CbGbCtD": 0.5175995965500761,
-    "CbGeAlD": 0.02017295931324146,
-    "CbGpPWpGaD": 0.12192448447219324,
-    "CcSEcCtD": 0.33378959672979347,
-    "CrCbGaD": 0.006513362934695685
+    "CbGeAlD": 0.020172959313241465,
+    "CbGpPWpGaD": 0.12192448447219326,
+    "CcSEcCtD": 0.3337895967297935,
+    "CrCbGaD": 0.006513362934695686
   },
+  "n_trials": 1.0,
   "prediction": 0.0019000480611209398,
   "status": 0,
   "training_prediction": 0.008040366375440191

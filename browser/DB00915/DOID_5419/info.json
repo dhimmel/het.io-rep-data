@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.7667417278675804,
     "CbGeAlD": 0.06574476269753185,
     "CbGpPWpGaD": 0.1675135094348878
   },
+  "n_trials": 3.0,
   "prediction": 0.00553762537332512,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

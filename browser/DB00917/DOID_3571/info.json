@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.8042912873862159,
   "metapath_contribution": {
     "CbGaD": 0.7285230511256303,
     "CbGbCtD": 0.058354313121057655,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.035539902053424874,
     "CrCbGaD": 0.002274983304768311
   },
+  "n_trials": 0.0,
   "prediction": 0.00220677715584715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04552",
   "compound_name": "Niflumic Acid",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.788036410923277,
   "metapath_contribution": {
     "CbGaD": 0.8848461449165195,
     "CbGeAlD": 0.025054464995280256,
     "CbGpPWpGaD": 0.08851741406323893,
     "CrCbGaD": 0.0015819760249612717
   },
+  "n_trials": 0.0,
   "prediction": 0.00200001545268058,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

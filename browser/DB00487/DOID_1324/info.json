@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00487",
   "compound_name": "Pefloxacin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.37061118335500604,
   "metapath_contribution": {
     "CbGbCtD": 0.9119444565220913,
     "CbGdCrCtD": 0.009980247776237664,
     "CbGpPWpGaD": 0.07525942079954423,
     "CrCbGaD": 0.0028158749021267295
   },
+  "n_trials": 0.0,
   "prediction": 0.00143230008918583,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00778",
   "compound_name": "Roxithromycin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.35528918341474885,
     "CbGbCtD": 0.5767120050759571,
     "CcSEcCtD": 0.06675230118914212,
     "CrCbGaD": 0.001246510320152012
   },
+  "n_trials": 0.0,
   "prediction": 0.00172872191013059,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.4496679421615133,
     "CbGbCtD": 0.36073595212679854,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10982661246565611,
     "CrCbGaD": 0.002974960558021546
   },
+  "n_trials": 0.0,
   "prediction": 0.00984095239611394,
   "status": 0,
   "training_prediction": 0.0475008589018674

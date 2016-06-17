@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.2533140603687014,
     "CbGbCtD": 0.4880950569272722,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11157664455105543,
     "CrCbGaD": 0.0036263086900043245
   },
+  "n_trials": 0.0,
   "prediction": 0.00591656813448522,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00270",
   "compound_name": "Isradipine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7418725617685309,
   "metapath_contribution": {
     "CbGaD": 0.39725463614509693,
     "CbGbCtD": 0.3934896931253457,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10649073443096939,
     "CrCbGaD": 0.0034103309436382644
   },
+  "n_trials": 0.0,
   "prediction": 0.006612091985463001,
   "status": 0,
   "training_prediction": 0.0316454736375991

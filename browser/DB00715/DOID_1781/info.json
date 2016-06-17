@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00715",
   "compound_name": "Paroxetine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGbCtD": 0.37201021452529104,
     "CbGeAlD": 0.003845064566007058,
     "CbGpPWpGaD": 0.07714697698163737,
     "CcSEcCtD": 0.5469977439270646
   },
+  "n_trials": 0.0,
   "prediction": 0.00306125574383908,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01440",
   "compound_name": "Gamma Hydroxybutyric Acid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
-    "CbGaD": 0.3826574255843749,
-    "CbGeAlD": 0.02980231080735525,
-    "CbGpPWpGaD": 0.05751263608695034,
-    "CcSEcCtD": 0.09662885694786096,
-    "CpDpCtD": 0.4333987705734587
+    "CbGaD": 0.3826574255843748,
+    "CbGeAlD": 0.029802310807355244,
+    "CbGpPWpGaD": 0.057512636086950335,
+    "CcSEcCtD": 0.09662885694786093,
+    "CpDpCtD": 0.4333987705734586
   },
+  "n_trials": 0.0,
   "prediction": 0.015895650551770002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

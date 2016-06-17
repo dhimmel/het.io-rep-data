@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.415806510371338,
     "CbGbCtD": 0.022480913092762702,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0031869688022774043,
     "CtDrD": 0.39209190900766167
   },
+  "n_trials": 0.0,
   "prediction": 0.00544742993848311,
   "status": 0,
   "training_prediction": 0.0164360580037245

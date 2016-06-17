@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01351",
   "compound_name": "Amobarbital",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGbCtD": 0.22253428379418688,
     "CbGeAlD": 0.029653073396570834,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.04968157894313257,
     "CtDrD": 0.6730133311660634
   },
+  "n_trials": 0.0,
   "prediction": 0.00916465892799799,
   "status": 0,
   "training_prediction": 0.0166376071464838

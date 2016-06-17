@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.5039011703511049,
   "metapath_contribution": {
     "CbGaD": 0.2619619409889545,
     "CbGeAlD": 0.04077768625477521,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003921914505558597,
     "CrCrCtD": 0.4311283165583287
   },
+  "n_trials": 0.0,
   "prediction": 0.0034197349770027302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

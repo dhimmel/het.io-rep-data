@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.56371911573472,
   "metapath_contribution": {
     "CbGaD": 0.2711865662576453,
     "CbGbCtD": 0.46268607577166165,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09099919283401142,
     "CcSEcCtD": 0.16602544522115628
   },
+  "n_trials": 0.0,
   "prediction": 0.00389232998451796,
   "status": 0,
   "training_prediction": 0.01882381142747

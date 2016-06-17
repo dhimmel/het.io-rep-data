@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.5071521456436929,
   "metapath_contribution": {
     "CbGaD": 0.6297561172684858,
     "CbGbCtD": 0.17096291584565476,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08826419209470666,
     "CrCbGaD": 0.005234831111029579
   },
+  "n_trials": 0.0,
   "prediction": 0.00187081910234697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

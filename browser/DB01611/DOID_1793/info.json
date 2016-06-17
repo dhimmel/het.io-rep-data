@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.202860858257477,
   "metapath_contribution": {
     "CbGbCtD": 0.020105168771776576,
     "CbGpPWpGaD": 0.29611935714675,
     "CcSEcCtD": 0.6796823779625054,
     "CrCbGaD": 0.004093096118968015
   },
+  "n_trials": 5.0,
   "prediction": 0.0011213121265955099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

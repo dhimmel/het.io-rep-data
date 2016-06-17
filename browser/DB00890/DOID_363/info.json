@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00890",
   "compound_name": "Dienestrol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.4826225334573862,
     "CbGbCtD": 0.481041107015176,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.016173400805802533,
     "CrCbGaD": 0.0035309049934142494
   },
+  "n_trials": 0.0,
   "prediction": 0.00659771731223742,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

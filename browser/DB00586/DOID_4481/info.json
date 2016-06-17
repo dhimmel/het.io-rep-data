@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.8179453836150848,
   "metapath_contribution": {
     "CbGbCtD": 0.38377826590410846,
     "CbGdCrCtD": 0.0018427526011692871,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13994924513051366,
     "CpDpCtD": 0.43633717847900116
   },
+  "n_trials": 0.0,
   "prediction": 0.004268847965349079,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

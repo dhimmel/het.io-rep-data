@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.215864759427828,
   "metapath_contribution": {
-    "CbGeAlD": 0.39399093910170485,
-    "CbGpPWpGaD": 0.5705392013899215,
-    "CrCbGaD": 0.0354698595083735
+    "CbGeAlD": 0.3939909391017049,
+    "CbGpPWpGaD": 0.5705392013899216,
+    "CrCbGaD": 0.03546985950837351
   },
+  "n_trials": 1.0,
   "prediction": 0.00109105966418411,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

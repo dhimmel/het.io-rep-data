@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00206",
   "compound_name": "Reserpine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.713263979193758,
   "metapath_contribution": {
     "CbGaD": 0.2795616617751593,
     "CbGbCtD": 0.4905420621916883,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.081966484282549,
     "CrCbGaD": 0.0009211860465933562
   },
+  "n_trials": 0.0,
   "prediction": 0.00288625345855398,
   "status": 0,
   "training_prediction": 0.00983160886194497

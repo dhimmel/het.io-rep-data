@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.367360208062419,
   "metapath_contribution": {
     "CbGaD": 0.7012620014319652,
     "CbGeAlD": 0.09380780142491027,
     "CbGpPWpGaD": 0.19300292449152745,
     "CrCbGaD": 0.011927272651597123
   },
+  "n_trials": 0.0,
   "prediction": 0.0011619858894008198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

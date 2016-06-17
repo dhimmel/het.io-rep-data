@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.368010403120936,
   "metapath_contribution": {
     "CbGbCtD": 0.6052750609782988,
     "CbGeAlD": 0.026326698827528958,
     "CbGpPWpGaD": 0.3603820098773213,
     "CrCbGaD": 0.008016230316851013
   },
+  "n_trials": 0.0,
   "prediction": 0.00125695929681201,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

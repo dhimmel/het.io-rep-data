@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.273081924577373,
   "metapath_contribution": {
     "CbGaD": 0.49921376373777354,
     "CbGbCtD": 0.2573996493228001,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1430091340220378,
     "CrCbGaD": 0.006330954831176461
   },
+  "n_trials": 0.0,
   "prediction": 0.00143327214644032,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

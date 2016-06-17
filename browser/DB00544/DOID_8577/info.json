@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.05141505302498299,
     "CbGbCtD": 0.21655937456263424,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.37762497934025074,
     "CtDrD": 0.2793744404125042
   },
+  "n_trials": 0.0,
   "prediction": 0.03097470680777,
   "status": 0,
   "training_prediction": 0.33188796070919296

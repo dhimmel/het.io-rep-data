@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.5260554270651318,
     "CbGbCtD": 0.18131814201355478,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1067697123052544,
     "CrCbGaD": 0.00580942533404541
   },
+  "n_trials": 0.0,
   "prediction": 0.00282123975000433,
   "status": 0,
   "training_prediction": 0.007130885980993441

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGaD": 0.3782680174851529,
     "CbGbCtD": 0.38374772766629694,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.07675314423760796,
     "CcSEcCtD": 0.1252283173451066
   },
+  "n_trials": 0.0,
   "prediction": 0.004225792070926679,
   "status": 0,
   "training_prediction": 0.0237203302402947

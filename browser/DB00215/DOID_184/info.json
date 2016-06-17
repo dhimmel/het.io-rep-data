@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.8511053315994799,
   "metapath_contribution": {
     "CbGaD": 0.5588093573258632,
     "CbGbCtD": 0.10037734646939131,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2775957787458094,
     "CrCbGaD": 0.004867980795240509
   },
+  "n_trials": 0.0,
   "prediction": 0.00272932505437855,
   "status": 0,
   "training_prediction": 0.00389252339133176

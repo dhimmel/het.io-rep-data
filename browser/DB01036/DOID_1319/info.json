@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.825097529258778,
   "metapath_contribution": {
     "CbGaD": 0.6691374967472322,
     "CbGbCtD": 0.23834246074126034,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06985024266045729,
     "CrCbGaD": 0.001305357014827256
   },
+  "n_trials": 0.0,
   "prediction": 0.00251208023676896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

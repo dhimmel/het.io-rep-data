@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01430",
   "compound_name": "Almitrine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.713263979193758,
   "metapath_contribution": {
     "CbGaD": 0.4957031995708851,
     "CbGpPWpGaD": 0.012687891514118444,
     "CrCbGaD": 0.0009370089477318898,
     "CrCrCtD": 0.49067189996726446
   },
+  "n_trials": 0.0,
   "prediction": 0.00362959233866514,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

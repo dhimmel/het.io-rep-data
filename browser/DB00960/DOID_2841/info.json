@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00960",
   "compound_name": "Pindolol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.1078000627941271,
     "CbGbCtD": 0.2709855417253757,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.2281263350363014,
     "CrCtD": 0.30223047995793745
   },
+  "n_trials": 0.0,
   "prediction": 0.0280042843141982,
   "status": 0,
   "training_prediction": 0.16448068787388

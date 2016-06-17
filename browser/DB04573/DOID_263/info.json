@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.45253576072821794,
   "metapath_contribution": {
     "CbGaD": 0.34016150613090745,
     "CbGbCtD": 0.3552583038526813,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24241475268591664,
     "CrCbGaD": 0.001621834214530458
   },
+  "n_trials": 0.0,
   "prediction": 0.00167292563827876,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

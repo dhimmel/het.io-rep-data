@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.580624187256177,
   "metapath_contribution": {
     "CbGaD": 0.17500358276492553,
     "CbGbCtD": 0.4288042289212048,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05450786543124338,
     "CcSEcCtD": 0.3340056001232992
   },
+  "n_trials": 0.0,
   "prediction": 0.0026465009627303,
   "status": 0,
   "training_prediction": 0.0387067892281509

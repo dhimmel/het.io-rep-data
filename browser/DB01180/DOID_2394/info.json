@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.6501950585175551,
   "metapath_contribution": {
     "CbGeAlD": 0.049184301711150326,
     "CcSEcCtD": 0.10656132252291767,
     "CrCbGaD": 0.0019153453844086223,
     "CrCrCtD": 0.8423390303815234
   },
+  "n_trials": 0.0,
   "prediction": 0.0018661931530585898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

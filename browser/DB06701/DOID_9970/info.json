@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06701",
   "compound_name": "Dexmethylphenidate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.0896022585695592,
     "CbGbCtD": 0.2818042184445675,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0009624586753023483,
     "CrCrCtD": 0.1352221540275023
   },
+  "n_trials": 0.0,
   "prediction": 0.0407572888238673,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

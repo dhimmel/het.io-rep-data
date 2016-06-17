@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.5942782834850461,
   "metapath_contribution": {
     "CbGaD": 0.17982633402608778,
     "CbGbCtD": 0.42371153464847344,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21100387182399152,
     "CrCbGaD": 0.003628177306159565
   },
+  "n_trials": 0.0,
   "prediction": 0.00211682500352808,
   "status": 0,
   "training_prediction": 0.0025690454019685898

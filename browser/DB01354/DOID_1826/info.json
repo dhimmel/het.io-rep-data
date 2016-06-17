@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01354",
   "compound_name": "Heptabarbital",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.19195331365919327,
     "CbGbCtD": 0.23765739552895815,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.19171607430967819,
     "CrCtD": 0.3110356449535187
   },
+  "n_trials": 0.0,
   "prediction": 0.10717661359726599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

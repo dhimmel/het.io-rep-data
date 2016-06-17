@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00585",
   "compound_name": "Nizatidine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGaD": 0.3104249659564081,
     "CbGbCtD": 0.4947336479351525,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1460441465673102,
     "CrCbGaD": 0.001268245474590505
   },
+  "n_trials": 0.0,
   "prediction": 0.00312891477067332,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

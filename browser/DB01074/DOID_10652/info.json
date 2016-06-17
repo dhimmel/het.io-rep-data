@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01074",
   "compound_name": "Perhexiline",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.32251104683936965,
     "CbGbCtD": 0.4851909485139555,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06712583214981889,
     "CcSEcCtD": 0.11878872691781961
   },
+  "n_trials": 0.0,
   "prediction": 0.00562940615127694,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

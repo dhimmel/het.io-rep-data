@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.637841352405722,
   "metapath_contribution": {
     "CbGaD": 0.824330837345419,
     "CbGeAlD": 0.04970203736182873,
     "CbGpPWpGaD": 0.11641663816773165,
     "CrCbGaD": 0.009550487125020539
   },
+  "n_trials": 0.0,
   "prediction": 0.0019066439524836301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

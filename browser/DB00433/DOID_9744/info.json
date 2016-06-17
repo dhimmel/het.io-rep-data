@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00433",
   "compound_name": "Prochlorperazine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.0962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.926112917649039,
     "CbGpPWpGaD": 0.028614578516781054,
     "CcSEcCtD": 0.03707218477993195,
     "CrCbGaD": 0.008200319054247902
   },
+  "n_trials": 0.0,
   "prediction": 0.000821814286060854,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

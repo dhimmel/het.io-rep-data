@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.081924577373212,
   "metapath_contribution": {
     "CbGaD": 0.6546061774175215,
     "CbGeAlD": 0.11563908401721948,
     "CbGpPWpGaD": 0.22716182778224514,
     "CrCbGaD": 0.0025929107830139635
   },
+  "n_trials": 0.0,
   "prediction": 0.000681372144350458,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

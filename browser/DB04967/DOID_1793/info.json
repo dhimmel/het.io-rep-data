@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04967",
   "compound_name": "Lucanthone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGbCtD": 0.4779723997698921,
     "CbGdCrCtD": 0.003501240351570378,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04947141501854665,
     "CrCrCtD": 0.46337910229530926
   },
+  "n_trials": 0.0,
   "prediction": 0.00380915369615309,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

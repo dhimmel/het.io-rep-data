@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.308842652795839,
   "metapath_contribution": {
     "CbGaD": 0.3966166537072485,
     "CbGbCtD": 0.10580597297689448,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.30184644554614326,
     "CrCbGaD": 0.01187843171683921
   },
+  "n_trials": 5.0,
   "prediction": 0.00164909586525251,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.347854356306892,
   "metapath_contribution": {
     "CbGaD": 0.3266251144355408,
     "CbGbCtD": 0.1579773988110377,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00044769264088052803,
     "CrCrCtD": 0.4276161542832496
   },
+  "n_trials": 0.0,
   "prediction": 0.00126825206772709,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

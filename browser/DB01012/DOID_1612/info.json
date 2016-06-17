@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6723016905071519,
   "metapath_contribution": {
     "CbGaD": 0.2436980104112238,
     "CbGbCtD": 0.30747914600992526,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002445450601315641,
     "CrCrCtD": 0.2554153649474196
   },
+  "n_trials": 0.0,
   "prediction": 0.00339606098212282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

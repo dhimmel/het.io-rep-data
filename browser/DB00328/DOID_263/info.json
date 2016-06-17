@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.788036410923277,
   "metapath_contribution": {
     "CbGaD": 0.251081021492338,
     "CbGbCtD": 0.47828131230065196,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1356116528627769,
     "CrCbGaD": 0.0022553291977627445
   },
+  "n_trials": 0.0,
   "prediction": 0.0029869006295045603,
   "status": 0,
   "training_prediction": 0.008669019525094641

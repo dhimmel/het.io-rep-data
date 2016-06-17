@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01228",
   "compound_name": "Encainide",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.414174252275683,
   "metapath_contribution": {
     "CbGbCtD": 0.24946497090204686,
     "CbGeAlD": 0.12999080771257768,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0037025960857887123,
     "CrCrCtD": 0.5920811954194451
   },
+  "n_trials": 0.0,
   "prediction": 0.00203991796900877,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

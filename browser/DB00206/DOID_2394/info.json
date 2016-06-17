@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00206",
   "compound_name": "Reserpine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.16561840060053498,
     "CbGbCtD": 0.31424360481065944,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0004897005828846538,
     "CrCrCtD": 0.4719713918251089
   },
+  "n_trials": 0.0,
   "prediction": 0.00449485138685705,
   "status": 0,
   "training_prediction": 0.0106680348080779

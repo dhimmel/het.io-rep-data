@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01219",
   "compound_name": "Dantrolene",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGbCtD": 0.16718272709752668,
     "CbGeAlD": 0.02251612896734598,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002209643841630002,
     "CrCrCtD": 0.21126880054849884
   },
+  "n_trials": 0.0,
   "prediction": 0.009376459399571891,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00508",
   "compound_name": "Triflupromazine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.5571893064675534,
     "CbGbCtD": 0.40176588845835115,
     "CbGpPWpGaD": 0.03665905406079349,
     "CrCbGaD": 0.00438575101330193
   },
+  "n_trials": 0.0,
   "prediction": 0.0019887391481521396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

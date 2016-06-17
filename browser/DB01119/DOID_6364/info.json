@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01119",
   "compound_name": "Diazoxide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7191157347204159,
   "metapath_contribution": {
     "CbGbCtD": 0.6590095579081784,
     "CbGeAlD": 0.07047562447936573,
     "CbGpPWpGaD": 0.057905627872335545,
     "CcSEcCtD": 0.21260918974012036
   },
+  "n_trials": 0.0,
   "prediction": 0.00357074369198961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

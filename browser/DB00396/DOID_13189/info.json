@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGbCtD": 0.28367325212708905,
     "CbGdCrCtD": 0.00024244364637479124,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.26494704873612956,
     "CrCtD": 0.35729563130857955
   },
+  "n_trials": 0.0,
   "prediction": 0.0131880791174515,
   "status": 0,
   "training_prediction": 0.0286587106474417

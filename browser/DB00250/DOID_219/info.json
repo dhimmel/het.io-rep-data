@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGaD": 0.42672452478657463,
     "CbGbCtD": 0.4215486163716703,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.03242917796736408,
     "CrCbGaD": 0.00733800282307655
   },
+  "n_trials": 0.0,
   "prediction": 0.00191105314980614,
   "status": 0,
   "training_prediction": 0.00617106716698544

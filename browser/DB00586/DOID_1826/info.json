@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.2453867950489183,
     "CbGbCtD": 0.27022494874767466,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0017807141021326895,
     "CrCrCtD": 0.1586322407792838
   },
+  "n_trials": 1.0,
   "prediction": 0.0173252079321437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

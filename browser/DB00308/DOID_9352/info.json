@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00308",
   "compound_name": "Ibutilide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGaD": 0.30670835215353,
     "CbGbCtD": 0.5396400957772778,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05517599893250944,
     "CrCbGaD": 0.0010836748491496058
   },
+  "n_trials": 0.0,
   "prediction": 0.0089656276777408,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

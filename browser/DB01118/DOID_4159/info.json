@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGbCtD": 0.2020308063331604,
     "CbGdCrCtD": 0.0011650927133614105,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.7215584254242123,
     "CrCbGaD": 0.002308145336409183
   },
+  "n_trials": 0.0,
   "prediction": 0.00809209187174513,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

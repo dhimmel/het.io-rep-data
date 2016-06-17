@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGaD": 0.6929152874523835,
     "CbGbCtD": 0.2942852129747273,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0008599634422899084,
     "CrCbGaD": 0.007546245867985496
   },
+  "n_trials": 0.0,
   "prediction": 0.0021560271664345697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.11032968020989094,
     "CbGbCtD": 0.6233037902988597,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13783077904890825,
     "CrCbGaD": 0.0008059340301195396
   },
+  "n_trials": 0.0,
   "prediction": 0.00211765737850965,
   "status": 0,
   "training_prediction": 0.0102332614220258

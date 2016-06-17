@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00180",
   "compound_name": "Flunisolide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.826397919375813,
   "metapath_contribution": {
     "CbGaD": 0.19881160815673954,
     "CbGbCtD": 0.1707882745821901,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2099411770883728,
     "CrCtD": 0.3103592862444458
   },
+  "n_trials": 0.0,
   "prediction": 0.005084189779369279,
   "status": 0,
   "training_prediction": 0.0350672708211979

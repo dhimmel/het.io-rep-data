@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.161248374512354,
   "metapath_contribution": {
     "CbGeAlD": 0.2752198524500208,
     "CbGpPWpGaD": 0.25580112949838246,
     "CcSEcCtD": 0.42086287032374875,
     "CrCbGaD": 0.048116147727848085
   },
+  "n_trials": 0.0,
   "prediction": 0.000871291769577175,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

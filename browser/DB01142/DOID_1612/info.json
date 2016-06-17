@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6996098829648891,
   "metapath_contribution": {
     "CbGaD": 0.15354601744234428,
     "CbGbCtD": 0.2794633620883503,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0018848238084098084,
     "CrCrCtD": 0.3334420422775895
   },
+  "n_trials": 0.0,
   "prediction": 0.0036177049822687705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.6716514954486351,
   "metapath_contribution": {
     "CbGaD": 0.26888811702558085,
     "CbGbCtD": 0.5438105540252164,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1380066797321666,
     "CrCbGaD": 0.00025705645137509667
   },
+  "n_trials": 0.0,
   "prediction": 0.0032144840712925397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

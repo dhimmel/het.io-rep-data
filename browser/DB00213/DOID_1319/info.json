@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.5524356796485528,
     "CbGbCtD": 0.29583393832595745,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.144031314268405,
     "CrCbGaD": 0.004316666350549478
   },
+  "n_trials": 0.0,
   "prediction": 0.0035788553491945796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

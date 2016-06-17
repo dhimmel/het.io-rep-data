@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01099",
   "compound_name": "Flucytosine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGdCrCtD": 0.002085487190083824,
     "CbGeAlD": 0.006816294677659219,
     "CcSEcCtD": 0.06177354145986254,
     "CiPCiCtD": 0.9293246766723944
   },
+  "n_trials": 0.0,
   "prediction": 0.0072126652972702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.5073345145178341,
     "CbGbCtD": 0.21952334718369662,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15568376490097316,
     "CrCbGaD": 0.0010530204433527315
   },
+  "n_trials": 0.0,
   "prediction": 0.0026797164151327103,
   "status": 0,
   "training_prediction": 0.00382185330168805

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08800",
   "compound_name": "Chloropyramine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGbCtD": 0.4925431599269292,
     "CbGeAlD": 0.02999616038355649,
     "CbGpPWpGaD": 0.0006192310159834017,
     "CrCrCtD": 0.476841448673531
   },
+  "n_trials": 0.0,
   "prediction": 0.00467887296971815,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

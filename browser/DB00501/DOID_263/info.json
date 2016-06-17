@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00501",
   "compound_name": "Cimetidine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.0973837622742004,
     "CbGbCtD": 0.6227966643798143,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.06685887421887941,
     "CcSEcCtD": 0.14086433326321976
   },
+  "n_trials": 0.0,
   "prediction": 0.0037149395094897703,
   "status": 0,
   "training_prediction": 0.0107670834701597

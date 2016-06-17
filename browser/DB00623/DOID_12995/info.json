@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.5988296488946679,
   "metapath_contribution": {
     "CbGaD": 0.8415809101213781,
     "CbGeAlD": 0.014962467041827182,
     "CbGpPWpGaD": 0.13244554827840774,
     "CrCbGaD": 0.011011074558386874
   },
+  "n_trials": 0.0,
   "prediction": 0.00157138193417017,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

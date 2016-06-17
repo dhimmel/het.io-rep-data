@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01356",
   "compound_name": "Lithium",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGeAlD": 0.0051991369902813535,
     "CbGpPWpGaD": 0.08785440000396603,
-    "CcSEcCtD": 0.14245813263741444,
-    "CpDpCtD": 0.7644883303683382
+    "CcSEcCtD": 0.14245813263741441,
+    "CpDpCtD": 0.7644883303683381
   },
+  "n_trials": 0.0,
   "prediction": 0.004909562161863321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

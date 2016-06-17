@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.624837451235371,
   "metapath_contribution": {
     "CbGaD": 0.18455280111967168,
     "CbGbCtD": 0.5567918117066367,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19203992701579659,
     "CrCbGaD": 0.0006363190447503333
   },
+  "n_trials": 2.0,
   "prediction": 0.00286943705405487,
   "status": 0,
   "training_prediction": 0.0255303848144526

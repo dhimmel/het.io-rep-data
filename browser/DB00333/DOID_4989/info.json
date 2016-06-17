@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.504551365409623,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.08536883748720375,
     "CcSEcCtD": 0.12908615171212226,
     "CrCbGaD": 0.0006589208852832188,
     "CrCrCtD": 0.7848860899153908
   },
+  "n_trials": 0.0,
   "prediction": 0.00146737450557319,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

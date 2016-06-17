@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00360",
   "compound_name": "Tetrahydrobiopterin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.3682238355861296,
     "CbGbCtD": 0.5074528827071975,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04712582488933923,
     "CcSEcCtD": 0.02707030181090636
   },
+  "n_trials": 0.0,
   "prediction": 0.0051134676081339,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

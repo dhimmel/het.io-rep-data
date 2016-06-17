@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGbCtD": 0.41607383646903073,
     "CbGdCrCtD": 0.003660516272743362,
     "CcSEcCtD": 0.07008502039966388,
     "CrCrCtD": 0.5101806268585621
   },
+  "n_trials": 0.0,
   "prediction": 0.00318035647275169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

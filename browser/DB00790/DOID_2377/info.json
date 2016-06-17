@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.6424228015581467,
     "CbGbCtD": 0.20878128611400773,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13202163856534374,
     "CrCbGaD": 0.0054392006617285495
   },
+  "n_trials": 0.0,
   "prediction": 0.00439181634917809,
   "status": 0,
   "training_prediction": 0.0185505906584937

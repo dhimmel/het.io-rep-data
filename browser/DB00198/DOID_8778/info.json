@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00198",
   "compound_name": "Oseltamivir",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGbCtD": 0.7814833803043546,
     "CbGeAlD": 0.029696224476186445,
     "CbGpPWpGaD": 0.014240376793583639,
     "CcSEcCtD": 0.17458001842587523
   },
+  "n_trials": 0.0,
   "prediction": 0.0033719443196586897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

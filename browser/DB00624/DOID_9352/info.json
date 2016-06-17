@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.399869960988296,
   "metapath_contribution": {
     "CbGaD": 0.36485296768970754,
     "CbGbCtD": 0.3985276662188175,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12288905060228031,
     "CrCbGaD": 0.004374350637430928
   },
+  "n_trials": 9.0,
   "prediction": 0.00209573392975825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

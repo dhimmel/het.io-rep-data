@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01156",
   "compound_name": "Bupropion",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.46046187919512516,
     "CbGbCtD": 0.2761467195621148,
     "CbGpPWpGaD": 0.09999988086737373,
     "CcSEcCtD": 0.16339152037538632
   },
+  "n_trials": 2.0,
   "prediction": 0.00324241981447479,
   "status": 0,
   "training_prediction": 0.00319862691976695

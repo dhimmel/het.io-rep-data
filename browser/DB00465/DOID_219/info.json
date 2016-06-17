@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.24837451235370603,
   "metapath_contribution": {
     "CbGaD": 0.7706254092875261,
     "CbGeAlD": 0.019902585801363337,
     "CcSEcCtD": 0.20332490183051072,
     "CrCbGaD": 0.006147103080599822
   },
+  "n_trials": 0.0,
   "prediction": 0.00107128313366219,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

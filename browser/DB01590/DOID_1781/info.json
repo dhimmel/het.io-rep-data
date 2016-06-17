@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGeAlD": 0.003565288047785225,
     "CbGpPWpGaD": 0.028276174109486837,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.5648055810245887,
     "CtDrD": 0.3332020094962275
   },
+  "n_trials": 0.0,
   "prediction": 0.00623422151872049,
   "status": 0,
   "training_prediction": 0.00755938393171699

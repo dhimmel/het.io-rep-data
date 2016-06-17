@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.2589089298956396,
     "CbGbCtD": 0.3615905958220557,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0027980124664821254,
     "CrCrCtD": 0.1722133607963102
   },
+  "n_trials": 0.0,
   "prediction": 0.00915963997974218,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

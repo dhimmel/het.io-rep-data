@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01337",
   "compound_name": "Pancuronium",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.5645680752274492,
     "CbGbCtD": 0.39681105047581666,
     "CbGpPWpGaD": 0.03406828131249747,
     "CrCbGaD": 0.004552592984236527
   },
+  "n_trials": 0.0,
   "prediction": 0.00381147366144375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01101",
   "compound_name": "Capecitabine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGbCtD": 0.06748162191846045,
     "CbGdCrCtD": 0.0023682838032152457,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11433849178935053,
     "CiPCiCtD": 0.7955461502713668
   },
+  "n_trials": 0.0,
   "prediction": 0.0077649517264341906,
   "status": 0,
   "training_prediction": 0.0739240907581126

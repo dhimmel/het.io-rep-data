@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00633",
   "compound_name": "Dexmedetomidine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGbCtD": 0.6175401166451229,
     "CbGeAlD": 0.029513133061401797,
     "CbGpPWpGaD": 0.09641523473487111,
     "CcSEcCtD": 0.2565315155586042
   },
+  "n_trials": 3.0,
   "prediction": 0.00257045715932884,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

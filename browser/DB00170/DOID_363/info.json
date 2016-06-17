@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.37774912404317523,
     "CbGbCtD": 0.45015521722089236,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06390894394261139,
     "CrCbGaD": 0.003486710481906454
   },
+  "n_trials": 0.0,
   "prediction": 0.00383823929495894,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

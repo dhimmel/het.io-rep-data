@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.32641793799606367,
     "CbGeAlD": 0.03821738814907671,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002931046338387577,
     "CtDrD": 0.5468230818371206
   },
+  "n_trials": 0.0,
   "prediction": 0.0036738876955336704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

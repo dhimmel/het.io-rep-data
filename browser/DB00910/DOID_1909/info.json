@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.548764629388817,
   "metapath_contribution": {
     "CbGaD": 0.6624649893398487,
     "CbGbCtD": 0.07433808000098095,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12939698884927162,
     "CrCbGaD": 0.0072925755361780325
   },
+  "n_trials": 0.0,
   "prediction": 0.00156020683551734,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.205461638491547,
   "metapath_contribution": {
     "CbGaD": 0.18445921578080623,
     "CbGbCtD": 0.4170886459411868,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1970066399506206,
     "CrCbGaD": 0.0025653116878310914
   },
+  "n_trials": 1.0,
   "prediction": 0.00135637208555719,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

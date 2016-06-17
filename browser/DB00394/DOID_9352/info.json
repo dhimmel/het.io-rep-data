@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00394",
   "compound_name": "Beclomethasone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.10208062418725601,
   "metapath_contribution": {
     "CbGaD": 0.665648766681926,
     "CbGbCtD": 0.07866682791622162,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16968232267782554,
     "CrCbGaD": 0.009670522532182304
   },
+  "n_trials": 0.0,
   "prediction": 0.000996285083988177,
   "status": 0,
   "training_prediction": 0.007307234989095859

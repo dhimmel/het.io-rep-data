@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08811",
   "compound_name": "Tofisopam",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.8400520156046809,
   "metapath_contribution": {
     "CbGaD": 0.800925413384033,
     "CbGeAlD": 0.06641050532800606,
     "CbGpPWpGaD": 0.12653319698575544,
     "CrCbGaD": 0.00613088430220551
   },
+  "n_trials": 0.0,
   "prediction": 0.00230588012186037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

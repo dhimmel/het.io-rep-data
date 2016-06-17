@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.530559167750325,
   "metapath_contribution": {
     "CbGaD": 0.3078670703604525,
     "CbGbCtD": 0.28804121051846227,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17533706824208303,
     "CrCbGaD": 0.004404926476534128
   },
+  "n_trials": 0.0,
   "prediction": 0.0019369195758531601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

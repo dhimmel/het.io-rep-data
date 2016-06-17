@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.6158339177706568,
     "CbGbCtD": 0.23095559384595216,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08338204959761314,
     "CcSEcCtD": 0.05424591907083195
   },
+  "n_trials": 0.0,
   "prediction": 0.00534880826690468,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

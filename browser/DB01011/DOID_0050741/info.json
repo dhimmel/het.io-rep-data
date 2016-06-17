@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01011",
   "compound_name": "Metyrapone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.47189888049423845,
     "CbGbCtD": 0.3467826801350187,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11433142881578516,
     "CcSEcCtD": 0.043447805567050524
   },
+  "n_trials": 0.0,
   "prediction": 0.0050620522907047,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

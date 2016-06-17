@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00770",
   "compound_name": "Alprostadil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
-    "CbGbCtD": 0.17803742226140848,
-    "CbGpPWpGaD": 0.0306569530351839,
+    "CbGbCtD": 0.1780374222614085,
+    "CbGpPWpGaD": 0.030656953035183905,
     "CcSEcCtD": 0.050859906849944514,
-    "CiPCiCtD": 0.5080643996946619,
-    "CrCbGaD": 0.0013153983114288304,
-    "CrCrCtD": 0.23106591984737235
+    "CiPCiCtD": 0.508064399694662,
+    "CrCbGaD": 0.0013153983114288306,
+    "CrCrCtD": 0.23106591984737238
   },
+  "n_trials": 0.0,
   "prediction": 0.0276251295323803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

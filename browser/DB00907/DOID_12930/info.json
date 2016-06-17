@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.8350828480825087,
     "CbGeAlD": 0.10711806596994582,
     "CbGpPWpGaD": 0.05327870946594908,
     "CrCbGaD": 0.004520376481596356
   },
+  "n_trials": 0.0,
   "prediction": 0.00365695376990667,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

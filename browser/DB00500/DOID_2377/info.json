@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.49544863459037697,
   "metapath_contribution": {
     "CbGbCtD": 0.18436172935980527,
     "CbGdCrCtD": 0.003369344900382191,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.052032432815056553,
     "CpDpCtD": 0.6512086848876529
   },
+  "n_trials": 0.0,
   "prediction": 0.0018552276652084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

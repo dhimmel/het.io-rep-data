@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00778",
   "compound_name": "Roxithromycin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.630039011703511,
   "metapath_contribution": {
     "CbGaD": 0.37500512233552113,
     "CbGbCtD": 0.5225060722010293,
     "CcSEcCtD": 0.10063420809443212,
     "CrCbGaD": 0.0018545973690175122
   },
+  "n_trials": 0.0,
   "prediction": 0.00250503398997907,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

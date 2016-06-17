@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00856",
   "compound_name": "Chlorphenesin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.5003139427007414,
     "CbGbCtD": 0.43595079526706587,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05339575032624327,
     "CrCbGaD": 0.0011941781361018535
   },
+  "n_trials": 0.0,
   "prediction": 0.0035985758287871796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

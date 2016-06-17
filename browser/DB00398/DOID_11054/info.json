@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGbCtD": 0.2622004429593927,
     "CbGdCrCtD": 0.0024738364004578454,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07986783843820104,
     "CtDrD": 0.4882383069008883
   },
+  "n_trials": 6.0,
   "prediction": 0.00802694364262923,
   "status": 0,
   "training_prediction": 0.0451162806878425

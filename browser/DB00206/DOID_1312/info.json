@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00206",
   "compound_name": "Reserpine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGbCtD": 0.2898609420899012,
     "CbGeAlD": 0.01621744682297231,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.002424353797201517,
     "CtDrD": 0.6898503715527494
   },
+  "n_trials": 0.0,
   "prediction": 0.00533617210701826,
   "status": 0,
   "training_prediction": 0.00241082462921928

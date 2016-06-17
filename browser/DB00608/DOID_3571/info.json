@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.8465539661898571,
   "metapath_contribution": {
     "CbGaD": 0.718799006812868,
     "CbGbCtD": 0.136955388279086,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.019735221556864455,
     "CrCbGaD": 0.004863921304454043
   },
+  "n_trials": 0.0,
   "prediction": 0.00240610202666992,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

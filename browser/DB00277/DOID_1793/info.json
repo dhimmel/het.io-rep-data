@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.661248374512354,
   "metapath_contribution": {
     "CbGbCtD": 0.7299398057409804,
     "CbGdCrCtD": 0.004264178863256179,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09584731478578154,
     "CrCbGaD": 0.0072057451084474615
   },
+  "n_trials": 0.0,
   "prediction": 0.00217502544935024,
   "status": 0,
   "training_prediction": 0.00517875754902283

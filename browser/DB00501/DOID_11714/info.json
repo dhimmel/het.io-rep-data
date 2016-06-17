@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00501",
   "compound_name": "Cimetidine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.2883002037461622,
     "CbGeAlD": 0.005051125342856871,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.020020518705257867,
     "CtDrD": 0.6746945875748019
   },
+  "n_trials": 0.0,
   "prediction": 0.0117569124901609,
   "status": 0,
   "training_prediction": 0.00533050905440447

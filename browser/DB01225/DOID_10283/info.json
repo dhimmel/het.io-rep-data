@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01225",
   "compound_name": "Enoxaparin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.696358907672302,
   "metapath_contribution": {
     "CbGaD": 0.6124628245485572,
     "CbGeAlD": 0.013378014934614026,
     "CbGpPWpGaD": 0.15307167533673185,
     "CcSEcCtD": 0.2210874851800971
   },
+  "n_trials": 0.0,
   "prediction": 0.00347456995893749,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

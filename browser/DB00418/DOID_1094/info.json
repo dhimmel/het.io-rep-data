@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00418",
   "compound_name": "Secobarbital",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.756608239734723,
     "CbGeAlD": 0.0855582985418944,
     "CbGpPWpGaD": 0.14870842887595595,
     "CrCbGaD": 0.00912503284742659
   },
+  "n_trials": 0.0,
   "prediction": 0.0029958216029166897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.6581662204213431,
     "CbGbCtD": 0.27019716573437724,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.020390190583568422,
     "CcSEcCtD": 0.022693680377063454
   },
+  "n_trials": 0.0,
   "prediction": 0.00300770103069128,
   "status": 0,
   "training_prediction": 0.0036495445164856396

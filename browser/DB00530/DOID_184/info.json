@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.3520562013499054,
     "CbGbCtD": 0.08810853867439264,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.002570755422133512,
     "CtDrD": 0.47080115354320856
   },
+  "n_trials": 0.0,
   "prediction": 0.00827290471220753,
   "status": 0,
   "training_prediction": 0.0263401487547972

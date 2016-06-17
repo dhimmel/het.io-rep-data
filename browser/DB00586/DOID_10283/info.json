@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
     "CbGaD": 0.24613283989251095,
     "CbGbCtD": 0.3139804413728452,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.2240688274280504,
     "CrCbGaD": 0.00218897927699617
   },
+  "n_trials": 1.0,
   "prediction": 0.00559892930164132,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

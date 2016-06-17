@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06729",
   "compound_name": "Sulfaphenazole",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.605981794538362,
   "metapath_contribution": {
     "CbGaD": 0.7675382704666828,
     "CbGbCtD": 0.13750625565286473,
     "CbGpPWpGaD": 0.08877221524453971,
     "CrCbGaD": 0.006183258635912809
   },
+  "n_trials": 0.0,
   "prediction": 0.00170122621474146,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

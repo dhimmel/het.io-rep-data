@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00119",
   "compound_name": "Pyruvic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.45981359334789135,
     "CbGbCtD": 0.4364831195934817,
     "CbGeAlD": 0.06855013038855357,
     "CbGpPWpGaD": 0.03515315667007347
   },
+  "n_trials": 0.0,
   "prediction": 0.00992795822151875,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

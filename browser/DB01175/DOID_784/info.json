@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.776332899869961,
   "metapath_contribution": {
     "CbGaD": 0.8146001670587513,
     "CbGeAlD": 0.027983827671174716,
     "CbGpPWpGaD": 0.14722223275552485,
     "CrCbGaD": 0.010193772514549075
   },
+  "n_trials": 0.0,
   "prediction": 0.0022875401399232898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

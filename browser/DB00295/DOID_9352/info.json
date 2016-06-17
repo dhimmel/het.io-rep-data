@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.378413524057217,
   "metapath_contribution": {
     "CbGaD": 0.13261249596014027,
     "CbGbCtD": 0.5431585171338807,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19653177808461259,
     "CrCbGaD": 0.0016730868435643317
   },
+  "n_trials": 0.0,
   "prediction": 0.00203429785977689,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

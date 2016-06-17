@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05039",
   "compound_name": "Indacaterol",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.50260078023407,
   "metapath_contribution": {
     "CbGaD": 0.43402941476643087,
     "CbGbCtD": 0.3880581899767641,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09516778543046443,
     "CrCbGaD": 0.002993389563777008
   },
+  "n_trials": 0.0,
   "prediction": 0.00250219258128583,
   "status": 0,
   "training_prediction": 0.00640301402934451

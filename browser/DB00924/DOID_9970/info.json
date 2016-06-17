@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.10437720344024883,
     "CbGbCtD": 0.178269545949844,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.22602109463194994,
     "CrCtD": 0.38683465896898195
   },
+  "n_trials": 0.0,
   "prediction": 0.00936656105334097,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

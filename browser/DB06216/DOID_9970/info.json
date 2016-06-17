@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGaD": 0.37719999381375885,
     "CbGbCtD": 0.39774829155718844,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09022273835124442,
     "CrCbGaD": 0.002220759532424329
   },
+  "n_trials": 0.0,
   "prediction": 0.00905798018739065,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

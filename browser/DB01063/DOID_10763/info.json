@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01063",
   "compound_name": "Acetophenazine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.232119635890767,
   "metapath_contribution": {
     "CbGaD": 0.2936973508834069,
     "CbGbCtD": 0.1960479102609503,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.005247421416895379,
     "CrCrCtD": 0.4287549163091534
   },
+  "n_trials": 0.0,
   "prediction": 0.00201215143940683,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

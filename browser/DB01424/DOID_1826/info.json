@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01424",
   "compound_name": "Aminophenazone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.867360208062419,
   "metapath_contribution": {
     "CbGaD": 0.16858771217877638,
     "CbGbCtD": 0.4093497867062132,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00256463763896143,
     "CrCrCtD": 0.39115984864798137
   },
+  "n_trials": 0.0,
   "prediction": 0.0135155576079302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

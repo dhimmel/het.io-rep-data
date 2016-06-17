@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.29684981110495945,
     "CbGbCtD": 0.06380741370186463,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0012730512070216967,
     "CtDrD": 0.5005483377639734
   },
+  "n_trials": 0.0,
   "prediction": 0.00885937596340846,
   "status": 0,
   "training_prediction": 0.0126020985908686

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01148",
   "compound_name": "Flavoxate",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.165149544863459,
   "metapath_contribution": {
     "CbGaD": 0.5895928362179962,
     "CbGeAlD": 0.018255847050640952,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17090868660861208,
     "CrCbGaD": 0.0030924469246222403
   },
+  "n_trials": 0.0,
   "prediction": 0.00115025006651249,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

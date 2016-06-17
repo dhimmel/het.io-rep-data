@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGbCtD": 0.5332313392684406,
     "CbGdCrCtD": 0.001121597591389038,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.060005237196203876,
     "CrCrCtD": 0.3567226648711763
   },
+  "n_trials": 0.0,
   "prediction": 0.00467277781324679,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

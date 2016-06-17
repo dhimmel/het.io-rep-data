@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGaD": 0.8469955935149676,
     "CbGeAlD": 0.06827643753697642,
     "CbGpPWpGaD": 0.07782918630038849,
     "CrCbGaD": 0.00689878264766756
   },
+  "n_trials": 0.0,
   "prediction": 0.00228996810847919,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

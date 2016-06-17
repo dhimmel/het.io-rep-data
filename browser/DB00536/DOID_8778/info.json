@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00536",
   "compound_name": "Guanidine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.8019751413404044,
     "CbGeAlD": 0.05843342283679874,
     "CbGpPWpGaD": 0.05065701434748403,
     "CcSEcCtD": 0.08893442147531282
   },
+  "n_trials": 0.0,
   "prediction": 0.00440326725353286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

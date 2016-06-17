@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGbCtD": 0.40786202825008694,
     "CbGpPWpGaD": 0.0053847436072067024,
     "CcSEcCtD": 0.09160818057785376,
     "CrCrCtD": 0.4951450475648526
   },
+  "n_trials": 0.0,
   "prediction": 0.00384867889856109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

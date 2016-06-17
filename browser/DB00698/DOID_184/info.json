@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00698",
   "compound_name": "Nitrofurantoin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.789336801040312,
   "metapath_contribution": {
     "CbGbCtD": 0.8725143814448355,
     "CbGpPWpGaD": 0.024042558230331544,
     "CcSEcCtD": 0.100826536809097,
     "CrCbGaD": 0.0026165235157359027
   },
+  "n_trials": 0.0,
   "prediction": 0.0023352233695474803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

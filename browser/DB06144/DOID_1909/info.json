@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06144",
   "compound_name": "Sertindole",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGbCtD": 0.16808924554302143,
     "CbGeAlD": 0.1454233407451811,
     "CbGpPWpGaD": 0.6860711854416995,
     "CrCbGaD": 0.00041622827009797744
   },
+  "n_trials": 0.0,
   "prediction": 0.0014439248643223,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

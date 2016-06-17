@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGbCtD": 0.7499685298049596,
     "CbGeAlD": 0.11482252625402932,
     "CbGpPWpGaD": 0.09614687869960517,
     "CcSEcCtD": 0.03906206524140577
   },
+  "n_trials": 0.0,
   "prediction": 0.0023973060310890104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

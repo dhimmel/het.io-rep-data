@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01010",
   "compound_name": "Edrophonium",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.705461638491547,
   "metapath_contribution": {
     "CbGaD": 0.3866952470959565,
     "CbGeAlD": 0.012640740309756971,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0014736340489726668,
     "CrCrCtD": 0.4517534383616752
   },
+  "n_trials": 0.0,
   "prediction": 0.0038626237918440204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

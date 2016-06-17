@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.131989596879064,
   "metapath_contribution": {
     "CbGaD": 0.1373947935746107,
     "CbGbCtD": 0.5036658470639525,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1846419390926062,
     "CrCbGaD": 0.0021281942981297213
   },
+  "n_trials": 0.0,
   "prediction": 0.00113248159405671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

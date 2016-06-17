@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01219",
   "compound_name": "Dantrolene",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.462938881664499,
   "metapath_contribution": {
     "CbGbCtD": 0.39628965221269125,
     "CbGeAlD": 0.1914932820054721,
     "CbGpPWpGaD": 0.13414965568176812,
     "CcSEcCtD": 0.2780674101000686
   },
+  "n_trials": 0.0,
   "prediction": 0.00204130403191755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

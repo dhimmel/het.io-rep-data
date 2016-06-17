@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01194",
   "compound_name": "Brinzolamide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.873769877827256,
     "CbGeAlD": 0.03491008608330615,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0017608760922539807,
     "CrCbGaD": 0.007785208434215139
   },
+  "n_trials": 0.0,
   "prediction": 0.00429942517029092,
   "status": 0,
   "training_prediction": 0.0019413243354725802

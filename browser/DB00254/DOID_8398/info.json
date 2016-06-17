@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.7335099167652157,
     "CbGeAlD": 0.111851670691478,
     "CbGpPWpGaD": 0.15243736164463273,
     "CrCbGaD": 0.0022010508986736303
   },
+  "n_trials": 1.0,
   "prediction": 0.00463008553727155,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

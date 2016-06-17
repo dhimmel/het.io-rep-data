@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.19830949284785399,
   "metapath_contribution": {
     "CbGaD": 0.522127898997839,
     "CbGbCtD": 0.2796768411557566,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.017202544249633533,
     "CrCbGaD": 0.006721107148423207
   },
+  "n_trials": 0.0,
   "prediction": 0.0009039749280908199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

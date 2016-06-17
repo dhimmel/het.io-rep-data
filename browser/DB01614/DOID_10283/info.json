@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.17685305591677497,
   "metapath_contribution": {
     "CbGaD": 0.5359265644009278,
     "CbGbCtD": 0.310912044547943,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09241362377680092,
     "CrCbGaD": 0.005920512710450013
   },
+  "n_trials": 0.0,
   "prediction": 0.00114856687531169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

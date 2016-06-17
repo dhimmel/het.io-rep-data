@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.0637951489098478,
     "CbGbCtD": 0.27364402587756476,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.25376187412191975,
     "CrCtD": 0.36802098378224873
   },
+  "n_trials": 3.0,
   "prediction": 0.0447119787325718,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

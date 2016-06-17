@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.364759427828349,
   "metapath_contribution": {
     "CbGaD": 0.22176500954412384,
     "CbGbCtD": 0.4340338711635448,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18917319674506114,
     "CrCbGaD": 0.001705477437347801
   },
+  "n_trials": 2.0,
   "prediction": 0.00198866458092458,
   "status": 0,
   "training_prediction": 0.008735023051874279

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06695",
   "compound_name": "Dabigatran etexilate",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.15800907549202195,
     "CbGbCtD": 0.5280488189828936,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12617918130801312,
     "CcSEcCtD": 0.15238201376027513
   },
+  "n_trials": 0.0,
   "prediction": 0.006328623435464011,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

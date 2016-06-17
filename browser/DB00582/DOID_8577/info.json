@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGaD": 0.334727222420569,
     "CbGbCtD": 0.5025955276645088,
     "CcSEcCtD": 0.16117678284417922,
     "CrCbGaD": 0.0015004670707430322
   },
+  "n_trials": 0.0,
   "prediction": 0.0030756984428575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.101430429128739,
   "metapath_contribution": {
-    "CbGeAlD": 0.12113609001095248,
-    "CbGpPWpGaD": 0.8754022931481841,
-    "CrCbGaD": 0.003461616840863506
+    "CbGeAlD": 0.12113609001095246,
+    "CbGpPWpGaD": 0.875402293148184,
+    "CrCbGaD": 0.0034616168408635054
   },
+  "n_trials": 0.0,
   "prediction": 0.000895523346820744,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

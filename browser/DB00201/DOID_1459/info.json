@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.5546163849154749,
   "metapath_contribution": {
     "CbGbCtD": 0.4837344722896452,
     "CbGeAlD": 0.2768649716892152,
     "CbGpPWpGaD": 0.15383011471852484,
     "CcSEcCtD": 0.08557044130261478
   },
+  "n_trials": 0.0,
   "prediction": 0.00175829747669084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

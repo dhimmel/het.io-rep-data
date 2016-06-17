@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01591",
   "compound_name": "Solifenacin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8654096228868661,
   "metapath_contribution": {
     "CbGbCtD": 0.3204783660111512,
     "CbGpPWpGaD": 0.061463130342933985,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.5216802761844319,
     "CrCbGaD": 0.0024772901878954818
   },
+  "n_trials": 0.0,
   "prediction": 0.007147043564720459,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

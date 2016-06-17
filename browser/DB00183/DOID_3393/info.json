@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00183",
   "compound_name": "Pentagastrin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.485045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.6106040665243009,
     "CbGeAlD": 0.0976096664223477,
     "CbGpPWpGaD": 0.2827210447939621,
     "CrCbGaD": 0.009065222259389282
   },
+  "n_trials": 0.0,
   "prediction": 0.0022849692910945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

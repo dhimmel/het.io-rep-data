@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.6931079323797139,
   "metapath_contribution": {
-    "CbGaD": 0.11295314849919738,
-    "CbGbCtD": 0.16956200693596415,
-    "CbGeAlD": 0.02071361929818719,
-    "CbGpPWpGaD": 0.013876589207726036,
-    "CcSEcCtD": 0.055013714815114176,
-    "CtDrD": 0.6278809212438111
+    "CbGaD": 0.11295314849919737,
+    "CbGbCtD": 0.16956200693596413,
+    "CbGeAlD": 0.020713619298187186,
+    "CbGpPWpGaD": 0.013876589207726034,
+    "CcSEcCtD": 0.05501371481511417,
+    "CtDrD": 0.627880921243811
   },
+  "n_trials": 0.0,
   "prediction": 0.0020351286927527,
   "status": 0,
   "training_prediction": 0.0130200339512587

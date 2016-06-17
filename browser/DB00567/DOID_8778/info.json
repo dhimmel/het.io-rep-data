@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGaD": 0.7093893803336084,
     "CbGbCtD": 0.15935206564775944,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0955320511335743,
     "CrCbGaD": 0.006578093313337188
   },
+  "n_trials": 0.0,
   "prediction": 0.0018039132933673398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

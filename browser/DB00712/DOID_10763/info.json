@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.818595578673602,
   "metapath_contribution": {
     "CbGaD": 0.12601862449353435,
     "CbGbCtD": 0.24022077703208325,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1697759467979423,
     "CrCtD": 0.2977183036398811
   },
+  "n_trials": 0.0,
   "prediction": 0.0106359856915416,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

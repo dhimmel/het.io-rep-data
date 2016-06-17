@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.770829781687326,
     "CbGeAlD": 0.07079479507417617,
     "CbGpPWpGaD": 0.15106626752565083,
     "CrCbGaD": 0.007309155712847002
   },
+  "n_trials": 0.0,
   "prediction": 0.00253718598264522,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

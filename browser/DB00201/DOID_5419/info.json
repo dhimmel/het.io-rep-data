@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.7529258777633292,
   "metapath_contribution": {
     "CbGaD": 0.7065037602031127,
     "CbGeAlD": 0.09806160324878956,
     "CbGpPWpGaD": 0.18784983429719065,
     "CrCbGaD": 0.007584802250907097
   },
+  "n_trials": 0.0,
   "prediction": 0.0021798800129767698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

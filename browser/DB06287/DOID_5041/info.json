@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06287",
   "compound_name": "Temsirolimus",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.289336801040312,
   "metapath_contribution": {
     "CbGaD": 0.7948100132021496,
     "CbGeAlD": 0.014152931812252068,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09615672530195944,
     "CrCbGaD": 0.008379411500945703
   },
+  "n_trials": 0.0,
   "prediction": 0.0010519938811377099,
   "status": 0,
   "training_prediction": 0.00127702397658192

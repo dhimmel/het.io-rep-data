@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.230819245773732,
   "metapath_contribution": {
     "CbGbCtD": 0.258890276089878,
     "CbGeAlD": 0.045527074068992826,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.6008420944246486,
     "CrCbGaD": 0.008021640485855486
   },
+  "n_trials": 0.0,
   "prediction": 0.00134286558619694,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

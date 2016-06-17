@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.6358907672301689,
   "metapath_contribution": {
     "CbGaD": 0.398872450161024,
     "CbGeAlD": 0.18922319417041428,
     "CcSEcCtD": 0.40857184790244294,
     "CrCbGaD": 0.0033325077661187736
   },
+  "n_trials": 0.0,
   "prediction": 0.00228833830144233,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

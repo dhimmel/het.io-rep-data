@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
-    "CbGaD": 0.18716059312334968,
+    "CbGaD": 0.18716059312334965,
     "CbGbCtD": 0.3140783517447823,
     "CbGeAlD": 0.004206208440020928,
-    "CbGpPWpGaD": 0.04772159449142566,
-    "CcSEcCtD": 0.1617879331983515,
-    "CpDpCtD": 0.28339017883044226,
-    "CrCbGaD": 0.0016551401716277164
+    "CbGpPWpGaD": 0.047721594491425656,
+    "CcSEcCtD": 0.16178793319835147,
+    "CpDpCtD": 0.2833901788304422,
+    "CrCbGaD": 0.0016551401716277162
   },
+  "n_trials": 0.0,
   "prediction": 0.00519241438043298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

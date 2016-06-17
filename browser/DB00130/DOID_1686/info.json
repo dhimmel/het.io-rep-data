@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.304291287386216,
   "metapath_contribution": {
     "CbGdCrCtD": 0.012255025112561572,
     "CbGeAlD": 0.19284242777168842,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.44906687868387457,
     "CrCbGaD": 0.011010093504772573
   },
+  "n_trials": 0.0,
   "prediction": 0.00142150905536069,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

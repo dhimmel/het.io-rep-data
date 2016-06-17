@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00820",
   "compound_name": "Tadalafil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.908972691807542,
   "metapath_contribution": {
     "CbGaD": 0.5068697980664776,
     "CbGbCtD": 0.2093255827729137,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08586247946960703,
     "CcSEcCtD": 0.17611189025705293
   },
+  "n_trials": 0.0,
   "prediction": 0.00840784143939619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

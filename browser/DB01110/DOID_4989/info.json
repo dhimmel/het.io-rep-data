@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.0735294117647059,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.240572171651495,
   "metapath_contribution": {
     "CbGeAlD": 0.15658961466626506,
     "CbGpPWpGaD": 0.633270832398866,
     "CcSEcCtD": 0.21013955293486894
   },
+  "n_trials": 0.0,
   "prediction": 0.001060584462506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

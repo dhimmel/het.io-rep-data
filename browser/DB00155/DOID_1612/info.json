@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGaD": 0.46102198853390786,
     "CbGbCtD": 0.323550410643962,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1258937321603579,
     "CrCbGaD": 0.005909542118176867
   },
+  "n_trials": 0.0,
   "prediction": 0.0031057286991714697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

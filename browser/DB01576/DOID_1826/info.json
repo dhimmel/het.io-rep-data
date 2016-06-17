@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01576",
   "compound_name": "Dextroamphetamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7997399219765929,
   "metapath_contribution": {
     "CbGaD": 0.08352549793308608,
     "CbGeAlD": 0.02642680339231635,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.3060050840621564,
     "CrCtD": 0.4312306934489689
   },
+  "n_trials": 0.0,
   "prediction": 0.00844093941078294,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

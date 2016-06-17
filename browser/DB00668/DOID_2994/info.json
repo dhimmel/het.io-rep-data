@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.24382314694408302,
   "metapath_contribution": {
     "CbGbCtD": 0.5958645187075244,
     "CbGeAlD": 0.08439111998510782,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.176588466102092,
     "CrCbGaD": 0.014519062342725984
   },
+  "n_trials": 0.0,
   "prediction": 0.0011643697952689802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

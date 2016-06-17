@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00979",
   "compound_name": "Cyclopentolate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.5994798439531861,
   "metapath_contribution": {
     "CbGaD": 0.6446827457726206,
     "CbGeAlD": 0.0016793927189037866,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.005659492988841879,
     "CrCrCtD": 0.12068752264401855
   },
+  "n_trials": 0.0,
   "prediction": 0.0042814063017094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.13878454126854087,
     "CbGeAlD": 0.00520939052970877,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.22023274578397373,
     "CrCrCtD": 0.1727310602089936
   },
+  "n_trials": 0.0,
   "prediction": 0.0307001323863449,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

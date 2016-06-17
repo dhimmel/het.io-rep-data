@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00978",
   "compound_name": "Lomefloxacin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.3137784337402471,
     "CbGbCtD": 0.45295685103984873,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.15379320715789668,
     "CrCbGaD": 0.0038868288456060003
   },
+  "n_trials": 0.0,
   "prediction": 0.0029374080240716603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

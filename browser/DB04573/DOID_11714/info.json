@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.6982718567462145,
     "CbGbCtD": 0.29501589161277847,
     "CbGeAlD": 0.001095730584403034,
     "CrCbGaD": 0.00561652105660402
   },
+  "n_trials": 0.0,
   "prediction": 0.003777577846282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

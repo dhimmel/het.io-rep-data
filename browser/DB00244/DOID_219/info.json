@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.3029718646964413,
     "CbGdCrCtD": 0.0016040598667128446,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0017857244534157095,
     "CtDrD": 0.5387087226703717
   },
+  "n_trials": 0.0,
   "prediction": 0.00416105952781058,
   "status": 0,
   "training_prediction": 0.00985294475565567

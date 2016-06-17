@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGbCtD": 0.8532437119022906,
     "CbGeAlD": 0.07899035883118093,
     "CbGpPWpGaD": 0.038453252276534275,
     "CcSEcCtD": 0.029312676989994194
   },
+  "n_trials": 0.0,
   "prediction": 0.0030614840119012198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

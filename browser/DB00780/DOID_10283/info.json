@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGaD": 0.4401212776433769,
     "CbGbCtD": 0.34006506160235345,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0804550195501528,
     "CrCbGaD": 0.002018179373143656
   },
+  "n_trials": 2.0,
   "prediction": 0.00412474525082579,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

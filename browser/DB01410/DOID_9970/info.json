@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01410",
   "compound_name": "Ciclesonide",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.50520156046814,
   "metapath_contribution": {
     "CbGaD": 0.564284578363923,
     "CbGbCtD": 0.24270988548208333,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10783171172317643,
     "CrCbGaD": 0.0038085563137094896
   },
+  "n_trials": 0.0,
   "prediction": 0.0025072783936245,
   "status": 0,
   "training_prediction": 0.00641597742917175

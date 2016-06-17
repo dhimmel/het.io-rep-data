@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGaD": 0.3161255983732801,
     "CbGbCtD": 0.4180681942609695,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09347677520289153,
     "CcSEcCtD": 0.12096519352203475
   },
+  "n_trials": 3.0,
   "prediction": 0.0076610607862097205,
   "status": 0,
   "training_prediction": 0.0857977522142721

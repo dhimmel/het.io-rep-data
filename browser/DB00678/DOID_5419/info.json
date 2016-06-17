@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.501300390117035,
   "metapath_contribution": {
     "CbGaD": 0.7436539201455993,
     "CbGeAlD": 0.08721592448999041,
     "CbGpPWpGaD": 0.1672801604035929,
     "CrCbGaD": 0.001849994960817454
   },
+  "n_trials": 0.0,
   "prediction": 0.00156294620358796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

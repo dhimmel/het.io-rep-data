@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06204",
   "compound_name": "Tapentadol",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.815913993389569,
     "CbGeAlD": 0.07532686734159683,
     "CbGpPWpGaD": 0.10459912853956048,
     "CrCbGaD": 0.004160010729273536
   },
+  "n_trials": 0.0,
   "prediction": 0.00222849871544262,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

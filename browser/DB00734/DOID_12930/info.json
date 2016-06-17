@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.6306892067620289,
   "metapath_contribution": {
     "CbGbCtD": 0.03335413173090517,
     "CbGeAlD": 0.2350865955044589,
     "CbGpPWpGaD": 0.28843758611497095,
     "CcSEcCtD": 0.443121686649665
   },
+  "n_trials": 0.0,
   "prediction": 0.0019472022951563899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

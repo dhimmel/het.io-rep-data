@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.43302990897269206,
   "metapath_contribution": {
     "CbGaD": 0.1454806739603464,
     "CbGbCtD": 0.6318566541237786,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12310880444436426,
     "CrCbGaD": 0.0028387852996246982
   },
+  "n_trials": 1.0,
   "prediction": 0.00162207443508299,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

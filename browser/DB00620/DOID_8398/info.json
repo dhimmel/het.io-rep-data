@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.702860858257477,
   "metapath_contribution": {
     "CbGaD": 0.24723818370552314,
     "CrCbGaD": 7.171020269833639e-05,
     "CtDrD": 0.7526901060917784
   },
+  "n_trials": 15.0,
   "prediction": 0.0015616525851153802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

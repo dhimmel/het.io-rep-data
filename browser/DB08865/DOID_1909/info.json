@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.25689467799725507,
     "CbGeAlD": 0.034238715299269286,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.32498968970093844,
     "CtDrD": 0.2671432556813976
   },
+  "n_trials": 2.0,
   "prediction": 0.0264400728192314,
   "status": 0,
   "training_prediction": 0.0473267186596601

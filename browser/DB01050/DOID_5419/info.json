@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.26592977893367997,
   "metapath_contribution": {
     "CbGaD": 0.3027551277380298,
     "CbGeAlD": 0.27298495312867943,
     "CbGpPWpGaD": 0.40944819636702323,
     "CrCbGaD": 0.014811722766267557
   },
+  "n_trials": 0.0,
   "prediction": 0.00109892146412371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

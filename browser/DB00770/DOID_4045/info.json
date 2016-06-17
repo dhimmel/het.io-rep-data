@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00770",
   "compound_name": "Alprostadil",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.334850455136541,
   "metapath_contribution": {
     "CbGbCtD": 0.7403490447454629,
     "CbGeAlD": 0.11264321092154903,
     "CcSEcCtD": 0.1449349119190257,
     "CrCbGaD": 0.002072832413962378
   },
+  "n_trials": 0.0,
   "prediction": 0.00114728188979381,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

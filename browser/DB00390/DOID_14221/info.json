@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.0325097529258778,
   "metapath_contribution": {
-    "CbGeAlD": 0.29413854717587756,
-    "CbGpPWpGaD": 0.7044040079528907,
-    "CrCbGaD": 0.0014574448712315414
+    "CbGeAlD": 0.2941385471758776,
+    "CbGpPWpGaD": 0.7044040079528909,
+    "CrCbGaD": 0.0014574448712315418
   },
+  "n_trials": 0.0,
   "prediction": 0.000629913561566136,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

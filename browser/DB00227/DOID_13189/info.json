@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.743172951885566,
   "metapath_contribution": {
     "CbGbCtD": 0.8117723552101378,
     "CbGdCrCtD": 0.0003409130931242112,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1563209316542266,
     "CrCbGaD": 0.007007165406308142
   },
+  "n_trials": 0.0,
   "prediction": 0.0032432878689756,
   "status": 0,
   "training_prediction": 0.0118312069622232

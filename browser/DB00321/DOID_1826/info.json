@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.15499608559013253,
     "CbGbCtD": 0.11270816578651172,
@@ -15,6 +17,7 @@
     "CrCtD": 0.1519421422864363,
     "CtDrD": 0.21463165112040306
   },
+  "n_trials": 0.0,
   "prediction": 0.25234615462435,
   "status": 0,
   "training_prediction": 0.623652328890252

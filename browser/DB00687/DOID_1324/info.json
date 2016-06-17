@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0149544863459038,
   "metapath_contribution": {
     "CbGeAlD": 0.0230647208186059,
     "CbGpPWpGaD": 0.33809126203020556,
     "CcSEcCtD": 0.6116519662261349,
     "CrCbGaD": 0.027192050925053494
   },
+  "n_trials": 0.0,
   "prediction": 0.0005093575560402331,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

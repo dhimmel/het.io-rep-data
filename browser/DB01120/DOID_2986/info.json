@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.540312093628088,
   "metapath_contribution": {
     "CbGaD": 0.6013270627398147,
     "CbGeAlD": 0.03613145604688076,
     "CbGpPWpGaD": 0.3598647559829584,
     "CrCbGaD": 0.002676725230346011
   },
+  "n_trials": 0.0,
   "prediction": 0.0010241014661638301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGbCtD": 0.21092140221820196,
     "CbGdCrCtD": 0.0012577600987459068,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11502376622406468,
     "CtDrD": 0.5024882770444477
   },
+  "n_trials": 4.0,
   "prediction": 0.0176843479300505,
   "status": 0,
   "training_prediction": 0.326397085917024

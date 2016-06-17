@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01429",
   "compound_name": "Aprindine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
     "CbGaD": 0.862463126168348,
     "CbGeAlD": 0.016556941556598013,
     "CbGpPWpGaD": 0.11850143011348768,
     "CrCbGaD": 0.0024785021615664356
   },
+  "n_trials": 0.0,
   "prediction": 0.00258822465512444,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

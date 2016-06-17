@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.258127438231469,
   "metapath_contribution": {
     "CbGdCrCtD": 0.004925573520494241,
     "CbGeAlD": 0.14285590541015863,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.7956424047566026,
     "CrCbGaD": 0.010255571410611255
   },
+  "n_trials": 0.0,
   "prediction": 0.00146005365871214,
   "status": 0,
   "training_prediction": 0.00830198704604068

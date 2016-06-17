@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6573472041612479,
   "metapath_contribution": {
     "CbGaD": 0.3676131519042155,
     "CbGbCtD": 0.2538623076917088,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1514728425741417,
     "CrCbGaD": 0.0022163800968936116
   },
+  "n_trials": 0.0,
   "prediction": 0.00320500666341316,
   "status": 0,
   "training_prediction": 0.0170471030401994

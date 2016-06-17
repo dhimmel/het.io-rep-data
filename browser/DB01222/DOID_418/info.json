@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01222",
   "compound_name": "Budesonide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGbCtD": 0.12696370295077364,
     "CcSEcCtD": 0.05558906696720652,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.2112471246957023,
     "CrCtD": 0.2964515561426413
   },
+  "n_trials": 0.0,
   "prediction": 0.013228058221809998,
   "status": 0,
   "training_prediction": 0.0507242585832486

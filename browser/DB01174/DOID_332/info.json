@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.5333150359374516,
     "CbGbCtD": 0.29430216867435227,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0807981464640735,
     "CrCbGaD": 0.006587101093428675
   },
+  "n_trials": 0.0,
   "prediction": 0.00315895042410692,
   "status": 0,
   "training_prediction": 0.0014254689744292199

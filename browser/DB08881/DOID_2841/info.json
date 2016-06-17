@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.44473342002600796,
   "metapath_contribution": {
     "CbGaD": 0.1751860764450916,
     "CbGbCtD": 0.5173874351695223,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16853594973677888,
     "CrCbGaD": 0.0007063056544985587
   },
+  "n_trials": 0.0,
   "prediction": 0.0022455085574568,
   "status": 0,
   "training_prediction": 0.0250411249453655

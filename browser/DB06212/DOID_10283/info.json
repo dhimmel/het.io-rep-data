@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06212",
   "compound_name": "Tolvaptan",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7548764629388821,
   "metapath_contribution": {
     "CbGaD": 0.20713420246977762,
     "CbGbCtD": 0.48519892460324465,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1851763389472216,
     "CrCbGaD": 0.0031889769852383437
   },
+  "n_trials": 0.0,
   "prediction": 0.00414690152097862,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00625",
   "compound_name": "Efavirenz",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.12752562115942104,
     "CbGbCtD": 0.316184475375785,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11702735689342418,
     "CiPCiCtD": 0.41778780255176257
   },
+  "n_trials": 0.0,
   "prediction": 0.009818727896741479,
   "status": 0,
   "training_prediction": 0.0507699555266021

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.47984395318595596,
   "metapath_contribution": {
     "CbGaD": 0.3556247818426837,
     "CbGbCtD": 0.31260502823257513,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1736359316407487,
     "CrCbGaD": 0.00404265173375433
   },
+  "n_trials": 0.0,
   "prediction": 0.00226287725851394,
   "status": 0,
   "training_prediction": 0.0124337175009836

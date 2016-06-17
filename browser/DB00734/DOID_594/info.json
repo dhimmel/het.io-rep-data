@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
-    "CbGaD": 0.7914010264873349,
-    "CbGeAlD": 0.057614446385950216,
-    "CbGpPWpGaD": 0.1442093640933219,
-    "CrCbGaD": 0.006775163033392891
+    "CbGaD": 0.791401026487335,
+    "CbGeAlD": 0.05761444638595023,
+    "CbGpPWpGaD": 0.14420936409332194,
+    "CrCbGaD": 0.006775163033392892
   },
+  "n_trials": 3.0,
   "prediction": 0.00375603694829997,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00929",
   "compound_name": "Misoprostol",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.47464239271781494,
   "metapath_contribution": {
-    "CbGeAlD": 0.3764955444780888,
-    "CbGpPWpGaD": 0.5668448505131961,
-    "CcSEcCtD": 0.037812012126812046,
-    "CrCbGaD": 0.018847592881903037
+    "CbGeAlD": 0.37649554447808886,
+    "CbGpPWpGaD": 0.5668448505131962,
+    "CcSEcCtD": 0.03781201212681205,
+    "CrCbGaD": 0.01884759288190304
   },
+  "n_trials": 1.0,
   "prediction": 0.0015680642001317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

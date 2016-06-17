@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGbCtD": 0.825044551090106,
     "CbGeAlD": 0.0402677023707679,
     "CbGpPWpGaD": 0.0520368076746398,
     "CcSEcCtD": 0.08265093886448634
   },
+  "n_trials": 0.0,
   "prediction": 0.00313111344623914,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.1426059908998739,
     "CbGbCtD": 0.2566356853234406,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1905743341073211,
     "CrCtD": 0.31033826812731025
   },
+  "n_trials": 1.0,
   "prediction": 0.0420860708130449,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

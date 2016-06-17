@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.288036410923277,
   "metapath_contribution": {
     "CbGbCtD": 0.8225300594874445,
     "CbGeAlD": 0.023680872111036654,
     "CcSEcCtD": 0.15307036650504507,
     "CrCbGaD": 0.0007187018964738596
   },
+  "n_trials": 0.0,
   "prediction": 0.00128715173287012,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

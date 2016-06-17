@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00438",
   "compound_name": "Ceftazidime",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.5481144343302989,
   "metapath_contribution": {
     "CbGaD": 0.878401283761458,
     "CcSEcCtD": 0.11392450843556871,
     "CrCbGaD": 0.0076742078029732735
   },
+  "n_trials": 0.0,
   "prediction": 0.00199698589995279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

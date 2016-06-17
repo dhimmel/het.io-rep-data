@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00764",
   "compound_name": "Mometasone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGbCtD": 0.1523401265715299,
     "CcSEcCtD": 0.039591848276773554,
@@ -10,6 +12,7 @@
     "CrCtD": 0.3293144579450571,
     "CtDrD": 0.23701250875148577
   },
+  "n_trials": 0.0,
   "prediction": 0.0341706733310976,
   "status": 0,
   "training_prediction": 0.139786317525827

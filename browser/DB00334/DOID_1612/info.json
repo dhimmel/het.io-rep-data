@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.44603381014304294,
   "metapath_contribution": {
     "CbGaD": 0.2936907079796928,
     "CbGbCtD": 0.5089171429436247,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1507135922865159,
     "CrCbGaD": 0.0006150032078558413
   },
+  "n_trials": 0.0,
   "prediction": 0.00213771445282037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGbCtD": 0.2425039483929008,
     "CbGdCrCtD": 0.0002156079610837855,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.2992171520548018,
     "CrCtD": 0.3775549715974526
   },
+  "n_trials": 0.0,
   "prediction": 0.0121454847584306,
   "status": 0,
   "training_prediction": 0.062725659792156

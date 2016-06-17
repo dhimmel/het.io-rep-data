@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.804941482444733,
   "metapath_contribution": {
     "CbGaD": 0.9777838131452629,
     "CbGeAlD": 0.021903483164889808,
     "CrCbGaD": 0.0003127036898473628
   },
+  "n_trials": 0.0,
   "prediction": 0.00186382285497385,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

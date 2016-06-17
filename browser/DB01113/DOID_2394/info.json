@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01113",
   "compound_name": "Papaverine",
+  "compound_percentile": 0.0294117647058824,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.345903771131339,
   "metapath_contribution": {
     "CbGeAlD": 0.2966284356103525,
     "CbGpPWpGaD": 0.4419182539543828,
     "CcSEcCtD": 0.22560832207610032,
     "CrCbGaD": 0.03584498835916432
   },
+  "n_trials": 0.0,
   "prediction": 0.00119179484553334,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

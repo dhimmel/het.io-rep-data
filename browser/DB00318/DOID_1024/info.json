@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
     "CbGbCtD": 0.9568886853808032,
     "CcSEcCtD": 0.04311131461919683
   },
+  "n_trials": 0.0,
   "prediction": 0.00225497512407858,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

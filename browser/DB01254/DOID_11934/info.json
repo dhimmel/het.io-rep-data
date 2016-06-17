@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.3162695596250735,
     "CbGbCtD": 0.1505231980464083,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.24926414742438247,
     "CcSEcCtD": 0.14473096425209322
   },
+  "n_trials": 0.0,
   "prediction": 0.00434886075159487,
   "status": 0,
   "training_prediction": 0.00527539336910767

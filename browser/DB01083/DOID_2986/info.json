@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01083",
   "compound_name": "Orlistat",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.8052170379438233,
     "CbGeAlD": 0.019396094919167294,
     "CbGpPWpGaD": 0.1664035006856064,
     "CrCbGaD": 0.008983366451403074
   },
+  "n_trials": 0.0,
   "prediction": 0.00267772753701625,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

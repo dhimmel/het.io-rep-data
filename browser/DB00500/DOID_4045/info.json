@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.5006501950585179,
   "metapath_contribution": {
     "CbGaD": 0.7320001847327984,
     "CbGbCtD": 0.18973877330179123,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.023421985196612687,
     "CrCbGaD": 0.006983491059854106
   },
+  "n_trials": 0.0,
   "prediction": 0.00144519309770768,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

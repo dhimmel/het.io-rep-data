@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGaD": 0.5156935196673572,
     "CbGbCtD": 0.2687603074926925,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.022050020089447866,
     "CcSEcCtD": 0.14718498704856398
   },
+  "n_trials": 0.0,
   "prediction": 0.0034498514698883802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

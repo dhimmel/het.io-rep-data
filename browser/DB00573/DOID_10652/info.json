@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.251625487646294,
   "metapath_contribution": {
     "CbGaD": 0.7323446286586227,
     "CbGpPWpGaD": 0.053027978404819986,
     "CcSEcCtD": 0.207214148794212,
     "CrCbGaD": 0.0074132441423453484
   },
+  "n_trials": 0.0,
   "prediction": 0.00116657868995678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

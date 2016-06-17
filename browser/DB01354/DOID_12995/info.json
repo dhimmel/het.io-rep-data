@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01354",
   "compound_name": "Heptabarbital",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.8746605110598926,
     "CbGeAlD": 0.018797554997101805,
     "CbGpPWpGaD": 0.09873924842681049,
     "CrCbGaD": 0.007802685516195016
   },
+  "n_trials": 0.0,
   "prediction": 0.0035190082633769,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

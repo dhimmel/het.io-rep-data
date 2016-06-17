@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.624837451235371,
   "metapath_contribution": {
     "CbGaD": 0.4260521169513898,
     "CbGbCtD": 0.45560890482166405,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05106211557619905,
     "CrCbGaD": 0.003087463837211113
   },
+  "n_trials": 0.0,
   "prediction": 0.00301787474652727,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

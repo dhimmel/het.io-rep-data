@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.397269180754226,
   "metapath_contribution": {
     "CbGaD": 0.17806236224137864,
     "CbGbCtD": 0.5671770555847276,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1645114897256847,
     "CrCbGaD": 0.0020670579306455283
   },
+  "n_trials": 0.0,
   "prediction": 0.00151390196371653,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.03819930728469752,
     "CbGbCtD": 0.13186903023543972,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.7373081474172967,
     "CrCbGaD": 0.002824394856395301
   },
+  "n_trials": 0.0,
   "prediction": 0.00554388391523705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

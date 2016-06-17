@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.200910273081925,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.0775775450591006,
     "CcSEcCtD": 0.8953787820745474,
     "CrCbGaD": 0.027043672866352127
   },
+  "n_trials": 0.0,
   "prediction": 0.0011425412107692698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

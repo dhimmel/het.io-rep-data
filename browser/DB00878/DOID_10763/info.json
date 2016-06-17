@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00878",
   "compound_name": "Chlorhexidine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.566970091027308,
   "metapath_contribution": {
     "CbGbCtD": 0.6185293665600013,
     "CbGeAlD": 0.04359560036259092,
     "CbGpPWpGaD": 0.11836275298859143,
     "CcSEcCtD": 0.21951228008881635
   },
+  "n_trials": 0.0,
   "prediction": 0.00457139872363755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

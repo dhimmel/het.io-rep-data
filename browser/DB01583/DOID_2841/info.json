@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.596879063719116,
   "metapath_contribution": {
     "CbGaD": 0.16290693338847406,
     "CbGbCtD": 0.4631591888368803,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2801631992594771,
     "CrCbGaD": 0.00037378968018721826
   },
+  "n_trials": 0.0,
   "prediction": 0.0029398066927936897,
   "status": 0,
   "training_prediction": 0.0197484594893491

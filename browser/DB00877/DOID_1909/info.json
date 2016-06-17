@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9115734720416121,
   "metapath_contribution": {
     "CbGaD": 0.244000080082602,
     "CbGbCtD": 0.06553991938232849,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5422352095725256,
     "CrCbGaD": 0.00031249008887404404
   },
+  "n_trials": 18.0,
   "prediction": 0.00325180280380549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

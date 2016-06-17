@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.15686284876892648,
     "CbGbCtD": 0.2183987815213282,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.20207890656138255,
     "CrCtD": 0.3198478263330853
   },
+  "n_trials": 0.0,
   "prediction": 0.0495052261351734,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

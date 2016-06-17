@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00415",
   "compound_name": "Ampicillin",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.15409622886866103,
   "metapath_contribution": {
     "CbGaD": 0.9267446493656581,
     "CbGpPWpGaD": 0.048199264823053214,
     "CcSEcCtD": 0.02428020062070658,
     "CrCbGaD": 0.0007758851905820384
   },
+  "n_trials": 0.0,
   "prediction": 0.000982067444170484,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

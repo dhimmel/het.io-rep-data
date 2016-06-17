@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01610",
   "compound_name": "Valganciclovir",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGeAlD": 0.00545689584022125,
     "CcSEcCtD": 0.11805756754656935,
     "CiPCiCtD": 0.8764855366132094
   },
+  "n_trials": 1.0,
   "prediction": 0.00788888986233606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

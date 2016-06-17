@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.65149544863459,
   "metapath_contribution": {
     "CbGaD": 0.322271933946181,
     "CbGbCtD": 0.49937958101367913,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08798081868590532,
     "CrCbGaD": 0.006906827869791967
   },
+  "n_trials": 0.0,
   "prediction": 0.00228359194442824,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

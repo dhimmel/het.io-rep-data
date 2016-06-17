@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.8600311622340744,
     "CbGbCtD": 0.08610444156959678,
     "CbGpPWpGaD": 0.04787473742117846,
     "CrCbGaD": 0.005989658775150486
   },
+  "n_trials": 0.0,
   "prediction": 0.00280858378143347,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

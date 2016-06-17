@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.3635508624279675,
     "CbGbCtD": 0.11407414442893546,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0004283547145152152,
     "CtDrD": 0.348296683388067
   },
+  "n_trials": 0.0,
   "prediction": 0.0271149551913172,
   "status": 0,
   "training_prediction": 0.0937866970418729

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.8829169674977162,
     "CbGeAlD": 0.0013680312067744216,
     "CbGpPWpGaD": 0.10552434022980381,
     "CrCbGaD": 0.01019066106570559
   },
+  "n_trials": 0.0,
   "prediction": 0.00369946225388132,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

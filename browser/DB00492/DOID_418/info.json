@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00492",
   "compound_name": "Fosinopril",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.17286993329738062,
     "CbGbCtD": 0.19548608023769642,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.21611419033766965,
     "CrCtD": 0.3365391171000565
   },
+  "n_trials": 0.0,
   "prediction": 0.0462472262393267,
   "status": 0,
   "training_prediction": 0.103784582586901

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01195",
   "compound_name": "Flecainide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.9731053136795099,
     "CbGeAlD": 0.0037913204262195197,
     "CbGpPWpGaD": 0.016402064076404127,
     "CrCbGaD": 0.006701301817866374
   },
+  "n_trials": 0.0,
   "prediction": 0.00317399363401145,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

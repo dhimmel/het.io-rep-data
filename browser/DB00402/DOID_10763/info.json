@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00402",
   "compound_name": "Eszopiclone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5663198959687911,
   "metapath_contribution": {
     "CbGaD": 0.17314612068580992,
     "CbGbCtD": 0.45649174777737483,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2398729259705862,
     "CrCbGaD": 0.001200413606221192
   },
+  "n_trials": 0.0,
   "prediction": 0.00456578459749629,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

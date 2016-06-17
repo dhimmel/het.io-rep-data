@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.42132639791937604,
   "metapath_contribution": {
     "CbGaD": 0.11734415049111879,
     "CbGbCtD": 0.8041179933256016,
     "CbGpPWpGaD": 0.07681439577154668,
     "CrCbGaD": 0.0017234604117329286
   },
+  "n_trials": 0.0,
   "prediction": 0.00205440545006759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.36751894415119807,
     "CbGbCtD": 0.4253810196813868,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12088745342402805,
     "CrCbGaD": 0.0032150702485586047
   },
+  "n_trials": 0.0,
   "prediction": 0.00321088713590019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

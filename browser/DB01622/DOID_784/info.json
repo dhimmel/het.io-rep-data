@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.30039011703511104,
   "metapath_contribution": {
     "CbGaD": 0.8304831462462663,
     "CbGeAlD": 0.037489806742162055,
     "CbGpPWpGaD": 0.12363362281288633,
     "CrCbGaD": 0.008393424198685318
   },
+  "n_trials": 0.0,
   "prediction": 0.0011948458570885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

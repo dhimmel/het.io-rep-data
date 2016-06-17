@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.321196358907672,
   "metapath_contribution": {
     "CbGaD": 0.7402216429815061,
     "CbGdCrCtD": 0.006775443150182665,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15454192268369207,
     "CrCbGaD": 0.011010126389671306
   },
+  "n_trials": 0.0,
   "prediction": 0.0011208811141473,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

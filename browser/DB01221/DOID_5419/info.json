@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.7664695175144942,
     "CbGeAlD": 0.06966568290433889,
     "CbGpPWpGaD": 0.16386479958116704
   },
+  "n_trials": 4.0,
   "prediction": 0.00667481458556856,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

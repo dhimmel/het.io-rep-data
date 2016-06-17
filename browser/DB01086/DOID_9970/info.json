@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.5491676236824391,
     "CbGbCtD": 0.19401281294325542,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0037134833790859905,
     "CrCrCtD": 0.14812840032106245
   },
+  "n_trials": 0.0,
   "prediction": 0.00306692441718648,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

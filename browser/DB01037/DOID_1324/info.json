@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7886866059817951,
   "metapath_contribution": {
     "CbGaD": 0.3984472273564672,
     "CbGbCtD": 0.36402424073787704,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15348920791126916,
     "CrCbGaD": 0.00127791590843596
   },
+  "n_trials": 0.0,
   "prediction": 0.00325331092135873,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

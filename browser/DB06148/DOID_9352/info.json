@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.701560468140442,
   "metapath_contribution": {
     "CbGaD": 0.3473126308361585,
     "CbGbCtD": 0.4010995095821919,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12272381472910524,
     "CrCbGaD": 0.0027714131405096446
   },
+  "n_trials": 0.0,
   "prediction": 0.0038766093604867703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

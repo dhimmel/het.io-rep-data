@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.8652780659015011,
     "CbGbCtD": 0.051527650439375725,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.007330341971899887,
     "CcSEcCtD": 0.04305625709929305
   },
+  "n_trials": 0.0,
   "prediction": 0.00431094959157839,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

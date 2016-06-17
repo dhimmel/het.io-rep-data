@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00830",
   "compound_name": "Phenmetrazine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.9004799154383728,
     "CbGeAlD": 0.05762109514587812,
     "CbGpPWpGaD": 0.03461263617871993,
     "CrCbGaD": 0.007286353237029111
   },
+  "n_trials": 0.0,
   "prediction": 0.0029736949808546803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

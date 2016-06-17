@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGbCtD": 0.28521528393859746,
     "CbGdCrCtD": 0.000646845917096928,
     "CcSEcCtD": 0.15421706668233753,
     "CpDpCtD": 0.5599208034619679
   },
+  "n_trials": 0.0,
   "prediction": 0.00522358051637716,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

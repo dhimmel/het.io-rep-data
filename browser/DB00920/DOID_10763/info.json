@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.340052015604681,
   "metapath_contribution": {
     "CbGaD": 0.4920608491554369,
     "CbGbCtD": 0.12607365726113734,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1838256613092478,
     "CrCbGaD": 0.0015623758777036064
   },
+  "n_trials": 0.0,
   "prediction": 0.00261684248271638,
   "status": 0,
   "training_prediction": 0.0304291902823908

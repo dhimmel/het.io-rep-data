@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00352",
   "compound_name": "Tioguanine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.38751625487646296,
   "metapath_contribution": {
     "CbGbCtD": 0.24691658128900745,
     "CbGdCrCtD": 0.008761971954247945,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.35458379719393296,
     "CrCbGaD": 0.0058801027334911115
   },
+  "n_trials": 0.0,
   "prediction": 0.00295582482082206,
   "status": 0,
   "training_prediction": 0.0342472388017905

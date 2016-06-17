@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00545",
   "compound_name": "Pyridostigmine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.607282184655397,
   "metapath_contribution": {
     "CbGbCtD": 0.7126314994228976,
     "CbGeAlD": 0.05304211197692431,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03662710870265794,
     "CrCbGaD": 0.00593123187280722
   },
+  "n_trials": 0.0,
   "prediction": 0.00170211506912025,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

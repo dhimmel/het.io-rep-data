@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00943",
   "compound_name": "Zalcitabine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.36150845253576097,
   "metapath_contribution": {
     "CbGbCtD": 0.6682225482143538,
     "CbGdCrCtD": 0.00247829322944662,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2389676306795693,
     "CrCbGaD": 0.0004340700833246149
   },
+  "n_trials": 0.0,
   "prediction": 0.00181578604297565,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

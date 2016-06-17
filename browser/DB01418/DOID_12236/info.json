@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.5683581687646663,
     "CbGbCtD": 0.27292736496533626,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1270375161654167,
     "CrCbGaD": 0.0004176608150004752
   },
+  "n_trials": 0.0,
   "prediction": 0.00295564193540009,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

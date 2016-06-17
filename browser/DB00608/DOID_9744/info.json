@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.584525357607282,
   "metapath_contribution": {
     "CbGaD": 0.7586019597790616,
     "CbGpPWpGaD": 0.14863337493502565,
     "CcSEcCtD": 0.09276466528591258
   },
+  "n_trials": 0.0,
   "prediction": 0.00156530184610012,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.3382223178978604,
     "CbGbCtD": 0.11931150134271004,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0007054150387207932,
     "CtDrD": 0.4037034652028958
   },
+  "n_trials": 0.0,
   "prediction": 0.0196335576633297,
   "status": 0,
   "training_prediction": 0.16253443492359698

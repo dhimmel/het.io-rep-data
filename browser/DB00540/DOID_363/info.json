@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.280884265279584,
   "metapath_contribution": {
     "CbGbCtD": 0.630368153965668,
     "CbGeAlD": 0.08923873057382413,
     "CbGpPWpGaD": 0.03080593590543545,
     "CcSEcCtD": 0.24958717955507237
   },
+  "n_trials": 0.0,
   "prediction": 0.00124936505079191,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

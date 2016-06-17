@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.7504707968466712,
     "CbGdCrCtD": 0.0029891757099322225,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.17311714997803337,
     "CrCbGaD": 0.0006867510093982983
   },
+  "n_trials": 0.0,
   "prediction": 0.0032174860057809997,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

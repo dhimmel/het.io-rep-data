@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00351",
   "compound_name": "Megestrol acetate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.1193773360396235,
     "CbGbCtD": 0.2542086856831328,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.22651928413256486,
     "CrCtD": 0.20662273883375018
   },
+  "n_trials": 0.0,
   "prediction": 0.0178832646046572,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

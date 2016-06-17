@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.42327698309492895,
   "metapath_contribution": {
     "CbGaD": 0.37387482128758526,
     "CbGbCtD": 0.3281134138839235,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0028016415369722446,
     "CrCrCtD": 0.08753809790775617
   },
+  "n_trials": 0.0,
   "prediction": 0.00218882367036348,
   "status": 0,
   "training_prediction": 0.0147672472680428

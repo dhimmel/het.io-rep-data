@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.13849154746423903,
   "metapath_contribution": {
     "CbGaD": 0.5546950969152193,
     "CbGeAlD": 0.19083183682119967,
     "CbGpPWpGaD": 0.2502693871267061,
     "CrCbGaD": 0.004203679136874924
   },
+  "n_trials": 0.0,
   "prediction": 0.000805587726542866,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

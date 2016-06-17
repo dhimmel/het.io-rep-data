@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.09124527348816579,
     "CbGbCtD": 0.1738075820078159,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0014642916196782301,
     "CtDrD": 0.2497141892084717
   },
+  "n_trials": 5.0,
   "prediction": 0.01394595763782,
   "status": 0,
   "training_prediction": 0.193075214993112

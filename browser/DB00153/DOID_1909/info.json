@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00153",
   "compound_name": "Ergocalciferol",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.631339401820546,
   "metapath_contribution": {
     "CbGaD": 0.6998371150020373,
     "CbGbCtD": 0.03899623293911906,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1607252999534868,
     "CrCbGaD": 0.008690507207001366
   },
+  "n_trials": 0.0,
   "prediction": 0.00176233029263596,
   "status": 0,
   "training_prediction": 0.00535736922107435

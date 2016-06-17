@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.661898569570871,
   "metapath_contribution": {
     "CbGaD": 0.8029189883973216,
     "CbGeAlD": 0.03738488493748202,
     "CbGpPWpGaD": 0.14740812983791887,
     "CrCbGaD": 0.012287996827277572
   },
+  "n_trials": 0.0,
   "prediction": 0.00176857862398747,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

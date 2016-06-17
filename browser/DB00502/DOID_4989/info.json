@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.531209362808843,
   "metapath_contribution": {
     "CbGaD": 0.5417531552387338,
     "CbGeAlD": 0.012649608627379436,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2467449136292352,
     "CrCbGaD": 0.003771065181268585
   },
+  "n_trials": 0.0,
   "prediction": 0.00151855913895599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

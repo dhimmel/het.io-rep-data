@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.276983094928479,
   "metapath_contribution": {
     "CbGaD": 0.4598987140979478,
     "CbGbCtD": 0.31043946742555434,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07982416660209006,
     "CrCbGaD": 0.005609931596886957
   },
+  "n_trials": 0.0,
   "prediction": 0.00131153030069652,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

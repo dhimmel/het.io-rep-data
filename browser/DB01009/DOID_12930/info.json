@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.421976592977893,
   "metapath_contribution": {
     "CbGbCtD": 0.736081909247467,
     "CbGeAlD": 0.015435711941143973,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13501941949544932,
     "CrCbGaD": 0.0038283976020888834
   },
+  "n_trials": 0.0,
   "prediction": 0.0014890874043141699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

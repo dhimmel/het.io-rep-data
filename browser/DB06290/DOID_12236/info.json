@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.16046437891525234,
     "CbGbCtD": 0.07912332252671063,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03289732100743102,
     "CiPCiCtD": 0.6831645291562518
   },
+  "n_trials": 0.0,
   "prediction": 0.0102190400816912,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

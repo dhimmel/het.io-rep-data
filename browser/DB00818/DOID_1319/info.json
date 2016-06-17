@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.3720085376213164,
     "CbGbCtD": 0.43077488795881264,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06314687798123438,
     "CcSEcCtD": 0.07657846996435502
   },
+  "n_trials": 3.0,
   "prediction": 0.0054140020595815205,
   "status": 0,
   "training_prediction": 0.00985906080499547

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.20951891490492935,
     "CbGbCtD": 0.5155867725320612,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.019323806239493955,
     "CcSEcCtD": 0.19893173885239948
   },
+  "n_trials": 0.0,
   "prediction": 0.004250039889640339,
   "status": 0,
   "training_prediction": 0.013015765876111

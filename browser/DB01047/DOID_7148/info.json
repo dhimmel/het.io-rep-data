@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.06776484755884375,
     "CbGbCtD": 0.1098003273838115,
@@ -15,6 +17,7 @@
     "CrCtD": 0.19307973751731017,
     "CtDrD": 0.1520601354248422
   },
+  "n_trials": 0.0,
   "prediction": 0.103928299177162,
   "status": 0,
   "training_prediction": 0.386998478263796

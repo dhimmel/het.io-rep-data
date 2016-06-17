@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.28824861932807705,
     "CbGbCtD": 0.41505251132122956,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10227342169644382,
     "CcSEcCtD": 0.1620140209984585
   },
+  "n_trials": 4.0,
   "prediction": 0.00693571409953816,
   "status": 0,
   "training_prediction": 0.0363035317525207

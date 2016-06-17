@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01412",
   "compound_name": "Theobromine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.21811099649395538,
     "CbGbCtD": 0.3876704605915688,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0036945382392641005,
     "CrCrCtD": 0.37496332986800446
   },
+  "n_trials": 0.0,
   "prediction": 0.0108625911333768,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

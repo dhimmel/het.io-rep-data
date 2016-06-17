@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.414174252275683,
   "metapath_contribution": {
-    "CbGbCtD": 0.1312754518845266,
-    "CbGeAlD": 0.023605042799695105,
-    "CbGpPWpGaD": 0.059516824550801734,
-    "CcSEcCtD": 0.025283665851529392,
+    "CbGbCtD": 0.13127545188452663,
+    "CbGeAlD": 0.02360504279969511,
+    "CbGpPWpGaD": 0.05951682455080174,
+    "CcSEcCtD": 0.025283665851529396,
     "CrCbGaD": 0.0023417295236092474,
-    "CrCrCtD": 0.29523446674528303,
-    "CrCtD": 0.4627428186445548
+    "CrCrCtD": 0.2952344667452831,
+    "CrCtD": 0.46274281864455485
   },
+  "n_trials": 0.0,
   "prediction": 0.00203565752751593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

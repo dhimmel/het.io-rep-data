@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.507977575331916,
     "CbGbCtD": 0.29050741807600833,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.06159320971721024,
     "CcSEcCtD": 0.049323548418103595
   },
+  "n_trials": 0.0,
   "prediction": 0.00337855095847517,
   "status": 0,
   "training_prediction": 0.0102367646580246

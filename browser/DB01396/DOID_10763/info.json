@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01396",
   "compound_name": "Digitoxin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.392717815344603,
   "metapath_contribution": {
     "CbGaD": 0.4153454724530346,
     "CbGbCtD": 0.45683503813497744,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07791927176314233,
     "CrCbGaD": 0.00562411410171714
   },
+  "n_trials": 0.0,
   "prediction": 0.0029946173551335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

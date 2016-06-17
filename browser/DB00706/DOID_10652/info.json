@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00706",
   "compound_name": "Tamsulosin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8407022106631992,
   "metapath_contribution": {
     "CbGaD": 0.2560888297249831,
     "CbGbCtD": 0.4323016146073587,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17255840867214572,
     "CrCbGaD": 0.00382327755343301
   },
+  "n_trials": 0.0,
   "prediction": 0.00376754217259283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

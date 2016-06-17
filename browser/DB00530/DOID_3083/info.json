@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGaD": 0.5040076319641961,
     "CbGbCtD": 0.26825501505875954,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10769791667156194,
     "CrCbGaD": 0.00514953399262924
   },
+  "n_trials": 0.0,
   "prediction": 0.004175435811498021,
   "status": 0,
   "training_prediction": 0.020605415397465

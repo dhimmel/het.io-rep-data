@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGbCtD": 0.08069631619415546,
     "CbGeAlD": 0.004853409773979378,
@@ -13,6 +15,7 @@
     "CrCtD": 0.2411474489402,
     "CtDrD": 0.1818777673692069
   },
+  "n_trials": 0.0,
   "prediction": 0.38123460056150704,
   "status": 0,
   "training_prediction": 0.66769920180228

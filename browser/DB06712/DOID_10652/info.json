@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06712",
   "compound_name": "Nilvadipine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.35305591677503295,
   "metapath_contribution": {
     "CbGbCtD": 0.7097816931056118,
     "CbGeAlD": 0.05828510444767695,
     "CbGpPWpGaD": 0.22435245506079493,
     "CrCbGaD": 0.007580747385916292
   },
+  "n_trials": 1.0,
   "prediction": 0.00143068617516902,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

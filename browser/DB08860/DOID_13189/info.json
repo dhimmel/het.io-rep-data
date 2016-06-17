@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGaD": 0.380251271831251,
     "CbGbCtD": 0.5316964860049701,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06839031090947043,
     "CrCbGaD": 0.0021386500301744577
   },
+  "n_trials": 0.0,
   "prediction": 0.0060751020837924,
   "status": 0,
   "training_prediction": 0.0133142439469312

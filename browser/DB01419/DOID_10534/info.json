@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.492197659297789,
   "metapath_contribution": {
     "CbGaD": 0.9153089917896591,
     "CbGeAlD": 0.011217015398786907,
     "CbGpPWpGaD": 0.07181307211732804,
     "CrCbGaD": 0.0016609206942259087
   },
+  "n_trials": 0.0,
   "prediction": 0.00153699481330666,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

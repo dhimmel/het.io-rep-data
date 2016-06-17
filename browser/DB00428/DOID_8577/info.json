@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.524707412223667,
   "metapath_contribution": {
     "CbGaD": 0.35862909553592087,
     "CbGbCtD": 0.47386863199975765,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09338516372296327,
     "CrCbGaD": 0.007147941580762213
   },
+  "n_trials": 0.0,
   "prediction": 0.00217484895474096,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

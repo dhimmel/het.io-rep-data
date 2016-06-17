@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.7230169050715209,
   "metapath_contribution": {
     "CbGaD": 0.17846738328180667,
     "CbGbCtD": 0.6171302945876292,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11384395380475236,
     "CrCbGaD": 0.0009701948619390435
   },
+  "n_trials": 0.0,
   "prediction": 0.0024655685229267,
   "status": 0,
   "training_prediction": 0.00799623749269603

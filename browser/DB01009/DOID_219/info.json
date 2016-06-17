@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.345253576072822,
   "metapath_contribution": {
     "CbGaD": 0.3065968426686216,
     "CbGbCtD": 0.5136870685976312,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10533646068023644,
     "CrCbGaD": 0.004621788235051339
   },
+  "n_trials": 0.0,
   "prediction": 0.0012410210997383401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

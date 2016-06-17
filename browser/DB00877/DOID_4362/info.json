@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.64629388816645,
   "metapath_contribution": {
     "CbGaD": 0.7128929929047573,
     "CbGbCtD": 0.08583069388270528,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03747226623662685,
     "CrCbGaD": 0.008050368217128534
   },
+  "n_trials": 6.0,
   "prediction": 0.0016460987159011,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.8894668400520159,
   "metapath_contribution": {
     "CbGbCtD": 0.3605094430830126,
     "CbGdCrCtD": 0.0021300870512921013,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.6162189078960283,
     "CrCbGaD": 0.0007100420451098011
   },
+  "n_trials": 0.0,
   "prediction": 0.00340084577763579,
   "status": 0,
   "training_prediction": 0.0134197022915567

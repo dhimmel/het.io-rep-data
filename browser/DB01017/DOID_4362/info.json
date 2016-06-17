@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.778204984369463,
     "CbGeAlD": 0.10552444870752835,
     "CbGpPWpGaD": 0.11627056692300865
   },
+  "n_trials": 0.0,
   "prediction": 0.00350331073922354,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

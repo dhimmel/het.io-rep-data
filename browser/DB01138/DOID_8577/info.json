@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.724317295188557,
   "metapath_contribution": {
-    "CbGaD": 0.22721445040155538,
-    "CbGbCtD": 0.6480446966896471,
-    "CbGeAlD": 0.05603918674308831,
-    "CbGpPWpGaD": 0.06760418259047206,
+    "CbGaD": 0.2272144504015554,
+    "CbGbCtD": 0.6480446966896473,
+    "CbGeAlD": 0.05603918674308832,
+    "CbGpPWpGaD": 0.06760418259047207,
     "CrCbGaD": 0.0010974835752369826
   },
+  "n_trials": 0.0,
   "prediction": 0.00294533375107575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

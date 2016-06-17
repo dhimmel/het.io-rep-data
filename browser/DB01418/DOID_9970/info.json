@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.786736020806242,
   "metapath_contribution": {
     "CbGaD": 0.13253746416375753,
     "CbGbCtD": 0.4394847587604235,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003326832455287441,
     "CrCrCtD": 0.2715666485444938
   },
+  "n_trials": 0.0,
   "prediction": 0.00504337378736453,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

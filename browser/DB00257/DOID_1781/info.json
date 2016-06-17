@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.5572171651495451,
   "metapath_contribution": {
     "CbGbCtD": 0.8354225810476079,
     "CbGeAlD": 0.010620480200019686,
     "CbGpPWpGaD": 0.07129896970985856,
     "CcSEcCtD": 0.08265796904251382
   },
+  "n_trials": 0.0,
   "prediction": 0.0016281072143552,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

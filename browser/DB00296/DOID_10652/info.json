@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.24940833854668423,
     "CbGbCtD": 0.3978215423303154,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21929542758553752,
     "CrCbGaD": 0.0012537360806928121
   },
+  "n_trials": 0.0,
   "prediction": 0.00298681785618588,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

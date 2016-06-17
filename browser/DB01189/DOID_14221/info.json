@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.26610389385064953,
     "CbGbCtD": 0.6729202145080981,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.01158063185384943,
     "CrCbGaD": 0.002360548112922959
   },
+  "n_trials": 0.0,
   "prediction": 0.00340136396338541,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

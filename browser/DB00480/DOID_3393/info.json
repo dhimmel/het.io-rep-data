@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.637191157347204,
   "metapath_contribution": {
     "CbGaD": 0.1743459960061042,
     "CbGbCtD": 0.40114466552125294,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.25573043382324306,
     "CrCbGaD": 0.003651304123102421
   },
+  "n_trials": 0.0,
   "prediction": 0.00308362120322622,
   "status": 0,
   "training_prediction": 0.0164100968550815

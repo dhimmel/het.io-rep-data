@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.45838751625487606,
   "metapath_contribution": {
     "CbGaD": 0.3874838086448123,
     "CbGbCtD": 0.5782597724292964,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.012357717015268508,
     "CrCbGaD": 0.0001248532691610874
   },
+  "n_trials": 0.0,
   "prediction": 0.0013768223846577698,
   "status": 0,
   "training_prediction": 0.000620678959242826

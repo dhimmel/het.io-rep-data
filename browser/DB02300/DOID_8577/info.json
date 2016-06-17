@@ -1,8 +1,10 @@
 {
   "compound_id": "DB02300",
   "compound_name": "Calcipotriol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.14253776775697133,
     "CbGbCtD": 0.1065069453853753,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.149632272596681,
     "CrCtD": 0.22270700871178295
   },
+  "n_trials": 0.0,
   "prediction": 0.195830151387279,
   "status": 0,
   "training_prediction": 0.45513855312028706

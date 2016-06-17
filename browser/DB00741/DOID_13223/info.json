@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.36764705882352894,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.00455136540962289,
   "metapath_contribution": {
-    "CbGeAlD": 0.40027891595737325,
+    "CbGeAlD": 0.4002789159573733,
     "CbGpPWpGaD": 0.5308719851273861,
-    "CrCbGaD": 0.0688490989152406
+    "CrCbGaD": 0.06884909891524062
   },
+  "n_trials": 0.0,
   "prediction": 0.000583766722242257,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

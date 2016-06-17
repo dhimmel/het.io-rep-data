@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6898569570871259,
   "metapath_contribution": {
     "CbGaD": 0.33941893340656154,
     "CbGbCtD": 0.4853129639453458,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05971796307924806,
     "CrCbGaD": 0.0017105663873948486
   },
+  "n_trials": 1.0,
   "prediction": 0.00250834904707986,
   "status": 0,
   "training_prediction": 0.0192414758407196

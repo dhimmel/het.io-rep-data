@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.5901996468221945,
     "CbGbCtD": 0.27715174868692083,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04955788001956022,
     "CcSEcCtD": 0.017429242230253928
   },
+  "n_trials": 0.0,
   "prediction": 0.00919021871025474,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

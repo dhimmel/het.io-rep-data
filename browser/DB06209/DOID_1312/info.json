@@ -1,14 +1,16 @@
 {
   "compound_id": "DB06209",
   "compound_name": "Prasugrel",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.631989596879064,
   "metapath_contribution": {
     "CbGaD": 0.7539551426712016,
     "CbGbCtD": 0.2116685204375142,
     "CcSEcCtD": 0.03437633689128431
   },
+  "n_trials": 0.0,
   "prediction": 0.00172015954502341,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

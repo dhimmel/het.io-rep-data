@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00626",
   "compound_name": "Bacitracin",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.293888166449935,
   "metapath_contribution": {
-    "CbGeAlD": 0.546998549326777,
-    "CbGpPWpGaD": 0.43936374974226083,
-    "CrCbGaD": 0.013637700930962234
+    "CbGeAlD": 0.5469985493267769,
+    "CbGpPWpGaD": 0.4393637497422608,
+    "CrCbGaD": 0.013637700930962232
   },
+  "n_trials": 0.0,
   "prediction": 0.0011841669462220698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

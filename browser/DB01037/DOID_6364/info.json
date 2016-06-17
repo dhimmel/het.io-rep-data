@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGbCtD": 0.35221184140543443,
     "CbGeAlD": 0.006093486794123793,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.5006193104468731,
     "CrCbGaD": 0.001285085938119659
   },
+  "n_trials": 0.0,
   "prediction": 0.004833320428957811,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

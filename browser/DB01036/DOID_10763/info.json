@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGbCtD": 0.28227642144932225,
     "CbGeAlD": 0.0026812140601292778,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.18130779686907691,
     "CrCtD": 0.38187282494632535
   },
+  "n_trials": 0.0,
   "prediction": 0.012703542688196998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

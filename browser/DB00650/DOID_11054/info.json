@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.1797197411471833,
     "CbGbCtD": 0.21940959087293202,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.21564051827515693,
     "CrCtD": 0.32630359958958205
   },
+  "n_trials": 0.0,
   "prediction": 0.0292139285193997,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01045",
   "compound_name": "Rifampicin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7425227568270479,
   "metapath_contribution": {
     "CbGaD": 0.33298081686062486,
     "CbGbCtD": 0.5528729639588277,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09312406385040516,
     "CrCbGaD": 0.0021997812236054914
   },
+  "n_trials": 1.0,
   "prediction": 0.00426361277028739,
   "status": 0,
   "training_prediction": 0.0185838127924011

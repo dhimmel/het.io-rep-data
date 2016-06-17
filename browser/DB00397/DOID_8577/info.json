@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.512353706111834,
   "metapath_contribution": {
     "CbGaD": 0.6331606091224578,
     "CbGbCtD": 0.24091805898905774,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07635516826393833,
     "CrCbGaD": 0.005192092011607713
   },
+  "n_trials": 0.0,
   "prediction": 0.0021355677527804397,
   "status": 0,
   "training_prediction": 0.007287708315045891

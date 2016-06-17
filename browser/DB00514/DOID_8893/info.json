@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.338101430429129,
   "metapath_contribution": {
     "CbGbCtD": 0.8334943576312531,
     "CbGdCrCtD": 0.000907388715599219,
     "CbGpPWpGaD": 0.060799004772235404,
     "CcSEcCtD": 0.1047992488809123
   },
+  "n_trials": 1.0,
   "prediction": 0.0014671742911147,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

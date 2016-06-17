@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04839",
   "compound_name": "Cyproterone acetate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.36236617398065346,
     "CbGbCtD": 0.39582218390249135,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14079775563249639,
     "CrCbGaD": 0.0026003331333425816
   },
+  "n_trials": 11.0,
   "prediction": 0.00739125967654442,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

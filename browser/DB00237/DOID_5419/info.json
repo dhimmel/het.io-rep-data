@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00237",
   "compound_name": "Butabarbital",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.7870499338135204,
     "CbGeAlD": 0.06344266932554425,
     "CbGpPWpGaD": 0.1419390960012153,
     "CrCbGaD": 0.00756830085972008
   },
+  "n_trials": 0.0,
   "prediction": 0.00381244750588111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

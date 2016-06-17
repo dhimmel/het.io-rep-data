@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.481144343302991,
   "metapath_contribution": {
     "CbGaD": 0.24749064254668945,
     "CbGbCtD": 0.47962276165991785,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18641160519752825,
     "CrCbGaD": 0.003205176401275783
   },
+  "n_trials": 0.0,
   "prediction": 0.0037345000154782896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

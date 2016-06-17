@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.442132639791938,
   "metapath_contribution": {
     "CbGaD": 0.7589120443325719,
     "CbGeAlD": 0.12854328103516438,
     "CbGpPWpGaD": 0.10182151944048842,
     "CrCbGaD": 0.010723155191775333
   },
+  "n_trials": 4.0,
   "prediction": 0.00123252517595686,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

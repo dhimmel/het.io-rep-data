@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00391",
   "compound_name": "Sulpiride",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
     "CbGaD": 0.7969720297185814,
     "CbGeAlD": 0.0701172715741487,
     "CbGpPWpGaD": 0.12330313233618585,
     "CrCbGaD": 0.009607566371084042
   },
+  "n_trials": 10.0,
   "prediction": 0.00194855992015117,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.0806241872561769,
   "metapath_contribution": {
-    "CbGeAlD": 0.45410599943459407,
+    "CbGeAlD": 0.4541059994345941,
     "CbGpPWpGaD": 0.5406615970568284,
     "CrCbGaD": 0.005232403508577556
   },
+  "n_trials": 0.0,
   "prediction": 0.000685891659030861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

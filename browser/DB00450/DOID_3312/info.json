@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00450",
   "compound_name": "Droperidol",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.845819449631185,
     "CbGeAlD": 0.03996884003095721,
     "CbGpPWpGaD": 0.1057227665954403,
     "CrCbGaD": 0.008488943742417442
   },
+  "n_trials": 0.0,
   "prediction": 0.00259479203248377,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

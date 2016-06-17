@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00910",
   "compound_name": "Paricalcitol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.15081992171237138,
     "CbGbCtD": 0.1156388476811676,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.20007447642555817,
     "CrCtD": 0.29778327489828244
   },
+  "n_trials": 0.0,
   "prediction": 0.0551947885948985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0955786736020806,
   "metapath_contribution": {
     "CbGaD": 0.31588679095851835,
     "CbGbCtD": 0.3699526690700262,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11021952047675904,
     "CrCbGaD": 0.004041757656826761
   },
+  "n_trials": 0.0,
   "prediction": 0.000996249919670722,
   "status": 0,
   "training_prediction": 0.0171263027817112

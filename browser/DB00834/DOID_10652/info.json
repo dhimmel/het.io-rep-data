@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
     "CbGaD": 0.3271494612029215,
     "CbGbCtD": 0.39956946136315086,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07861038196469446,
     "CcSEcCtD": 0.18756451353704007
   },
+  "n_trials": 1.0,
   "prediction": 0.00407704524354907,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00352",
   "compound_name": "Tioguanine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.596879063719116,
   "metapath_contribution": {
     "CbGbCtD": 0.16892010307347058,
     "CbGeAlD": 0.1679683564812348,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.37481299674491864,
     "CrCbGaD": 0.011431111230532183
   },
+  "n_trials": 0.0,
   "prediction": 0.00288074830058113,
   "status": 0,
   "training_prediction": 0.0157847668272787

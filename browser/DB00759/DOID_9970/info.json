@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGaD": 0.20185854682471494,
     "CbGbCtD": 0.6322796863767974,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09197445373148688,
     "CrCbGaD": 0.006445736049412141
   },
+  "n_trials": 0.0,
   "prediction": 0.00288963976104417,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

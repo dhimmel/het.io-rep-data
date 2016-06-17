@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.507802340702211,
   "metapath_contribution": {
-    "CbGaD": 0.6519509989949817,
-    "CbGeAlD": 0.12478006507310489,
-    "CbGpPWpGaD": 0.22072137155730365,
+    "CbGaD": 0.6519509989949818,
+    "CbGeAlD": 0.1247800650731049,
+    "CbGpPWpGaD": 0.22072137155730367,
     "CrCbGaD": 0.0025475643746097447
   },
+  "n_trials": 0.0,
   "prediction": 0.00188673935913392,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

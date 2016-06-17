@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.770481144343303,
   "metapath_contribution": {
     "CbGaD": 0.17338881913199977,
     "CbGbCtD": 0.15573424812585882,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2259405415023958,
     "CrCtD": 0.3337391995178787
   },
+  "n_trials": 0.0,
   "prediction": 0.004354891049996461,
   "status": 0,
   "training_prediction": 0.151722762228061

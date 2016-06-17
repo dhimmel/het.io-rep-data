@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06287",
   "compound_name": "Temsirolimus",
+  "compound_percentile": 0.183823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0325097529258778,
   "metapath_contribution": {
     "CbGaD": 0.7231264306361666,
     "CbGeAlD": 0.0585450448413539,
     "CbGpPWpGaD": 0.21126012450452847,
     "CrCbGaD": 0.007068400017950976
   },
+  "n_trials": 0.0,
   "prediction": 0.0006463042905386969,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

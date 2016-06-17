@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.862158647594278,
   "metapath_contribution": {
     "CbGbCtD": 0.5164083991890556,
     "CbGeAlD": 0.020072774680412048,
     "CbGpPWpGaD": 0.09978102291412325,
     "CcSEcCtD": 0.36373780321640903
   },
+  "n_trials": 1.0,
   "prediction": 0.00294934371549506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

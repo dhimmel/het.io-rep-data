@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00389",
   "compound_name": "Carbimazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGbCtD": 0.8771283658676402,
     "CbGeAlD": 0.0020312178512754448,
     "CbGpPWpGaD": 0.06394749932631139,
     "CcSEcCtD": 0.05689291695477296
   },
+  "n_trials": 0.0,
   "prediction": 0.0106211794698662,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

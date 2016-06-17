@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06204",
   "compound_name": "Tapentadol",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
     "CbGaD": 0.6954937023810538,
     "CbGeAlD": 0.08921368523509646,
     "CbGpPWpGaD": 0.21394116719980774,
     "CrCbGaD": 0.0013514451840420541
   },
+  "n_trials": 0.0,
   "prediction": 0.00156145684839142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

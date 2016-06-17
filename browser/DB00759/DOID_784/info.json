@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.7210663198959691,
   "metapath_contribution": {
     "CbGaD": 0.7463994722300077,
     "CbGeAlD": 0.09520252157966934,
     "CbGpPWpGaD": 0.15181382795601306,
     "CrCbGaD": 0.006584178234309962
   },
+  "n_trials": 0.0,
   "prediction": 0.00211613428203967,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

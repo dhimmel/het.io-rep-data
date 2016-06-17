@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.5091027308192461,
   "metapath_contribution": {
     "CbGaD": 0.8459149831343086,
     "CbGpPWpGaD": 0.002583397890895142,
     "CcSEcCtD": 0.1456108037672837,
     "CrCbGaD": 0.0058908152075125035
   },
+  "n_trials": 0.0,
   "prediction": 0.00141243956346869,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

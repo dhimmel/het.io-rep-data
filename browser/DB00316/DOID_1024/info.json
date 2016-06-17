@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGbCtD": 0.5967756996943562,
     "CbGeAlD": 0.05979504908107982,
     "CcSEcCtD": 0.04331985207887081,
     "CrCrCtD": 0.3001093991456931
   },
+  "n_trials": 0.0,
   "prediction": 0.005599331638971979,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

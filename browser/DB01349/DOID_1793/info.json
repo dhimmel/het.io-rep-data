@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01349",
   "compound_name": "Tasosartan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGaD": 0.8175477934493033,
     "CbGbCtD": 0.028597822903600394,
     "CbGpPWpGaD": 0.1452533841951499,
     "CrCbGaD": 0.008600999451946287
   },
+  "n_trials": 0.0,
   "prediction": 0.0028235191794724,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

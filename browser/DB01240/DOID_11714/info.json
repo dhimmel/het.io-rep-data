@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.16710013003901197,
   "metapath_contribution": {
     "CbGbCtD": 0.1507525045709181,
     "CbGeAlD": 0.05492181712903435,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05487394092119272,
     "CrCbGaD": 0.012268766790708494
   },
+  "n_trials": 0.0,
   "prediction": 0.0010751694328542801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

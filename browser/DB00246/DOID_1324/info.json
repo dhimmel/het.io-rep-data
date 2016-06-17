@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00246",
   "compound_name": "Ziprasidone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.640442132639792,
   "metapath_contribution": {
-    "CbGbCtD": 0.48009051294172905,
-    "CbGeAlD": 0.0426786850665783,
-    "CbGpPWpGaD": 0.17075633929396478,
-    "CcSEcCtD": 0.30514068024259633,
-    "CrCbGaD": 0.0013337824551315207
+    "CbGbCtD": 0.480090512941729,
+    "CbGeAlD": 0.04267868506657829,
+    "CbGpPWpGaD": 0.17075633929396475,
+    "CcSEcCtD": 0.3051406802425963,
+    "CrCbGaD": 0.0013337824551315205
   },
+  "n_trials": 0.0,
   "prediction": 0.0023041668155805,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00280",
   "compound_name": "Disopyramide",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.48374512353706106,
   "metapath_contribution": {
     "CbGbCtD": 0.6291209351614142,
     "CbGeAlD": 0.031798884294400406,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24906521963580933,
     "CrCbGaD": 2.540883576684353e-06
   },
+  "n_trials": 0.0,
   "prediction": 0.0020488729624282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

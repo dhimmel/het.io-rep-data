@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.7951885565669699,
   "metapath_contribution": {
     "CbGaD": 0.6103893587683524,
     "CbGbCtD": 0.15236122271917063,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19078140960053094,
     "CrCbGaD": 0.005566781249099926
   },
+  "n_trials": 0.0,
   "prediction": 0.00242575326643798,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

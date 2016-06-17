@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.14166061450801654,
     "CbGbCtD": 0.1405582251391762,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2815000515327105,
     "CtDrD": 0.15769294993506566
   },
+  "n_trials": 0.0,
   "prediction": 0.16157841462005898,
   "status": 0,
   "training_prediction": 0.43945441642889

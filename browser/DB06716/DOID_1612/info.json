@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06716",
   "compound_name": "Fospropofol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.728218465539662,
   "metapath_contribution": {
     "CbGaD": 0.7179182007695002,
     "CbGeAlD": 0.014783747293901599,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15586089139900394,
     "CrCbGaD": 0.0058063953126775
   },
+  "n_trials": 0.0,
   "prediction": 0.00384130372379371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

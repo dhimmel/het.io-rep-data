@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00700",
   "compound_name": "Eplerenone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGbCtD": 0.2799822871502326,
     "CcSEcCtD": 0.04267410117711428,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.30602980985281275,
     "CrCtD": 0.370725445538281
   },
+  "n_trials": 0.0,
   "prediction": 0.00910359849101547,
   "status": 0,
   "training_prediction": 0.0499713170926533

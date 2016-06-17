@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGaD": 0.34265470510152657,
     "CbGbCtD": 0.4100059483219927,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07876400579525057,
     "CcSEcCtD": 0.15084287230704901
   },
+  "n_trials": 1.0,
   "prediction": 0.00439678032951039,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

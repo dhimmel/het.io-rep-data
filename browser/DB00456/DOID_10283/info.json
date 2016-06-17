@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.203511053315995,
   "metapath_contribution": {
     "CbGbCtD": 0.8117838275112914,
     "CbGeAlD": 0.06850690537652604,
     "CbGpPWpGaD": 0.11696886838998205,
     "CrCbGaD": 0.0027403987222005687
   },
+  "n_trials": 0.0,
   "prediction": 0.00123428127342489,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

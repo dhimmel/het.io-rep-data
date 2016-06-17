@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.752164726807745,
     "CbGbCtD": 0.06751630475886922,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05619456262824272,
     "CcSEcCtD": 0.05408126759539752
   },
+  "n_trials": 0.0,
   "prediction": 0.0039213036425759205,
   "status": 0,
   "training_prediction": 0.00861621000612357

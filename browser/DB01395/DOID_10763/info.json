@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.862158647594278,
   "metapath_contribution": {
     "CbGaD": 0.1984900851481958,
     "CbGbCtD": 0.19175507741791467,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.18509407345048273,
     "CrCtD": 0.3224092198562503
   },
+  "n_trials": 2.0,
   "prediction": 0.0138384785002441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

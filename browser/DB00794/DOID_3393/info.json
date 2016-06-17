@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00794",
   "compound_name": "Primidone",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.3849154746423929,
   "metapath_contribution": {
     "CbGaD": 0.1727276754292285,
     "CbGbCtD": 0.585168597894946,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14897654117888756,
     "CrCbGaD": 0.0017833752073003791
   },
+  "n_trials": 0.0,
   "prediction": 0.00194960489307469,
   "status": 0,
   "training_prediction": 0.0104264628156358

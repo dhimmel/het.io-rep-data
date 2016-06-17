@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.6762028608582571,
   "metapath_contribution": {
     "CbGaD": 0.7100143753780677,
     "CbGeAlD": 0.16468844743614153,
     "CbGpPWpGaD": 0.11449453419506822,
     "CrCbGaD": 0.010802642990722502
   },
+  "n_trials": 0.0,
   "prediction": 0.00176587387952195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

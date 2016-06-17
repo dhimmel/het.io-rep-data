@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.429778933680104,
   "metapath_contribution": {
     "CbGeAlD": 0.31943811605760836,
     "CbGpPWpGaD": 0.2477106142733776,
     "CcSEcCtD": 0.4157620889643834,
     "CrCbGaD": 0.017089180704630596
   },
+  "n_trials": 0.0,
   "prediction": 0.0012845470953409199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

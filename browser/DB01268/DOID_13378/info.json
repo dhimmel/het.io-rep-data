@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.40358880296086874,
     "CbGbCtD": 0.420911134433563,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07829750209980693,
     "CcSEcCtD": 0.00014336198436541204
   },
+  "n_trials": 0.0,
   "prediction": 0.0053384400107291795,
   "status": 0,
   "training_prediction": 0.00401905466718851

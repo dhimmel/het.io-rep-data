@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.5214564369310789,
   "metapath_contribution": {
     "CbGaD": 0.43273612335740635,
     "CbGeAlD": 0.18087025977186014,
     "CbGpPWpGaD": 0.3758852239485355,
     "CrCbGaD": 0.010508392922197992
   },
+  "n_trials": 0.0,
   "prediction": 0.00145632004587566,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

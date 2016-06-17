@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00519",
   "compound_name": "Trandolapril",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.16771316211275572,
     "CbGbCtD": 0.20680113157553148,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.23325689931779045,
     "CrCtD": 0.32260479901551525
   },
+  "n_trials": 0.0,
   "prediction": 0.0385686605836558,
   "status": 0,
   "training_prediction": 0.137859951523301

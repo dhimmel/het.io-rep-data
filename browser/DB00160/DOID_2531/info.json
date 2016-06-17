@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.15279583875162603,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.02143527593822976,
-    "CbGeAlD": 0.4223673283326506,
+    "CbGdCrCtD": 0.021435275938229765,
+    "CbGeAlD": 0.42236732833265067,
     "CbGpPWpGaD": 0.5343633493638748,
-    "CrCbGaD": 0.021834046365244827
+    "CrCbGaD": 0.02183404636524483
   },
+  "n_trials": 0.0,
   "prediction": 0.00114045064904122,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

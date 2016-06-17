@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.39596879063719104,
   "metapath_contribution": {
     "CbGbCtD": 0.6744668777351271,
     "CbGdCrCtD": 0.005224936700125367,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.25550666067534533,
     "CrCbGaD": 0.0008432955406756046
   },
+  "n_trials": 0.0,
   "prediction": 0.00122938756944442,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

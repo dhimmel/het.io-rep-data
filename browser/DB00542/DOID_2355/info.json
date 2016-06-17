@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.669700910273082,
   "metapath_contribution": {
     "CbGaD": 0.8071525219007888,
     "CbGeAlD": 0.07704127719686817,
     "CbGpPWpGaD": 0.11095088916166913,
     "CrCbGaD": 0.0048553117406739624
   },
+  "n_trials": 0.0,
   "prediction": 0.00154890710341367,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

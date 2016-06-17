@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.15819208215421676,
     "CbGbCtD": 0.19284956445081416,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.24152966406751036,
     "CrCtD": 0.3623264071215914
   },
+  "n_trials": 0.0,
   "prediction": 0.0391121147960192,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

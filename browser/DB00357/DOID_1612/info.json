@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00357",
   "compound_name": "Aminoglutethimide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGaD": 0.2953478378838578,
     "CbGbCtD": 0.506834082956967,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10049808440620012,
     "CrCbGaD": 0.0013142536530343397
   },
+  "n_trials": 0.0,
   "prediction": 0.00699110957974745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

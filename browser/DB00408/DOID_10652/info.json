@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
     "CbGaD": 0.411041965088707,
     "CbGbCtD": 0.3009435151669792,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10491271848514862,
     "CrCbGaD": 0.004030654280174753
   },
+  "n_trials": 0.0,
   "prediction": 0.00277958025504248,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

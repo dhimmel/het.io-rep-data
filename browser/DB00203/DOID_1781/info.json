@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGbCtD": 0.6400480087935614,
     "CbGeAlD": 0.025025225729214708,
     "CbGpPWpGaD": 0.033464939063933725,
     "CcSEcCtD": 0.3014618264132901
   },
+  "n_trials": 0.0,
   "prediction": 0.00252931244102912,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.779583875162549,
   "metapath_contribution": {
     "CbGaD": 0.5851990688400427,
     "CbGeAlD": 0.20494523865795247,
     "CbGpPWpGaD": 0.2092317351529948,
     "CrCbGaD": 0.0006239573490101341
   },
+  "n_trials": 0.0,
   "prediction": 0.0022879919253715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

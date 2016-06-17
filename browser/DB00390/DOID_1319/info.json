@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.05851755526658001,
   "metapath_contribution": {
     "CbGbCtD": 0.04989557560128025,
     "CbGdCrCtD": 0.01308424229745908,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1880737500299959,
     "CcSEcCtD": 0.25060857589517077
   },
+  "n_trials": 0.0,
   "prediction": 0.000709157009921299,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

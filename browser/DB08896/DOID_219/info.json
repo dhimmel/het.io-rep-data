@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08896",
   "compound_name": "Regorafenib",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6931079323797139,
   "metapath_contribution": {
     "CbGaD": 0.44818443136465996,
     "CbGbCtD": 0.2664771386062703,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.06245264500214763,
     "CrCbGaD": 0.0030669507696821814
   },
+  "n_trials": 0.0,
   "prediction": 0.00207846771227412,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

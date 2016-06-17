@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0676202860858258,
   "metapath_contribution": {
     "CbGaD": 0.35113244282269296,
     "CbGbCtD": 0.36735192772023234,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12688915388127392,
     "CrCbGaD": 0.00532677305219942
   },
+  "n_trials": 0.0,
   "prediction": 0.000867156615045459,
   "status": 0,
   "training_prediction": 0.0111987267665547

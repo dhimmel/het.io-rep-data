@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGaD": 0.2437889200519402,
     "CbGbCtD": 0.622806937402962,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.009555925790715182,
     "CrCbGaD": 0.0012318039220398866
   },
+  "n_trials": 0.0,
   "prediction": 0.0017762697721825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

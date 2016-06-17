@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0022092244534397797,
     "CbGeAlD": 7.576004625826384e-05,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0028289590077225694,
     "CtDrD": 0.8209742398520701
   },
+  "n_trials": 0.0,
   "prediction": 0.00195275543761806,
   "status": 0,
   "training_prediction": 0.0019263473940607

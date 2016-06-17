@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00805",
   "compound_name": "Minaprine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.6684035001639446,
     "CbGbCtD": 0.24420458234518072,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05404917053297222,
     "CrCbGaD": 0.005446013117936249
   },
+  "n_trials": 0.0,
   "prediction": 0.00266342403521961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

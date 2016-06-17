@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGaD": 0.8721477140746764,
     "CbGeAlD": 0.03886503579244921,
     "CbGpPWpGaD": 0.0889872501328744
   },
+  "n_trials": 0.0,
   "prediction": 0.0019356479583070101,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

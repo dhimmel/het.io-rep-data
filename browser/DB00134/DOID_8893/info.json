@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.389466840052016,
   "metapath_contribution": {
     "CbGbCtD": 0.09859318113232134,
     "CbGeAlD": 0.17614024086352784,
     "CbGpPWpGaD": 0.7127958276909544,
     "CrCbGaD": 0.012470750313196362
   },
+  "n_trials": 0.0,
   "prediction": 0.00160274216914251,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

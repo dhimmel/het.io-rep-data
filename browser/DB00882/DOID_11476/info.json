@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.3530675494038187,
     "CbGbCtD": 0.478032520593289,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13371222510266492,
     "CrCbGaD": 0.001627944177137113
   },
+  "n_trials": 0.0,
   "prediction": 0.00603873154973255,
   "status": 0,
   "training_prediction": 0.0194284754281381

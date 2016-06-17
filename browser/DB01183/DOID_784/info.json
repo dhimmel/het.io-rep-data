@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.5773732119635889,
   "metapath_contribution": {
     "CbGaD": 0.7165077009420999,
     "CbGeAlD": 0.058664068492907284,
     "CbGpPWpGaD": 0.2188888495391186,
     "CrCbGaD": 0.005939381025874229
   },
+  "n_trials": 0.0,
   "prediction": 0.00174648463014242,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.5747724317295191,
   "metapath_contribution": {
     "CbGaD": 0.11134624373945676,
     "CbGbCtD": 0.5404528935416234,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16718852859163372,
     "CrCbGaD": 0.0030537977283249472
   },
+  "n_trials": 0.0,
   "prediction": 0.00203321014629908,
   "status": 0,
   "training_prediction": 0.0133454890554793

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.423927178153446,
   "metapath_contribution": {
     "CbGbCtD": 0.855408103764189,
     "CbGeAlD": 0.0769927112366719,
     "CbGpPWpGaD": 0.00715024082744963,
     "CcSEcCtD": 0.060448944171689584
   },
+  "n_trials": 0.0,
   "prediction": 0.0018997155544681898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

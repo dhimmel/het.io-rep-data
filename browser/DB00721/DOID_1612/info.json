@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.622886866059818,
   "metapath_contribution": {
     "CbGaD": 0.4483998635721115,
     "CbGpPWpGaD": 0.034138930256045724,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0047641530884139655,
     "CrCrCtD": 0.4018771959272718
   },
+  "n_trials": 0.0,
   "prediction": 0.00306246108402238,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

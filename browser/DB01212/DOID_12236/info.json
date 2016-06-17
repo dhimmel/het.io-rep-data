@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.43302990897269206,
   "metapath_contribution": {
-    "CbGaD": 0.7125964219144251,
-    "CbGeAlD": 0.016702034716134198,
-    "CbGpPWpGaD": 0.02781487636686863,
-    "CcSEcCtD": 0.23821951673764813,
+    "CbGaD": 0.712596421914425,
+    "CbGeAlD": 0.016702034716134195,
+    "CbGpPWpGaD": 0.027814876366868628,
+    "CcSEcCtD": 0.2382195167376481,
     "CrCbGaD": 0.004667150264924049
   },
+  "n_trials": 0.0,
   "prediction": 0.0014621434250254302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGbCtD": 0.20201082659718952,
     "CbGdCrCtD": 0.0007614911370983624,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.26831241295251607,
     "CrCtD": 0.4424455239390241
   },
+  "n_trials": 0.0,
   "prediction": 0.00901774054513761,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

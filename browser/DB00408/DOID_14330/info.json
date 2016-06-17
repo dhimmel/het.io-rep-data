@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.7139141742522759,
   "metapath_contribution": {
     "CbGaD": 0.7145476479356995,
     "CbGeAlD": 0.10961173257124213,
     "CbGpPWpGaD": 0.16937735311504898,
     "CrCbGaD": 0.0064632663780094515
   },
+  "n_trials": 0.0,
   "prediction": 0.0018838559413766399,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

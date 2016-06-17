@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08819",
   "compound_name": "Tafluprost",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.37256176853055895,
   "metapath_contribution": {
     "CbGbCtD": 0.9371489609847163,
     "CbGdCrCtD": 0.006207429789117691,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04206416530910252,
     "CrCbGaD": 0.0098308520610786
   },
+  "n_trials": 0.0,
   "prediction": 0.00183236834878338,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

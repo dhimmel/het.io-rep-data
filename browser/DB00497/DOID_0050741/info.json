@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.221032729702387,
     "CbGbCtD": 0.17040933742666522,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.20576596806636263,
     "CrCtD": 0.3272011082661278
   },
+  "n_trials": 0.0,
   "prediction": 0.0866022889418428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

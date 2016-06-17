@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.39176653223855945,
     "CbGbCtD": 0.41206655318423774,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13822072998548468,
     "CrCbGaD": 0.0033166571370019213
   },
+  "n_trials": 0.0,
   "prediction": 0.0032849733290346603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

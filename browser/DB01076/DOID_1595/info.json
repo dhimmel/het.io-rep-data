@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.5624187256176851,
   "metapath_contribution": {
-    "CbGaD": 0.7606748223387481,
-    "CbGeAlD": 0.11962549571694626,
-    "CbGpPWpGaD": 0.11721291436300997,
+    "CbGaD": 0.7606748223387482,
+    "CbGeAlD": 0.11962549571694629,
+    "CbGpPWpGaD": 0.11721291436301,
     "CrCbGaD": 0.002486767581295644
   },
+  "n_trials": 0.0,
   "prediction": 0.00162401704547674,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

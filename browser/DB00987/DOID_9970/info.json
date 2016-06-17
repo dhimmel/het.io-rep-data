@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0364109232769831,
   "metapath_contribution": {
     "CbGaD": 0.41889566192989636,
     "CbGbCtD": 0.3197799444109521,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.14798108565374526,
     "CrCbGaD": 0.006816637118356186
   },
+  "n_trials": 0.0,
   "prediction": 0.000717784201288685,
   "status": 0,
   "training_prediction": 0.00306835235615172

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
     "CbGaD": 0.29615540096972487,
     "CbGbCtD": 0.4570355198027536,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18055654175242403,
     "CrCbGaD": 0.0002716814223616609
   },
+  "n_trials": 0.0,
   "prediction": 0.00202973607642625,
   "status": 0,
   "training_prediction": 0.0142578747525482

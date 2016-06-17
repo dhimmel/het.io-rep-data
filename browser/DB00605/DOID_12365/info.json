@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGbCtD": 0.5436621178074308,
     "CbGeAlD": 0.11271460174519701,
     "CbGpPWpGaD": 0.11325475675288312,
     "CcSEcCtD": 0.23036852369448907
   },
+  "n_trials": 0.0,
   "prediction": 0.00421459202771699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

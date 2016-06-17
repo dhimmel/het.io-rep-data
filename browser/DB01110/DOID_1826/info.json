@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.711963589076723,
   "metapath_contribution": {
     "CbGaD": 0.3285311092565864,
     "CbGbCtD": 0.389331606191125,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1038945322167466,
     "CrCbGaD": 0.00047743186151362655
   },
+  "n_trials": 0.0,
   "prediction": 0.00595293038826506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.6703511053315989,
   "metapath_contribution": {
     "CbGbCtD": 0.05556622591643336,
     "CbGdCrCtD": 0.013470410006138016,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.356668318221441,
     "CrCbGaD": 0.006063912832306642
   },
+  "n_trials": 0.0,
   "prediction": 0.00197735664636675,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

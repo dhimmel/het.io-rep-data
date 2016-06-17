@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00291",
   "compound_name": "Chlorambucil",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.14426291347526954,
     "CbGbCtD": 0.14451454329317787,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0010067440786956097,
     "CtDrD": 0.2551358432186384
   },
+  "n_trials": 0.0,
   "prediction": 0.0320344217335348,
   "status": 0,
   "training_prediction": 0.286891338613622

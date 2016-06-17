@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.657997399219766,
   "metapath_contribution": {
     "CbGaD": 0.1747779281268518,
     "CbGbCtD": 0.5680142547913397,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13351138352185607,
     "CrCbGaD": 0.0013016698128852408
   },
+  "n_trials": 0.0,
   "prediction": 0.0018891093958142101,
   "status": 0,
   "training_prediction": 0.00748786761550895

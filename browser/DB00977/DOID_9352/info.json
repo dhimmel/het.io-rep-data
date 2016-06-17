@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.23992197659297798,
   "metapath_contribution": {
     "CbGaD": 0.4046965181960827,
     "CbGbCtD": 0.37120756274034655,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13030524182491893,
     "CrCbGaD": 0.004522486259083928
   },
+  "n_trials": 2.0,
   "prediction": 0.00151097608335546,
   "status": 0,
   "training_prediction": 0.0110461770695126

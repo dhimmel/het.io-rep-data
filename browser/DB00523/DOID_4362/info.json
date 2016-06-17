@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.7996403299457392,
     "CbGbCtD": 0.02117183770472565,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.028128624412758686,
     "CrCbGaD": 0.007338422502165982
   },
+  "n_trials": 0.0,
   "prediction": 0.00195594354273638,
   "status": 0,
   "training_prediction": 0.00147129922397418

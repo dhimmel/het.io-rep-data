@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00371",
   "compound_name": "Meprobamate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.6523839104570005,
     "CbGbCtD": 0.23431917614065567,
     "CbGpPWpGaD": 0.05987276765726412,
     "CcSEcCtD": 0.05342414574507971
   },
+  "n_trials": 0.0,
   "prediction": 0.00652289016488325,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

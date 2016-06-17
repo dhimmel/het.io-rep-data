@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGeAlD": 0.8174173212681778,
     "CbGpPWpGaD": 0.18258267873182224
   },
+  "n_trials": 2.0,
   "prediction": 0.00205570146164435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

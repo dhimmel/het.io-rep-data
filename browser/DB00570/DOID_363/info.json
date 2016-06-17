@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.708712613784135,
   "metapath_contribution": {
     "CbGbCtD": 0.37790098465388416,
     "CbGdCrCtD": 0.001523047667475822,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.047776113820598154,
     "CtDrD": 0.439891266423474
   },
+  "n_trials": 0.0,
   "prediction": 0.0022622747672633604,
   "status": 0,
   "training_prediction": 0.0184184308058947

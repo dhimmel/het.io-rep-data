@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.33615084525357597,
   "metapath_contribution": {
-    "CbGaD": 0.7285379508759096,
-    "CbGeAlD": 0.005319778829028077,
-    "CbGpPWpGaD": 0.09690116503099006,
-    "CcSEcCtD": 0.16488868723649852,
-    "CrCbGaD": 0.004352418027573727
+    "CbGaD": 0.7285379508759097,
+    "CbGeAlD": 0.005319778829028078,
+    "CbGpPWpGaD": 0.09690116503099007,
+    "CcSEcCtD": 0.16488868723649855,
+    "CrCbGaD": 0.004352418027573728
   },
+  "n_trials": 0.0,
   "prediction": 0.00168178212589162,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

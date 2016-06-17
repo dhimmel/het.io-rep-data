@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.715864759427828,
   "metapath_contribution": {
     "CbGaD": 0.7481640540841716,
     "CbGeAlD": 0.09407460304453462,
     "CbGpPWpGaD": 0.1514559305892802,
     "CrCbGaD": 0.006305412282013587
   },
+  "n_trials": 0.0,
   "prediction": 0.00187152040903273,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

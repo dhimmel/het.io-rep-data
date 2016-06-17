@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.0741222366710013,
   "metapath_contribution": {
     "CbGbCtD": 0.3942633302907486,
     "CbGpPWpGaD": 0.050152634226575704,
     "CcSEcCtD": 0.5456338108558885,
     "CrCbGaD": 0.009950224626787307
   },
+  "n_trials": 2.0,
   "prediction": 0.00101614433008681,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

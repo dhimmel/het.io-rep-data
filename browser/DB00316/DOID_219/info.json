@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.40026175906553,
     "CbGbCtD": 0.353771043600817,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07040903720756052,
     "CcSEcCtD": 0.10302689933836884
   },
+  "n_trials": 0.0,
   "prediction": 0.00358655790606021,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

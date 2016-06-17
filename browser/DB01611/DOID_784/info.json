@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.0661764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.131339401820546,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.9256576910153304,
     "CrCbGaD": 0.07434230898466963
   },
+  "n_trials": 1.0,
   "prediction": 0.0008929778024679491,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

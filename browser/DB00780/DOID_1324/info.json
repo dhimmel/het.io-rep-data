@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGaD": 0.28083154383395065,
     "CbGbCtD": 0.46281705252847444,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08881304686820113,
     "CrCbGaD": 0.0020206723717469247
   },
+  "n_trials": 0.0,
   "prediction": 0.0022530709369054103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGaD": 0.505888884418714,
     "CbGbCtD": 0.4235527348978732,
     "CcSEcCtD": 0.06612536225482689,
     "CrCbGaD": 0.004433018428585853
   },
+  "n_trials": 0.0,
   "prediction": 0.00270212661120458,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

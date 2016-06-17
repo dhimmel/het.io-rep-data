@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.126788036410923,
   "metapath_contribution": {
     "CbGaD": 0.29400713672612366,
     "CbGbCtD": 0.47444615132578716,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09891984990391864,
     "CrCbGaD": 0.0014204943266470848
   },
+  "n_trials": 0.0,
   "prediction": 0.000849798049555853,
   "status": 0,
   "training_prediction": 0.0020214252695378103

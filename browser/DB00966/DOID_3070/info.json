@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.649544863459038,
   "metapath_contribution": {
     "CbGaD": 0.7628480068330898,
     "CbGeAlD": 0.011166778758031374,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13595579926652251,
     "CrCbGaD": 0.0003675493256682862
   },
+  "n_trials": 0.0,
   "prediction": 0.0017276399185537,
   "status": 0,
   "training_prediction": 0.00212051860791793

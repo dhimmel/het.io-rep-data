@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00323",
   "compound_name": "Tolcapone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.538361508452536,
   "metapath_contribution": {
     "CbGaD": 0.3342436272504499,
     "CbGbCtD": 0.4032461885380703,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18735624814365814,
     "CrCbGaD": 0.0030893689240634593
   },
+  "n_trials": 0.0,
   "prediction": 0.00430337567081631,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

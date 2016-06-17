@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8459037711313391,
   "metapath_contribution": {
     "CbGaD": 0.18763740964889564,
     "CbGbCtD": 0.25956670586161606,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.009144455277448681,
     "CpDpCtD": 0.5409559365691625
   },
+  "n_trials": 0.0,
   "prediction": 0.00321093786207942,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

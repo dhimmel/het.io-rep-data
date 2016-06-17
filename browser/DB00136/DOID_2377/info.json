@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00136",
   "compound_name": "Calcitriol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.7399249337749594,
     "CbGbCtD": 0.08623690122690568,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0618492793788576,
     "CrCbGaD": 0.007908319556440288
   },
+  "n_trials": 0.0,
   "prediction": 0.00415330271893378,
   "status": 0,
   "training_prediction": 0.0175566927314766

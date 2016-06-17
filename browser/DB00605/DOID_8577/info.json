@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.25699343025007937,
     "CbGbCtD": 0.2880672928078099,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.05767584146782409,
     "CpDpCtD": 0.31665561130542275
   },
+  "n_trials": 0.0,
   "prediction": 0.0124069819771265,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

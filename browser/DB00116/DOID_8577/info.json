@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.181404421326398,
   "metapath_contribution": {
     "CbGbCtD": 0.05585013763578464,
     "CbGdCrCtD": 0.0325151320871171,
     "CbGeAlD": 0.4273550295431443,
     "CbGpPWpGaD": 0.484279700733954
   },
+  "n_trials": 0.0,
   "prediction": 0.00125925656569607,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

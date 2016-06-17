@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8179453836150848,
   "metapath_contribution": {
     "CbGaD": 0.45869075647749996,
     "CbGbCtD": 0.2624757813663719,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14297564335636376,
     "CrCbGaD": 0.002078067003816968
   },
+  "n_trials": 0.0,
   "prediction": 0.0051249893202765,
   "status": 0,
   "training_prediction": 0.0209533080625539

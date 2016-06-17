@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGbCtD": 0.20462235860784184,
     "CbGeAlD": 0.055930604028774096,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0043240203167280635,
     "CrCrCtD": 0.7044481575004983
   },
+  "n_trials": 0.0,
   "prediction": 0.00284077838790702,
   "status": 0,
   "training_prediction": 0.0120597316443865

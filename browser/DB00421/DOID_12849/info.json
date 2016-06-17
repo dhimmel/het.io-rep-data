@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.296488946684005,
   "metapath_contribution": {
     "CbGaD": 0.7768968137175146,
     "CbGeAlD": 0.07285417849736828,
     "CbGpPWpGaD": 0.1392284068821968,
     "CrCbGaD": 0.01102060090292036
   },
+  "n_trials": 0.0,
   "prediction": 0.00102761451625189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.100780234070221,
   "metapath_contribution": {
     "CbGaD": 0.330222062727694,
     "CbGbCtD": 0.4205950825179472,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14925204381769727,
     "CrCbGaD": 0.00454237328272614
   },
+  "n_trials": 0.0,
   "prediction": 0.000985067054311575,
   "status": 0,
   "training_prediction": 0.00434162584311534

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.135240572171652,
   "metapath_contribution": {
-    "CbGaD": 0.638819908880186,
-    "CbGeAlD": 0.09162721734601433,
-    "CbGpPWpGaD": 0.0993307869257932,
-    "CcSEcCtD": 0.163200401487074,
-    "CrCbGaD": 0.007021685360932457
+    "CbGaD": 0.6388199088801859,
+    "CbGeAlD": 0.09162721734601431,
+    "CbGpPWpGaD": 0.09933078692579318,
+    "CcSEcCtD": 0.16320040148707396,
+    "CrCbGaD": 0.0070216853609324555
   },
+  "n_trials": 0.0,
   "prediction": 0.0008411847103032901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

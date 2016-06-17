@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.4164139805366445,
     "CbGbCtD": 0.3710598407014686,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16601989504331763,
     "CrCbGaD": 0.006276987149998055
   },
+  "n_trials": 0.0,
   "prediction": 0.00481499995472064,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

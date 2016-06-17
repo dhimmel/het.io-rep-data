@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7522756827048109,
   "metapath_contribution": {
     "CbGaD": 0.31105927537804345,
     "CbGbCtD": 0.29241519922544223,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0017258640175673266,
     "CrCrCtD": 0.1746352918129914
   },
+  "n_trials": 0.0,
   "prediction": 0.0081831302250771,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

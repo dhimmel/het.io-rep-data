@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.505851755526658,
   "metapath_contribution": {
     "CbGaD": 0.3014397896698023,
     "CbGbCtD": 0.4730497893523323,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13425536336054908,
     "CrCbGaD": 0.0033045936880822494
   },
+  "n_trials": 0.0,
   "prediction": 0.00252688063472716,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

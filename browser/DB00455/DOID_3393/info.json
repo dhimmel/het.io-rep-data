@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00455",
   "compound_name": "Loratadine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.18636123440491606,
     "CbGbCtD": 0.5658270103760137,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15659945657003288,
     "CrCbGaD": 0.0015639587616685816
   },
+  "n_trials": 0.0,
   "prediction": 0.0053697551188601296,
   "status": 0,
   "training_prediction": 0.0621575745331298

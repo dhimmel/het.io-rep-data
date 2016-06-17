@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04575",
   "compound_name": "Quinestrol",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.390767230169051,
   "metapath_contribution": {
     "CbGaD": 0.859679841460797,
     "CbGeAlD": 0.06793083363876609,
     "CbGpPWpGaD": 0.062374441119388564,
     "CrCbGaD": 0.010014883781048391
   },
+  "n_trials": 0.0,
   "prediction": 0.0012611434678002698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

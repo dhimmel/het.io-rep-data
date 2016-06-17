@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.7399219765929781,
   "metapath_contribution": {
     "CbGaD": 0.2101566673994819,
     "CbGbCtD": 0.5378847977083142,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20666365081473984,
     "CrCbGaD": 0.0023237649603064544
   },
+  "n_trials": 0.0,
   "prediction": 0.0027360451789359397,
   "status": 0,
   "training_prediction": 0.0115467710346929

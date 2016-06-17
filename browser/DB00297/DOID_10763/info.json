@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00297",
   "compound_name": "Bupivacaine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.425227568270481,
   "metapath_contribution": {
     "CbGbCtD": 0.4152663372036155,
     "CbGeAlD": 0.005209463878804861,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.001028087173198509,
     "CrCrCtD": 0.31131960108527895
   },
+  "n_trials": 1.0,
   "prediction": 0.00320581021334077,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

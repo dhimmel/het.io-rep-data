@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGaD": 0.09430134764638592,
     "CbGbCtD": 0.2627495608059714,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.000853825607872341,
     "CrCrCtD": 0.19018675457146098
   },
+  "n_trials": 0.0,
   "prediction": 0.00384242159717549,
   "status": 0,
   "training_prediction": 0.0216067600802909

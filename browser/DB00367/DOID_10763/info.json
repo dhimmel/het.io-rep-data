@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.397919375812744,
   "metapath_contribution": {
     "CbGaD": 0.2623036761899275,
     "CbGbCtD": 0.24311663664975583,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00338864421904282,
     "CrCrCtD": 0.25148239411359163
   },
+  "n_trials": 0.0,
   "prediction": 0.0030286093126397602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

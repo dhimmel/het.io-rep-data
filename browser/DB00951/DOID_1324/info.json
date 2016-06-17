@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00951",
   "compound_name": "Isoniazid",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.45815221036073006,
     "CbGbCtD": 0.3463674022942566,
     "CbGpPWpGaD": 0.09322159715848265,
     "CcSEcCtD": 0.1022587901865306
   },
+  "n_trials": 0.0,
   "prediction": 0.00698633648940645,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

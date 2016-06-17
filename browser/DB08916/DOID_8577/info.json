@@ -1,18 +1,20 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.258777633289987,
   "metapath_contribution": {
-    "CbGaD": 0.3056507535862891,
+    "CbGaD": 0.30565075358628907,
     "CbGbCtD": 0.25491241208472526,
-    "CbGdCrCtD": 0.006510935121256218,
-    "CbGeAlD": 0.0386312986648389,
-    "CbGpPWpGaD": 0.23876914264335558,
-    "CcSEcCtD": 0.14845277298398937,
-    "CrCbGaD": 0.007072684915545674
+    "CbGdCrCtD": 0.0065109351212562176,
+    "CbGeAlD": 0.038631298664838894,
+    "CbGpPWpGaD": 0.23876914264335553,
+    "CcSEcCtD": 0.14845277298398935,
+    "CrCbGaD": 0.007072684915545672
   },
+  "n_trials": 0.0,
   "prediction": 0.0014616321635315401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

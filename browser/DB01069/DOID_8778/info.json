@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.0156046814044213,
   "metapath_contribution": {
-    "CbGeAlD": 0.3069993952681956,
-    "CbGpPWpGaD": 0.57669551601375,
-    "CcSEcCtD": 0.10417926538834148,
-    "CrCbGaD": 0.01212582332971271
+    "CbGeAlD": 0.30699939526819564,
+    "CbGpPWpGaD": 0.5766955160137501,
+    "CcSEcCtD": 0.10417926538834149,
+    "CrCbGaD": 0.012125823329712711
   },
+  "n_trials": 1.0,
   "prediction": 0.0006728963463420941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.8447556379339184,
     "CbGeAlD": 0.04148494307920793,
     "CbGpPWpGaD": 0.10704818178893141,
     "CrCbGaD": 0.00671123719794235
   },
+  "n_trials": 2.0,
   "prediction": 0.0020352161225969897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

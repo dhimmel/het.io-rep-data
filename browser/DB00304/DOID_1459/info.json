@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.6742522756827048,
   "metapath_contribution": {
     "CbGaD": 0.8394698057604025,
     "CbGeAlD": 0.0852432518798971,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04676441867012678,
     "CrCbGaD": 0.005128832743147993
   },
+  "n_trials": 0.0,
   "prediction": 0.00202880133329634,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

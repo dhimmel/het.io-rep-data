@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.7798817800301087,
     "CbGeAlD": 0.01634177806743805,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.010462331197185731,
     "CrCbGaD": 0.005037686702670483
   },
+  "n_trials": 0.0,
   "prediction": 0.00198625593863386,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

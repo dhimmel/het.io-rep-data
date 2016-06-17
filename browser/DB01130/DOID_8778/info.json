@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01130",
   "compound_name": "Prednicarbate",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGbCtD": 0.07108444532435676,
     "CcSEcCtD": 0.003980278181942551,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.20256666549077496,
     "CrCtD": 0.3018128119915575
   },
+  "n_trials": 0.0,
   "prediction": 0.0070049075817840605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

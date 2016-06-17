@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGbCtD": 0.46702473552354856,
     "CbGdCrCtD": 0.003555060159515348,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14461356349132354,
     "CrCbGaD": 0.009812929571121797
   },
+  "n_trials": 0.0,
   "prediction": 0.00221393020714522,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

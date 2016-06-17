@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.37126137841352397,
   "metapath_contribution": {
     "CbGaD": 0.273306023839783,
     "CbGbCtD": 0.09231757027336095,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.37048148271453346,
     "CrCbGaD": 0.013131444036558927
   },
+  "n_trials": 0.0,
   "prediction": 0.0024842186816896898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

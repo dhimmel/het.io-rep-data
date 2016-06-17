@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00628",
   "compound_name": "Clorazepate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.6703511053315989,
   "metapath_contribution": {
     "CbGaD": 0.6205700399646831,
     "CbGbCtD": 0.2562452724560978,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11906597813802677,
     "CrCbGaD": 0.0033612262246884212
   },
+  "n_trials": 0.0,
   "prediction": 0.00341031917949632,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

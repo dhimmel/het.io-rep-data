@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00909",
   "compound_name": "Zonisamide",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.6711531720333749,
     "CbGeAlD": 0.15614516143879095,
     "CbGpPWpGaD": 0.1727016665278341
   },
+  "n_trials": 1.0,
   "prediction": 0.00241628091349634,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

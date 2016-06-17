@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGbCtD": 0.6236926582931929,
     "CbGdCrCtD": 0.005760923729897282,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1633721363821155,
     "CrCbGaD": 0.00281695819156893
   },
+  "n_trials": 0.0,
   "prediction": 0.00275195219576491,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

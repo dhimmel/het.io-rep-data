@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGbCtD": 0.6840689113553052,
     "CbGeAlD": 0.09128090335978795,
     "CbGpPWpGaD": 0.12499211389218681,
     "CcSEcCtD": 0.09965807139272001
   },
+  "n_trials": 0.0,
   "prediction": 0.00266235757471617,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

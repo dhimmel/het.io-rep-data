@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.423927178153446,
   "metapath_contribution": {
     "CbGbCtD": 0.274374539200307,
     "CbGpPWpGaD": 0.12956957490141172,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0015157313058814174,
     "CrCrCtD": 0.3935999410263946
   },
+  "n_trials": 0.0,
   "prediction": 0.00320003196858314,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

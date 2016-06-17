@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.213235294117647,
   "disease_id": "DOID:216",
   "disease_name": "dental caries",
+  "disease_percentile": 0.00715214564369311,
   "metapath_contribution": {
     "CbGeAlD": 0.028101263749555853,
     "CbGpPWpGaD": 0.9718987362504442
   },
+  "n_trials": 0.0,
   "prediction": 0.00058102519562333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

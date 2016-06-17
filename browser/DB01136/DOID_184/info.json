@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.7418725617685309,
   "metapath_contribution": {
     "CbGaD": 0.27925164451548296,
     "CbGbCtD": 0.41496836737728376,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1281899034456233,
     "CrCbGaD": 0.0019966435185372125
   },
+  "n_trials": 0.0,
   "prediction": 0.0021627925706781603,
   "status": 0,
   "training_prediction": 0.00308529004158633

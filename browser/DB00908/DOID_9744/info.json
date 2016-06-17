@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.7600780234070219,
   "metapath_contribution": {
     "CbGaD": 0.7767455975341511,
     "CbGeAlD": 0.045202829549012974,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07202934302126877,
     "CrCbGaD": 0.008395992447315991
   },
+  "n_trials": 0.0,
   "prediction": 0.00195417570845836,
   "status": 0,
   "training_prediction": 0.000881232758487853

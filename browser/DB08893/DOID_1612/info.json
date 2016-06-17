@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.662548764629389,
   "metapath_contribution": {
     "CbGaD": 0.4094796997938255,
     "CbGbCtD": 0.3931503408993914,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1324669440374466,
     "CrCbGaD": 0.0004556712840858836
   },
+  "n_trials": 0.0,
   "prediction": 0.00333702655762995,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

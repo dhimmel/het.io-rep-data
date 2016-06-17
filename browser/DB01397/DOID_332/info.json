@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGaD": 0.8359510327761202,
     "CbGpPWpGaD": 0.00449207885401236,
     "CcSEcCtD": 0.15241565647105937,
     "CrCbGaD": 0.007141231898808102
   },
+  "n_trials": 0.0,
   "prediction": 0.00171331695909924,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

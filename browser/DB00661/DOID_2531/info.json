@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
     "CbGaD": 0.27493333433418293,
     "CbGbCtD": 0.4726392708948068,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1309268520299473,
     "CrCbGaD": 0.0008395595829013786
   },
+  "n_trials": 0.0,
   "prediction": 0.0040319519719729,
   "status": 0,
   "training_prediction": 0.0578744727475084

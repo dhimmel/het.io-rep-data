@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01621",
   "compound_name": "Pipotiazine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.365409622886866,
   "metapath_contribution": {
     "CbGaD": 0.36888754510481464,
     "CbGbCtD": 0.5202604955553393,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09659691269105525,
     "CrCbGaD": 0.0027980296842425936
   },
+  "n_trials": 0.0,
   "prediction": 0.0018306993863118801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

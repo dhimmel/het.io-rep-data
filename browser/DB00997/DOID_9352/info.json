@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.35630689206762,
   "metapath_contribution": {
     "CbGaD": 0.361602078227311,
     "CbGbCtD": 0.3547185062845332,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1194681050177529,
     "CrCbGaD": 0.0007790969191353526
   },
+  "n_trials": 0.0,
   "prediction": 0.00196026165702358,
   "status": 0,
   "training_prediction": 0.083777371840179

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.35891250322867624,
     "CbGbCtD": 0.5606070252991443,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07256968390898128,
     "CrCbGaD": 0.0011036302086928763
   },
+  "n_trials": 0.0,
   "prediction": 0.00374401853571895,
   "status": 0,
   "training_prediction": 0.0127271167564015

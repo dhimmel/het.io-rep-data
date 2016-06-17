@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
     "CbGbCtD": 0.6376446884381636,
     "CbGdCrCtD": 0.00455352588062023,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.21685241607490954,
     "CcSEcCtD": 0.05098773158989442
   },
+  "n_trials": 1.0,
   "prediction": 0.00186944000816577,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

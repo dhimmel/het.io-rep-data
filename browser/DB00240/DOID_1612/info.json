@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.15734720416124803,
   "metapath_contribution": {
     "CbGaD": 0.15436751959006842,
     "CbGbCtD": 0.33384426669238443,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0028120669911065495,
     "CrCrCtD": 0.4357378894407951
   },
+  "n_trials": 0.0,
   "prediction": 0.00116454540349669,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

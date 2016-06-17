@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01558",
   "compound_name": "Bromazepam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.5081623397536134,
     "CbGbCtD": 0.2974873280443853,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06292639539541998,
     "CrCbGaD": 0.0037712292717613683
   },
+  "n_trials": 0.0,
   "prediction": 0.00963376155915903,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.116384915474642,
   "metapath_contribution": {
     "CbGaD": 0.8078303385603434,
     "CbGbCtD": 0.04503713472536648,
     "CbGpPWpGaD": 0.14147435509165585,
     "CrCbGaD": 0.005658171622634271
   },
+  "n_trials": 0.0,
   "prediction": 0.0007888464286937769,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

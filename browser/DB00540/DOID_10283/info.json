@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.544863459037711,
   "metapath_contribution": {
     "CbGaD": 0.31270935208131273,
     "CbGbCtD": 0.4038770344518408,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1375167725646965,
     "CrCbGaD": 0.0023542917133816017
   },
+  "n_trials": 0.0,
   "prediction": 0.0024575937590683,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

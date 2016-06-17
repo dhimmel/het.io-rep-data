@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.45541996021109304,
     "CbGbCtD": 0.4763187637633879,
     "CbGpPWpGaD": 0.06646430259500744,
     "CrCbGaD": 0.0017969734305115551
   },
+  "n_trials": 0.0,
   "prediction": 0.0033412192863234197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

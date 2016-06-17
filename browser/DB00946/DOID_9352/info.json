@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00946",
   "compound_name": "Phenprocoumon",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGaD": 0.30590319383305126,
     "CbGbCtD": 0.631607004120068,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.05391041631615253,
     "CrCbGaD": 0.0032965497520010736
   },
+  "n_trials": 0.0,
   "prediction": 0.00262717268561681,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.47984395318595596,
   "metapath_contribution": {
     "CbGaD": 0.38797372523726764,
     "CbGbCtD": 0.37596949652370565,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15384015044326346,
     "CrCbGaD": 0.003673894580998512
   },
+  "n_trials": 0.0,
   "prediction": 0.00240741954218635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.28676470588235303,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.286736020806242,
   "metapath_contribution": {
     "CbGaD": 0.5944586144415898,
     "CbGeAlD": 0.16278650294613925,
     "CbGpPWpGaD": 0.2367638091538689,
     "CrCbGaD": 0.005991073458401997
   },
+  "n_trials": 0.0,
   "prediction": 0.00113698336467605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

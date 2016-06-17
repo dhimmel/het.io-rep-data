@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.13791465966967167,
     "CbGbCtD": 0.14342419397942563,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.16565728786060965,
     "CrCtD": 0.25325579101162654
   },
+  "n_trials": 0.0,
   "prediction": 0.0554466289163364,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

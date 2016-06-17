@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGaD": 0.3806329071408679,
     "CbGbCtD": 0.3797987326049171,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16797460934224762,
     "CrCbGaD": 0.004341030866383207
   },
+  "n_trials": 0.0,
   "prediction": 0.0044225733911020795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

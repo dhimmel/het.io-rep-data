@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.655396618985696,
   "metapath_contribution": {
     "CbGaD": 0.4053329507682022,
     "CbGdCrCtD": 0.0015821643639183404,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004549211892842907,
     "CrCrCtD": 0.3568963719206674
   },
+  "n_trials": 0.0,
   "prediction": 0.0019748059408261,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

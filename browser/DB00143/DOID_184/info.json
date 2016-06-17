@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.2950026518891836,
     "CbGbCtD": 0.536143894459426,
     "CbGeAlD": 0.04992425008394351,
     "CbGpPWpGaD": 0.1189292035674468
   },
+  "n_trials": 0.0,
   "prediction": 0.00460910429892879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

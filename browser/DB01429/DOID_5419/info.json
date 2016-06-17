@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01429",
   "compound_name": "Aprindine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.48244473342002603,
   "metapath_contribution": {
     "CbGaD": 0.5485947113593703,
     "CbGeAlD": 0.12335680808378642,
     "CbGpPWpGaD": 0.3150273411313172,
     "CrCbGaD": 0.01302113942552613
   },
+  "n_trials": 0.0,
   "prediction": 0.00151485612678375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

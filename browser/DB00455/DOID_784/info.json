@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00455",
   "compound_name": "Loratadine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.850455136540962,
   "metapath_contribution": {
     "CbGaD": 0.8178357758141599,
     "CbGeAlD": 0.04301126185995665,
     "CbGpPWpGaD": 0.13524992458724802,
     "CrCbGaD": 0.003903037738635544
   },
+  "n_trials": 0.0,
   "prediction": 0.00278752496890498,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

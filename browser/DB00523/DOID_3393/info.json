@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.293888166449935,
   "metapath_contribution": {
     "CbGaD": 0.44814351415186354,
     "CbGbCtD": 0.2413027893012519,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1777065907465892,
     "CrCbGaD": 0.004113125155548346
   },
+  "n_trials": 0.0,
   "prediction": 0.0015658464588548901,
   "status": 0,
   "training_prediction": 0.013922241505363002

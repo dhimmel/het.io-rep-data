@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.6020806241872559,
   "metapath_contribution": {
     "CbGaD": 0.7966275545130452,
     "CbGbCtD": 0.04510973676498116,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09804746777791133,
     "CrCbGaD": 0.012151257677248216
   },
+  "n_trials": 0.0,
   "prediction": 0.0018765311141350802,
   "status": 0,
   "training_prediction": 0.0030837144880024397

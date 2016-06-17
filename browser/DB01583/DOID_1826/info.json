@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.666449934980494,
   "metapath_contribution": {
     "CbGaD": 0.3329631806496088,
     "CbGbCtD": 0.3743738123571078,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15290422897725842,
     "CrCbGaD": 0.0024328428240694274
   },
+  "n_trials": 0.0,
   "prediction": 0.00515982767273758,
   "status": 0,
   "training_prediction": 0.0248323803289735

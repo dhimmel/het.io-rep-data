@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.624187256176853,
   "metapath_contribution": {
     "CbGbCtD": 0.8673609273954683,
     "CbGeAlD": 0.007147998731886601,
     "CbGpPWpGaD": 0.12288012816337142,
     "CrCbGaD": 0.0026109457092736736
   },
+  "n_trials": 0.0,
   "prediction": 0.00218339157614657,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

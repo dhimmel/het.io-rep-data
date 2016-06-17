@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.17230169050715197,
   "metapath_contribution": {
     "CbGbCtD": 0.3770058621813093,
     "CbGeAlD": 0.07389004486835436,
     "CbGpPWpGaD": 0.09342011312941514,
     "CcSEcCtD": 0.4556839798209212
   },
+  "n_trials": 0.0,
   "prediction": 0.00125131089345949,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

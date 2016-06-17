@@ -1,17 +1,20 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
-    "CbGaD": 0.3353965399527591,
-    "CbGbCtD": 0.16638385213985696,
-    "CbGeAlD": 0.0027507694446312694,
-    "CbGpPWpGaD": 0.05559998989176786,
-    "CcSEcCtD": 0.05360054991982761,
-    "CrCbGaD": 0.003178354463266738,
-    "CtDrD": 0.3830899441878906
+    "CbGaD": 0.33539653995275903,
+    "CbGbCtD": 0.16638385213985693,
+    "CbGeAlD": 0.002750769444631269,
+    "CbGpPWpGaD": 0.055599989891767856,
+    "CcSEcCtD": 0.0536005499198276,
+    "CrCbGaD": 0.003178354463266737,
+    "CtDrD": 0.38308994418789055
   },
+  "n_trials": 6.0,
   "prediction": 0.0115496532163546,
   "status": 0,
   "training_prediction": 0.0859400702259222

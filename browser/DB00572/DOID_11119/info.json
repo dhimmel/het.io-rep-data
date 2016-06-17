@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00572",
   "compound_name": "Atropine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.251625487646294,
   "metapath_contribution": {
     "CbGeAlD": 0.11066684443208101,
     "CbGpPWpGaD": 0.8195445877489409,
     "CrCbGaD": 0.06978856781897813
   },
+  "n_trials": 0.0,
   "prediction": 0.00111669663823693,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

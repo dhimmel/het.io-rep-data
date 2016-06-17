@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.48696033404380135,
     "CbGbCtD": 0.36297066723634575,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09187169151600676,
     "CrCbGaD": 0.003158798721580056
   },
+  "n_trials": 0.0,
   "prediction": 0.00392261811540468,
   "status": 0,
   "training_prediction": 0.0220495155509887

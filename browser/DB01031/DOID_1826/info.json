@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01031",
   "compound_name": "Ethinamate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGbCtD": 0.3070488936092218,
     "CbGeAlD": 0.002584312241969561,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002778766137195652,
     "CrCtD": 0.6577427665399177
   },
+  "n_trials": 0.0,
   "prediction": 0.0162942339492252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

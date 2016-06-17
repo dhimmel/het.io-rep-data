@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
-    "CbGaD": 0.281339613477643,
-    "CbGbCtD": 0.42113385213331367,
-    "CbGeAlD": 0.021043453518822232,
-    "CbGpPWpGaD": 0.07308734167342605,
-    "CcSEcCtD": 0.0284685474362526,
-    "CrCbGaD": 0.002721577543480533,
-    "CrCrCtD": 0.17220561421706196
+    "CbGaD": 0.28133961347764297,
+    "CbGbCtD": 0.4211338521333136,
+    "CbGeAlD": 0.02104345351882223,
+    "CbGpPWpGaD": 0.07308734167342604,
+    "CcSEcCtD": 0.028468547436252593,
+    "CrCbGaD": 0.0027215775434805325,
+    "CrCrCtD": 0.17220561421706193
   },
+  "n_trials": 0.0,
   "prediction": 0.0055671179468533,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

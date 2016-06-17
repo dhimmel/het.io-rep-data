@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.937581274382315,
   "metapath_contribution": {
     "CbGbCtD": 0.8253939745524064,
     "CbGdCrCtD": 0.002521124639954856,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0667202800396519,
     "CcSEcCtD": 0.0571887322237254
   },
+  "n_trials": 0.0,
   "prediction": 0.0034566887852873697,
   "status": 0,
   "training_prediction": 0.008832357179137329

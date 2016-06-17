@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.7933123412924635,
     "CbGeAlD": 0.05941793904451239,
     "CbGpPWpGaD": 0.14355752982441988,
     "CrCbGaD": 0.0037121898386042536
   },
+  "n_trials": 0.0,
   "prediction": 0.00271038155803147,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

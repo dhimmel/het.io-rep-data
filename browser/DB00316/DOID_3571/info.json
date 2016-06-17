@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.538888185890767,
     "CbGbCtD": 0.24035272951540687,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06340814917144123,
     "CrCbGaD": 0.003595880900359741
   },
+  "n_trials": 1.0,
   "prediction": 0.004582776100869279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

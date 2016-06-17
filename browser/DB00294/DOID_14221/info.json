@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00294",
   "compound_name": "Etonogestrel",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.618985695708713,
   "metapath_contribution": {
     "CbGaD": 0.8819255929032,
     "CbGeAlD": 0.01777274245974001,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.027304841211344025,
     "CrCbGaD": 0.007464016524352604
   },
+  "n_trials": 0.0,
   "prediction": 0.00162578960444996,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

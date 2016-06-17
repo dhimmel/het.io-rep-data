@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.18204662075765618,
     "CbGbCtD": 0.21157823852214977,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21615979424477966,
     "CrCtD": 0.36417207709986876
   },
+  "n_trials": 0.0,
   "prediction": 0.0284007579717813,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

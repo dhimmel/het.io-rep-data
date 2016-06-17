@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.389466840052016,
   "metapath_contribution": {
     "CbGaD": 0.7566495316458791,
     "CbGbCtD": 0.06151072969117383,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16517084737165255,
     "CrCbGaD": 0.0025998121595170987
   },
+  "n_trials": 0.0,
   "prediction": 0.00132420450667951,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

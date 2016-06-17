@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.2759962779418103,
     "CbGbCtD": 0.2994904546206379,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.00216486318979859,
     "CrCrCtD": 0.2491464160320249
   },
+  "n_trials": 0.0,
   "prediction": 0.00879562563999111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.5851755526658001,
   "metapath_contribution": {
     "CbGaD": 0.496383753714853,
     "CbGbCtD": 0.08537960100625863,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2304228452885089,
     "CrCbGaD": 0.002964487667474247
   },
+  "n_trials": 0.0,
   "prediction": 0.0018355181502420102,
   "status": 0,
   "training_prediction": 0.00181069268607258

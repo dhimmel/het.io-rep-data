@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.782184655396619,
   "metapath_contribution": {
     "CbGbCtD": 0.5928752009116957,
     "CbGdCrCtD": 0.0036890637292675164,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16297645008801548,
     "CrCbGaD": 0.0019236785007501205
   },
+  "n_trials": 0.0,
   "prediction": 0.00249311491873458,
   "status": 0,
   "training_prediction": 0.0102769637773653

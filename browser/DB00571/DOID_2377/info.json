@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.19375812743823104,
   "metapath_contribution": {
     "CbGbCtD": 0.6375060226057996,
     "CbGeAlD": 0.061464225327501225,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21878919253179746,
     "CrCbGaD": 0.004519388119213688
   },
+  "n_trials": 0.0,
   "prediction": 0.0012231813755702698,
   "status": 0,
   "training_prediction": 0.00522015614584727

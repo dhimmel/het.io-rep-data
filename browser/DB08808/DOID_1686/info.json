@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08808",
   "compound_name": "Bupranolol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGbCtD": 0.2691134743996614,
     "CbGdCrCtD": 0.0008013239846879982,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.28307313883476537,
     "CrCtD": 0.4457592354893933
   },
+  "n_trials": 0.0,
   "prediction": 0.0270115001543732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

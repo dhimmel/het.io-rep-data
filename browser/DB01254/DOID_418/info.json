@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGaD": 0.567850727313821,
     "CbGbCtD": 0.11685518201454254,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.12139243519971701,
     "CcSEcCtD": 0.1192222052888027
   },
+  "n_trials": 0.0,
   "prediction": 0.00881981700978684,
   "status": 0,
   "training_prediction": 0.0208087055053101

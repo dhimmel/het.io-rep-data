@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.398569570871261,
   "metapath_contribution": {
     "CbGaD": 0.5259752153935439,
     "CbGbCtD": 0.40445510169081705,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05962837009779626,
     "CrCbGaD": 0.00047927757968986985
   },
+  "n_trials": 0.0,
   "prediction": 0.00130944859822667,
   "status": 0,
   "training_prediction": 0.00186865027144483

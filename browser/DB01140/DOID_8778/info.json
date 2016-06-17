@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01140",
   "compound_name": "Cefadroxil",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.7230169050715209,
   "metapath_contribution": {
     "CbGaD": 0.7683018401179783,
     "CbGbCtD": 0.1287563502814593,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07015964257664725,
     "CrCbGaD": 0.006673798526215267
   },
+  "n_trials": 0.0,
   "prediction": 0.0021108688966654603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

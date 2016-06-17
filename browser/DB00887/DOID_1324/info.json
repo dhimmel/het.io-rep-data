@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.24180706837823696,
     "CbGbCtD": 0.314155375895546,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2103797413313301,
     "CrCbGaD": 0.0013404688304220662
   },
+  "n_trials": 0.0,
   "prediction": 0.00217644065935195,
   "status": 0,
   "training_prediction": 0.0074264548328868705

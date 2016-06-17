@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.523407022106632,
   "metapath_contribution": {
     "CbGbCtD": 0.5049696916297021,
     "CbGeAlD": 0.005327945500701434,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.41231189200120083,
     "CrCbGaD": 0.00036847623559836093
   },
+  "n_trials": 0.0,
   "prediction": 0.0023970949234084302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

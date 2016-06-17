@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.6498719322181896,
     "CbGbCtD": 0.22595954903734042,
     "CbGpPWpGaD": 0.051502739127629496,
     "CcSEcCtD": 0.0726657796168404
   },
+  "n_trials": 0.0,
   "prediction": 0.00221188167069924,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

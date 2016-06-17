@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.278933680104031,
   "metapath_contribution": {
     "CbGaD": 0.3646849720318005,
     "CbGbCtD": 0.4164754666409687,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12257189422057455,
     "CrCbGaD": 0.00265447309469239
   },
+  "n_trials": 0.0,
   "prediction": 0.00209102705354833,
   "status": 0,
   "training_prediction": 0.0653233631864032

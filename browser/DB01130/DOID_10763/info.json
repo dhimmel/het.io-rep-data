@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01130",
   "compound_name": "Prednicarbate",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0442132639791938,
   "metapath_contribution": {
     "CbGaD": 0.3649310661535277,
     "CbGbCtD": 0.1025227122737075,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.005462017122898444,
     "CrCrCtD": 0.3993550741624438
   },
+  "n_trials": 0.0,
   "prediction": 0.0009541279521367529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

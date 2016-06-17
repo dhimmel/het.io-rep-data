@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGbCtD": 0.5256331181040019,
     "CbGdCrCtD": 0.004645982751567025,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14343838141236473,
     "CrCbGaD": 0.002765240836187669
   },
+  "n_trials": 0.0,
   "prediction": 0.00165728574998321,
   "status": 0,
   "training_prediction": 0.00365146105158002

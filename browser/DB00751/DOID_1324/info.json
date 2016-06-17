@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00751",
   "compound_name": "Epinastine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.37126137841352397,
   "metapath_contribution": {
     "CbGaD": 0.23158434769470307,
     "CbGbCtD": 0.576521344090733,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.038531388895179326,
     "CrCbGaD": 0.002022017290761858
   },
+  "n_trials": 0.0,
   "prediction": 0.0014326407245139998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

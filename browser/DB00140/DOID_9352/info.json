@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
     "CbGaD": 0.4561269170459343,
     "CbGbCtD": 0.3150061520127299,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.16090677087085956,
     "CrCbGaD": 0.00323767753687654
   },
+  "n_trials": 0.0,
   "prediction": 0.004693289820359,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

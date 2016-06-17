@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGaD": 0.823931918549936,
     "CbGeAlD": 0.020587307574205047,
     "CbGpPWpGaD": 0.07284860073499473,
     "CcSEcCtD": 0.08263217314086438
   },
+  "n_trials": 0.0,
   "prediction": 0.00155516877286506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

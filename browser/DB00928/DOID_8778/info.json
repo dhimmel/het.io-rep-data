@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.3877662391778345,
     "CbGdCrCtD": 0.0013691060153495946,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.553120423768052,
     "CrCbGaD": 0.0021608064915347594
   },
+  "n_trials": 0.0,
   "prediction": 0.0057611060215261,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

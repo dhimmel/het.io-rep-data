@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
-    "CbGbCtD": 0.14368415071461113,
-    "CbGdCrCtD": 0.0016467246261467228,
-    "CcSEcCtD": 0.050799965297826384,
-    "CpDpCtD": 0.2519715647204388,
-    "CrCbGaD": 0.00024121045080729075,
-    "CrCrCtD": 0.2150013717777194,
-    "CrCtD": 0.33665501241245005
+    "CbGbCtD": 0.1436841507146112,
+    "CbGdCrCtD": 0.0016467246261467235,
+    "CcSEcCtD": 0.0507999652978264,
+    "CpDpCtD": 0.2519715647204389,
+    "CrCbGaD": 0.00024121045080729083,
+    "CrCrCtD": 0.2150013717777195,
+    "CrCtD": 0.33665501241245016
   },
+  "n_trials": 0.0,
   "prediction": 0.0111243803786585,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

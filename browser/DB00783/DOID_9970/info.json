@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.520806241872562,
   "metapath_contribution": {
     "CbGaD": 0.43848919329427816,
     "CbGbCtD": 0.29924253405595913,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11490146794125834,
     "CrCbGaD": 0.003602404162588871
   },
+  "n_trials": 2.0,
   "prediction": 0.00258809959672855,
   "status": 0,
   "training_prediction": 0.0109960968419303

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.132639791937581,
   "metapath_contribution": {
     "CbGaD": 0.6772767570053126,
     "CbGbCtD": 0.010431966314280098,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10532271283892429,
     "CrCbGaD": 0.009206043231582528
   },
+  "n_trials": 0.0,
   "prediction": 0.0008017650104844019,
   "status": 0,
   "training_prediction": 0.0013427018951826

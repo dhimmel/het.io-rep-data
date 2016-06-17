@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.36605981794538395,
   "metapath_contribution": {
     "CbGbCtD": 0.8251741514800823,
     "CbGpPWpGaD": 0.011196006177507064,
     "CcSEcCtD": 0.16170648345786015,
     "CrCbGaD": 0.0019233588845504663
   },
+  "n_trials": 0.0,
   "prediction": 0.0013613733356301302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

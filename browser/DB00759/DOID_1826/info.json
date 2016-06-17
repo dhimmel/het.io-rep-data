@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7035110533159951,
   "metapath_contribution": {
     "CbGaD": 0.48195615487983023,
     "CbGbCtD": 0.38422080193529545,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0775145902527159,
     "CrCbGaD": 0.0035102341888093133
   },
+  "n_trials": 0.0,
   "prediction": 0.00582122000759287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

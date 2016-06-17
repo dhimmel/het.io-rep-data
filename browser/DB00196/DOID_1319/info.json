@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.850455136540962,
   "metapath_contribution": {
     "CbGaD": 0.6969095833141478,
     "CbGbCtD": 0.14497989768770772,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14137592297903867,
     "CrCbGaD": 0.005761618272780556
   },
+  "n_trials": 0.0,
   "prediction": 0.00264100754149068,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

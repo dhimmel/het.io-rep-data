@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.46814044213264006,
   "metapath_contribution": {
     "CbGbCtD": 0.949133736174238,
     "CbGdCrCtD": 0.018114829756388836,
     "CbGeAlD": 0.023319720121468393,
     "CrCbGaD": 0.009431713947904785
   },
+  "n_trials": 0.0,
   "prediction": 0.0017953841104189998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

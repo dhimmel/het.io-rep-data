@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
-    "CbGaD": 0.7573301700122962,
-    "CbGeAlD": 0.07449595461910909,
-    "CbGpPWpGaD": 0.07595705406970714,
-    "CcSEcCtD": 0.0839213339709413,
+    "CbGaD": 0.7573301700122963,
+    "CbGeAlD": 0.0744959546191091,
+    "CbGpPWpGaD": 0.07595705406970715,
+    "CcSEcCtD": 0.08392133397094131,
     "CrCbGaD": 0.008295487327946278
   },
+  "n_trials": 0.0,
   "prediction": 0.0028777200496725,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

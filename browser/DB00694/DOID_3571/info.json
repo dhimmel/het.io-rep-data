@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.04262785278888117,
     "CbGbCtD": 0.14287888405940113,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.16974999716314554,
     "CrCtD": 0.2635512732576419
   },
+  "n_trials": 0.0,
   "prediction": 0.0905138313639688,
   "status": 0,
   "training_prediction": 0.0893970458186893

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.3901170351105329,
   "metapath_contribution": {
     "CbGaD": 0.28523193699130805,
     "CbGbCtD": 0.4536717909569548,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1735608791606936,
     "CrCbGaD": 0.0033316498731483257
   },
+  "n_trials": 0.0,
   "prediction": 0.00196415558376315,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

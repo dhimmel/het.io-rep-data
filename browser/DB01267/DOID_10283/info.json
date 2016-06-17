@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGaD": 0.3086774227202335,
     "CbGbCtD": 0.32226126892804335,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2271499191172788,
     "CrCbGaD": 0.002536439671813193
   },
+  "n_trials": 0.0,
   "prediction": 0.00398852643029802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

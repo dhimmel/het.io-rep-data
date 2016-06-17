@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.35798868856871296,
     "CbGbCtD": 0.4563794852923252,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12405734876713133,
     "CrCbGaD": 0.0003535806701383214
   },
+  "n_trials": 0.0,
   "prediction": 0.00333611643268953,
   "status": 0,
   "training_prediction": 0.0160461942113906

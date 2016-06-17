@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04967",
   "compound_name": "Lucanthone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.5324045133850724,
     "CbGbCtD": 0.37024292428107297,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.06697953178425199,
     "CrCbGaD": 0.0016296234068321367
   },
+  "n_trials": 0.0,
   "prediction": 0.00520545261777713,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

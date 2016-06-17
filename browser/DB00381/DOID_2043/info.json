@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00381",
   "compound_name": "Amlodipine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.6183355006501949,
   "metapath_contribution": {
     "CbGaD": 0.7127264895261666,
     "CbGeAlD": 0.035927353387702636,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1939932412572126,
     "CrCbGaD": 0.0021494006818455215
   },
+  "n_trials": 0.0,
   "prediction": 0.00180335026935625,
   "status": 0,
   "training_prediction": 0.00218874949252042

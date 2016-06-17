@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.45968790637191204,
   "metapath_contribution": {
     "CbGaD": 0.36722005880539227,
     "CbGbCtD": 0.38251642815311876,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21745894597583837,
     "CrCbGaD": 0.00013585194420727415
   },
+  "n_trials": 0.0,
   "prediction": 0.00169813303429656,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

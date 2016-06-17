@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.26853055916775,
   "metapath_contribution": {
     "CbGaD": 0.12890533174453803,
     "CbGbCtD": 0.452071746754856,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.19720308744919,
     "CcSEcCtD": 0.15801456692806068
   },
+  "n_trials": 0.0,
   "prediction": 0.0015645908600978,
   "status": 0,
   "training_prediction": 0.00666973521332851

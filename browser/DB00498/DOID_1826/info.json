@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00498",
   "compound_name": "Phenindione",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7698309492847851,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0014184987806543116,
     "CrCbGaD": 0.0033634623011015,
     "CrCrCtD": 0.38418621039844586,
     "CrCtD": 0.6110318285197983
   },
+  "n_trials": 0.0,
   "prediction": 0.007247170663231159,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGaD": 0.45023598779985735,
     "CbGbCtD": 0.26700097593748207,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2275445769041408,
     "CrCbGaD": 0.007138728319252919
   },
+  "n_trials": 0.0,
   "prediction": 0.00265580831723113,
   "status": 0,
   "training_prediction": 0.00195929819935113

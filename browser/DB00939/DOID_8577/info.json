@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00939",
   "compound_name": "Meclofenamic acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.2469539484512053,
     "CbGbCtD": 0.42922882281147934,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003631950320539716,
     "CrCrCtD": 0.2578073923202001
   },
+  "n_trials": 0.0,
   "prediction": 0.0083014051223641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

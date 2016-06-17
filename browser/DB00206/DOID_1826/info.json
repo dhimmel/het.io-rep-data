@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00206",
   "compound_name": "Reserpine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6235370611183361,
   "metapath_contribution": {
     "CbGaD": 0.29928681032788607,
     "CbGbCtD": 0.4419644320004269,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13390884495989014,
     "CrCbGaD": 0.001974027628243298
   },
+  "n_trials": 0.0,
   "prediction": 0.00452556218255019,
   "status": 0,
   "training_prediction": 0.0218329612604428

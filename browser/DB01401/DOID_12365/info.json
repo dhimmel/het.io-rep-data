@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.6866059817945379,
   "metapath_contribution": {
     "CbGbCtD": 0.5964255447016552,
     "CbGeAlD": 0.03159192045745623,
     "CbGpPWpGaD": 0.015399568953478533,
     "CcSEcCtD": 0.35658296588741006
   },
+  "n_trials": 0.0,
   "prediction": 0.00270065756741121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

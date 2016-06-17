@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01384",
   "compound_name": "Paramethasone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.104487957776168,
     "CbGbCtD": 0.2555661897314674,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.26482989669428525,
     "CrCtD": 0.37365732397348345
   },
+  "n_trials": 0.0,
   "prediction": 0.0289252943673863,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

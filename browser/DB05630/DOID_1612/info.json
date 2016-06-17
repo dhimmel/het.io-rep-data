@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05630",
   "compound_name": "Sodium stibogluconate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.842002600780234,
   "metapath_contribution": {
     "CbGbCtD": 0.6382885176174325,
     "CbGeAlD": 0.04019745323162543,
     "CbGpPWpGaD": 0.09843916968600665,
     "CcSEcCtD": 0.22307485946493533
   },
+  "n_trials": 0.0,
   "prediction": 0.00531951672120774,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

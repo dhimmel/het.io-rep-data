@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.22301690507152103,
   "metapath_contribution": {
     "CbGaD": 0.8766951016146658,
     "CbGeAlD": 0.03676130933159298,
     "CbGpPWpGaD": 0.06796441324378116,
     "CrCbGaD": 0.01857917580996001
   },
+  "n_trials": 0.0,
   "prediction": 0.000911526379199309,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

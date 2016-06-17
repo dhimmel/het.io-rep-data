@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.21812844892847516,
     "CbGbCtD": 0.12106307161191503,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06310558861017528,
     "CtDrD": 0.5156312903947894
   },
+  "n_trials": 0.0,
   "prediction": 0.0140780397268051,
   "status": 0,
   "training_prediction": 0.0353849892281343

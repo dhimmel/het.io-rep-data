@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00129",
   "compound_name": "L-Ornithine",
+  "compound_percentile": 0.264705882352941,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.232119635890767,
   "metapath_contribution": {
-    "CbGeAlD": 0.3560824560708361,
-    "CbGpPWpGaD": 0.6203154617787733,
-    "CrCbGaD": 0.02360208215039051
+    "CbGeAlD": 0.35608245607083616,
+    "CbGpPWpGaD": 0.6203154617787734,
+    "CrCbGaD": 0.023602082150390512
   },
+  "n_trials": 0.0,
   "prediction": 0.00109894064084969,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

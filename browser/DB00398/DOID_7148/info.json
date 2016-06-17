@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGbCtD": 0.29840998102538036,
     "CbGeAlD": 0.0400085394223167,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10209414045838128,
     "CrCrCtD": 0.4301188053242145
   },
+  "n_trials": 0.0,
   "prediction": 0.0057496418754890794,
   "status": 0,
   "training_prediction": 0.0411577803252417

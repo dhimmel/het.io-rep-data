@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08899",
   "compound_name": "Enzalutamide",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.34248840860828333,
     "CbGbCtD": 0.45670757456331956,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.041405970525935115,
     "CcSEcCtD": 0.13716772181187586
   },
+  "n_trials": 0.0,
   "prediction": 0.0017755889255865898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

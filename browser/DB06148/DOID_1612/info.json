@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGaD": 0.21771343307505708,
     "CbGbCtD": 0.4558335714818054,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17898988124652665,
     "CrCbGaD": 0.0024588362058474726
   },
+  "n_trials": 0.0,
   "prediction": 0.0021583972169592898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

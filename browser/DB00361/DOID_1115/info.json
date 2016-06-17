@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGbCtD": 0.1422277885396376,
     "CbGeAlD": 0.009667854995381555,
@@ -13,6 +15,7 @@
     "CrCtD": 0.23557531181927854,
     "CtDrD": 0.1256704156975562
   },
+  "n_trials": 3.0,
   "prediction": 0.109150841161602,
   "status": 0,
   "training_prediction": 0.41330077018613304

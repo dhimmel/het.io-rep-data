@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00471",
   "compound_name": "Montelukast",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
     "CbGaD": 0.29165471814871874,
     "CbGbCtD": 0.4577218180757217,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.095609883908099,
     "CcSEcCtD": 0.13335039578627284
   },
+  "n_trials": 0.0,
   "prediction": 0.00787575652600784,
   "status": 0,
   "training_prediction": 0.0714342885963462

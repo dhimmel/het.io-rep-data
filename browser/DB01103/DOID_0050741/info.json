@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.388166449934981,
   "metapath_contribution": {
     "CbGbCtD": 0.6790826950694059,
-    "CbGeAlD": 0.1631790118802072,
-    "CbGpPWpGaD": 0.1499489606514045,
-    "CrCbGaD": 0.007789332398982461
+    "CbGeAlD": 0.16317901188020717,
+    "CbGpPWpGaD": 0.14994896065140448,
+    "CrCbGaD": 0.00778933239898246
   },
+  "n_trials": 0.0,
   "prediction": 0.00180199135487788,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01429",
   "compound_name": "Aprindine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.7113133940182049,
   "metapath_contribution": {
     "CbGaD": 0.856296730090787,
     "CbGeAlD": 0.11265282274965745,
     "CbGpPWpGaD": 0.020391926880506707,
     "CrCbGaD": 0.010658520279048867
   },
+  "n_trials": 0.0,
   "prediction": 0.0019227821370303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

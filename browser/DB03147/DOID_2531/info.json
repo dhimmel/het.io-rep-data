@@ -1,8 +1,10 @@
 {
   "compound_id": "DB03147",
   "compound_name": "Flavin adenine dinucleotide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.10211200142302362,
     "CbGbCtD": 0.21874789656572866,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.24011823978988994,
     "CrCtD": 0.3378352837630559
   },
+  "n_trials": 0.0,
   "prediction": 0.0224076634621626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

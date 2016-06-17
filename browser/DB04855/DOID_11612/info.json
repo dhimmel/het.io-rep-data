@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.7888759955795948,
     "CbGeAlD": 0.06853870711545491,
     "CbGpPWpGaD": 0.1425160681929664,
     "CrCbGaD": 6.922911198402426e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0027474461288980604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

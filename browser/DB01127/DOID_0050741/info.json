@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01127",
   "compound_name": "Econazole",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.770481144343303,
   "metapath_contribution": {
     "CbGaD": 0.47935544328240914,
     "CbGbCtD": 0.35819379572229243,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1024556495592888,
     "CrCbGaD": 0.0012697454364758724
   },
+  "n_trials": 0.0,
   "prediction": 0.00372257590260511,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

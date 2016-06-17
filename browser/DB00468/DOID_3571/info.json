@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.5044052678813058,
     "CbGbCtD": 0.2886982326459279,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10132086214442278,
     "CrCbGaD": 0.0023219841957197473
   },
+  "n_trials": 0.0,
   "prediction": 0.00348989484653487,
   "status": 0,
   "training_prediction": 0.00344277103981507

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01587",
   "compound_name": "Ketazolam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.645643693107932,
   "metapath_contribution": {
     "CbGaD": 0.43211029237444104,
     "CbGbCtD": 0.5277128988339429,
     "CbGpPWpGaD": 0.038417977654867506,
     "CrCbGaD": 0.0017588311367484374
   },
+  "n_trials": 0.0,
   "prediction": 0.00231554448142511,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

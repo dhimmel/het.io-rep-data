@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06268",
   "compound_name": "Sitaxentan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.3930805209928394,
     "CbGbCtD": 0.34221782982272775,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09397886678450114,
     "CcSEcCtD": 0.15026088355703834
   },
+  "n_trials": 0.0,
   "prediction": 0.0143503341049263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

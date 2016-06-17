@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01203",
   "compound_name": "Nadolol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGbCtD": 0.25059193617429487,
     "CbGdCrCtD": 0.0007351061066139615,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.27720649383285295,
     "CrCtD": 0.41246406637977284
   },
+  "n_trials": 0.0,
   "prediction": 0.0261705646105231,
   "status": 0,
   "training_prediction": 0.10267638705742299

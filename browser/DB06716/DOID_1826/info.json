@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06716",
   "compound_name": "Fospropofol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGaD": 0.21368559947622812,
     "CbGbCtD": 0.25276642593370346,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001958488134217215,
     "CrCtD": 0.4236114395788146
   },
+  "n_trials": 0.0,
   "prediction": 0.101605663013739,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

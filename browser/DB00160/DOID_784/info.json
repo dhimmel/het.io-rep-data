@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGaD": 0.7702129370657301,
     "CbGeAlD": 0.08276366738342293,
     "CbGpPWpGaD": 0.14065785165107658,
     "CrCbGaD": 0.006365543899770311
   },
+  "n_trials": 0.0,
   "prediction": 0.0026110828339045897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

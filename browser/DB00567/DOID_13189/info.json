@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.5442132639791939,
   "metapath_contribution": {
     "CbGbCtD": 0.689978072777876,
     "CbGpPWpGaD": 0.1523743114611706,
     "CcSEcCtD": 0.15148652887781347,
     "CrCbGaD": 0.006161086883139836
   },
+  "n_trials": 0.0,
   "prediction": 0.00227953055434262,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

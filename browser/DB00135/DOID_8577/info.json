@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00135",
   "compound_name": "L-Tyrosine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.286085825747724,
   "metapath_contribution": {
     "CbGeAlD": 0.08148561272335306,
     "CbGpPWpGaD": 0.0875246795149425,
     "CrCbGaD": 0.009680015307811492,
     "CrCrCtD": 0.821309692453893
   },
+  "n_trials": 0.0,
   "prediction": 0.00152387693014844,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

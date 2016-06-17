@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.20998388152628844,
     "CbGbCtD": 0.2673772278580994,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1715316967581066,
     "CrCtD": 0.2361131948328478
   },
+  "n_trials": 0.0,
   "prediction": 0.0307167114903765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

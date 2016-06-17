@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01201",
   "compound_name": "Rifapentine",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.406371911573472,
   "metapath_contribution": {
     "CbGbCtD": 0.9730945162059088,
     "CbGeAlD": 0.0034814203072040177,
     "CbGpPWpGaD": 0.02185813467398377,
     "CrCbGaD": 0.001565928812903406
   },
+  "n_trials": 0.0,
   "prediction": 0.00134513166535853,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

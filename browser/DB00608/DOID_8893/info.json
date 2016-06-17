@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.36326213155177783,
     "CbGbCtD": 0.45231840962639935,
     "CbGpPWpGaD": 0.07272886599715056,
     "CcSEcCtD": 0.11169059282467232
   },
+  "n_trials": 0.0,
   "prediction": 0.00318042130982197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00572",
   "compound_name": "Atropine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7321196358907671,
   "metapath_contribution": {
     "CbGaD": 0.3635360278976858,
     "CbGbCtD": 0.07432570790700074,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3403612287938617,
     "CrCbGaD": 0.003766013985709982
   },
+  "n_trials": 0.0,
   "prediction": 0.00634617207648317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

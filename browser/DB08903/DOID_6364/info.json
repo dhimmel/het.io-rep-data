@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08903",
   "compound_name": "Bedaquiline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.46944083224967503,
   "metapath_contribution": {
     "CbGbCtD": 0.22916176069379957,
     "CcSEcCtD": 0.08989644761432984,
     "CrCbGaD": 0.0033946565584497272,
     "CrCrCtD": 0.6775471351334209
   },
+  "n_trials": 0.0,
   "prediction": 0.00236680255442713,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

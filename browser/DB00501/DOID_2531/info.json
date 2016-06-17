@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00501",
   "compound_name": "Cimetidine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.834200260078023,
   "metapath_contribution": {
     "CbGaD": 0.21448451384597064,
     "CbGbCtD": 0.5482645704844294,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06209352352181423,
     "CcSEcCtD": 0.1486416727975884
   },
+  "n_trials": 0.0,
   "prediction": 0.00540324075027695,
   "status": 0,
   "training_prediction": 0.0471287464929224

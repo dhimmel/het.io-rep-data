@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.664499349804942,
   "metapath_contribution": {
     "CbGbCtD": 0.729720543369389,
     "CbGeAlD": 0.012436781766863303,
     "CbGpPWpGaD": 0.16153570823357155,
     "CcSEcCtD": 0.09630696663017622
   },
+  "n_trials": 0.0,
   "prediction": 0.00280707675475652,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

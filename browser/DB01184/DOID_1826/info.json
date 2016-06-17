@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.611183355006502,
   "metapath_contribution": {
     "CbGaD": 0.18174388104295022,
     "CbGbCtD": 0.5134922156009096,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0035744744226626855,
     "CrCrCtD": 0.0949332074885506
   },
+  "n_trials": 0.0,
   "prediction": 0.00440686739695025,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.15505058437812014,
     "CbGdCrCtD": 0.00048619274934266304,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0007945127157074196,
     "CrCrCtD": 0.10579803279058896
   },
+  "n_trials": 0.0,
   "prediction": 0.0441473152669308,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

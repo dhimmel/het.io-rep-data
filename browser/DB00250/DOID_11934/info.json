@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.8654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.8190233321957686,
     "CbGbCtD": 0.1324768563248824,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.006377540246466129,
     "CrCbGaD": 0.0015533738141842413
   },
+  "n_trials": 1.0,
   "prediction": 0.00240298769524933,
   "status": 0,
   "training_prediction": 0.00659423327344686

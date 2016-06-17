@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.7093628088426529,
   "metapath_contribution": {
     "CbGaD": 0.3951362332150129,
     "CbGbCtD": 0.43970148810079235,
     "CbGpPWpGaD": 0.08243273655179406,
     "CcSEcCtD": 0.08272954213240075
   },
+  "n_trials": 1.0,
   "prediction": 0.00232288446607559,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

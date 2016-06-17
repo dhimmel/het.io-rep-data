@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08819",
   "compound_name": "Tafluprost",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.5039011703511049,
   "metapath_contribution": {
     "CbGaD": 0.41812670452943557,
     "CbGbCtD": 0.1804938775834572,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.19355052430141123,
     "CrCbGaD": 0.005698235326345776
   },
+  "n_trials": 0.0,
   "prediction": 0.0024786097766304,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

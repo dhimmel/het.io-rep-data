@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGbCtD": 0.10348434351814369,
     "CbGdCrCtD": 0.0007208291942494053,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.18623948295079282,
     "CrCtD": 0.2906474805917231
   },
+  "n_trials": 0.0,
   "prediction": 0.0343214101831747,
   "status": 0,
   "training_prediction": 0.11565297959011699

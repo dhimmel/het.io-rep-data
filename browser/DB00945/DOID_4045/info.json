@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGaD": 0.6223152761716056,
     "CbGbCtD": 0.18747168829102467,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.02293584964857916,
     "CrCbGaD": 0.00266433440891717
   },
+  "n_trials": 0.0,
   "prediction": 0.00279741513485902,
   "status": 0,
   "training_prediction": 0.00757576442697383

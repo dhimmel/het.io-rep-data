@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.26853055916775,
   "metapath_contribution": {
     "CbGbCtD": 0.5498699361746906,
     "CbGpPWpGaD": 0.10367574110148879,
     "CcSEcCtD": 0.339885189532401,
     "CrCbGaD": 0.006569133191419565
   },
+  "n_trials": 1.0,
   "prediction": 0.00135162513712196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.12843003950252926,
     "CbGbCtD": 0.21844635339734325,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.252079049436739,
     "CrCtD": 0.35780024811590966
   },
+  "n_trials": 0.0,
   "prediction": 0.0522512867980427,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

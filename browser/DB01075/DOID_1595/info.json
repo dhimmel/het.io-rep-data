@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.224967490247074,
   "metapath_contribution": {
     "CbGaD": 0.8517293723171189,
     "CbGeAlD": 0.03087007111581674,
     "CbGpPWpGaD": 0.10308468155734316,
     "CrCbGaD": 0.014315875009721339
   },
+  "n_trials": 1.0,
   "prediction": 0.00110798105268636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

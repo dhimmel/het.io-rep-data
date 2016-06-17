@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.19115734720416103,
   "metapath_contribution": {
     "CbGbCtD": 0.49930079514223913,
     "CbGdCrCtD": 0.015074578289519488,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11857829975922994,
     "CcSEcCtD": 0.3067478164032819
   },
+  "n_trials": 0.0,
   "prediction": 0.00111393797494605,
   "status": 0,
   "training_prediction": 0.0030254133567736803

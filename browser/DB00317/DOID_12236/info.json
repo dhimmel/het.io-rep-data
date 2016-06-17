@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.537711313394018,
   "metapath_contribution": {
     "CbGaD": 0.5463845397089458,
     "CbGbCtD": 0.11963431735914075,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16385413554387185,
     "CrCbGaD": 0.005504886950922898
   },
+  "n_trials": 0.0,
   "prediction": 0.00170695622141213,
   "status": 0,
   "training_prediction": 0.00168386662971544

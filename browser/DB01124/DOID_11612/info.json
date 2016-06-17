@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01124",
   "compound_name": "Tolbutamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGeAlD": 0.020468555250136116,
     "CbGpPWpGaD": 0.03473888973526838,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0018164911605375808,
     "CtDrD": 0.9392190900932119
   },
+  "n_trials": 0.0,
   "prediction": 0.0022530345156294602,
   "status": 0,
   "training_prediction": 0.0010161697814637099

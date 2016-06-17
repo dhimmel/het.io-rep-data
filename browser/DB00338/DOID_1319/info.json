@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.36820615003296053,
     "CbGbCtD": 0.45377641571977173,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11614739699986716,
     "CrCbGaD": 0.0033563748080956573
   },
+  "n_trials": 0.0,
   "prediction": 0.00363954283727609,
   "status": 0,
   "training_prediction": 0.0066374397405864205

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.723667100130039,
   "metapath_contribution": {
     "CbGbCtD": 0.4563842855870739,
     "CbGeAlD": 0.07056696549053298,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2980113608729165,
     "CrCbGaD": 0.014803192854835504
   },
+  "n_trials": 0.0,
   "prediction": 0.00238552345746371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

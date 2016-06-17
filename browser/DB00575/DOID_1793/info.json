@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.587126137841352,
   "metapath_contribution": {
     "CbGbCtD": 0.7170645827327801,
     "CbGdCrCtD": 0.004755876104370134,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19869956589883228,
     "CrCbGaD": 0.0014792827154028955
   },
+  "n_trials": 0.0,
   "prediction": 0.00198641562940172,
   "status": 0,
   "training_prediction": 0.00787128630500414

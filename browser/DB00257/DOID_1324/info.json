@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGaD": 0.42389754408027663,
     "CbGbCtD": 0.41638315119124486,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05948055295222243,
     "CrCbGaD": 0.0021319314869565026
   },
+  "n_trials": 0.0,
   "prediction": 0.0037382851958811204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

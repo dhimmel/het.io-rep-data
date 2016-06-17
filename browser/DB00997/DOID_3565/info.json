@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:3565",
   "disease_name": "meningioma",
+  "disease_percentile": 0.357607282184655,
   "metapath_contribution": {
     "CbGeAlD": 0.030426364870815795,
     "CbGpPWpGaD": 0.013250245517086508,
     "CtDrD": 0.9563233896120977
   },
+  "n_trials": 0.0,
   "prediction": 0.0010279030751494198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

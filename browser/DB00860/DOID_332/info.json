@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.14759427828348498,
   "metapath_contribution": {
     "CbGeAlD": 0.014767267780043307,
     "CcSEcCtD": 0.06899607762211804,
     "CrCbGaD": 0.0013893555744720592,
     "CtDrD": 0.9148472990233666
   },
+  "n_trials": 1.0,
   "prediction": 0.000779206430290155,
   "status": 0,
   "training_prediction": 0.0027919772869102397

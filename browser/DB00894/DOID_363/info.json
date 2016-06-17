@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00894",
   "compound_name": "Testolactone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.24675339454935621,
     "CbGeAlD": 0.017350729140789084,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.30114661151136074,
     "CrCtD": 0.4182031590971537
   },
+  "n_trials": 0.0,
   "prediction": 0.00843357135578988,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

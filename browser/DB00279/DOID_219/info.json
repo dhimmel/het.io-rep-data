@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7522756827048109,
   "metapath_contribution": {
     "CbGaD": 0.29945301906625355,
     "CbGbCtD": 0.6000460024374413,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.018249600308693586,
     "CrCbGaD": 0.000894152150309536
   },
+  "n_trials": 0.0,
   "prediction": 0.00222098028047006,
   "status": 0,
   "training_prediction": 0.00316821779515037

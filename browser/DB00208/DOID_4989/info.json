@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.8204364771130069,
     "CbGeAlD": 0.07109075091271293,
     "CbGpPWpGaD": 0.10049211297597217,
     "CcSEcCtD": 0.00798065899830806
   },
+  "n_trials": 0.0,
   "prediction": 0.00191239797689983,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

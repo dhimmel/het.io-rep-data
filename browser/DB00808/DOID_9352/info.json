@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00808",
   "compound_name": "Indapamide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.3298743330152515,
     "CbGbCtD": 0.07627361474771667,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0009256840901954011,
     "CtDrD": 0.4177614865081544
   },
+  "n_trials": 2.0,
   "prediction": 0.009151272715868741,
   "status": 0,
   "training_prediction": 0.039240719240655

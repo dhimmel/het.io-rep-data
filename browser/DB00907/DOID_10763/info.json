@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7418725617685309,
   "metapath_contribution": {
     "CbGaD": 0.35305274807272397,
     "CbGbCtD": 0.46696722775686356,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0689568482909238,
     "CrCbGaD": 0.0017944325382775437
   },
+  "n_trials": 0.0,
   "prediction": 0.00792405361124762,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

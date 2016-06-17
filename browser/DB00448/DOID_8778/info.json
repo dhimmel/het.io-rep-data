@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.358907672301691,
   "metapath_contribution": {
     "CbGbCtD": 0.2870162692735086,
     "CbGeAlD": 0.050020495902954286,
     "CbGpPWpGaD": 0.011507884686696446,
     "CcSEcCtD": 0.6514553501368407
   },
+  "n_trials": 0.0,
   "prediction": 0.00130115703403071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.04098736092905328,
     "CbGbCtD": 0.19784300288119894,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.00022271095828050596,
     "CtDrD": 0.25800567302458266
   },
+  "n_trials": 7.0,
   "prediction": 0.0177467914642066,
   "status": 0,
   "training_prediction": 0.0799683891971717

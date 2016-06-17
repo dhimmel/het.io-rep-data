@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00929",
   "compound_name": "Misoprostol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.710663198959688,
   "metapath_contribution": {
     "CbGaD": 0.6299104084419829,
     "CbGeAlD": 0.04358188981057552,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2068359245305406,
     "CrCbGaD": 0.001837267357326228
   },
+  "n_trials": 0.0,
   "prediction": 0.0035611120305971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

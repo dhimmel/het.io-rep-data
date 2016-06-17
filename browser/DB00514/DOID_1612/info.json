@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.415474642392718,
   "metapath_contribution": {
     "CbGaD": 0.2331249137372367,
     "CbGbCtD": 0.5212082135805778,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.09212044949343287,
     "CrCbGaD": 0.0025080953101892303
   },
+  "n_trials": 1.0,
   "prediction": 0.0020434781761218,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01218",
   "compound_name": "Halofantrine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.7919780642733207,
     "CbGeAlD": 0.011154769237758358,
     "CbGpPWpGaD": 0.18838270156344447,
     "CrCbGaD": 0.00848446492547638
   },
+  "n_trials": 0.0,
   "prediction": 0.0027387461970960103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

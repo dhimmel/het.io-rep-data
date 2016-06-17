@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.424577373211964,
   "metapath_contribution": {
     "CbGaD": 0.4865382399857547,
     "CbGbCtD": 0.23386932726204301,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0666392089963993,
     "CrCbGaD": 0.006241377656815134
   },
+  "n_trials": 9.0,
   "prediction": 0.001276286814088,
   "status": 0,
   "training_prediction": 0.000959886090725054

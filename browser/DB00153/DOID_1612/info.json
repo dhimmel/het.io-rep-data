@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00153",
   "compound_name": "Ergocalciferol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5793237971391421,
   "metapath_contribution": {
     "CbGaD": 0.4350503906999807,
     "CbGbCtD": 0.3204766901406673,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07101414807706334,
     "CrCbGaD": 0.004197689560876667
   },
+  "n_trials": 0.0,
   "prediction": 0.00276116128830427,
   "status": 0,
   "training_prediction": 0.0250294994355717

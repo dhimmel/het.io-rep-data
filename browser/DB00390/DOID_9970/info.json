@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0604681404421326,
   "metapath_contribution": {
     "CbGbCtD": 0.41062860227726355,
     "CbGeAlD": 0.15300225229681944,
     "CbGpPWpGaD": 0.2229526051263649,
     "CcSEcCtD": 0.2134165402995522
   },
+  "n_trials": 0.0,
   "prediction": 0.000836491691634243,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

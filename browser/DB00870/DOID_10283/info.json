@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.392717815344603,
   "metapath_contribution": {
-    "CbGaD": 0.2211783525351448,
+    "CbGaD": 0.22117835253514484,
     "CbGbCtD": 0.5209088873289703,
-    "CbGeAlD": 0.038570135997167534,
-    "CbGpPWpGaD": 0.17026980793603855,
-    "CcSEcCtD": 0.043785048398657524,
-    "CrCbGaD": 0.005287767804021226
+    "CbGeAlD": 0.03857013599716754,
+    "CbGpPWpGaD": 0.17026980793603858,
+    "CcSEcCtD": 0.04378504839865753,
+    "CrCbGaD": 0.005287767804021227
   },
+  "n_trials": 0.0,
   "prediction": 0.00191260166613182,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

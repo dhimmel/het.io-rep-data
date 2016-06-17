@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.0676202860858258,
   "metapath_contribution": {
     "CbGdCrCtD": 0.019278826532484184,
     "CbGeAlD": 0.2734059428817508,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5359683223963165,
     "CrCbGaD": 0.014226116927464784
   },
+  "n_trials": 0.0,
   "prediction": 0.000705163338606572,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

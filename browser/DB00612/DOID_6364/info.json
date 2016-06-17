@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00612",
   "compound_name": "Bisoprolol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGbCtD": 0.20658063046459985,
     "CbGpPWpGaD": 0.018210003447943095,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2872609417428082,
     "CrCtD": 0.40614464929235405
   },
+  "n_trials": 0.0,
   "prediction": 0.0202537022114075,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

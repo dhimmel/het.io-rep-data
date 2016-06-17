@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.5096120051894774,
     "CbGbCtD": 0.1666240048699629,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.14430032522762745,
     "CcSEcCtD": 0.1061741479945613
   },
+  "n_trials": 0.0,
   "prediction": 0.0038367441984712295,
   "status": 0,
   "training_prediction": 0.00629698850903248

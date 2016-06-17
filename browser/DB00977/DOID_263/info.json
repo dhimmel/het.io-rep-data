@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.20026007802340698,
   "metapath_contribution": {
     "CbGaD": 0.13963414575079408,
     "CbGbCtD": 0.6261703618984926,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16037545509976098,
     "CrCbGaD": 0.0008818518565681363
   },
+  "n_trials": 0.0,
   "prediction": 0.00103245177563508,
   "status": 0,
   "training_prediction": 0.0050100486820023205

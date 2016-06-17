@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.7704586627709834,
     "CbGeAlD": 0.07847164268877098,
     "CbGpPWpGaD": 0.1430179641085446,
     "CrCbGaD": 0.008051730431701086
   },
+  "n_trials": 0.0,
   "prediction": 0.0014685476652787,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

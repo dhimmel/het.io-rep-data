@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.5122005848433707,
     "CbGbCtD": 0.3578769498043267,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.07819558193421082,
     "CrCbGaD": 0.00038799287932737
   },
+  "n_trials": 0.0,
   "prediction": 0.00368591603324187,
   "status": 0,
   "training_prediction": 0.0087335557377728

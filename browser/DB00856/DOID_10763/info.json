@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00856",
   "compound_name": "Chlorphenesin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.1819878733261458,
     "CbGbCtD": 0.1344455135269356,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2650195080379906,
     "CrCtD": 0.3784945428370461
   },
+  "n_trials": 0.0,
   "prediction": 0.0422534719945306,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

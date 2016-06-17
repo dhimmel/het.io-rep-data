@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.64629388816645,
   "metapath_contribution": {
     "CbGaD": 0.2567311738441387,
     "CbGbCtD": 0.5795008661817522,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07493875803938092,
     "CrCbGaD": 0.0025565427676200727
   },
+  "n_trials": 0.0,
   "prediction": 0.00336347788195637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

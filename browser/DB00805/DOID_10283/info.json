@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00805",
   "compound_name": "Minaprine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.293237971391417,
   "metapath_contribution": {
-    "CbGaD": 0.7683026248729002,
-    "CbGbCtD": 0.028877358172916978,
+    "CbGaD": 0.7683026248729004,
+    "CbGbCtD": 0.02887735817291698,
     "CbGeAlD": 0.004704440630159319,
-    "CbGpPWpGaD": 0.18873303525976082,
-    "CrCbGaD": 0.009382541064262603
+    "CbGpPWpGaD": 0.18873303525976085,
+    "CrCbGaD": 0.009382541064262605
   },
+  "n_trials": 0.0,
   "prediction": 0.0015177328801522301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

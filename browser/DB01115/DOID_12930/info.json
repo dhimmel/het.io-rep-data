@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.232769830949285,
   "metapath_contribution": {
     "CbGbCtD": 0.4751330355333099,
     "CbGeAlD": 0.09466976661284324,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21463846757920807,
     "CrCbGaD": 0.008099123248308436
   },
+  "n_trials": 0.0,
   "prediction": 0.0011910642220626,
   "status": 0,
   "training_prediction": 0.00117494476581117

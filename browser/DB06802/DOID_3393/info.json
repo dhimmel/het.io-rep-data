@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6989596879063721,
   "metapath_contribution": {
     "CbGaD": 0.12445477450490562,
     "CbGbCtD": 0.07973173122656593,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0025691139878813813,
     "CrCrCtD": 0.18832472511888504
   },
+  "n_trials": 0.0,
   "prediction": 0.0034778994675898197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

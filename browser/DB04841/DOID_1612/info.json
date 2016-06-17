@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04841",
   "compound_name": "Flunarizine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.20000017766676847,
     "CbGbCtD": 0.32580435979743794,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002362701012788495,
     "CrCrCtD": 0.33945043879009407
   },
+  "n_trials": 0.0,
   "prediction": 0.00334009340984828,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

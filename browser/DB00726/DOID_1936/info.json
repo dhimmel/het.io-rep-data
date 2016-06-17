@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.6703511053315989,
   "metapath_contribution": {
     "CbGaD": 0.44083795400738224,
     "CbGbCtD": 0.3676293207890742,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09742944983723927,
     "CrCbGaD": 0.005905294512309161
   },
+  "n_trials": 0.0,
   "prediction": 0.0023109658149520103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

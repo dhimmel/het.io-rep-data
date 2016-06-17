@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.176202860858257,
   "metapath_contribution": {
-    "CbGbCtD": 0.2210413174641785,
-    "CbGeAlD": 0.04538956667096186,
-    "CbGpPWpGaD": 0.3879401314522741,
-    "CcSEcCtD": 0.32407356306739327,
-    "CrCbGaD": 0.021555421345192404
+    "CbGbCtD": 0.22104131746417846,
+    "CbGeAlD": 0.045389566670961855,
+    "CbGpPWpGaD": 0.387940131452274,
+    "CcSEcCtD": 0.3240735630673932,
+    "CrCbGaD": 0.0215554213451924
   },
+  "n_trials": 0.0,
   "prediction": 0.0012950559688569801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

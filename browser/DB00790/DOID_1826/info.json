@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGaD": 0.4131794967243236,
     "CbGbCtD": 0.23001555693106016,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.26109945165125525,
     "CrCbGaD": 0.0018025534896605822
   },
+  "n_trials": 0.0,
   "prediction": 0.0036523806474214704,
   "status": 0,
   "training_prediction": 0.0291835219196843

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.654746423927178,
   "metapath_contribution": {
     "CbGaD": 0.26294361416985434,
     "CbGbCtD": 0.48262573284469734,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18964151853044575,
     "CrCbGaD": 0.0013542007792885905
   },
+  "n_trials": 0.0,
   "prediction": 0.00329890667188462,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

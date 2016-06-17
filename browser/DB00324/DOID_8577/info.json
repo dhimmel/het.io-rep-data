@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00324",
   "compound_name": "Fluorometholone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
-    "CbGbCtD": 0.15034993540012742,
-    "CcSEcCtD": 0.025840318193732618,
-    "CiPCiCtD": 0.3629763510902463,
-    "CrCbGaD": 0.000203362253028239,
-    "CrCrCtD": 0.1917906818300926,
-    "CrCtD": 0.26883935123277264
+    "CbGbCtD": 0.15034993540012748,
+    "CcSEcCtD": 0.025840318193732628,
+    "CiPCiCtD": 0.3629763510902464,
+    "CrCbGaD": 0.00020336225302823905,
+    "CrCrCtD": 0.19179068183009268,
+    "CrCtD": 0.26883935123277275
   },
+  "n_trials": 0.0,
   "prediction": 0.0537849627814614,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

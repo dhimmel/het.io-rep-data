@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01162",
   "compound_name": "Terazosin",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.481144343302991,
   "metapath_contribution": {
     "CbGbCtD": 0.3941712668512133,
     "CbGeAlD": 0.11159402190716985,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.38343451638932363,
     "CrCbGaD": 0.0068200172058568926
   },
+  "n_trials": 0.0,
   "prediction": 0.0022186579621806,
   "status": 0,
   "training_prediction": 0.009378941337730491

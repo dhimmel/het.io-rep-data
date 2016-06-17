@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00903",
   "compound_name": "Ethacrynic acid",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.671761138748189,
     "CbGbCtD": 0.13734704570244524,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08326267531322917,
     "CcSEcCtD": 0.09470556261594078
   },
+  "n_trials": 0.0,
   "prediction": 0.00550192057043308,
   "status": 0,
   "training_prediction": 0.0186239414519745

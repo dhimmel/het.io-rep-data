@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00332",
   "compound_name": "Ipratropium bromide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGaD": 0.8124723772293257,
     "CbGeAlD": 0.031216155819408477,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05624035842290966,
     "CrCbGaD": 0.008732500092074975
   },
+  "n_trials": 0.0,
   "prediction": 0.0035084988365358,
   "status": 0,
   "training_prediction": 0.00158350657987775

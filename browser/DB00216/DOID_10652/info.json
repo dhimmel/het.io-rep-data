@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGaD": 0.33073046890801555,
     "CbGbCtD": 0.35641620432064547,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1840477271778638,
     "CrCbGaD": 0.0025667703456414112
   },
+  "n_trials": 0.0,
   "prediction": 0.00301475671455404,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

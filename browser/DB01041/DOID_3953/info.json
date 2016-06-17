@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.36764705882352894,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.4603381014304289,
   "metapath_contribution": {
     "CbGaD": 0.7587879563081452,
     "CbGeAlD": 0.05474390030387613,
     "CbGpPWpGaD": 0.1752851774169952,
     "CrCbGaD": 0.01118296597098343
   },
+  "n_trials": 0.0,
   "prediction": 0.00123649759904032,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

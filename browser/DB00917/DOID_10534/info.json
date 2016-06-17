@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.5624187256176851,
   "metapath_contribution": {
     "CbGbCtD": 0.63456156905536,
     "CbGeAlD": 0.10103560891838385,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11400970581870987,
     "CrCbGaD": 0.0031769128674495866
   },
+  "n_trials": 0.0,
   "prediction": 0.0016987602132740199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

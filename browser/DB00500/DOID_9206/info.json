@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.791287386215865,
   "metapath_contribution": {
     "CbGaD": 0.847566149102091,
     "CbGpPWpGaD": 0.03579909490741357,
     "CcSEcCtD": 0.11112517629656907,
     "CrCbGaD": 0.005509579693926334
   },
+  "n_trials": 0.0,
   "prediction": 0.00248255184045983,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

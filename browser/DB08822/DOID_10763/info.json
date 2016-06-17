@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08822",
   "compound_name": "Azilsartan medoxomil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.09776395835368251,
     "CbGbCtD": 0.1562477533863316,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1589338039885489,
     "CrCtD": 0.23722040894817398
   },
+  "n_trials": 0.0,
   "prediction": 0.3075526106503211,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

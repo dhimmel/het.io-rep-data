@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.5773732119635889,
   "metapath_contribution": {
     "CbGbCtD": 0.3494749468325499,
     "CbGeAlD": 0.10809988315330492,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10853367473747896,
     "CrCrCtD": 0.407035869593017
   },
+  "n_trials": 0.0,
   "prediction": 0.00166416705641375,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

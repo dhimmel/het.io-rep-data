@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.132639791937581,
   "metapath_contribution": {
     "CbGaD": 0.6796819738743525,
     "CbGbCtD": 0.05206219059015195,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.18880165065679674,
     "CrCbGaD": 0.010667599182704691
   },
+  "n_trials": 0.0,
   "prediction": 0.00110565442841186,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

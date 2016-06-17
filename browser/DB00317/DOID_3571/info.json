@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.13889088116900797,
     "CbGbCtD": 0.36760462818462303,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.002842292887566551,
     "CtDrD": 0.3785043139954315
   },
+  "n_trials": 1.0,
   "prediction": 0.0063902152589416,
   "status": 0,
   "training_prediction": 0.00630417638195487

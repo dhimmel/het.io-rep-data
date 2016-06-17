@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.767230169050715,
   "metapath_contribution": {
     "CbGaD": 0.5437140299456561,
     "CbGbCtD": 0.03735698072593045,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09572339849326407,
     "CrCbGaD": 0.0031842602553232863
   },
+  "n_trials": 0.0,
   "prediction": 0.00213713730344617,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

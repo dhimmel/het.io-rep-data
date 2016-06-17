@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01205",
   "compound_name": "Flumazenil",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGeAlD": 0.17674714774511827,
     "CbGpPWpGaD": 0.23318864499400166,
     "CcSEcCtD": 0.59006420726088
   },
+  "n_trials": 0.0,
   "prediction": 0.00259641033602283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

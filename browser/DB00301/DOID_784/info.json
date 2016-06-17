@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00301",
   "compound_name": "Flucloxacillin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.443433029908973,
   "metapath_contribution": {
     "CbGaD": 0.9825018521738823,
     "CbGpPWpGaD": 0.015148391045101203,
     "CrCbGaD": 0.002349756781016448
   },
+  "n_trials": 0.0,
   "prediction": 0.0014431669476646,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

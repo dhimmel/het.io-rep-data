@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.6840052015604681,
   "metapath_contribution": {
     "CbGaD": 0.8050015561137156,
     "CbGeAlD": 0.048795691744661925,
     "CbGpPWpGaD": 0.13749399323169972,
     "CrCbGaD": 0.008708758909922707
   },
+  "n_trials": 0.0,
   "prediction": 0.00201546229418267,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

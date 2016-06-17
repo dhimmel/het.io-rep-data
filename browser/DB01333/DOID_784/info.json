@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01333",
   "compound_name": "Cefradine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.38751625487646296,
   "metapath_contribution": {
     "CbGaD": 0.8650370850908634,
     "CbGeAlD": 0.023667478843344202,
     "CbGpPWpGaD": 0.10761588851651553,
     "CrCbGaD": 0.003679547549276809
   },
+  "n_trials": 0.0,
   "prediction": 0.00135330328479219,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

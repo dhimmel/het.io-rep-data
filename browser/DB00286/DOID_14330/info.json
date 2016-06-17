@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00286",
   "compound_name": "Conjugated Estrogens",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.139141742522757,
   "metapath_contribution": {
     "CbGaD": 0.7681603658734052,
     "CbGeAlD": 0.07592757103336976,
     "CbGpPWpGaD": 0.15410805459660898,
     "CrCbGaD": 0.0018040084966159948
   },
+  "n_trials": 0.0,
   "prediction": 0.000806031074736307,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

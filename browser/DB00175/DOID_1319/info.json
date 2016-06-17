@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00175",
   "compound_name": "Pravastatin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.7347204161248371,
   "metapath_contribution": {
     "CbGaD": 0.46031638693438565,
     "CbGbCtD": 0.3468308248672585,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12638048516839925,
     "CrCbGaD": 0.004293336046368537
   },
+  "n_trials": 0.0,
   "prediction": 0.0021901383555030197,
   "status": 0,
   "training_prediction": 0.00665206234029759

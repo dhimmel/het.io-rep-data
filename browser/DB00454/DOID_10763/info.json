@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGaD": 0.3344093917179365,
     "CbGbCtD": 0.39532636295084317,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14623620971538548,
     "CrCbGaD": 0.0038695194982961835
   },
+  "n_trials": 0.0,
   "prediction": 0.0042894520123770005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

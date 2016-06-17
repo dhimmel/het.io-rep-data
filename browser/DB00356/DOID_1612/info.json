@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00356",
   "compound_name": "Chlorzoxazone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8725617685305591,
   "metapath_contribution": {
     "CbGaD": 0.3610108492894217,
     "CbGbCtD": 0.4725744800234279,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09123881010311452,
     "CcSEcCtD": 0.07471888874447083
   },
+  "n_trials": 0.0,
   "prediction": 0.00603360604955269,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

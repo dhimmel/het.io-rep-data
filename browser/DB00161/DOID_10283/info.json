@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00161",
   "compound_name": "L-Valine",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.23016905071521498,
   "metapath_contribution": {
     "CbGdCrCtD": 0.029553043960230587,
     "CbGeAlD": 0.3719028171818231,
     "CbGpPWpGaD": 0.582202288210279,
     "CrCbGaD": 0.016341850647667227
   },
+  "n_trials": 0.0,
   "prediction": 0.00130245463973636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

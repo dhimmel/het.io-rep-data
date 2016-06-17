@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.20676202860858303,
   "metapath_contribution": {
     "CbGaD": 0.28232151715880255,
     "CbGbCtD": 0.36134347720970683,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.27050398659608205,
     "CrCbGaD": 0.004034101547648592
   },
+  "n_trials": 0.0,
   "prediction": 0.000877834534515447,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

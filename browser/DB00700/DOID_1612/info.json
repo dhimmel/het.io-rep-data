@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00700",
   "compound_name": "Eplerenone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.06239797453272313,
     "CbGbCtD": 0.1773979131721038,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.23649514757064297,
     "CrCtD": 0.40362840360658997
   },
+  "n_trials": 1.0,
   "prediction": 0.007334231069127291,
   "status": 0,
   "training_prediction": 0.0641125793517838

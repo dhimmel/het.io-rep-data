@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00369",
   "compound_name": "Cidofovir",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.660598179453836,
   "metapath_contribution": {
     "CbGbCtD": 0.6604326457099001,
     "CbGeAlD": 0.01952725400324872,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23440049963142695,
     "CrCbGaD": 0.004142921222762533
   },
+  "n_trials": 0.0,
   "prediction": 0.0033267543197173398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

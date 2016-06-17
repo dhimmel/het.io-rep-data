@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGaD": 0.21774401415776756,
     "CbGbCtD": 0.5463346580425501,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12034624558356223,
     "CrCbGaD": 0.001521869760861616
   },
+  "n_trials": 0.0,
   "prediction": 0.00337875472906372,
   "status": 0,
   "training_prediction": 0.0114955806379202

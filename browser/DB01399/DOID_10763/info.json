@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.851755526657997,
   "metapath_contribution": {
     "CbGaD": 0.1692102861662407,
     "CbGbCtD": 0.1590682659443627,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2514163353253537,
     "CrCtD": 0.31543662161044633
   },
+  "n_trials": 1.0,
   "prediction": 0.0129908213758034,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

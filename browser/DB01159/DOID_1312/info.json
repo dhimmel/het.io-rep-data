@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.7780126328944487,
     "CbGeAlD": 0.002079713825576119,
     "CbGpPWpGaD": 0.2171493982340934,
     "CrCbGaD": 0.0027582550458818433
   },
+  "n_trials": 0.0,
   "prediction": 0.00246400510170537,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

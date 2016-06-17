@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.4968688930485599,
     "CbGbCtD": 0.3857862900058731,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.005106022817385031,
     "CrCbGaD": 0.0043227159566642664
   },
+  "n_trials": 0.0,
   "prediction": 0.007516758438340641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

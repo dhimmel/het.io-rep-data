@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00706",
   "compound_name": "Tamsulosin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.7872098788413561,
     "CbGeAlD": 0.05416066601701745,
     "CbGpPWpGaD": 0.1554092073497502,
     "CrCbGaD": 0.0032202477918763604
   },
+  "n_trials": 0.0,
   "prediction": 0.004120587939762529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

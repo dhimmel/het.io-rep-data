@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.808192457737321,
   "metapath_contribution": {
     "CbGaD": 0.12468197341356078,
     "CbGbCtD": 0.6694954923189251,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14249578306890898,
     "CrCbGaD": 0.0002207118765720158
   },
+  "n_trials": 0.0,
   "prediction": 0.00306210671777474,
   "status": 0,
   "training_prediction": 0.0099176034799698

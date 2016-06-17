@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00408",
   "compound_name": "Loxapine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7035110533159951,
   "metapath_contribution": {
     "CbGaD": 0.37511413895334983,
     "CbGbCtD": 0.4168172516970076,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09152210782233422,
     "CrCbGaD": 0.004128590446506088
   },
+  "n_trials": 1.0,
   "prediction": 0.00302585046588048,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.304291287386216,
   "metapath_contribution": {
     "CbGaD": 0.22929069440865393,
     "CbGbCtD": 0.34635207235565646,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12845927273058846,
     "CrCbGaD": 0.003540766985282614
   },
+  "n_trials": 0.0,
   "prediction": 0.00167840792770494,
   "status": 0,
   "training_prediction": 0.00715226861332399

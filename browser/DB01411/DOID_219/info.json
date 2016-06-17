@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.6866690200082233,
     "CbGbCtD": 0.17021932526546474,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08175031141896222,
     "CrCbGaD": 0.0002213965201340421
   },
+  "n_trials": 0.0,
   "prediction": 0.00635269905784262,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

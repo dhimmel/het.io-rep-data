@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.5318595578673599,
   "metapath_contribution": {
     "CbGaD": 0.524619178198261,
     "CbGbCtD": 0.16091475581792605,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13068388951317725,
     "CrCbGaD": 0.0038065225696601204
   },
+  "n_trials": 0.0,
   "prediction": 0.00194943003259295,
   "status": 0,
   "training_prediction": 0.00393997081058721

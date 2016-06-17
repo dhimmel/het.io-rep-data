@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01001",
   "compound_name": "Salbutamol",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.14564369310793202,
   "metapath_contribution": {
     "CbGaD": 0.2721760827303925,
     "CbGbCtD": 0.420858919016368,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2717157855427719,
     "CrCbGaD": 0.003061532395409919
   },
+  "n_trials": 0.0,
   "prediction": 0.00112866681422421,
   "status": 0,
   "training_prediction": 0.0103680719368793

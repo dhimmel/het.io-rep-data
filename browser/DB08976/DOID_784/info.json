@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08976",
   "compound_name": "Floctafenine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGaD": 0.952708649028777,
     "CbGeAlD": 0.0054293702355695025,
     "CbGpPWpGaD": 0.0352060617809625,
     "CrCbGaD": 0.006655918954690873
   },
+  "n_trials": 0.0,
   "prediction": 0.00265194342485045,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6007802340702211,
   "metapath_contribution": {
     "CbGaD": 0.3487448767990789,
     "CbGbCtD": 0.41317441607844557,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.15839173757267988,
     "CrCbGaD": 0.002942954835946003
   },
+  "n_trials": 0.0,
   "prediction": 0.0029118769636427397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01093",
   "compound_name": "Dimethyl sulfoxide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.3868756429365854,
     "CbGbCtD": 0.4758481373373784,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09167974780670564,
     "CcSEcCtD": 0.025473258485178313
   },
+  "n_trials": 0.0,
   "prediction": 0.00625301192212539,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

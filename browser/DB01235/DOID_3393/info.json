@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0806241872561769,
   "metapath_contribution": {
     "CbGbCtD": 0.5573118379878595,
     "CbGeAlD": 0.009263260816127336,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2692730437058068,
     "CrCbGaD": 0.006541616256411369
   },
+  "n_trials": 0.0,
   "prediction": 0.000839418856097063,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

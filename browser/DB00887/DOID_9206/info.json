@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.6752124067970994,
     "CbGeAlD": 0.11696235118253422,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17276599951358562,
     "CrCbGaD": 0.0009314921695305197
   },
+  "n_trials": 0.0,
   "prediction": 0.00219106126424942,
   "status": 0,
   "training_prediction": 0.00161623781011116

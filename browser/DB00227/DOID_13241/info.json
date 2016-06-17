@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:13241",
   "disease_name": "Behcet's disease",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.9227651118070312,
     "CbGeAlD": 0.03277125672533692,
     "CbGpPWpGaD": 0.03634474391010869,
     "CrCbGaD": 0.008118887557523052
   },
+  "n_trials": 0.0,
   "prediction": 0.00283519775161776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

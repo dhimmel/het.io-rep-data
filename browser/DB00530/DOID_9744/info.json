@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.7257667216428122,
     "CbGeAlD": 0.04765400823457192,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05075700999573553,
     "CrCbGaD": 0.00905954289426774
   },
+  "n_trials": 0.0,
   "prediction": 0.00210954886671922,
   "status": 0,
   "training_prediction": 0.00215970883550776

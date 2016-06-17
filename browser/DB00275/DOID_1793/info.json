@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00275",
   "compound_name": "Olmesartan",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.5129509406033519,
     "CbGbCtD": 0.32695781088819387,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11428500269555392,
     "CrCbGaD": 0.005936628389202316
   },
+  "n_trials": 0.0,
   "prediction": 0.0043553395105136,
   "status": 0,
   "training_prediction": 0.0171377700633326

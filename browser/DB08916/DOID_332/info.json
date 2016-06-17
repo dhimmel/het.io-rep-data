@@ -1,17 +1,19 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
-    "CbGaD": 0.5833899831572257,
-    "CbGbCtD": 0.2580271336436952,
-    "CbGeAlD": 0.04568872546601227,
-    "CbGpPWpGaD": 0.07542708397687573,
-    "CcSEcCtD": 0.036336808057008584,
-    "CrCbGaD": 0.001130265699182468
+    "CbGaD": 0.5833899831572258,
+    "CbGbCtD": 0.25802713364369523,
+    "CbGeAlD": 0.045688725466012284,
+    "CbGpPWpGaD": 0.07542708397687574,
+    "CcSEcCtD": 0.03633680805700859,
+    "CrCbGaD": 0.0011302656991824683
   },
+  "n_trials": 0.0,
   "prediction": 0.00211851038112311,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

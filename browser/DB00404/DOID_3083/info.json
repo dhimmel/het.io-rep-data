@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.279583875162549,
   "metapath_contribution": {
     "CbGbCtD": 0.5055977195937092,
     "CbGpPWpGaD": 0.08749278093874245,
     "CcSEcCtD": 0.40470379547673296,
     "CrCbGaD": 0.0022057039908153415
   },
+  "n_trials": 0.0,
   "prediction": 0.00154629370592132,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00194",
   "compound_name": "Vidarabine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
-    "CbGeAlD": 0.004813421669728278,
-    "CbGpPWpGaD": 0.0038220313662506574,
-    "CcSEcCtD": 0.044820909885580164,
-    "CrCbGaD": 0.003307687435437193,
-    "CrCrCtD": 0.37287445274220626,
-    "CrCtD": 0.5703614969007975
+    "CbGeAlD": 0.004813421669728277,
+    "CbGpPWpGaD": 0.003822031366250657,
+    "CcSEcCtD": 0.04482090988558016,
+    "CrCbGaD": 0.0033076874354371925,
+    "CrCrCtD": 0.3728744527422062,
+    "CrCtD": 0.5703614969007974
   },
+  "n_trials": 0.0,
   "prediction": 0.00553300853961548,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

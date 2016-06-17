@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGaD": 0.4016362744449252,
     "CbGbCtD": 0.4180928411754141,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.07016647221021936,
     "CcSEcCtD": 0.0756739684256109
   },
+  "n_trials": 0.0,
   "prediction": 0.0055420857009965295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

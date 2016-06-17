@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.6690507152145639,
   "metapath_contribution": {
     "CbGaD": 0.6829627325135375,
     "CbGeAlD": 0.07798080520429866,
     "CbGpPWpGaD": 0.23673440952001937,
     "CrCbGaD": 0.00232205276214457
   },
+  "n_trials": 0.0,
   "prediction": 0.00160536760861118,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

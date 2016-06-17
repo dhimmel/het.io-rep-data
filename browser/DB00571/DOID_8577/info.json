@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.5494148244473339,
   "metapath_contribution": {
     "CbGaD": 0.4167423819216625,
     "CbGbCtD": 0.4493067979895517,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09566322571155735,
     "CrCbGaD": 0.00588358692215787
   },
+  "n_trials": 0.0,
   "prediction": 0.00226125038209468,
   "status": 0,
   "training_prediction": 0.0128094952828842

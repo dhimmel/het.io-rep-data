@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.220588235294118,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.0871261378413524,
   "metapath_contribution": {
     "CbGbCtD": 0.6477516554621984,
     "CbGdCrCtD": 0.012519320417574498,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0010800864407445804,
     "CcSEcCtD": 0.13716452895118833
   },
+  "n_trials": 1.0,
   "prediction": 0.0007750458101568769,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

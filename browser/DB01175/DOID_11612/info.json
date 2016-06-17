@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.7533091153221425,
     "CbGpPWpGaD": 0.12009037328548094,
     "CcSEcCtD": 0.12063879463569654,
     "CrCbGaD": 0.005961716756679981
   },
+  "n_trials": 0.0,
   "prediction": 0.0025525089723061603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

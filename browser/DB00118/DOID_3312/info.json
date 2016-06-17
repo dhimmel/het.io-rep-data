@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00118",
   "compound_name": "S-Adenosylmethionine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGaD": 0.764982738382615,
     "CbGeAlD": 0.09064709630292313,
     "CbGpPWpGaD": 0.139589149389745,
     "CrCbGaD": 0.004781015924716903
   },
+  "n_trials": 0.0,
   "prediction": 0.00167185929434266,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

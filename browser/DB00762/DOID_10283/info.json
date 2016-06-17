@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.16786677825574853,
     "CbGbCtD": 0.21999516606475458,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.4804463625667154,
     "CrCbGaD": 0.00033770484784035075
   },
+  "n_trials": 1.0,
   "prediction": 0.0110683461260184,
   "status": 0,
   "training_prediction": 0.159203680545837

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7249674902470741,
   "metapath_contribution": {
     "CbGaD": 0.47697826347554956,
     "CbGbCtD": 0.34045580049730034,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11022361449762064,
     "CrCbGaD": 0.0035011117851055174
   },
+  "n_trials": 14.0,
   "prediction": 0.00265766283200108,
   "status": 0,
   "training_prediction": 0.00322504978825146

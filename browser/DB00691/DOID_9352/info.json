@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00691",
   "compound_name": "Moexipril",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.10047432207124629,
     "CbGbCtD": 0.19398664043210534,
@@ -13,6 +15,7 @@
     "CrCtD": 0.2507726107586564,
     "CtDrD": 0.21806034823432718
   },
+  "n_trials": 0.0,
   "prediction": 0.0600859055698209,
   "status": 0,
   "training_prediction": 0.220397197959552

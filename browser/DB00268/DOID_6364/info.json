@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00268",
   "compound_name": "Ropinirole",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.33557990967145285,
     "CbGbCtD": 0.21538557041996553,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0862167129437094,
     "CpDpCtD": 0.26871524738302405
   },
+  "n_trials": 0.0,
   "prediction": 0.0329000374310187,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

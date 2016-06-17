@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.318595578673602,
   "metapath_contribution": {
     "CbGeAlD": 0.3969214448546378,
     "CbGpPWpGaD": 0.5804843040405301,
     "CrCbGaD": 0.022594251104832073
   },
+  "n_trials": 0.0,
   "prediction": 0.00120608241922868,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

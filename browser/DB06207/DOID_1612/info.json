@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06207",
   "compound_name": "Silodosin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7776332899869959,
   "metapath_contribution": {
     "CbGaD": 0.29542776434201623,
     "CbGbCtD": 0.4558610904259726,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1429968101025923,
     "CrCbGaD": 0.0011002091496671717
   },
+  "n_trials": 0.0,
   "prediction": 0.0044398873350210205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.7139141742522759,
   "metapath_contribution": {
     "CbGbCtD": 0.6711089754610817,
     "CbGdCrCtD": 0.010194684610032057,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2164785453225236,
     "CrCbGaD": 0.002436468684609417
   },
+  "n_trials": 0.0,
   "prediction": 0.00202333451147005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGaD": 0.3531398110571066,
     "CbGbCtD": 0.3854949614997555,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.04399772568564304,
     "CcSEcCtD": 0.159315631756766
   },
+  "n_trials": 0.0,
   "prediction": 0.00280400188026595,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

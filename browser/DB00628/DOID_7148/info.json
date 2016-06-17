@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00628",
   "compound_name": "Clorazepate",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.18465539661898603,
   "metapath_contribution": {
     "CbGbCtD": 0.9835129150263147,
     "CcSEcCtD": 0.010624323292972753,
     "CrCbGaD": 0.005862761680712577
   },
+  "n_trials": 0.0,
   "prediction": 0.00106412557937586,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

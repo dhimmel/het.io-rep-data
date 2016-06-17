@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.2922304472703607,
     "CbGbCtD": 0.3440887173208674,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0023952268486143852,
     "CrCrCtD": 0.26826984919545493
   },
+  "n_trials": 0.0,
   "prediction": 0.00737953125527783,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

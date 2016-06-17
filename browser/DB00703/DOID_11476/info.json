@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.3850494533593499,
     "CbGbCtD": 0.4554694547982306,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08868512028115615,
     "CrCbGaD": 0.0034605816395511715
   },
+  "n_trials": 0.0,
   "prediction": 0.0072058786150647905,
   "status": 0,
   "training_prediction": 0.0231233450248732

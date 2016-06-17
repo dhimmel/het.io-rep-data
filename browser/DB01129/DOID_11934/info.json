@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.549902061117401,
     "CbGbCtD": 0.3079472857946354,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10011923384206525,
     "CrCbGaD": 0.002730675464337593
   },
+  "n_trials": 0.0,
   "prediction": 0.00347355556254637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

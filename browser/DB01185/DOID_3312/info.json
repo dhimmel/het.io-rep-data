@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01185",
   "compound_name": "Fluoxymesterone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.17425227568270496,
   "metapath_contribution": {
     "CbGaD": 0.8589377897875294,
     "CbGeAlD": 0.051062740029112375,
     "CbGpPWpGaD": 0.08061103667494049,
     "CrCbGaD": 0.009388433508417593
   },
+  "n_trials": 0.0,
   "prediction": 0.000974898817311499,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00599",
   "compound_name": "Thiopental",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.49674902470741206,
   "metapath_contribution": {
     "CbGaD": 0.5978543873757927,
     "CbGbCtD": 0.24029135630526366,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1319483329277686,
     "CrCbGaD": 0.0018405307350860029
   },
+  "n_trials": 0.0,
   "prediction": 0.00249636383615027,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

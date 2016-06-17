@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.908972691807542,
   "metapath_contribution": {
     "CbGaD": 0.2391159646626241,
     "CbGbCtD": 0.2605531693113807,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0023307218710691647,
     "CrCrCtD": 0.41657826590944913
   },
+  "n_trials": 0.0,
   "prediction": 0.00596028442447988,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

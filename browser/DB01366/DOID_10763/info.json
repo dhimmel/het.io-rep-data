@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01366",
   "compound_name": "Procaterol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8068920676202859,
   "metapath_contribution": {
     "CbGaD": 0.24871109333257244,
     "CbGbCtD": 0.4644477743453335,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002551514292659692,
     "CrCrCtD": 0.24263616246790448
   },
+  "n_trials": 0.0,
   "prediction": 0.0101758988712303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

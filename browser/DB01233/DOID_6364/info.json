@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGaD": 0.5105722605528913,
     "CbGbCtD": 0.25291898445634203,
@@ -13,6 +15,5 @@
     "CrCbGaD": 0.006519097337112067
   },
   "prediction": 0.00422545648208754,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

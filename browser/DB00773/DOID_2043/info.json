@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.33823529411764697,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.14824447334200302,
   "metapath_contribution": {
     "CbGbCtD": 0.6388904615173943,
     "CbGdCrCtD": 0.0049211777310741965,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07958980703592403,
     "CcSEcCtD": 0.17958870944283295
   },
+  "n_trials": 0.0,
   "prediction": 0.000997731269279648,
   "status": 0,
   "training_prediction": 0.0081574386432862

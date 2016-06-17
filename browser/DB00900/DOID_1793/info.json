@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00900",
   "compound_name": "Didanosine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.36695966633441907,
     "CbGbCtD": 0.2890411703910296,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0018803033086125635,
     "CrCrCtD": 0.26797024074288717
   },
+  "n_trials": 0.0,
   "prediction": 0.0121065140545915,
   "status": 0,
   "training_prediction": 0.0284348838076972

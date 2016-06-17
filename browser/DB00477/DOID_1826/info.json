@@ -1,20 +1,22 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
-    "CbGaD": 0.16164731067090699,
-    "CbGbCtD": 0.1309686725978384,
-    "CbGeAlD": 0.023555661940211345,
-    "CbGpPWpGaD": 0.045972547118109844,
-    "CcSEcCtD": 0.051312965172960794,
-    "CpDpCtD": 0.21084742020712377,
-    "CrCbGaD": 0.0015647925858028881,
-    "CrCrCtD": 0.1637953875967,
-    "CrCtD": 0.21033524211034585
+    "CbGaD": 0.161647310670907,
+    "CbGbCtD": 0.13096867259783843,
+    "CbGeAlD": 0.02355566194021135,
+    "CbGpPWpGaD": 0.04597254711810985,
+    "CcSEcCtD": 0.0513129651729608,
+    "CpDpCtD": 0.21084742020712383,
+    "CrCbGaD": 0.0015647925858028884,
+    "CrCrCtD": 0.16379538759670004,
+    "CrCtD": 0.21033524211034588
   },
+  "n_trials": 0.0,
   "prediction": 0.0245032064497584,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

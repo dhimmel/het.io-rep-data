@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGbCtD": 0.04373204276135571,
     "CbGdCrCtD": 0.0011896721944583244,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2110897409687578,
     "CrCtD": 0.34832464103345717
   },
+  "n_trials": 0.0,
   "prediction": 0.0217538218667465,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

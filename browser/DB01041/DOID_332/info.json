@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.8244473342002601,
   "metapath_contribution": {
     "CbGaD": 0.24990132129091377,
     "CbGbCtD": 0.43558497192908574,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18546584956371334,
     "CrCbGaD": 0.002500996646398363
   },
+  "n_trials": 2.0,
   "prediction": 0.0021018952569208603,
   "status": 0,
   "training_prediction": 0.00158114426807915

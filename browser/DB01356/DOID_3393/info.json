@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01356",
   "compound_name": "Lithium",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.6332597216848155,
     "CbGeAlD": 0.04869826165913311,
     "CbGpPWpGaD": 0.1735527679783472,
     "CcSEcCtD": 0.1444892486777042
   },
+  "n_trials": 0.0,
   "prediction": 0.00582869618482579,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

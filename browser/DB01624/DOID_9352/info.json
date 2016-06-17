@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01624",
   "compound_name": "Zuclopenthixol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.472041612483745,
   "metapath_contribution": {
     "CbGaD": 0.288187570305719,
     "CbGbCtD": 0.431912432443543,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17428810332106817,
     "CrCbGaD": 0.004380508980062049
   },
+  "n_trials": 0.0,
   "prediction": 0.00238117477433352,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

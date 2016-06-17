@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.2225174887767839,
     "CbGbCtD": 0.33206280859682213,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.2200191425575724,
     "CrCbGaD": 0.002313003028981193
   },
+  "n_trials": 0.0,
   "prediction": 0.00606340518944196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

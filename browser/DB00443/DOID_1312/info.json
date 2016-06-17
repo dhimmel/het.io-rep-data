@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.254876462938882,
   "metapath_contribution": {
     "CbGbCtD": 0.0008374179118879572,
     "CbGeAlD": 0.049448477860232376,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06950496476852817,
     "CtDrD": 0.8728550193275461
   },
+  "n_trials": 0.0,
   "prediction": 0.00105447435597073,
   "status": 0,
   "training_prediction": 0.00321917126719873

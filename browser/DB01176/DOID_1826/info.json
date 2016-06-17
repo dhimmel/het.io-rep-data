@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01176",
   "compound_name": "Cyclizine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.44148244473342,
   "metapath_contribution": {
-    "CbGbCtD": 0.23937053547468473,
-    "CbGpPWpGaD": 0.03689355256340022,
-    "CcSEcCtD": 0.16796874214154006,
-    "CrCbGaD": 0.005840625560711074,
-    "CrCrCtD": 0.5499265442596638
+    "CbGbCtD": 0.2393705354746848,
+    "CbGpPWpGaD": 0.036893552563400225,
+    "CcSEcCtD": 0.1679687421415401,
+    "CrCbGaD": 0.005840625560711075,
+    "CrCrCtD": 0.5499265442596639
   },
+  "n_trials": 0.0,
   "prediction": 0.00289362557004238,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:10871",
   "disease_name": "age related macular degeneration",
+  "disease_percentile": 0.0806241872561769,
   "metapath_contribution": {
-    "CbGeAlD": 0.11074377183792564,
-    "CbGpPWpGaD": 0.8375661061078302,
-    "CrCbGaD": 0.051690122054244086
+    "CbGeAlD": 0.11074377183792565,
+    "CbGpPWpGaD": 0.8375661061078303,
+    "CrCbGaD": 0.05169012205424409
   },
+  "n_trials": 0.0,
   "prediction": 0.000764418086932004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

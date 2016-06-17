@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.5307982237891707,
     "CbGeAlD": 0.07343231179564681,
     "CbGpPWpGaD": 0.1926721869754874,
     "CcSEcCtD": 0.203097277439695
   },
+  "n_trials": 0.0,
   "prediction": 0.00300827258856274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

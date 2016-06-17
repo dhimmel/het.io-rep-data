@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.12387737474950283,
     "CbGbCtD": 0.16719321669844522,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.49941667607028556,
     "CrCbGaD": 0.0033468968413875857
   },
+  "n_trials": 1.0,
   "prediction": 0.00396300189673391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

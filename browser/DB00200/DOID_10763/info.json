@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.37256176853055895,
   "metapath_contribution": {
     "CbGeAlD": 0.17800973768441025,
     "CbGpPWpGaD": 0.4003399862927553,
     "CcSEcCtD": 0.41737320701129,
     "CrCbGaD": 0.004277069011544401
   },
+  "n_trials": 0.0,
   "prediction": 0.00285190001388208,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00194",
   "compound_name": "Vidarabine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.0539661898569571,
   "metapath_contribution": {
     "CbGdCrCtD": 0.03583214982064295,
     "CbGeAlD": 0.09749421169930597,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5255922230315443,
     "CrCbGaD": 0.042823472664913174
   },
+  "n_trials": 0.0,
   "prediction": 0.000785392583246348,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

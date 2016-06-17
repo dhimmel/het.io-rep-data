@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.1694566807657606,
     "CbGbCtD": 0.23401298153878808,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04759997339084718,
     "CiPCiCtD": 0.5040741325841974
   },
+  "n_trials": 0.0,
   "prediction": 0.008533935911260171,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

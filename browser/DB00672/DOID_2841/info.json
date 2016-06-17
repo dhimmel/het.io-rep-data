@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00672",
   "compound_name": "Chlorpropamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.315344603381014,
   "metapath_contribution": {
     "CbGbCtD": 0.4294381016617864,
     "CbGeAlD": 0.0032354362402178135,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0013535643263075565,
     "CrCrCtD": 0.443636148904337
   },
+  "n_trials": 0.0,
   "prediction": 0.0018582843406152,
   "status": 0,
   "training_prediction": 0.0125611232245443

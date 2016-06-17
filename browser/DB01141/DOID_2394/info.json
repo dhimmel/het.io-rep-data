@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01141",
   "compound_name": "Micafungin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.687906371911573,
   "metapath_contribution": {
     "CbGeAlD": 0.20712073729211647,
     "CcSEcCtD": 0.7906896058523357,
     "CrCbGaD": 0.002189656855547821
   },
+  "n_trials": 0.0,
   "prediction": 0.00197210041310172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

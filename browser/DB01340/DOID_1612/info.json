@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.24300512604628086,
     "CbGbCtD": 0.32884877156570186,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.32823903562921997,
     "CrCbGaD": 0.0036662172095470145
   },
+  "n_trials": 0.0,
   "prediction": 0.00200655196966863,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

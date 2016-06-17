@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01407",
   "compound_name": "Clenbuterol",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.6718762555152709,
     "CbGeAlD": 0.12995238932048855,
     "CbGpPWpGaD": 0.1927194845778216,
     "CrCbGaD": 0.00545187058641903
   },
+  "n_trials": 0.0,
   "prediction": 0.00295159997557945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

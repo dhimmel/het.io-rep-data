@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGaD": 0.8189011176273864,
     "CbGbCtD": 0.046351839749793615,
     "CbGeAlD": 0.06737038777160283,
     "CcSEcCtD": 0.0673766548512171
   },
+  "n_trials": 0.0,
   "prediction": 0.00459752461635981,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

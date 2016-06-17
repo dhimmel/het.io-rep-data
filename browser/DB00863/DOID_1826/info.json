@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.4733420026007801,
   "metapath_contribution": {
     "CbGaD": 0.2956697312623776,
     "CbGbCtD": 0.4783808060300159,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.164187591645137,
     "CrCbGaD": 0.0029462546985365387
   },
+  "n_trials": 0.0,
   "prediction": 0.00318584167718632,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

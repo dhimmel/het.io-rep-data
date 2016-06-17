@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5435630689206761,
   "metapath_contribution": {
     "CbGaD": 0.4502982552329926,
     "CbGbCtD": 0.24485421226937423,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.09760808433884256,
     "CrCbGaD": 0.0018800411934525954
   },
+  "n_trials": 5.0,
   "prediction": 0.00257196227778466,
   "status": 0,
   "training_prediction": 0.0233501674613161

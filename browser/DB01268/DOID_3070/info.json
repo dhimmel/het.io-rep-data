@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.6498347408051065,
     "CbGeAlD": 0.1094386499699592,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05857889730184921,
     "CrCbGaD": 0.00011367732875895965
   },
+  "n_trials": 9.0,
   "prediction": 0.00329723757164667,
   "status": 0,
   "training_prediction": 0.0040456083828636

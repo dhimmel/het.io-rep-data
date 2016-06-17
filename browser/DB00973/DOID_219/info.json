@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00973",
   "compound_name": "Ezetimibe",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.22981807193581247,
     "CbGbCtD": 0.5518866711168776,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04694519787614491,
     "CcSEcCtD": 0.07099882236665678
   },
+  "n_trials": 0.0,
   "prediction": 0.00307332957945726,
   "status": 0,
   "training_prediction": 0.007288205778167841

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.3313388294897903,
     "CbGbCtD": 0.40927156990739294,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.15182558288576609,
     "CrCbGaD": 0.004006672275481453
   },
+  "n_trials": 0.0,
   "prediction": 0.00858264352117859,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

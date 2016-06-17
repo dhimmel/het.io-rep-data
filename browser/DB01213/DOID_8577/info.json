@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01213",
   "compound_name": "Fomepizole",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7197659297789342,
   "metapath_contribution": {
     "CbGbCtD": 0.6442943935438435,
     "CbGeAlD": 0.08122386285325009,
     "CbGpPWpGaD": 0.09715264562533926,
     "CcSEcCtD": 0.17732909797756702
   },
+  "n_trials": 0.0,
   "prediction": 0.00292143652836275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

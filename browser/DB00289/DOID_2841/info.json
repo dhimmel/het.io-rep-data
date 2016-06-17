@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.326397919375813,
   "metapath_contribution": {
     "CbGbCtD": 0.40723903992442717,
     "CbGeAlD": 0.014658781885021665,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002525996270678974,
     "CrCrCtD": 0.2452162726615236
   },
+  "n_trials": 0.0,
   "prediction": 0.00187274094765991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

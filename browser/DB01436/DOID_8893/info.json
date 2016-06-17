@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01436",
   "compound_name": "Alfacalcidol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.1530127685839097,
     "CbGbCtD": 0.24621027051412303,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.23770313057766276,
     "CrCtD": 0.35298219431734956
   },
+  "n_trials": 0.0,
   "prediction": 0.0876503789631535,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

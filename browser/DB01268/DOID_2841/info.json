@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.6358907672301689,
   "metapath_contribution": {
     "CbGaD": 0.26381840378148447,
     "CbGbCtD": 0.2576764099931044,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.169338657360589,
     "CrCbGaD": 0.0012817395476983023
   },
+  "n_trials": 0.0,
   "prediction": 0.0031646668860841197,
   "status": 0,
   "training_prediction": 0.0349642717540364

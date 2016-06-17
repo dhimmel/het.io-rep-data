@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08906",
   "compound_name": "Fluticasone furoate",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.333550065019506,
   "metapath_contribution": {
     "CbGaD": 0.32361303392084523,
     "CbGbCtD": 0.512607077928108,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15107398462010915,
     "CrCbGaD": 0.0037827881846858088
   },
+  "n_trials": 0.0,
   "prediction": 0.00132287896592071,
   "status": 0,
   "training_prediction": 0.0038516818663916603

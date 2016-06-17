@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.540312093628088,
   "metapath_contribution": {
     "CbGaD": 0.5126593856579327,
     "CbGbCtD": 0.400726972111513,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.008499370547534408,
     "CrCbGaD": 0.006522597772206295
   },
+  "n_trials": 4.0,
   "prediction": 0.00154111827855672,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

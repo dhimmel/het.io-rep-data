@@ -1,15 +1,18 @@
 {
   "compound_id": "DB00768",
   "compound_name": "Olopatadine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.136540962288687,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.012895091745593121,
+    "CbGdCrCtD": 0.012895091745593123,
     "CbGeAlD": 0.33162891896940333,
-    "CbGpPWpGaD": 0.5107668387927128,
-    "CcSEcCtD": 0.14034823272699393,
+    "CbGpPWpGaD": 0.5107668387927129,
+    "CcSEcCtD": 0.14034823272699395,
     "CrCbGaD": 0.004360917765296803
   },
+  "n_trials": 0.0,
   "prediction": 0.000955800486586778,
   "status": 0,
   "training_prediction": 0.00155953937740833

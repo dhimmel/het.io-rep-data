@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00455",
   "compound_name": "Loratadine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7873862158647591,
   "metapath_contribution": {
     "CbGaD": 0.16778678627492474,
     "CbGbCtD": 0.6151993041449426,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16083936265397678,
     "CrCbGaD": 0.0011229081409613174
   },
+  "n_trials": 0.0,
   "prediction": 0.0050182518704873,
   "status": 0,
   "training_prediction": 0.0483121821484956

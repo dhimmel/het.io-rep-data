@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00340",
   "compound_name": "Metixene",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.30680729076487856,
     "CbGbCtD": 0.2854291597744234,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00418480993205766,
     "CrCrCtD": 0.3377554534366536
   },
+  "n_trials": 0.0,
   "prediction": 0.00600916815477467,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

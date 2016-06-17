@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.45383615084525397,
   "metapath_contribution": {
     "CbGaD": 0.15677952687184837,
     "CbGbCtD": 0.7614816131392637,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06471707813154524,
     "CrCbGaD": 0.0016390331276578687
   },
+  "n_trials": 0.0,
   "prediction": 0.00231572415889105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

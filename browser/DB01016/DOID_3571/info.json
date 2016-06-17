@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.631989596879064,
   "metapath_contribution": {
     "CbGaD": 0.15594257323862531,
     "CbGbCtD": 0.5005371558868683,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.060977559062535665,
     "CrCbGaD": 0.005339275342604529
   },
+  "n_trials": 0.0,
   "prediction": 0.00173485490416218,
   "status": 0,
   "training_prediction": 0.00285115749486218

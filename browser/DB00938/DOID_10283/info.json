@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00938",
   "compound_name": "Salmeterol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6931079323797139,
   "metapath_contribution": {
     "CbGaD": 0.3840096232743659,
     "CbGbCtD": 0.4055909188438297,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14347735089177738,
     "CrCbGaD": 0.0014245889406139763
   },
+  "n_trials": 0.0,
   "prediction": 0.00343147363335713,
   "status": 0,
   "training_prediction": 0.0144491999621101

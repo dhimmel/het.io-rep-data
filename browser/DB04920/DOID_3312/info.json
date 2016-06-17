@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04920",
   "compound_name": "Clevidipine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.8324809862508857,
     "CbGeAlD": 0.054451745782946356,
     "CbGpPWpGaD": 0.10152635065504229,
     "CrCbGaD": 0.011540917311125743
   },
+  "n_trials": 0.0,
   "prediction": 0.00179121950960748,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

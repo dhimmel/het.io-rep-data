@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.330299089726918,
   "metapath_contribution": {
     "CbGaD": 0.6728580588716965,
     "CbGeAlD": 0.10697855794210848,
     "CbGpPWpGaD": 0.2064805887537816,
     "CrCbGaD": 0.01368279443241342
   },
+  "n_trials": 1.0,
   "prediction": 0.00124015905543751,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

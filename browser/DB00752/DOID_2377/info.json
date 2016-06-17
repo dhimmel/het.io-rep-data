@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGbCtD": 0.8120909588962559,
     "CbGeAlD": 0.00284801968584841,
     "CbGpPWpGaD": 0.04205616832982841,
     "CcSEcCtD": 0.14300485308806724
   },
+  "n_trials": 0.0,
   "prediction": 0.00194808051527548,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

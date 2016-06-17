@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGbCtD": 0.38289821120974427,
     "CbGdCrCtD": 0.002604727177335089,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0324388803203033,
     "CpDpCtD": 0.5359034073367865
   },
+  "n_trials": 0.0,
   "prediction": 0.0042550802788686795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGbCtD": 0.19312821449481635,
     "CbGeAlD": 0.04175234597567843,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.00022975462520625394,
     "CtDrD": 0.602102787571832
   },
+  "n_trials": 0.0,
   "prediction": 0.00885583246581936,
   "status": 0,
   "training_prediction": 0.0240308900832665

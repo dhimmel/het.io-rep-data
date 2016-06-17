@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.27224855336942694,
     "CbGbCtD": 0.34366341118488225,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0011715597819935886,
     "CrCrCtD": 0.2771681367221742
   },
+  "n_trials": 7.0,
   "prediction": 0.0117785488652941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00867",
   "compound_name": "Ritodrine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.1541375902116984,
     "CbGbCtD": 0.1564110184854787,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2586701378937289,
     "CrCtD": 0.4252914152570141
   },
+  "n_trials": 0.0,
   "prediction": 0.0304144824946622,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

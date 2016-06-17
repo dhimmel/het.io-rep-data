@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.19919071408712838,
     "CbGbCtD": 0.2677965879886923,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0019158916148949193,
     "CtDrD": 0.4002786185605965
   },
+  "n_trials": 1.0,
   "prediction": 0.0130451497221011,
   "status": 0,
   "training_prediction": 0.0888883928055666

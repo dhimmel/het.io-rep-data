@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00804",
   "compound_name": "Dicyclomine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.42317167958840857,
     "CbGbCtD": 0.23589989522834903,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08386327110794514,
     "CcSEcCtD": 0.24834356728318158
   },
+  "n_trials": 0.0,
   "prediction": 0.00478186149883727,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

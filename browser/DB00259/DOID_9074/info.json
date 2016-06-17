@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGbCtD": 0.1410038594559351,
     "CbGeAlD": 0.018858990792255986,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3604094183452412,
     "CrCtD": 0.4783985301294155
   },
+  "n_trials": 0.0,
   "prediction": 0.0070566446543909095,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

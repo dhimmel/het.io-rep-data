@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00193",
   "compound_name": "Tramadol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.4234221298437907,
     "CbGbCtD": 0.3783326218197644,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12422250827341244,
     "CrCbGaD": 0.0029000685772995515
   },
+  "n_trials": 0.0,
   "prediction": 0.0158752499248221,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

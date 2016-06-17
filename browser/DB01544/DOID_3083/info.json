@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01544",
   "compound_name": "Flunitrazepam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.746423927178153,
   "metapath_contribution": {
     "CbGaD": 0.3350915240417125,
     "CbGbCtD": 0.507992229921683,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07773710007098775,
     "CrCbGaD": 0.0014720021534547463
   },
+  "n_trials": 0.0,
   "prediction": 0.00336846240360312,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

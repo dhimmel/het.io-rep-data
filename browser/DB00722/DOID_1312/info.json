@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
-    "CbGaD": 0.3551393506625303,
-    "CbGeAlD": 0.05148474649349948,
-    "CbGpPWpGaD": 0.040560992187848005,
-    "CcSEcCtD": 0.053402875081291705,
-    "CrCbGaD": 0.0035586843359973583,
-    "CtDrD": 0.4958533512388333
+    "CbGaD": 0.3551393506625302,
+    "CbGeAlD": 0.051484746493499475,
+    "CbGpPWpGaD": 0.040560992187848,
+    "CcSEcCtD": 0.0534028750812917,
+    "CrCbGaD": 0.0035586843359973574,
+    "CtDrD": 0.4958533512388332
   },
+  "n_trials": 1.0,
   "prediction": 0.00720572075258461,
   "status": 0,
   "training_prediction": 0.0092096942421316

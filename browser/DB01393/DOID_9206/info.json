@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.5248195465589479,
     "CbGbCtD": 0.3114758283050102,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.080811286960356,
     "CrCbGaD": 0.003868449856694655
   },
+  "n_trials": 0.0,
   "prediction": 0.00372115192215849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGaD": 0.22884359158446102,
     "CbGbCtD": 0.6429122583120741,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.027051203182282046,
     "CrCbGaD": 0.004801846646954571
   },
+  "n_trials": 0.0,
   "prediction": 0.00227700609578068,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

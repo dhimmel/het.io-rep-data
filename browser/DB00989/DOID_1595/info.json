@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00989",
   "compound_name": "Rivastigmine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9115734720416121,
   "metapath_contribution": {
     "CbGaD": 0.9347903676539452,
     "CbGeAlD": 0.010677530841763275,
     "CbGpPWpGaD": 0.048761450261202176,
     "CrCbGaD": 0.00577065124308931
   },
+  "n_trials": 0.0,
   "prediction": 0.00274673686607983,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

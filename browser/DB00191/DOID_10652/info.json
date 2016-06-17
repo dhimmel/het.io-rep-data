@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00191",
   "compound_name": "Phentermine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7678803641092329,
   "metapath_contribution": {
     "CbGaD": 0.5694301808639942,
     "CbGbCtD": 0.23022489654842182,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08474615765249205,
     "CrCbGaD": 0.004338910532871014
   },
+  "n_trials": 1.0,
   "prediction": 0.0029429234839173104,
   "status": 0,
   "training_prediction": 0.0035709929520298797

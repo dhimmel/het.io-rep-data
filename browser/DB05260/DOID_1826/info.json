@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6716514954486351,
   "metapath_contribution": {
     "CbGaD": 0.5448647301086985,
     "CbGdCrCtD": 0.0018279105236346806,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1679215467444944,
     "CcSEcCtD": 0.1796156586225315
   },
+  "n_trials": 0.0,
   "prediction": 0.00527936909407056,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

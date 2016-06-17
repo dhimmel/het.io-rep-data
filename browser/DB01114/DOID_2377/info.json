@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.14629388816645003,
   "metapath_contribution": {
     "CbGbCtD": 0.8403840781651556,
     "CbGeAlD": 0.0027382751328927607,
     "CbGpPWpGaD": 0.03129514544368397,
     "CcSEcCtD": 0.12558250125826761
   },
+  "n_trials": 1.0,
   "prediction": 0.0011277221927333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

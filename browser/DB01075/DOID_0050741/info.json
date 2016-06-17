@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.551365409622887,
   "metapath_contribution": {
     "CbGaD": 0.45323638236202984,
     "CbGbCtD": 0.3269317673141135,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09719122913248718,
     "CrCbGaD": 0.00652859859814511
   },
+  "n_trials": 1.0,
   "prediction": 0.00230448328050302,
   "status": 0,
   "training_prediction": 0.00465587364024235

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.548764629388817,
   "metapath_contribution": {
     "CbGaD": 0.888905854312493,
     "CbGpPWpGaD": 0.1045309278116933,
     "CrCbGaD": 0.006563217875813554
   },
+  "n_trials": 1.0,
   "prediction": 0.001375588545846,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.07185823481070211,
     "CbGbCtD": 0.250780042055671,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2514943577050663,
     "CrCtD": 0.3331626311097922
   },
+  "n_trials": 0.0,
   "prediction": 0.0101755707446845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

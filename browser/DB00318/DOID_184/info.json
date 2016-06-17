@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.7152145643693109,
   "metapath_contribution": {
     "CbGaD": 0.640830771510162,
     "CbGbCtD": 0.23507253329935437,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07384624419847713,
     "CrCbGaD": 0.006830381273334126
   },
+  "n_trials": 0.0,
   "prediction": 0.00209196083546094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

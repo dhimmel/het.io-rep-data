@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00751",
   "compound_name": "Epinastine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGaD": 0.7931037915134123,
     "CbGeAlD": 0.08747984114385911,
     "CbGpPWpGaD": 0.1124112924215808,
     "CrCbGaD": 0.007005074921147848
   },
+  "n_trials": 0.0,
   "prediction": 0.0016510695222838,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

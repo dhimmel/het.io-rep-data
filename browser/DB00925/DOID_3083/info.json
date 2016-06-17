@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.4287456245314581,
     "CbGbCtD": 0.47643048841991537,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0844382570162521,
     "CrCbGaD": 0.0038968732041689946
   },
+  "n_trials": 0.0,
   "prediction": 0.00248503361631177,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

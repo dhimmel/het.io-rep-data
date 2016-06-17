@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.272431729518856,
   "metapath_contribution": {
     "CbGaD": 0.585052607387285,
     "CbGeAlD": 0.0026844565718347137,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.007520213185411627,
     "CrCrCtD": 0.2142320576732596
   },
+  "n_trials": 0.0,
   "prediction": 0.00152985421664185,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

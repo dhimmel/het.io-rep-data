@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.657997399219766,
   "metapath_contribution": {
     "CbGbCtD": 0.6354529988458094,
     "CbGdCrCtD": 0.002322076258701173,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16452969390845582,
     "CrCbGaD": 0.004260450413079062
   },
+  "n_trials": 0.0,
   "prediction": 0.0019776692406823,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

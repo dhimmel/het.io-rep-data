@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
     "CbGbCtD": 0.3762390891606213,
     "CbGeAlD": 0.1403432023785172,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.39175185412003166,
     "CrCbGaD": 0.001750385432074191
   },
+  "n_trials": 0.0,
   "prediction": 0.00152663070188737,
   "status": 0,
   "training_prediction": 0.0041957798314655

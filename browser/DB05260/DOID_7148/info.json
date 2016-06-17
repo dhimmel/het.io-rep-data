@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05260",
   "compound_name": "Gallium nitrate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.6984173856164266,
     "CbGdCrCtD": 0.004727687445522491,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1539092041769565,
     "CcSEcCtD": 0.048718247887703875
   },
+  "n_trials": 0.0,
   "prediction": 0.00651169483707719,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

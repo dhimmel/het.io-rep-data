@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.5884265279583879,
   "metapath_contribution": {
     "CbGbCtD": 0.3448159523152656,
     "CbGeAlD": 0.04686464074251829,
     "CcSEcCtD": 0.1526142818212424,
     "CrCrCtD": 0.4557051251209738
   },
+  "n_trials": 0.0,
   "prediction": 0.0018198779945714301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

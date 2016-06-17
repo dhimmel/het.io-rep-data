@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.19628443690030672,
     "CbGbCtD": 0.23880240912308542,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0020877271818457153,
     "CrCrCtD": 0.17399793476225875
   },
+  "n_trials": 0.0,
   "prediction": 0.0140660566191192,
   "status": 0,
   "training_prediction": 0.0254330630419232

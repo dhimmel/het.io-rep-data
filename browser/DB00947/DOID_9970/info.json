@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.55331599479844,
   "metapath_contribution": {
     "CbGaD": 0.5056493791671368,
     "CbGbCtD": 0.11874401887940275,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13527820664955784,
     "CrCbGaD": 0.004675324461774326
   },
+  "n_trials": 0.0,
   "prediction": 0.0027732457934695398,
   "status": 0,
   "training_prediction": 0.00709362370363736

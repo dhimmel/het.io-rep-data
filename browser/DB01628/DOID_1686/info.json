@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGaD": 0.2660635413142948,
     "CbGbCtD": 0.46960199689832033,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19480634900018046,
     "CrCbGaD": 0.006719807943459081
   },
+  "n_trials": 0.0,
   "prediction": 0.00268954851744114,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

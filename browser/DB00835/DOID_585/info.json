@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00835",
   "compound_name": "Brompheniramine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.7399219765929781,
   "metapath_contribution": {
     "CbGaD": 0.89807293929068,
     "CbGeAlD": 0.039444815152949994,
     "CbGpPWpGaD": 0.05984871634460954,
     "CrCbGaD": 0.00263352921176048
   },
+  "n_trials": 0.0,
   "prediction": 0.00201362203426269,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.2448276720999684,
     "CbGbCtD": 0.335156490649432,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.2819295377305261,
     "CrCbGaD": 0.000976777165308204
   },
+  "n_trials": 0.0,
   "prediction": 0.0058313172676853296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

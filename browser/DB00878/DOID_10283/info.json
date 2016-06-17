@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00878",
   "compound_name": "Chlorhexidine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.41513617661991964,
     "CbGbCtD": 0.4082605403075438,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.056114555298193335,
     "CcSEcCtD": 0.09683098056611637
   },
+  "n_trials": 0.0,
   "prediction": 0.007494480932472291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.6892518263823125,
     "CbGeAlD": 0.07600839109174572,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10101556035760036,
     "CrCbGaD": 0.0035305958482937812
   },
+  "n_trials": 0.0,
   "prediction": 0.0022782217345200103,
   "status": 0,
   "training_prediction": 0.00102754402987858

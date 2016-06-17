@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGaD": 0.12558043917022663,
     "CbGbCtD": 0.593331418006372,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1783583318133346,
     "CrCbGaD": 0.0019286818105128617
   },
+  "n_trials": 0.0,
   "prediction": 0.00201730904950247,
   "status": 0,
   "training_prediction": 0.0032893505152805603

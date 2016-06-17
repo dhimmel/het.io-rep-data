@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01078",
   "compound_name": "Deslanoside",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
-    "CbGaD": 0.8241223931204732,
-    "CbGeAlD": 0.07312446928431021,
+    "CbGaD": 0.8241223931204731,
+    "CbGeAlD": 0.0731244692843102,
     "CbGpPWpGaD": 0.09662120958048118,
-    "CrCbGaD": 0.006131928014735463
+    "CrCbGaD": 0.006131928014735462
   },
+  "n_trials": 0.0,
   "prediction": 0.00148110204184212,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

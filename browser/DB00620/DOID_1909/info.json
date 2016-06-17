@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.110294117647059,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.0162548764629389,
   "metapath_contribution": {
     "CbGaD": 0.560551142243604,
     "CbGbCtD": 0.12003606603656755,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.22838189914265966,
     "CrCbGaD": 0.002611075163594776
   },
+  "n_trials": 4.0,
   "prediction": 0.00043399086792189905,
   "status": 0,
   "training_prediction": 0.00583786866488033

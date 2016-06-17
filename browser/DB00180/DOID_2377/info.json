@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00180",
   "compound_name": "Flunisolide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGbCtD": 0.2315858916207008,
     "CcSEcCtD": 0.041911196638419045,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.3037909316326143,
     "CrCtD": 0.4223140680545206
   },
+  "n_trials": 0.0,
   "prediction": 0.012510026667963001,
   "status": 0,
   "training_prediction": 0.0514876018198693

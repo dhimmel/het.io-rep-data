@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.7166296264667805,
     "CbGeAlD": 0.0736942380852515,
     "CbGpPWpGaD": 0.2056032977566066,
     "CrCbGaD": 0.004072837691361341
   },
+  "n_trials": 0.0,
   "prediction": 0.00256747300474333,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00440",
   "compound_name": "Trimethoprim",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6020806241872559,
   "metapath_contribution": {
     "CbGaD": 0.17870853675204876,
     "CbGbCtD": 0.5477425251910271,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.080719004110024,
     "CcSEcCtD": 0.18762463626452394
   },
+  "n_trials": 0.0,
   "prediction": 0.00297526370700776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

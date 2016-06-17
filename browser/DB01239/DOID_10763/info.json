@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.477243172951886,
   "metapath_contribution": {
     "CbGaD": 0.3230327204926532,
     "CbGbCtD": 0.2770380329604646,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0033964287054962647,
     "CrCrCtD": 0.2755844885639585
   },
+  "n_trials": 0.0,
   "prediction": 0.0036755024838702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

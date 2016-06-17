@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.568920676202861,
   "metapath_contribution": {
     "CbGaD": 0.18018964375783558,
     "CbGbCtD": 0.33741439392027994,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0028938292589396728,
     "CrCrCtD": 0.3190507941416255
   },
+  "n_trials": 0.0,
   "prediction": 0.00394896152109711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

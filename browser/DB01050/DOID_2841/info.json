@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.21539682951171174,
     "CbGbCtD": 0.21190244949358691,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.0011157903239940672,
     "CrCrCtD": 0.18577338214588063
   },
+  "n_trials": 1.0,
   "prediction": 0.0133447429131044,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

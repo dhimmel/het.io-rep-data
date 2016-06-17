@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.6703511053315989,
   "metapath_contribution": {
     "CbGaD": 0.8138966411587695,
     "CbGeAlD": 0.018801524414559054,
     "CcSEcCtD": 0.1647498759183895,
     "CrCbGaD": 0.0025519585082820467
   },
+  "n_trials": 0.0,
   "prediction": 0.00284038642321938,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

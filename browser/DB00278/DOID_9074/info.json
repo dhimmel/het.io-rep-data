@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00278",
   "compound_name": "Argatroban",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.5597556394384283,
     "CbGbCtD": 0.2697030492162976,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03024552723578248,
     "CcSEcCtD": 0.08024969653253461
   },
+  "n_trials": 0.0,
   "prediction": 0.007340223805434879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

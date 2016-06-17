@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.764629388816645,
   "metapath_contribution": {
     "CbGbCtD": 0.1267348067718678,
     "CbGpPWpGaD": 0.001679467223721532,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.34697629395151747,
     "CrCtD": 0.5008397960897099
   },
+  "n_trials": 0.0,
   "prediction": 0.00252525758280562,
   "status": 0,
   "training_prediction": 0.00999049849225119

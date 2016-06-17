@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.076072821846554,
   "metapath_contribution": {
     "CbGbCtD": 0.7820975901147239,
     "CbGdCrCtD": 0.004262026628264978,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1862491535830331,
     "CrCbGaD": 0.0036276123939752653
   },
+  "n_trials": 0.0,
   "prediction": 0.000922803411351174,
   "status": 0,
   "training_prediction": 0.0175055545955413

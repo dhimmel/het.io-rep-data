@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.419375812743823,
   "metapath_contribution": {
     "CbGaD": 0.7627087409831259,
     "CbGbCtD": 0.07618958559283794,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11263231716972179,
     "CrCbGaD": 0.007370077808319938
   },
+  "n_trials": 0.0,
   "prediction": 0.00127075173229601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

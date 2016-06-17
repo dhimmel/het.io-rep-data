@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.6931079323797139,
   "metapath_contribution": {
     "CbGaD": 0.637762776480664,
     "CbGeAlD": 0.1826017014540385,
     "CbGpPWpGaD": 0.17552079278154717,
     "CrCbGaD": 0.00411472928375037
   },
+  "n_trials": 0.0,
   "prediction": 0.00163215131035755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

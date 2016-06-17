@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.379063719115735,
   "metapath_contribution": {
     "CbGaD": 0.24859780286859529,
     "CbGbCtD": 0.47631054944258666,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14824415537896463,
     "CrCbGaD": 0.00454364309195965
   },
+  "n_trials": 0.0,
   "prediction": 0.0018696543502798699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

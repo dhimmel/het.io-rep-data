@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.41092327698309494,
   "metapath_contribution": {
     "CbGaD": 0.7299367001935708,
     "CbGeAlD": 0.0002954705695560281,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17674921979869454,
     "CrCbGaD": 0.009010895161052327
   },
+  "n_trials": 0.0,
   "prediction": 0.00131497218180568,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

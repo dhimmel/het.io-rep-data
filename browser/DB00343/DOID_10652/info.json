@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00343",
   "compound_name": "Diltiazem",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.48244473342002603,
   "metapath_contribution": {
     "CbGaD": 0.24800780538975337,
     "CbGbCtD": 0.41473740427304806,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.24987297403225497,
     "CrCbGaD": 0.004556524703154901
   },
+  "n_trials": 0.0,
   "prediction": 0.00180593632291815,
   "status": 0,
   "training_prediction": 0.00219188700551386

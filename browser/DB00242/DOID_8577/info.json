@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.30234070221066306,
   "metapath_contribution": {
     "CbGbCtD": 0.6483705295401438,
     "CbGdCrCtD": 0.00665348564579956,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07942591376654952,
     "CcSEcCtD": 0.20961226300543195
   },
+  "n_trials": 0.0,
   "prediction": 0.001568138680327,
   "status": 0,
   "training_prediction": 0.008912046994784609

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
     "CbGbCtD": 0.5287326113966873,
     "CbGeAlD": 0.20473991878456224,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07931334572576254,
     "CrCbGaD": 0.01373690111795976
   },
+  "n_trials": 4.0,
   "prediction": 0.0014832423223540198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

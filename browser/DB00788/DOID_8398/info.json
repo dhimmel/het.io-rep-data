@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGaD": 0.19583553889772667,
     "CbGpPWpGaD": 0.014733067821454835,
@@ -11,6 +13,5 @@
     "CtDrD": 0.7863501845927884
   },
   "prediction": 0.0037029874918942203,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

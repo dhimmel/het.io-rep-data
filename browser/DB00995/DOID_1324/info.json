@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00995",
   "compound_name": "Auranofin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.3524967010695106,
     "CbGbCtD": 0.2197427492306651,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.17705801787241773,
     "CcSEcCtD": 0.19610877455929077
   },
+  "n_trials": 2.0,
   "prediction": 0.005208393989774279,
   "status": 0,
   "training_prediction": 0.0291034132554588

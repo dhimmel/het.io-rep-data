@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.652795838751626,
   "metapath_contribution": {
     "CbGbCtD": 0.49268787529806146,
     "CbGeAlD": 0.021599854216365986,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.001499316521327935,
     "CrCrCtD": 0.3205430133456429
   },
+  "n_trials": 0.0,
   "prediction": 0.0031883673202106,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

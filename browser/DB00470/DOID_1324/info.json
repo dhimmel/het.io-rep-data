@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.43420925713701,
     "CbGbCtD": 0.42089483292782504,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07126931482178124,
     "CcSEcCtD": 0.06946260709570704
   },
+  "n_trials": 0.0,
   "prediction": 0.007043080473286591,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

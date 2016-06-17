@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01160",
   "compound_name": "Dinoprost Tromethamine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.55851755526658,
   "metapath_contribution": {
     "CbGbCtD": 0.15163944911489663,
     "CbGeAlD": 0.13202374460962654,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07261336139834662,
     "CrCbGaD": 0.012644030593791595
   },
+  "n_trials": 0.0,
   "prediction": 0.0016940656412415599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

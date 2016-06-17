@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00483",
   "compound_name": "Gallamine Triethiodide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.35746465996636134,
     "CbGbCtD": 0.5145641182303252,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05086766686807391,
     "CcSEcCtD": 0.07131342994498634
   },
+  "n_trials": 0.0,
   "prediction": 0.0133318724619237,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

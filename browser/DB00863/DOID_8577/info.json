@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.41742522756827005,
   "metapath_contribution": {
     "CbGaD": 0.25857506779068123,
     "CbGbCtD": 0.5421037212865178,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13740477836159218,
     "CrCbGaD": 0.0029734853258566183
   },
+  "n_trials": 0.0,
   "prediction": 0.00187182994092237,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

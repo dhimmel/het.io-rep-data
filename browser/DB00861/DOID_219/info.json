@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.21911573472041604,
   "metapath_contribution": {
     "CbGaD": 0.6202037169155109,
     "CbGbCtD": 0.21988111450861791,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09478460281119111,
     "CrCbGaD": 0.008137737688886038
   },
+  "n_trials": 0.0,
   "prediction": 0.00101553476151879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

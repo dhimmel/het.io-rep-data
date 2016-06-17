@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.75968596355365,
     "CbGeAlD": 0.08288901025644757,
     "CbGpPWpGaD": 0.15016221608221011,
     "CrCbGaD": 0.007262810107692319
   },
+  "n_trials": 3.0,
   "prediction": 0.00242719486317107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

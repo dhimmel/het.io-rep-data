@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00209",
   "compound_name": "Trospium",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
     "CbGbCtD": 0.20910568371557087,
     "CbGpPWpGaD": 0.02199141722956667,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2444997603390118,
     "CrCtD": 0.4402370308129023
   },
+  "n_trials": 0.0,
   "prediction": 0.012452327730706998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

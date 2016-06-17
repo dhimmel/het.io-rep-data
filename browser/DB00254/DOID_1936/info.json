@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.5784969138018854,
     "CbGbCtD": 0.2592228800370864,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09420079876347061,
     "CrCbGaD": 0.002700675007545555
   },
+  "n_trials": 0.0,
   "prediction": 0.0060518544140797,
   "status": 0,
   "training_prediction": 0.00984284177675863

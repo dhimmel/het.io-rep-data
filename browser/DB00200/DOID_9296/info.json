@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9296",
   "disease_name": "cleft lip",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.8175850002992842,
     "CbGeAlD": 0.01222714005443926,
     "CbGpPWpGaD": 0.16229060148078384,
     "CrCbGaD": 0.007897258165492803
   },
+  "n_trials": 0.0,
   "prediction": 0.00580704589591958,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

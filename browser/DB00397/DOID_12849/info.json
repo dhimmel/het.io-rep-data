@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.7737321196358911,
   "metapath_contribution": {
     "CbGaD": 0.7811022609915572,
     "CbGeAlD": 0.06411460994777853,
     "CbGpPWpGaD": 0.14836466379179689,
     "CrCbGaD": 0.0064184652688674005
   },
+  "n_trials": 0.0,
   "prediction": 0.00206203505476825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

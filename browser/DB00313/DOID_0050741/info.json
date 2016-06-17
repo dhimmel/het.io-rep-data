@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGbCtD": 0.18524915058126318,
     "CbGeAlD": 0.0605398497917975,
@@ -11,6 +13,7 @@
     "CpDpCtD": 0.5337364152018855,
     "CrCbGaD": 0.003081462732358695
   },
+  "n_trials": 4.0,
   "prediction": 0.007467501018429759,
   "status": 0,
   "training_prediction": 0.015007755704654

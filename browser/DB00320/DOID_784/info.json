@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6358907672301689,
   "metapath_contribution": {
     "CbGaD": 0.8155978237926945,
     "CbGeAlD": 0.06380348716628066,
     "CbGpPWpGaD": 0.1111318742057321,
     "CrCbGaD": 0.009466814835292646
   },
+  "n_trials": 0.0,
   "prediction": 0.0019105968912647398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

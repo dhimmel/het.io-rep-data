@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
     "CbGaD": 0.6964082581803904,
     "CbGbCtD": 0.09368011536081877,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03981674697180616,
     "CcSEcCtD": 0.10119050598225544
   },
+  "n_trials": 0.0,
   "prediction": 0.0016757640832679198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

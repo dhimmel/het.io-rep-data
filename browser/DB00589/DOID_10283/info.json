@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.373862158647594,
   "metapath_contribution": {
     "CbGaD": 0.14916706326705814,
     "CbGbCtD": 0.3633009330849471,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.24488506725702713,
     "CrCbGaD": 0.002916517927753091
   },
+  "n_trials": 0.0,
   "prediction": 0.00184203861515938,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.4280836159709626,
     "CbGeAlD": 0.02990810972338785,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.000792682592170222,
     "CtDrD": 0.4286231142526618
   },
+  "n_trials": 0.0,
   "prediction": 0.0143618800229727,
   "status": 0,
   "training_prediction": 0.0316140295037575

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08896",
   "compound_name": "Regorafenib",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.2622750938391476,
     "CbGbCtD": 0.21093834944731057,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.39294472227325783,
     "CrCbGaD": 0.0017830258542246788
   },
+  "n_trials": 0.0,
   "prediction": 0.012419418595279,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

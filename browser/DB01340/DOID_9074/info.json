@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.5412821478881549,
     "CbGbCtD": 0.19811134137808056,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14642505351232632,
     "CrCbGaD": 0.006120478900598478
   },
+  "n_trials": 0.0,
   "prediction": 0.00288973454319225,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

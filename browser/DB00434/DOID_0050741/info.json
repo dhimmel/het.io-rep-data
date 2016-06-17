@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00434",
   "compound_name": "Cyproheptadine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGaD": 0.48133552481897396,
     "CbGbCtD": 0.2981381641728151,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08178210949883831,
     "CrCbGaD": 0.004529709483140455
   },
+  "n_trials": 1.0,
   "prediction": 0.00494558323506734,
   "status": 0,
   "training_prediction": 0.00599848271781935

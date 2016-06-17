@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00535",
   "compound_name": "Cefdinir",
+  "compound_percentile": 0.0661764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0422626788036411,
   "metapath_contribution": {
     "CbGbCtD": 0.2460528860974737,
     "CbGeAlD": 0.05046735806967164,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5696995576076964,
     "CrCbGaD": 0.00010481231614014944
   },
+  "n_trials": 0.0,
   "prediction": 0.0007571690791862531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

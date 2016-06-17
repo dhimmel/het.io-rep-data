@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00951",
   "compound_name": "Isoniazid",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.8496209023664759,
     "CbGeAlD": 0.020031840073261805,
     "CbGpPWpGaD": 0.032431191362909964,
     "CcSEcCtD": 0.09791606619735245
   },
+  "n_trials": 0.0,
   "prediction": 0.0042718724965678705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

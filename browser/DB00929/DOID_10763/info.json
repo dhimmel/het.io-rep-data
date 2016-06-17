@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00929",
   "compound_name": "Misoprostol",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.17815344603381,
   "metapath_contribution": {
     "CbGeAlD": 0.08234431289771661,
     "CbGpPWpGaD": 0.3887881386353676,
     "CcSEcCtD": 0.5195843257303577,
     "CrCbGaD": 0.0092832227365581
   },
+  "n_trials": 3.0,
   "prediction": 0.00174049365155579,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

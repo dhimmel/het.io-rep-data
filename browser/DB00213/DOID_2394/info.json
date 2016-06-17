@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.26697474901664286,
     "CbGbCtD": 0.4790013878496246,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.22586817226923783,
     "CrCbGaD": 0.004302548760890759
   },
+  "n_trials": 0.0,
   "prediction": 0.00294032428352307,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

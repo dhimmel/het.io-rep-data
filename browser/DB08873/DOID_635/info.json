@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08873",
   "compound_name": "Boceprevir",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGbCtD": 0.23531790188664295,
     "CbGeAlD": 0.038682927143387856,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.5951801351410777,
     "CrCbGaD": 0.0010962345079445748
   },
+  "n_trials": 0.0,
   "prediction": 0.019185246630075002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

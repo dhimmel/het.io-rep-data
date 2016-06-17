@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.695708712613784,
   "metapath_contribution": {
     "CbGaD": 0.7940336339870583,
     "CbGeAlD": 0.06503006861215595,
     "CbGpPWpGaD": 0.13263715491647693,
     "CrCbGaD": 0.008299142484308854
   },
+  "n_trials": 0.0,
   "prediction": 0.00204845193974444,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01039",
   "compound_name": "Fenofibrate",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.882314694408322,
   "metapath_contribution": {
     "CbGaD": 0.6909769756620923,
     "CbGbCtD": 0.1608548049322943,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12889200299635695,
     "CrCbGaD": 0.0005969986532447647
   },
+  "n_trials": 0.0,
   "prediction": 0.0029961482953041302,
   "status": 0,
   "training_prediction": 0.00546698804373031

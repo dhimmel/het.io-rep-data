@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01168",
   "compound_name": "Procarbazine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.9474779107975149,
     "CbGpPWpGaD": 0.04931119939927431,
     "CrCbGaD": 0.003210889803210904
   },
+  "n_trials": 0.0,
   "prediction": 0.00229632191845433,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

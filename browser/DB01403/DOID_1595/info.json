@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.7711313394018209,
   "metapath_contribution": {
     "CbGaD": 0.7710570342645511,
     "CbGeAlD": 0.0754043432004804,
     "CbGpPWpGaD": 0.14487603412978875,
     "CrCbGaD": 0.00866258840517969
   },
+  "n_trials": 0.0,
   "prediction": 0.00207727637662451,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.0988279196050988,
     "CbGbCtD": 0.615108992892681,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1330773537634874,
     "CrCbGaD": 0.0017199906770363016
   },
+  "n_trials": 0.0,
   "prediction": 0.00373379362597889,
   "status": 0,
   "training_prediction": 0.0137257489203834

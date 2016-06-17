@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01301",
   "compound_name": "Rolitetracycline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGaD": 0.3979508435576999,
     "CbGbCtD": 0.562979791670966,
     "CbGpPWpGaD": 0.032231274119171684,
     "CrCbGaD": 0.00683809065216243
   },
+  "n_trials": 0.0,
   "prediction": 0.00328307156688531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

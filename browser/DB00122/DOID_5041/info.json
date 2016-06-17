@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.6286575759119016,
     "CbGbCtD": 0.04768189286566458,
     "CbGeAlD": 0.12673419822553333,
     "CbGpPWpGaD": 0.19692633299690057
   },
+  "n_trials": 1.0,
   "prediction": 0.00275926089740575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

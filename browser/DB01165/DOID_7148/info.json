@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.6859557867360211,
   "metapath_contribution": {
     "CbGaD": 0.5029712287190613,
     "CbGbCtD": 0.29741494048809475,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19336996824565805,
     "CrCbGaD": 0.0011848956429773919
   },
+  "n_trials": 0.0,
   "prediction": 0.00231740214172196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

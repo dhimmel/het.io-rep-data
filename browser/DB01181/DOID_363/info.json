@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01181",
   "compound_name": "Ifosfamide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGbCtD": 0.3079265090508069,
     "CbGeAlD": 0.004506730048506691,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13414501680255486,
     "CtDrD": 0.5431188673535685
   },
+  "n_trials": 2.0,
   "prediction": 0.00550720060681045,
   "status": 0,
   "training_prediction": 0.0224892791018689

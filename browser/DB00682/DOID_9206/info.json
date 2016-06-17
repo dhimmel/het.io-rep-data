@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.6853055916775029,
   "metapath_contribution": {
     "CbGbCtD": 0.9684693639797853,
     "CbGeAlD": 0.014416647215277056,
     "CbGpPWpGaD": 0.012634322436944486,
     "CrCbGaD": 0.004479666367993215
   },
+  "n_trials": 0.0,
   "prediction": 0.00215433263762352,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

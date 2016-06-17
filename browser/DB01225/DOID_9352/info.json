@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01225",
   "compound_name": "Enoxaparin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.43433029908972703,
   "metapath_contribution": {
     "CbGeAlD": 0.0695963574156779,
     "CbGpPWpGaD": 0.36575971838376137,
     "CcSEcCtD": 0.5646439242005606
   },
+  "n_trials": 0.0,
   "prediction": 0.0022476091203989398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

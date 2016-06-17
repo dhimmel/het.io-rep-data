@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01351",
   "compound_name": "Amobarbital",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.17490247074122198,
   "metapath_contribution": {
     "CbGbCtD": 0.04284755721634302,
     "CbGeAlD": 0.08827210398836638,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5615610940478101,
     "CrCbGaD": 0.00837724237005433
   },
+  "n_trials": 0.0,
   "prediction": 0.00169807220047517,
   "status": 0,
   "training_prediction": 0.0199407679146002

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.20707576196108057,
     "CbGbCtD": 0.258537884188377,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0016966413187152057,
     "CrCrCtD": 0.08306637438067405
   },
+  "n_trials": 0.0,
   "prediction": 0.00893108198088602,
   "status": 0,
   "training_prediction": 0.0423696911869857

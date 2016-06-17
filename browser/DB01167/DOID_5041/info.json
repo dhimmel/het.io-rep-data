@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.45253576072821794,
   "metapath_contribution": {
     "CbGaD": 0.5022049854868592,
     "CbGpPWpGaD": 0.23265722177801826,
     "CcSEcCtD": 0.2502899512819475,
     "CrCbGaD": 0.014847841453175017
   },
+  "n_trials": 1.0,
   "prediction": 0.0013325699613852,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

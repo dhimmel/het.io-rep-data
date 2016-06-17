@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.163849154746424,
   "metapath_contribution": {
     "CbGbCtD": 0.33430882728526595,
     "CbGpPWpGaD": 0.16359929349229219,
     "CcSEcCtD": 0.4949218309968368,
     "CrCbGaD": 0.007170048225605037
   },
+  "n_trials": 2.0,
   "prediction": 0.00125616504275836,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

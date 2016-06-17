@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.2006395379899787,
     "CbGbCtD": 0.5859382254205752,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17065202110828448,
     "CrCbGaD": 0.0035683674602240627
   },
+  "n_trials": 0.0,
   "prediction": 0.00255140749718776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

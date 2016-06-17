@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.2725760335046195,
     "CbGbCtD": 0.5935319834698897,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1140294987733347,
     "CrCbGaD": 0.0004425451464928014
   },
+  "n_trials": 0.0,
   "prediction": 0.00598425684704971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

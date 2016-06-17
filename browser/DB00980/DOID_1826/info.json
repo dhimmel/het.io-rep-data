@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00980",
   "compound_name": "Ramelteon",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.15596907460098172,
     "CbGbCtD": 0.32519502164422875,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08177237988646559,
     "CpDpCtD": 0.36250397956438174
   },
+  "n_trials": 0.0,
   "prediction": 0.011211039850338,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

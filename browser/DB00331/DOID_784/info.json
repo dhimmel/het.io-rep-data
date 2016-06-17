@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.5800771410192745,
     "CbGeAlD": 0.2126310879277947,
     "CbGpPWpGaD": 0.20729177105293076
   },
+  "n_trials": 0.0,
   "prediction": 0.0033804631179476397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

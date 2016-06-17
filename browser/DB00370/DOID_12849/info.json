@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
-    "CbGaD": 0.7189490053944037,
-    "CbGeAlD": 0.10330476673700116,
-    "CbGpPWpGaD": 0.17614646822341887,
-    "CrCbGaD": 0.0015997596451763755
+    "CbGaD": 0.7189490053944035,
+    "CbGeAlD": 0.10330476673700115,
+    "CbGpPWpGaD": 0.17614646822341884,
+    "CrCbGaD": 0.0015997596451763753
   },
+  "n_trials": 1.0,
   "prediction": 0.0027755781276589103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

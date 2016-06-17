@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGbCtD": 0.21618611563147108,
     "CbGeAlD": 0.0014696515700370989,
     "CcSEcCtD": 0.09705661217688304,
     "CrCtD": 0.6852876206216089
   },
+  "n_trials": 8.0,
   "prediction": 0.0188274064444338,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

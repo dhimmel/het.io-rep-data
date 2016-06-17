@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.364109232769831,
   "metapath_contribution": {
     "CbGaD": 0.5971830128145428,
     "CbGeAlD": 0.08068701340079795,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14720718199960997,
     "CrCbGaD": 0.009004028773307296
   },
+  "n_trials": 0.0,
   "prediction": 0.00116735525661898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

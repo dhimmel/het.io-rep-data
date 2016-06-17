@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00389",
   "compound_name": "Carbimazole",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGbCtD": 0.31716457805911447,
     "CbGeAlD": 0.2192260447764304,
     "CbGpPWpGaD": 0.20891397023242805,
     "CcSEcCtD": 0.2546954069320269
   },
+  "n_trials": 0.0,
   "prediction": 0.00358172728052861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

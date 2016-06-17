@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.48764629388816605,
   "metapath_contribution": {
     "CbGaD": 0.26673559463538454,
     "CbGbCtD": 0.3702380409348647,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15908106669910796,
     "CrCbGaD": 0.002945705064286506
   },
+  "n_trials": 0.0,
   "prediction": 0.00141490581526549,
   "status": 0,
   "training_prediction": 0.0025851202344747398

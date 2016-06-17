@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08811",
   "compound_name": "Tofisopam",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.46150017961564815,
     "CbGbCtD": 0.507869632094397,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02784566717124259,
     "CrCbGaD": 0.0009062073586057071
   },
+  "n_trials": 0.0,
   "prediction": 0.00656153787053517,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

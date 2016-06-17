@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7002600780234071,
   "metapath_contribution": {
     "CbGaD": 0.3901675775328879,
     "CbGbCtD": 0.3952782663053459,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1371956491674951,
     "CrCbGaD": 0.00244870746647087
   },
+  "n_trials": 0.0,
   "prediction": 0.00256829554287012,
   "status": 0,
   "training_prediction": 0.0087552489874401

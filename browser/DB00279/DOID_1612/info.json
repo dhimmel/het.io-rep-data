@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.32000062811463104,
     "CbGbCtD": 0.3023402800192646,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.002880556886581424,
     "CrCrCtD": 0.23432009082755992
   },
+  "n_trials": 0.0,
   "prediction": 0.00602311525249102,
   "status": 0,
   "training_prediction": 0.0325436415170117

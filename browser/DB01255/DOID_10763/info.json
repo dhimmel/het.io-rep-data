@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01255",
   "compound_name": "Lisdexamfetamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.1437320462299533,
     "CbGbCtD": 0.15407919107037016,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.16740728703183372,
     "CrCtD": 0.25783931003889904
   },
+  "n_trials": 0.0,
   "prediction": 0.0590081105400962,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

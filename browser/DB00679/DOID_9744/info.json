@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.332899869960988,
   "metapath_contribution": {
     "CbGaD": 0.8024951995169782,
     "CbGeAlD": 0.07390602352373447,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0019310014329828626,
     "CrCbGaD": 0.007713875661306227
   },
+  "n_trials": 0.0,
   "prediction": 0.00115856408570484,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

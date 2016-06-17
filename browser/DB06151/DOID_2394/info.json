@@ -1,14 +1,16 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.41807542262678793,
   "metapath_contribution": {
     "CbGeAlD": 0.19110374322468043,
     "CbGpPWpGaD": 0.5418850411727519,
     "CcSEcCtD": 0.2670112156025677
   },
+  "n_trials": 2.0,
   "prediction": 0.0013114987570724901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

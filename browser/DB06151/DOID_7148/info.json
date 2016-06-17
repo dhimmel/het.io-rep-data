@@ -1,17 +1,19 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
-    "CbGbCtD": 0.5361349336498008,
-    "CbGdCrCtD": 0.0020237012133948584,
-    "CbGeAlD": 0.003013621580751652,
-    "CbGpPWpGaD": 0.10586199815126532,
-    "CcSEcCtD": 0.04375452191692719,
-    "CrCrCtD": 0.30921122348786023
+    "CbGbCtD": 0.5361349336498007,
+    "CbGdCrCtD": 0.002023701213394858,
+    "CbGeAlD": 0.0030136215807516514,
+    "CbGpPWpGaD": 0.1058619981512653,
+    "CcSEcCtD": 0.043754521916927185,
+    "CrCrCtD": 0.3092112234878602
   },
+  "n_trials": 0.0,
   "prediction": 0.0054050407224940705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

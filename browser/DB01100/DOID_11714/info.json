@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.399219765929779,
   "metapath_contribution": {
     "CbGbCtD": 0.5789236323455997,
     "CbGeAlD": 0.12027668332258536,
     "CbGpPWpGaD": 0.12056493531242951,
     "CcSEcCtD": 0.18023474901938538
   },
+  "n_trials": 0.0,
   "prediction": 0.00143348911322341,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

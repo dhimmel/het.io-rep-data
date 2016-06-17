@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.79778933680104,
   "metapath_contribution": {
     "CbGaD": 0.30219147534646223,
     "CbGbCtD": 0.3103779951924961,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00297307827242869,
     "CrCrCtD": 0.2904074479394447
   },
+  "n_trials": 0.0,
   "prediction": 0.00516582576822578,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.5314940723400827,
     "CbGbCtD": 0.20927556104570463,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09001173176914799,
     "CcSEcCtD": 0.1313120700033817
   },
+  "n_trials": 0.0,
   "prediction": 0.0038342724739705704,
   "status": 0,
   "training_prediction": 0.00378251621086969

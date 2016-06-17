@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.6358907672301689,
   "metapath_contribution": {
     "CbGaD": 0.2789582621453488,
     "CbGbCtD": 0.441951170095649,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10310063788652378,
     "CrCbGaD": 0.0007699535005850544
   },
+  "n_trials": 0.0,
   "prediction": 0.00172863977058728,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

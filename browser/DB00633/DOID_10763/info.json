@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00633",
   "compound_name": "Dexmedetomidine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.18002800697082927,
     "CbGbCtD": 0.2334022377638349,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06740848704552131,
     "CiPCiCtD": 0.46390806657707206
   },
+  "n_trials": 3.0,
   "prediction": 0.066933931738455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

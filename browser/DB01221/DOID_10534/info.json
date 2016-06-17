@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7925877763329001,
   "metapath_contribution": {
     "CbGbCtD": 0.5469310430367709,
     "CbGeAlD": 0.08475711534072689,
     "CbGpPWpGaD": 0.25002581828360454,
     "CcSEcCtD": 0.11828602333889762
   },
+  "n_trials": 0.0,
   "prediction": 0.0023825253979920004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.25357607282184697,
   "metapath_contribution": {
     "CbGbCtD": 0.47208751960811685,
     "CbGdCrCtD": 0.004406328440025443,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2863987433040706,
     "CrCbGaD": 0.0014949755862001463
   },
+  "n_trials": 1.0,
   "prediction": 0.0011080496297247,
   "status": 0,
   "training_prediction": 0.00337290838620201

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.17149505218701125,
     "CbGbCtD": 0.1790254853341715,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2521584884094259,
     "CrCtD": 0.34979295458564497
   },
+  "n_trials": 0.0,
   "prediction": 0.0197333576551347,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

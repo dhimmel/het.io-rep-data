@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.343953185955787,
   "metapath_contribution": {
     "CbGbCtD": 0.826257991632864,
     "CbGeAlD": 0.11922460655978596,
     "CcSEcCtD": 0.054517401807350145
   },
+  "n_trials": 0.0,
   "prediction": 0.0012495369170514,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

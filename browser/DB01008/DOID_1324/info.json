@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.4841027513356078,
     "CbGbCtD": 0.27549609881879505,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.0941934386395799,
     "CcSEcCtD": 0.11901003533534009
   },
+  "n_trials": 0.0,
   "prediction": 0.00888908054624148,
   "status": 0,
   "training_prediction": 0.0298469931469983

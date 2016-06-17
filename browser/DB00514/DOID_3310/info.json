@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.32184655396619,
   "metapath_contribution": {
     "CbGbCtD": 0.8078116863146505,
     "CbGdCrCtD": 0.0008951383930364748,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03157048818775926,
     "CcSEcCtD": 0.12152364630349054
   },
+  "n_trials": 0.0,
   "prediction": 0.00171113238433482,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.43596728216795555,
     "CbGbCtD": 0.3285572113882397,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11011641392649399,
     "CrCbGaD": 0.0014371215241317783
   },
+  "n_trials": 0.0,
   "prediction": 0.00350363541371649,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

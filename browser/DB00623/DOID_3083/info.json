@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.25227568270481104,
   "metapath_contribution": {
     "CbGaD": 0.5429116014848411,
     "CbGbCtD": 0.22007386298815404,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10339880313279194,
     "CrCbGaD": 0.005151443342580964
   },
+  "n_trials": 0.0,
   "prediction": 0.00149178749288426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

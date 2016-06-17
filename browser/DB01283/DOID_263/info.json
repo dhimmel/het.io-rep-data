@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01283",
   "compound_name": "Lumiracoxib",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
     "CbGaD": 0.6139186204539298,
     "CbGbCtD": 0.30345558514872367,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.058490173455645875,
     "CrCbGaD": 0.005774038862900752
   },
+  "n_trials": 0.0,
   "prediction": 0.00245886281795588,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01582",
   "compound_name": "Sulfamethazine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.989493331222669,
     "CbGpPWpGaD": 0.007720125206580593,
     "CrCbGaD": 0.002786543570750419
   },
+  "n_trials": 0.0,
   "prediction": 0.00181167106330537,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

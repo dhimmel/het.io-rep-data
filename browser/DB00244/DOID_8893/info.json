@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.7997399219765929,
   "metapath_contribution": {
     "CbGaD": 0.3618959365225512,
     "CbGbCtD": 0.3472459409061851,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1586098225275979,
     "CrCbGaD": 0.002332972787125527
   },
+  "n_trials": 0.0,
   "prediction": 0.00307689718945572,
   "status": 0,
   "training_prediction": 0.021477883372089

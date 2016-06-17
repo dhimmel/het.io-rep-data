@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.738621586475943,
   "metapath_contribution": {
     "CbGbCtD": 0.37811505187974315,
     "CbGdCrCtD": 0.020299846689761106,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07046619617294354,
     "CcSEcCtD": 0.2108551108837501
   },
+  "n_trials": 0.0,
   "prediction": 0.00218261191042558,
   "status": 0,
   "training_prediction": 0.000984369443642301

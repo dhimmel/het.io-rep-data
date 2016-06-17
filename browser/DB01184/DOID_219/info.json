@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.640442132639792,
   "metapath_contribution": {
     "CbGaD": 0.41450915426979756,
     "CbGbCtD": 0.5410419427709924,
     "CcSEcCtD": 0.044176806862360515,
     "CrCbGaD": 0.00027209609684934787
   },
+  "n_trials": 0.0,
   "prediction": 0.00194823211874432,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

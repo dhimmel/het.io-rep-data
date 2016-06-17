@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGaD": 0.4209491266418616,
     "CbGbCtD": 0.4428948636421697,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10944633184450053,
     "CrCbGaD": 0.0034570815713195367
   },
+  "n_trials": 0.0,
   "prediction": 0.00443837512400423,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

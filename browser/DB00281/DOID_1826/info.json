@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.2818519137858981,
     "CbGbCtD": 0.374518124712549,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.1848237273477778,
     "CrCbGaD": 0.003244148374488973
   },
+  "n_trials": 0.0,
   "prediction": 0.0106921446877915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

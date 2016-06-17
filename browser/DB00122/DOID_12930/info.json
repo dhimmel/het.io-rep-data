@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.6522463262289604,
     "CbGbCtD": 0.04043479252703527,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.20866993742635045,
     "CrCbGaD": 0.0038623113360855524
   },
+  "n_trials": 0.0,
   "prediction": 0.0030711204391633,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

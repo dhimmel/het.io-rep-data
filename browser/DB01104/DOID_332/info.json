@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.6611481301915177,
     "CbGbCtD": 0.11159821372380717,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.025703094987146798,
     "CcSEcCtD": 0.17286008376665732
   },
+  "n_trials": 0.0,
   "prediction": 0.003923336356826779,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

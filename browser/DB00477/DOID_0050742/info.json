@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.36996098829648905,
   "metapath_contribution": {
     "CbGaD": 0.6787299643555339,
     "CbGeAlD": 0.06354919309259795,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.060826673329873814,
     "CrCbGaD": 0.008745360684888027
   },
+  "n_trials": 0.0,
   "prediction": 0.0013727635978628301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

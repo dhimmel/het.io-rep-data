@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.161248374512354,
   "metapath_contribution": {
     "CbGaD": 0.34597797561407756,
     "CbGbCtD": 0.4072745380107967,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14163063002488685,
     "CrCbGaD": 0.0029860187369078243
   },
+  "n_trials": 0.0,
   "prediction": 0.0016305167653398,
   "status": 0,
   "training_prediction": 0.0191613824870777

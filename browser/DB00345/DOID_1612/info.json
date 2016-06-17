@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.663198959687906,
   "metapath_contribution": {
     "CbGaD": 0.40217590424386945,
     "CbGbCtD": 0.4374681876835474,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04900324785705346,
     "CrCbGaD": 0.0038445408074286864
   },
+  "n_trials": 0.0,
   "prediction": 0.00333885718397087,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

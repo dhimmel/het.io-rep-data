@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.576723016905072,
   "metapath_contribution": {
     "CbGaD": 0.6174581150526908,
     "CbGeAlD": 0.02717035526867344,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12940398683577556,
     "CrCbGaD": 0.0035493782023442223
   },
+  "n_trials": 0.0,
   "prediction": 0.00155488313833772,
   "status": 0,
   "training_prediction": 0.0011694972488878901

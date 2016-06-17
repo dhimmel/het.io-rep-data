@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8862158647594279,
   "metapath_contribution": {
     "CbGaD": 0.35456644937742343,
     "CbGbCtD": 0.42727209392138904,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13786101297218467,
     "CrCbGaD": 0.0035270076307471546
   },
+  "n_trials": 0.0,
   "prediction": 0.0060692642120852396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

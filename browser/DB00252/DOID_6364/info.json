@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.16209763814057962,
     "CbGbCtD": 0.13865381379642616,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.06748718517899477,
     "CtDrD": 0.2613148907988639
   },
+  "n_trials": 0.0,
   "prediction": 0.0983231884991276,
   "status": 0,
   "training_prediction": 0.166295229541992

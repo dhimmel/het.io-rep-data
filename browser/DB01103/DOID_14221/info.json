@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.8246925961532074,
     "CbGbCtD": 0.08903139675075634,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.058867447893948106,
     "CrCbGaD": 0.0007593241002235541
   },
+  "n_trials": 0.0,
   "prediction": 0.0035379216474240704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

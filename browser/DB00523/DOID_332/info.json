@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGaD": 0.6337991295675597,
     "CbGbCtD": 0.11375425906358995,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1235470006522205,
     "CrCbGaD": 0.0058089689754545135
   },
+  "n_trials": 0.0,
   "prediction": 0.00189041213220399,
   "status": 0,
   "training_prediction": 0.00142198207284231

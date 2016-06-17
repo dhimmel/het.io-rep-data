@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00322",
   "compound_name": "Floxuridine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGaD": 0.2636187989384541,
     "CbGbCtD": 0.4125810309758606,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0034621288597971207,
     "CrCrCtD": 0.1371399277959495
   },
+  "n_trials": 3.0,
   "prediction": 0.00504326245735007,
   "status": 0,
   "training_prediction": 0.0273681679918487

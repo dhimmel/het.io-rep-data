@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.552665799739922,
   "metapath_contribution": {
     "CbGaD": 0.3304271468159609,
     "CbGbCtD": 0.4368375873629899,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12388766047059693,
     "CrCbGaD": 0.0028778646415013186
   },
+  "n_trials": 0.0,
   "prediction": 0.00273109969170188,
   "status": 0,
   "training_prediction": 0.0198132534674136

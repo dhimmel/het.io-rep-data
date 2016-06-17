@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.780659374825128,
     "CbGeAlD": 0.04997185968983066,
     "CbGpPWpGaD": 0.1636217965360923,
     "CrCbGaD": 0.005746968948948977
   },
+  "n_trials": 0.0,
   "prediction": 0.00240595797877002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

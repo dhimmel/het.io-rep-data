@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01265",
   "compound_name": "Telbivudine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CcSEcCtD": 0.025772219688914254,
     "CiPCiCtD": 0.33646225051508655,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.2404258436927727,
     "CrCtD": 0.3967329028645023
   },
+  "n_trials": 0.0,
   "prediction": 0.0161196001542579,
   "status": 0,
   "training_prediction": 0.0403898459161379

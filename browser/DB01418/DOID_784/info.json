@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8459037711313391,
   "metapath_contribution": {
     "CbGaD": 0.8200898428059038,
     "CbGeAlD": 0.053784143239081136,
     "CbGpPWpGaD": 0.12029816703489696,
     "CrCbGaD": 0.005827846920118142
   },
+  "n_trials": 0.0,
   "prediction": 0.00276089745750482,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

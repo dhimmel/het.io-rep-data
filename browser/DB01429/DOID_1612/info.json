@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01429",
   "compound_name": "Aprindine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.49479843953186,
   "metapath_contribution": {
     "CbGaD": 0.1974522092458415,
     "CbGbCtD": 0.026376176375425216,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.00253838047597832,
     "CrCrCtD": 0.5888430791568791
   },
+  "n_trials": 0.0,
   "prediction": 0.00232161585185234,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

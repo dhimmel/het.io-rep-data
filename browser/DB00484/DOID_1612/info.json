@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00484",
   "compound_name": "Brimonidine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.41027308192457707,
   "metapath_contribution": {
     "CbGbCtD": 0.5732486692919881,
     "CbGeAlD": 0.021182751944170106,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.31588825263520537,
     "CrCbGaD": 0.0018317345176846367
   },
+  "n_trials": 0.0,
   "prediction": 0.0020295851688603398,
   "status": 0,
   "training_prediction": 0.011163591539875

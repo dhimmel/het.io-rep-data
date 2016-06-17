@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8010403120936279,
   "metapath_contribution": {
     "CbGbCtD": 0.753134553554449,
     "CbGeAlD": 0.10132468823025775,
     "CbGpPWpGaD": 0.0583509392493454,
     "CcSEcCtD": 0.08718981896594785
   },
+  "n_trials": 0.0,
   "prediction": 0.00320685266595659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

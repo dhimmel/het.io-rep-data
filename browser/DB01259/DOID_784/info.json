@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.704161248374512,
   "metapath_contribution": {
     "CbGaD": 0.7007152502473423,
     "CbGeAlD": 0.07567505990848933,
     "CbGpPWpGaD": 0.21949365272620294,
     "CrCbGaD": 0.004116037117965497
   },
+  "n_trials": 1.0,
   "prediction": 0.0020878542390487197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

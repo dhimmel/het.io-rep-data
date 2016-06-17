@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01394",
   "compound_name": "Colchicine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.46684005201560497,
   "metapath_contribution": {
     "CbGaD": 0.09527003129293306,
     "CbGbCtD": 0.6482159415183147,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07642604998456684,
     "CcSEcCtD": 0.17566020650909514
   },
+  "n_trials": 0.0,
   "prediction": 0.0031194232924326,
   "status": 0,
   "training_prediction": 0.0250185955550616

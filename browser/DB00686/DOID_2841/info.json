@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00686",
   "compound_name": "Pentosan Polysulfate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.5266579973992199,
   "metapath_contribution": {
     "CbGeAlD": 0.08460587432653759,
     "CbGpPWpGaD": 0.39038452626547765,
     "CcSEcCtD": 0.5250095994079849
   },
+  "n_trials": 0.0,
   "prediction": 0.0025443881234406603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

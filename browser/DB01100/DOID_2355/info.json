@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.28676470588235303,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.447984395318596,
   "metapath_contribution": {
     "CbGaD": 0.5469290972281867,
     "CbGeAlD": 0.1637763520552269,
     "CbGpPWpGaD": 0.2847765869143828,
     "CrCbGaD": 0.004517963802203669
   },
+  "n_trials": 0.0,
   "prediction": 0.00114406947560804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

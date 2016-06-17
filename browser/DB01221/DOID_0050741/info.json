@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.4083237994817453,
     "CbGbCtD": 0.47629546754673374,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.059993073124582325,
     "CcSEcCtD": 0.015523260422957897
   },
+  "n_trials": 2.0,
   "prediction": 0.0238355558609953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01166",
   "compound_name": "Cilostazol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.3177284581053935,
     "CbGbCtD": 0.44864975354836,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17453664483889153,
     "CrCbGaD": 0.0014967604745445087
   },
+  "n_trials": 4.0,
   "prediction": 0.0051845925883629105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

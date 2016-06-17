@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00748",
   "compound_name": "Carbinoxamine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.3849154746423929,
   "metapath_contribution": {
     "CbGaD": 0.8160733438520464,
     "CbGeAlD": 0.04543218573339422,
     "CbGpPWpGaD": 0.13371386839908353,
     "CrCbGaD": 0.004780602015475866
   },
+  "n_trials": 0.0,
   "prediction": 0.00134486968394268,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

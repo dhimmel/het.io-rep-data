@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00280",
   "compound_name": "Disopyramide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.663198959687906,
   "metapath_contribution": {
     "CbGbCtD": 0.42278497207362997,
     "CbGeAlD": 0.036457528535529006,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.000505656367864056,
     "CrCrCtD": 0.27063486479318094
   },
+  "n_trials": 0.0,
   "prediction": 0.005900126227509879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

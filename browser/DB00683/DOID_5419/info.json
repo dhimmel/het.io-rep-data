@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.566970091027308,
   "metapath_contribution": {
     "CbGaD": 0.6315397535649456,
     "CbGeAlD": 0.10848158829513084,
     "CbGpPWpGaD": 0.2516443886731022,
     "CrCbGaD": 0.00833426946682127
   },
+  "n_trials": 2.0,
   "prediction": 0.00170758806405523,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

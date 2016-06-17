@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08899",
   "compound_name": "Enzalutamide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6703511053315989,
   "metapath_contribution": {
     "CbGaD": 0.3519902903508242,
     "CbGbCtD": 0.4422382648104775,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1245597757031358,
     "CrCbGaD": 0.0031019430458206244
   },
+  "n_trials": 0.0,
   "prediction": 0.00338711598999538,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

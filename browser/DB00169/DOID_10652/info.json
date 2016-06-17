@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.273081924577373,
   "metapath_contribution": {
     "CbGaD": 0.2778093966036059,
     "CbGbCtD": 0.5523981020024327,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15088936705930636,
     "CrCbGaD": 0.0016363910701607262
   },
+  "n_trials": 0.0,
   "prediction": 0.00122392964216245,
   "status": 0,
   "training_prediction": 0.00336562256225649

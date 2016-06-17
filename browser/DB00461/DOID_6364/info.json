@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGbCtD": 0.19875301208376583,
     "CcSEcCtD": 0.12312940751187959,
     "CpDpCtD": 0.6742134809490908,
     "CrCbGaD": 0.00390409945526377
   },
+  "n_trials": 0.0,
   "prediction": 0.00390859248609506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

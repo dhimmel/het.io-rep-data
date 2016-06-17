@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.45383615084525397,
   "metapath_contribution": {
     "CbGaD": 0.4388369581005495,
     "CbGbCtD": 0.5032643509978814,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0034185670063324658,
     "CrCbGaD": 0.004346449973440928
   },
+  "n_trials": 0.0,
   "prediction": 0.00145850614773004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00980",
   "compound_name": "Ramelteon",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.7483745123537059,
   "metapath_contribution": {
     "CbGbCtD": 0.7992504128049155,
     "CbGpPWpGaD": 0.03885856408266148,
     "CcSEcCtD": 0.16189102311242304
   },
+  "n_trials": 0.0,
   "prediction": 0.0026984558696455303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

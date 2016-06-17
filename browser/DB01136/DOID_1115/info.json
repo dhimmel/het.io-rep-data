@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.4090294883740192,
     "CbGbCtD": 0.27279192663925805,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.12494877591508925,
     "CcSEcCtD": 0.10050602732478751
   },
+  "n_trials": 0.0,
   "prediction": 0.0033446481801391,
   "status": 0,
   "training_prediction": 0.00673609500370207

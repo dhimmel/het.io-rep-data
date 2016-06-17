@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3277",
   "disease_name": "thymus cancer",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.7199494326431685,
     "CbGeAlD": 0.10279180602838683,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07871428838683518,
     "CrCbGaD": 0.0058400754006646925
   },
+  "n_trials": 0.0,
   "prediction": 0.00287485525093804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

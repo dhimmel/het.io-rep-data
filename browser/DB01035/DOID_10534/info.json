@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.6859557867360211,
   "metapath_contribution": {
     "CbGaD": 0.5695743755852506,
     "CbGbCtD": 0.21704437611991304,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10108994146055912,
     "CrCbGaD": 0.00655921928233346
   },
+  "n_trials": 0.0,
   "prediction": 0.00202936986025094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

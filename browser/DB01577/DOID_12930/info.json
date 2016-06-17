@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
     "CbGaD": 0.43503469454503024,
     "CbGbCtD": 0.06292792332138525,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0023187565625049315,
     "CrCrCtD": 0.4528035374202493
   },
+  "n_trials": 0.0,
   "prediction": 0.00251764021467801,
   "status": 0,
   "training_prediction": 0.00248361197468695

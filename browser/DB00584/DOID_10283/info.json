@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.611183355006502,
   "metapath_contribution": {
     "CbGaD": 0.300458446534201,
     "CbGbCtD": 0.44934902709741525,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17251484456212576,
     "CrCbGaD": 0.004244140753413056
   },
+  "n_trials": 0.0,
   "prediction": 0.00283644091136057,
   "status": 0,
   "training_prediction": 0.0198280104164138

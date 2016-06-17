@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGaD": 0.20866889292310434,
     "CbGbCtD": 0.3875342249844848,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0025218895623851613,
     "CrCrCtD": 0.21658359133609828
   },
+  "n_trials": 0.0,
   "prediction": 0.00878630853803163,
   "status": 0,
   "training_prediction": 0.0677642052744009

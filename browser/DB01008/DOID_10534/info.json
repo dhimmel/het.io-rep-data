@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.2617338121241608,
     "CbGeAlD": 0.02935006130227508,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0739441063664898,
     "CiPCiCtD": 0.6001372377963431
   },
+  "n_trials": 0.0,
   "prediction": 0.0140013855055296,
   "status": 0,
   "training_prediction": 0.0303966998240535

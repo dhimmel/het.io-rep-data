@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.46553966189857,
   "metapath_contribution": {
     "CbGaD": 0.7172139367751554,
     "CbGbCtD": 0.11369963501905977,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0451955894013081,
     "CrCbGaD": 0.0026451697870047614
   },
+  "n_trials": 0.0,
   "prediction": 0.00135661830004255,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

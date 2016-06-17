@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.831599479843953,
   "metapath_contribution": {
     "CbGaD": 0.389774699927138,
     "CbGbCtD": 0.36496404355923845,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1915753019740124,
     "CrCbGaD": 0.0017931804480746537
   },
+  "n_trials": 0.0,
   "prediction": 0.00421833172993201,
   "status": 0,
   "training_prediction": 0.00926555643497334

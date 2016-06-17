@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.782184655396619,
   "metapath_contribution": {
     "CbGaD": 0.40758174322796004,
     "CbGbCtD": 0.40428227352470114,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003528081882932581,
     "CrCrCtD": 0.12445791415636952
   },
+  "n_trials": 9.0,
   "prediction": 0.00457223006060776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

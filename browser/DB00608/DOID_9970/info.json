@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.37581274382314706,
   "metapath_contribution": {
     "CbGaD": 0.31283270872675334,
     "CbGbCtD": 0.3829743866269795,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14617490644155226,
     "CrCbGaD": 0.0013193670051272464
   },
+  "n_trials": 0.0,
   "prediction": 0.0019655846899139,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

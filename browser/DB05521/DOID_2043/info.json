@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.5663346435923559,
     "CbGeAlD": 0.03830676167703676,
     "CbGpPWpGaD": 0.11157958119297408,
     "CcSEcCtD": 0.2837790135376332
   },
+  "n_trials": 0.0,
   "prediction": 0.0023675544358238198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

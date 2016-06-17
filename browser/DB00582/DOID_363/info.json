@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.5546163849154749,
   "metapath_contribution": {
     "CbGbCtD": 0.6132276257482709,
     "CbGeAlD": 0.032894012233550804,
     "CbGpPWpGaD": 0.03266020955919835,
     "CcSEcCtD": 0.32121815245898
   },
+  "n_trials": 0.0,
   "prediction": 0.00179090909631195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

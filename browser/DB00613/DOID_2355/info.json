@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 0.0367647058823529,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.168400520156047,
   "metapath_contribution": {
-    "CbGeAlD": 0.43001459049353263,
-    "CbGpPWpGaD": 0.5660885120421499,
-    "CrCbGaD": 0.003896897464317579
+    "CbGeAlD": 0.4300145904935326,
+    "CbGpPWpGaD": 0.5660885120421498,
+    "CrCbGaD": 0.0038968974643175786
   },
+  "n_trials": 2.0,
   "prediction": 0.000779036196750809,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

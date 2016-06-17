@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04967",
   "compound_name": "Lucanthone",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.33940182054616397,
   "metapath_contribution": {
     "CbGbCtD": 0.6916120885351664,
     "CbGdCrCtD": 0.008101955816558462,
     "CbGeAlD": 0.295327586711861,
     "CrCbGaD": 0.004958368936414045
   },
+  "n_trials": 0.0,
   "prediction": 0.00150468693583868,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

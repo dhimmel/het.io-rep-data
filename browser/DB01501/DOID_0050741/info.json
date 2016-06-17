@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01501",
   "compound_name": "Difenoxin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.5700096377994206,
     "CbGbCtD": 0.4031795117394155,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.013938090582206655,
     "CrCbGaD": 0.005204927042101648
   },
+  "n_trials": 0.0,
   "prediction": 0.0052668528137525105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

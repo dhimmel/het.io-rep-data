@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.0162548764629389,
   "metapath_contribution": {
     "CbGbCtD": 0.3718466428118166,
     "CbGeAlD": 0.08559113503900714,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4007751229697224,
     "CrCbGaD": 0.00016444271822694268
   },
+  "n_trials": 0.0,
   "prediction": 0.000797589735656312,
   "status": 0,
   "training_prediction": 0.00175913459371566

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01103",
   "compound_name": "Quinacrine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
     "CbGbCtD": 0.8389662702579832,
     "CbGeAlD": 0.05660086818561739,
     "CbGpPWpGaD": 0.1044328615563994
   },
+  "n_trials": 0.0,
   "prediction": 0.0016093334587825802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

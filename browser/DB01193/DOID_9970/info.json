@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01193",
   "compound_name": "Acebutolol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.2742842457509149,
     "CbGbCtD": 0.21733717640757266,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0027008863910846885,
     "CtDrD": 0.4017126740980283
   },
+  "n_trials": 0.0,
   "prediction": 0.008760907803856941,
   "status": 0,
   "training_prediction": 0.0222016571231641

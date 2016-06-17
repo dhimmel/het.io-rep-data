@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01213",
   "compound_name": "Fomepizole",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.7846861179935857,
     "CbGbCtD": 0.06889579800651212,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.040949295557411926,
     "CcSEcCtD": 0.05985611061956363
   },
+  "n_trials": 0.0,
   "prediction": 0.00518456893663861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

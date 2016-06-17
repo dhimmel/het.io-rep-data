@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.716514954486346,
   "metapath_contribution": {
     "CbGaD": 0.32220276871507875,
     "CbGbCtD": 0.41842329288728025,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20316288090681536,
     "CrCbGaD": 0.003237504031281963
   },
+  "n_trials": 0.0,
   "prediction": 0.00599949546232423,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

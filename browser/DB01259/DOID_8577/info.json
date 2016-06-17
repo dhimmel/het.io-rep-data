@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.723667100130039,
   "metapath_contribution": {
     "CbGaD": 0.2545146109400817,
     "CbGbCtD": 0.4681236012526272,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11777017486388351,
     "CrCbGaD": 0.0008118520316612442
   },
+  "n_trials": 0.0,
   "prediction": 0.00294430800920187,
   "status": 0,
   "training_prediction": 0.0100279584101852

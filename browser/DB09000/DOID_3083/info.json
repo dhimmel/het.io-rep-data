@@ -1,15 +1,17 @@
 {
   "compound_id": "DB09000",
   "compound_name": "Cyamemazine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.38166449934980495,
   "metapath_contribution": {
     "CbGaD": 0.749075393045294,
     "CbGbCtD": 0.20649536792037387,
     "CbGeAlD": 0.03725724666884818,
     "CrCbGaD": 0.007171992365483863
   },
+  "n_trials": 0.0,
   "prediction": 0.0018074883169296398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

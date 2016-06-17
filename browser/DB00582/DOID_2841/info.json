@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGbCtD": 0.29404970850942497,
     "CbGeAlD": 0.020207820841006814,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10925889609600216,
     "CiPCiCtD": 0.5642691326212775
   },
+  "n_trials": 0.0,
   "prediction": 0.00897257989936232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

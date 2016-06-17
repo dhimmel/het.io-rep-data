@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.35630689206762,
   "metapath_contribution": {
     "CbGaD": 0.7418316639049212,
     "CbGeAlD": 0.08011621137647607,
     "CbGpPWpGaD": 0.17086872126640792,
     "CrCbGaD": 0.0071834034521947735
   },
+  "n_trials": 0.0,
   "prediction": 0.0012884458606360002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

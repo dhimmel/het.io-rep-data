@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.695058517555267,
   "metapath_contribution": {
     "CbGaD": 0.2373733161371518,
     "CbGbCtD": 0.47636834023305036,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1909585316083301,
     "CrCbGaD": 0.002361731584951827
   },
+  "n_trials": 0.0,
   "prediction": 0.00680192220833352,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

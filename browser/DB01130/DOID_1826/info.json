@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01130",
   "compound_name": "Prednicarbate",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.005851755526658001,
   "metapath_contribution": {
     "CbGaD": 0.8345010502675776,
     "CbGpPWpGaD": 0.0010177611184905698,
     "CcSEcCtD": 0.15453644995058582,
     "CrCbGaD": 0.009944738663346012
   },
+  "n_trials": 0.0,
   "prediction": 0.00056731820889067,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

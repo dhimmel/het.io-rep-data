@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.10728218465539699,
   "metapath_contribution": {
     "CbGdCrCtD": 0.009486503965297047,
     "CbGeAlD": 0.3733771384753145,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4582568989589899,
     "CrCbGaD": 0.026557054564281563
   },
+  "n_trials": 0.0,
   "prediction": 0.00108720006038885,
   "status": 0,
   "training_prediction": 0.00219926769157841

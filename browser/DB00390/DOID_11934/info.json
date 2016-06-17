@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.15149544863459,
   "metapath_contribution": {
     "CbGbCtD": 0.6297810432568571,
     "CbGdCrCtD": 0.012241971811786946,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0716101852323876,
     "CrCbGaD": 0.0042879920841639415
   },
+  "n_trials": 0.0,
   "prediction": 0.0008832869801996859,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

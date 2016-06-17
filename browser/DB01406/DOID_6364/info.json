@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.464889466840052,
   "metapath_contribution": {
     "CbGaD": 0.7365670466019996,
     "CbGbCtD": 0.02102251972911363,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13860345260798285,
     "CrCbGaD": 0.0064917670866147005
   },
+  "n_trials": 0.0,
   "prediction": 0.00234708595319227,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

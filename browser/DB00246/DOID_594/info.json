@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00246",
   "compound_name": "Ziprasidone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.772296956190886,
     "CbGeAlD": 0.06149869089534216,
     "CbGpPWpGaD": 0.15812915660767518,
     "CrCbGaD": 0.008075196306096686
   },
+  "n_trials": 1.0,
   "prediction": 0.00389953665173137,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

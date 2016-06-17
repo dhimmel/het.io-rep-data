@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01071",
   "compound_name": "Mequitazine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.459037711313394,
   "metapath_contribution": {
     "CbGbCtD": 0.3962370775268279,
     "CbGpPWpGaD": 0.03431752057262601,
     "CrCbGaD": 0.007807325728110366,
     "CrCrCtD": 0.5616380761724358
   },
+  "n_trials": 0.0,
   "prediction": 0.00233231292992868,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

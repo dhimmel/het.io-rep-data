@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGbCtD": 0.3773031538384445,
     "CbGeAlD": 0.013855394726085683,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0003157865638433046,
     "CrCrCtD": 0.570820627632939
   },
+  "n_trials": 0.0,
   "prediction": 0.00415439219095284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

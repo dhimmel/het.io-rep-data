@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.79778933680104,
   "metapath_contribution": {
     "CbGbCtD": 0.707347454485114,
     "CbGeAlD": 0.0784516998421091,
     "CbGpPWpGaD": 0.1157675801666231,
     "CcSEcCtD": 0.0984332655061538
   },
+  "n_trials": 0.0,
   "prediction": 0.00202540263376108,
   "status": 0,
   "training_prediction": 0.00152357399213726

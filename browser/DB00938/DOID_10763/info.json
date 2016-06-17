@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00938",
   "compound_name": "Salmeterol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.13598682043433555,
     "CbGbCtD": 0.248080253030688,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.19841359595746938,
     "CrCtD": 0.30673430568911597
   },
+  "n_trials": 0.0,
   "prediction": 0.0300653845261134,
   "status": 0,
   "training_prediction": 0.270489841835895

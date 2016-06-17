@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.0624187256176853,
   "metapath_contribution": {
     "CbGbCtD": 0.8273545898841219,
     "CbGeAlD": 0.038248200856762324,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12254082128635865,
     "CrCbGaD": 0.005403796710614047
   },
+  "n_trials": 0.0,
   "prediction": 0.0008174964153230231,
   "status": 0,
   "training_prediction": 0.0024899434065338197

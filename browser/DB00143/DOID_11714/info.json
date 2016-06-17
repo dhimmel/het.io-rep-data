@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGbCtD": 0.5416238847589102,
     "CbGeAlD": 0.18609977941281877,
     "CbGpPWpGaD": 0.26410100254126995,
     "CrCbGaD": 0.008175333287000954
   },
+  "n_trials": 0.0,
   "prediction": 0.0027002598472522102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

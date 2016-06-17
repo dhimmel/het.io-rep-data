@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.49674902470741206,
   "metapath_contribution": {
     "CbGbCtD": 0.6499463053307831,
     "CbGeAlD": 0.10356548365117174,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06927463753205798,
     "CrCbGaD": 0.00959121357730197
   },
+  "n_trials": 0.0,
   "prediction": 0.00140322545662309,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

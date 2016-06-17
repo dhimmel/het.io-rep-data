@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01246",
   "compound_name": "Alimemazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.552015604681404,
   "metapath_contribution": {
-    "CbGbCtD": 0.1605318835238858,
-    "CbGpPWpGaD": 0.029381954015164115,
-    "CcSEcCtD": 0.10369885431394292,
-    "CrCbGaD": 0.003259184807337053,
-    "CrCrCtD": 0.27149198888964665,
-    "CrCtD": 0.4316361344500233
+    "CbGbCtD": 0.16053188352388584,
+    "CbGpPWpGaD": 0.029381954015164122,
+    "CcSEcCtD": 0.10369885431394295,
+    "CrCbGaD": 0.003259184807337054,
+    "CrCrCtD": 0.2714919888896467,
+    "CrCtD": 0.4316361344500234
   },
+  "n_trials": 0.0,
   "prediction": 0.00445387250748328,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

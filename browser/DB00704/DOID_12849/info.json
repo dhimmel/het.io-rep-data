@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00704",
   "compound_name": "Naltrexone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.6892067620286091,
   "metapath_contribution": {
     "CbGaD": 0.8514161609517943,
     "CbGeAlD": 0.057158486765574855,
     "CbGpPWpGaD": 0.08228685455789299,
     "CrCbGaD": 0.009138497724737895
   },
+  "n_trials": 1.0,
   "prediction": 0.0018047533767270101,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

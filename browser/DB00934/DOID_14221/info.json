@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00934",
   "compound_name": "Maprotiline",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.44668400520156,
   "metapath_contribution": {
     "CbGaD": 0.7837901632502225,
     "CbGeAlD": 0.08860302762220934,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.030745973894374543,
     "CrCbGaD": 0.00402619800124975
   },
+  "n_trials": 0.0,
   "prediction": 0.00130300802146665,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

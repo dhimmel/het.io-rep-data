@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00805",
   "compound_name": "Minaprine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.8328294437191862,
     "CbGeAlD": 0.06262816669999006,
     "CbGpPWpGaD": 0.10071319694151562,
     "CrCbGaD": 0.003829192639307992
   },
+  "n_trials": 0.0,
   "prediction": 0.0039035698751532398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

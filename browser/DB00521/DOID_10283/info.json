@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00521",
   "compound_name": "Carteolol",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.332899869960988,
   "metapath_contribution": {
     "CbGaD": 0.5860083559076755,
     "CbGbCtD": 0.14505650071874288,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19653444072917467,
     "CrCbGaD": 0.006300036772474459
   },
+  "n_trials": 0.0,
   "prediction": 0.0016674079614031,
   "status": 0,
   "training_prediction": 0.00706123031302771

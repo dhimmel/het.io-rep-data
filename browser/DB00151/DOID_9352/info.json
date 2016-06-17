@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00151",
   "compound_name": "L-Cysteine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGaD": 0.72128324802633,
     "CbGeAlD": 0.0801863402113988,
     "CbGpPWpGaD": 0.19338326561105337,
     "CrCbGaD": 0.005147146151217768
   },
+  "n_trials": 0.0,
   "prediction": 0.00310581313445885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

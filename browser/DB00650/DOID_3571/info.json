@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGbCtD": 0.6379119480496455,
     "CbGeAlD": 0.13305817848419565,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12005421305081138,
     "CrCbGaD": 0.004987431658956431
   },
+  "n_trials": 2.0,
   "prediction": 0.00187096746752878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

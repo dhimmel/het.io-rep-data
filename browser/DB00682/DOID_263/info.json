@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.567620286085826,
   "metapath_contribution": {
     "CbGaD": 0.39563980066714366,
     "CbGbCtD": 0.5436650049335761,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0428318126747076,
     "CrCbGaD": 0.003638643170971097
   },
+  "n_trials": 0.0,
   "prediction": 0.00201585546081506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.07880498189091316,
     "CbGbCtD": 0.589316850626542,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1511798384236787,
     "CrCbGaD": 0.0036927004471961275
   },
+  "n_trials": 4.0,
   "prediction": 0.00294877668135805,
   "status": 0,
   "training_prediction": 0.0259346715281711

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGaD": 0.4323011505147216,
     "CbGbCtD": 0.36641637545642286,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.0993567512196087,
     "CrCbGaD": 0.0026958715524073515
   },
+  "n_trials": 0.0,
   "prediction": 0.00455787049829776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

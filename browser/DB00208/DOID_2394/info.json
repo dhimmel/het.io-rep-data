@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.40962288686605997,
   "metapath_contribution": {
     "CbGbCtD": 0.6662017626179482,
     "CbGpPWpGaD": 0.06035664909381643,
     "CcSEcCtD": 0.2711871786079127,
     "CrCbGaD": 0.0022544096803226946
   },
+  "n_trials": 0.0,
   "prediction": 0.00129850610000371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

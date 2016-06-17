@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01349",
   "compound_name": "Tasosartan",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.9056933250254684,
     "CbGeAlD": 0.03637574706679222,
     "CbGpPWpGaD": 0.0511709654246718,
     "CrCbGaD": 0.0067599624830676
   },
+  "n_trials": 0.0,
   "prediction": 0.0041577502799293,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

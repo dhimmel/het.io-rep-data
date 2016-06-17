@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.533159947984395,
   "metapath_contribution": {
     "CbGaD": 0.28072444112537603,
     "CbGbCtD": 0.4562054002645083,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.23609711347739962,
     "CrCbGaD": 0.0004745280591551548
   },
+  "n_trials": 0.0,
   "prediction": 0.00156164115007024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.294117647058824,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.32444733420026,
   "metapath_contribution": {
     "CbGaD": 0.4922104213551677,
     "CbGeAlD": 0.18362444953615092,
     "CbGpPWpGaD": 0.32162624420512287,
     "CrCbGaD": 0.0025388849035585894
   },
+  "n_trials": 0.0,
   "prediction": 0.000961623271013459,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

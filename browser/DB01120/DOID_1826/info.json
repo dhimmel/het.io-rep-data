@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.697009102730819,
   "metapath_contribution": {
     "CbGaD": 0.3946686747653062,
     "CbGbCtD": 0.35902891133977427,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15686192830389098,
     "CrCbGaD": 0.00335207381061111
   },
+  "n_trials": 0.0,
   "prediction": 0.00566376717094495,
   "status": 0,
   "training_prediction": 0.0272051171259261

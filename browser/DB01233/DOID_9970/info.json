@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.439531859557867,
   "metapath_contribution": {
     "CbGaD": 0.2410223680290264,
     "CbGbCtD": 0.3714233473719252,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16127665654671866,
     "CrCbGaD": 0.005109363026701644
   },
+  "n_trials": 0.0,
   "prediction": 0.00222812116737826,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

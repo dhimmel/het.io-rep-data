@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.30707747831679716,
     "CbGbCtD": 0.47554235945002427,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10666209100452882,
     "CcSEcCtD": 0.0846165937339798
   },
+  "n_trials": 0.0,
   "prediction": 0.0047725250418167295,
   "status": 0,
   "training_prediction": 0.0267215832447945

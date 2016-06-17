@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6183355006501949,
   "metapath_contribution": {
     "CbGaD": 0.14928754535633848,
     "CbGbCtD": 0.5676795543727386,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19896189887617077,
     "CrCbGaD": 0.0011356296075727247
   },
+  "n_trials": 0.0,
   "prediction": 0.00306779146151442,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

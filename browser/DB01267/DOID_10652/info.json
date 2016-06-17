@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGaD": 0.29057948248798354,
     "CbGbCtD": 0.3561899090230133,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2011620791766839,
     "CrCbGaD": 0.003238586874139856
   },
+  "n_trials": 0.0,
   "prediction": 0.00434368755010447,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

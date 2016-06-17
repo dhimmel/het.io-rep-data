@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.27178153446033804,
   "metapath_contribution": {
     "CbGaD": 0.2774482704255895,
     "CbGbCtD": 0.3511962709898646,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0017705764268915027,
     "CrCrCtD": 0.2404154611814563
   },
+  "n_trials": 0.0,
   "prediction": 0.00149353931836212,
   "status": 0,
   "training_prediction": 0.0604822368470522

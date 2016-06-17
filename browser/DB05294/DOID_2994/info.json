@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.7899869960988299,
   "metapath_contribution": {
     "CbGbCtD": 0.15983524300497176,
     "CbGdCrCtD": 0.0017120898882271173,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06605558906323758,
     "CtDrD": 0.6129494081658963
   },
+  "n_trials": 0.0,
   "prediction": 0.00234675174752928,
   "status": 0,
   "training_prediction": 0.00428435364983409

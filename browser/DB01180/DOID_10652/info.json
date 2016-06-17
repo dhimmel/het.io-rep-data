@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGaD": 0.695095020122224,
     "CbGeAlD": 0.045562359321515936,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1948173835718978,
     "CrCbGaD": 0.0024511587879447005
   },
+  "n_trials": 0.0,
   "prediction": 0.00214879376087868,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

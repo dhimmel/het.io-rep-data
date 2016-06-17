@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01384",
   "compound_name": "Paramethasone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.386866059817945,
   "metapath_contribution": {
     "CbGaD": 0.16049711009902212,
     "CbGbCtD": 0.34710047922997256,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.002939304510834416,
     "CrCrCtD": 0.4475795997580316
   },
+  "n_trials": 0.0,
   "prediction": 0.00194911388988347,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

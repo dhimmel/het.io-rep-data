@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGbCtD": 0.338162589498389,
     "CbGpPWpGaD": 0.019263740232335114,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.2836821136124504,
     "CrCtD": 0.3136748691412216
   },
+  "n_trials": 0.0,
   "prediction": 0.0104146590174902,
   "status": 0,
   "training_prediction": 0.06963307496496901

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00369",
   "compound_name": "Cidofovir",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.4932383418088514,
     "CbGbCtD": 0.4482355093799849,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05568282257420997,
     "CrCbGaD": 0.000925670708733158
   },
+  "n_trials": 0.0,
   "prediction": 0.00710635107739621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

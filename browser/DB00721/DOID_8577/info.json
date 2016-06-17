@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.73146944083225,
   "metapath_contribution": {
     "CbGbCtD": 0.3137420730201625,
     "CbGeAlD": 0.04643604863593445,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004733805431655678,
     "CrCrCtD": 0.5107227608663601
   },
+  "n_trials": 0.0,
   "prediction": 0.0029811045939549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

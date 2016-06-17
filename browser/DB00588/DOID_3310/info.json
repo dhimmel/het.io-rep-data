@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
-    "CbGbCtD": 0.14975107566064355,
-    "CbGdCrCtD": 0.0005039698591775432,
-    "CcSEcCtD": 0.038981001883587545,
+    "CbGbCtD": 0.14975107566064352,
+    "CbGdCrCtD": 0.0005039698591775431,
+    "CcSEcCtD": 0.03898100188358754,
     "CiPCiCtD": 0.28839690261340595,
-    "CrCrCtD": 0.1552877772354546,
-    "CrCtD": 0.20802935977661885,
-    "CtDrD": 0.15904991297111196
+    "CrCrCtD": 0.15528777723545456,
+    "CrCtD": 0.20802935977661882,
+    "CtDrD": 0.15904991297111193
   },
+  "n_trials": 0.0,
   "prediction": 0.220317253074793,
   "status": 0,
   "training_prediction": 0.492204283204904

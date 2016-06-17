@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGaD": 0.5628120741749527,
     "CbGbCtD": 0.26354513609334734,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1362776625750102,
     "CrCbGaD": 0.006674586103013071
   },
+  "n_trials": 0.0,
   "prediction": 0.00169248472492357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

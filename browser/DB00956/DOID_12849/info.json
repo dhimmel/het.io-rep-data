@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.569570871261378,
   "metapath_contribution": {
     "CbGaD": 0.8546081575068887,
     "CbGeAlD": 0.0631716588404701,
     "CbGpPWpGaD": 0.07073951218175062,
     "CrCbGaD": 0.011480671470890512
   },
+  "n_trials": 0.0,
   "prediction": 0.00152295497331515,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

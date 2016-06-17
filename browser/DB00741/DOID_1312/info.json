@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.559817945383615,
   "metapath_contribution": {
     "CbGbCtD": 0.30146752218256506,
     "CbGeAlD": 0.005929895122160074,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.00037842048572290816,
     "CtDrD": 0.6261034427346654
   },
+  "n_trials": 0.0,
   "prediction": 0.00155770686043578,
   "status": 0,
   "training_prediction": 0.0035471600766188603

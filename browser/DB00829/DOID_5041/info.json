@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.37581274382314706,
   "metapath_contribution": {
     "CbGaD": 0.613011768895982,
     "CbGbCtD": 0.07193562730990018,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12334167395653829,
     "CrCbGaD": 0.0027336267328173427
   },
+  "n_trials": 0.0,
   "prediction": 0.0011882679769819,
   "status": 0,
   "training_prediction": 0.00144240612548954

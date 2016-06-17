@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.64369310793238,
   "metapath_contribution": {
     "CbGaD": 0.31857272961927574,
     "CbGbCtD": 0.3455310094596073,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14360026728947473,
     "CrCbGaD": 0.0010182033504739472
   },
+  "n_trials": 0.0,
   "prediction": 0.00331875241917013,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

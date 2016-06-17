@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00210",
   "compound_name": "Adapalene",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.677503250975293,
   "metapath_contribution": {
     "CbGaD": 0.7379685322636644,
     "CbGeAlD": 0.022636201070370125,
     "CbGpPWpGaD": 0.1388452269175722,
     "CcSEcCtD": 0.10055003974839324
   },
+  "n_trials": 0.0,
   "prediction": 0.00245341822559374,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

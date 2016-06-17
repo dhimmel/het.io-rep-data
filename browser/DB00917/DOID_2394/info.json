@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.49154746423927204,
   "metapath_contribution": {
     "CbGbCtD": 0.41200124330530247,
     "CbGeAlD": 0.2675511263951818,
     "CbGpPWpGaD": 0.16684276366728493,
     "CcSEcCtD": 0.15360486663223083
   },
+  "n_trials": 0.0,
   "prediction": 0.00145248467998636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

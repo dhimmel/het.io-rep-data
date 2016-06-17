@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:10871",
   "disease_name": "age related macular degeneration",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.7950424755291429,
     "CbGeAlD": 0.05343833575990995,
     "CbGpPWpGaD": 0.15151918871094722
   },
+  "n_trials": 2.0,
   "prediction": 0.00254293491575967,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

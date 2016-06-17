@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.1240866386182064,
     "CbGbCtD": 0.1625905351032644,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.19841541761540013,
     "CrCtD": 0.26670602666021964
   },
+  "n_trials": 0.0,
   "prediction": 0.036800633991848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

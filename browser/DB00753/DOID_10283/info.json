@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5936280884265279,
   "metapath_contribution": {
     "CbGaD": 0.19796317503082828,
     "CbGbCtD": 0.324641312787617,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1471372955273196,
     "CrCbGaD": 0.003877269390038047
   },
+  "n_trials": 0.0,
   "prediction": 0.0027096228825087896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

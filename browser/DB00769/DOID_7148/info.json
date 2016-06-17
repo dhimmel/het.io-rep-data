@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00769",
   "compound_name": "Hydrocortamate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.14462694149013866,
     "CbGbCtD": 0.19988311666412983,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.27654646422137924,
     "CrCtD": 0.37746884911127887
   },
+  "n_trials": 0.0,
   "prediction": 0.0131239629865852,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

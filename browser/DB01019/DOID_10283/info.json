@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01019",
   "compound_name": "Bethanechol",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.217165149544863,
   "metapath_contribution": {
     "CbGeAlD": 0.20064091539381484,
     "CbGpPWpGaD": 0.09706395994888439,
     "CcSEcCtD": 0.699792071679348,
     "CrCbGaD": 0.0025030529779526602
   },
+  "n_trials": 0.0,
   "prediction": 0.00127054087286688,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

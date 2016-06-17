@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.17836122384145864,
     "CbGbCtD": 0.1679416925414714,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2028615374013201,
     "CrCtD": 0.379559792415968
   },
+  "n_trials": 0.0,
   "prediction": 0.0137988339403773,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

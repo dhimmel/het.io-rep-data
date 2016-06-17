@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00241",
   "compound_name": "Butalbital",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.9115734720416121,
   "metapath_contribution": {
     "CbGaD": 0.7592685893071781,
     "CbGeAlD": 0.07096572553694726,
     "CbGpPWpGaD": 0.16214431855676809,
     "CrCbGaD": 0.007621366599106606
   },
+  "n_trials": 0.0,
   "prediction": 0.00316918978133214,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00364",
   "compound_name": "Sucralfate",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGbCtD": 0.6032586653873963,
     "CbGeAlD": 0.20137196899557822,
     "CbGpPWpGaD": 0.12443463532776462,
     "CcSEcCtD": 0.07093473028926092
   },
+  "n_trials": 0.0,
   "prediction": 0.00359241749357949,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

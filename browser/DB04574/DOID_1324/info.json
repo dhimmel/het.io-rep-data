@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04574",
   "compound_name": "Estropipate",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.461638491547464,
   "metapath_contribution": {
     "CbGaD": 0.23121061138395055,
     "CbGbCtD": 0.42194928469561604,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22318981605980137,
     "CrCbGaD": 0.0042156904805438124
   },
+  "n_trials": 0.0,
   "prediction": 0.00171372554177671,
   "status": 0,
   "training_prediction": 0.00585412586166246

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01033",
   "compound_name": "Mercaptopurine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGbCtD": 0.4113572741040973,
     "CbGdCrCtD": 0.0014102160786936117,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06747221211504201,
     "CrCrCtD": 0.4713976396410111
   },
+  "n_trials": 0.0,
   "prediction": 0.009352608904187829,
   "status": 0,
   "training_prediction": 0.0589814016790173

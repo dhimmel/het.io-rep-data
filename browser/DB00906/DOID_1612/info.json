@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00906",
   "compound_name": "Tiagabine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7483745123537059,
   "metapath_contribution": {
     "CbGaD": 0.2733830674369185,
     "CbGbCtD": 0.4114367539880393,
     "CbGpPWpGaD": 0.06714680870227804,
     "CcSEcCtD": 0.2480333698727642
   },
+  "n_trials": 0.0,
   "prediction": 0.00412317292210932,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

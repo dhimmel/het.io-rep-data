@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.341352405721716,
   "metapath_contribution": {
     "CbGbCtD": 0.6811447902453605,
     "CbGeAlD": 0.08890759815144503,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18960896652550152,
     "CrCbGaD": 3.8567427304140454e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00135381206769868,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

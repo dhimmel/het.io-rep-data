@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.644343302990897,
   "metapath_contribution": {
-    "CbGaD": 0.3188425362304317,
-    "CbGbCtD": 0.4722995878106145,
-    "CbGeAlD": 0.07041537755168689,
-    "CbGpPWpGaD": 0.13526290792555415,
-    "CrCbGaD": 0.003179590481712933
+    "CbGaD": 0.31884253623043163,
+    "CbGbCtD": 0.4722995878106144,
+    "CbGeAlD": 0.07041537755168688,
+    "CbGpPWpGaD": 0.13526290792555412,
+    "CrCbGaD": 0.0031795904817129325
   },
+  "n_trials": 1.0,
   "prediction": 0.00557636297182621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

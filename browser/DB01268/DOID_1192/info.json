@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.4802841042797391,
     "CbGbCtD": 0.1708653423364128,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14031862489159433,
     "CrCbGaD": 0.0004259796978484411
   },
+  "n_trials": 2.0,
   "prediction": 0.00424338814524021,
   "status": 0,
   "training_prediction": 0.019118452881495

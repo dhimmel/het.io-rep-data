@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00132",
   "compound_name": "Alpha-Linolenic Acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.9405498370396619,
     "CbGeAlD": 0.027742836673536726,
     "CbGpPWpGaD": 0.025388199848801533,
     "CrCbGaD": 0.006319126437999822
   },
+  "n_trials": 0.0,
   "prediction": 0.0028741842157692103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

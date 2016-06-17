@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.23992197659297798,
   "metapath_contribution": {
     "CbGbCtD": 0.5274991601420392,
     "CbGeAlD": 0.008711800145164126,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0015522038129570097,
     "CrCrCtD": 0.25906448603140575
   },
+  "n_trials": 3.0,
   "prediction": 0.00160355568397055,
   "status": 0,
   "training_prediction": 0.0108552335284142

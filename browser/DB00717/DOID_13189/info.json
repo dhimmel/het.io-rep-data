@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGbCtD": 0.2554745396390709,
     "CcSEcCtD": 0.06913152610167601,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2780895382232945,
     "CrCtD": 0.3971258097771541
   },
+  "n_trials": 0.0,
   "prediction": 0.00668133292250199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGaD": 0.293889234260281,
     "CbGbCtD": 0.27548360390583165,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1340887850935576,
     "CrCbGaD": 0.004299459721737847
   },
+  "n_trials": 0.0,
   "prediction": 0.0023989777103041897,
   "status": 0,
   "training_prediction": 0.00291129894535998

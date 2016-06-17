@@ -1,19 +1,22 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
-    "CbGaD": 0.06192017827705921,
-    "CbGbCtD": 0.21325461913981775,
-    "CbGeAlD": 0.004074632756484258,
-    "CbGpPWpGaD": 0.031140641150882203,
-    "CcSEcCtD": 0.0696367838345263,
-    "CiPCiCtD": 0.28676168508002503,
-    "CpDpCtD": 0.19015660938972187,
-    "CrCbGaD": 0.001418819292315011,
-    "CrCrCtD": 0.14163603107916842
+    "CbGaD": 0.061920178277059194,
+    "CbGbCtD": 0.2132546191398177,
+    "CbGeAlD": 0.004074632756484257,
+    "CbGpPWpGaD": 0.031140641150882192,
+    "CcSEcCtD": 0.06963678383452629,
+    "CiPCiCtD": 0.286761685080025,
+    "CpDpCtD": 0.19015660938972184,
+    "CrCbGaD": 0.0014188192923150107,
+    "CrCrCtD": 0.1416360310791684
   },
+  "n_trials": 0.0,
   "prediction": 0.0252031016666872,
   "status": 0,
   "training_prediction": 0.12238759395512198

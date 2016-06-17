@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00851",
   "compound_name": "Dacarbazine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.22407230667750636,
     "CbGbCtD": 0.0577669141034844,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.026980339680852207,
     "CtDrD": 0.6740994071754098
   },
+  "n_trials": 2.0,
   "prediction": 0.0067051729744828795,
   "status": 0,
   "training_prediction": 0.0820071292970282

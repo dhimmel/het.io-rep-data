@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.28283485045513695,
   "metapath_contribution": {
     "CbGaD": 0.7745842784198385,
     "CbGeAlD": 0.026930792218009605,
     "CbGpPWpGaD": 0.1817802845090163,
     "CrCbGaD": 0.016704644853135723
   },
+  "n_trials": 0.0,
   "prediction": 0.00115861138702373,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

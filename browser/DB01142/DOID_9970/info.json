@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.1990292983744142,
     "CbGbCtD": 0.3656096857742629,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0019513345124549156,
     "CrCrCtD": 0.2383934096976373
   },
+  "n_trials": 0.0,
   "prediction": 0.007504612403691009,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

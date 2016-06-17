@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00728",
   "compound_name": "Rocuronium",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.399219765929779,
   "metapath_contribution": {
     "CbGbCtD": 0.6561318495310103,
     "CbGeAlD": 0.04679716495406942,
     "CbGpPWpGaD": 0.10314389850004521,
     "CcSEcCtD": 0.19392708701487504
   },
+  "n_trials": 1.0,
   "prediction": 0.0030454213609473,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

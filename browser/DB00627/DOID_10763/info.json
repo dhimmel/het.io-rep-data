@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.5091027308192461,
   "metapath_contribution": {
     "CbGbCtD": 0.4172167764823178,
     "CbGeAlD": 0.07137577079495494,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2943522834503516,
     "CrCbGaD": 0.006425846467697543
   },
+  "n_trials": 1.0,
   "prediction": 0.00407067824448024,
   "status": 0,
   "training_prediction": 0.0750558388429425

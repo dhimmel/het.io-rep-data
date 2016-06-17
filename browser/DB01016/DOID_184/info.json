@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.776332899869961,
   "metapath_contribution": {
     "CbGaD": 0.25528347993548445,
     "CbGbCtD": 0.6234965295958412,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.055986711748267415,
     "CrCbGaD": 0.0016125248187145533
   },
+  "n_trials": 0.0,
   "prediction": 0.00227980808720955,
   "status": 0,
   "training_prediction": 0.00541232819140394

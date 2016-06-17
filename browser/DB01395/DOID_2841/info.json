@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01395",
   "compound_name": "Drospirenone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGaD": 0.09091169019746571,
     "CbGbCtD": 0.2817238205323066,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2714792364092166,
     "CrCtD": 0.27639086303636107
   },
+  "n_trials": 0.0,
   "prediction": 0.00894528066858826,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

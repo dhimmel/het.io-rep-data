@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.099479843953186,
   "metapath_contribution": {
     "CbGbCtD": 0.00679104439606575,
     "CbGeAlD": 0.1342068230227426,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5220482026926845,
     "CrCbGaD": 0.02136203414688284
   },
+  "n_trials": 0.0,
   "prediction": 0.0010689258149323,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

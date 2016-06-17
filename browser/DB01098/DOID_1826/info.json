@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.3596379201706275,
     "CbGbCtD": 0.41078243170978074,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1325302489854687,
     "CrCbGaD": 0.0021443713782445775
   },
+  "n_trials": 0.0,
   "prediction": 0.00430317892808431,
   "status": 0,
   "training_prediction": 0.0342272988495061

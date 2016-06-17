@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGbCtD": 0.5537336856819316,
     "CbGeAlD": 0.019638484532892266,
     "CcSEcCtD": 0.0644899207871355,
     "CrCrCtD": 0.36213790899804066
   },
+  "n_trials": 0.0,
   "prediction": 0.0030827105652373,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

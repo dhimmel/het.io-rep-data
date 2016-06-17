@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGbCtD": 0.13243836354993943,
     "CcSEcCtD": 0.05953553088175342,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.23688994839857835,
     "CrCtD": 0.3813132527544978
   },
+  "n_trials": 0.0,
   "prediction": 0.0145326121726425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.799290323087506,
     "CbGeAlD": 0.0392704022141102,
     "CbGpPWpGaD": 0.15351289239067997,
     "CrCbGaD": 0.007926382307703709
   },
+  "n_trials": 0.0,
   "prediction": 0.00424307539484361,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06212",
   "compound_name": "Tolvaptan",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.42617353418298387,
     "CbGbCtD": 0.29418068801471636,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11987404708560702,
     "CrCbGaD": 0.0004980929186161544
   },
+  "n_trials": 0.0,
   "prediction": 0.00269611236947465,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

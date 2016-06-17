@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00701",
   "compound_name": "Amprenavir",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.14929431321030875,
     "CbGbCtD": 0.28483741115647704,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0633251616038098,
     "CiPCiCtD": 0.48434933124136
   },
+  "n_trials": 0.0,
   "prediction": 0.0176646385071646,
   "status": 0,
   "training_prediction": 0.0811256691192722

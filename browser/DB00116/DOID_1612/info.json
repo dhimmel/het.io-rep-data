@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.25695931767330066,
     "CbGbCtD": 0.13839428449242108,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19780612985923468,
     "CrCtD": 0.3002548996667003
   },
+  "n_trials": 0.0,
   "prediction": 0.0192121594281955,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

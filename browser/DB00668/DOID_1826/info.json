@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.341352405721716,
   "metapath_contribution": {
     "CbGaD": 0.32052397961635537,
     "CbGbCtD": 0.35254113542225446,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1604831805814654,
     "CrCbGaD": 0.002824582477547861
   },
+  "n_trials": 0.0,
   "prediction": 0.00235628344941286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

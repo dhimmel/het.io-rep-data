@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04896",
   "compound_name": "Milnacipran",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8296488946684009,
   "metapath_contribution": {
     "CbGaD": 0.4996540959811066,
     "CbGbCtD": 0.337270372303444,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13627489618834138,
     "CrCbGaD": 0.0023707710772445096
   },
+  "n_trials": 2.0,
   "prediction": 0.005475069205163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

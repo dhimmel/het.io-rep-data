@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGbCtD": 0.3505261829160358,
     "CbGeAlD": 0.02168706411869584,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0003538313656651866,
     "CtDrD": 0.6180572043957799
   },
+  "n_trials": 0.0,
   "prediction": 0.00334025437718259,
   "status": 0,
   "training_prediction": 0.0025134688975218603

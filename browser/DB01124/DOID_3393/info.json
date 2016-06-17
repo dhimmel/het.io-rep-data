@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01124",
   "compound_name": "Tolbutamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.08730669822434976,
     "CbGbCtD": 0.3737296963977132,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0018339440656738278,
     "CtDrD": 0.44213826653176125
   },
+  "n_trials": 0.0,
   "prediction": 0.00643543488212515,
   "status": 0,
   "training_prediction": 0.0337569334071098

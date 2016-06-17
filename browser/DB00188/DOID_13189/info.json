@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.7009102730819251,
   "metapath_contribution": {
     "CbGbCtD": 0.6238485969752285,
     "CbGdCrCtD": 0.00683088258474173,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.29703176372661305,
     "CrCbGaD": 0.006550298285022916
   },
+  "n_trials": 0.0,
   "prediction": 0.00297180965323249,
   "status": 0,
   "training_prediction": 0.00653736494341623

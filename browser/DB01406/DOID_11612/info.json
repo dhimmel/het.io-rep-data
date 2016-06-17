@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGaD": 0.7564854351887315,
     "CbGeAlD": 0.11092307528122046,
     "CbGpPWpGaD": 0.12480112040523929,
     "CrCbGaD": 0.00779036912480876
   },
+  "n_trials": 0.0,
   "prediction": 0.00131997829464546,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

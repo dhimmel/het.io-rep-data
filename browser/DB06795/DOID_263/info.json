@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06795",
   "compound_name": "Mafenide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8042912873862159,
   "metapath_contribution": {
     "CbGaD": 0.8221577283467694,
     "CbGeAlD": 0.020783405368847305,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06847173057080062,
     "CrCbGaD": 0.002975138585111162
   },
+  "n_trials": 0.0,
   "prediction": 0.00317620613650878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

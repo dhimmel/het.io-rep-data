@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06209",
   "compound_name": "Prasugrel",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.44083224967490203,
   "metapath_contribution": {
     "CbGaD": 0.2070900415452144,
     "CbGbCtD": 0.5399789215035472,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06068795938204023,
     "CcSEcCtD": 0.17293831935528642
   },
+  "n_trials": 0.0,
   "prediction": 0.00223324532668945,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00503",
   "compound_name": "Ritonavir",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.18118785841895213,
     "CbGbCtD": 0.23721592778925382,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.4668261373657762,
     "CrCbGaD": 0.000683925079808207
   },
+  "n_trials": 0.0,
   "prediction": 0.0257686958018291,
   "status": 0,
   "training_prediction": 0.11493744090983801

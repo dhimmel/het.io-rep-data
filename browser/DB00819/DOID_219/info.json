@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00819",
   "compound_name": "Acetazolamide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.7469309342545396,
     "CbGeAlD": 0.057551807693235126,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05317787931037269,
     "CrCbGaD": 0.006754642644121527
   },
+  "n_trials": 0.0,
   "prediction": 0.00417668701821685,
   "status": 0,
   "training_prediction": 0.0098897366909713

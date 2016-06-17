@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01124",
   "compound_name": "Tolbutamide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.24476305496636283,
     "CbGbCtD": 0.30407740857429905,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002327951303641955,
     "CtDrD": 0.31840609988386875
   },
+  "n_trials": 0.0,
   "prediction": 0.0157820073040458,
   "status": 0,
   "training_prediction": 0.160938530229078

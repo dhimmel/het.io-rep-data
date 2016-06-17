@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00171",
   "compound_name": "Adenosine triphosphate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.6617306780719082,
     "CbGbCtD": 0.08334478658867721,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.16950494943039396,
     "CrCbGaD": 0.00265732926196576
   },
+  "n_trials": 0.0,
   "prediction": 0.0026944282407996897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

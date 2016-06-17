@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00379",
   "compound_name": "Mexiletine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.2726693277877692,
     "CbGbCtD": 0.4323437887633582,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08062863797681508,
     "CcSEcCtD": 0.19322347480065222
   },
+  "n_trials": 0.0,
   "prediction": 0.00447464266547654,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGbCtD": 0.1341664383663454,
     "CbGeAlD": 0.00852501324211805,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2103635731230197,
     "CtDrD": 0.16008339712648031
   },
+  "n_trials": 0.0,
   "prediction": 0.19763875007036802,
   "status": 0,
   "training_prediction": 0.23022383863524698

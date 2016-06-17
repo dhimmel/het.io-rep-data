@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01020",
   "compound_name": "Isosorbide Mononitrate",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.349804941482445,
   "metapath_contribution": {
     "CbGbCtD": 0.43797404038849147,
     "CbGeAlD": 0.04388212367956273,
     "CbGpPWpGaD": 0.08449390253592355,
     "CcSEcCtD": 0.43364993339602237
   },
+  "n_trials": 0.0,
   "prediction": 0.0017309438871518,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

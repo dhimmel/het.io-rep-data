@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01220",
   "compound_name": "Rifaximin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.8887941550039758,
     "CbGpPWpGaD": 0.061359418874414165,
     "CcSEcCtD": 0.04670490827888574,
     "CrCbGaD": 0.003141517842724196
   },
+  "n_trials": 1.0,
   "prediction": 0.00308141341206504,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

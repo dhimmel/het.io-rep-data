@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGbCtD": 0.1156677052019296,
     "CbGeAlD": 0.04646878656293537,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.6996686118377923,
     "CrCbGaD": 0.004953250210740229
   },
+  "n_trials": 0.0,
   "prediction": 0.00473241404345676,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

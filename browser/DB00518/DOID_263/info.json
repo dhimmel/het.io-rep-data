@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.773081924577373,
   "metapath_contribution": {
     "CbGaD": 0.3209048903376443,
     "CbGbCtD": 0.550431714146325,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.07847129707387693,
     "CrCbGaD": 0.0014774965649513997
   },
+  "n_trials": 0.0,
   "prediction": 0.00290435717009738,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

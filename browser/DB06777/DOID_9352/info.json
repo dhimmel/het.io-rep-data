@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06777",
   "compound_name": "Chenodeoxycholic acid",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.774382314694408,
   "metapath_contribution": {
     "CbGaD": 0.25057331120011583,
     "CbGbCtD": 0.354316305456988,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.234848622773367,
     "CrCbGaD": 0.00409125724984383
   },
+  "n_trials": 1.0,
   "prediction": 0.0048367833119459,
   "status": 0,
   "training_prediction": 0.0210414113010683

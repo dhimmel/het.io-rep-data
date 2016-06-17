@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7347204161248371,
   "metapath_contribution": {
     "CbGaD": 0.316836544634241,
     "CbGbCtD": 0.38078462322384676,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2027389045183776,
     "CrCbGaD": 0.003972559478671446
   },
+  "n_trials": 0.0,
   "prediction": 0.0042197053583866205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

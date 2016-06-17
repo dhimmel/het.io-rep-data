@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00968",
   "compound_name": "Methyldopa",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.19882792261063761,
     "CbGbCtD": 0.1600344894979168,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.16367357254294837,
     "CtDrD": 0.37631693209800726
   },
+  "n_trials": 0.0,
   "prediction": 0.0102446169613945,
   "status": 0,
   "training_prediction": 0.0259021516821137

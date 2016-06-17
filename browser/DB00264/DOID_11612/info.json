@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00264",
   "compound_name": "Metoprolol",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.695058517555267,
   "metapath_contribution": {
     "CbGaD": 0.6116552821645544,
     "CbGbCtD": 0.21138314677109593,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.057882567805575005,
     "CrCbGaD": 0.009638404076749126
   },
+  "n_trials": 0.0,
   "prediction": 0.00183561518141969,
   "status": 0,
   "training_prediction": 0.000827714071086362

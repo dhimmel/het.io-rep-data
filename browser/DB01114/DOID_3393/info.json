@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.0786736020806242,
   "metapath_contribution": {
     "CbGbCtD": 0.6836230487148753,
     "CbGpPWpGaD": 0.10280424823448191,
     "CcSEcCtD": 0.21131087197825546,
     "CrCbGaD": 0.0022618310723872682
   },
+  "n_trials": 0.0,
   "prediction": 0.000833892356505305,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

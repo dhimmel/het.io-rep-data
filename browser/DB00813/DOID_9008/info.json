@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.79778933680104,
   "metapath_contribution": {
     "CbGbCtD": 0.21752751934802206,
     "CcSEcCtD": 0.11894630590798284,
     "CpDpCtD": 0.6620477709696695,
     "CrCbGaD": 0.0014784037743255272
   },
+  "n_trials": 0.0,
   "prediction": 0.00245933600144993,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

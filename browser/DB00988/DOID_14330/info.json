@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGaD": 0.7606135209378994,
     "CbGeAlD": 0.09401582536981473,
     "CbGpPWpGaD": 0.13940199220369864,
     "CrCbGaD": 0.005968661488587287
   },
+  "n_trials": 149.0,
   "prediction": 0.00203871912862163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

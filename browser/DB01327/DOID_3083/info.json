@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.266579973992198,
   "metapath_contribution": {
     "CbGaD": 0.7432593973143833,
     "CbGpPWpGaD": 0.04079431658653784,
     "CcSEcCtD": 0.20800267344547324,
     "CrCbGaD": 0.007943612653605627
   },
+  "n_trials": 0.0,
   "prediction": 0.00152041249433656,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

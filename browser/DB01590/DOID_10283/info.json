@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.0721716514954486,
   "metapath_contribution": {
     "CbGaD": 0.21938513983754257,
     "CbGbCtD": 0.32866115768657467,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2570424978420908,
     "CrCbGaD": 0.005669865814864664
   },
+  "n_trials": 0.0,
   "prediction": 0.0008020250611587111,
   "status": 0,
   "training_prediction": 0.00340601020618494

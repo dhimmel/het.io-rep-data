@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00704",
   "compound_name": "Naltrexone",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.43433029908972703,
   "metapath_contribution": {
     "CbGaD": 0.6671057662623124,
     "CbGeAlD": 0.13217565279177104,
     "CbGpPWpGaD": 0.19060386559067702,
     "CrCbGaD": 0.010114715355239423
   },
+  "n_trials": 5.0,
   "prediction": 0.00142061079447488,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

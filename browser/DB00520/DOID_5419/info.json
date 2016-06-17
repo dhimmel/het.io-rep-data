@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00520",
   "compound_name": "Caspofungin",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.628088426527958,
   "metapath_contribution": {
     "CbGaD": 0.7560652362186681,
     "CbGeAlD": 0.02637852039971749,
     "CbGpPWpGaD": 0.20254938271428272,
     "CrCbGaD": 0.015006860667331735
   },
+  "n_trials": 0.0,
   "prediction": 0.0018765929051471,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

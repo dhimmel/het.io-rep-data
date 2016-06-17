@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.213235294117647,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.7210663198959691,
   "metapath_contribution": {
     "CbGaD": 0.6698187439902942,
     "CbGeAlD": 0.12977894228509343,
     "CbGpPWpGaD": 0.19616686306327996,
     "CrCbGaD": 0.004235450661332421
   },
+  "n_trials": 0.0,
   "prediction": 0.00189989181657255,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

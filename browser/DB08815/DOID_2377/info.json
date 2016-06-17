@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08815",
   "compound_name": "Lurasidone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGbCtD": 0.28208947902157255,
     "CbGeAlD": 0.2210844321945953,
     "CbGpPWpGaD": 0.11515243696843212,
     "CcSEcCtD": 0.38167365181540014
   },
+  "n_trials": 0.0,
   "prediction": 0.0028772451384402897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

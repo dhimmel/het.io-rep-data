@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00682",
   "compound_name": "Warfarin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.641742522756827,
   "metapath_contribution": {
     "CbGaD": 0.09659038947318394,
     "CbGbCtD": 0.3803690315641549,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0029550377098390072,
     "CrCrCtD": 0.4262625619450781
   },
+  "n_trials": 0.0,
   "prediction": 0.00330205219846002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

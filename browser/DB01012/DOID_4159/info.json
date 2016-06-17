@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.451885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.785559820874706,
     "CbGeAlD": 0.011791539850238132,
     "CcSEcCtD": 0.20164197250308796,
     "CrCbGaD": 0.0010066667719678315
   },
+  "n_trials": 0.0,
   "prediction": 0.00159635925308365,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

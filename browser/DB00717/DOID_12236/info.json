@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.286085825747724,
   "metapath_contribution": {
     "CbGaD": 0.5461384362568963,
     "CbGbCtD": 0.23850935221732047,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18244655898033574,
     "CrCbGaD": 0.003888531888752807
   },
+  "n_trials": 0.0,
   "prediction": 0.00120112592790646,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

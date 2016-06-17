@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.4661898569570871,
   "metapath_contribution": {
     "CbGbCtD": 0.03592051616167778,
     "CbGeAlD": 0.013451926100268893,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.004180918985754704,
     "CtDrD": 0.8432881874454654
   },
+  "n_trials": 7.0,
   "prediction": 0.00134832787228293,
   "status": 0,
   "training_prediction": 0.0028258398654610103

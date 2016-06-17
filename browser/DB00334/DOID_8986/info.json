@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.5554373191029227,
     "CbGeAlD": 0.15183705977584427,
     "CbGpPWpGaD": 0.28771849891743617,
     "CrCbGaD": 0.005007122203796846
   },
+  "n_trials": 0.0,
   "prediction": 0.0021502758552805,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01586",
   "compound_name": "Ursodeoxycholic acid",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGbCtD": 0.579624674327977,
     "CbGeAlD": 0.03599884912900758,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2825891227346101,
     "CrCbGaD": 0.00066232579840365
   },
+  "n_trials": 0.0,
   "prediction": 0.00315858037984944,
   "status": 0,
   "training_prediction": 0.0280387842324934

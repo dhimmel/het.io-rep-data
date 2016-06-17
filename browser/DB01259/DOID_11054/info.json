@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.5693823117223038,
     "CbGbCtD": 0.1422638816844893,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11661718376836833,
     "CrCbGaD": 0.0011041012936352272
   },
+  "n_trials": 5.0,
   "prediction": 0.0037374482414444603,
   "status": 0,
   "training_prediction": 0.00954555734203877

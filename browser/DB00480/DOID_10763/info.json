@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.46944083224967503,
   "metapath_contribution": {
     "CbGaD": 0.14714518606206978,
     "CbGbCtD": 0.39754589437094634,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2623626205732031,
     "CrCbGaD": 0.0038117898588741015
   },
+  "n_trials": 0.0,
   "prediction": 0.0036040174832535398,
   "status": 0,
   "training_prediction": 0.0414720052839241

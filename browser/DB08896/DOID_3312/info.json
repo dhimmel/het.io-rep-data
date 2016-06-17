@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08896",
   "compound_name": "Regorafenib",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.654746423927178,
   "metapath_contribution": {
     "CbGaD": 0.7221966102717183,
     "CbGeAlD": 0.10775138366117987,
     "CbGpPWpGaD": 0.1681566171390972,
     "CrCbGaD": 0.0018953889280045916
   },
+  "n_trials": 0.0,
   "prediction": 0.00172611283599616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

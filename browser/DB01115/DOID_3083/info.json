@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.687906371911573,
   "metapath_contribution": {
     "CbGaD": 0.3739917115533342,
     "CbGbCtD": 0.38840688857599664,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14484198541167842,
     "CrCbGaD": 0.001907955221137132
   },
+  "n_trials": 0.0,
   "prediction": 0.00293966549957361,
   "status": 0,
   "training_prediction": 0.00646690461951395

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.639141742522757,
   "metapath_contribution": {
     "CbGaD": 0.32616100025377526,
     "CbGbCtD": 0.5885686412270996,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.028188505830180503,
     "CrCbGaD": 0.004602146167562409
   },
+  "n_trials": 0.0,
   "prediction": 0.00230405018600286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

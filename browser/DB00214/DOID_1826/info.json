@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00214",
   "compound_name": "Torasemide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGaD": 0.2384605041878208,
     "CbGbCtD": 0.5479495616352812,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.057793654089367034,
     "CcSEcCtD": 0.1535434780123337
   },
+  "n_trials": 0.0,
   "prediction": 0.006280248555433771,
   "status": 0,
   "training_prediction": 0.0300953331339277

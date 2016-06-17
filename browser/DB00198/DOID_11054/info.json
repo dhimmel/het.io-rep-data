@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00198",
   "compound_name": "Oseltamivir",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGbCtD": 0.4832577349095793,
     "CbGeAlD": 0.14483789562513172,
     "CbGpPWpGaD": 0.0680357691037493,
     "CcSEcCtD": 0.3038686003615397
   },
+  "n_trials": 0.0,
   "prediction": 0.00321177060534151,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

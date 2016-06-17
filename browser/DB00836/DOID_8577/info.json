@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.708712613784135,
   "metapath_contribution": {
     "CbGaD": 0.5731293930732633,
     "CbGbCtD": 0.2789844225461515,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05137401850725445,
     "CrCbGaD": 0.00038758772972943676
   },
+  "n_trials": 1.0,
   "prediction": 0.00284938680362435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

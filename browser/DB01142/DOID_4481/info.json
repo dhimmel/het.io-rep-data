@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGbCtD": 0.2488767911617519,
     "CbGeAlD": 0.007714962455247097,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2544704446435482,
     "CrCtD": 0.41058542246869634
   },
+  "n_trials": 0.0,
   "prediction": 0.0226836678789467,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

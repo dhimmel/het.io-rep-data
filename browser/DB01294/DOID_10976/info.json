@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.9033687500787326,
     "CbGpPWpGaD": 0.09663124992126736
   },
+  "n_trials": 0.0,
   "prediction": 0.00335692730317732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

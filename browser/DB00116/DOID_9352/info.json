@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.5442132639791939,
   "metapath_contribution": {
     "CbGaD": 0.6712661551892906,
     "CbGdCrCtD": 0.0026868425290636224,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.20889448010725628,
     "CrCbGaD": 0.002871935228499882
   },
+  "n_trials": 0.0,
   "prediction": 0.00267827174507331,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

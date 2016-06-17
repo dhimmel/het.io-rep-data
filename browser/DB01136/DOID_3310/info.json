@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.5269840829129525,
     "CbGbCtD": 0.2583224661527468,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.064627659467574,
     "CcSEcCtD": 0.11910978844681991
   },
+  "n_trials": 0.0,
   "prediction": 0.00456711736906735,
   "status": 0,
   "training_prediction": 0.0154943785155969

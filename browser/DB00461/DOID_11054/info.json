@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.5106142632857228,
     "CbGbCtD": 0.34462260109238474,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09347017071464792,
     "CrCbGaD": 0.00424856031067484
   },
+  "n_trials": 0.0,
   "prediction": 0.00335427041502765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.22098355270304737,
     "CbGbCtD": 0.6992694722908877,
     "CbGpPWpGaD": 0.07703811421824991,
     "CrCbGaD": 0.002708860787814994
   },
+  "n_trials": 0.0,
   "prediction": 0.0025154566990784897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

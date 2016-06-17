@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGbCtD": 0.35072700995790307,
     "CbGdCrCtD": 0.0004897955436630128,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14291605026447135,
     "CpDpCtD": 0.5018858756437005
   },
+  "n_trials": 0.0,
   "prediction": 0.00713287906575231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00535",
   "compound_name": "Cefdinir",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
     "CbGaD": 0.24650467867551204,
     "CbGbCtD": 0.5267602914029019,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14779126325647424,
     "CrCbGaD": 0.0008090588184001371
   },
+  "n_trials": 0.0,
   "prediction": 0.00405639744930958,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

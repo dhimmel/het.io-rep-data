@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00974",
   "compound_name": "Edetic Acid",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.7583611010061216,
     "CbGbCtD": 0.020716904274420578,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.025635608755325737,
     "CcSEcCtD": 0.11355203627032613
   },
+  "n_trials": 0.0,
   "prediction": 0.0042346619604026105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

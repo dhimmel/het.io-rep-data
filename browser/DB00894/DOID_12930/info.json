@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00894",
   "compound_name": "Testolactone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CrCbGaD": 0.0023301050298963734,
     "CrCrCtD": 0.3486670548929631,
     "CrCtD": 0.6490028400771405
   },
+  "n_trials": 0.0,
   "prediction": 0.0042230135310355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

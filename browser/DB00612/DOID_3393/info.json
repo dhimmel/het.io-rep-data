@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00612",
   "compound_name": "Bisoprolol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGaD": 0.2713955861554128,
     "CbGbCtD": 0.30297114834776595,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0028883805575766093,
     "CrCrCtD": 0.2564780961200774
   },
+  "n_trials": 2.0,
   "prediction": 0.00537581404506939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

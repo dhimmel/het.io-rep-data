@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.46944083224967503,
   "metapath_contribution": {
     "CbGaD": 0.34075828678655823,
     "CbGbCtD": 0.5142797259947447,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.0699759875570919,
     "CrCbGaD": 2.4486235506140657e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00169516867180606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

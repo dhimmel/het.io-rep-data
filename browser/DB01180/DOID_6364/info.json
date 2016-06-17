@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGaD": 0.7866155513622264,
     "CbGeAlD": 0.048658238943216074,
     "CcSEcCtD": 0.15678501905452918,
     "CrCbGaD": 0.007941190640028373
   },
+  "n_trials": 0.0,
   "prediction": 0.00280935938924567,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

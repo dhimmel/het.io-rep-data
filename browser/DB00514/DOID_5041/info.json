@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.234720416124837,
   "metapath_contribution": {
     "CbGaD": 0.47100416302034237,
     "CbGbCtD": 0.10514135462371871,
     "CbGeAlD": 0.1138524702446959,
     "CbGpPWpGaD": 0.31000201211124306
   },
+  "n_trials": 0.0,
   "prediction": 0.00095429202277001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

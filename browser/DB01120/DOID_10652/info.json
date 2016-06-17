@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.4930305384760534,
     "CbGbCtD": 0.15161050986125077,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2569426696784777,
     "CrCbGaD": 0.002400897739120673
   },
+  "n_trials": 0.0,
   "prediction": 0.00291151128407244,
   "status": 0,
   "training_prediction": 0.0035329006134466297

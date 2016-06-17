@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01576",
   "compound_name": "Dextroamphetamine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.22431729518855703,
   "metapath_contribution": {
     "CbGbCtD": 0.4973140812346789,
     "CbGeAlD": 0.007745715362709927,
     "CcSEcCtD": 0.3440589161983468,
     "CrCrCtD": 0.15088128720426436
   },
+  "n_trials": 0.0,
   "prediction": 0.00161759042064358,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

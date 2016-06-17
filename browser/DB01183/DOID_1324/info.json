@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6137841352405721,
   "metapath_contribution": {
     "CbGaD": 0.2951929996175759,
     "CbGbCtD": 0.4096779634560183,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09587730868132312,
     "CrCbGaD": 0.003057302696303831
   },
+  "n_trials": 0.0,
   "prediction": 0.00221407653341116,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

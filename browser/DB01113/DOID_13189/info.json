@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01113",
   "compound_name": "Papaverine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
-    "CcSEcCtD": 0.05250277894469995,
-    "CrCbGaD": 0.0013017005720255648,
-    "CrCrCtD": 0.9461955204832746
+    "CcSEcCtD": 0.05250277894469994,
+    "CrCbGaD": 0.0013017005720255645,
+    "CrCrCtD": 0.9461955204832744
   },
+  "n_trials": 0.0,
   "prediction": 0.00361235461641661,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00674",
   "compound_name": "Galantamine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.6163222044354293,
     "CbGeAlD": 0.1473891416799823,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14027506927988934,
     "CrCbGaD": 0.006898376043559481
   },
+  "n_trials": 0.0,
   "prediction": 0.00264618749732703,
   "status": 0,
   "training_prediction": 0.0019521955890134698

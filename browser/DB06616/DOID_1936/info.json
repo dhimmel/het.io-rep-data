@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06616",
   "compound_name": "Bosutinib",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.384265279583875,
   "metapath_contribution": {
     "CbGaD": 0.4508878060985965,
     "CbGbCtD": 0.03295008571974497,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12484444585665802,
     "CrCbGaD": 0.0021667046591883885
   },
+  "n_trials": 0.0,
   "prediction": 0.0015248526455312599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGbCtD": 0.6265533446145781,
     "CbGeAlD": 0.11976855035709648,
     "CcSEcCtD": 0.2536781050283255
   },
+  "n_trials": 0.0,
   "prediction": 0.00218616571408389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

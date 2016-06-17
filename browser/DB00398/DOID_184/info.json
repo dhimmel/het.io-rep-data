@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.2839591370422676,
     "CbGbCtD": 0.16332189996138538,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.003209789516658812,
     "CtDrD": 0.43860123209456103
   },
+  "n_trials": 4.0,
   "prediction": 0.0149917064610306,
   "status": 0,
   "training_prediction": 0.0470362491150093

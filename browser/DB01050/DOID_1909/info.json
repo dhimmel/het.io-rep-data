@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGaD": 0.4572547362562794,
     "CbGbCtD": 0.30798368556759037,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07917001020666418,
     "CrCbGaD": 0.0022542684968893324
   },
+  "n_trials": 1.0,
   "prediction": 0.00242569255326549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

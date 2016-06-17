@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.516905071521456,
   "metapath_contribution": {
     "CbGaD": 0.21202121107486874,
     "CbGbCtD": 0.32071726660797245,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2394828466536622,
     "CcSEcCtD": 0.12173842060670653
   },
+  "n_trials": 2.0,
   "prediction": 0.0019133530759784,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

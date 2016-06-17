@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGbCtD": 0.10257925744405269,
     "CbGeAlD": 0.013174324718655794,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.5560948375548848,
     "CpDpCtD": 0.3137817966999462
   },
+  "n_trials": 0.0,
   "prediction": 0.0194374130689442,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

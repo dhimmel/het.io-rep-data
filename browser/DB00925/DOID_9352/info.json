@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6716514954486351,
   "metapath_contribution": {
     "CbGaD": 0.3801143061172736,
     "CbGbCtD": 0.3085277437940955,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0026383965735168754,
     "CrCrCtD": 0.14408747894973467
   },
+  "n_trials": 0.0,
   "prediction": 0.0035419437821459297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

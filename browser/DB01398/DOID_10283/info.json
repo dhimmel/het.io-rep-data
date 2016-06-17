@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.456436931079324,
   "metapath_contribution": {
     "CbGaD": 0.41674080860497936,
     "CbGbCtD": 0.08185408041533913,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3647149926378345,
     "CrCbGaD": 0.0044709091501969325
   },
+  "n_trials": 0.0,
   "prediction": 0.00213390103322861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

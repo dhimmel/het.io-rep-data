@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.702860858257477,
   "metapath_contribution": {
     "CbGaD": 0.7660131072416715,
     "CbGeAlD": 0.1836116067106958,
     "CbGpPWpGaD": 0.049384345596980475,
     "CrCbGaD": 0.0009909404506522341
   },
+  "n_trials": 1.0,
   "prediction": 0.00155571807634811,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

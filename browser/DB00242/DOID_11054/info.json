@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.28083515621405614,
     "CbGbCtD": 0.34739801949236476,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.002621745811040253,
     "CrCrCtD": 0.18351066439631913
   },
+  "n_trials": 0.0,
   "prediction": 0.00677040982174106,
   "status": 0,
   "training_prediction": 0.0283789507372118

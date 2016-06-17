@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01558",
   "compound_name": "Bromazepam",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.6168052812225071,
     "CbGbCtD": 0.28306830847801984,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08927665597423123,
     "CrCbGaD": 0.004999271968796072
   },
+  "n_trials": 0.0,
   "prediction": 0.00457295334661751,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

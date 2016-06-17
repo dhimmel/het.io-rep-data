@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGaD": 0.19963637372215423,
     "CbGbCtD": 0.5310281390438477,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16622197748610185,
     "CrCbGaD": 0.0009942501397310329
   },
+  "n_trials": 3.0,
   "prediction": 0.00478318197390038,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

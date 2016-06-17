@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.23526920747751204,
     "CbGbCtD": 0.16158844659909588,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1863453171207485,
     "CrCtD": 0.2602102756272849
   },
+  "n_trials": 0.0,
   "prediction": 0.0179358656683285,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

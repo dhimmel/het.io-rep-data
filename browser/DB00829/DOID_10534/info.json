@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.308192457737321,
   "metapath_contribution": {
     "CbGaD": 0.13030485035590259,
     "CbGbCtD": 0.5043816662511343,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2485962781355759,
     "CrCbGaD": 0.004546700255292955
   },
+  "n_trials": 0.0,
   "prediction": 0.0011235019323004099,
   "status": 0,
   "training_prediction": 0.00247698054915993

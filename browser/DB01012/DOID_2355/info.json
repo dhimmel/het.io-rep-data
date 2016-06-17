@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGaD": 0.8232365328191107,
     "CbGeAlD": 0.08912635584113972,
     "CbGpPWpGaD": 0.08438417911994796,
     "CrCbGaD": 0.0032529322198017467
   },
+  "n_trials": 0.0,
   "prediction": 0.00113767088080568,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

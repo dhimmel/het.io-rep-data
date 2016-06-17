@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.7581274382314691,
   "metapath_contribution": {
     "CbGbCtD": 0.18901286266445622,
     "CbGeAlD": 0.21387563748716043,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.4011911412816416,
     "CrCbGaD": 0.0035114113321794717
   },
+  "n_trials": 0.0,
   "prediction": 0.00226759397917606,
   "status": 0,
   "training_prediction": 0.00688622769536098

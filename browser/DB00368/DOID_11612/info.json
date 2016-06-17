@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.6264784502735776,
     "CbGbCtD": 0.23387117772225666,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10630928158819558,
     "CrCbGaD": 0.005228401649093778
   },
+  "n_trials": 0.0,
   "prediction": 0.0029309656817598398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

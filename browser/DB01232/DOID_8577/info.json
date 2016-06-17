@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01232",
   "compound_name": "Saquinavir",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7288686605981791,
   "metapath_contribution": {
     "CbGaD": 0.2624166515480645,
     "CbGbCtD": 0.5400407506760314,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15040609658092646,
     "CrCbGaD": 0.002454170027465234
   },
+  "n_trials": 0.0,
   "prediction": 0.0029686012439218397,
   "status": 0,
   "training_prediction": 0.0101101055951023

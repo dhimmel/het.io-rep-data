@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01348",
   "compound_name": "Spirapril",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.5435630689206761,
   "metapath_contribution": {
     "CbGaD": 0.4310284660345456,
     "CbGeAlD": 0.04785826755914719,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0059496154238122675,
     "CrCrCtD": 0.4791282346489503
   },
+  "n_trials": 0.0,
   "prediction": 0.0027119019166770603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

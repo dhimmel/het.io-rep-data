@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01083",
   "compound_name": "Orlistat",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.779583875162549,
   "metapath_contribution": {
     "CbGbCtD": 0.4779784786459197,
     "CbGdCrCtD": 0.005446965658944174,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.150885778484683,
     "CcSEcCtD": 0.21666264651114914
   },
+  "n_trials": 0.0,
   "prediction": 0.00238718850695205,
   "status": 0,
   "training_prediction": 0.010149124489388

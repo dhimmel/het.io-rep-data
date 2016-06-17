@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.413524057217165,
   "metapath_contribution": {
     "CbGaD": 0.9381952279741939,
     "CbGpPWpGaD": 0.05363987082863613,
     "CrCbGaD": 0.008164901197169937
   },
+  "n_trials": 0.0,
   "prediction": 0.00116815717256235,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

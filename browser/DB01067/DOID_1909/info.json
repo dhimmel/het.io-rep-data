@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.3485045513654099,
   "metapath_contribution": {
     "CbGaD": 0.6815432727257739,
     "CbGbCtD": 0.07631516624664082,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11646093515312976,
     "CrCbGaD": 0.006004092388457136
   },
+  "n_trials": 0.0,
   "prediction": 0.00115092733387661,
   "status": 0,
   "training_prediction": 0.0021032751109102

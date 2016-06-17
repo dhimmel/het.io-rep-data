@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.539661898569571,
   "metapath_contribution": {
     "CbGaD": 0.6772852075375082,
     "CbGdCrCtD": 0.00397425625653073,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.17932938285155944,
     "CrCbGaD": 0.003057605782362247
   },
+  "n_trials": 0.0,
   "prediction": 0.00200446825078743,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

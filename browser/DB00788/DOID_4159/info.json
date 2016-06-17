@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.6326397919375811,
   "metapath_contribution": {
     "CbGaD": 0.3340041444320154,
     "CbGbCtD": 0.4713804565632078,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18162674422090802,
     "CrCbGaD": 0.0036763846350018493
   },
+  "n_trials": 0.0,
   "prediction": 0.00203047518841735,
   "status": 0,
   "training_prediction": 0.00447168974199837

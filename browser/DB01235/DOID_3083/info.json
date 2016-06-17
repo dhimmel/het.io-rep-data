@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.44668400520156,
   "metapath_contribution": {
     "CbGbCtD": 0.058579344183730286,
     "CbGdCrCtD": 0.0016462974913544826,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.004772280937322454,
     "CrCrCtD": 0.7209227979451905
   },
+  "n_trials": 0.0,
   "prediction": 0.0019944415709831397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

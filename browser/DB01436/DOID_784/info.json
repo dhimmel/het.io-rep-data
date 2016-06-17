@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01436",
   "compound_name": "Alfacalcidol",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.341352405721716,
   "metapath_contribution": {
-    "CbGeAlD": 0.32561125908295524,
-    "CbGpPWpGaD": 0.6573832463599033,
+    "CbGeAlD": 0.3256112590829553,
+    "CbGpPWpGaD": 0.6573832463599034,
     "CrCbGaD": 0.017005494557141367
   },
+  "n_trials": 1.0,
   "prediction": 0.0012579341690196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01160",
   "compound_name": "Dinoprost Tromethamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.45297464160402806,
     "CbGbCtD": 0.392317737856007,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06632625534438882,
     "CrCbGaD": 0.0015753298889156335
   },
+  "n_trials": 0.0,
   "prediction": 0.008678646158591371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

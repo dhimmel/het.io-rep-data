@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.49088404789878776,
     "CbGbCtD": 0.27142673471549705,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05519965883460965,
     "CrCbGaD": 0.0022549831807104482
   },
+  "n_trials": 1.0,
   "prediction": 0.00380726123899235,
   "status": 0,
   "training_prediction": 0.006248718713295171

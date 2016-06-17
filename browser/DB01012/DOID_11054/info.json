@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.284135240572172,
   "metapath_contribution": {
     "CbGbCtD": 0.3045021785390266,
     "CbGeAlD": 0.02972327336566416,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5041768330317793,
     "CrCbGaD": 0.000965752876555147
   },
+  "n_trials": 0.0,
   "prediction": 0.0011044720983325199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

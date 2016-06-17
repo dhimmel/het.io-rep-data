@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01291",
   "compound_name": "Pirbuterol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7925877763329001,
   "metapath_contribution": {
     "CbGbCtD": 0.445973427447825,
     "CbGpPWpGaD": 0.05494790140196463,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.001813054269259391,
     "CrCrCtD": 0.4083417068478469
   },
+  "n_trials": 0.0,
   "prediction": 0.00461510925212893,
   "status": 0,
   "training_prediction": 0.00840979908287

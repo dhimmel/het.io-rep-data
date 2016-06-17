@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.17300909777225454,
     "CbGbCtD": 0.19291458904336092,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.061835423851325386,
     "CiPCiCtD": 0.48810020033542173
   },
+  "n_trials": 0.0,
   "prediction": 0.0104091007364816,
   "status": 0,
   "training_prediction": 0.0226947494209026

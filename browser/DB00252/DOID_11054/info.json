@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.277633289986996,
   "metapath_contribution": {
     "CbGbCtD": 0.6018182512482232,
     "CbGeAlD": 0.03376044754929009,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2515296649633352,
     "CrCbGaD": 0.005492846033413938
   },
+  "n_trials": 0.0,
   "prediction": 0.0011006390183587401,
   "status": 0,
   "training_prediction": 0.00282267560081221

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.30923432094228037,
     "CbGbCtD": 0.4226831698076013,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19172031791126004,
     "CrCbGaD": 0.0016676834204535965
   },
+  "n_trials": 31.0,
   "prediction": 0.0056889612682462605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

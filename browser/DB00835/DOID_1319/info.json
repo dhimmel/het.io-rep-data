@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00835",
   "compound_name": "Brompheniramine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.5266579973992199,
   "metapath_contribution": {
     "CbGaD": 0.6429817227899535,
     "CbGbCtD": 0.280278146937601,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05705260767808177,
     "CrCbGaD": 0.002196488241726084
   },
+  "n_trials": 0.0,
   "prediction": 0.0016099478121699199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

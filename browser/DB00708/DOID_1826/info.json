@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7093628088426529,
   "metapath_contribution": {
     "CbGaD": 0.4949572055911666,
     "CbGbCtD": 0.24682757060924607,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14648537855762692,
     "CrCbGaD": 0.003918567551900712
   },
+  "n_trials": 0.0,
   "prediction": 0.0059208827680238794,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

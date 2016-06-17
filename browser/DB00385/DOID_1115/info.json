@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00385",
   "compound_name": "Valrubicin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGbCtD": 0.20926352267538695,
     "CbGdCrCtD": 0.001421159831995138,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.302010035341641,
     "CrCtD": 0.4710344296308908
   },
+  "n_trials": 0.0,
   "prediction": 0.0131354211569837,
   "status": 0,
   "training_prediction": 0.0261937166287215

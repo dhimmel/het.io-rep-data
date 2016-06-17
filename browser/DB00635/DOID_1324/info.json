@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.3121517937128065,
     "CbGbCtD": 0.42746562867310445,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1626028833735875,
     "CrCbGaD": 0.0032943034772565274
   },
+  "n_trials": 2.0,
   "prediction": 0.000798242364708037,
   "status": 0,
   "training_prediction": 0.0247065845778059

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.09367891967923687,
     "CbGbCtD": 0.1446575831403377,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.16958567942659367,
     "CrCtD": 0.2261907986127598
   },
+  "n_trials": 0.0,
   "prediction": 0.071449947593005,
   "status": 0,
   "training_prediction": 0.165052202724114

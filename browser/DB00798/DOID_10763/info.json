@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00798",
   "compound_name": "Gentamicin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGaD": 0.5069979435482537,
     "CbGbCtD": 0.25173445631576574,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07477223740898561,
     "CcSEcCtD": 0.13500129916243858
   },
+  "n_trials": 0.0,
   "prediction": 0.00803951328070892,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

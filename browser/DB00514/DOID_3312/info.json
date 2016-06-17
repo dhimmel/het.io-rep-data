@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.38296488946684004,
   "metapath_contribution": {
     "CbGaD": 0.6190611490099762,
     "CbGeAlD": 0.16447329339903352,
     "CbGpPWpGaD": 0.2118821638227028,
     "CrCbGaD": 0.004583393768287442
   },
+  "n_trials": 1.0,
   "prediction": 0.00123150545357664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

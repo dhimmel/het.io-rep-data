@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01021",
   "compound_name": "Trichlormethiazide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.20592803012357352,
     "CbGbCtD": 0.27178808577096947,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.17749301337323536,
     "CrCtD": 0.30880039976675633
   },
+  "n_trials": 0.0,
   "prediction": 0.0686705939926729,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

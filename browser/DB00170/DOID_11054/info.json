@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.4287970448686583,
     "CbGbCtD": 0.4200405420375244,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07698082968876649,
     "CrCbGaD": 0.0013151833229178428
   },
+  "n_trials": 0.0,
   "prediction": 0.00488156959858097,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

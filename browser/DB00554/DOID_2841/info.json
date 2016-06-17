@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.774382314694408,
   "metapath_contribution": {
     "CbGaD": 0.2357595409212377,
     "CbGbCtD": 0.35021760233634686,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.375919708182487,
     "CrCbGaD": 0.0014898395894401785
   },
+  "n_trials": 0.0,
   "prediction": 0.00452026445260744,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

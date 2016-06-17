@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00499",
   "compound_name": "Flutamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.48381925830528594,
     "CbGbCtD": 0.29887390663712265,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05202949264624066,
     "CcSEcCtD": 0.12979901029972013
   },
+  "n_trials": 1.0,
   "prediction": 0.00482839963065975,
   "status": 0,
   "training_prediction": 0.0114544039754002

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00434",
   "compound_name": "Cyproheptadine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7093628088426529,
   "metapath_contribution": {
     "CbGaD": 0.10139358797936208,
     "CbGbCtD": 0.33601744533870936,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.3382121483716067,
     "CrCbGaD": 0.003326912929779891
   },
+  "n_trials": 0.0,
   "prediction": 0.0035717701686521397,
   "status": 0,
   "training_prediction": 0.0189677388877422

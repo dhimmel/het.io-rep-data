@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.38036410923277003,
   "metapath_contribution": {
     "CbGaD": 0.6823262505258539,
     "CbGpPWpGaD": 0.02856491690591232,
     "CcSEcCtD": 0.2825250005415902,
     "CrCbGaD": 0.006583832026643535
   },
+  "n_trials": 0.0,
   "prediction": 0.00108950502899385,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

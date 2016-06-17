@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.2052337650757865,
     "CbGbCtD": 0.2085639988751322,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1866312246863223,
     "CrCtD": 0.24469089624705997
   },
+  "n_trials": 4.0,
   "prediction": 0.033534178083843,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

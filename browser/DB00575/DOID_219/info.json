@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.782834850455137,
   "metapath_contribution": {
     "CbGaD": 0.34012900474935687,
     "CbGbCtD": 0.4664980829980935,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15626220548791736,
     "CrCbGaD": 0.0001935776904656934
   },
+  "n_trials": 0.0,
   "prediction": 0.0023355165801381,
   "status": 0,
   "training_prediction": 0.005544156365106571

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01044",
   "compound_name": "Gatifloxacin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6287386215864761,
   "metapath_contribution": {
     "CbGaD": 0.563634807524512,
     "CbGbCtD": 0.283846579999247,
     "CcSEcCtD": 0.15248660051922222,
     "CrCbGaD": 3.2011957018699465e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00175540708532978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.52925877763329,
   "metapath_contribution": {
     "CbGaD": 0.9354180434938433,
     "CbGpPWpGaD": 0.04852396951368365,
     "CcSEcCtD": 0.009272639075857052,
     "CrCbGaD": 0.006785347916615925
   },
+  "n_trials": 0.0,
   "prediction": 0.0015860687862688401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

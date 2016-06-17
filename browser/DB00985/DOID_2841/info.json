@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00985",
   "compound_name": "Dimenhydrinate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGbCtD": 0.1515155540033304,
     "CbGeAlD": 0.002024581131574057,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.21735318255592964,
     "CtDrD": 0.5311075337366122
   },
+  "n_trials": 0.0,
   "prediction": 0.0131182822336428,
   "status": 0,
   "training_prediction": 0.13171906706599398

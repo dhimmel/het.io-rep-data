@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01425",
   "compound_name": "Alizapride",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.22366710013003896,
   "metapath_contribution": {
     "CbGaD": 0.7335167118418826,
     "CbGbCtD": 0.16646605554902497,
     "CbGpPWpGaD": 0.08942646935923397,
     "CrCbGaD": 0.010590763249858503
   },
+  "n_trials": 0.0,
   "prediction": 0.0019729248616514,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

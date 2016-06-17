@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.589726918075423,
   "metapath_contribution": {
     "CbGbCtD": 0.6232516981612336,
     "CbGpPWpGaD": 0.07897597807472641,
     "CcSEcCtD": 0.295375140106247,
     "CrCbGaD": 0.002397183657793022
   },
+  "n_trials": 0.0,
   "prediction": 0.00184547708011042,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

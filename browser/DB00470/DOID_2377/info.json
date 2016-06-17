@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.5183842648163072,
     "CbGbCtD": 0.3600857869138749,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.052986395612032895,
     "CrCbGaD": 0.006036851104469886
   },
+  "n_trials": 8.0,
   "prediction": 0.00600866763231503,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

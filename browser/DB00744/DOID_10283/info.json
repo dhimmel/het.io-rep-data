@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.59297789336801,
   "metapath_contribution": {
     "CbGaD": 0.15438713250694713,
     "CbGbCtD": 0.4663047480223427,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1695889351030924,
     "CcSEcCtD": 0.15908874386842053
   },
+  "n_trials": 0.0,
   "prediction": 0.00270897585662186,
   "status": 0,
   "training_prediction": 0.0114335313534679

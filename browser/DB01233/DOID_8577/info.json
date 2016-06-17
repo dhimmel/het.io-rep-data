@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.772431729518856,
   "metapath_contribution": {
     "CbGbCtD": 0.33131671608329355,
     "CbGeAlD": 0.023323748002402674,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.5734453847552228,
     "CrCbGaD": 0.0031952454997884565
   },
+  "n_trials": 0.0,
   "prediction": 0.00330151278479357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

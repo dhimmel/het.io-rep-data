@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGbCtD": 0.15050244106101607,
     "CcSEcCtD": 0.07173377866153272,
     "CiPCiCtD": 0.7746197734048046,
     "CrCbGaD": 0.0031440068726465756
   },
+  "n_trials": 0.0,
   "prediction": 0.00340145999688997,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

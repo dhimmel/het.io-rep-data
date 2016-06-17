@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.584525357607282,
   "metapath_contribution": {
-    "CbGaD": 0.34643982322224287,
-    "CbGbCtD": 0.40012190248064755,
-    "CbGeAlD": 0.02002762435939127,
-    "CbGpPWpGaD": 0.09166191151568845,
-    "CcSEcCtD": 0.1376458301931278,
-    "CrCbGaD": 0.004102908228902115
+    "CbGaD": 0.3464398232222428,
+    "CbGbCtD": 0.4001219024806475,
+    "CbGeAlD": 0.020027624359391268,
+    "CbGpPWpGaD": 0.09166191151568844,
+    "CcSEcCtD": 0.13764583019312776,
+    "CrCbGaD": 0.004102908228902114
   },
+  "n_trials": 1.0,
   "prediction": 0.00282279893223466,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

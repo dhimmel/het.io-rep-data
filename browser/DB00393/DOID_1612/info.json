@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00393",
   "compound_name": "Nimodipine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.28868660598179496,
   "metapath_contribution": {
     "CbGaD": 0.4353193295040698,
     "CbGbCtD": 0.25035597482768096,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14236787789619995,
     "CrCbGaD": 0.002950583053802245
   },
+  "n_trials": 0.0,
   "prediction": 0.00158719424572221,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

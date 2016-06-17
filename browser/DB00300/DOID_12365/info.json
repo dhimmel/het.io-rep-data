@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.6859557867360211,
   "metapath_contribution": {
     "CbGbCtD": 0.6584999155475691,
     "CbGdCrCtD": 0.0053061348534901185,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.018129449871969783,
     "CcSEcCtD": 0.19711915820434767
   },
+  "n_trials": 0.0,
   "prediction": 0.00269746285231758,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

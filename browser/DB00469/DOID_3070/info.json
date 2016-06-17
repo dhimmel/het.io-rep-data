@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGaD": 0.888944839820379,
     "CbGeAlD": 0.03733166152600954,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03214894831759646,
     "CrCbGaD": 0.00791511383532186
   },
+  "n_trials": 0.0,
   "prediction": 0.00304469453459616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

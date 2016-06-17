@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00990",
   "compound_name": "Exemestane",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.546163849154746,
   "metapath_contribution": {
     "CbGaD": 0.5109995354429082,
     "CbGbCtD": 0.2550528289329665,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17827934687391023,
     "CrCbGaD": 0.006057501030198179
   },
+  "n_trials": 0.0,
   "prediction": 0.0027262935750054,
   "status": 0,
   "training_prediction": 0.00697403720910102

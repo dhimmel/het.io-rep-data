@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3277",
   "disease_name": "thymus cancer",
+  "disease_percentile": 0.667750325097529,
   "metapath_contribution": {
     "CbGaD": 0.6440642904189539,
     "CbGeAlD": 0.13011226704161633,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11821091741722559,
     "CrCbGaD": 0.006397758373200296
   },
+  "n_trials": 0.0,
   "prediction": 0.0016566809203034198,
   "status": 0,
   "training_prediction": 0.000746955659982776

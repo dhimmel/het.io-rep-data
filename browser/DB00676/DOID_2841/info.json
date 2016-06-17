@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00676",
   "compound_name": "Benzyl Benzoate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.0988296488946684,
   "metapath_contribution": {
-    "CcSEcCtD": 0.09259883900120204,
-    "CrCbGaD": 0.0066165957040348125,
-    "CrCrCtD": 0.9007845652947633
+    "CcSEcCtD": 0.09259883900120203,
+    "CrCbGaD": 0.006616595704034812,
+    "CrCrCtD": 0.9007845652947631
   },
+  "n_trials": 0.0,
   "prediction": 0.00114956531987469,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

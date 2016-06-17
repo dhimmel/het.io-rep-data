@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.5904957972834298,
     "CbGbCtD": 0.2087031164267833,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.08721763215349561,
     "CrCbGaD": 0.0055150806257941165
   },
+  "n_trials": 0.0,
   "prediction": 0.00495440241450213,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

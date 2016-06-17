@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.26081673494354674,
     "CbGbCtD": 0.46287813311019016,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1423005103864542,
     "CrCbGaD": 0.0025219847285671247
   },
+  "n_trials": 0.0,
   "prediction": 0.00539097780299515,
   "status": 0,
   "training_prediction": 0.0608874921484117

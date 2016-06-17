@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.25388993283272276,
     "CbGeAlD": 0.037751997181472284,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0009130289323855552,
     "CtDrD": 0.6266262897467143
   },
+  "n_trials": 3.0,
   "prediction": 0.0048260186706804205,
   "status": 0,
   "training_prediction": 0.00494044993632913

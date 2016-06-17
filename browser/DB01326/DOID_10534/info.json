@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01326",
   "compound_name": "Cefamandole",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.293888166449935,
   "metapath_contribution": {
     "CbGbCtD": 0.9435614614615224,
     "CbGeAlD": 0.029923337649010708,
     "CbGpPWpGaD": 0.022648972118904362,
     "CrCbGaD": 0.0038662287705625714
   },
+  "n_trials": 0.0,
   "prediction": 0.00109107735435889,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

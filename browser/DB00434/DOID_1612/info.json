@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00434",
   "compound_name": "Cyproheptadine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.18595578673602103,
   "metapath_contribution": {
     "CbGbCtD": 0.30090241331574274,
     "CbGeAlD": 0.023777165426131175,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.004771875221727946,
     "CrCrCtD": 0.25574842285545757
   },
+  "n_trials": 0.0,
   "prediction": 0.00125689361277114,
   "status": 0,
   "training_prediction": 0.00693762986165922

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.46944083224967503,
   "metapath_contribution": {
     "CbGaD": 0.10609447233550263,
     "CbGbCtD": 0.7488434144168994,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09106417878621324,
     "CrCbGaD": 0.0010601605027702019
   },
+  "n_trials": 0.0,
   "prediction": 0.00173182472146998,
   "status": 0,
   "training_prediction": 0.00838120214857844

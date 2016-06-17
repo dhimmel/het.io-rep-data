@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.0773732119635891,
   "metapath_contribution": {
     "CbGdCrCtD": 0.011031711264653216,
     "CbGeAlD": 0.230079547931258,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4151636432841694,
     "CrCbGaD": 0.016528138974150227
   },
+  "n_trials": 0.0,
   "prediction": 0.000961531037368795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

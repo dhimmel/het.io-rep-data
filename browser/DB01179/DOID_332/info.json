@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.7002600780234071,
   "metapath_contribution": {
-    "CbGaD": 0.925637628064355,
-    "CbGeAlD": 0.012101053145948034,
-    "CbGpPWpGaD": 0.05913613207114235,
-    "CrCbGaD": 0.0031251867185546284
+    "CbGaD": 0.9256376280643549,
+    "CbGeAlD": 0.012101053145948032,
+    "CbGpPWpGaD": 0.05913613207114234,
+    "CrCbGaD": 0.003125186718554628
   },
+  "n_trials": 0.0,
   "prediction": 0.0017370541276579901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

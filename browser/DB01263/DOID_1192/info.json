@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01263",
   "compound_name": "Posaconazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.4250297059189769,
     "CbGbCtD": 0.3287368887527118,
     "CcSEcCtD": 0.2450505456323494,
     "CrCbGaD": 0.0011828596959619425
   },
+  "n_trials": 0.0,
   "prediction": 0.0035384718355741603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

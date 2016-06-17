@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.93427127084279,
     "CbGeAlD": 0.046003690528755165,
     "CbGpPWpGaD": 0.010900704718345262,
     "CrCbGaD": 0.008824333910109613
   },
+  "n_trials": 0.0,
   "prediction": 0.00249499301306243,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

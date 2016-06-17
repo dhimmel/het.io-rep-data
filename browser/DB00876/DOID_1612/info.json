@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00876",
   "compound_name": "Eprosartan",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.694408322496749,
   "metapath_contribution": {
     "CbGaD": 0.4189942438571005,
     "CbGbCtD": 0.3521995745617653,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16677199441975088,
     "CrCbGaD": 0.0026287924252878596
   },
+  "n_trials": 0.0,
   "prediction": 0.0035706035785223,
   "status": 0,
   "training_prediction": 0.0195043134247253

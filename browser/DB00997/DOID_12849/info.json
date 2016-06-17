@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.17647058823529396,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.17880364109232802,
   "metapath_contribution": {
     "CbGaD": 0.7562442240193303,
     "CbGeAlD": 0.1030650807528658,
     "CbGpPWpGaD": 0.13495766992257058,
     "CrCbGaD": 0.005733025305233314
   },
+  "n_trials": 0.0,
   "prediction": 0.0008280879809919669,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.8022874515471813,
     "CbGeAlD": 0.055441562289085894,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.00614591514052075
   },
   "prediction": 0.00244594500227065,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00633",
   "compound_name": "Dexmedetomidine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.3752053390783229,
     "CbGbCtD": 0.3699970898162921,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10523530991335804,
     "CcSEcCtD": 0.11759579587793104
   },
+  "n_trials": 0.0,
   "prediction": 0.00725712934653507,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

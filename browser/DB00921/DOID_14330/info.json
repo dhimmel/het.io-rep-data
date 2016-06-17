@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.61443433029909,
   "metapath_contribution": {
     "CbGaD": 0.7335189692448305,
     "CbGeAlD": 0.055521469785230274,
     "CbGpPWpGaD": 0.20690692599775004,
     "CrCbGaD": 0.004052634972189152
   },
+  "n_trials": 0.0,
   "prediction": 0.00162990057185806,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

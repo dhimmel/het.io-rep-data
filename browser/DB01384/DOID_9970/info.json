@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01384",
   "compound_name": "Paramethasone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0864759427828349,
   "metapath_contribution": {
     "CbGaD": 0.5930366968360243,
     "CbGbCtD": 0.30646532107841745,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07251199768550838,
     "CrCbGaD": 0.009252466587644361
   },
+  "n_trials": 0.0,
   "prediction": 0.0009435723862566039,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

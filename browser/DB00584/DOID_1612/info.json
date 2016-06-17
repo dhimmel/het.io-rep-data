@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.2422858879905897,
     "CbGbCtD": 0.4737442999463237,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.20257983154434667,
     "CrCbGaD": 0.004191862576407305
   },
+  "n_trials": 1.0,
   "prediction": 0.00219173133970136,
   "status": 0,
   "training_prediction": 0.0199596207883456

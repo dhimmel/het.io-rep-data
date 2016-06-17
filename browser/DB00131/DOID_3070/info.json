@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.7288778208737875,
     "CbGeAlD": 0.09257519954655828,
     "CbGpPWpGaD": 0.17533424625531036,
     "CrCbGaD": 0.0032127333243439286
   },
+  "n_trials": 0.0,
   "prediction": 0.00161541867364655,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

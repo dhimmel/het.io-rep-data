@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.14370594851674162,
     "CbGbCtD": 0.5628409835363358,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1054713975926426,
     "CcSEcCtD": 0.15836663109169347
   },
+  "n_trials": 0.0,
   "prediction": 0.00553508477284389,
   "status": 0,
   "training_prediction": 0.0231501553708732

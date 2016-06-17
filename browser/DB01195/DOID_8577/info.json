@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01195",
   "compound_name": "Flecainide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.580624187256177,
   "metapath_contribution": {
     "CbGbCtD": 0.4866820262062314,
     "CcSEcCtD": 0.5069622576114255,
     "CrCbGaD": 0.00635571618234305
   },
+  "n_trials": 0.0,
   "prediction": 0.00232659422800274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

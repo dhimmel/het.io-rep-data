@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.30234264875811906,
     "CbGbCtD": 0.2396373456282598,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.32625887905143297,
     "CrCbGaD": 0.0029684532951447986
   },
+  "n_trials": 0.0,
   "prediction": 0.014494909348288,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

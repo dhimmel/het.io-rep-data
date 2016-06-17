@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00467",
   "compound_name": "Enoxacin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.644343302990897,
   "metapath_contribution": {
     "CbGaD": 0.38953313956803665,
     "CbGbCtD": 0.5723099726394618,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03053984795430248,
     "CrCbGaD": 0.003572646556403673
   },
+  "n_trials": 0.0,
   "prediction": 0.00301432547212283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

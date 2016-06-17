@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.7823634846010682,
     "CbGeAlD": 0.05100670388767139,
     "CbGpPWpGaD": 0.16079846956724125,
     "CrCbGaD": 0.005831341944019259
   },
+  "n_trials": 0.0,
   "prediction": 0.00298987169420385,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

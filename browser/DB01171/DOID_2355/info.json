@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.8556683814795119,
     "CbGeAlD": 0.07397625894354869,
     "CbGpPWpGaD": 0.06909327812716429,
     "CrCbGaD": 0.0012620814497752166
   },
+  "n_trials": 0.0,
   "prediction": 0.00250313989009302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

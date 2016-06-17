@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01213",
   "compound_name": "Fomepizole",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.7670706778757692,
     "CbGeAlD": 0.03872665826293746,
     "CbGpPWpGaD": 0.16402653920050755,
     "CcSEcCtD": 0.030176124660785654
   },
+  "n_trials": 0.0,
   "prediction": 0.00562323928838547,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

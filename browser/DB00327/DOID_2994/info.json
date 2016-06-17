@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.40507152145643704,
   "metapath_contribution": {
     "CbGbCtD": 0.6254172072984748,
     "CbGeAlD": 0.07334629815700172,
     "CcSEcCtD": 0.30123649454452334
   },
+  "n_trials": 0.0,
   "prediction": 0.00142800375717874,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

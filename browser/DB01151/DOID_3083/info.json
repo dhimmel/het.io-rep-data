@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGaD": 0.38115677314432644,
     "CbGbCtD": 0.4734969135489721,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07255274010327036,
     "CrCbGaD": 0.0031328714742629373
   },
+  "n_trials": 0.0,
   "prediction": 0.00426032413662263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

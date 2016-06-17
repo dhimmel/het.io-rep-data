@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.600130039011703,
   "metapath_contribution": {
     "CbGaD": 0.3896363386426388,
     "CbGbCtD": 0.1427992646406143,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003243664055635637,
     "CrCrCtD": 0.24553889732543838
   },
+  "n_trials": 0.0,
   "prediction": 0.00305258566295094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00892",
   "compound_name": "Oxybuprocaine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.314694408322497,
   "metapath_contribution": {
     "CbGbCtD": 0.6508896441952547,
     "CbGeAlD": 0.054052025338929624,
     "CbGpPWpGaD": 0.28824764582267703,
     "CrCbGaD": 0.006810684643138529
   },
+  "n_trials": 0.0,
   "prediction": 0.00128948711971371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

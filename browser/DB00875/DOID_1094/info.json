@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00875",
   "compound_name": "Flupentixol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.8029093893227686,
     "CbGeAlD": 0.044837606632722606,
     "CbGpPWpGaD": 0.14431479331537886,
     "CrCbGaD": 0.007938210729130023
   },
+  "n_trials": 0.0,
   "prediction": 0.00306361851358477,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

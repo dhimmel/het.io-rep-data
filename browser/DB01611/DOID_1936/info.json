@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.325097529258778,
   "metapath_contribution": {
     "CbGbCtD": 0.4970690349306156,
     "CbGpPWpGaD": 0.19351167646467557,
     "CcSEcCtD": 0.3075346551610361,
     "CrCbGaD": 0.0018846334436727423
   },
+  "n_trials": 0.0,
   "prediction": 0.00139320743828992,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

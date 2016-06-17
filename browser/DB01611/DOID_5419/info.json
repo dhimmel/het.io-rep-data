@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.358257477243173,
   "metapath_contribution": {
     "CbGaD": 0.9039960161822784,
     "CbGeAlD": 0.025883576188955947,
     "CbGpPWpGaD": 0.05667313714686814,
     "CrCbGaD": 0.013447270481897425
   },
+  "n_trials": 0.0,
   "prediction": 0.0012793591853956599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

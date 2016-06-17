@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB01357",
   "compound_name": "Mestranol",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.124837451235371,
   "metapath_contribution": {
     "CbGaD": 0.8781978403658898,
     "CbGeAlD": 0.05681227136278038,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.010519177300005069
   },
   "prediction": 0.000805350110564746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

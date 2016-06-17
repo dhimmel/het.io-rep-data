@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00356",
   "compound_name": "Chlorzoxazone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.6161630990452022,
     "CbGbCtD": 0.2975017362653655,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.029128133986901106,
     "CcSEcCtD": 0.04782589501290381
   },
+  "n_trials": 0.0,
   "prediction": 0.00611719722165591,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

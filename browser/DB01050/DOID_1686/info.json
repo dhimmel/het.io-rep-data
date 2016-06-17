@@ -1,19 +1,21 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
-    "CbGaD": 0.11504821289217425,
-    "CbGbCtD": 0.2496660592016808,
-    "CbGdCrCtD": 0.0015574379494163555,
-    "CbGeAlD": 0.0013096067845448194,
-    "CbGpPWpGaD": 0.07929795112088805,
-    "CcSEcCtD": 0.14784195709255335,
-    "CrCbGaD": 0.0025787974575349148,
-    "CrCrCtD": 0.4026999775012074
+    "CbGaD": 0.11504821289217428,
+    "CbGbCtD": 0.24966605920168083,
+    "CbGdCrCtD": 0.0015574379494163557,
+    "CbGeAlD": 0.0013096067845448196,
+    "CbGpPWpGaD": 0.07929795112088807,
+    "CcSEcCtD": 0.14784195709255338,
+    "CrCbGaD": 0.002578797457534915,
+    "CrCrCtD": 0.40269997750120745
   },
+  "n_trials": 1.0,
   "prediction": 0.0036974447363161897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

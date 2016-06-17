@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00694",
   "compound_name": "Daunorubicin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.10386368320890764,
     "CbGbCtD": 0.1431545954533952,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.14804364335630815,
     "CrCtD": 0.2302937763494265
   },
+  "n_trials": 1.0,
   "prediction": 0.122666367695881,
   "status": 0,
   "training_prediction": 0.43698728790465297

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
     "CbGaD": 0.30599689551282416,
     "CbGbCtD": 0.4988669447719967,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04713566813979967,
     "CcSEcCtD": 0.11813149798544596
   },
+  "n_trials": 0.0,
   "prediction": 0.0018136402896313,
   "status": 0,
   "training_prediction": 0.00900937648690984

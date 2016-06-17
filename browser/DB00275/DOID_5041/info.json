@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00275",
   "compound_name": "Olmesartan",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.5229934369142564,
     "CbGbCtD": 0.3712210032719423,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06142856432335654,
     "CrCbGaD": 0.003083379343441926
   },
+  "n_trials": 0.0,
   "prediction": 0.0031822919542929197,
   "status": 0,
   "training_prediction": 0.00642359177742269

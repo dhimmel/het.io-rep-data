@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.391417425227568,
   "metapath_contribution": {
     "CbGaD": 0.14148408882456956,
     "CbGbCtD": 0.5468478812313718,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24806798089022902,
     "CrCbGaD": 0.002671506951594439
   },
+  "n_trials": 0.0,
   "prediction": 0.00196508391377094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

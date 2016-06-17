@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.4971628270180646,
     "CbGbCtD": 0.42605998011200913,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07302549363840612,
     "CrCbGaD": 0.002726940312937223
   },
+  "n_trials": 0.0,
   "prediction": 0.006582720580829321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01567",
   "compound_name": "Fludiazepam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.30754226267880397,
   "metapath_contribution": {
     "CbGbCtD": 0.38674304553427846,
     "CbGeAlD": 0.11609453552787294,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.011469203066753985,
     "CrCrCtD": 0.3527999455463781
   },
+  "n_trials": 0.0,
   "prediction": 0.0019121031963177,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

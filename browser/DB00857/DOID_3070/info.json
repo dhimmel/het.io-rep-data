@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00857",
   "compound_name": "Terbinafine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.5646345212404436,
     "CbGbCtD": 0.23389509618792984,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10705756414045137,
     "CcSEcCtD": 0.08480873774438648
   },
+  "n_trials": 0.0,
   "prediction": 0.00243592646596169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

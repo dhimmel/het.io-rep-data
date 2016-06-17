@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01245",
   "compound_name": "Decamethonium",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.8673133762144507,
     "CbGeAlD": 0.05399440309890999,
     "CbGpPWpGaD": 0.07507410373730329,
     "CrCbGaD": 0.003618116949336088
   },
+  "n_trials": 0.0,
   "prediction": 0.00251221264829703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

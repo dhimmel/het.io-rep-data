@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
-    "CbGaD": 0.2525829644983992,
-    "CbGbCtD": 0.23029126722037419,
-    "CbGdCrCtD": 0.0006919406470711083,
-    "CbGeAlD": 0.03235529953995563,
-    "CbGpPWpGaD": 0.06562601403273681,
-    "CcSEcCtD": 0.06561435850176194,
-    "CtDrD": 0.3528381555597011
+    "CbGaD": 0.25258296449839923,
+    "CbGbCtD": 0.2302912672203742,
+    "CbGdCrCtD": 0.0006919406470711084,
+    "CbGeAlD": 0.03235529953995564,
+    "CbGpPWpGaD": 0.06562601403273682,
+    "CcSEcCtD": 0.06561435850176195,
+    "CtDrD": 0.35283815555970116
   },
+  "n_trials": 4.0,
   "prediction": 0.0368369454782167,
   "status": 0,
   "training_prediction": 0.453227322022326

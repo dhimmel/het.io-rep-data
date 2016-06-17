@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.850455136540962,
   "metapath_contribution": {
     "CbGaD": 0.40900261330076515,
     "CbGbCtD": 0.21540563273579338,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.22801782500521725,
     "CrCbGaD": 0.0035678407928395398
   },
+  "n_trials": 0.0,
   "prediction": 0.00503119519359689,
   "status": 0,
   "training_prediction": 0.00610220942455106

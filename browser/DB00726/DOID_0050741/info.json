@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.42153505930037827,
     "CbGbCtD": 0.3659650176020438,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08702457972558862,
     "CrCbGaD": 0.004616188484727106
   },
+  "n_trials": 0.0,
   "prediction": 0.00623853016898737,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

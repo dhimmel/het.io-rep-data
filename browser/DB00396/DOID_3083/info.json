@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGaD": 0.1698901902784337,
     "CbGbCtD": 0.21674208767995526,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.20435166409310201,
     "CrCtD": 0.29742845094660586
   },
+  "n_trials": 0.0,
   "prediction": 0.009548072443055621,
   "status": 0,
   "training_prediction": 0.0208388673871863

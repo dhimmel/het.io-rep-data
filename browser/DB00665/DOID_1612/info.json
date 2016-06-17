@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00665",
   "compound_name": "Nilutamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7529258777633292,
   "metapath_contribution": {
     "CbGaD": 0.30535677676870404,
     "CbGbCtD": 0.43551171515196146,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16792295080842837,
     "CrCbGaD": 0.004711682386815287
   },
+  "n_trials": 1.0,
   "prediction": 0.0041690045867633,
   "status": 0,
   "training_prediction": 0.0227121939739324

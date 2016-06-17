@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7652795838751629,
   "metapath_contribution": {
     "CbGaD": 0.31363635777286397,
     "CbGbCtD": 0.47580625395258747,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13239573619595194,
     "CrCbGaD": 0.0013569749862633934
   },
+  "n_trials": 0.0,
   "prediction": 0.007140126561951859,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

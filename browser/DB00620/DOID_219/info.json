@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.447984395318596,
   "metapath_contribution": {
     "CbGaD": 0.27178799792444985,
     "CbGbCtD": 0.07919249344991502,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0007985772831942769,
     "CtDrD": 0.5666077956485099
   },
+  "n_trials": 0.0,
   "prediction": 0.00144312934414746,
   "status": 0,
   "training_prediction": 0.0149969897614488

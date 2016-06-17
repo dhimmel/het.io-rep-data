@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.512353706111834,
   "metapath_contribution": {
     "CbGaD": 0.7564433372848542,
     "CbGeAlD": 0.07119106128515607,
     "CbGpPWpGaD": 0.16402472586875147,
     "CrCbGaD": 0.008340875561238248
   },
+  "n_trials": 0.0,
   "prediction": 0.0015885026514934901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

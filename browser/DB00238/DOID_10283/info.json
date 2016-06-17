@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00238",
   "compound_name": "Nevirapine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGaD": 0.3674462918894898,
     "CbGbCtD": 0.4050134288402454,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08954154642644148,
     "CcSEcCtD": 0.1324913334576049
   },
+  "n_trials": 0.0,
   "prediction": 0.0057731907697528,
   "status": 0,
   "training_prediction": 0.0241276345540844

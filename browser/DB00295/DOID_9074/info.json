@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.424577373211964,
   "metapath_contribution": {
     "CbGbCtD": 0.7395039960994433,
     "CbGeAlD": 0.032526957737181145,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19856090979017776,
     "CrCbGaD": 0.002392024608033283
   },
+  "n_trials": 0.0,
   "prediction": 0.00168112702288941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

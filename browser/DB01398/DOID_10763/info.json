@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGaD": 0.26646470999305794,
     "CbGbCtD": 0.25049351498833233,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0033845711355925045,
     "CrCrCtD": 0.2677103848487098
   },
+  "n_trials": 0.0,
   "prediction": 0.0067060445168766,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

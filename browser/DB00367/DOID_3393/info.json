@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.240572171651495,
   "metapath_contribution": {
     "CbGaD": 0.23780881372426146,
     "CbGbCtD": 0.1541871751817282,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0036057545747421806,
     "CrCrCtD": 0.340123750942364
   },
+  "n_trials": 2.0,
   "prediction": 0.00138070851435941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

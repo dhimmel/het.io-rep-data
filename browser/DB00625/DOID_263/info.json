@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00625",
   "compound_name": "Efavirenz",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CbGbCtD": 0.21273558322066574,
     "CbGeAlD": 0.005576708070562871,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10968083227588991,
     "CiPCiCtD": 0.6657805463713743
   },
+  "n_trials": 0.0,
   "prediction": 0.008530838342679859,
   "status": 0,
   "training_prediction": 0.0245002797479548

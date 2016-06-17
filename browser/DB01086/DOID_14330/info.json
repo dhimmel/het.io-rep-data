@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.45253576072821794,
   "metapath_contribution": {
-    "CbGaD": 0.5687456653682029,
-    "CbGeAlD": 0.26094207274497927,
-    "CbGpPWpGaD": 0.16214378665319787,
-    "CrCbGaD": 0.008168475233620047
+    "CbGaD": 0.5687456653682028,
+    "CbGeAlD": 0.2609420727449792,
+    "CbGpPWpGaD": 0.16214378665319784,
+    "CrCbGaD": 0.008168475233620045
   },
+  "n_trials": 0.0,
   "prediction": 0.00130661024938939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

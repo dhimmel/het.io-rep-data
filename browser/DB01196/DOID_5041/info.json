@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.0767230169050715,
   "metapath_contribution": {
     "CbGaD": 0.602406711961734,
     "CbGeAlD": 0.1192888255287761,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09539915132211028,
     "CrCbGaD": 0.011122440838598646
   },
+  "n_trials": 0.0,
   "prediction": 0.0007075234841885919,
   "status": 0,
   "training_prediction": 0.000858931901377208

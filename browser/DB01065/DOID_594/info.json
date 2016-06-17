@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
     "CbGeAlD": 0.2953661460704855,
     "CbGpPWpGaD": 0.6602608704378665,
     "CrCbGaD": 0.04437298349164792
   },
+  "n_trials": 0.0,
   "prediction": 0.00149192903678302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

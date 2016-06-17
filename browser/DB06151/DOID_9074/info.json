@@ -1,16 +1,18 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.4382314694408321,
   "metapath_contribution": {
-    "CbGbCtD": 0.35039228773465436,
-    "CbGdCrCtD": 0.00755328011432995,
+    "CbGbCtD": 0.3503922877346543,
+    "CbGdCrCtD": 0.007553280114329949,
     "CbGeAlD": 0.13473297813319537,
     "CbGpPWpGaD": 0.3325623100448601,
-    "CcSEcCtD": 0.17475914397296027
+    "CcSEcCtD": 0.17475914397296025
   },
+  "n_trials": 1.0,
   "prediction": 0.0017055667531520199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

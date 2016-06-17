@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.24252335191976418,
     "CbGbCtD": 0.2770864699427987,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.289058219425408,
     "CrCbGaD": 0.0015238019558883984
   },
+  "n_trials": 0.0,
   "prediction": 0.0325405984134293,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

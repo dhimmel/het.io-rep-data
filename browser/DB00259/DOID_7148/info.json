@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00259",
   "compound_name": "Sulfanilamide",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.566970091027308,
   "metapath_contribution": {
     "CbGbCtD": 0.2906823807306961,
     "CbGeAlD": 0.06445775535646638,
     "CrCbGaD": 0.0025833285445908136,
     "CrCrCtD": 0.6422765353682467
   },
+  "n_trials": 0.0,
   "prediction": 0.00196196750826196,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

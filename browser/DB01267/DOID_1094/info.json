@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01267",
   "compound_name": "Paliperidone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.804355525139505,
     "CbGeAlD": 0.03924501828934005,
     "CbGpPWpGaD": 0.1492602715641155,
     "CrCbGaD": 0.0071391850070393415
   },
+  "n_trials": 0.0,
   "prediction": 0.00561766419286391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

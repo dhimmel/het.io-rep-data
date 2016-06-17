@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6573472041612479,
   "metapath_contribution": {
     "CbGaD": 0.28186801765663866,
     "CbGbCtD": 0.40936009407496315,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08962677929208307,
     "CrCbGaD": 0.0022209394520054816
   },
+  "n_trials": 2.0,
   "prediction": 0.00343406364896742,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

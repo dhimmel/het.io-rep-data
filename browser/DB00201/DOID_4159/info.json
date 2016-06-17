@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.687906371911573,
   "metapath_contribution": {
     "CbGbCtD": 0.5836636453854761,
     "CbGeAlD": 0.12640374878732266,
     "CbGpPWpGaD": 0.16771319128722184,
     "CcSEcCtD": 0.12221941453997937
   },
+  "n_trials": 0.0,
   "prediction": 0.00218357219801592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

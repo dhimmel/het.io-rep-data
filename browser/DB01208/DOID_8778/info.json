@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.8296488946684009,
   "metapath_contribution": {
     "CbGaD": 0.7363470211427172,
     "CbGbCtD": 0.134215766882242,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11917578728692947,
     "CrCbGaD": 0.005643206834995034
   },
+  "n_trials": 0.0,
   "prediction": 0.0025218845360869603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

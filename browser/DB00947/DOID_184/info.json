@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.23197979970270954,
     "CbGeAlD": 0.00523558487432834,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0018399594135263021,
     "CtDrD": 0.6753305142038867
   },
+  "n_trials": 0.0,
   "prediction": 0.00423112111088275,
   "status": 0,
   "training_prediction": 0.00603049257586065

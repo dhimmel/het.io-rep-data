@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00690",
   "compound_name": "Flurazepam",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.0981794538361508,
   "metapath_contribution": {
     "CbGbCtD": 0.21449259736278037,
     "CbGeAlD": 0.3426980819590832,
     "CcSEcCtD": 0.4284840004459962,
     "CrCbGaD": 0.014325320232140174
   },
+  "n_trials": 0.0,
   "prediction": 0.0008073388340824,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00873",
   "compound_name": "Loteprednol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.1078340328158013,
     "CbGbCtD": 0.12553248023899885,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.17898949144936308,
     "CrCtD": 0.2480447213916595
   },
+  "n_trials": 0.0,
   "prediction": 0.05713547593105799,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

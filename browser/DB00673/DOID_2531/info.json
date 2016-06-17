@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00673",
   "compound_name": "Aprepitant",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.798439531859558,
   "metapath_contribution": {
     "CbGbCtD": 0.3531080143916706,
     "CbGeAlD": 0.002815385781525106,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16185573647258034,
     "CpDpCtD": 0.43919745186663894
   },
+  "n_trials": 10.0,
   "prediction": 0.0047241182137255705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

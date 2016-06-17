@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08827",
   "compound_name": "Lomitapide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.49804941482444703,
   "metapath_contribution": {
     "CbGaD": 0.3233859183979693,
     "CbGbCtD": 0.43949015626067967,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17292991815476555,
     "CrCbGaD": 0.00330104565360207
   },
+  "n_trials": 0.0,
   "prediction": 0.00233475067137891,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

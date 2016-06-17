@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.415236196981299,
     "CbGbCtD": 0.07504695156913516,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.2854011092149688,
     "CcSEcCtD": 0.04636252672202592
   },
+  "n_trials": 0.0,
   "prediction": 0.00332686432709305,
   "status": 0,
   "training_prediction": 0.0075587230238641796

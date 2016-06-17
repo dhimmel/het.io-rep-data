@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.42925576851179115,
     "CbGbCtD": 0.29854874296345907,
     "CbGpPWpGaD": 0.104816240123103,
     "CcSEcCtD": 0.16737924840164684
   },
+  "n_trials": 0.0,
   "prediction": 0.00477311073339296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.797139141742523,
   "metapath_contribution": {
     "CbGaD": 0.2097779856345262,
     "CbGbCtD": 0.5843257429637179,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.003700945714461014,
     "CcSEcCtD": 0.20136602955292288
   },
+  "n_trials": 0.0,
   "prediction": 0.00352298442779555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

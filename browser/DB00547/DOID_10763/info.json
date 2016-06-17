@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00547",
   "compound_name": "Desoximetasone",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0266579973992198,
   "metapath_contribution": {
     "CbGaD": 0.40593065697133657,
     "CbGbCtD": 0.11404102255915077,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0060718304709003745,
     "CrCrCtD": 0.34331270953087817
   },
+  "n_trials": 0.0,
   "prediction": 0.000791525110630368,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

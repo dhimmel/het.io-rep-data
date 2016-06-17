@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.6892067620286091,
   "metapath_contribution": {
     "CbGbCtD": 0.07942426636552305,
     "CbGdCrCtD": 0.007611550581063595,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0027343590283401917,
     "CrCrCtD": 0.6113160955198371
   },
+  "n_trials": 0.0,
   "prediction": 0.00197261935981472,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

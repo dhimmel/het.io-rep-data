@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.6380071008553001,
     "CbGbCtD": 0.17161703291838923,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.06699758853791275,
     "CbGpPWpGaD": 0.12197616208882424
   },
+  "n_trials": 2.0,
   "prediction": 0.00860256088761962,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

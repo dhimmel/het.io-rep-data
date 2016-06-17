@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00149",
   "compound_name": "L-Leucine",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.14499349804941503,
   "metapath_contribution": {
-    "CbGeAlD": 0.48204595307810383,
-    "CbGpPWpGaD": 0.4873721499939521,
-    "CrCbGaD": 0.030581896927943948
+    "CbGeAlD": 0.48204595307810394,
+    "CbGpPWpGaD": 0.48737214999395223,
+    "CrCbGaD": 0.03058189692794395
   },
+  "n_trials": 0.0,
   "prediction": 0.00104294988876664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

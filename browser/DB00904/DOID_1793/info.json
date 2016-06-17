@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.771781534460338,
   "metapath_contribution": {
     "CbGbCtD": 0.7086413816317799,
     "CbGeAlD": 0.021632901671045836,
     "CbGpPWpGaD": 0.07935878726794239,
     "CcSEcCtD": 0.19036692942923186
   },
+  "n_trials": 2.0,
   "prediction": 0.00255454491018211,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

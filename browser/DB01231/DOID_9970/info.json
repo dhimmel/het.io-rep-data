@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01231",
   "compound_name": "Diphenidol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.611833550065019,
   "metapath_contribution": {
     "CbGeAlD": 0.00097163041782644,
     "CbGpPWpGaD": 0.05133007264636766,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3606391349018294,
     "CrCtD": 0.5865251805136261
   },
+  "n_trials": 0.0,
   "prediction": 0.0031115697991294,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.33607648548932423,
     "CbGbCtD": 0.28604343480415173,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.27118750191532465,
     "CrCbGaD": 0.000793784573873061
   },
+  "n_trials": 0.0,
   "prediction": 0.00412629120251217,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

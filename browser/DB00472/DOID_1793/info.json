@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGbCtD": 0.49568917683387603,
     "CbGeAlD": 0.013831889353954522,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18202522679419408,
     "CrCrCtD": 0.2985216898790691
   },
+  "n_trials": 0.0,
   "prediction": 0.00322208970225316,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

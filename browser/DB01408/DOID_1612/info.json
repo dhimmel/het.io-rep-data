@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01408",
   "compound_name": "Bambuterol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.492197659297789,
   "metapath_contribution": {
     "CbGaD": 0.908589484036704,
     "CbGbCtD": 0.029438533562237572,
     "CbGpPWpGaD": 0.0524561547904019,
     "CrCbGaD": 0.009515827610656521
   },
+  "n_trials": 0.0,
   "prediction": 0.0023058946858693697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

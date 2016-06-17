@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01073",
   "compound_name": "Fludarabine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGbCtD": 0.8066845084598337,
     "CbGeAlD": 0.01982129830663786,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10570177930022576,
     "CrCbGaD": 0.0029668229818672347
   },
+  "n_trials": 0.0,
   "prediction": 0.00223211803555689,
   "status": 0,
   "training_prediction": 0.0045100039569242

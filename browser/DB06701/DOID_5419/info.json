@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06701",
   "compound_name": "Dexmethylphenidate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.8359329214945689,
     "CbGeAlD": 0.06176086400872427,
     "CbGpPWpGaD": 0.09576852222365692,
     "CrCbGaD": 0.006537692273049859
   },
+  "n_trials": 0.0,
   "prediction": 0.0024524867685723,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

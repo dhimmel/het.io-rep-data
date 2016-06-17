@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGaD": 0.1210409154364747,
     "CbGbCtD": 0.408542567636035,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.2897958624828713,
     "CrCbGaD": 0.0013666778520844659
   },
+  "n_trials": 0.0,
   "prediction": 0.0050541728818444395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

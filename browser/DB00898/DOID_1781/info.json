@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGbCtD": 0.6847355534936158,
     "CbGeAlD": 0.17828110429389096,
     "CbGpPWpGaD": 0.13698334221249325
   },
+  "n_trials": 1.0,
   "prediction": 0.00268477694110272,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

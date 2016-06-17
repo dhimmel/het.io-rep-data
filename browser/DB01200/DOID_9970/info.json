@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGaD": 0.2419046839476915,
     "CbGbCtD": 0.2393125074024889,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0019167510535779298,
     "CtDrD": 0.36145618919848654
   },
+  "n_trials": 0.0,
   "prediction": 0.0106712476269605,
   "status": 0,
   "training_prediction": 0.0269630673898734

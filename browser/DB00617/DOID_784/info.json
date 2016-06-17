@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00617",
   "compound_name": "Paramethadione",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.791287386215865,
   "metapath_contribution": {
     "CbGaD": 0.6738891732378345,
     "CbGeAlD": 0.06398616747333244,
     "CbGpPWpGaD": 0.25102215064787325,
     "CrCbGaD": 0.011102508640959829
   },
+  "n_trials": 0.0,
   "prediction": 0.00234738560769621,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

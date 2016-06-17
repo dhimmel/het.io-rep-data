@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.597529258777633,
   "metapath_contribution": {
     "CbGaD": 0.3974282227029308,
     "CbGbCtD": 0.3230901360932197,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12449317357147159,
     "CrCbGaD": 0.0030705094527420183
   },
+  "n_trials": 0.0,
   "prediction": 0.00303644288722858,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

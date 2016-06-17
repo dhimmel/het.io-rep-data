@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.8686605981794541,
   "metapath_contribution": {
     "CbGaD": 0.23419918928308672,
     "CbGbCtD": 0.5529606856711047,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15007423333784142,
     "CrCbGaD": 4.7866919956208995e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00265376656132952,
   "status": 0,
   "training_prediction": 0.0104949123691494

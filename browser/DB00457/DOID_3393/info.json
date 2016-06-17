@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7802340702210658,
   "metapath_contribution": {
     "CbGaD": 0.29629185876159214,
     "CbGbCtD": 0.4066663748101905,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1631210366667216,
     "CrCbGaD": 3.548866646808641e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0045436220033497395,
   "status": 0,
   "training_prediction": 0.0240277022564554

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.343953185955787,
   "metapath_contribution": {
     "CbGaD": 0.468847488725961,
     "CbGbCtD": 0.32720154964665416,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1510175388479749,
     "CrCbGaD": 0.005260764942254006
   },
+  "n_trials": 0.0,
   "prediction": 0.0013596661423902901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

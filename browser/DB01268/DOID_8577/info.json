@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
     "CbGaD": 0.38567782988726357,
     "CbGbCtD": 0.17886385802527152,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14146760488557536,
     "CrCbGaD": 0.0022048231828922307
   },
+  "n_trials": 0.0,
   "prediction": 0.00281003086855083,
   "status": 0,
   "training_prediction": 0.0158774807189115

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.286736020806242,
   "metapath_contribution": {
     "CbGaD": 0.6764103900994356,
     "CbGeAlD": 0.11871602860437318,
     "CbGpPWpGaD": 0.20263257284461153,
     "CrCbGaD": 0.002241008451579766
   },
+  "n_trials": 0.0,
   "prediction": 0.0011688534031839301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

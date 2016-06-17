@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.2824374337035374,
     "CbGbCtD": 0.43332268776579114,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1448051027443375,
     "CrCbGaD": 0.002977626783323708
   },
+  "n_trials": 0.0,
   "prediction": 0.00565608699642336,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

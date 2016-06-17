@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01108",
   "compound_name": "Trilostane",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.583875162548765,
   "metapath_contribution": {
     "CbGaD": 0.9031480862534118,
     "CbGeAlD": 0.03276267587259839,
     "CbGpPWpGaD": 0.06217619914681815,
     "CrCbGaD": 0.0019130387271717197
   },
+  "n_trials": 0.0,
   "prediction": 0.00179963900024688,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

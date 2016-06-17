@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.7772519538272873,
     "CbGeAlD": 0.07137321483523311,
     "CbGpPWpGaD": 0.14377283446258976,
     "CrCbGaD": 0.007601996874889874
   },
+  "n_trials": 0.0,
   "prediction": 0.00234683881570155,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

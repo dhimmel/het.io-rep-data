@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08881",
   "compound_name": "Vemurafenib",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.34613555981331756,
     "CbGbCtD": 0.1712136495551176,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.001470435546016107,
     "CtDrD": 0.4298824112535518
   },
+  "n_trials": 0.0,
   "prediction": 0.00641765081291905,
   "status": 0,
   "training_prediction": 0.0151493539633761

@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00541",
   "compound_name": "Vincristine",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.267880364109233,
   "metapath_contribution": {
     "CbGeAlD": 0.054338090686957996,
     "CbGpPWpGaD": 0.09787172244384795,
     "CcSEcCtD": 0.07440243532233394,
     "CtDrD": 0.7733877515468601
   },
+  "n_trials": 6.0,
   "prediction": 0.00101364534179018,
   "status": 0,
   "training_prediction": 0.00337283145443344

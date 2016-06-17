@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00356",
   "compound_name": "Chlorzoxazone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGaD": 0.33808786841976984,
     "CbGbCtD": 0.5662039156635368,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.057211743804360914,
     "CcSEcCtD": 0.030310678198690908
   },
+  "n_trials": 0.0,
   "prediction": 0.0045680277068259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.12922176612963973,
     "CbGbCtD": 0.18092858797660413,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.25138832331501093,
     "CrCtD": 0.4172066894064006
   },
+  "n_trials": 1.0,
   "prediction": 0.0440253126732237,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

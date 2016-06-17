@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.3162098821825659,
     "CbGbCtD": 0.48710946476213246,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.08661988809022901,
     "CrCbGaD": 0.001434095127594247
   },
+  "n_trials": 1.0,
   "prediction": 0.00993222057248605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

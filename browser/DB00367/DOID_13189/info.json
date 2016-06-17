@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8335500650195059,
   "metapath_contribution": {
-    "CbGbCtD": 0.13467875206563465,
-    "CcSEcCtD": 0.08043931287068515,
-    "CrCbGaD": 0.0002999076700682861,
-    "CrCrCtD": 0.28793813555441855,
-    "CrCtD": 0.49664389183919333
+    "CbGbCtD": 0.13467875206563468,
+    "CcSEcCtD": 0.08043931287068516,
+    "CrCbGaD": 0.00029990767006828615,
+    "CrCrCtD": 0.2879381355544186,
+    "CrCtD": 0.4966438918391934
   },
+  "n_trials": 0.0,
   "prediction": 0.00433028669479873,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

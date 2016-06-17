@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.3852860158391687,
     "CbGbCtD": 0.4689433718985449,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03829734993737745,
     "CcSEcCtD": 0.09097681007649946
   },
+  "n_trials": 0.0,
   "prediction": 0.0064354815652311395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

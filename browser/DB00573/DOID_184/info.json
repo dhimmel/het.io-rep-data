@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.321196358907672,
   "metapath_contribution": {
     "CbGaD": 0.7595478892322548,
     "CbGbCtD": 0.14460862957195478,
     "CcSEcCtD": 0.08803197577010502,
     "CrCbGaD": 0.0078115054256853575
   },
+  "n_trials": 0.0,
   "prediction": 0.0011727517305833099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

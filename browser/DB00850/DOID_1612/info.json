@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.104681404421326,
   "metapath_contribution": {
     "CbGaD": 0.18093310064833562,
     "CbGbCtD": 0.4762289894801815,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0031069920519847935,
     "CrCrCtD": 0.04888161161671408
   },
+  "n_trials": 0.0,
   "prediction": 0.00100962660707609,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

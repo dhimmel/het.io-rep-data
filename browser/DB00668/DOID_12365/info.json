@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.8179453836150848,
   "metapath_contribution": {
     "CbGaD": 0.35275461477327946,
     "CbGbCtD": 0.4901494819066505,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.030416318833717617,
     "CcSEcCtD": 0.08169023880003562
   },
+  "n_trials": 0.0,
   "prediction": 0.00346470232325841,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

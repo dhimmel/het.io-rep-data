@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.13224124756412575,
     "CbGdCrCtD": 0.000760094152125495,
@@ -13,6 +15,7 @@
     "CrCtD": 0.25225237870254147,
     "CtDrD": 0.14397368695829377
   },
+  "n_trials": 0.0,
   "prediction": 0.133066766132252,
   "status": 0,
   "training_prediction": 0.47263605497099104

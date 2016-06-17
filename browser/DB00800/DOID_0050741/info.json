@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00800",
   "compound_name": "Fenoldopam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.5502661840952269,
     "CbGbCtD": 0.14888691530221979,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15673848950252178,
     "CcSEcCtD": 0.1003518408167425
   },
+  "n_trials": 0.0,
   "prediction": 0.00629126934971297,
   "status": 0,
   "training_prediction": 0.0076284649138258

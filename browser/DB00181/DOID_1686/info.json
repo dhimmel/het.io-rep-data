@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.00826761415140866,
     "CcSEcCtD": 0.3044066752319322,
     "CrCbGaD": 0.000905572908248234,
     "CrCrCtD": 0.6864201377084109
   },
+  "n_trials": 0.0,
   "prediction": 0.00281876018556912,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

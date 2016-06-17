@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.48309492847854396,
   "metapath_contribution": {
     "CbGbCtD": 0.6883755991590784,
     "CbGdCrCtD": 0.002387551550953322,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2785800749816144,
     "CrCbGaD": 0.003489726505717387
   },
+  "n_trials": 0.0,
   "prediction": 0.00212623229228693,
   "status": 0,
   "training_prediction": 0.00777937918479934

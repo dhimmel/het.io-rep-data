@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8407022106631992,
   "metapath_contribution": {
     "CbGaD": 0.27116304254725254,
     "CbGbCtD": 0.4318336696822717,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.13567687672785286,
     "CrCbGaD": 0.0026406602218835436
   },
+  "n_trials": 0.0,
   "prediction": 0.00599381181287071,
   "status": 0,
   "training_prediction": 0.240526060211322

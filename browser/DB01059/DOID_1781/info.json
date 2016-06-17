@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.514304291287386,
   "metapath_contribution": {
     "CbGbCtD": 0.768611470281195,
     "CbGdCrCtD": 0.007897185447077753,
     "CbGpPWpGaD": 0.00248964721830954,
     "CcSEcCtD": 0.22100169705341766
   },
+  "n_trials": 0.0,
   "prediction": 0.00153129016170079,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

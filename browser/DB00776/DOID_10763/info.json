@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00776",
   "compound_name": "Oxcarbazepine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.864759427828348,
   "metapath_contribution": {
     "CbGaD": 0.1313545213918063,
     "CbGbCtD": 0.19291110636704734,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.22248145912372477,
     "CrCtD": 0.32139299218420825
   },
+  "n_trials": 0.0,
   "prediction": 0.0141653130645119,
   "status": 0,
   "training_prediction": 0.146668016411102

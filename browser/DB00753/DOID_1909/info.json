@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.73146944083225,
   "metapath_contribution": {
-    "CbGaD": 0.2443599531685011,
-    "CbGbCtD": 0.07868996136936478,
-    "CbGeAlD": 0.16352295792141305,
-    "CbGpPWpGaD": 0.45406151654469923,
-    "CcSEcCtD": 0.04674726721304626,
-    "CrCbGaD": 0.01261834378297576
+    "CbGaD": 0.24435995316850104,
+    "CbGbCtD": 0.07868996136936476,
+    "CbGeAlD": 0.16352295792141303,
+    "CbGpPWpGaD": 0.4540615165446992,
+    "CcSEcCtD": 0.04674726721304625,
+    "CrCbGaD": 0.012618343782975756
   },
+  "n_trials": 0.0,
   "prediction": 0.00205516788377338,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

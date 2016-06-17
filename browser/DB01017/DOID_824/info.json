@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.7468113960961275,
     "CbGeAlD": 0.09108600468894036,
     "CbGpPWpGaD": 0.1575023972545181,
     "CrCbGaD": 0.00460020196041397
   },
+  "n_trials": 5.0,
   "prediction": 0.0033452541831972,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

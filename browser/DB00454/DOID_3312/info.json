@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.7957858395888437,
     "CbGeAlD": 0.07195480733849528,
     "CbGpPWpGaD": 0.12934418136863257,
     "CrCbGaD": 0.00291517170402839
   },
+  "n_trials": 0.0,
   "prediction": 0.00303680138431052,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

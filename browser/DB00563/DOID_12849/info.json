@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.7526307294329135,
     "CbGeAlD": 0.08785333731666665,
     "CbGpPWpGaD": 0.15342431886174104,
     "CrCbGaD": 0.006091614388678758
   },
+  "n_trials": 0.0,
   "prediction": 0.00262631540951263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.7469314370196186,
     "CbGbCtD": 0.0022915922599856106,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.030232781112717527,
     "CrCbGaD": 0.0013097618483655998
   },
+  "n_trials": 0.0,
   "prediction": 0.00341103420599897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

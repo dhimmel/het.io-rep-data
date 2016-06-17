@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00524",
   "compound_name": "Metolazone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8953185955786741,
   "metapath_contribution": {
     "CbGaD": 0.286844315544248,
     "CbGbCtD": 0.24614169435177966,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0015272944038943696,
     "CrCrCtD": 0.28560085288617526
   },
+  "n_trials": 0.0,
   "prediction": 0.00756920578076825,
   "status": 0,
   "training_prediction": 0.0395126817310655

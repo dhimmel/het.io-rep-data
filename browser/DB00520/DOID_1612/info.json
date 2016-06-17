@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00520",
   "compound_name": "Caspofungin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGaD": 0.4111879993630843,
     "CbGbCtD": 0.3620912035732169,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17219636724425413,
     "CrCbGaD": 0.002139391248710764
   },
+  "n_trials": 0.0,
   "prediction": 0.00626281211796444,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

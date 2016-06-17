@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.34410305612907505,
     "CbGbCtD": 0.47550664674646476,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.07109754745312916,
     "CrCbGaD": 0.0018955078113987724
   },
+  "n_trials": 0.0,
   "prediction": 0.00333777462117895,
   "status": 0,
   "training_prediction": 0.00475904778902059

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00307",
   "compound_name": "Bexarotene",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6183355006501949,
   "metapath_contribution": {
     "CbGaD": 0.45588656139426387,
     "CbGbCtD": 0.26184405113585535,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16305118417663483,
     "CrCbGaD": 0.003978371719887269
   },
+  "n_trials": 2.0,
   "prediction": 0.00302344977579585,
   "status": 0,
   "training_prediction": 0.0165560715299925

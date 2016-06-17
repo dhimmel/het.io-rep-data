@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.15149544863459,
   "metapath_contribution": {
     "CbGbCtD": 0.42817806249770535,
     "CbGeAlD": 0.12733058967276872,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.41698041282057624,
     "CrCbGaD": 0.0028357613869242028
   },
+  "n_trials": 1.0,
   "prediction": 0.0008781812903471201,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

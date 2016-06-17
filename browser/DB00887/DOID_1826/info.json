@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.908972691807542,
   "metapath_contribution": {
     "CbGaD": 0.32682156926271816,
     "CbGbCtD": 0.3175339279040687,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0017612764306831877,
     "CrCrCtD": 0.187097504496863
   },
+  "n_trials": 2.0,
   "prediction": 0.0190488744073216,
   "status": 0,
   "training_prediction": 0.0870421978875767

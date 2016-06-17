@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.518205461638492,
   "metapath_contribution": {
     "CbGaD": 0.15999715290096136,
     "CbGbCtD": 0.26606589227336735,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0025439282289466576,
     "CrCrCtD": 0.3986997091394442
   },
+  "n_trials": 1.0,
   "prediction": 0.0025674798113752197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

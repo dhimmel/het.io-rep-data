@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8088426527958391,
   "metapath_contribution": {
     "CbGaD": 0.28633256714827765,
     "CbGbCtD": 0.5131096450251623,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09180694989278684,
     "CrCbGaD": 0.0031245009137883793
   },
+  "n_trials": 0.0,
   "prediction": 0.00492725008495145,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

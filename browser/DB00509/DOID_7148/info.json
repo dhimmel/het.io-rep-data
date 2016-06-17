@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00509",
   "compound_name": "Dextrothyroxine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGbCtD": 0.7364366081573791,
     "CbGdCrCtD": 0.005313145829221387,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14447088706331748,
     "CrCbGaD": 0.0012474201443571312
   },
+  "n_trials": 0.0,
   "prediction": 0.00256447392201607,
   "status": 0,
   "training_prediction": 0.00831515433198414

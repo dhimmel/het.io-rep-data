@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.131360990325781,
     "CbGbCtD": 0.19941699487580575,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.5535439103941902,
     "CrCbGaD": 0.0004494039620024237
   },
+  "n_trials": 0.0,
   "prediction": 0.0114653526631938,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

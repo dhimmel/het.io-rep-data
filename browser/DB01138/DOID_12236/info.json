@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.36655759837300256,
     "CbGbCtD": 0.49993067550248804,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07169199206462923,
     "CrCbGaD": 0.00030687241080059875
   },
+  "n_trials": 0.0,
   "prediction": 0.00512739120030743,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

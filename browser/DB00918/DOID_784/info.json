@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.569570871261378,
   "metapath_contribution": {
     "CbGaD": 0.7383748319591744,
     "CbGeAlD": 0.06349222677183157,
     "CbGpPWpGaD": 0.1934921331003032,
     "CrCbGaD": 0.004640808168690821
   },
+  "n_trials": 0.0,
   "prediction": 0.0017241722929016699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

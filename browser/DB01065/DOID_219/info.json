@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.5091027308192461,
   "metapath_contribution": {
     "CbGbCtD": 0.10409345492643947,
     "CbGeAlD": 0.33369113941688194,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.25848047586627226,
     "CrCbGaD": 0.004057450739288058
   },
+  "n_trials": 0.0,
   "prediction": 0.00157259177894491,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

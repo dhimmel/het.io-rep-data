@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00340",
   "compound_name": "Metixene",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.15409622886866103,
   "metapath_contribution": {
     "CbGaD": 0.7721871226725638,
     "CbGbCtD": 0.057122552452503986,
     "CbGpPWpGaD": 0.16236319572572122,
     "CrCbGaD": 0.008327129149210957
   },
+  "n_trials": 0.0,
   "prediction": 0.00123512911279574,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

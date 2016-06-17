@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00294",
   "compound_name": "Etonogestrel",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.070221066319896,
   "metapath_contribution": {
     "CbGbCtD": 0.3951090924413883,
     "CbGpPWpGaD": 0.16023805610491665,
     "CcSEcCtD": 0.44318072243107776,
     "CrCbGaD": 0.001472129022617239
   },
+  "n_trials": 0.0,
   "prediction": 0.000745546323595468,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

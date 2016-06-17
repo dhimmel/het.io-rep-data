@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00770",
   "compound_name": "Alprostadil",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.49479843953186,
   "metapath_contribution": {
     "CbGbCtD": 0.8845764084245784,
     "CbGeAlD": 0.07327989836294865,
     "CbGpPWpGaD": 0.04004605511037329,
     "CrCbGaD": 0.0020976381020996774
   },
+  "n_trials": 0.0,
   "prediction": 0.0016193706476333699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

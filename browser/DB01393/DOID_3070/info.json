@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.5481144343302989,
   "metapath_contribution": {
     "CbGaD": 0.7502152810881886,
     "CbGbCtD": 0.022986847976353454,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04190151580300639,
     "CrCbGaD": 0.00698982315627534
   },
+  "n_trials": 0.0,
   "prediction": 0.00148051229806935,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

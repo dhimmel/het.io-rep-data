@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00958",
   "compound_name": "Carboplatin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.2951208138584186,
     "CbGbCtD": 0.19781406702609963,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.013442918390811718,
     "CtDrD": 0.38843051521058247
   },
+  "n_trials": 21.0,
   "prediction": 0.0285073653239094,
   "status": 0,
   "training_prediction": 0.41437072821851395

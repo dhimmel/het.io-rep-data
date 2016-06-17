@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGbCtD": 0.1696021256706594,
     "CbGeAlD": 0.0006793724239342475,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.16751076723262473,
     "CrCtD": 0.27644608296262735
   },
+  "n_trials": 1.0,
   "prediction": 0.16626837205813502,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

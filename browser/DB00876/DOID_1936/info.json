@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00876",
   "compound_name": "Eprosartan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.45675169126035287,
     "CbGbCtD": 0.39380599284397705,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09941985184825347,
     "CrCbGaD": 0.0023051681449624065
   },
+  "n_trials": 0.0,
   "prediction": 0.00564132333029698,
   "status": 0,
   "training_prediction": 0.009177521344744609

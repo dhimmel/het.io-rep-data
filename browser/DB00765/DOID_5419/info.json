@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00765",
   "compound_name": "Metyrosine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.777148879168838,
     "CbGeAlD": 0.10261165515658896,
     "CbGpPWpGaD": 0.11591265157586672,
     "CrCbGaD": 0.00432681409870645
   },
+  "n_trials": 0.0,
   "prediction": 0.00317399856716021,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

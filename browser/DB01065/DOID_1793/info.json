@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.720416124837451,
   "metapath_contribution": {
     "CbGbCtD": 0.6169810051062409,
     "CbGeAlD": 0.07753218455681808,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14986495943112482,
     "CrCbGaD": 9.06037107945191e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00236547829372852,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

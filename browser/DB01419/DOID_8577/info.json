@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.45411100746182376,
     "CbGbCtD": 0.5277769323726967,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.01242684034614861,
     "CrCbGaD": 0.0029254497941718126
   },
+  "n_trials": 0.0,
   "prediction": 0.00581374759566549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

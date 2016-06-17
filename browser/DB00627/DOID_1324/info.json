@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7574772431729521,
   "metapath_contribution": {
     "CbGbCtD": 0.37664366035920077,
     "CbGdCrCtD": 0.004270514652803547,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2904484844185105,
     "CrCbGaD": 0.010443285244324205
   },
+  "n_trials": 1.0,
   "prediction": 0.00295431427159958,
   "status": 0,
   "training_prediction": 0.0166814992009144

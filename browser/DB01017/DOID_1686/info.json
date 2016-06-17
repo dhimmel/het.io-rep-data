@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.8003901170351109,
   "metapath_contribution": {
     "CbGaD": 0.7027365523651278,
     "CbGbCtD": 0.05375514725057625,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.17471552127621023,
     "CrCbGaD": 0.002212490702542975
   },
+  "n_trials": 0.0,
   "prediction": 0.00312525475324464,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

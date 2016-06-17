@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00907",
   "compound_name": "Cocaine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.8083784525662195,
     "CbGeAlD": 0.0575648526431765,
     "CbGpPWpGaD": 0.12690370289050226,
     "CrCbGaD": 0.007152991900101625
   },
+  "n_trials": 0.0,
   "prediction": 0.00297674255029887,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

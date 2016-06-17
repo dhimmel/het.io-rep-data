@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01394",
   "compound_name": "Colchicine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.637841352405722,
   "metapath_contribution": {
     "CbGbCtD": 0.6523323614822643,
     "CbGdCrCtD": 0.002338188603319036,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09069755493593538,
     "CcSEcCtD": 0.1996741578250999
   },
+  "n_trials": 0.0,
   "prediction": 0.00193668938386264,
   "status": 0,
   "training_prediction": 0.00824593639476063

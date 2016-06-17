@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.5773732119635889,
   "metapath_contribution": {
     "CbGaD": 0.8012640356475631,
     "CbGbCtD": 0.0504413277007976,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.028897821802785106,
     "CrCbGaD": 0.008312602129080304
   },
+  "n_trials": 0.0,
   "prediction": 0.00154902482017886,
   "status": 0,
   "training_prediction": 0.00114244634308564

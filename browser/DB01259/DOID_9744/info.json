@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.707644954202392,
     "CbGeAlD": 0.05248561051053038,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.006760084936968836,
     "CrCbGaD": 0.00651428567393462
   },
+  "n_trials": 0.0,
   "prediction": 0.0025071439352829803,
   "status": 0,
   "training_prediction": 0.00113093702832677

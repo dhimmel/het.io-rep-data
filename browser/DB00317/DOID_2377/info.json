@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.3524057217165151,
   "metapath_contribution": {
     "CbGaD": 0.17123702584937,
     "CbGbCtD": 0.44984526923503204,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1449168206441949,
     "CrCbGaD": 0.0033756362218778013
   },
+  "n_trials": 0.0,
   "prediction": 0.0015273871741901901,
   "status": 0,
   "training_prediction": 0.003914488406033071

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00536",
   "compound_name": "Guanidine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
-    "CbGbCtD": 0.2342093280118354,
-    "CbGdCrCtD": 0.01556293881138154,
-    "CbGeAlD": 0.43145524160912196,
-    "CbGpPWpGaD": 0.17467844340344207,
-    "CcSEcCtD": 0.1440940481642191
+    "CbGbCtD": 0.23420932801183536,
+    "CbGdCrCtD": 0.015562938811381538,
+    "CbGeAlD": 0.4314552416091219,
+    "CbGpPWpGaD": 0.17467844340344205,
+    "CcSEcCtD": 0.14409404816421909
   },
+  "n_trials": 0.0,
   "prediction": 0.00254660494906865,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

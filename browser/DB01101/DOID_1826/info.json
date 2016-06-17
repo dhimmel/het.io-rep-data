@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01101",
   "compound_name": "Capecitabine",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.46228868660598205,
   "metapath_contribution": {
     "CbGbCtD": 0.5038909274790373,
     "CbGdCrCtD": 0.003999001779599709,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.14183809797503186,
     "CcSEcCtD": 0.3455500362615707
   },
+  "n_trials": 0.0,
   "prediction": 0.00309219152337387,
   "status": 0,
   "training_prediction": 0.0570947227780527

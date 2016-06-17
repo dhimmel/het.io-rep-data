@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.4444419705469928,
     "CbGbCtD": 0.2677548188014532,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1274576823526662,
     "CrCbGaD": 0.0010024801974632918
   },
+  "n_trials": 3.0,
   "prediction": 0.00515174064077774,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

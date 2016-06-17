@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.44408322496749,
   "metapath_contribution": {
     "CbGbCtD": 0.6293059660023382,
     "CbGpPWpGaD": 0.0711586492632852,
     "CcSEcCtD": 0.2983448829761001,
     "CrCbGaD": 0.0011905017582763656
   },
+  "n_trials": 0.0,
   "prediction": 0.00175611612161954,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

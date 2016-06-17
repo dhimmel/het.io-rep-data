@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8862158647594279,
   "metapath_contribution": {
     "CbGaD": 0.2770076527118575,
     "CbGbCtD": 0.25808493436021246,
@@ -15,6 +17,5 @@
     "CrCbGaD": 0.0016458310579432272
   },
   "prediction": 0.0044731933194706395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7782834850455141,
   "metapath_contribution": {
     "CbGaD": 0.46515588932328866,
     "CbGbCtD": 0.35050281053848603,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07894181103158142,
     "CrCbGaD": 0.0033929926655870625
   },
+  "n_trials": 2.0,
   "prediction": 0.00313019839679851,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

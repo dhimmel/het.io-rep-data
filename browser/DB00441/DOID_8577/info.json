@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGaD": 0.07808103127577859,
     "CbGbCtD": 0.28414951317558157,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06012579784373249,
     "CiPCiCtD": 0.5440871092309224
   },
+  "n_trials": 0.0,
   "prediction": 0.00622853271416165,
   "status": 0,
   "training_prediction": 0.0787518801669271

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01225",
   "compound_name": "Enoxaparin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.7322897437531974,
     "CbGeAlD": 0.053269940755049094,
     "CbGpPWpGaD": 0.13057920557805397,
     "CcSEcCtD": 0.08386110991369942
   },
+  "n_trials": 0.0,
   "prediction": 0.00679429641175936,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

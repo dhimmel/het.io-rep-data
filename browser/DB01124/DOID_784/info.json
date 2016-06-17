@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01124",
   "compound_name": "Tolbutamide",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.723667100130039,
   "metapath_contribution": {
     "CbGaD": 0.7640437155860472,
     "CbGeAlD": 0.1008216759483762,
     "CbGpPWpGaD": 0.12833101143072326,
     "CrCbGaD": 0.006803597034853219
   },
+  "n_trials": 0.0,
   "prediction": 0.00211924023314558,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.54333233690569,
     "CbGbCtD": 0.2439359223974295,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.07235577471582509,
     "CbGpPWpGaD": 0.13814660889308772
   },
+  "n_trials": 0.0,
   "prediction": 0.0105720869873084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

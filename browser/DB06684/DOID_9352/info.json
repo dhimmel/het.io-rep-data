@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06684",
   "compound_name": "Vilazodone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGaD": 0.22786657625070975,
     "CbGbCtD": 0.5370338473597632,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16239862917965664,
     "CrCbGaD": 0.0029096759896097943
   },
+  "n_trials": 0.0,
   "prediction": 0.0041116094611158205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

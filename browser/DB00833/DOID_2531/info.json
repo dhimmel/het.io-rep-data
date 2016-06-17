@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.35630689206762,
   "metapath_contribution": {
     "CbGaD": 0.5690476134884616,
     "CbGbCtD": 0.05488532824657287,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3309031021783636,
     "CrCbGaD": 0.0005684152034515924
   },
+  "n_trials": 0.0,
   "prediction": 0.00174314796640582,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

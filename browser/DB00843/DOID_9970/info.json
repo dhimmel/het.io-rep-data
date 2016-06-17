@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7698309492847851,
   "metapath_contribution": {
     "CbGaD": 0.45595241664099917,
     "CbGbCtD": 0.27361121437910985,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16392069485028746,
     "CrCbGaD": 0.0019544977545466182
   },
+  "n_trials": 0.0,
   "prediction": 0.00478093232275437,
   "status": 0,
   "training_prediction": 0.0121908048163051

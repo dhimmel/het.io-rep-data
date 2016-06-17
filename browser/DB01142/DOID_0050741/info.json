@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.39777965354630634,
     "CbGbCtD": 0.33086935638105336,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12025549932913078,
     "CrCbGaD": 0.003733443548903932
   },
+  "n_trials": 0.0,
   "prediction": 0.00632586425927084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

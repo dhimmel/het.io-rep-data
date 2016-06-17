@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00908",
   "compound_name": "Quinidine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.8784135240572171,
   "metapath_contribution": {
     "CbGaD": 0.18554662753665993,
     "CbGbCtD": 0.5941301294497708,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18768259688733227,
     "CrCbGaD": 0.0004688078090655182
   },
+  "n_trials": 0.0,
   "prediction": 0.00324505008823087,
   "status": 0,
   "training_prediction": 0.00885488493133507

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.44018205461638504,
   "metapath_contribution": {
     "CbGaD": 0.3971379519636571,
     "CbGbCtD": 0.300479973297176,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1442319839130687,
     "CrCbGaD": 0.003673355572956085
   },
+  "n_trials": 8.0,
   "prediction": 0.00164433714783853,
   "status": 0,
   "training_prediction": 0.0056180369589749705

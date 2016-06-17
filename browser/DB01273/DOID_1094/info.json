@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01273",
   "compound_name": "Varenicline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.29844758927400616,
     "CbGeAlD": 0.03062486556218916,
     "CbGpPWpGaD": 0.0663542952913427,
     "CtDrD": 0.604573249872462
   },
+  "n_trials": 0.0,
   "prediction": 0.0188361919116426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

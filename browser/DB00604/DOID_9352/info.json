@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6801040312093629,
   "metapath_contribution": {
     "CbGaD": 0.3506190520854087,
     "CbGbCtD": 0.5371766992488346,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08856706589563058,
     "CrCbGaD": 0.0025817651369289965
   },
+  "n_trials": 0.0,
   "prediction": 0.00365056467934584,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

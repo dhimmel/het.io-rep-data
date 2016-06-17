@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.9211745511823406,
     "CbGeAlD": 0.03856449297248222,
     "CbGpPWpGaD": 0.032753362398919954,
     "CrCbGaD": 0.00750759344625724
   },
+  "n_trials": 0.0,
   "prediction": 0.00229763596908002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

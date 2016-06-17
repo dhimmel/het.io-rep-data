@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00786",
   "compound_name": "Marimastat",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.44968593280222674,
     "CbGbCtD": 0.3658885523691569,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.07510654254593943,
     "CbGpPWpGaD": 0.10727061571153064
   },
+  "n_trials": 0.0,
   "prediction": 0.0151993200603593,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

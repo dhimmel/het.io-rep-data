@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.526007802340702,
   "metapath_contribution": {
     "CbGaD": 0.6467974634153065,
     "CbGeAlD": 0.1410038338322068,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07900835711193231,
     "CrCbGaD": 0.005214220261503606
   },
+  "n_trials": 0.0,
   "prediction": 0.0016158161020411901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

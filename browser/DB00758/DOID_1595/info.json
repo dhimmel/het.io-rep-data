@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00758",
   "compound_name": "Clopidogrel",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.46814044213264006,
   "metapath_contribution": {
-    "CbGeAlD": 0.35097310963225087,
+    "CbGeAlD": 0.3509731096322508,
     "CbGpPWpGaD": 0.6048168274755679,
-    "CrCbGaD": 0.0442100628921813
+    "CrCbGaD": 0.044210062892181295
   },
+  "n_trials": 1.0,
   "prediction": 0.00145463509197549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

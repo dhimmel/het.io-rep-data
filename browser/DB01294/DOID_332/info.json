@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.73405690372057,
     "CbGeAlD": 0.08421981233892535,
     "CbGpPWpGaD": 0.10060763874306976,
     "CcSEcCtD": 0.08111564519743487
   },
+  "n_trials": 0.0,
   "prediction": 0.00315017775698004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

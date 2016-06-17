@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.3361183776068699,
     "CbGbCtD": 0.3804792649668538,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17329590365296565,
     "CrCbGaD": 0.003418213352506892
   },
+  "n_trials": 0.0,
   "prediction": 0.00312402422978073,
   "status": 0,
   "training_prediction": 0.00383323217539422

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.4510220321299122,
     "CbGbCtD": 0.3807572265444581,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11610525031976862,
     "CrCbGaD": 0.0018603323643319424
   },
+  "n_trials": 0.0,
   "prediction": 0.00483899318588296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

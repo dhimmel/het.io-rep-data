@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.8862158647594279,
   "metapath_contribution": {
     "CbGaD": 0.5765993029097917,
     "CbGbCtD": 0.13110222990807105,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14018172371017557,
     "CrCbGaD": 0.001638227687410478
   },
+  "n_trials": 0.0,
   "prediction": 0.0024942032197757397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.7035110533159951,
   "metapath_contribution": {
     "CbGaD": 0.23186949517607514,
     "CbGbCtD": 0.4637416161589855,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1795979026174234,
     "CrCbGaD": 0.0012888394666121998
   },
+  "n_trials": 0.0,
   "prediction": 0.00347624538848503,
   "status": 0,
   "training_prediction": 0.030781436148372997

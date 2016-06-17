@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01396",
   "compound_name": "Digitoxin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.27568270481144297,
   "metapath_contribution": {
     "CbGaD": 0.32633933807331916,
     "CbGbCtD": 0.5947440588868249,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04601802890577077,
     "CrCbGaD": 0.0014552198115055919
   },
+  "n_trials": 0.0,
   "prediction": 0.0011741124542390198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

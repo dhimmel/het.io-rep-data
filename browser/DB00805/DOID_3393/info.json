@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00805",
   "compound_name": "Minaprine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.232119635890767,
   "metapath_contribution": {
     "CbGaD": 0.4298881866640784,
     "CbGbCtD": 0.17451670692353485,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.299761699603479,
     "CrCbGaD": 0.001938175446120869
   },
+  "n_trials": 0.0,
   "prediction": 0.0013594599285771901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

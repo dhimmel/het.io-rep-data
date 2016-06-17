@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.711963589076723,
   "metapath_contribution": {
     "CbGaD": 0.4951336176942604,
     "CbGbCtD": 0.2437171168993644,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1278438291181149,
     "CrCbGaD": 0.0025488417481061157
   },
+  "n_trials": 0.0,
   "prediction": 0.0021684302972702,
   "status": 0,
   "training_prediction": 0.0092256524754109

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGaD": 0.24411081649583846,
     "CbGbCtD": 0.4763697975110826,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14204334897484253,
     "CrCbGaD": 0.0018146363589991265
   },
+  "n_trials": 0.0,
   "prediction": 0.00234797981506975,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

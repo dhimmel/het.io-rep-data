@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.23421393976155827,
     "CbGbCtD": 0.1884585513677913,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1762601682700786,
     "CrCtD": 0.2931226144402131
   },
+  "n_trials": 0.0,
   "prediction": 0.0546179418419444,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

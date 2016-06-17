@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGaD": 0.8094229366717021,
     "CbGbCtD": 0.14393948365537682,
     "CbGpPWpGaD": 0.040419620937461355,
     "CrCbGaD": 0.006217958735459732
   },
+  "n_trials": 0.0,
   "prediction": 0.0023818697860791,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

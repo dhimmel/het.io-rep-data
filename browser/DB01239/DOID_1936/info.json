@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.345253576072822,
   "metapath_contribution": {
-    "CbGaD": 0.7500111541015573,
-    "CbGbCtD": 0.098716216232865,
-    "CbGeAlD": 0.005017039298892336,
-    "CbGpPWpGaD": 0.13733805980544295,
-    "CrCbGaD": 0.008917530561242384
+    "CbGaD": 0.7500111541015574,
+    "CbGbCtD": 0.09871621623286503,
+    "CbGeAlD": 0.005017039298892337,
+    "CbGpPWpGaD": 0.13733805980544297,
+    "CrCbGaD": 0.008917530561242386
   },
+  "n_trials": 0.0,
   "prediction": 0.00143860110401767,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

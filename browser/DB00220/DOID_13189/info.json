@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.39021120765010164,
     "CbGbCtD": 0.47568845256277587,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10861590951025428,
     "CrCbGaD": 0.0013839812955535138
   },
+  "n_trials": 0.0,
   "prediction": 0.00723595926590093,
   "status": 0,
   "training_prediction": 0.0158363480330039

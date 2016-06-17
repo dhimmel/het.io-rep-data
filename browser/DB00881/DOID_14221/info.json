@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00881",
   "compound_name": "Quinapril",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.3538682082234465,
     "CbGeAlD": 0.04302307623539346,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.00309949235417819,
     "CtDrD": 0.5820448116317785
   },
+  "n_trials": 0.0,
   "prediction": 0.005172758816919721,
   "status": 0,
   "training_prediction": 0.00233678581485672

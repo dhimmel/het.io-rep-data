@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.59297789336801,
   "metapath_contribution": {
     "CbGaD": 0.547299566216543,
     "CbGeAlD": 0.09995440698423899,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08606508524360756,
     "CrCbGaD": 0.0038860256014651854
   },
+  "n_trials": 0.0,
   "prediction": 0.0016548652439784199,
   "status": 0,
   "training_prediction": 0.00203122808310534

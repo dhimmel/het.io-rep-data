@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00774",
   "compound_name": "Hydroflumethiazide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.43433029908972703,
   "metapath_contribution": {
     "CbGaD": 0.7436211007327694,
     "CbGeAlD": 0.060975656439093445,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06808001589746844,
     "CrCbGaD": 0.00782876815337844
   },
+  "n_trials": 0.0,
   "prediction": 0.0014060625221738099,
   "status": 0,
   "training_prediction": 0.00309888478925695

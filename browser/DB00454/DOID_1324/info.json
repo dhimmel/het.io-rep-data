@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.546814044213264,
   "metapath_contribution": {
     "CbGaD": 0.1683706435265819,
     "CbGbCtD": 0.5381300161392296,
     "CbGpPWpGaD": 0.15348520091897763,
     "CcSEcCtD": 0.14001413941521085
   },
+  "n_trials": 0.0,
   "prediction": 0.00199310355381781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
     "CbGaD": 0.46959740988143134,
     "CbGbCtD": 0.3121413748425338,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.07219172234963968,
     "CrCbGaD": 0.0031996305121780415
   },
+  "n_trials": 0.0,
   "prediction": 0.0026300192293032603,
   "status": 0,
   "training_prediction": 0.0111726759035249

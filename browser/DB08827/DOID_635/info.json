@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08827",
   "compound_name": "Lomitapide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGbCtD": 0.21645520455050982,
     "CbGeAlD": 0.009664755785798956,
     "CcSEcCtD": 0.08733575326928066,
     "CiPCiCtD": 0.6865442863944106
   },
+  "n_trials": 0.0,
   "prediction": 0.015276254670798002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

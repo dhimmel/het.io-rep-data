@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.8218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.7234515705539388,
     "CbGeAlD": 0.10090787780067341,
     "CbGpPWpGaD": 0.1699201688342848,
     "CrCbGaD": 0.005720382811103001
   },
+  "n_trials": 0.0,
   "prediction": 0.0018647163190462,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

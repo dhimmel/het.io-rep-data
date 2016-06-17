@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGaD": 0.25462516781781314,
     "CbGbCtD": 0.5042409480621017,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10759034690406867,
     "CrCbGaD": 0.0028827408720562405
   },
+  "n_trials": 0.0,
   "prediction": 0.002034240443792,
   "status": 0,
   "training_prediction": 0.00656704998564188

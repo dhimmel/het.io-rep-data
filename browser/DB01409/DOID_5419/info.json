@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01409",
   "compound_name": "Tiotropium",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.8265695019877337,
     "CbGeAlD": 0.02904738112476353,
     "CbGpPWpGaD": 0.13844004420443567,
     "CrCbGaD": 0.005943072683067085
   },
+  "n_trials": 0.0,
   "prediction": 0.0031640555518031802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

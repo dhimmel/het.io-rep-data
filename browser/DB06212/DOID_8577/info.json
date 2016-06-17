@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06212",
   "compound_name": "Tolvaptan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.22281826806355823,
     "CbGbCtD": 0.21515905444641353,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.001822641653456802,
     "CrCrCtD": 0.46908739737847743
   },
+  "n_trials": 0.0,
   "prediction": 0.00665245401464917,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

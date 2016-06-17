@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6196358907672299,
   "metapath_contribution": {
     "CbGbCtD": 0.6338595026102035,
     "CbGdCrCtD": 0.0018917733041541463,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11747357527536124,
     "CcSEcCtD": 0.19996146947829752
   },
+  "n_trials": 0.0,
   "prediction": 0.0044818404253237,
   "status": 0,
   "training_prediction": 0.0356039390027969

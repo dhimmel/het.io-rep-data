@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.41401168622554935,
     "CbGbCtD": 0.30030446813474093,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.11203724512458323,
     "CcSEcCtD": 0.10257633647973187
   },
+  "n_trials": 0.0,
   "prediction": 0.00472280547452263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

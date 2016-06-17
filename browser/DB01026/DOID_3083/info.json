@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7574772431729521,
   "metapath_contribution": {
     "CbGaD": 0.36023573810671905,
     "CbGbCtD": 0.41322084892924865,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1000486611699404,
     "CrCbGaD": 0.0008955252251782241
   },
+  "n_trials": 3.0,
   "prediction": 0.0034777235900040897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

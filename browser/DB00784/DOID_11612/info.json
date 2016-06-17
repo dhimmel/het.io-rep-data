@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.84090716242957,
     "CbGeAlD": 0.027995195534845804,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.011867610411873432,
     "CrCbGaD": 0.0032534249194558105
   },
+  "n_trials": 0.0,
   "prediction": 0.00265876553049588,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

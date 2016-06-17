@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00887",
   "compound_name": "Bumetanide",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.527958387516255,
   "metapath_contribution": {
     "CbGaD": 0.4370607369917531,
     "CbGeAlD": 0.30165552484708136,
     "CbGpPWpGaD": 0.2572416591591191,
     "CrCbGaD": 0.0040420790020464035
   },
+  "n_trials": 1.0,
   "prediction": 0.0014377915057065,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.33412061557592315,
     "CbGbCtD": 0.32894712487692324,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0010865138620238732,
     "CcSEcCtD": 0.25576929732769677
   },
+  "n_trials": 0.0,
   "prediction": 0.0027872438656117104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

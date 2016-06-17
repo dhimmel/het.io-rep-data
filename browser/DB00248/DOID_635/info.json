@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGbCtD": 0.30192289912503195,
     "CbGeAlD": 0.11139729646237148,
     "CbGpPWpGaD": 0.1520930697573038,
     "CcSEcCtD": 0.43458673465529274
   },
+  "n_trials": 0.0,
   "prediction": 0.0027521928196351103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

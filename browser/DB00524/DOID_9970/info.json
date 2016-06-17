@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00524",
   "compound_name": "Metolazone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGbCtD": 0.3235481480429759,
     "CbGeAlD": 0.015469239228635395,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08241876016221854,
     "CtDrD": 0.5228928412753856
   },
+  "n_trials": 0.0,
   "prediction": 0.00631878997540275,
   "status": 0,
   "training_prediction": 0.0160736621025041

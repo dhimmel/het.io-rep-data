@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.545513654096229,
   "metapath_contribution": {
     "CbGbCtD": 0.736009530675868,
     "CbGeAlD": 0.045805529831499034,
     "CbGpPWpGaD": 0.13254255578157104,
     "CcSEcCtD": 0.08564238371106174
   },
+  "n_trials": 0.0,
   "prediction": 0.0018190490163225198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00770",
   "compound_name": "Alprostadil",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGbCtD": 0.6719756687667865,
     "CbGpPWpGaD": 0.11850169987779853,
     "CcSEcCtD": 0.19985772385565334,
     "CrCbGaD": 0.009664907499761696
   },
+  "n_trials": 0.0,
   "prediction": 0.00171770440983814,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

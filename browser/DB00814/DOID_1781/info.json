@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.8198959687906371,
   "metapath_contribution": {
     "CbGaD": 0.46913983155998173,
     "CbGbCtD": 0.2902479581897758,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1952720384342939,
     "CrCbGaD": 0.004585247666349196
   },
+  "n_trials": 0.0,
   "prediction": 0.0023122490674776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

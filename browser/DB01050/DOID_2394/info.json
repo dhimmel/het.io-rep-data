@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
     "CbGaD": 0.13932283409179555,
     "CbGbCtD": 0.1757524241722057,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2086244337034733,
     "CrCtD": 0.36578803929266973
   },
+  "n_trials": 0.0,
   "prediction": 0.0171871426333267,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

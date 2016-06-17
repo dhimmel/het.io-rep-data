@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.330299089726918,
   "metapath_contribution": {
     "CbGaD": 0.32356408444862933,
     "CbGbCtD": 0.4294599976087144,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18330428182971015,
     "CrCbGaD": 0.003736536916357967
   },
+  "n_trials": 0.0,
   "prediction": 0.0011829085168050001,
   "status": 0,
   "training_prediction": 0.00168816243525965

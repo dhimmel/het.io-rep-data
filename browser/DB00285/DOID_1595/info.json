@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.677503250975293,
   "metapath_contribution": {
     "CbGaD": 0.8369305558454478,
     "CbGeAlD": 0.07954433020108889,
     "CbGpPWpGaD": 0.07503827144416782,
     "CrCbGaD": 0.008486842509295366
   },
+  "n_trials": 0.0,
   "prediction": 0.00186498086610702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

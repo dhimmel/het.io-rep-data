@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00626",
   "compound_name": "Bacitracin",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.5481144343302989,
   "metapath_contribution": {
-    "CbGeAlD": 0.4486580683696408,
-    "CbGpPWpGaD": 0.5510958129314552,
+    "CbGeAlD": 0.44865806836964084,
+    "CbGpPWpGaD": 0.5510958129314553,
     "CrCbGaD": 0.0002461186989040269
   },
+  "n_trials": 0.0,
   "prediction": 0.00125782101018038,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

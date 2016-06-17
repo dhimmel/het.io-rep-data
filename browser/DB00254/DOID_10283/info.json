@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.5557198843410925,
     "CbGbCtD": 0.294416772964913,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11799736286210999,
     "CrCbGaD": 0.002670602389907773
   },
+  "n_trials": 0.0,
   "prediction": 0.00585730562536415,
   "status": 0,
   "training_prediction": 0.0244725894338124

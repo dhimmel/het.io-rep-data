@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00050",
   "compound_name": "Cetrorelix",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGbCtD": 0.315614159904964,
     "CbGeAlD": 0.026319535535939777,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2269005502597691,
     "CrCtD": 0.3678833433797265
   },
+  "n_trials": 0.0,
   "prediction": 0.0393318796006683,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

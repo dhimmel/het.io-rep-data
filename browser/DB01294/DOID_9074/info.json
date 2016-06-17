@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9213263979193761,
   "metapath_contribution": {
     "CbGaD": 0.43107777490669247,
     "CbGbCtD": 0.3834694200828889,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.0346323991112562,
     "CcSEcCtD": 0.07892033204840306
   },
+  "n_trials": 0.0,
   "prediction": 0.006089756587781129,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

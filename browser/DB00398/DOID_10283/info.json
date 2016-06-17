@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.37857902942657184,
     "CbGbCtD": 0.32475488413615083,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11502585884813168,
     "CrCbGaD": 0.002871950200975452
   },
+  "n_trials": 11.0,
   "prediction": 0.0093928765682159,
   "status": 0,
   "training_prediction": 0.0841562573292639

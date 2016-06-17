@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01355",
   "compound_name": "Hexobarbital",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.7508206721710597,
     "CbGbCtD": 0.11451486159908972,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06546480690736253,
     "CrCbGaD": 0.005799774633257948
   },
+  "n_trials": 0.0,
   "prediction": 0.00396546581681628,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

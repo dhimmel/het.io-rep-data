@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6859557867360211,
   "metapath_contribution": {
     "CbGaD": 0.30402959779866,
     "CbGbCtD": 0.359174581346081,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.01967030224370422,
     "CcSEcCtD": 0.26857832464249015
   },
+  "n_trials": 1.0,
   "prediction": 0.0024779979286479897,
   "status": 0,
   "training_prediction": 0.0237345419658704

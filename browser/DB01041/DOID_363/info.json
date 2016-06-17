@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.903771131339402,
   "metapath_contribution": {
     "CbGaD": 0.481914758014263,
     "CbGbCtD": 0.24714852557040143,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14189857570226833,
     "CrCbGaD": 0.000978446028305341
   },
+  "n_trials": 2.0,
   "prediction": 0.00367408949699376,
   "status": 0,
   "training_prediction": 0.0111255279471578

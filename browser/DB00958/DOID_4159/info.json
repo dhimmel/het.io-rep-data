@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00958",
   "compound_name": "Carboplatin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGbCtD": 0.21312946532144955,
     "CbGeAlD": 0.05796960129716533,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0015734521625899876,
     "CtDrD": 0.7100874016115644
   },
+  "n_trials": 1.0,
   "prediction": 0.00825764266539905,
   "status": 0,
   "training_prediction": 0.0941056260832585

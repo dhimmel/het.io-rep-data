@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00875",
   "compound_name": "Flupentixol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.746423927178153,
   "metapath_contribution": {
     "CbGaD": 0.8914235417793934,
     "CbGeAlD": 0.041020913058969495,
     "CbGpPWpGaD": 0.06306834812868486,
     "CrCbGaD": 0.004487197032952246
   },
+  "n_trials": 0.0,
   "prediction": 0.0021866524952164,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

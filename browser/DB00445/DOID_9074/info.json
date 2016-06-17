@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00445",
   "compound_name": "Epirubicin",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.005851755526658001,
   "metapath_contribution": {
     "CbGbCtD": 0.3792708618744646,
     "CbGdCrCtD": 0.007640109097272821,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.42039201416271815,
     "CrCbGaD": 0.0019918515692305865
   },
+  "n_trials": 0.0,
   "prediction": 0.000589499111761254,
   "status": 0,
   "training_prediction": 0.0146480267896858

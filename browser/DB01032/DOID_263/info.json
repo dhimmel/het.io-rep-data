@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.057578262996451274,
     "CbGbCtD": 0.4142382517998311,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0017174757804301818,
     "CrCrCtD": 0.34556535018272233
   },
+  "n_trials": 0.0,
   "prediction": 0.00597140608938209,
   "status": 0,
   "training_prediction": 0.0172329531537045

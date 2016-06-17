@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.40180501128697965,
     "CbGbCtD": 0.24363558770583227,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003170370828447867,
     "CrCrCtD": 0.20542270256512343
   },
+  "n_trials": 0.0,
   "prediction": 0.010420194222316,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

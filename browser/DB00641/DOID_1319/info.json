@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGaD": 0.4648886781368298,
     "CbGbCtD": 0.34179044226221766,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10824087123869856,
     "CrCbGaD": 0.004251276983741025
   },
+  "n_trials": 1.0,
   "prediction": 0.00259598449532677,
   "status": 0,
   "training_prediction": 0.007878202334187

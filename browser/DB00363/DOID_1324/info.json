@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.514954486345904,
   "metapath_contribution": {
     "CbGaD": 0.42895678821801797,
     "CbGbCtD": 0.40088618285533767,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1319888073184085,
     "CrCbGaD": 0.0015041323874417907
   },
+  "n_trials": 0.0,
   "prediction": 0.00188870065374168,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

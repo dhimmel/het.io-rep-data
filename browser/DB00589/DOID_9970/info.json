@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8276983094928481,
   "metapath_contribution": {
     "CbGaD": 0.40804254869583884,
     "CbGbCtD": 0.3613461448871557,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10915901975168592,
     "CrCbGaD": 0.0038277776231173447
   },
+  "n_trials": 0.0,
   "prediction": 0.00587646729768949,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

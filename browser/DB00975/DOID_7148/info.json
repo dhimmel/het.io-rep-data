@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00975",
   "compound_name": "Dipyridamole",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.6812202415495456,
     "CbGbCtD": 0.049759890753245696,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1502794073363576,
     "CcSEcCtD": 0.10313139496874574
   },
+  "n_trials": 3.0,
   "prediction": 0.004008525643682029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

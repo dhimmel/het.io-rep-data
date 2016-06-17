@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01043",
   "compound_name": "Memantine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.778445573115324,
     "CbGeAlD": 0.05933852253849817,
     "CbGpPWpGaD": 0.16221590434617783
   },
+  "n_trials": 8.0,
   "prediction": 0.00617719069025131,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

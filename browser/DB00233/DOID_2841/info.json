@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.2667504059251507,
     "CbGbCtD": 0.2540717678651952,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0012424068521803093,
     "CrCrCtD": 0.3256511693941131
   },
+  "n_trials": 0.0,
   "prediction": 0.0105311785399808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

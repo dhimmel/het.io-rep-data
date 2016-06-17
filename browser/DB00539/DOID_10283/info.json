@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.730819245773732,
   "metapath_contribution": {
     "CbGaD": 0.3164709062062143,
     "CbGbCtD": 0.46768305529888293,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1327053064981294,
     "CrCbGaD": 0.0028249186586549284
   },
+  "n_trials": 3.0,
   "prediction": 0.0038692260113255897,
   "status": 0,
   "training_prediction": 0.0162695353537107

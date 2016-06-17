@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01058",
   "compound_name": "Praziquantel",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.2797877103082587,
     "CbGbCtD": 0.5019511609356265,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13876129786714236,
     "CrCbGaD": 0.0028017642549640325
   },
+  "n_trials": 0.0,
   "prediction": 0.005301791313694001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

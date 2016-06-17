@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00672",
   "compound_name": "Chlorpropamide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8296488946684009,
   "metapath_contribution": {
     "CbGbCtD": 0.24771640219840596,
     "CbGeAlD": 0.0010317040217655532,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0022212717306083073,
     "CtDrD": 0.6773786831156862
   },
+  "n_trials": 0.0,
   "prediction": 0.0032365789884027,
   "status": 0,
   "training_prediction": 0.00527338506407303

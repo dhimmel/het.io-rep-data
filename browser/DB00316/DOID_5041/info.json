@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.6077727945915065,
     "CbGbCtD": 0.09170606983260336,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.16828602610053134,
     "CcSEcCtD": 0.06975081771135806
   },
+  "n_trials": 0.0,
   "prediction": 0.0033701254178008897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.160598179453836,
   "metapath_contribution": {
     "CbGbCtD": 0.3898828950202335,
     "CbGeAlD": 0.025552516862733184,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3416305889690549,
     "CrCbGaD": 0.0003020429375687424
   },
+  "n_trials": 0.0,
   "prediction": 0.000996791687027333,
   "status": 0,
   "training_prediction": 0.000983298860501273

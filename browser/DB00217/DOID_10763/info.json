@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00217",
   "compound_name": "Bethanidine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.774382314694408,
   "metapath_contribution": {
     "CbGaD": 0.4369350949443414,
     "CbGbCtD": 0.3491561817170186,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0029886218464828117,
     "CrCrCtD": 0.12923816515452596
   },
+  "n_trials": 0.0,
   "prediction": 0.00885207878797962,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

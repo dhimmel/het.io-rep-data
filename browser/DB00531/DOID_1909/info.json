@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8693107932379709,
   "metapath_contribution": {
     "CbGaD": 0.23434671097252135,
     "CbGbCtD": 0.3766040769413677,
     "CbGpPWpGaD": 0.031566430708798894,
     "CcSEcCtD": 0.35748278137731204
   },
+  "n_trials": 67.0,
   "prediction": 0.00264619781374366,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

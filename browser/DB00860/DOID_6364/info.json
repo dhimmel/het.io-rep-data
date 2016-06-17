@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.029258777633290003,
   "metapath_contribution": {
     "CbGbCtD": 0.7079907241225943,
     "CbGeAlD": 0.012194739867048957,
     "CcSEcCtD": 0.276196349407868,
     "CrCbGaD": 0.0036181866024886334
   },
+  "n_trials": 1.0,
   "prediction": 0.0009168018393887429,
   "status": 0,
   "training_prediction": 0.013238601853956

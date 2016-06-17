@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00949",
   "compound_name": "Felbamate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6235370611183361,
   "metapath_contribution": {
     "CbGbCtD": 0.3167104196160803,
     "CbGeAlD": 0.008387777749383792,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.001020772372748154,
     "CrCrCtD": 0.41180933109938106
   },
+  "n_trials": 0.0,
   "prediction": 0.0052114358745632,
   "status": 0,
   "training_prediction": 0.0589692675698848

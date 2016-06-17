@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00178",
   "compound_name": "Ramipril",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.598179453836151,
   "metapath_contribution": {
     "CbGaD": 0.8924462419480471,
     "CbGeAlD": 0.06020239312725197,
     "CbGpPWpGaD": 0.03692543889436827,
     "CrCbGaD": 0.01042592603033257
   },
+  "n_trials": 0.0,
   "prediction": 0.00178068464367503,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

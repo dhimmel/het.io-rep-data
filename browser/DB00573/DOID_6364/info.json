@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.286736020806242,
   "metapath_contribution": {
-    "CbGbCtD": 0.20586937994120375,
-    "CcSEcCtD": 0.17661575411332725,
-    "CrCbGaD": 0.006255943168117133,
-    "CrCrCtD": 0.6112589227773519
+    "CbGbCtD": 0.20586937994120372,
+    "CcSEcCtD": 0.17661575411332722,
+    "CrCbGaD": 0.006255943168117132,
+    "CrCrCtD": 0.6112589227773518
   },
+  "n_trials": 0.0,
   "prediction": 0.00184909653246755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

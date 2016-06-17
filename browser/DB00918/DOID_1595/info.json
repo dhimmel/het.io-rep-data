@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.8268288845643028,
     "CbGeAlD": 0.051608458138849095,
     "CbGpPWpGaD": 0.11211751982983799,
     "CrCbGaD": 0.009445137467010069
   },
+  "n_trials": 0.0,
   "prediction": 0.00253963482362968,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04868",
   "compound_name": "Nilotinib",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.513003901170351,
   "metapath_contribution": {
     "CbGaD": 0.5956309367378797,
     "CbGeAlD": 0.09922793898389112,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09498275932510512,
     "CrCbGaD": 0.006316215937930594
   },
+  "n_trials": 0.0,
   "prediction": 0.00142135888806905,
   "status": 0,
   "training_prediction": 0.00104825419670902

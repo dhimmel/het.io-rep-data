@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.485695708712614,
   "metapath_contribution": {
     "CbGbCtD": 0.6276918711861161,
     "CbGdCrCtD": 0.007817760343644894,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.30346892085481975,
     "CrCbGaD": 0.0007470916486688183
   },
+  "n_trials": 0.0,
   "prediction": 0.0014333310026705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

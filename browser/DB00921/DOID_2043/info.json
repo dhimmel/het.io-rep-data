@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00921",
   "compound_name": "Buprenorphine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.6386746944466447,
     "CbGbCtD": 0.09050590121974562,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18978350593386697,
     "CrCbGaD": 0.004790046249288122
   },
+  "n_trials": 0.0,
   "prediction": 0.00283583092106104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.9027061231136595,
     "CbGeAlD": 0.0564336871612903,
     "CbGpPWpGaD": 0.03831632662132852,
     "CrCbGaD": 0.002543863103721729
   },
+  "n_trials": 0.0,
   "prediction": 0.00231513639289542,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

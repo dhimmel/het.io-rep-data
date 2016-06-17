@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01251",
   "compound_name": "Gliquidone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.16578541650369324,
     "CbGbCtD": 0.24433367954144974,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.22625409205247926,
     "CrCtD": 0.32783604682791856
   },
+  "n_trials": 1.0,
   "prediction": 0.118701159783507,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

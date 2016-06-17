@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01147",
   "compound_name": "Cloxacillin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.8853420972181555,
     "CbGbCtD": 0.08736155662425223,
     "CbGpPWpGaD": 0.02151552783730727,
     "CrCbGaD": 0.005780818320284998
   },
+  "n_trials": 0.0,
   "prediction": 0.0017788321153178602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

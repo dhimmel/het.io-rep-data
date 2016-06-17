@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.294117647058824,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.0624187256176853,
   "metapath_contribution": {
     "CbGbCtD": 0.6488929425678128,
     "CbGdCrCtD": 0.007211022251084495,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21770683009804057,
     "CrCbGaD": 0.001422524257735365
   },
+  "n_trials": 0.0,
   "prediction": 0.000766754068144224,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

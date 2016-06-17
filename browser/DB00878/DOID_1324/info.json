@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00878",
   "compound_name": "Chlorhexidine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGbCtD": 0.5288305406765433,
     "CbGeAlD": 0.005409628967324485,
     "CbGpPWpGaD": 0.18143246317417974,
     "CcSEcCtD": 0.2843273671819525
   },
+  "n_trials": 0.0,
   "prediction": 0.0028280010473988,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

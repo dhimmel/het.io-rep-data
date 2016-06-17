@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGaD": 0.425888868007489,
     "CbGbCtD": 0.47060051826797067,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.0871959146758012,
     "CrCbGaD": 0.0023953922578357897
   },
+  "n_trials": 0.0,
   "prediction": 0.00449671646762076,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

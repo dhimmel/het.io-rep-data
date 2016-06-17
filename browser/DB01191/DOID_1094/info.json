@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01191",
   "compound_name": "Dexfenfluramine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGaD": 0.8627665993973145,
     "CbGeAlD": 0.011702653353715311,
     "CbGpPWpGaD": 0.1173095686053041,
     "CrCbGaD": 0.008221178643666036
   },
+  "n_trials": 0.0,
   "prediction": 0.00296801948715755,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

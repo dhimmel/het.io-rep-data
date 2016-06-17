@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.44465957408701773,
     "CbGbCtD": 0.32103982782105556,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07924885480298399,
     "CcSEcCtD": 0.11944080886237267
   },
+  "n_trials": 0.0,
   "prediction": 0.00396623243913399,
   "status": 0,
   "training_prediction": 0.01744876258967

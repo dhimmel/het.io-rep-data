@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.6898569570871259,
   "metapath_contribution": {
     "CbGaD": 0.7673255824932866,
     "CbGdCrCtD": 0.008438858558040118,
     "CbGeAlD": 0.14930805506495556,
     "CcSEcCtD": 0.07492750388371762
   },
+  "n_trials": 0.0,
   "prediction": 0.0018467723587737102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

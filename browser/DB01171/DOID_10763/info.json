@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.44473342002600796,
   "metapath_contribution": {
     "CbGbCtD": 0.5995336898766309,
     "CbGeAlD": 0.0302195386999545,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.25157570110052707,
     "CrCbGaD": 0.0047738838762418365
   },
+  "n_trials": 0.0,
   "prediction": 0.0033546016877920803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

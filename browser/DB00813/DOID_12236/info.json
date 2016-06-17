@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00813",
   "compound_name": "Fentanyl",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.126137841352406,
   "metapath_contribution": {
     "CbGbCtD": 0.3629073066064785,
     "CbGpPWpGaD": 0.10555631062146245,
     "CcSEcCtD": 0.5276753654026236,
     "CrCbGaD": 0.0038610173694354427
   },
+  "n_trials": 0.0,
   "prediction": 0.0009308130917992169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

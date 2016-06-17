@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01020",
   "compound_name": "Isosorbide Mononitrate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.44538361508452506,
   "metapath_contribution": {
     "CbGaD": 0.2986011599420535,
     "CbGbCtD": 0.31059236397604845,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2755227557667111,
     "CrCbGaD": 0.004383350134201122
   },
+  "n_trials": 1.0,
   "prediction": 0.0022957588588656697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

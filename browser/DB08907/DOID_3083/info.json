@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08907",
   "compound_name": "Canagliflozin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGaD": 0.447529899519612,
     "CbGbCtD": 0.29153151032093017,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15123833026292763,
     "CrCbGaD": 0.007737528568939843
   },
+  "n_trials": 0.0,
   "prediction": 0.00366273304428026,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

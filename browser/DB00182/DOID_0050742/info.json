@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
     "CbGaD": 0.768570074916149,
     "CbGeAlD": 0.012968296407071435,
     "CbGpPWpGaD": 0.11146654682836826,
     "CcSEcCtD": 0.10699508184841122
   },
+  "n_trials": 0.0,
   "prediction": 0.0015801311610564302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

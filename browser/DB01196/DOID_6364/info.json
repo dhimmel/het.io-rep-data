@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.437581274382315,
   "metapath_contribution": {
     "CbGaD": 0.5618734235186418,
     "CbGbCtD": 0.22091893261979983,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12515327834390996,
     "CrCbGaD": 0.005373491676618441
   },
+  "n_trials": 0.0,
   "prediction": 0.002262954670713,
   "status": 0,
   "training_prediction": 0.00413165582125515

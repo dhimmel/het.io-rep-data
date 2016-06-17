@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.625487646293888,
   "metapath_contribution": {
     "CbGaD": 0.9706950056849006,
     "CbGpPWpGaD": 0.021612272818571674,
     "CrCbGaD": 0.007692721496527692
   },
+  "n_trials": 0.0,
   "prediction": 0.00150885123231235,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

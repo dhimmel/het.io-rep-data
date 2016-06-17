@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05039",
   "compound_name": "Indacaterol",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.608582574772432,
   "metapath_contribution": {
     "CbGaD": 0.3313615502791917,
     "CbGbCtD": 0.49352823740421536,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1215005022666034,
     "CrCbGaD": 0.0022387578840436847
   },
+  "n_trials": 0.0,
   "prediction": 0.00291635695511757,
   "status": 0,
   "training_prediction": 0.0155312289680618

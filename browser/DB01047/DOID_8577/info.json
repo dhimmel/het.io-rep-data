@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGbCtD": 0.14564528272238741,
     "CbGpPWpGaD": 0.005600752624985074,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.19083367551809227,
     "CrCtD": 0.2554668853433982
   },
+  "n_trials": 0.0,
   "prediction": 0.0541270558536219,
   "status": 0,
   "training_prediction": 0.24677688419608101

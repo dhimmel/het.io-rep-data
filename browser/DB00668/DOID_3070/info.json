@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.45708712613784097,
   "metapath_contribution": {
     "CbGaD": 0.5588356989079432,
     "CbGbCtD": 0.16067620702784488,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06515284271134787,
     "CrCbGaD": 0.0036110662269260695
   },
+  "n_trials": 0.0,
   "prediction": 0.00133132398907252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

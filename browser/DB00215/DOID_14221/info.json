@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.7443736461892534,
     "CbGeAlD": 0.007711029309542369,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1365754375652715,
     "CrCbGaD": 0.006865019723445061
   },
+  "n_trials": 0.0,
   "prediction": 0.00257576746551774,
   "status": 0,
   "training_prediction": 0.0011619360066915901

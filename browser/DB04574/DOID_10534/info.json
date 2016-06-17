@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04574",
   "compound_name": "Estropipate",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.384265279583875,
   "metapath_contribution": {
     "CbGaD": 0.3104753066171277,
     "CbGbCtD": 0.2925233427211799,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11967856615630325,
     "CcSEcCtD": 0.23631974822260438
   },
+  "n_trials": 0.0,
   "prediction": 0.00129636764610344,
   "status": 0,
   "training_prediction": 0.00285750120225394

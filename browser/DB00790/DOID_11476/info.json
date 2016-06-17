@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.6853858088555737,
     "CbGbCtD": 0.025034249192222146,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2750672218431053,
     "CrCbGaD": 0.006834227290387389
   },
+  "n_trials": 0.0,
   "prediction": 0.00320372239213338,
   "status": 0,
   "training_prediction": 0.017193844073347

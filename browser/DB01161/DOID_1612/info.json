@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.211963589076723,
   "metapath_contribution": {
     "CbGaD": 0.8093333655961683,
     "CbGpPWpGaD": 0.0579618139945104,
     "CcSEcCtD": 0.12455856429335542,
     "CrCbGaD": 0.008146256115965927
   },
+  "n_trials": 0.0,
   "prediction": 0.0013298883583045,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

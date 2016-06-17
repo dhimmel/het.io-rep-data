@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.3731392655714895,
     "CbGbCtD": 0.4584849086967158,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10122017360943708,
     "CrCbGaD": 0.0019783254802850135
   },
+  "n_trials": 0.0,
   "prediction": 0.0059554317721032795,
   "status": 0,
   "training_prediction": 0.0130538463606001

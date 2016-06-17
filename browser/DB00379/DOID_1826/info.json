@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00379",
   "compound_name": "Mexiletine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.350788884486721,
     "CbGbCtD": 0.4598586801907427,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10634093436227962,
     "CrCbGaD": 0.0031787647766430517
   },
+  "n_trials": 0.0,
   "prediction": 0.0202513964768814,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

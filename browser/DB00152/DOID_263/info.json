@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00152",
   "compound_name": "Thiamine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
     "CbGbCtD": 0.44620642465355614,
     "CbGdCrCtD": 0.010748690320009234,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2062840512030849,
     "CcSEcCtD": 0.142064356199267
   },
+  "n_trials": 0.0,
   "prediction": 0.00270761931202228,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

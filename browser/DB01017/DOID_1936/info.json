@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.5407142894419503,
     "CbGbCtD": 0.2518724733465892,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.12427260388434487,
     "CrCbGaD": 0.0027293531785484277
   },
+  "n_trials": 0.0,
   "prediction": 0.00608573387324125,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

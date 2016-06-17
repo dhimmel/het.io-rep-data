@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7483745123537059,
   "metapath_contribution": {
     "CbGaD": 0.4399383770982546,
     "CbGbCtD": 0.1251698407008174,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13101965778775304,
     "CrCbGaD": 0.006025444730902888
   },
+  "n_trials": 0.0,
   "prediction": 0.00285593650815357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

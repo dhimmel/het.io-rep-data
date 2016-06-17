@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.26072821846554,
   "metapath_contribution": {
     "CbGaD": 0.5269186718989893,
     "CbGdCrCtD": 0.002892489356830899,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2853631997135653,
     "CrCbGaD": 0.004540616662999098
   },
+  "n_trials": 0.0,
   "prediction": 0.0011479135876262,
   "status": 0,
   "training_prediction": 0.005567856390801779

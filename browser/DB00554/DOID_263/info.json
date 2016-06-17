@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.5546163849154749,
   "metapath_contribution": {
     "CbGaD": 0.651152784363158,
     "CbGbCtD": 0.25604023010410143,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.037611558584212085,
     "CrCbGaD": 0.006433334662489696
   },
+  "n_trials": 0.0,
   "prediction": 0.00198353237646759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

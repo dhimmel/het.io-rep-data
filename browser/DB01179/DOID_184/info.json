@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.46879063719115704,
   "metapath_contribution": {
     "CbGaD": 0.45846457186915085,
     "CbGbCtD": 0.3882197287029108,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.004710317596755927,
     "CrCbGaD": 0.0065066619208512064
   },
+  "n_trials": 0.0,
   "prediction": 0.00146471251945271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

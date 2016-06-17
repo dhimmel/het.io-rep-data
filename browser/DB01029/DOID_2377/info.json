@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.47529258777633293,
   "metapath_contribution": {
     "CbGbCtD": 0.3506403161776468,
     "CbGdCrCtD": 0.007901887962604664,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.3345401449178646,
     "CrCbGaD": 0.0004993198167593137
   },
+  "n_trials": 0.0,
   "prediction": 0.00180506848453575,
   "status": 0,
   "training_prediction": 0.00768883097721913

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01154",
   "compound_name": "Thiamylal",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.7978482818553785,
     "CbGeAlD": 0.07104324973300616,
     "CbGpPWpGaD": 0.12435983356221894,
     "CrCbGaD": 0.006748634849396416
   },
+  "n_trials": 0.0,
   "prediction": 0.0035568325817961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

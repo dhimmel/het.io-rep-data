@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGbCtD": 0.3068989473375195,
     "CbGeAlD": 0.017152782492106708,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.022747945664690367,
     "CiPCiCtD": 0.6084695234916515
   },
+  "n_trials": 0.0,
   "prediction": 0.0101067005957454,
   "status": 0,
   "training_prediction": 0.0468183287908898

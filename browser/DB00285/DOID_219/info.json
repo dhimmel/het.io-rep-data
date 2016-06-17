@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGaD": 0.3591298166939289,
     "CbGbCtD": 0.4459674399655701,
     "CbGeAlD": 0.0013361575013274743,
     "CcSEcCtD": 0.19356658583917366
   },
+  "n_trials": 0.0,
   "prediction": 0.00230788039506295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

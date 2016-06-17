@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8068920676202859,
   "metapath_contribution": {
     "CbGaD": 0.2526603007669443,
     "CbGbCtD": 0.6655303485387372,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06470358293174253,
     "CrCbGaD": 0.0054020913599044235
   },
+  "n_trials": 0.0,
   "prediction": 0.00302966319083753,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

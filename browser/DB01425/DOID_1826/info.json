@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01425",
   "compound_name": "Alizapride",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.116384915474642,
   "metapath_contribution": {
-    "CbGeAlD": 0.21551077916429978,
+    "CbGeAlD": 0.21551077916429975,
     "CbGpPWpGaD": 0.7236632917620421,
-    "CrCbGaD": 0.06082592907365808
+    "CrCbGaD": 0.060825929073658073
   },
+  "n_trials": 0.0,
   "prediction": 0.00129419502720469,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

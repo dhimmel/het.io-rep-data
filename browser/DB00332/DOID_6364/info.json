@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00332",
   "compound_name": "Ipratropium bromide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8725617685305591,
   "metapath_contribution": {
     "CbGbCtD": 0.3556130207321101,
     "CbGpPWpGaD": 0.04330669448030836,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0013693822359542918,
     "CrCrCtD": 0.5073090422738722
   },
+  "n_trials": 0.0,
   "prediction": 0.007663177559537459,
   "status": 0,
   "training_prediction": 0.0139290152246875

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.378413524057217,
   "metapath_contribution": {
     "CbGaD": 0.28106628966560293,
     "CbGbCtD": 0.44099701680529535,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21210964736108343,
     "CrCbGaD": 0.003814950165652426
   },
+  "n_trials": 0.0,
   "prediction": 0.0019054887363513801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

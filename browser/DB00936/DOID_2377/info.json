@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.35500650195058503,
   "metapath_contribution": {
     "CbGaD": 0.2689965467727452,
     "CbGbCtD": 0.5967908903723935,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07346755076234596,
     "CrCbGaD": 0.000576576236210252
   },
+  "n_trials": 3.0,
   "prediction": 0.00152920818757553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01415",
   "compound_name": "Ceftibuten",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.45123537061118296,
   "metapath_contribution": {
     "CbGbCtD": 0.7730668155106778,
     "CbGpPWpGaD": 0.027037544346351573,
     "CcSEcCtD": 0.199810353850176,
     "CrCbGaD": 8.528629279450156e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00341479416299499,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.22886866059817898,
   "metapath_contribution": {
     "CbGeAlD": 0.021069572201557838,
     "CbGpPWpGaD": 0.4795086857146675,
     "CcSEcCtD": 0.4994217420837747
   },
+  "n_trials": 0.0,
   "prediction": 0.00116776408119699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

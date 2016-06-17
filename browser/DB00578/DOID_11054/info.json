@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.1222366710013,
   "metapath_contribution": {
     "CbGbCtD": 0.8857752238195906,
     "CbGdCrCtD": 0.006857582035772004,
     "CbGeAlD": 0.01733673269237564,
     "CcSEcCtD": 0.09003046145226178
   },
+  "n_trials": 0.0,
   "prediction": 0.000811525301999815,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

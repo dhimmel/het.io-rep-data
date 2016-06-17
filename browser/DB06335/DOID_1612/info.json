@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06335",
   "compound_name": "Saxagliptin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.3588157751899264,
     "CbGbCtD": 0.4284746254515097,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04753137595192025,
     "CcSEcCtD": 0.12048536091718268
   },
+  "n_trials": 0.0,
   "prediction": 0.00649256956561633,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

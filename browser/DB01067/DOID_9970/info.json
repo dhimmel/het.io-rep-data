@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.838751625487646,
   "metapath_contribution": {
     "CbGaD": 0.19214845763083035,
     "CbGbCtD": 0.1430850619139629,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0007443324567300182,
     "CtDrD": 0.5045535698680211
   },
+  "n_trials": 0.0,
   "prediction": 0.00609685773781257,
   "status": 0,
   "training_prediction": 0.0155144628495165

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.12227257457547493,
     "CbGbCtD": 0.30564308613921204,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0026371776018718892,
     "CrCrCtD": 0.39805542326371524
   },
+  "n_trials": 0.0,
   "prediction": 0.00536942794237606,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

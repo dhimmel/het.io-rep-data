@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.220588235294118,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.288036410923277,
   "metapath_contribution": {
     "CbGbCtD": 0.01046300713297071,
     "CbGeAlD": 0.3680404810879372,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09763091980795183,
     "CrCbGaD": 0.031018460731449312
   },
+  "n_trials": 0.0,
   "prediction": 0.0010399023887376802,
   "status": 0,
   "training_prediction": 0.00076685259158686

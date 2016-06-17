@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.310143042912874,
   "metapath_contribution": {
     "CbGaD": 0.19506079076000746,
     "CbGbCtD": 0.5858623156849506,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14278827286152013,
     "CrCbGaD": 0.0013269629423697487
   },
+  "n_trials": 1.0,
   "prediction": 0.00125729037300964,
   "status": 0,
   "training_prediction": 0.00366117438127221

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00343",
   "compound_name": "Diltiazem",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.19440832249674897,
   "metapath_contribution": {
     "CbGbCtD": 0.4332659399544995,
     "CbGeAlD": 0.007855227831793467,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3178795987576771,
     "CrCbGaD": 0.011709547035046614
   },
+  "n_trials": 0.0,
   "prediction": 0.00113916136171218,
   "status": 0,
   "training_prediction": 0.0011237435507412401

@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00916",
   "compound_name": "Metronidazole",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.854356306892068,
   "metapath_contribution": {
     "CbGbCtD": 0.48029419255565947,
     "CcSEcCtD": 0.5197058074443405
   },
+  "n_trials": 1.0,
   "prediction": 0.00234877389406675,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

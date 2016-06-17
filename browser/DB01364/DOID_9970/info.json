@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.11784556481356503,
     "CbGbCtD": 0.2182610243749107,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.23315031296340788,
     "CrCtD": 0.34882533712234004
   },
+  "n_trials": 2.0,
   "prediction": 0.0576586521500529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

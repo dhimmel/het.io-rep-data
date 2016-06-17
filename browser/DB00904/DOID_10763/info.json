@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.767230169050715,
   "metapath_contribution": {
     "CbGaD": 0.24035486072344456,
     "CbGbCtD": 0.4706106887850965,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09789096721522365,
     "CcSEcCtD": 0.15716081643111818
   },
+  "n_trials": 0.0,
   "prediction": 0.00869285963483215,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

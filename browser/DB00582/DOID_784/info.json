@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00582",
   "compound_name": "Voriconazole",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6755526657997399,
   "metapath_contribution": {
     "CbGaD": 0.8109399996706588,
     "CbGeAlD": 0.05282274875585276,
     "CbGpPWpGaD": 0.13060703525707903,
     "CrCbGaD": 0.005630216316409466
   },
+  "n_trials": 0.0,
   "prediction": 0.0020289703395424898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

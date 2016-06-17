@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.519505851755527,
   "metapath_contribution": {
     "CbGaD": 0.5558241079914196,
     "CbGbCtD": 0.27997847532702413,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07626813473475921,
     "CrCbGaD": 0.005435397571862451
   },
+  "n_trials": 0.0,
   "prediction": 0.00191656859655607,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

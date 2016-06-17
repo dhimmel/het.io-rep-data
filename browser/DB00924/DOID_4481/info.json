@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGbCtD": 0.1279959526903586,
     "CcSEcCtD": 0.05095237513156864,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.22337485347078886,
     "CrCtD": 0.39159891119373064
   },
+  "n_trials": 0.0,
   "prediction": 0.0262559590375187,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

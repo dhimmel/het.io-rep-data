@@ -1,18 +1,20 @@
 {
   "compound_id": "DB01114",
   "compound_name": "Chlorphenamine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.405721716514954,
   "metapath_contribution": {
-    "CbGaD": 0.12294349728682943,
-    "CbGbCtD": 0.29900245392889785,
-    "CbGeAlD": 0.011949194277434249,
-    "CbGpPWpGaD": 0.05251876331832576,
-    "CcSEcCtD": 0.11866440927459627,
-    "CrCbGaD": 0.0028810958791578526,
-    "CrCrCtD": 0.3920405860347587
+    "CbGaD": 0.1229434972868294,
+    "CbGbCtD": 0.2990024539288978,
+    "CbGeAlD": 0.011949194277434247,
+    "CbGpPWpGaD": 0.05251876331832575,
+    "CcSEcCtD": 0.11866440927459626,
+    "CrCbGaD": 0.002881095879157852,
+    "CrCrCtD": 0.39204058603475866
   },
+  "n_trials": 0.0,
   "prediction": 0.00211504750325735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

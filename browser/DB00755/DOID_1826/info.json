@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.17880364109232802,
   "metapath_contribution": {
     "CbGbCtD": 0.6127969547287139,
     "CbGeAlD": 0.051459815744128785,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22607396390311496,
     "CrCbGaD": 0.0001124747768560352
   },
+  "n_trials": 0.0,
   "prediction": 0.0016259735342043,
   "status": 0,
   "training_prediction": 0.00793265467391325

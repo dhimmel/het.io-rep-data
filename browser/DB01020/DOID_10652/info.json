@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01020",
   "compound_name": "Isosorbide Mononitrate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.5273081924577371,
   "metapath_contribution": {
     "CbGbCtD": 0.35203375041946383,
     "CbGeAlD": 0.04943617824838035,
     "CbGpPWpGaD": 0.04934273376014317,
     "CcSEcCtD": 0.5491873375720127
   },
+  "n_trials": 0.0,
   "prediction": 0.00193429693360854,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

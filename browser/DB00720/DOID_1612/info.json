@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.334200260078023,
   "metapath_contribution": {
     "CbGaD": 0.3192298401856399,
     "CbGdCrCtD": 0.006727385071598622,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.3161364680024823,
     "CrCbGaD": 0.0019615006318647005
   },
+  "n_trials": 4.0,
   "prediction": 0.00174708277362064,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

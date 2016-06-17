@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00715",
   "compound_name": "Paroxetine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.406181186875363,
     "CbGbCtD": 0.46851249088508323,
     "CbGpPWpGaD": 0.041833756913300706,
     "CcSEcCtD": 0.083472565326253
   },
+  "n_trials": 0.0,
   "prediction": 0.0107311728026544,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

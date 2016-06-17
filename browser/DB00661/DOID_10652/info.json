@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7555266579973992,
   "metapath_contribution": {
     "CbGaD": 0.2979524968666097,
     "CbGbCtD": 0.29358791858501393,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1565559472927959,
     "CcSEcCtD": 0.17106619819874808
   },
+  "n_trials": 0.0,
   "prediction": 0.00283938549224077,
   "status": 0,
   "training_prediction": 0.00573342936457253

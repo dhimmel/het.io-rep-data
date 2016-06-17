@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.414174252275683,
   "metapath_contribution": {
     "CbGaD": 0.1549701871012586,
     "CbGbCtD": 0.27558111353821774,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003362454250882489,
     "CrCrCtD": 0.33860303903217315
   },
+  "n_trials": 0.0,
   "prediction": 0.00211838386494258,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

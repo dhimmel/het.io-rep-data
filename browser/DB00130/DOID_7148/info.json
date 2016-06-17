@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.6326397919375811,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.002066457913127019,
-    "CbGeAlD": 0.09659632714363761,
-    "CbGpPWpGaD": 0.12772242892847863,
-    "CcSEcCtD": 0.10535011502087317,
-    "CrCbGaD": 0.007105815604239476,
-    "CrCrCtD": 0.6611588553896443
+    "CbGdCrCtD": 0.0020664579131270187,
+    "CbGeAlD": 0.0965963271436376,
+    "CbGpPWpGaD": 0.1277224289284786,
+    "CcSEcCtD": 0.10535011502087316,
+    "CrCbGaD": 0.007105815604239475,
+    "CrCrCtD": 0.6611588553896441
   },
+  "n_trials": 0.0,
   "prediction": 0.00213914308523574,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGaD": 0.2830840678615327,
     "CbGbCtD": 0.06477258636656114,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0032985971142571327,
     "CtDrD": 0.48402062311066346
   },
+  "n_trials": 0.0,
   "prediction": 0.00603544010982619,
   "status": 0,
   "training_prediction": 0.0085955118537108

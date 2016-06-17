@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01001",
   "compound_name": "Salbutamol",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.30494148244473307,
   "metapath_contribution": {
     "CbGaD": 0.43463210202040786,
     "CbGbCtD": 0.3143147846974357,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20898956025525375,
     "CrCbGaD": 0.004702227995541979
   },
+  "n_trials": 0.0,
   "prediction": 0.00154480850389857,
   "status": 0,
   "training_prediction": 0.0108833623360567

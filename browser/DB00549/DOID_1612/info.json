@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00549",
   "compound_name": "Zafirlukast",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6755526657997399,
   "metapath_contribution": {
     "CbGaD": 0.35593990963110883,
     "CbGbCtD": 0.4128221678711733,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12863859641787775,
     "CrCbGaD": 0.002824530967362421
   },
+  "n_trials": 0.0,
   "prediction": 0.00342666656319593,
   "status": 0,
   "training_prediction": 0.0187301356065138

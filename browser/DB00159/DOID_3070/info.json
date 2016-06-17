@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
-    "CbGaD": 0.837594059538947,
-    "CbGeAlD": 0.07558219312566312,
+    "CbGaD": 0.8375940595389471,
+    "CbGeAlD": 0.07558219312566314,
     "CbGpPWpGaD": 0.07972991773798811,
-    "CrCbGaD": 0.007093829597401761
+    "CrCbGaD": 0.007093829597401762
   },
+  "n_trials": 0.0,
   "prediction": 0.00275451064456188,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

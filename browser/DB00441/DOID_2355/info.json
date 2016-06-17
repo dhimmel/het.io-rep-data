@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.0147058823529412,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.0520156046814044,
   "metapath_contribution": {
-    "CbGeAlD": 0.35286688100286323,
-    "CbGpPWpGaD": 0.6324552647995991,
-    "CrCbGaD": 0.014677854197537537
+    "CbGeAlD": 0.3528668810028633,
+    "CbGpPWpGaD": 0.6324552647995992,
+    "CrCbGaD": 0.01467785419753754
   },
+  "n_trials": 0.0,
   "prediction": 0.000546676265076009,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

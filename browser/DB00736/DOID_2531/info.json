@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00736",
   "compound_name": "Esomeprazole",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGaD": 0.30145392509069807,
     "CbGbCtD": 0.1875019045851965,
@@ -11,6 +13,7 @@
     "CpDpCtD": 0.3511019006522428,
     "CrCbGaD": 0.003061408000880475
   },
+  "n_trials": 1.0,
   "prediction": 0.0058907430007302895,
   "status": 0,
   "training_prediction": 0.0511871445124992

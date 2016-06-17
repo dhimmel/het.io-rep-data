@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01130",
   "compound_name": "Prednicarbate",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGbCtD": 0.09865477869170823,
     "CcSEcCtD": 0.014271160954411841,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.1968198121056043,
     "CrCtD": 0.29018961237521285
   },
+  "n_trials": 0.0,
   "prediction": 0.0120370567386201,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

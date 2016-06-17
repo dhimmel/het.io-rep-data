@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00690",
   "compound_name": "Flurazepam",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.15344603381014302,
   "metapath_contribution": {
     "CbGaD": 0.7566063344263891,
     "CbGpPWpGaD": 0.17498686899106408,
     "CcSEcCtD": 0.0560424547061893,
     "CrCbGaD": 0.012364341876357524
   },
+  "n_trials": 0.0,
   "prediction": 0.00083007207553497,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

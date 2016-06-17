@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.618985695708713,
   "metapath_contribution": {
     "CbGbCtD": 0.518248257018939,
     "CbGeAlD": 0.10904154433755317,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2963984622614119,
     "CrCbGaD": 0.002984972661157216
   },
+  "n_trials": 0.0,
   "prediction": 0.0018642326530704302,
   "status": 0,
   "training_prediction": 0.00442827485954363

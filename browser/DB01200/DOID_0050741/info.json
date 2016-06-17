@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.5050837400462017,
     "CbGbCtD": 0.22404228816287172,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11050957900588504,
     "CrCbGaD": 0.0038218037233135518
   },
+  "n_trials": 0.0,
   "prediction": 0.00574338461207714,
   "status": 0,
   "training_prediction": 0.00696494468614933

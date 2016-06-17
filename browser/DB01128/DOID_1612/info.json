@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01128",
   "compound_name": "Bicalutamide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGaD": 0.360197082935103,
     "CbGbCtD": 0.3989643083843476,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17643461066481161,
     "CrCbGaD": 0.0027739114070282804
   },
+  "n_trials": 17.0,
   "prediction": 0.0075493669845374,
   "status": 0,
   "training_prediction": 0.0405162393860213

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.8252584190604213,
     "CbGeAlD": 0.05315824396796188,
     "CbGpPWpGaD": 0.11668772670993456,
     "CrCbGaD": 0.004895610261682257
   },
+  "n_trials": 0.0,
   "prediction": 0.00298993847958089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

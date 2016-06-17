@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.732769830949285,
   "metapath_contribution": {
     "CbGaD": 0.2195155794311776,
     "CbGbCtD": 0.1793779599802401,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.049066287344388254,
     "CtDrD": 0.5471081506870754
   },
+  "n_trials": 2.0,
   "prediction": 0.0019887415751454,
   "status": 0,
   "training_prediction": 0.00819370361293552

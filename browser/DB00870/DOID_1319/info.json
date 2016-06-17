@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00870",
   "compound_name": "Suprofen",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.3983826216067716,
     "CbGbCtD": 0.1384365548272927,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0015246064900198918,
     "CrCrCtD": 0.411254968690394
   },
+  "n_trials": 0.0,
   "prediction": 0.00421052133123594,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

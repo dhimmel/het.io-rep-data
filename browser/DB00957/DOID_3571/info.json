@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00957",
   "compound_name": "Norgestimate",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.443433029908973,
   "metapath_contribution": {
     "CbGaD": 0.6131983853595999,
     "CbGbCtD": 0.2073217581836537,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08023722304445981,
     "CrCbGaD": 0.004467877297116354
   },
+  "n_trials": 0.0,
   "prediction": 0.0013096105720796802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

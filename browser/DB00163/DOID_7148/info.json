@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.38775398803084404,
     "CbGbCtD": 0.3502057421600009,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1816829456245766,
     "CrCbGaD": 0.006264567700873181
   },
+  "n_trials": 2.0,
   "prediction": 0.00532451135267214,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

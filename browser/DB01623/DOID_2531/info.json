@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.38361508452535803,
   "metapath_contribution": {
     "CbGaD": 0.36020956133461,
     "CbGbCtD": 0.3894232373307002,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18231414537318907,
     "CrCbGaD": 0.001990682741407315
   },
+  "n_trials": 0.0,
   "prediction": 0.0018561911135385,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

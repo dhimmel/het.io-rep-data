@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9070221066319899,
   "metapath_contribution": {
     "CbGaD": 0.5215791611197035,
     "CbGbCtD": 0.3357078690181673,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.00881228337192203,
     "CrCbGaD": 0.0041182606420642354
   },
+  "n_trials": 0.0,
   "prediction": 0.0037691236359594102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

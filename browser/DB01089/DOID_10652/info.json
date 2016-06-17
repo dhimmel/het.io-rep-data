@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01089",
   "compound_name": "Deserpidine",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.10338101430429099,
   "metapath_contribution": {
     "CbGeAlD": 0.42887193580931626,
     "CbGpPWpGaD": 0.513398181231926,
     "CrCbGaD": 0.05772988295875771
   },
+  "n_trials": 0.0,
   "prediction": 0.000824518334520811,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

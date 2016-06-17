@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.13322710404161317,
     "CbGbCtD": 0.19010700356974847,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.15539959328627287,
     "CrCtD": 0.22914329211570922
   },
+  "n_trials": 0.0,
   "prediction": 0.130630062003756,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

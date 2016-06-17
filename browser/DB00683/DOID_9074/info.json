@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.386215864759428,
   "metapath_contribution": {
     "CbGbCtD": 0.7107189294190855,
     "CbGeAlD": 0.07555568813041445,
     "CcSEcCtD": 0.21228014840331721,
     "CrCbGaD": 0.0014452340471829094
   },
+  "n_trials": 0.0,
   "prediction": 0.00158528820687205,
   "status": 0,
   "training_prediction": 0.00461339289567485

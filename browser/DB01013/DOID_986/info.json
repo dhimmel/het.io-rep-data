@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:986",
   "disease_name": "alopecia areata",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGbCtD": 0.09806668666567812,
     "CcSEcCtD": 0.022651481854756482,
@@ -10,6 +12,7 @@
     "CrCtD": 0.3183267631690597,
     "CtDrD": 0.323796943245949
   },
+  "n_trials": 2.0,
   "prediction": 0.022870592483092003,
   "status": 0,
   "training_prediction": 0.0104335162515113

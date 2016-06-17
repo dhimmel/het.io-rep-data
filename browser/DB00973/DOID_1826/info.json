@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00973",
   "compound_name": "Ezetimibe",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6475942782834849,
   "metapath_contribution": {
     "CbGaD": 0.2982849212438839,
     "CbGbCtD": 0.4606531159524842,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1535337746422127,
     "CrCbGaD": 0.003476503745809038
   },
+  "n_trials": 0.0,
   "prediction": 0.004887133736493229,
   "status": 0,
   "training_prediction": 0.0387141603552655

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04861",
   "compound_name": "Nebivolol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.24873970419849528,
     "CbGbCtD": 0.21905614996460637,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05287325369601855,
     "CtDrD": 0.4376023605899679
   },
+  "n_trials": 0.0,
   "prediction": 0.018663734439616,
   "status": 0,
   "training_prediction": 0.0465831575469757

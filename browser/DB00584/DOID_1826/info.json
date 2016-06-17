@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.705461638491547,
   "metapath_contribution": {
     "CbGaD": 0.2962460666782515,
     "CbGbCtD": 0.27356077117808075,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002407071909300628,
     "CrCrCtD": 0.2379513356727652
   },
+  "n_trials": 0.0,
   "prediction": 0.005858906083792879,
   "status": 0,
   "training_prediction": 0.0461005924635728

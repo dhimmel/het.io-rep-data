@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.36605981794538395,
   "metapath_contribution": {
     "CbGaD": 0.9633651586585099,
     "CbGeAlD": 0.024880386108695304,
     "CrCbGaD": 0.011754455232794798
   },
+  "n_trials": 0.0,
   "prediction": 0.00128333391883777,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

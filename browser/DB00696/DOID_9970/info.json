@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.33788013760343355,
     "CbGbCtD": 0.49607904775146866,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0308165524738102,
     "CrCbGaD": 0.003929888265761608
   },
+  "n_trials": 0.0,
   "prediction": 0.00439412850869599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0604681404421326,
   "metapath_contribution": {
     "CbGbCtD": 0.14729814648434572,
     "CbGdCrCtD": 0.011829182309564014,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.5152688469529448,
     "CrCbGaD": 0.018496997720660498
   },
+  "n_trials": 0.0,
   "prediction": 0.000725978925477895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

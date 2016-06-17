@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.644343302990897,
   "metapath_contribution": {
     "CbGbCtD": 0.9611404928772833,
     "CbGeAlD": 0.02220226764750258,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.013207619733491473,
     "CrCbGaD": 0.0006831881254361875
   },
+  "n_trials": 0.0,
   "prediction": 0.0016947504502141401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

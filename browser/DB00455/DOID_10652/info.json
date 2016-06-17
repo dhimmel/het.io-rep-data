@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00455",
   "compound_name": "Loratadine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8296488946684009,
   "metapath_contribution": {
     "CbGaD": 0.3071709626858921,
     "CbGbCtD": 0.49709059442694586,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16150701673371665,
     "CrCbGaD": 0.000484806480216977
   },
+  "n_trials": 0.0,
   "prediction": 0.00363909525588019,
   "status": 0,
   "training_prediction": 0.009964800391324441

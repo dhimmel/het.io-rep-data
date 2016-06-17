@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.327698309492848,
   "metapath_contribution": {
     "CbGaD": 0.7055893640513823,
     "CbGeAlD": 0.0846238859720287,
     "CbGpPWpGaD": 0.20006072509205994,
     "CrCbGaD": 0.00972602488452913
   },
+  "n_trials": 0.0,
   "prediction": 0.00123662537646178,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

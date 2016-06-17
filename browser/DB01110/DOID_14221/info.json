@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.6755526657997399,
   "metapath_contribution": {
     "CbGaD": 0.6682820139129088,
     "CbGeAlD": 0.13568439592935175,
     "CbGpPWpGaD": 0.16513846635655874,
     "CcSEcCtD": 0.03089512380118084
   },
+  "n_trials": 0.0,
   "prediction": 0.00177702975147515,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

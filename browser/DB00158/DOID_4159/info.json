@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.6892067620286091,
   "metapath_contribution": {
     "CbGbCtD": 0.825417909309265,
     "CbGeAlD": 0.07339314724575383,
     "CbGpPWpGaD": 0.03781653067635086,
     "CcSEcCtD": 0.06337241276863043
   },
+  "n_trials": 0.0,
   "prediction": 0.00218629940947452,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

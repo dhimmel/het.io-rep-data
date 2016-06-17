@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGbCtD": 0.26393213334274673,
     "CbGeAlD": 0.0008476613776155281,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08132153221872529,
     "CiPCiCtD": 0.6373856892485866
   },
+  "n_trials": 0.0,
   "prediction": 0.0127585675085544,
   "status": 0,
   "training_prediction": 0.023093719981235

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00275",
   "compound_name": "Olmesartan",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
     "CbGbCtD": 0.7170627916771067,
     "CbGeAlD": 0.03066193546209753,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22103393666308632,
     "CrCbGaD": 0.0031688663581785443
   },
+  "n_trials": 0.0,
   "prediction": 0.00237262928859457,
   "status": 0,
   "training_prediction": 0.011454158819709

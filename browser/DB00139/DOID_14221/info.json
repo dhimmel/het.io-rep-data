@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00139",
   "compound_name": "Succinic acid",
+  "compound_percentile": 0.36764705882352894,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.49739921976593005,
   "metapath_contribution": {
-    "CbGeAlD": 0.4702110825000223,
+    "CbGeAlD": 0.47021108250002225,
     "CbGpPWpGaD": 0.5118250519714281,
-    "CrCbGaD": 0.017963865528549557
+    "CrCbGaD": 0.017963865528549554
   },
+  "n_trials": 0.0,
   "prediction": 0.00139456109909677,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

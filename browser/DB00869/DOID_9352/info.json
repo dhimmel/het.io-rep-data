@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00869",
   "compound_name": "Dorzolamide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7184655396618991,
   "metapath_contribution": {
     "CbGaD": 0.1880667156168601,
     "CbGbCtD": 0.48051019561655495,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.22218068148453995,
     "CrCbGaD": 0.0012829994780533312
   },
+  "n_trials": 0.0,
   "prediction": 0.00402559694856294,
   "status": 0,
   "training_prediction": 0.0175604713889807

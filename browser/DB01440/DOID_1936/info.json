@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01440",
   "compound_name": "Gamma Hydroxybutyric Acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGbCtD": 0.8346586468766442,
     "CbGeAlD": 0.004540277927598782,
     "CbGpPWpGaD": 0.03478148148317787,
     "CcSEcCtD": 0.12601959371257923
   },
+  "n_trials": 0.0,
   "prediction": 0.00659918575731248,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

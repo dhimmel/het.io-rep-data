@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00637",
   "compound_name": "Astemizole",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.595578673602081,
   "metapath_contribution": {
     "CbGaD": 0.2073807566999512,
     "CbGbCtD": 0.679244881814918,
     "CbGpPWpGaD": 0.11141638806560882,
     "CrCbGaD": 0.001957973419521973
   },
+  "n_trials": 0.0,
   "prediction": 0.00215169775909714,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

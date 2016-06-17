@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.169117647058824,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.052665799739922005,
   "metapath_contribution": {
     "CbGdCrCtD": 0.017638837692318367,
     "CbGeAlD": 0.5373677080510091,
     "CbGpPWpGaD": 0.4408448535720594,
     "CrCbGaD": 0.004148600684613075
   },
+  "n_trials": 0.0,
   "prediction": 0.0006978760067241809,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

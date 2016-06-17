@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.20481144343302998,
   "metapath_contribution": {
     "CbGbCtD": 0.5120734506563944,
     "CbGeAlD": 0.1330003628012631,
     "CbGpPWpGaD": 0.010365352201662018,
     "CcSEcCtD": 0.3445608343406804
   },
+  "n_trials": 0.0,
   "prediction": 0.00134704974620583,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

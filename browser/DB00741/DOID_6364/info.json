@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.0806241872561769,
   "metapath_contribution": {
     "CbGbCtD": 0.7042856802376802,
     "CbGeAlD": 0.02013565678838432,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.23168312184466683,
     "CrCbGaD": 0.007854156468578089
   },
+  "n_trials": 0.0,
   "prediction": 0.00116805755641468,
   "status": 0,
   "training_prediction": 0.0107488194875507

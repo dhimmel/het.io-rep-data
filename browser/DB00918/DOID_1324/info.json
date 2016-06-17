@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6222366710013001,
   "metapath_contribution": {
     "CbGaD": 0.33355610736585234,
     "CbGbCtD": 0.37309870373047394,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.180441213367997,
     "CrCbGaD": 0.0044281748945326615
   },
+  "n_trials": 0.0,
   "prediction": 0.00224973395277505,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.659947984395319,
   "metapath_contribution": {
     "CbGaD": 0.03275044936384413,
     "CbGbCtD": 0.42293240461607745,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0016365786622377506,
     "CtDrD": 0.35739825444555473
   },
+  "n_trials": 5.0,
   "prediction": 0.0032112044846463,
   "status": 0,
   "training_prediction": 0.0585082309914954

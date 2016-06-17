@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00151",
   "compound_name": "L-Cysteine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGaD": 0.6816774187439683,
     "CbGdCrCtD": 0.0023454676164264988,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2130227347690222,
     "CrCbGaD": 0.005180023158012005
   },
+  "n_trials": 0.0,
   "prediction": 0.0026283529666790897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

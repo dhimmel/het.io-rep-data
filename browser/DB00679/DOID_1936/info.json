@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.32704811443433,
   "metapath_contribution": {
     "CbGaD": 0.46414329258279624,
     "CbGbCtD": 0.34627143327839627,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07558222270328029,
     "CrCbGaD": 0.005658681022825141
   },
+  "n_trials": 0.0,
   "prediction": 0.00139684754296362,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

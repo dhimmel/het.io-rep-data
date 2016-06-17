@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06292",
   "compound_name": "Dapagliflozin",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGaD": 0.6456063462970265,
     "CbGeAlD": 0.14442774851574466,
     "CbGpPWpGaD": 0.2025038579636559,
     "CrCbGaD": 0.00746204722357282
   },
+  "n_trials": 0.0,
   "prediction": 0.0034177712598803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

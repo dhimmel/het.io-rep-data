@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.35110533159948,
   "metapath_contribution": {
     "CbGaD": 0.5971530377735282,
     "CbGbCtD": 0.36088169691170674,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.002523527328809428,
     "CrCbGaD": 0.0011072598352079737
   },
+  "n_trials": 1.0,
   "prediction": 0.00127708894223316,
   "status": 0,
   "training_prediction": 0.00346755334375531

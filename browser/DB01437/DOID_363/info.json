@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01437",
   "compound_name": "Glutethimide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.9381107813577678,
     "CbGeAlD": 0.031838239079726355,
     "CbGpPWpGaD": 0.02404988145335523,
     "CrCbGaD": 0.006001098109150547
   },
+  "n_trials": 0.0,
   "prediction": 0.00288690051280922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

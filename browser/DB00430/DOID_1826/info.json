@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00430",
   "compound_name": "Cefpiramide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.34200260078023403,
   "metapath_contribution": {
     "CbGaD": 0.34533621567566386,
     "CbGbCtD": 0.6332600592984862,
     "CbGpPWpGaD": 0.018873599688005813,
     "CrCbGaD": 0.002530125337844123
   },
+  "n_trials": 0.0,
   "prediction": 0.00236011180339345,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

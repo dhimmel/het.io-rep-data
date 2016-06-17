@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04920",
   "compound_name": "Clevidipine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.5942782834850461,
   "metapath_contribution": {
     "CbGaD": 0.608279127937427,
     "CbGbCtD": 0.34368854459077874,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.012428294643138165,
     "CrCbGaD": 0.0038539662436036307
   },
+  "n_trials": 1.0,
   "prediction": 0.00178465589672123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

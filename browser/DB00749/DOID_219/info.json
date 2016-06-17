@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.3952764034084447,
     "CbGbCtD": 0.3744101034718813,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04936972680592094,
     "CcSEcCtD": 0.13129079560718745
   },
+  "n_trials": 0.0,
   "prediction": 0.0035219629619557603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

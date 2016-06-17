@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.11588518961741415,
     "CbGdCrCtD": 0.0023585963376877663,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.02040568315919054,
     "CiPCiCtD": 0.8093680888269689
   },
+  "n_trials": 0.0,
   "prediction": 0.00652484603738943,
   "status": 0,
   "training_prediction": 0.00667928838368203

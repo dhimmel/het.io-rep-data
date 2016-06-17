@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.653446033810143,
   "metapath_contribution": {
-    "CbGeAlD": 0.4674771775111218,
+    "CbGeAlD": 0.4674771775111219,
     "CbGpPWpGaD": 0.5175571953518298,
-    "CrCbGaD": 0.014965627137048368
+    "CrCbGaD": 0.01496562713704837
   },
+  "n_trials": 0.0,
   "prediction": 0.0015359300763132901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

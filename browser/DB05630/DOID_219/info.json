@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05630",
   "compound_name": "Sodium stibogluconate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.5558932646545367,
     "CbGbCtD": 0.3988470846716554,
     "CbGpPWpGaD": 0.007574152943930363,
     "CcSEcCtD": 0.03768549772987751
   },
+  "n_trials": 0.0,
   "prediction": 0.0150045303224783,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

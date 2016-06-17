@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06813",
   "compound_name": "Pralatrexate",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.47615338849824596,
     "CbGbCtD": 0.37201003232110147,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07688845919773175,
     "CrCbGaD": 0.004930216271931258
   },
+  "n_trials": 0.0,
   "prediction": 0.00430010856976241,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

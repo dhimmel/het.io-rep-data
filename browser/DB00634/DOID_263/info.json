@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00634",
   "compound_name": "Sulfacetamide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.19960988296488896,
   "metapath_contribution": {
-    "CcSEcCtD": 0.12018898453995325,
+    "CcSEcCtD": 0.12018898453995323,
     "CrCbGaD": 0.00957307792462004,
-    "CrCrCtD": 0.8702379375354268
+    "CrCrCtD": 0.8702379375354267
   },
+  "n_trials": 0.0,
   "prediction": 0.00103075495440455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

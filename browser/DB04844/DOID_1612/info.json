@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04844",
   "compound_name": "Tetrabenazine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.546814044213264,
   "metapath_contribution": {
     "CbGaD": 0.29655110650278804,
     "CbGbCtD": 0.3562294197081176,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.2112571047645734,
     "CrCbGaD": 0.0049214467295879685
   },
+  "n_trials": 0.0,
   "prediction": 0.0025918761756478803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

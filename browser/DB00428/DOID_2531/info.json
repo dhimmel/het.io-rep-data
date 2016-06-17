@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.040631908468991874,
     "CbGbCtD": 0.1709255794014289,
@@ -15,6 +17,5 @@
     "CrCrCtD": 0.13340209607900058
   },
   "prediction": 0.0220677562002762,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

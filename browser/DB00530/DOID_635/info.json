@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGaD": 0.16260757656102526,
     "CbGbCtD": 0.5623521597210499,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17683634224254396,
     "CrCbGaD": 0.0007420236298629319
   },
+  "n_trials": 0.0,
   "prediction": 0.00572205062566489,
   "status": 0,
   "training_prediction": 0.0388700086678859

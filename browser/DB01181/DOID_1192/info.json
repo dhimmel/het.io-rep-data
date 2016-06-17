@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01181",
   "compound_name": "Ifosfamide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.1660614062719692,
     "CcSEcCtD": 0.0781440522015316,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0003889393427833233,
     "CtDrD": 0.25946872383610203
   },
+  "n_trials": 5.0,
   "prediction": 0.0254665293518531,
   "status": 0,
   "training_prediction": 0.140145096293769

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00356",
   "compound_name": "Chlorzoxazone",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.7100804494507902,
     "CbGbCtD": 0.12401324961078058,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.061150111204598914,
     "CcSEcCtD": 0.06872157904656817
   },
+  "n_trials": 0.0,
   "prediction": 0.00348037471734717,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

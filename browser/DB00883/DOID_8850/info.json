@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00883",
   "compound_name": "Isosorbide Dinitrate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8850",
   "disease_name": "salivary gland cancer",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.967384510261452,
     "CbGeAlD": 0.007162260994979018,
     "CbGpPWpGaD": 0.015973779532596315,
     "CrCbGaD": 0.00947944921097272
   },
+  "n_trials": 0.0,
   "prediction": 0.00271225816209588,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

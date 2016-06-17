@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00353",
   "compound_name": "Methylergometrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.0868596990970874,
     "CbGbCtD": 0.08881247986789136,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.15273314850876035,
     "CrCtD": 0.2597349432816846
   },
+  "n_trials": 0.0,
   "prediction": 0.13523733420759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

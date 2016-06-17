@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGaD": 0.5455114095589495,
     "CbGbCtD": 0.24793834964189643,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13518662713536228,
     "CrCbGaD": 0.003374065152057474
   },
+  "n_trials": 0.0,
   "prediction": 0.0033536792385975302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

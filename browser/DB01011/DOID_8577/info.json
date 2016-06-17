@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01011",
   "compound_name": "Metyrapone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGbCtD": 0.8801589461426326,
     "CbGeAlD": 0.008399189022864614,
     "CcSEcCtD": 0.1065980891840681,
     "CrCbGaD": 0.0048437756504346756
   },
+  "n_trials": 0.0,
   "prediction": 0.00312340391500555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

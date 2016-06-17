@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
-    "CbGaD": 0.2126036731758009,
-    "CbGbCtD": 0.3377323967471137,
-    "CbGeAlD": 0.10139008217811149,
-    "CbGpPWpGaD": 0.07003248350063158,
-    "CcSEcCtD": 0.27718825087073673,
-    "CrCbGaD": 0.0010531135276055368
+    "CbGaD": 0.21260367317580095,
+    "CbGbCtD": 0.33773239674711375,
+    "CbGeAlD": 0.1013900821781115,
+    "CbGpPWpGaD": 0.0700324835006316,
+    "CcSEcCtD": 0.2771882508707368,
+    "CrCbGaD": 0.001053113527605537
   },
+  "n_trials": 0.0,
   "prediction": 0.00175331728737068,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

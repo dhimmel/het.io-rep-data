@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00821",
   "compound_name": "Carprofen",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.29258777633290006,
   "metapath_contribution": {
     "CbGaD": 0.6792687202563634,
     "CbGbCtD": 0.14289712128563595,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1471765942463121,
     "CrCbGaD": 0.012791083092407278
   },
+  "n_trials": 0.0,
   "prediction": 0.00163811644947839,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

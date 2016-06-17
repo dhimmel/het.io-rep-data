@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00546",
   "compound_name": "Adinazolam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.18948043002854567,
     "CbGbCtD": 0.24116964591189252,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.21559021116983135,
     "CrCtD": 0.289606525724195
   },
+  "n_trials": 0.0,
   "prediction": 0.0776938662241328,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

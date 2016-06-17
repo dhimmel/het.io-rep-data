@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.5019505851755529,
   "metapath_contribution": {
     "CbGaD": 0.3683754697657063,
     "CbGbCtD": 0.3998145067270939,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12251653299719578,
     "CcSEcCtD": 0.06426190423072646
   },
+  "n_trials": 0.0,
   "prediction": 0.0014560822796228401,
   "status": 0,
   "training_prediction": 0.00294435741477095

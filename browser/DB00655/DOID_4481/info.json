@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.8485045513654101,
   "metapath_contribution": {
     "CbGbCtD": 0.32240928482246783,
     "CbGeAlD": 0.0009254956351788708,
@@ -10,6 +12,7 @@
     "CpDpCtD": 0.37276593750347226,
     "CrCrCtD": 0.2547215501135262
   },
+  "n_trials": 0.0,
   "prediction": 0.00522523041551795,
   "status": 0,
   "training_prediction": 0.016841753013336

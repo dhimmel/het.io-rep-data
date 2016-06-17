@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:0060119",
   "disease_name": "pharynx cancer",
+  "disease_percentile": 0.0104031209362809,
   "metapath_contribution": {
     "CbGeAlD": 0.2551575587980577,
     "CbGpPWpGaD": 0.7448424412019422
   },
+  "n_trials": 0.0,
   "prediction": 0.000579783041121738,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

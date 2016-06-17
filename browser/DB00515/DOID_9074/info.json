@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.12565372835826671,
     "CbGbCtD": 0.5900524824850973,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.06376576206791214,
     "CcSEcCtD": 0.13022604237652824
   },
+  "n_trials": 0.0,
   "prediction": 0.00618124256059071,
   "status": 0,
   "training_prediction": 0.0844868741783968

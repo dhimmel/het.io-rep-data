@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.19337266913851783,
     "CbGbCtD": 0.20201649646008052,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.15763122694441223,
     "CrCtD": 0.3107637565518231
   },
+  "n_trials": 0.0,
   "prediction": 0.0127959730812688,
   "status": 0,
   "training_prediction": 0.10728683553807301

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.464889466840052,
   "metapath_contribution": {
     "CbGaD": 0.8406339951991867,
     "CbGbCtD": 0.03383617040903704,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07831529522838326,
     "CrCbGaD": 0.00831515755681911
   },
+  "n_trials": 0.0,
   "prediction": 0.00175079529034995,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

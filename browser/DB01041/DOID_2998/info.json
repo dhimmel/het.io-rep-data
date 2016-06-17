@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.5156046814044211,
   "metapath_contribution": {
     "CbGbCtD": 0.5140782686118125,
     "CbGeAlD": 0.05159942131091113,
     "CbGpPWpGaD": 0.10332694793349513,
     "CcSEcCtD": 0.3309953621437813
   },
+  "n_trials": 0.0,
   "prediction": 0.00162533626955737,
   "status": 0,
   "training_prediction": 0.0069273132057593705

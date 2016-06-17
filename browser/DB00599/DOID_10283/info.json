@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00599",
   "compound_name": "Thiopental",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.485045513654096,
   "metapath_contribution": {
     "CbGaD": 0.45251111811351546,
     "CbGbCtD": 0.4040944425006477,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1138248154642115,
     "CrCbGaD": 0.0011270455752484107
   },
+  "n_trials": 0.0,
   "prediction": 0.00223191101847122,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

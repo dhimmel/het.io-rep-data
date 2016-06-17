@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00145",
   "compound_name": "Glycine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.435630689206762,
   "metapath_contribution": {
     "CbGaD": 0.5307866432435505,
     "CbGdCrCtD": 0.004514712678838535,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16817595665407045,
     "CrCbGaD": 0.006124193299006384
   },
+  "n_trials": 0.0,
   "prediction": 0.0032729808723586,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

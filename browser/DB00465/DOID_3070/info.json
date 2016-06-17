@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.38166449934980495,
   "metapath_contribution": {
     "CbGaD": 0.8491885176012226,
     "CbGpPWpGaD": 0.01830006382156123,
     "CcSEcCtD": 0.12492210324709815,
     "CrCbGaD": 0.0075893153301180225
   },
+  "n_trials": 0.0,
   "prediction": 0.00120248412668642,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

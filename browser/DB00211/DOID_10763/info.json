@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00211",
   "compound_name": "Midodrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGaD": 0.24250662962086644,
     "CbGbCtD": 0.5275036180561499,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13837620250470992,
     "CrCbGaD": 0.0029179793671827783
   },
+  "n_trials": 0.0,
   "prediction": 0.00900127825582826,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

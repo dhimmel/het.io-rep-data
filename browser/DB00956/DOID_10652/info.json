@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.09280637845690107,
     "CbGbCtD": 0.11269075058025485,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2779301122641501,
     "CrCtD": 0.4550225086003561
   },
+  "n_trials": 1.0,
   "prediction": 0.0194906444873291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

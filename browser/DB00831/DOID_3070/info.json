@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.44928478543563105,
   "metapath_contribution": {
     "CbGaD": 0.7587320715734092,
     "CbGbCtD": 0.00029550339884486823,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05406346584600872,
     "CrCbGaD": 0.003273653448272209
   },
+  "n_trials": 0.0,
   "prediction": 0.00131911469079636,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.24382314694408302,
   "metapath_contribution": {
     "CbGaD": 0.6329625245373045,
     "CbGbCtD": 0.0376030083523139,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.00916401638649347,
     "CrCbGaD": 0.007475859591453092
   },
+  "n_trials": 0.0,
   "prediction": 0.0014174906969477699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

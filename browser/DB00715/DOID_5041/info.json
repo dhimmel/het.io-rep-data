@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00715",
   "compound_name": "Paroxetine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.3508832766521805,
     "CbGbCtD": 0.1332854080156871,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.17277113582569717,
     "CcSEcCtD": 0.26715508993057774
   },
+  "n_trials": 0.0,
   "prediction": 0.0032120644862622698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

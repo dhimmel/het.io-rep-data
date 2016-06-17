@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:10871",
   "disease_name": "age related macular degeneration",
+  "disease_percentile": 0.9837451235370609,
   "metapath_contribution": {
-    "CbGaD": 0.878511004396861,
-    "CbGeAlD": 0.02672498510060729,
-    "CbGpPWpGaD": 0.08835080432666541,
-    "CrCbGaD": 0.0064132061758663626
+    "CbGaD": 0.8785110043968609,
+    "CbGeAlD": 0.026724985100607286,
+    "CbGpPWpGaD": 0.0883508043266654,
+    "CrCbGaD": 0.006413206175866361
   },
+  "n_trials": 0.0,
   "prediction": 0.0027989741422780397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

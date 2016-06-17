@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01129",
   "compound_name": "Rabeprazole",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.5869802054090858,
     "CbGbCtD": 0.15071929267090595,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24668176478119888,
     "CrCbGaD": 0.00453281946806775
   },
+  "n_trials": 0.0,
   "prediction": 0.00369758426558275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

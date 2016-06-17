@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.506501950585176,
   "metapath_contribution": {
-    "CbGaD": 0.6164548262879253,
-    "CbGeAlD": 0.08459084707045614,
-    "CbGpPWpGaD": 0.19238469890028098,
-    "CcSEcCtD": 0.10442999288181014,
-    "CrCbGaD": 0.002139634859527602
+    "CbGaD": 0.6164548262879251,
+    "CbGeAlD": 0.08459084707045611,
+    "CbGpPWpGaD": 0.19238469890028095,
+    "CcSEcCtD": 0.10442999288181012,
+    "CrCbGaD": 0.0021396348595276015
   },
+  "n_trials": 0.0,
   "prediction": 0.00187879330727367,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

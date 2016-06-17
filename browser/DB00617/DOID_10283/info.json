@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00617",
   "compound_name": "Paramethadione",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.346301272811285,
     "CbGbCtD": 0.5209794448191553,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10963079922364735,
     "CrCbGaD": 0.004097651362699505
   },
+  "n_trials": 0.0,
   "prediction": 0.00408354118462835,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00306",
   "compound_name": "Talbutal",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
-    "CbGaD": 0.80245515154167,
-    "CbGeAlD": 0.09626701882930487,
-    "CbGpPWpGaD": 0.0921566359329706,
-    "CrCbGaD": 0.009121193696054495
+    "CbGaD": 0.8024551515416701,
+    "CbGeAlD": 0.09626701882930488,
+    "CbGpPWpGaD": 0.09215663593297062,
+    "CrCbGaD": 0.009121193696054497
   },
+  "n_trials": 0.0,
   "prediction": 0.0025950561000374697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

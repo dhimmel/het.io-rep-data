@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.426527958387516,
   "metapath_contribution": {
     "CbGaD": 0.294840481392044,
     "CbGbCtD": 0.2634682611680916,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0015655109167250249,
     "CrCrCtD": 0.26163841185254
   },
+  "n_trials": 0.0,
   "prediction": 0.00207566402012838,
   "status": 0,
   "training_prediction": 0.0114146731166872

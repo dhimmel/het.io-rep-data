@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7113133940182049,
   "metapath_contribution": {
     "CbGaD": 0.2877216548531743,
     "CbGbCtD": 0.39375790414641826,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0017328055233566781,
     "CrCrCtD": 0.18583006942681476
   },
+  "n_trials": 0.0,
   "prediction": 0.0036683083087435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

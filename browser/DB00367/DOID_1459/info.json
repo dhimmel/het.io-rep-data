@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.7292840042592099,
     "CbGeAlD": 0.11110368680596602,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1010914273996773,
     "CrCbGaD": 0.005785794868302793
   },
+  "n_trials": 0.0,
   "prediction": 0.00187051484177165,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.5933835605488054,
     "CbGeAlD": 0.04140487780115958,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.227052613303807,
     "CrCbGaD": 0.00492275091833933
   },
+  "n_trials": 0.0,
   "prediction": 0.0031277163176845198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

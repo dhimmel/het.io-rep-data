@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGbCtD": 0.09393325174733336,
     "CcSEcCtD": 0.04068959804653171,
@@ -12,6 +14,7 @@
     "CrCtD": 0.19927050622183073,
     "CtDrD": 0.20575349024740874
   },
+  "n_trials": 4.0,
   "prediction": 0.0488861668933836,
   "status": 0,
   "training_prediction": 0.43318034016215995

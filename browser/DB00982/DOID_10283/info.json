@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.101430429128739,
   "metapath_contribution": {
     "CbGaD": 0.5618466429323533,
     "CbGeAlD": 0.029902888136717175,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.23254881951629403,
     "CrCbGaD": 0.006460533015075372
   },
+  "n_trials": 2.0,
   "prediction": 0.0008952470238665631,
   "status": 0,
   "training_prediction": 0.0038007504759244204

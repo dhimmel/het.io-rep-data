@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01359",
   "compound_name": "Penbutolol",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.635240572171652,
   "metapath_contribution": {
     "CbGaD": 0.7638764366783043,
     "CbGeAlD": 0.04171984337795588,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08732783484341737,
     "CrCbGaD": 2.4582824297165887e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00266936107681361,
   "status": 0,
   "training_prediction": 0.00539104446542313

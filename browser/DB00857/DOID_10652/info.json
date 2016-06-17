@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00857",
   "compound_name": "Terbinafine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.860858257477243,
   "metapath_contribution": {
     "CbGaD": 0.41161472275473404,
     "CbGbCtD": 0.3618943886108998,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0676002393252448,
     "CcSEcCtD": 0.1485390005041607
   },
+  "n_trials": 0.0,
   "prediction": 0.0040375991763437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

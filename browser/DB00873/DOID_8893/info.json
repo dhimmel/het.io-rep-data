@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00873",
   "compound_name": "Loteprednol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGbCtD": 0.170950756806987,
     "CiPCiCtD": 0.35881998268604653,
     "CrCrCtD": 0.19989290379269073,
     "CrCtD": 0.27033635671427575
   },
+  "n_trials": 0.0,
   "prediction": 0.0517117137709555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.783485045513654,
   "metapath_contribution": {
     "CbGaD": 0.218752903869731,
     "CbGbCtD": 0.20352317774945455,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.4996273284219442,
     "CrCbGaD": 0.0001698975543343566
   },
+  "n_trials": 0.0,
   "prediction": 0.00277772770515676,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

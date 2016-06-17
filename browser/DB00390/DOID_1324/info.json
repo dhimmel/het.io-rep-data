@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.326397919375813,
   "metapath_contribution": {
     "CbGaD": 0.10769343819530548,
     "CbGbCtD": 0.5761697823870601,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.11079513069081118,
     "CrCbGaD": 0.0017221625639846905
   },
+  "n_trials": 1.0,
   "prediction": 0.00131710802024384,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

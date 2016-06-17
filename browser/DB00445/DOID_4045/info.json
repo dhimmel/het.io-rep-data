@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00445",
   "compound_name": "Epirubicin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGbCtD": 0.12780136043341583,
     "CbGdCrCtD": 0.0007764205067058074,
@@ -14,6 +16,7 @@
     "CrCtD": 0.21207363387388384,
     "CtDrD": 0.18724137916608197
   },
+  "n_trials": 2.0,
   "prediction": 0.143599101719812,
   "status": 0,
   "training_prediction": 0.7016767698471129

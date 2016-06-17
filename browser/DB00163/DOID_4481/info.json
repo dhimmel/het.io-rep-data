@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.6215864759427829,
   "metapath_contribution": {
     "CbGbCtD": 0.572012418454662,
     "CbGdCrCtD": 0.010827983610090772,
     "CbGeAlD": 0.26649034603185334,
     "CbGpPWpGaD": 0.1506692519033939
   },
+  "n_trials": 0.0,
   "prediction": 0.00277742194088245,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01166",
   "compound_name": "Cilostazol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8459037711313391,
   "metapath_contribution": {
     "CbGaD": 0.29435552931095915,
     "CbGbCtD": 0.4237532782475154,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.25082201290587197,
     "CrCbGaD": 0.0037861048313840608
   },
+  "n_trials": 1.0,
   "prediction": 0.00382505375223635,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

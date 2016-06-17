@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.33940829532977423,
     "CbGbCtD": 0.5324078653308121,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02168797468120958,
     "CcSEcCtD": 0.06645386808973232
   },
+  "n_trials": 1.0,
   "prediction": 0.00976727019881493,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

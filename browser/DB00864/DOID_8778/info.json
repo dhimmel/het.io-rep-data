@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.272431729518856,
   "metapath_contribution": {
     "CbGaD": 0.3997784935971377,
     "CbGbCtD": 0.11364943499411705,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11290705562471161,
     "CcSEcCtD": 0.2937126602678344
   },
+  "n_trials": 1.0,
   "prediction": 0.0011619707680602,
   "status": 0,
   "training_prediction": 0.0018956916274991801

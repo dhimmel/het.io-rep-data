@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00640",
   "compound_name": "Adenosine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGbCtD": 0.4217309262384778,
     "CbGeAlD": 0.04196378643206225,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0032309792281805107,
     "CrCrCtD": 0.42535136427026704
   },
+  "n_trials": 0.0,
   "prediction": 0.00439982439864464,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

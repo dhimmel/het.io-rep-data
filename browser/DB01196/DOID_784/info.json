@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.279411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.8260306030872133,
     "CbGeAlD": 0.05465183556903891,
     "CbGpPWpGaD": 0.10904396763466277,
     "CrCbGaD": 0.010273593709085043
   },
+  "n_trials": 0.0,
   "prediction": 0.000812839901038932,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

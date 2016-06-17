@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.6657739108715114,
     "CbGbCtD": 0.1444536035420025,
     "CbGeAlD": 0.09598569987869808,
     "CbGpPWpGaD": 0.09378678570778808
   },
+  "n_trials": 0.0,
   "prediction": 0.00305769018772439,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

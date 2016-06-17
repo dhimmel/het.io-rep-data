@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.40507152145643704,
   "metapath_contribution": {
     "CbGaD": 0.5610202922796645,
     "CbGeAlD": 0.045000010645023875,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18304875972360757,
     "CrCbGaD": 0.002850922193031201
   },
+  "n_trials": 0.0,
   "prediction": 0.0019425819739850199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

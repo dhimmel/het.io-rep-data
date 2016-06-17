@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.559817945383615,
   "metapath_contribution": {
     "CbGaD": 0.3874849197598713,
     "CbGeAlD": 0.044308281280515456,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0055322884586944485,
     "CrCrCtD": 0.3398610472747162
   },
+  "n_trials": 0.0,
   "prediction": 0.00279770894893377,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

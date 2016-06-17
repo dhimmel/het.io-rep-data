@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.7581274382314691,
   "metapath_contribution": {
     "CbGbCtD": 0.45767858679164386,
     "CbGeAlD": 0.1664925679768631,
     "CbGpPWpGaD": 0.0669472359328461,
     "CcSEcCtD": 0.3088816092986469
   },
+  "n_trials": 0.0,
   "prediction": 0.00213137916041519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

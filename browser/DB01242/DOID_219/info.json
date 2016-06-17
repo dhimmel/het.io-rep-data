@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.35630689206762,
   "metapath_contribution": {
     "CbGaD": 0.42930501672739985,
     "CbGbCtD": 0.2645980417496035,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24681617252589633,
     "CrCbGaD": 0.0017337404460368991
   },
+  "n_trials": 0.0,
   "prediction": 0.00126304975081455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

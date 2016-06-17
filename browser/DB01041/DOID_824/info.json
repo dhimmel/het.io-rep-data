@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.7722985627609342,
     "CbGeAlD": 0.04898512845482726,
     "CbGpPWpGaD": 0.1678187976439734,
     "CrCbGaD": 0.01089751114026515
   },
+  "n_trials": 0.0,
   "prediction": 0.00227091396675555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

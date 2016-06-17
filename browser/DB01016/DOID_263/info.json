@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.697009102730819,
   "metapath_contribution": {
     "CbGaD": 0.09719747904920754,
     "CbGbCtD": 0.6133929939959344,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13555387124487467,
     "CrCbGaD": 0.004286717770372165
   },
+  "n_trials": 0.0,
   "prediction": 0.00244779457347969,
   "status": 0,
   "training_prediction": 0.011813621535586998

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00778",
   "compound_name": "Roxithromycin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.695708712613784,
   "metapath_contribution": {
     "CbGaD": 0.7253810738869715,
     "CbGbCtD": 0.2241177541712077,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03125686313216598,
     "CrCbGaD": 0.007127003921383795
   },
+  "n_trials": 0.0,
   "prediction": 0.00203896162087552,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

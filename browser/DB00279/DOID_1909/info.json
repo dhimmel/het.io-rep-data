@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.45578673602080605,
   "metapath_contribution": {
     "CbGaD": 0.4821309720486199,
     "CbGbCtD": 0.27796401367752543,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.18040838888735272,
     "CrCbGaD": 0.0015160874038943918
   },
+  "n_trials": 0.0,
   "prediction": 0.00134099103374019,
   "status": 0,
   "training_prediction": 0.00245022336704742

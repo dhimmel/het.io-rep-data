@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.191176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.11573472041612501,
   "metapath_contribution": {
     "CbGaD": 0.7192419616853599,
     "CbGeAlD": 0.10479028995011058,
     "CbGpPWpGaD": 0.166255746631604,
     "CrCbGaD": 0.009712001732925447
   },
+  "n_trials": 0.0,
   "prediction": 0.00077127349475695,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

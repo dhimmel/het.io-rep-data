@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.504551365409623,
   "metapath_contribution": {
     "CbGaD": 0.8801998440314065,
     "CbGbCtD": 0.003511589756001891,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10849190584788598,
     "CrCbGaD": 0.0021704506143513367
   },
+  "n_trials": 0.0,
   "prediction": 0.00146020736855342,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

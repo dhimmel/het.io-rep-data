@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGaD": 0.6812982408387762,
     "CbGbCtD": 0.193849478154294,
     "CcSEcCtD": 0.11973489488464424,
     "CrCbGaD": 0.005117386122285467
   },
+  "n_trials": 0.0,
   "prediction": 0.0016636541357060901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

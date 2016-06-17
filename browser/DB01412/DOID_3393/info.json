@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01412",
   "compound_name": "Theobromine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.557867360208062,
   "metapath_contribution": {
     "CbGaD": 0.7889611944528065,
     "CbGbCtD": 0.07331379495571518,
     "CbGpPWpGaD": 0.12902693172964383,
     "CrCbGaD": 0.008698078861834354
   },
+  "n_trials": 0.0,
   "prediction": 0.00267312463933522,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

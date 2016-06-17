@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.45058517555266603,
   "metapath_contribution": {
     "CbGbCtD": 0.8969433835538823,
     "CbGdCrCtD": 0.005483912440226131,
     "CcSEcCtD": 0.09757270400589149
   },
+  "n_trials": 0.0,
   "prediction": 0.00198709857154427,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

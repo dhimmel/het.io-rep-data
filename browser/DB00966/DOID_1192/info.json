@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.7399219765929781,
   "metapath_contribution": {
     "CbGaD": 0.29899382697976173,
     "CbGbCtD": 0.48625109357607105,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19346145337262252,
     "CrCbGaD": 0.0004273803783085968
   },
+  "n_trials": 0.0,
   "prediction": 0.00239380027146878,
   "status": 0,
   "training_prediction": 0.0108558783375419

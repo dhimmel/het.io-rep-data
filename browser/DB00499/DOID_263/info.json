@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00499",
   "compound_name": "Flutamide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.2994226327925982,
     "CbGbCtD": 0.4721313263635004,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06087443922876179,
     "CcSEcCtD": 0.14296357935943524
   },
+  "n_trials": 0.0,
   "prediction": 0.00492881865315767,
   "status": 0,
   "training_prediction": 0.0142523291210334

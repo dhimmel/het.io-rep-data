@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.3886785419101754,
     "CbGbCtD": 0.4334082619996464,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11880375734935518,
     "CrCbGaD": 0.0019386268744159864
   },
+  "n_trials": 0.0,
   "prediction": 0.004056079610564129,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

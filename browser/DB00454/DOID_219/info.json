@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.37061118335500604,
   "metapath_contribution": {
     "CbGbCtD": 0.5732473233060503,
     "CbGeAlD": 0.015319019796634654,
     "CbGpPWpGaD": 0.10069683033753499,
     "CcSEcCtD": 0.31073682655978
   },
+  "n_trials": 0.0,
   "prediction": 0.0012959523608588302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

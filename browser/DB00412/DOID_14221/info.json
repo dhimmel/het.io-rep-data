@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.3083391700196632,
     "CbGeAlD": 0.01922269751878541,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.001506533671383164,
     "CtDrD": 0.5768019700248402
   },
+  "n_trials": 11.0,
   "prediction": 0.00490545226469824,
   "status": 0,
   "training_prediction": 0.00221570408973855

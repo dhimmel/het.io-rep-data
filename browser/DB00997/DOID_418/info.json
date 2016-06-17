@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.32704811443433,
   "metapath_contribution": {
     "CbGaD": 0.3837849326895099,
     "CbGbCtD": 0.31506695413310315,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.04556142708927206,
     "CcSEcCtD": 0.17619132513292093
   },
+  "n_trials": 0.0,
   "prediction": 0.00136316019641851,
   "status": 0,
   "training_prediction": 0.0332581672663918

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGaD": 0.3185120584856507,
     "CbGbCtD": 0.3730472959263022,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1594383892595771,
     "CrCbGaD": 0.001890436252109595
   },
+  "n_trials": 0.0,
   "prediction": 0.0054750869950494895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

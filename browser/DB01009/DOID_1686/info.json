@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGaD": 0.2060897505607892,
     "CbGbCtD": 0.13724857599629028,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0031228322143564452,
     "CrCrCtD": 0.39158723196348766
   },
+  "n_trials": 0.0,
   "prediction": 0.00210509052456442,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

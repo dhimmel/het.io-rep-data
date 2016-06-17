@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.6532360466467612,
     "CbGbCtD": 0.18150740000115798,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08073166569154354,
     "CrCbGaD": 0.0017531552930411857
   },
+  "n_trials": 2.0,
   "prediction": 0.00270649040987256,
   "status": 0,
   "training_prediction": 0.0019967150585125898

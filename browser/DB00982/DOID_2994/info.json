@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.7080624187256179,
   "metapath_contribution": {
     "CbGeAlD": 0.05073551525289871,
     "CbGpPWpGaD": 0.07467485810928831,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.006540378233332251,
     "CtDrD": 0.7356927652088698
   },
+  "n_trials": 0.0,
   "prediction": 0.00210191302917891,
   "status": 0,
   "training_prediction": 0.0038381408960880704

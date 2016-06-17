@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00665",
   "compound_name": "Nilutamide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.6079323797139139,
   "metapath_contribution": {
     "CbGaD": 0.23532192620376022,
     "CbGbCtD": 0.5237463856468507,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18278785829040325,
     "CrCbGaD": 0.001798064216953449
   },
+  "n_trials": 0.0,
   "prediction": 0.00291568215591883,
   "status": 0,
   "training_prediction": 0.0155276807416464

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGaD": 0.09694627642214645,
     "CbGbCtD": 0.2734832011014183,
@@ -13,6 +15,7 @@
     "CrCbGaD": 1.3190115793040394e-05,
     "CtDrD": 0.2691506711309451
   },
+  "n_trials": 1.0,
   "prediction": 0.0202362964475618,
   "status": 0,
   "training_prediction": 0.0813046381200559

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:986",
   "disease_name": "alopecia areata",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.022071549392087476,
-    "CbGeAlD": 0.4638938364718296,
-    "CbGpPWpGaD": 0.5140346141360829
+    "CbGdCrCtD": 0.02207154939208748,
+    "CbGeAlD": 0.4638938364718297,
+    "CbGpPWpGaD": 0.514034614136083
   },
+  "n_trials": 0.0,
   "prediction": 0.00278924413325935,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

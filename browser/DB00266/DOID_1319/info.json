@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00266",
   "compound_name": "Dicoumarol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.5746265404060805,
     "CbGbCtD": 0.36687938797277614,
     "CbGeAlD": 0.0546368709636347,
     "CrCbGaD": 0.003857200657508693
   },
+  "n_trials": 0.0,
   "prediction": 0.0035234139832437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

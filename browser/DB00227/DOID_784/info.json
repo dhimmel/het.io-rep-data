@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.615734720416125,
   "metapath_contribution": {
     "CbGaD": 0.7659217140797786,
     "CbGeAlD": 0.06947637740440837,
     "CbGpPWpGaD": 0.1570213769133877,
     "CrCbGaD": 0.007580531602425448
   },
+  "n_trials": 0.0,
   "prediction": 0.00184635079085588,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

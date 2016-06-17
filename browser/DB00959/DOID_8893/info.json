@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGbCtD": 0.10661243385289576,
     "CcSEcCtD": 0.04292414182573973,
@@ -12,6 +14,7 @@
     "CrCtD": 0.18975897832858168,
     "CtDrD": 0.15937836997376628
   },
+  "n_trials": 1.0,
   "prediction": 0.29965620993182,
   "status": 0,
   "training_prediction": 0.919056496949272

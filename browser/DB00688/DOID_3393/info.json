@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.047837522545012154,
     "CbGbCtD": 0.6523909669030662,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11616170997519168,
     "CcSEcCtD": 0.17277390904363582
   },
+  "n_trials": 0.0,
   "prediction": 0.0029824831750004397,
   "status": 0,
   "training_prediction": 0.0354228537838298

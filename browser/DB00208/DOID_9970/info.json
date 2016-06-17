@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.5071521456436929,
   "metapath_contribution": {
     "CbGaD": 0.2192676410538571,
     "CbGbCtD": 0.5409244495930815,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11190830997994552,
     "CrCbGaD": 0.0045401654684595885
   },
+  "n_trials": 0.0,
   "prediction": 0.0025250394118174397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

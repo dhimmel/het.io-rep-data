@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGbCtD": 0.24242392462755477,
     "CbGeAlD": 0.1890109488155704,
     "CbGpPWpGaD": 0.290273250983103,
     "CcSEcCtD": 0.2782918755737717
   },
+  "n_trials": 1.0,
   "prediction": 0.0016609732705426198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

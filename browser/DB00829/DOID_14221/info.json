@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.213263979193758,
   "metapath_contribution": {
     "CbGaD": 0.5491425241210605,
     "CbGeAlD": 0.020481203054063257,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17044900053079032,
     "CrCbGaD": 0.008875093875985665
   },
+  "n_trials": 0.0,
   "prediction": 0.0009421494416536381,
   "status": 0,
   "training_prediction": 0.000424624545244606

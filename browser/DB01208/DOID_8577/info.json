@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.769180754226268,
   "metapath_contribution": {
     "CbGaD": 0.5571566145824993,
     "CbGbCtD": 0.27699235392794075,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.13486500294358242,
     "CrCbGaD": 0.0040845872624306135
   },
+  "n_trials": 0.0,
   "prediction": 0.00323648191301939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

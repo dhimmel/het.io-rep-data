@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGaD": 0.3383868169924159,
     "CbGbCtD": 0.4141364526065064,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14124225698087345,
     "CrCbGaD": 0.0029921760856925416
   },
+  "n_trials": 0.0,
   "prediction": 0.00603849898400033,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

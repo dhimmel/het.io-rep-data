@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01431",
   "compound_name": "Allylestrenol",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.530559167750325,
   "metapath_contribution": {
     "CbGaD": 0.7337071706222941,
     "CbGbCtD": 0.19168463129983637,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06530159596542469,
     "CrCbGaD": 0.005634929354680348
   },
+  "n_trials": 0.0,
   "prediction": 0.0019430999746852802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

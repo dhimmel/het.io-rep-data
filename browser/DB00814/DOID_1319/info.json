@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.7899869960988299,
   "metapath_contribution": {
     "CbGaD": 0.5935227278000653,
     "CbGbCtD": 0.23896486359800748,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13159421058620402,
     "CrCbGaD": 0.005895719087325502
   },
+  "n_trials": 0.0,
   "prediction": 0.00238639768252428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

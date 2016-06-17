@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.624837451235371,
   "metapath_contribution": {
     "CbGaD": 0.4091716408683756,
     "CbGbCtD": 0.41464505475237845,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1186618516396993,
     "CrCbGaD": 0.0016640477036409002
   },
+  "n_trials": 0.0,
   "prediction": 0.00189957398851338,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

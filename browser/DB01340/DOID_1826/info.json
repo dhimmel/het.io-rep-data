@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.49804941482444703,
   "metapath_contribution": {
     "CbGaD": 0.1635040975163295,
     "CbGbCtD": 0.23986211853155232,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00315628769077097,
     "CrCrCtD": 0.291304022893722
   },
+  "n_trials": 0.0,
   "prediction": 0.0033793893969989697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

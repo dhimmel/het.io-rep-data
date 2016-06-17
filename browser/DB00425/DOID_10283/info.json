@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8237971391417429,
   "metapath_contribution": {
     "CbGaD": 0.3152391318907897,
     "CbGbCtD": 0.41080360398622495,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1764510058289534,
     "CrCbGaD": 0.002418384544334893
   },
+  "n_trials": 0.0,
   "prediction": 0.005068470321091961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

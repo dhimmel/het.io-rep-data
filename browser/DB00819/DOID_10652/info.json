@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00819",
   "compound_name": "Acetazolamide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.5842174614777863,
     "CbGbCtD": 0.0669543630450925,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12982316133456404,
     "CrCbGaD": 0.005623448952769509
   },
+  "n_trials": 0.0,
   "prediction": 0.00340535420529932,
   "status": 0,
   "training_prediction": 0.00687228606967238

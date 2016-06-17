@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.6274382314694411,
   "metapath_contribution": {
     "CbGaD": 0.3829931663160617,
     "CbGbCtD": 0.28452744908691235,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.22054582749909737,
     "CrCbGaD": 0.0007077693812747852
   },
+  "n_trials": 0.0,
   "prediction": 0.00287758981382068,
   "status": 0,
   "training_prediction": 0.0256012696826742

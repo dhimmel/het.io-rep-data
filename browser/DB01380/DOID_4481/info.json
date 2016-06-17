@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGbCtD": 0.1606494570707133,
     "CiPCiCtD": 0.3959415958533427,
     "CrCrCtD": 0.1920690657911139,
     "CrCtD": 0.25133988128483004
   },
+  "n_trials": 0.0,
   "prediction": 0.0363638082229663,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

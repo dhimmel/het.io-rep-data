@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.23326971287240747,
     "CbGbCtD": 0.43575486621485576,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0953082945637774,
     "CcSEcCtD": 0.1415557826963605
   },
+  "n_trials": 0.0,
   "prediction": 0.00283173926113495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

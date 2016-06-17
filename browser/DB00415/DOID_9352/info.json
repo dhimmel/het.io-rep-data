@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00415",
   "compound_name": "Ampicillin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.30754226267880397,
   "metapath_contribution": {
     "CbGaD": 0.16681218960558322,
     "CbGbCtD": 0.674498047501884,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10291673611744605,
     "CrCbGaD": 0.0011964482135946193
   },
+  "n_trials": 0.0,
   "prediction": 0.0017811147946679602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

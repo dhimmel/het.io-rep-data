@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00922",
   "compound_name": "Levosimendan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGaD": 0.44698076142668364,
     "CbGbCtD": 0.35401932028362404,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07085654978791982,
     "CcSEcCtD": 0.10061771543122403
   },
+  "n_trials": 0.0,
   "prediction": 0.0164230924911525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

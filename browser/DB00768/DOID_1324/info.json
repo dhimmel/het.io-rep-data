@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00768",
   "compound_name": "Olopatadine",
+  "compound_percentile": 0.220588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.15279583875162603,
   "metapath_contribution": {
     "CbGbCtD": 0.22330137588297794,
     "CbGeAlD": 0.14076070190197654,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.32462882993590636,
     "CrCbGaD": 0.0038600888365893115
   },
+  "n_trials": 0.0,
   "prediction": 0.000927774186620715,
   "status": 0,
   "training_prediction": 0.00317533788315482

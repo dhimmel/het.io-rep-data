@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00454",
   "compound_name": "Pethidine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.41807542262678793,
   "metapath_contribution": {
     "CbGbCtD": 0.7090224153448269,
     "CbGpPWpGaD": 0.1255095748103288,
     "CcSEcCtD": 0.16546800984484428
   },
+  "n_trials": 1.0,
   "prediction": 0.00154238895561509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

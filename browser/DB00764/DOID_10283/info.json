@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00764",
   "compound_name": "Mometasone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.825097529258778,
   "metapath_contribution": {
     "CbGaD": 0.16837734666647283,
     "CbGbCtD": 0.1856776985543903,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.2291782705561674,
     "CrCtD": 0.30697932233893
   },
+  "n_trials": 0.0,
   "prediction": 0.005078557134509071,
   "status": 0,
   "training_prediction": 0.0471357525705337

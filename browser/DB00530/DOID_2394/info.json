@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.3706409763133962,
     "CbGbCtD": 0.36341763384972486,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10653881794764766,
     "CrCbGaD": 0.0031764730458691943
   },
+  "n_trials": 0.0,
   "prediction": 0.00427597746151535,
   "status": 0,
   "training_prediction": 0.0227785988256755

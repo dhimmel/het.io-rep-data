@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.804941482444733,
   "metapath_contribution": {
     "CbGaD": 0.5602997276769603,
     "CbGbCtD": 0.254351912198845,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04772318450852517,
     "CcSEcCtD": 0.10796181845361373
   },
+  "n_trials": 0.0,
   "prediction": 0.00259195111890543,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

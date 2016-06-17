@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.375162548764629,
   "metapath_contribution": {
     "CbGbCtD": 0.05169136706593391,
     "CbGeAlD": 0.05719222837986548,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3359785206786664,
     "CrCbGaD": 0.005878653648118748
   },
+  "n_trials": 1.0,
   "prediction": 0.0014462295272976802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00290",
   "compound_name": "Bleomycin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0046037268107242055,
     "CbGeAlD": 0.04196266938106615,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15077932630344879,
     "CtDrD": 0.7263212672141798
   },
+  "n_trials": 0.0,
   "prediction": 0.00731043019346255,
   "status": 0,
   "training_prediction": 0.0786902785235002

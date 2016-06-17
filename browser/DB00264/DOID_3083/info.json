@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00264",
   "compound_name": "Metoprolol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGaD": 0.3499569374605499,
     "CbGbCtD": 0.5388490389047997,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09833952394388384,
     "CrCbGaD": 0.004370310353227101
   },
+  "n_trials": 3.0,
   "prediction": 0.00429232512727292,
   "status": 0,
   "training_prediction": 0.00942724461339209

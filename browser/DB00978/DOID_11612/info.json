@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00978",
   "compound_name": "Lomefloxacin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.624837451235371,
   "metapath_contribution": {
     "CbGaD": 0.9012831730113778,
     "CbGeAlD": 0.017570652556504238,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.02510745862710108,
     "CrCbGaD": 0.009806510045474186
   },
+  "n_trials": 0.0,
   "prediction": 0.0016528492480743099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

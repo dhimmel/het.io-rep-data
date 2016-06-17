@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.8093493494492957,
     "CbGeAlD": 0.041525998118420275,
     "CbGpPWpGaD": 0.14669665871990525,
     "CrCbGaD": 0.0024279937123788007
   },
+  "n_trials": 0.0,
   "prediction": 0.00268047270360628,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

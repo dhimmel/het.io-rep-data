@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04967",
   "compound_name": "Lucanthone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.41933819614410234,
     "CbGbCtD": 0.4686250803275632,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.07514166440635922,
     "CrCbGaD": 0.0012004888688283964
   },
+  "n_trials": 1.0,
   "prediction": 0.00592107502888734,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

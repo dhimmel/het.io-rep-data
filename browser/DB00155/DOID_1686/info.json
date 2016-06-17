@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.47854356306892104,
   "metapath_contribution": {
     "CbGaD": 0.8671334204466843,
     "CbGeAlD": 0.03472823204927016,
     "CbGpPWpGaD": 0.09308180613670355,
     "CrCbGaD": 0.0050565413673420625
   },
+  "n_trials": 0.0,
   "prediction": 0.00185019270736837,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.1299844265837987,
     "CbGbCtD": 0.31843015863857954,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.21691708951696637,
     "CcSEcCtD": 0.2119289845530261
   },
+  "n_trials": 0.0,
   "prediction": 0.0034262027836619103,
   "status": 0,
   "training_prediction": 0.009385330632730629

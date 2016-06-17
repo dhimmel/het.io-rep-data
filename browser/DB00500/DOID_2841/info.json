@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.775682704811443,
   "metapath_contribution": {
     "CbGaD": 0.3253972236144533,
     "CbGbCtD": 0.16672082313416972,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.3112712180845074,
     "CrCbGaD": 0.002414501459976967
   },
+  "n_trials": 0.0,
   "prediction": 0.00452363571920663,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

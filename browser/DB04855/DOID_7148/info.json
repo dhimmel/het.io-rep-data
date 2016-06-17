@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.591027308192458,
   "metapath_contribution": {
     "CbGaD": 0.19032431331968971,
     "CbGbCtD": 0.4517884818970373,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12632185367581386,
     "CcSEcCtD": 0.1961414874286672
   },
+  "n_trials": 0.0,
   "prediction": 0.00203784521188035,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

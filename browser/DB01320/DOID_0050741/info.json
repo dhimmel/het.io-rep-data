@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01320",
   "compound_name": "Fosphenytoin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.5299089726918079,
   "metapath_contribution": {
     "CbGbCtD": 0.5890036377670562,
     "CbGeAlD": 0.008542399322005475,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.31264650282528106,
     "CrCbGaD": 0.003544841607015717
   },
+  "n_trials": 0.0,
   "prediction": 0.0022278263189561397,
   "status": 0,
   "training_prediction": 0.0027036958397979897

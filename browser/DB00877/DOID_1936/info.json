@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.13589076723016902,
   "metapath_contribution": {
     "CbGbCtD": 0.6690246113179649,
     "CbGeAlD": 0.04398316268640679,
     "CbGpPWpGaD": 0.1278145996715542,
     "CcSEcCtD": 0.15917762632407412
   },
+  "n_trials": 14.0,
   "prediction": 0.000990244574410609,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

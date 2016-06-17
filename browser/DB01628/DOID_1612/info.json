@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.5442132639791939,
   "metapath_contribution": {
     "CbGaD": 0.29474204372656343,
     "CbGbCtD": 0.3819605402961252,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17728048278665323,
     "CrCbGaD": 0.005568469978344777
   },
+  "n_trials": 0.0,
   "prediction": 0.0025779998033115302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGbCtD": 0.1411584263822606,
     "CbGdCrCtD": 0.0004395900761983014,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2187666110462321,
     "CtDrD": 0.18231654303447628
   },
+  "n_trials": 1.0,
   "prediction": 0.211470069279165,
   "status": 0,
   "training_prediction": 0.664371630878795

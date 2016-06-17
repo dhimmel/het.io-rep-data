@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGbCtD": 0.1722652168790443,
     "CbGdCrCtD": 0.0016142645930490567,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.3017027971071496,
     "CrCtD": 0.4566808985207379
   },
+  "n_trials": 0.0,
   "prediction": 0.00960724854415297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

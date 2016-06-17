@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.665799739921977,
   "metapath_contribution": {
     "CbGbCtD": 0.6046416084231925,
     "CbGdCrCtD": 0.0016979115525641388,
     "CbGpPWpGaD": 0.13173259481998514,
     "CcSEcCtD": 0.26192788520425825
   },
+  "n_trials": 0.0,
   "prediction": 0.00274998329975107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04786",
   "compound_name": "Suramin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8465539661898571,
   "metapath_contribution": {
     "CbGaD": 0.5818014441028592,
     "CbGbCtD": 0.14708483981249063,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.09728263933578839,
     "CbGpPWpGaD": 0.17077699529831605
   },
+  "n_trials": 4.0,
   "prediction": 0.00542435562888291,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

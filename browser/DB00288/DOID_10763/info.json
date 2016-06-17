@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0624187256176853,
   "metapath_contribution": {
     "CbGaD": 0.5227202459473483,
     "CbGbCtD": 0.05029725047269742,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.004207000074666847,
     "CrCrCtD": 0.2509580496412142
   },
+  "n_trials": 0.0,
   "prediction": 0.00109890883880977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

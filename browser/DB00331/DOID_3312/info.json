@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.6908706996642402,
     "CbGeAlD": 0.1259916060448018,
     "CbGpPWpGaD": 0.18313769429095805
   },
+  "n_trials": 4.0,
   "prediction": 0.0048980808559714204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

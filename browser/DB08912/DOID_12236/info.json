@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08912",
   "compound_name": "Dabrafenib",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.5096017292833688,
     "CbGbCtD": 0.2045822649670775,
     "CbGpPWpGaD": 0.1155646461013395,
     "CcSEcCtD": 0.17025135964821425
   },
+  "n_trials": 0.0,
   "prediction": 0.0036081311957783797,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

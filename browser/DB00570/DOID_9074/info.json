@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.139705882352941,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.029258777633290003,
   "metapath_contribution": {
     "CbGbCtD": 0.5691240133962698,
     "CbGdCrCtD": 0.004636933597835259,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15216713211659694,
     "CcSEcCtD": 0.13428431953226333
   },
+  "n_trials": 0.0,
   "prediction": 0.000729783493557783,
   "status": 0,
   "training_prediction": 0.00957225761931585

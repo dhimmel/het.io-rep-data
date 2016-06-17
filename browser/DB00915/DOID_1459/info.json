@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGbCtD": 0.25193514785860643,
     "CbGeAlD": 0.1660355189281224,
     "CbGpPWpGaD": 0.296411227646427,
     "CcSEcCtD": 0.28561810556684414
   },
+  "n_trials": 0.0,
   "prediction": 0.00263135289039887,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

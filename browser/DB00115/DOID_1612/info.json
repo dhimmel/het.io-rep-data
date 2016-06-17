@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00115",
   "compound_name": "Cyanocobalamin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.825097529258778,
   "metapath_contribution": {
     "CbGaD": 0.5496970448568156,
     "CbGbCtD": 0.16770433482158117,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1947333239739402,
     "CrCbGaD": 0.004475463269114534
   },
+  "n_trials": 0.0,
   "prediction": 0.00508126200994852,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.684655396618986,
   "metapath_contribution": {
     "CbGaD": 0.32668864324039504,
     "CbGbCtD": 0.1725234403655606,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0030024090455999857,
     "CrCrCtD": 0.3094264029230226
   },
+  "n_trials": 0.0,
   "prediction": 0.0054635848000215296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

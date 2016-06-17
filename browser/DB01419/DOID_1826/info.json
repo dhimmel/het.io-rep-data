@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.276983094928479,
   "metapath_contribution": {
     "CbGaD": 0.63205548083907,
     "CbGbCtD": 0.3076153199332365,
     "CbGpPWpGaD": 0.0532229403460601,
     "CrCbGaD": 0.007106258881633256
   },
+  "n_trials": 0.0,
   "prediction": 0.0020782451681077,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
-    "CbGaD": 0.792289296083364,
+    "CbGaD": 0.7922892960833641,
     "CbGeAlD": 0.0720161939074585,
-    "CbGpPWpGaD": 0.12963125905848213,
+    "CbGpPWpGaD": 0.12963125905848216,
     "CrCbGaD": 0.006063250950695373
   },
+  "n_trials": 0.0,
   "prediction": 0.0025624408765553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01408",
   "compound_name": "Bambuterol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.826670033247933,
     "CbGbCtD": 0.15416552478828657,
     "CbGeAlD": 0.01110977360978099,
     "CrCbGaD": 0.008054668353999468
   },
+  "n_trials": 0.0,
   "prediction": 0.00208610897414502,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

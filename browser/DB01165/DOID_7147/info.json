@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.386866059817945,
   "metapath_contribution": {
     "CbGbCtD": 0.5921015878238403,
     "CbGdCrCtD": 0.0022941542959749777,
     "CcSEcCtD": 0.40560425788018484
   },
+  "n_trials": 0.0,
   "prediction": 0.00144703539125172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

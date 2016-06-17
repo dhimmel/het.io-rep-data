@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00952",
   "compound_name": "Naratriptan",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.272431729518856,
   "metapath_contribution": {
     "CbGbCtD": 0.1952721937765454,
     "CbGeAlD": 0.13999621378108637,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4399889654350819,
     "CrCbGaD": 0.006865671438398119
   },
+  "n_trials": 0.0,
   "prediction": 0.00205828281320015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

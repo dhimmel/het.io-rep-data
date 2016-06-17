@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGaD": 0.38570631471921263,
     "CbGbCtD": 0.38054145792267285,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08439475806330947,
     "CcSEcCtD": 0.14077011777384457
   },
+  "n_trials": 0.0,
   "prediction": 0.00731140176753796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

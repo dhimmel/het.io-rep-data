@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.355656697009103,
   "metapath_contribution": {
     "CbGaD": 0.36809169055771546,
     "CbGbCtD": 0.3767225701912461,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.190224293418965,
     "CrCbGaD": 0.004451289279772521
   },
+  "n_trials": 0.0,
   "prediction": 0.00182093445532633,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

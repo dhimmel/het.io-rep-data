@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.864759427828348,
   "metapath_contribution": {
     "CbGbCtD": 0.05463917919126842,
     "CbGeAlD": 0.03935250771361213,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0027050000401616075,
     "CrCrCtD": 0.6341234443570877
   },
+  "n_trials": 0.0,
   "prediction": 0.00310508194252833,
   "status": 0,
   "training_prediction": 0.00738372698712227

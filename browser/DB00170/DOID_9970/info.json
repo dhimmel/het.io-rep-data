@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.31574374737751376,
     "CbGbCtD": 0.25407234347842683,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0008828804849483253,
     "CrCrCtD": 0.2830602958620665
   },
+  "n_trials": 0.0,
   "prediction": 0.0076424861888286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

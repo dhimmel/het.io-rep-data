@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGaD": 0.6459059481532011,
     "CbGeAlD": 0.07875052166993314,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07803851023018472,
     "CrCbGaD": 0.005025927378675626
   },
+  "n_trials": 1.0,
   "prediction": 0.00336926416649517,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

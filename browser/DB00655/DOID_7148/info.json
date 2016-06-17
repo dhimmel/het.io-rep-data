@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.053593114575278746,
     "CbGbCtD": 0.32548302130043766,
@@ -12,6 +14,7 @@
     "CrCbGaD": 1.913613744254072e-05,
     "CrCrCtD": 0.2415608255306286
   },
+  "n_trials": 0.0,
   "prediction": 0.00474496394590284,
   "status": 0,
   "training_prediction": 0.0153102101152006

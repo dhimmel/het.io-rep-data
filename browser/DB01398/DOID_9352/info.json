@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01398",
   "compound_name": "Salicylate-sodium",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.661898569570871,
   "metapath_contribution": {
     "CbGaD": 0.28572973341508,
     "CbGbCtD": 0.46018591436900164,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18425147210700965,
     "CrCbGaD": 0.003273271169036435
   },
+  "n_trials": 0.0,
   "prediction": 0.00348758104833316,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

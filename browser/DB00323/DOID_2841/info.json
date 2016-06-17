@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00323",
   "compound_name": "Tolcapone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.273732119635891,
   "metapath_contribution": {
     "CbGbCtD": 0.4992943934367615,
     "CbGeAlD": 0.004196381877064848,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.42251714491228143,
     "CrCbGaD": 0.008955133931612062
   },
+  "n_trials": 0.0,
   "prediction": 0.00171761678803631,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

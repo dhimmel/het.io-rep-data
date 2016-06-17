@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01320",
   "compound_name": "Fosphenytoin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.631339401820546,
   "metapath_contribution": {
     "CbGaD": 0.2395270153284512,
     "CbGbCtD": 0.49694453587553655,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14757424620003212,
     "CrCbGaD": 0.002643340006543638
   },
+  "n_trials": 0.0,
   "prediction": 0.00305995381026038,
   "status": 0,
   "training_prediction": 0.0162858170869814

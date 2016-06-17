@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.892717815344603,
   "metapath_contribution": {
     "CbGaD": 0.8411288222771394,
     "CbGeAlD": 0.03616150730611717,
     "CbGpPWpGaD": 0.11474845736224182,
     "CrCbGaD": 0.007961213054501627
   },
+  "n_trials": 0.0,
   "prediction": 0.0023488865145656897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

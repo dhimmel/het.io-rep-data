@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01618",
   "compound_name": "Molindone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8654096228868661,
   "metapath_contribution": {
     "CbGaD": 0.667413070756737,
     "CbGbCtD": 0.15210327468495136,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03675007022153653,
     "CcSEcCtD": 0.0736824579047066
   },
+  "n_trials": 0.0,
   "prediction": 0.00483024024808638,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.4015993279335434,
     "CbGbCtD": 0.5184153458856889,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0022146361898962704,
     "CcSEcCtD": 0.06485179155803986
   },
+  "n_trials": 0.0,
   "prediction": 0.0034388725620258897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

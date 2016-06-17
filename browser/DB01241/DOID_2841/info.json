@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01241",
   "compound_name": "Gemfibrozil",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGbCtD": 0.38527224810324734,
     "CbGpPWpGaD": 0.02288742761645506,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0009458617106581644,
     "CrCrCtD": 0.46765001651522137
   },
+  "n_trials": 0.0,
   "prediction": 0.00724298621798945,
   "status": 0,
   "training_prediction": 0.0474837887419171

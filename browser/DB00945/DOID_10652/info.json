@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.586475942782835,
   "metapath_contribution": {
     "CbGaD": 0.5595687581651264,
     "CbGbCtD": 0.0737723668737998,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11744874899512915,
     "CrCbGaD": 0.003567605010493212
   },
+  "n_trials": 0.0,
   "prediction": 0.0021062724561474603,
   "status": 0,
   "training_prediction": 0.0042562802697042

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.47546636225732086,
     "CbGbCtD": 0.3529384617341821,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06041915332622659,
     "CrCbGaD": 0.0035143450194171123
   },
+  "n_trials": 3.0,
   "prediction": 0.0066895414242987795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

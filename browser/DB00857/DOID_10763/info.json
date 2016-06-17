@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00857",
   "compound_name": "Terbinafine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.1677464688021169,
     "CbGbCtD": 0.2140579144408182,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.18087279120452582,
     "CrCtD": 0.2872974153721258
   },
+  "n_trials": 0.0,
   "prediction": 0.0377447102348069,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.15027777023476754,
     "CbGbCtD": 0.21689450621525075,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05775181806278074,
     "CtDrD": 0.5066867513219752
   },
+  "n_trials": 0.0,
   "prediction": 0.0162724695667516,
   "status": 0,
   "training_prediction": 0.0584078892798725

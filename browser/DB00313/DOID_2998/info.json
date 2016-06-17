@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGbCtD": 0.6963309393697301,
     "CbGdCrCtD": 0.002268684289506979,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.026405206372263762,
     "CcSEcCtD": 0.2231513294778474
   },
+  "n_trials": 0.0,
   "prediction": 0.00310724026613627,
   "status": 0,
   "training_prediction": 0.0131794920270172

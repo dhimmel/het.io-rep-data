@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00769",
   "compound_name": "Hydrocortamate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.15632017465706238,
     "CbGbCtD": 0.1988534217337253,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.27078552242936565,
     "CrCtD": 0.36995216692068145
   },
+  "n_trials": 0.0,
   "prediction": 0.0163181603349286,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

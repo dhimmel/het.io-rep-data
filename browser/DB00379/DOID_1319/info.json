@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00379",
   "compound_name": "Mexiletine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGbCtD": 0.6196053631723448,
     "CbGeAlD": 0.07383877141781209,
     "CbGpPWpGaD": 0.04704261017272667,
     "CcSEcCtD": 0.2595132552371164
   },
+  "n_trials": 0.0,
   "prediction": 0.00312777024288806,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

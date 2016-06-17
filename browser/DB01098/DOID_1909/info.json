@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.49609882964889507,
   "metapath_contribution": {
     "CbGaD": 0.15262682603157632,
     "CbGbCtD": 0.6711776716036861,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.058738686959809355,
     "CrCbGaD": 0.0007358243775541195
   },
+  "n_trials": 0.0,
   "prediction": 0.0014355352100299198,
   "status": 0,
   "training_prediction": 0.00436684972946025

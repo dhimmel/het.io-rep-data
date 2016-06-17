@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.291937581274382,
   "metapath_contribution": {
     "CbGbCtD": 0.42743404521016176,
     "CbGeAlD": 0.2141410730887632,
     "CbGpPWpGaD": 0.010116767073489637,
     "CcSEcCtD": 0.3483081146275853
   },
+  "n_trials": 0.0,
   "prediction": 0.0012421479697989,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

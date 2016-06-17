@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGaD": 0.19195130540640445,
     "CbGbCtD": 0.05607415309542516,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0014679739744483352,
     "CrCrCtD": 0.14217551675945572
   },
+  "n_trials": 0.0,
   "prediction": 0.00672616538348446,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

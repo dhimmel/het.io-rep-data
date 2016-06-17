@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.27259601619229246,
     "CbGbCtD": 0.2311728112745488,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.0021463695208186295,
     "CrCrCtD": 0.21658189294770094
   },
+  "n_trials": 0.0,
   "prediction": 0.0139769418004485,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

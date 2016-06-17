@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.5512865852126799,
     "CbGbCtD": 0.26356378570204536,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.09778621133714666,
     "CrCbGaD": 0.0027562470228807093
   },
+  "n_trials": 0.0,
   "prediction": 0.0058299287603871,
   "status": 0,
   "training_prediction": 0.0262279906083851

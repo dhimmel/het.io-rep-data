@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.12938881664499302,
   "metapath_contribution": {
     "CbGaD": 0.8427766096969831,
     "CbGeAlD": 0.02327231276476237,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0644447954729073,
     "CrCbGaD": 0.007800648996076451
   },
+  "n_trials": 0.0,
   "prediction": 0.000825924946263319,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

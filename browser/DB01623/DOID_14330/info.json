@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01623",
   "compound_name": "Thiothixene",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.5851755526658001,
   "metapath_contribution": {
     "CbGaD": 0.7972517461019575,
     "CbGeAlD": 0.07742254892322997,
     "CbGpPWpGaD": 0.11669030799199406,
     "CrCbGaD": 0.008635396982818412
   },
+  "n_trials": 0.0,
   "prediction": 0.00155351894975939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

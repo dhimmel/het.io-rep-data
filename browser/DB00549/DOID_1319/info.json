@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00549",
   "compound_name": "Zafirlukast",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.4749527661144228,
     "CbGbCtD": 0.3784393168408058,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09560048099563077,
     "CrCbGaD": 0.0005180701452877371
   },
+  "n_trials": 0.0,
   "prediction": 0.00293190378714008,
   "status": 0,
   "training_prediction": 0.00535004718628191

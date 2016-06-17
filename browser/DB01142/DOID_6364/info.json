@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.199019445554435,
     "CbGbCtD": 0.20133652300697108,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.20286386178672455,
     "CrCtD": 0.2831949573223822
   },
+  "n_trials": 0.0,
   "prediction": 0.0516012372247922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

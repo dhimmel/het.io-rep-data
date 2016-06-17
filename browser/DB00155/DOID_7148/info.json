@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.5609339754252106,
     "CbGbCtD": 0.10419746896952914,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00259237653961156,
     "CrCrCtD": 0.2378278373346337
   },
+  "n_trials": 0.0,
   "prediction": 0.00594713380723046,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

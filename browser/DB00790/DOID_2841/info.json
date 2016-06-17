@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.766579973992198,
   "metapath_contribution": {
     "CbGaD": 0.3653739833769316,
     "CbGbCtD": 0.35933792558544525,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21827182138981716,
     "CrCbGaD": 0.00362315964372925
   },
+  "n_trials": 0.0,
   "prediction": 0.00438480786800579,
   "status": 0,
   "training_prediction": 0.0478561896882291

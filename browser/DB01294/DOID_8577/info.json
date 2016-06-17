@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.4366712465846873,
     "CbGbCtD": 0.45910033090168556,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.027222343568681903,
     "CcSEcCtD": 0.051639374044047774
   },
+  "n_trials": 0.0,
   "prediction": 0.00893227584061453,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

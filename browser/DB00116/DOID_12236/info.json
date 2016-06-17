@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
     "CbGaD": 0.5863513452459589,
     "CbGbCtD": 0.2380852069793282,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07192588900058423,
     "CrCbGaD": 0.0049028287967633755
   },
+  "n_trials": 0.0,
   "prediction": 0.00239168598217785,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

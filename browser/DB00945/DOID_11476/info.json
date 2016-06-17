@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.46553966189857,
   "metapath_contribution": {
     "CbGbCtD": 0.555784847593506,
     "CbGdCrCtD": 0.004568583996927998,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.21659817330507447,
     "CcSEcCtD": 0.17181424308178733
   },
+  "n_trials": 0.0,
   "prediction": 0.00180814076012924,
   "status": 0,
   "training_prediction": 0.009763683864872691

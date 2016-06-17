@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00878",
   "compound_name": "Chlorhexidine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.761378413524057,
   "metapath_contribution": {
     "CbGbCtD": 0.5875042682920979,
     "CbGeAlD": 0.058509942862771856,
     "CbGpPWpGaD": 0.07985855123587132,
     "CcSEcCtD": 0.274127237609259
   },
+  "n_trials": 0.0,
   "prediction": 0.0028823129676569,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

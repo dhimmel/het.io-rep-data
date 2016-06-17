@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGaD": 0.7195201545750182,
     "CbGeAlD": 0.0868843604490533,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.046002801378556585,
     "CrCbGaD": 0.005074799425348181
   },
+  "n_trials": 0.0,
   "prediction": 0.0022276820835111103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

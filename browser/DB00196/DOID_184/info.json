@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
     "CbGaD": 0.7608689462930486,
     "CbGbCtD": 0.0033259085033283853,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18652253901353746,
     "CrCbGaD": 0.0055608642954775404
   },
+  "n_trials": 0.0,
   "prediction": 0.00194810307373051,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

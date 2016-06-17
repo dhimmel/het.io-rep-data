@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.520156046814044,
   "metapath_contribution": {
     "CbGaD": 0.16388409620551522,
     "CbGbCtD": 0.6081786950631165,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18620938793089653,
     "CrCbGaD": 0.0012142851317593203
   },
+  "n_trials": 0.0,
   "prediction": 0.00177731606883068,
   "status": 0,
   "training_prediction": 0.00486220345708714

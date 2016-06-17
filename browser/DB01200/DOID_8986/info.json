@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.6264443689234009,
     "CbGeAlD": 0.12868453799946372,
     "CbGpPWpGaD": 0.23991161262243949,
     "CrCbGaD": 0.004959480454695953
   },
+  "n_trials": 0.0,
   "prediction": 0.00225960831772834,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

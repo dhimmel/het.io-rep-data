@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01148",
   "compound_name": "Flavoxate",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.28218465539661897,
   "metapath_contribution": {
     "CbGaD": 0.48993804845004646,
     "CbGbCtD": 0.0050839916882279325,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0029455135986349787,
     "CrCrCtD": 0.16212902026973494
   },
+  "n_trials": 0.0,
   "prediction": 0.00226371449365732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

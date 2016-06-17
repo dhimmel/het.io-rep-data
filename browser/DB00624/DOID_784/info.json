@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.24447334200260104,
   "metapath_contribution": {
     "CbGaD": 0.7259319145549864,
     "CbGeAlD": 0.0686287131291453,
     "CbGpPWpGaD": 0.19843600597959096,
     "CrCbGaD": 0.0070033663362773085
   },
+  "n_trials": 0.0,
   "prediction": 0.00109128812138787,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

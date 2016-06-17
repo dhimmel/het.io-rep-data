@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.32381111480643116,
     "CbGbCtD": 0.4225943122650651,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12410682893141435,
     "CrCbGaD": 0.0010311433086852577
   },
+  "n_trials": 0.0,
   "prediction": 0.00706296653815284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00469",
   "compound_name": "Tenoxicam",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9115734720416121,
   "metapath_contribution": {
     "CbGaD": 0.7045916972405087,
     "CbGbCtD": 0.1737790717042426,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10530986935210453,
     "CrCbGaD": 0.005956707418493581
   },
+  "n_trials": 0.0,
   "prediction": 0.00334534234142322,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

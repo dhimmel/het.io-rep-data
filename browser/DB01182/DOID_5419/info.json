@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.5370611183355011,
   "metapath_contribution": {
     "CbGaD": 0.8213974865366744,
     "CbGeAlD": 0.049134251553054745,
     "CbGpPWpGaD": 0.12074722158560033,
     "CrCbGaD": 0.008721040324670555
   },
+  "n_trials": 0.0,
   "prediction": 0.00163277797715509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

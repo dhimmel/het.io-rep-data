@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.245123537061118,
   "metapath_contribution": {
     "CbGaD": 0.3890242429680728,
     "CbGbCtD": 0.44854929367990143,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08708660600372956,
     "CrCbGaD": 0.006183702041925251
   },
+  "n_trials": 1.0,
   "prediction": 0.00100807728425188,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

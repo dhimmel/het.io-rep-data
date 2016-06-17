@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01430",
   "compound_name": "Almitrine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.517555266579974,
   "metapath_contribution": {
     "CbGaD": 0.4832675094872726,
     "CbGbCtD": 0.4676557914276921,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.035649448467575694,
     "CrCbGaD": 0.0037908343873712994
   },
+  "n_trials": 0.0,
   "prediction": 0.004126289952800071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

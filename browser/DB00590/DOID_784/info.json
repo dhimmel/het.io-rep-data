@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.29309604253576577,
     "CbGeAlD": 0.0093365517860611,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003126422296239486,
     "CtDrD": 0.6495043468539328
   },
+  "n_trials": 0.0,
   "prediction": 0.0048049670001998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

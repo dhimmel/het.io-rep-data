@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05246",
   "compound_name": "Methsuximide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.12653142433250772,
     "CbGbCtD": 0.12510020397804392,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.14502242301276613,
     "CrCtD": 0.2272499966286052
   },
+  "n_trials": 0.0,
   "prediction": 0.43432845761537603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

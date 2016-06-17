@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.12421888866358341,
     "CbGbCtD": 0.16615936679996848,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.26272617701822365,
     "CrCtD": 0.3964426290664445
   },
+  "n_trials": 0.0,
   "prediction": 0.0207333392021643,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

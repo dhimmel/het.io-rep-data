@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.7548764629388821,
   "metapath_contribution": {
     "CbGaD": 0.7734369520158493,
     "CbGeAlD": 0.08014751973696196,
     "CbGpPWpGaD": 0.14374251133982044,
     "CrCbGaD": 0.002673016907368295
   },
+  "n_trials": 2.0,
   "prediction": 0.00199621273748264,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

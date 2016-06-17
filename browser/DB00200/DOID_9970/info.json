@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8361508452535759,
   "metapath_contribution": {
-    "CbGaD": 0.6319371154791505,
-    "CbGeAlD": 0.07867507107464733,
-    "CbGpPWpGaD": 0.18679423602412656,
-    "CcSEcCtD": 0.09656944010442849,
-    "CrCbGaD": 0.006024137317647153
+    "CbGaD": 0.6319371154791504,
+    "CbGeAlD": 0.07867507107464732,
+    "CbGpPWpGaD": 0.18679423602412654,
+    "CcSEcCtD": 0.09656944010442847,
+    "CrCbGaD": 0.006024137317647152
   },
+  "n_trials": 1.0,
   "prediction": 0.006053876378924039,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

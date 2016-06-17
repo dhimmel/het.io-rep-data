@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.42782834850455104,
   "metapath_contribution": {
     "CbGaD": 0.20187557089238986,
     "CbGbCtD": 0.47168676505807633,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2005376519158605,
     "CrCbGaD": 0.004102581974158185
   },
+  "n_trials": 0.0,
   "prediction": 0.00201784347132343,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

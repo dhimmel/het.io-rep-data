@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08896",
   "compound_name": "Regorafenib",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.13932715605918436,
     "CbGbCtD": 0.1976676823713691,
@@ -14,7 +16,7 @@
     "CrCbGaD": 0.0010678976478201842,
     "CrCtD": 0.30192705909102646
   },
+  "n_trials": 0.0,
   "prediction": 0.146408194893839,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.6080649438402798,
     "CbGbCtD": 0.23200773788767406,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.012211129957649567,
     "CrCbGaD": 0.006847651091442188
   },
+  "n_trials": 0.0,
   "prediction": 0.000933104860620674,
   "status": 0,
   "training_prediction": 0.00188785055286392

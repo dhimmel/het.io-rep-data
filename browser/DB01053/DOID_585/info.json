@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.596228868660598,
   "metapath_contribution": {
     "CbGbCtD": 0.38592872448485815,
     "CbGeAlD": 0.15480374285632195,
     "CbGpPWpGaD": 0.3683008622893069,
     "CcSEcCtD": 0.0909666703695129
   },
+  "n_trials": 0.0,
   "prediction": 0.00169396370775053,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

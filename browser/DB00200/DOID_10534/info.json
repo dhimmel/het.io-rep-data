@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
     "CbGeAlD": 0.28477466883040264,
-    "CbGpPWpGaD": 0.43256676122094645,
-    "CcSEcCtD": 0.2748939769442689,
-    "CrCbGaD": 0.007764593004382073
+    "CbGpPWpGaD": 0.4325667612209464,
+    "CcSEcCtD": 0.27489397694426887,
+    "CrCbGaD": 0.007764593004382071
   },
+  "n_trials": 0.0,
   "prediction": 0.00248915913045293,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

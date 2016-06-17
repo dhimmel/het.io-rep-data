@@ -1,15 +1,17 @@
 {
   "compound_id": "DB05812",
   "compound_name": "Abiraterone",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.7116508512282059,
     "CbGeAlD": 0.045352367776031854,
     "CbGpPWpGaD": 0.2387509960037889,
     "CrCbGaD": 0.004245784991973332
   },
+  "n_trials": 0.0,
   "prediction": 0.00282113570955163,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

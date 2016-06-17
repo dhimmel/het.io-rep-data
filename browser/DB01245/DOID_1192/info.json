@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01245",
   "compound_name": "Decamethonium",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.851755526657997,
   "metapath_contribution": {
     "CbGaD": 0.9496753380748482,
     "CbGeAlD": 0.006285944746380338,
     "CbGpPWpGaD": 0.039223592416190674,
     "CrCbGaD": 0.004815124762580832
   },
+  "n_trials": 0.0,
   "prediction": 0.00299072792589817,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

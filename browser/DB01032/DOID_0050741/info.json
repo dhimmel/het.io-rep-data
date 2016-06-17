@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.47594278283485,
   "metapath_contribution": {
     "CbGbCtD": 0.4790013895791943,
     "CbGeAlD": 0.19664134758477667,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12930884191605438,
     "CrCbGaD": 0.005571938276949012
   },
+  "n_trials": 0.0,
   "prediction": 0.00205281400634558,
   "status": 0,
   "training_prediction": 0.0024913937840242103

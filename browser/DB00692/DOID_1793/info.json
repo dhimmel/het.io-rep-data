@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00692",
   "compound_name": "Phentolamine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
     "CbGbCtD": 0.5264513843432572,
     "CbGdCrCtD": 0.012282399968802567,
     "CbGpPWpGaD": 0.1871080779073609,
     "CcSEcCtD": 0.27415813778057924
   },
+  "n_trials": 0.0,
   "prediction": 0.00220088569113908,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

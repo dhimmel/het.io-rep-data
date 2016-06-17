@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.49544863459037697,
   "metapath_contribution": {
     "CbGaD": 0.22788493688037212,
     "CbGbCtD": 0.7068774669703667,
     "CbGpPWpGaD": 0.0625958424967093,
     "CrCbGaD": 0.0026417536525518105
   },
+  "n_trials": 0.0,
   "prediction": 0.00335717877287169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

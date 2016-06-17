@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01382",
   "compound_name": "Glycodiazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.942132639791938,
   "metapath_contribution": {
     "CbGaD": 0.35102190973885644,
     "CbGbCtD": 0.5999598636504524,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03561247190269489,
     "CrCbGaD": 0.0006089495661486388
   },
+  "n_trials": 0.0,
   "prediction": 0.0125773791828956,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

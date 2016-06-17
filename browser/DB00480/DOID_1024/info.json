@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.23407826900948384,
     "CbGeAlD": 0.017678311558214782,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.2646272306167614,
     "CrCtD": 0.4509793772040998
   },
+  "n_trials": 0.0,
   "prediction": 0.0670339976774896,
   "status": 0,
   "training_prediction": 0.0661858306990043

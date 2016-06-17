@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.5589360305897787,
     "CbGbCtD": 0.1777411049249181,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.062036405866271835,
     "CcSEcCtD": 0.13837318561282472
   },
+  "n_trials": 0.0,
   "prediction": 0.00382738234986652,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

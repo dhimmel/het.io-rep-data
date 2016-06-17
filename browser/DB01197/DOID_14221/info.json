@@ -1,16 +1,19 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
-    "CbGaD": 0.2823660613776432,
-    "CbGeAlD": 0.0702274987486013,
-    "CbGpPWpGaD": 0.07248639534362884,
-    "CcSEcCtD": 0.005577027759424987,
-    "CrCbGaD": 0.0009252418133465642,
-    "CtDrD": 0.568417774957355
+    "CbGaD": 0.28236606137764325,
+    "CbGeAlD": 0.07022749874860132,
+    "CbGpPWpGaD": 0.07248639534362886,
+    "CcSEcCtD": 0.005577027759424988,
+    "CrCbGaD": 0.0009252418133465643,
+    "CtDrD": 0.5684177749573551
   },
+  "n_trials": 0.0,
   "prediction": 0.00995844389978076,
   "status": 0,
   "training_prediction": 0.0101933252261857

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00771",
   "compound_name": "Clidinium",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.844603381014304,
   "metapath_contribution": {
     "CbGaD": 0.9679141865351769,
     "CbGeAlD": 0.022855637879815194,
     "CbGpPWpGaD": 0.0012535136104652868,
     "CrCbGaD": 0.007976661974542686
   },
+  "n_trials": 0.0,
   "prediction": 0.0022707061198607398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00214",
   "compound_name": "Torasemide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.48166803577432693,
     "CbGbCtD": 0.25075371494121096,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.006811548206344308,
     "CcSEcCtD": 0.1771917606348349
   },
+  "n_trials": 0.0,
   "prediction": 0.0040708695097862796,
   "status": 0,
   "training_prediction": 0.0117906862003659

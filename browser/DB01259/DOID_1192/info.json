@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.5620153632493167,
     "CbGbCtD": 0.2139632849933589,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.12584126720195082,
     "CrCbGaD": 0.0032571833343624577
   },
+  "n_trials": 3.0,
   "prediction": 0.00479710989138996,
   "status": 0,
   "training_prediction": 0.0130549046862396

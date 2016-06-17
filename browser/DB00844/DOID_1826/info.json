@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00844",
   "compound_name": "Nalbuphine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.47399219765929795,
   "metapath_contribution": {
     "CbGaD": 0.6426526918060068,
     "CbGeAlD": 0.0384000689405915,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20762997630708682,
     "CrCbGaD": 0.006575513623260647
   },
+  "n_trials": 0.0,
   "prediction": 0.0031916080795752,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

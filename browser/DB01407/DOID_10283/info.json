@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01407",
   "compound_name": "Clenbuterol",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6508452535760729,
   "metapath_contribution": {
-    "CbGaD": 0.45299598462646345,
-    "CbGbCtD": 0.33913648752095066,
-    "CbGeAlD": 0.021657042686868844,
-    "CbGpPWpGaD": 0.18217157955555785,
-    "CrCbGaD": 0.004038905610159111
+    "CbGaD": 0.45299598462646357,
+    "CbGbCtD": 0.3391364875209507,
+    "CbGeAlD": 0.02165704268686885,
+    "CbGpPWpGaD": 0.1821715795555579,
+    "CrCbGaD": 0.004038905610159112
   },
+  "n_trials": 0.0,
   "prediction": 0.00311863638514289,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

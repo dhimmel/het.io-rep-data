@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9323797139141742,
   "metapath_contribution": {
     "CbGaD": 0.17000493751391496,
     "CbGbCtD": 0.6190748488741068,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10827849350833285,
     "CrCbGaD": 0.0009255098613644622
   },
+  "n_trials": 0.0,
   "prediction": 0.00350347719959335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

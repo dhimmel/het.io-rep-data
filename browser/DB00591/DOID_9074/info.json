@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00591",
   "compound_name": "Fluocinolone Acetonide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.07361396195963728,
     "CbGbCtD": 0.10829175363282842,
@@ -16,6 +18,7 @@
     "CrCtD": 0.19631496588407224,
     "CtDrD": 0.14643119222289946
   },
+  "n_trials": 0.0,
   "prediction": 0.133057956267225,
   "status": 0,
   "training_prediction": 0.427835347789094

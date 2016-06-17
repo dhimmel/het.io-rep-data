@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGbCtD": 0.6735712616652285,
     "CbGeAlD": 0.09344645763458145,
     "CbGpPWpGaD": 0.07024221193952603,
     "CcSEcCtD": 0.16274006876066396
   },
+  "n_trials": 1.0,
   "prediction": 0.00332597787579203,
   "status": 0,
   "training_prediction": 0.0188252335027589

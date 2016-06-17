@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.33875162548764604,
   "metapath_contribution": {
     "CbGaD": 0.5763128903617556,
     "CbGbCtD": 0.14251272022780456,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19113532375740797,
     "CrCbGaD": 0.007502518716348387
   },
+  "n_trials": 0.0,
   "prediction": 0.0011412573649250699,
   "status": 0,
   "training_prediction": 0.00138535516954766

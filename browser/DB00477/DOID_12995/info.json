@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.609232769830949,
   "metapath_contribution": {
     "CbGaD": 0.8329756284975066,
     "CbGeAlD": 0.029409841297459598,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.00727156846090147
   },
   "prediction": 0.00158619025974709,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

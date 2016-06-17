@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.7809652610253334,
     "CbGeAlD": 0.09945717103543737,
     "CbGpPWpGaD": 0.11247934723259657,
     "CrCbGaD": 0.007098220706632678
   },
+  "n_trials": 0.0,
   "prediction": 0.00229677865015467,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.198959687906372,
   "metapath_contribution": {
     "CbGaD": 0.9137216691830019,
     "CbGeAlD": 0.022897023635239624,
     "CbGpPWpGaD": 0.05503447884288108,
     "CrCbGaD": 0.008346828338877453
   },
+  "n_trials": 0.0,
   "prediction": 0.0009657742949102411,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

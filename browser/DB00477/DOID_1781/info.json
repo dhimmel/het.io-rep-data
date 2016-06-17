@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.0754226267880364,
   "metapath_contribution": {
     "CbGbCtD": 0.564662946691629,
     "CbGeAlD": 0.06302836964269323,
     "CbGpPWpGaD": 0.2214572771862822,
     "CcSEcCtD": 0.15085140647939563
   },
+  "n_trials": 0.0,
   "prediction": 0.000776466601958403,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

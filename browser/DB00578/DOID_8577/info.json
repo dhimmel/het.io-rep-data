@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.0367647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.000650195058517555,
   "metapath_contribution": {
     "CbGdCrCtD": 0.04737788833976938,
     "CbGpPWpGaD": 0.3107088200057642,
     "CcSEcCtD": 0.5760931401966127,
     "CrCbGaD": 0.06582015145785364
   },
+  "n_trials": 0.0,
   "prediction": 0.000497815798437407,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

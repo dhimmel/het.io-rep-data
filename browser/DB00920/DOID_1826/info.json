@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.15474642392717802,
   "metapath_contribution": {
     "CbGeAlD": 0.10483087935140452,
     "CbGpPWpGaD": 0.16326336847551678,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.00425511893623949,
     "CrCrCtD": 0.4732291040740537
   },
+  "n_trials": 0.0,
   "prediction": 0.00148906677828774,
   "status": 0,
   "training_prediction": 0.00726859226898679

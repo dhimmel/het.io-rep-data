@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01092",
   "compound_name": "Ouabain",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.31664499349804903,
   "metapath_contribution": {
     "CbGaD": 0.442434036049924,
     "CbGbCtD": 0.3907514123454068,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10937424897809651,
     "CrCbGaD": 0.0021207527280398476
   },
+  "n_trials": 0.0,
   "prediction": 0.00166614142289248,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

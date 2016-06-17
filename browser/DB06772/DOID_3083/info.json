@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.14629388816645003,
   "metapath_contribution": {
     "CbGbCtD": 0.3378674355779041,
     "CbGeAlD": 0.1312796897565316,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.38016315635681186,
     "CrCbGaD": 0.005793864395737003
   },
+  "n_trials": 0.0,
   "prediction": 0.001226167630237,
   "status": 0,
   "training_prediction": 0.00270299254836703

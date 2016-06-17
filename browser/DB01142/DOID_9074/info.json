@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.328348504551365,
   "metapath_contribution": {
     "CbGbCtD": 0.5075858956135314,
     "CbGeAlD": 0.13251363486370488,
     "CbGpPWpGaD": 0.058605285420960176,
     "CcSEcCtD": 0.3012951841018035
   },
+  "n_trials": 0.0,
   "prediction": 0.0014399295766598,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

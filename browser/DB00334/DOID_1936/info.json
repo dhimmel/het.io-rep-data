@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.733420026007802,
   "metapath_contribution": {
     "CbGaD": 0.46058671910986587,
     "CbGbCtD": 0.35034517215709643,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15295649277803566,
     "CrCbGaD": 0.005993185678537631
   },
+  "n_trials": 0.0,
   "prediction": 0.00257780377914732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

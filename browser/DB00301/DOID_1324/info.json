@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00301",
   "compound_name": "Flucloxacillin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.335500650195059,
   "metapath_contribution": {
     "CbGbCtD": 0.6441873027182184,
     "CbGpPWpGaD": 0.01058287524487242,
     "CcSEcCtD": 0.3452298220369092
   },
+  "n_trials": 0.0,
   "prediction": 0.00133857683679249,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

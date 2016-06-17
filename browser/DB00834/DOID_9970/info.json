@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.419237047094151,
     "CbGbCtD": 0.33781714933644663,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09233080112863762,
     "CcSEcCtD": 0.11818782901639802
   },
+  "n_trials": 0.0,
   "prediction": 0.00561126759571827,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

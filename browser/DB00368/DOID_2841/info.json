@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.07000818375283363,
     "CbGbCtD": 0.21617002172949407,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2724702910616952,
     "CrCtD": 0.3751039746023865
   },
+  "n_trials": 0.0,
   "prediction": 0.0316314941046554,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.764629388816645,
   "metapath_contribution": {
     "CbGaD": 0.2626080263946319,
     "CbGbCtD": 0.3510526357879811,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0023511677454951994,
     "CrCrCtD": 0.13675476887290056
   },
+  "n_trials": 0.0,
   "prediction": 0.00474599298425682,
   "status": 0,
   "training_prediction": 0.0340009875818111

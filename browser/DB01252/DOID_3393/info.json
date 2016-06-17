@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01252",
   "compound_name": "Mitiglinide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGaD": 0.10574625035417644,
     "CbGbCtD": 0.2344765072580758,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2618634542142941,
     "CrCtD": 0.3603007555518297
   },
+  "n_trials": 0.0,
   "prediction": 0.0295889035676437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

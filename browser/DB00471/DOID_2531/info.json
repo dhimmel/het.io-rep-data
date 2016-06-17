@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00471",
   "compound_name": "Montelukast",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.34087643723832595,
     "CbGbCtD": 0.4182113165853174,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04063685274039824,
     "CcSEcCtD": 0.1774208447879534
   },
+  "n_trials": 0.0,
   "prediction": 0.007348901563381621,
   "status": 0,
   "training_prediction": 0.13259969929105

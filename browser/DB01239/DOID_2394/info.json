@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.213263979193758,
   "metapath_contribution": {
     "CbGaD": 0.7988928398793753,
     "CbGbCtD": 0.08632705715206011,
     "CbGeAlD": 0.1062096134868879,
     "CbGpPWpGaD": 0.008570489481676607
   },
+  "n_trials": 0.0,
   "prediction": 0.000948242219459404,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

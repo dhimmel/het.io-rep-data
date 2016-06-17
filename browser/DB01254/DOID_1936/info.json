@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.3736464618386045,
     "CbGbCtD": 0.24755148169526955,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.172110267427826,
     "CcSEcCtD": 0.13039255883799913
   },
+  "n_trials": 0.0,
   "prediction": 0.0061693642321109105,
   "status": 0,
   "training_prediction": 0.0100332187542496

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.479193758127438,
   "metapath_contribution": {
     "CbGbCtD": 0.7153494376158528,
     "CbGeAlD": 0.048853941570203945,
     "CbGpPWpGaD": 0.026324042936885655,
     "CcSEcCtD": 0.20947257787705767
   },
+  "n_trials": 0.0,
   "prediction": 0.00206644984173775,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

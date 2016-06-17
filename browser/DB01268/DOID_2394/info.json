@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.3409649582398794,
     "CbGbCtD": 0.1691403224294218,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.19696282564502615,
     "CcSEcCtD": 0.14346131255164005
   },
+  "n_trials": 4.0,
   "prediction": 0.00302617171779971,
   "status": 0,
   "training_prediction": 0.0119544825409221

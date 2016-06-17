@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06700",
   "compound_name": "Desvenlafaxine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.9182979045963157,
     "CbGeAlD": 0.06349125866802949,
     "CbGpPWpGaD": 0.012612250814163235,
     "CrCbGaD": 0.00559858592149165
   },
+  "n_trials": 0.0,
   "prediction": 0.00263327578462188,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

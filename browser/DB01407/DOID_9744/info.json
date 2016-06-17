@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01407",
   "compound_name": "Clenbuterol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGaD": 0.7667625367787557,
     "CbGeAlD": 0.09032850557669056,
     "CbGpPWpGaD": 0.1382145374502687,
     "CrCbGaD": 0.004694420194285065
   },
+  "n_trials": 0.0,
   "prediction": 0.00310145339328737,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

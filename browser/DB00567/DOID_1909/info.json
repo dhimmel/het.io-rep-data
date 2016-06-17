@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.540312093628088,
   "metapath_contribution": {
     "CbGaD": 0.590963737497273,
     "CbGbCtD": 0.3062325386707383,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07460874807313028,
     "CrCbGaD": 0.005753111811844759
   },
+  "n_trials": 0.0,
   "prediction": 0.00152891333013913,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

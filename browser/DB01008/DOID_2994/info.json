@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGbCtD": 0.2570720846888607,
     "CbGdCrCtD": 0.0015802764482547758,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07469803890939368,
     "CiPCiCtD": 0.635599041059424
   },
+  "n_trials": 1.0,
   "prediction": 0.0158030651090748,
   "status": 0,
   "training_prediction": 0.0285331524829831

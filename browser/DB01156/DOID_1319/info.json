@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01156",
   "compound_name": "Bupropion",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.5032743254673162,
     "CbGbCtD": 0.30010476478759796,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.032974996145887475,
     "CcSEcCtD": 0.14366785931769913
   },
+  "n_trials": 0.0,
   "prediction": 0.0043871278639884895,
   "status": 0,
   "training_prediction": 0.00799586993930752

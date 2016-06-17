@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01320",
   "compound_name": "Fosphenytoin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.471391417425228,
   "metapath_contribution": {
     "CbGaD": 0.08993820975950599,
     "CbGbCtD": 0.4666423924515405,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0028926101666258094,
     "CrCrCtD": 0.15620736924045486
   },
+  "n_trials": 0.0,
   "prediction": 0.0036146001677377,
   "status": 0,
   "training_prediction": 0.0415891407378598

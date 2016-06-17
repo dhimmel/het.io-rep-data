@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.540962288686606,
   "metapath_contribution": {
     "CbGaD": 0.7452304988776802,
     "CbGdCrCtD": 0.0027809613969939054,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12191342978259577,
     "CrCbGaD": 0.007366407388744076
   },
+  "n_trials": 0.0,
   "prediction": 0.00266050754876711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

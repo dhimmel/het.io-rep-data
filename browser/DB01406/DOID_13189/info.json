@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGbCtD": 0.10960636847175725,
     "CbGdCrCtD": 0.0024976952877488754,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.3048444889927864,
     "CrCtD": 0.5039323937359618
   },
+  "n_trials": 0.0,
   "prediction": 0.0059947201647615,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

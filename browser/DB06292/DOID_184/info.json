@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06292",
   "compound_name": "Dapagliflozin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.918075422626788,
   "metapath_contribution": {
     "CbGaD": 0.46601166703003233,
     "CbGbCtD": 0.270224613242684,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.14477842728770596,
     "CrCbGaD": 0.004229380810920592
   },
+  "n_trials": 0.0,
   "prediction": 0.00339926975335189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

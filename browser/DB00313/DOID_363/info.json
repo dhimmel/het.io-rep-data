@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGbCtD": 0.5542688268894325,
     "CbGdCrCtD": 0.0026699008601752715,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10732237087318064,
     "CcSEcCtD": 0.22914100015040903
   },
+  "n_trials": 0.0,
   "prediction": 0.00280714638936604,
   "status": 0,
   "training_prediction": 0.00851536074115295

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08811",
   "compound_name": "Tofisopam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.542912873862159,
   "metapath_contribution": {
     "CbGaD": 0.5989315450104818,
     "CbGbCtD": 0.22739334560134847,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1485892544820325,
     "CrCbGaD": 0.005061991540494124
   },
+  "n_trials": 0.0,
   "prediction": 0.00260270978882362,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

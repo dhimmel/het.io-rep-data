@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.6326397919375811,
   "metapath_contribution": {
     "CbGaD": 0.7355112278197754,
     "CbGbCtD": 0.12078749291072167,
     "CcSEcCtD": 0.13911304126588686,
     "CrCbGaD": 0.004588238003616078
   },
+  "n_trials": 0.0,
   "prediction": 0.00189582614648485,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

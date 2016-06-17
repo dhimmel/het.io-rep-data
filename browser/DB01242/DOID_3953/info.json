@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.235370611183355,
   "metapath_contribution": {
     "CbGaD": 0.8372844374425912,
     "CbGeAlD": 0.10995040317649042,
     "CbGpPWpGaD": 0.0488241594786948,
     "CrCbGaD": 0.003940999902223592
   },
+  "n_trials": 0.0,
   "prediction": 0.0009153801940499331,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

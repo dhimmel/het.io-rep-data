@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.13655627716224245,
     "CbGbCtD": 0.15157132299418585,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.20613477022689988,
     "CrCtD": 0.23416203646087289
   },
+  "n_trials": 0.0,
   "prediction": 0.0207218240844641,
   "status": 0,
   "training_prediction": 0.0515582282980581

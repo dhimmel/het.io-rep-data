@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGaD": 0.6465984953607384,
     "CbGeAlD": 0.16030852421748257,
     "CbGpPWpGaD": 0.19309298042177897
   },
+  "n_trials": 1.0,
   "prediction": 0.0021901480994718898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

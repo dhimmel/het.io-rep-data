@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.131989596879064,
   "metapath_contribution": {
     "CbGaD": 0.24847838974054715,
     "CbGbCtD": 0.2889143549083298,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.25460769710697384,
     "CrCbGaD": 0.0054264834667719425
   },
+  "n_trials": 1.0,
   "prediction": 0.0008890135847554971,
   "status": 0,
   "training_prediction": 0.00179872664708326

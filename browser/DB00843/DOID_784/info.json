@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.5994798439531861,
   "metapath_contribution": {
     "CbGaD": 0.6919765863380487,
     "CbGeAlD": 0.11409242496518607,
     "CbGpPWpGaD": 0.18657172890776397,
     "CrCbGaD": 0.007359259789001235
   },
+  "n_trials": 1.0,
   "prediction": 0.0018038497179742898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

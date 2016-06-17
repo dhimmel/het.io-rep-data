@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
-    "CbGaD": 0.20367085620861072,
-    "CbGeAlD": 0.04559498244128146,
-    "CbGpPWpGaD": 0.09506464426471181,
-    "CrCbGaD": 0.0036678721323144914,
-    "CtDrD": 0.6520016449530815
+    "CbGaD": 0.20367085620861067,
+    "CbGeAlD": 0.045594982441281455,
+    "CbGpPWpGaD": 0.0950646442647118,
+    "CrCbGaD": 0.003667872132314491,
+    "CtDrD": 0.6520016449530814
   },
+  "n_trials": 0.0,
   "prediction": 0.00265113277836073,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

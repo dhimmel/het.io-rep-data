@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00778",
   "compound_name": "Roxithromycin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.639791937581274,
   "metapath_contribution": {
     "CbGaD": 0.6267889281733302,
     "CbGbCtD": 0.3219974373496805,
     "CcSEcCtD": 0.04769295338905705,
     "CrCbGaD": 0.0035206810879322204
   },
+  "n_trials": 0.0,
   "prediction": 0.00194717983398574,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

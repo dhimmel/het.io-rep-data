@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGaD": 0.4246794808290964,
     "CbGbCtD": 0.3888467467402364,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.17938507237916348,
     "CrCbGaD": 0.006547920731427489
   },
+  "n_trials": 0.0,
   "prediction": 0.0034210086680077803,
   "status": 0,
   "training_prediction": 0.0183425230031134

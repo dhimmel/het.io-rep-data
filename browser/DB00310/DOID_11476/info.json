@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00310",
   "compound_name": "Chlorthalidone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.48133736190707244,
     "CbGbCtD": 0.3398191209985661,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11013304110968708,
     "CrCbGaD": 0.0033946448651240957
   },
+  "n_trials": 0.0,
   "prediction": 0.00379213679873825,
   "status": 0,
   "training_prediction": 0.0122619348522502

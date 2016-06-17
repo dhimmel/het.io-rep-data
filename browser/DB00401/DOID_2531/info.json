@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.20026007802340698,
   "metapath_contribution": {
     "CbGaD": 0.09069369948262071,
     "CbGbCtD": 0.5710412945887466,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.24854136777265753,
     "CrCbGaD": 0.0006243471896235009
   },
+  "n_trials": 0.0,
   "prediction": 0.00126620712035646,
   "status": 0,
   "training_prediction": 0.0114107781674272

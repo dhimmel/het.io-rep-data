@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7542262678803641,
   "metapath_contribution": {
     "CbGbCtD": 0.20339395016208275,
     "CbGpPWpGaD": 0.044664021036491884,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.6071694940018529,
     "CrCbGaD": 0.00510747961133115
   },
+  "n_trials": 0.0,
   "prediction": 0.00344512014616098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.912873862158648,
   "metapath_contribution": {
     "CbGaD": 0.23246516887357183,
     "CbGbCtD": 0.49512984165307716,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.11072816849714016,
     "CcSEcCtD": 0.15983356708368973
   },
+  "n_trials": 0.0,
   "prediction": 0.004235825061617421,
   "status": 0,
   "training_prediction": 0.0380728669479786

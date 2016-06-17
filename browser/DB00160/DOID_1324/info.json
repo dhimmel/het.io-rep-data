@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.23927178153446,
   "metapath_contribution": {
     "CbGdCrCtD": 0.026075498644339157,
     "CbGeAlD": 0.4411179109925122,
     "CbGpPWpGaD": 0.527565248643816,
     "CrCbGaD": 0.005241341719332697
   },
+  "n_trials": 0.0,
   "prediction": 0.0011216643858877801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

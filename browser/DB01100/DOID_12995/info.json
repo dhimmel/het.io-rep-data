@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.8576144639474728,
     "CbGeAlD": 0.016410177404569338,
     "CbGpPWpGaD": 0.11472055852383636,
     "CrCbGaD": 0.011254800124121509
   },
+  "n_trials": 0.0,
   "prediction": 0.00214356849933292,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

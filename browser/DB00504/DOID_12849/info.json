@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00504",
   "compound_name": "Levallorphan",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.9611108378380959,
     "CbGeAlD": 0.030236174051530024,
     "CbGpPWpGaD": 1.2677330502597132e-05,
     "CrCbGaD": 0.00864031077987143
   },
+  "n_trials": 0.0,
   "prediction": 0.00240539096446227,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

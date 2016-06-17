@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.545513654096229,
   "metapath_contribution": {
     "CbGaD": 0.8109461849907865,
     "CbGeAlD": 0.03810689502145563,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09214448847021513,
     "CrCbGaD": 0.009161754617232969
   },
+  "n_trials": 0.0,
   "prediction": 0.00149853436806015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

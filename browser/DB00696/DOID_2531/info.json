@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.605981794538362,
   "metapath_contribution": {
     "CbGaD": 0.05473452625801792,
     "CbGbCtD": 0.3377904676076703,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.41283469816870755,
     "CrCbGaD": 0.00011950818819599489
   },
+  "n_trials": 0.0,
   "prediction": 0.00278170991660372,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

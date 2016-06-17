@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.279411764705882,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.113133940182055,
   "metapath_contribution": {
     "CbGaD": 0.13262320668761166,
     "CbGbCtD": 0.6412839831204755,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15707218849132126,
     "CrCbGaD": 0.0016098640404797722
   },
+  "n_trials": 0.0,
   "prediction": 0.000928872486575694,
   "status": 0,
   "training_prediction": 0.020219743143018002

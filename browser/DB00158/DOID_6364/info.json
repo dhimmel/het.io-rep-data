@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7405721716514949,
   "metapath_contribution": {
     "CbGaD": 0.5252703526132985,
     "CbGbCtD": 0.3311066810694957,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06774960623235214,
     "CrCbGaD": 0.002535337021083782
   },
+  "n_trials": 0.0,
   "prediction": 0.00381989028013486,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00482",
   "compound_name": "Celecoxib",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.7301690507152149,
   "metapath_contribution": {
     "CbGaD": 0.5754261929508963,
     "CbGbCtD": 0.14062380241987196,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15144761338153676,
     "CrCbGaD": 0.003445099678493786
   },
+  "n_trials": 0.0,
   "prediction": 0.00212861543547573,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

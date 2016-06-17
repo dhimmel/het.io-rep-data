@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.15344603381014302,
   "metapath_contribution": {
     "CbGbCtD": 0.5174577269157414,
     "CbGpPWpGaD": 0.15626328150530566,
     "CcSEcCtD": 0.3230123197081701,
     "CrCbGaD": 0.003266671870782741
   },
+  "n_trials": 0.0,
   "prediction": 0.000999826051045086,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

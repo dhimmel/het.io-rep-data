@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.6904084678613918,
     "CbGbCtD": 0.006712026535755331,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06657231744768802,
     "CrCbGaD": 0.006222269003022098
   },
+  "n_trials": 3.0,
   "prediction": 0.00481331432276597,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

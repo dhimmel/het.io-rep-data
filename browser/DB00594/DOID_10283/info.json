@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00594",
   "compound_name": "Amiloride",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.758777633289987,
   "metapath_contribution": {
     "CbGaD": 0.577714099080413,
     "CbGbCtD": 0.03568323899271638,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1365093852046514,
     "CcSEcCtD": 0.15503506945915144
   },
+  "n_trials": 0.0,
   "prediction": 0.00418943520618796,
   "status": 0,
   "training_prediction": 0.0175978391975466

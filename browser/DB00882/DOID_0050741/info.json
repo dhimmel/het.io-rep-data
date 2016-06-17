@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGaD": 0.36535022363829783,
     "CbGbCtD": 0.3548656276201213,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1236764773506996,
     "CrCbGaD": 0.0018184637598958554
   },
+  "n_trials": 0.0,
   "prediction": 0.0040886818282817,
   "status": 0,
   "training_prediction": 0.004960059002339721

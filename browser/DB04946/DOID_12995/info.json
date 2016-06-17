@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:12995",
   "disease_name": "conduct disorder",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.8822600821405461,
     "CbGeAlD": 0.010142752684444947,
     "CbGpPWpGaD": 0.09968705130809839,
     "CrCbGaD": 0.00791011386691056
   },
+  "n_trials": 0.0,
   "prediction": 0.00351055755927393,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

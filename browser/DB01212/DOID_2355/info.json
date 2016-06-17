@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.28868660598179496,
   "metapath_contribution": {
     "CbGaD": 0.6575633148523974,
     "CbGeAlD": 0.14682057528189615,
     "CbGpPWpGaD": 0.19222057576413856,
     "CrCbGaD": 0.0033955341015679285
   },
+  "n_trials": 0.0,
   "prediction": 0.0009187015690997801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

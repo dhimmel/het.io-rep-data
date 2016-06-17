@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00673",
   "compound_name": "Aprepitant",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.653446033810143,
   "metapath_contribution": {
     "CbGbCtD": 0.5063027264163809,
     "CbGeAlD": 0.07420829681907243,
     "CbGpPWpGaD": 0.1664741132761474,
     "CcSEcCtD": 0.2530148634883993
   },
+  "n_trials": 3.0,
   "prediction": 0.00273031221576979,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00946",
   "compound_name": "Phenprocoumon",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.378413524057217,
   "metapath_contribution": {
     "CbGaD": 0.18259623700205227,
     "CbGbCtD": 0.6920446725868246,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10624389553977477,
     "CrCbGaD": 0.005364610751429059
   },
+  "n_trials": 0.0,
   "prediction": 0.0018637262082171102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

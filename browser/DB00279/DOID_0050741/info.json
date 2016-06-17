@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00279",
   "compound_name": "Liothyronine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.30689206762028604,
   "metapath_contribution": {
     "CbGbCtD": 0.2991208983984421,
     "CbGeAlD": 0.3892341292123736,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1636438532957724,
     "CrCbGaD": 0.006375815541508905
   },
+  "n_trials": 0.0,
   "prediction": 0.00157551350901325,
   "status": 0,
   "training_prediction": 0.0019123143584374

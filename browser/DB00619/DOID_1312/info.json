@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.633289986996099,
   "metapath_contribution": {
     "CbGaD": 0.2773084121342543,
     "CbGbCtD": 0.4090526460446421,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08777622127787713,
     "CcSEcCtD": 0.14742899988359154
   },
+  "n_trials": 0.0,
   "prediction": 0.00172078023897844,
   "status": 0,
   "training_prediction": 0.000775883782054552

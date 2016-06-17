@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGbCtD": 0.18416636455235932,
     "CbGdCrCtD": 0.002195620740324561,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.301368011120247,
     "CrCtD": 0.45689408106880597
   },
+  "n_trials": 0.0,
   "prediction": 0.00963512958226366,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

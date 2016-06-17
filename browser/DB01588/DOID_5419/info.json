@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01588",
   "compound_name": "Prazepam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.64889466840052,
   "metapath_contribution": {
     "CbGaD": 0.669567124536299,
     "CbGeAlD": 0.08891634593103742,
     "CbGpPWpGaD": 0.2311417307080448,
     "CrCbGaD": 0.01037479882461884
   },
+  "n_trials": 0.0,
   "prediction": 0.0019217214697186602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

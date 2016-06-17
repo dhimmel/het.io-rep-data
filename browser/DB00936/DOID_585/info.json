@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.451885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.434726521817928,
     "CbGeAlD": 0.12079548847113514,
     "CbGpPWpGaD": 0.3661590634713166,
     "CcSEcCtD": 0.07831892623962045
   },
+  "n_trials": 0.0,
   "prediction": 0.00145290500814641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.3455981326449375,
     "CbGbCtD": 0.46646658456536405,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.05338203062558434,
     "CrCbGaD": 0.0035575357624548017
   },
+  "n_trials": 0.0,
   "prediction": 0.00245333875261459,
   "status": 0,
   "training_prediction": 0.00242017749778575

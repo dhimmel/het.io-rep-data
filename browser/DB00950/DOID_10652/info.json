@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00950",
   "compound_name": "Fexofenadine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.291937581274382,
   "metapath_contribution": {
     "CbGaD": 0.41705881930657474,
     "CbGbCtD": 0.3190029072980029,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20904607838837067,
     "CrCbGaD": 0.005083486658734635
   },
+  "n_trials": 0.0,
   "prediction": 0.00127228071718985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08827",
   "compound_name": "Lomitapide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.21775419474279953,
     "CbGbCtD": 0.487597685335099,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18271801183192665,
     "CrCbGaD": 0.0010695395706222352
   },
+  "n_trials": 0.0,
   "prediction": 0.00225438259618434,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

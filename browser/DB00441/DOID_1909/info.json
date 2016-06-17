@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.7184655396618991,
   "metapath_contribution": {
     "CbGaD": 0.07031925631004146,
     "CbGbCtD": 0.08541163041806768,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10031365713467529,
     "CtDrD": 0.616413098373872
   },
+  "n_trials": 1.0,
   "prediction": 0.00201473294804418,
   "status": 0,
   "training_prediction": 0.0144305645978957

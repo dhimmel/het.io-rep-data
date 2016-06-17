@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00974",
   "compound_name": "Edetic Acid",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.835500650195058,
   "metapath_contribution": {
     "CbGbCtD": 0.2479074030564632,
     "CbGeAlD": 0.32302166357354634,
     "CbGpPWpGaD": 0.10039843199557037,
     "CcSEcCtD": 0.32867250137442
   },
+  "n_trials": 0.0,
   "prediction": 0.00245965809860468,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

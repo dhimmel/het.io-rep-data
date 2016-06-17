@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.3623195771366947,
     "CbGbCtD": 0.4189427345938468,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0918260597113198,
     "CcSEcCtD": 0.12445040870094311
   },
+  "n_trials": 2.0,
   "prediction": 0.00545863082135319,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01219",
   "compound_name": "Dantrolene",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.546163849154746,
   "metapath_contribution": {
     "CbGbCtD": 0.26907162025834813,
     "CbGeAlD": 0.11850114289585727,
     "CcSEcCtD": 0.5930856958216211,
     "CrCbGaD": 0.019341541024173466
   },
+  "n_trials": 0.0,
   "prediction": 0.00159292107734859,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

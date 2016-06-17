@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8179453836150848,
   "metapath_contribution": {
     "CbGaD": 0.4581050443631307,
     "CbGbCtD": 0.3986022650548841,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08221234037703,
     "CrCbGaD": 0.0020519662984127044
   },
+  "n_trials": 0.0,
   "prediction": 0.004066313873183971,
   "status": 0,
   "training_prediction": 0.008933281293686209

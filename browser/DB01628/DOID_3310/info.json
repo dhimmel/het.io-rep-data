@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.5091027308192461,
   "metapath_contribution": {
     "CbGbCtD": 0.6407769239860656,
     "CbGdCrCtD": 0.005811762554625891,
     "CbGpPWpGaD": 0.09160095810721515,
     "CcSEcCtD": 0.26181035535209346
   },
+  "n_trials": 0.0,
   "prediction": 0.00213332870505104,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

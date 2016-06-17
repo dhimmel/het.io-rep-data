@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.971391417425228,
   "metapath_contribution": {
     "CbGaD": 0.3835022343196216,
     "CbGbCtD": 0.42021595916089743,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.07095215648268235,
     "CbGpPWpGaD": 0.12225283218513422
   },
+  "n_trials": 1.0,
   "prediction": 0.00908599018851984,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

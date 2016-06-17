@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.682704811443433,
   "metapath_contribution": {
     "CbGaD": 0.48057699048855756,
     "CbGbCtD": 0.2866062077069839,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09641746388737381,
     "CrCbGaD": 0.0026867722984693166
   },
+  "n_trials": 1.0,
   "prediction": 0.00246493747375175,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

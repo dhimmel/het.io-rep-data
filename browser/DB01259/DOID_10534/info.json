@@ -1,17 +1,20 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
-    "CbGaD": 0.47227258066588884,
-    "CbGbCtD": 0.24466749457556056,
-    "CbGdCrCtD": 0.0031309416504250055,
-    "CbGeAlD": 0.04662166151031713,
-    "CbGpPWpGaD": 0.12054115805120669,
-    "CcSEcCtD": 0.11016654164597202,
-    "CrCbGaD": 0.002599621900629935
+    "CbGaD": 0.47227258066588873,
+    "CbGbCtD": 0.24466749457556053,
+    "CbGdCrCtD": 0.003130941650425005,
+    "CbGeAlD": 0.046621661510317124,
+    "CbGpPWpGaD": 0.12054115805120667,
+    "CcSEcCtD": 0.11016654164597199,
+    "CrCbGaD": 0.0025996219006299347
   },
+  "n_trials": 7.0,
   "prediction": 0.00377876622943224,
   "status": 0,
   "training_prediction": 0.00830443790408851

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00490",
   "compound_name": "Buspirone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGaD": 0.34770827797552456,
     "CbGbCtD": 0.4088689536483712,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07224598727300145,
     "CcSEcCtD": 0.14980924138487056
   },
+  "n_trials": 0.0,
   "prediction": 0.0133339393378296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

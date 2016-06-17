@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.825097529258778,
   "metapath_contribution": {
     "CbGaD": 0.7552594326852482,
     "CbGeAlD": 0.06628910315406504,
     "CbGpPWpGaD": 0.173146359813823,
     "CrCbGaD": 0.005305104346863796
   },
+  "n_trials": 0.0,
   "prediction": 0.0022105176906926398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

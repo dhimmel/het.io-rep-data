@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.19505851755526699,
   "metapath_contribution": {
     "CbGbCtD": 0.6062459620389015,
     "CbGeAlD": 0.11508067611039328,
     "CcSEcCtD": 0.2748513063411033,
     "CrCbGaD": 0.003822055509601932
   },
+  "n_trials": 0.0,
   "prediction": 0.000998342255173134,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

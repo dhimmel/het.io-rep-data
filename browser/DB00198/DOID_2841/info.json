@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00198",
   "compound_name": "Oseltamivir",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.764629388816645,
   "metapath_contribution": {
     "CbGbCtD": 0.5652807135904274,
     "CbGeAlD": 0.04611722345046182,
     "CbGpPWpGaD": 0.0346333141341508,
     "CcSEcCtD": 0.3539687488249599
   },
+  "n_trials": 0.0,
   "prediction": 0.00435831916962224,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

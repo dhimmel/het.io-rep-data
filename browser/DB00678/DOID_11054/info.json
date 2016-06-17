@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.46178878925601063,
     "CbGbCtD": 0.28226012060606076,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09814718215292781,
     "CrCbGaD": 0.0006407976517157445
   },
+  "n_trials": 0.0,
   "prediction": 0.00306636468820671,
   "status": 0,
   "training_prediction": 0.0176424784049412

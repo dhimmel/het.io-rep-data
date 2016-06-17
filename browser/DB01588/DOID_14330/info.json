@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01588",
   "compound_name": "Prazepam",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.36150845253576097,
   "metapath_contribution": {
-    "CbGeAlD": 0.4671581199509933,
+    "CbGeAlD": 0.46715811995099327,
     "CbGpPWpGaD": 0.5066095261235517,
-    "CrCbGaD": 0.02623235392545501
+    "CrCbGaD": 0.026232353925455008
   },
+  "n_trials": 0.0,
   "prediction": 0.00114345187075745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

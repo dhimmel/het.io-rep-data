@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01466",
   "compound_name": "Ethylmorphine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.626788036410923,
   "metapath_contribution": {
     "CbGaD": 0.34478006456679267,
     "CbGbCtD": 0.5996941713574276,
     "CbGpPWpGaD": 0.051507867339735544,
     "CrCbGaD": 0.0040178967360441735
   },
+  "n_trials": 0.0,
   "prediction": 0.00308942898403164,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

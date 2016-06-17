@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.44473342002600796,
   "metapath_contribution": {
     "CbGaD": 0.5409939263146919,
     "CbGbCtD": 0.1067077948175167,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11562608681653913,
     "CcSEcCtD": 0.1367459181176814
   },
+  "n_trials": 0.0,
   "prediction": 0.00141261681748653,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

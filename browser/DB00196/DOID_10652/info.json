@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00196",
   "compound_name": "Fluconazole",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.451885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.5727887532627782,
     "CbGpPWpGaD": 0.07105326211732932,
     "CcSEcCtD": 0.3507570474860894,
     "CrCbGaD": 0.0054009371338031
   },
+  "n_trials": 1.0,
   "prediction": 0.0017002654865921599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

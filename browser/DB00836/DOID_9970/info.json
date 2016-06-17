@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.761378413524057,
   "metapath_contribution": {
     "CbGaD": 0.2860491439465632,
     "CbGbCtD": 0.20530009462962254,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001404276140500784,
     "CrCrCtD": 0.29662319676047416
   },
+  "n_trials": 0.0,
   "prediction": 0.004580619525490171,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

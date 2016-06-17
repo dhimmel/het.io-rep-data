@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.2509421231649543,
     "CbGbCtD": 0.33228114485199445,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1210116774277281,
     "CcSEcCtD": 0.2565097985733718
   },
+  "n_trials": 0.0,
   "prediction": 0.00295372371617384,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

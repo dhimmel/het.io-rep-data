@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00549",
   "compound_name": "Zafirlukast",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.715864759427828,
   "metapath_contribution": {
     "CbGaD": 0.2918186603196643,
     "CbGbCtD": 0.47035822573109637,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11497603920975502,
     "CrCbGaD": 0.0005762929389936172
   },
+  "n_trials": 0.0,
   "prediction": 0.0036869651459739295,
   "status": 0,
   "training_prediction": 0.0155122510015522

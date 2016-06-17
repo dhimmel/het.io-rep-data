@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00614",
   "compound_name": "Furazolidone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGaD": 0.8339988791557217,
     "CbGeAlD": 0.04037751626592488,
     "CbGpPWpGaD": 0.12373731177340014,
     "CrCbGaD": 0.0018862928049532962
   },
+  "n_trials": 0.0,
   "prediction": 0.00350254597470814,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

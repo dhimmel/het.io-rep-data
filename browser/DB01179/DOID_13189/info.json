@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGbCtD": 0.8733117603926082,
     "CbGdCrCtD": 0.0020160272665191684,
     "CcSEcCtD": 0.11747631935263622,
     "CrCbGaD": 0.007195892988236497
   },
+  "n_trials": 0.0,
   "prediction": 0.00216559889255305,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

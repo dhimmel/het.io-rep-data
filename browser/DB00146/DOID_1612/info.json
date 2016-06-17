@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00146",
   "compound_name": "Calcidiol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.7394502660704583,
     "CbGeAlD": 0.04793742224890023,
     "CbGpPWpGaD": 0.20405104726612783,
     "CrCbGaD": 0.008561264414513698
   },
+  "n_trials": 0.0,
   "prediction": 0.00165329377576254,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

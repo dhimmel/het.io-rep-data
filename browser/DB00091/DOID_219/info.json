@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.151802112014504,
     "CbGbCtD": 0.5727949511042755,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0711981529716682,
     "CcSEcCtD": 0.11618241404595077
   },
+  "n_trials": 0.0,
   "prediction": 0.00425915595121017,
   "status": 0,
   "training_prediction": 0.0171028041710417

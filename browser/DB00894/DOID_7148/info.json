@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00894",
   "compound_name": "Testolactone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGbCtD": 0.1077614158201835,
     "CcSEcCtD": 0.021846523016127526,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.3513065939540507,
     "CrCtD": 0.5172126747879248
   },
+  "n_trials": 0.0,
   "prediction": 0.00623338571157922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

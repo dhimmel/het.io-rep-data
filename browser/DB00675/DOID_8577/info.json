@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.5988296488946679,
   "metapath_contribution": {
     "CbGaD": 0.12302088071090114,
     "CbGbCtD": 0.5991269469629338,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15509754418945115,
     "CrCbGaD": 0.003078210402056053
   },
+  "n_trials": 0.0,
   "prediction": 0.00238286599107073,
   "status": 0,
   "training_prediction": 0.013490750663878

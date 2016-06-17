@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00995",
   "compound_name": "Auranofin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGaD": 0.2094467951723447,
     "CbGbCtD": 0.4362202110989851,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12618143805502458,
     "CcSEcCtD": 0.1842265392496765
   },
+  "n_trials": 0.0,
   "prediction": 0.00665425816224742,
   "status": 0,
   "training_prediction": 0.0520726503677375

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01060",
   "compound_name": "Amoxicillin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.15734720416124803,
   "metapath_contribution": {
     "CbGbCtD": 0.47250997486069324,
     "CbGeAlD": 0.08016776006653717,
     "CbGpPWpGaD": 0.09420606178164695,
     "CcSEcCtD": 0.35311620329112264
   },
+  "n_trials": 0.0,
   "prediction": 0.00104466640994899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

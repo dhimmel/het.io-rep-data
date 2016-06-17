@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.758777633289987,
   "metapath_contribution": {
     "CbGaD": 0.6826693460576091,
     "CbGeAlD": 0.13127477343562782,
     "CbGpPWpGaD": 0.18292290284569426,
     "CrCbGaD": 0.003132977661068672
   },
+  "n_trials": 0.0,
   "prediction": 0.0018344086978886102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

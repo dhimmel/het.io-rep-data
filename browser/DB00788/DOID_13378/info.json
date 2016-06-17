@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGbCtD": 0.16835131063084685,
     "CbGeAlD": 0.0019025602637620428,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.5044977777933349,
     "CpDpCtD": 0.3035324622868262
   },
+  "n_trials": 0.0,
   "prediction": 0.0215841420371126,
   "status": 0,
   "training_prediction": 0.009839595615281341

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.798439531859558,
   "metapath_contribution": {
     "CbGbCtD": 0.2183784340572267,
     "CbGpPWpGaD": 0.04081581949030685,
     "CcSEcCtD": 0.12270626989361184,
     "CpDpCtD": 0.6180994765588546
   },
+  "n_trials": 0.0,
   "prediction": 0.0029513310666439,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

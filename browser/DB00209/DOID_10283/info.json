@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00209",
   "compound_name": "Trospium",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.15279583875162603,
   "metapath_contribution": {
     "CbGbCtD": 0.19615781860081327,
     "CbGeAlD": 0.07164053604739849,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5859043299856025,
     "CrCbGaD": 0.0032034218323205668
   },
+  "n_trials": 0.0,
   "prediction": 0.00106990157506781,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

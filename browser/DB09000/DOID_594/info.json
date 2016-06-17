@@ -1,15 +1,17 @@
 {
   "compound_id": "DB09000",
   "compound_name": "Cyamemazine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGaD": 0.827928135615832,
     "CbGeAlD": 0.054295890255335724,
     "CbGpPWpGaD": 0.10810654691527746,
     "CrCbGaD": 0.009669427213554748
   },
+  "n_trials": 0.0,
   "prediction": 0.0021635051892236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

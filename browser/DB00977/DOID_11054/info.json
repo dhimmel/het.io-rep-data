@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGaD": 0.272472829654863,
     "CbGbCtD": 0.19907700339325626,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0026515824357171763,
     "CtDrD": 0.4322617082644463
   },
+  "n_trials": 0.0,
   "prediction": 0.0036632052231879296,
   "status": 0,
   "training_prediction": 0.0155096028076122

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.405721716514954,
   "metapath_contribution": {
     "CbGaD": 0.6902371881789109,
     "CbGbCtD": 0.2359136908285017,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04766427662125318,
     "CrCbGaD": 0.0058044368061626215
   },
+  "n_trials": 0.0,
   "prediction": 0.00126940283844401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

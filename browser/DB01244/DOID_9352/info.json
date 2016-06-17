@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.2906903127768916,
     "CbGbCtD": 0.08274529411370432,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.10964918271270754,
     "CtDrD": 0.3508360406512086
   },
+  "n_trials": 0.0,
   "prediction": 0.0124675532307652,
   "status": 0,
   "training_prediction": 0.0528790367092508

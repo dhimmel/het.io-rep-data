@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.711963589076723,
   "metapath_contribution": {
     "CbGaD": 0.17602290684699384,
     "CbGbCtD": 0.3506475048641809,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.003026297987861878,
     "CrCrCtD": 0.24898123131979624
   },
+  "n_trials": 0.0,
   "prediction": 0.00359446929932079,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00185",
   "compound_name": "Cevimeline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGaD": 0.19281411915606905,
     "CbGbCtD": 0.3781646867576266,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12038469450027835,
     "CcSEcCtD": 0.2672845562659564
   },
+  "n_trials": 0.0,
   "prediction": 0.005371674528980411,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

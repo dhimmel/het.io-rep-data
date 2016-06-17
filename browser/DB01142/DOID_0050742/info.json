@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.6230985656274561,
     "CbGeAlD": 0.04878718468357244,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1982572286273493,
     "CrCbGaD": 0.004546476900317265
   },
+  "n_trials": 0.0,
   "prediction": 0.00227627586688481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.235370611183355,
   "metapath_contribution": {
     "CbGaD": 0.707059598762513,
     "CbGeAlD": 0.07361233757916888,
     "CbGpPWpGaD": 0.20868771223832913,
     "CrCbGaD": 0.010640351419988975
   },
+  "n_trials": 0.0,
   "prediction": 0.0010767143998769901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

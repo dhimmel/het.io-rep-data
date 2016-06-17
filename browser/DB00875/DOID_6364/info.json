@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00875",
   "compound_name": "Flupentixol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7711313394018209,
   "metapath_contribution": {
     "CbGaD": 0.3186775919167495,
     "CbGbCtD": 0.2957885549212921,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004503145781133395,
     "CrCrCtD": 0.25637084560619283
   },
+  "n_trials": 0.0,
   "prediction": 0.004190128988258979,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

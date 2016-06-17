@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00143",
   "compound_name": "Glutathione",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
     "CbGaD": 0.529969556250429,
     "CbGbCtD": 0.14600247386474435,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.19668717485539008,
     "CrCbGaD": 0.0026705097531375672
   },
+  "n_trials": 0.0,
   "prediction": 0.00344024947929357,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

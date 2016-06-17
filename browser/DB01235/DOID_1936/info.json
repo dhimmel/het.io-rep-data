@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.0955786736020806,
   "metapath_contribution": {
     "CbGbCtD": 0.23872624305714502,
     "CbGpPWpGaD": 0.27813994284703875,
     "CcSEcCtD": 0.46483055078751145,
     "CrCbGaD": 0.018303263308304698
   },
+  "n_trials": 0.0,
   "prediction": 0.000887498692948745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6931079323797139,
   "metapath_contribution": {
-    "CbGaD": 0.23693985303923779,
-    "CbGbCtD": 0.4044181443564507,
-    "CbGeAlD": 0.0036020725187421382,
-    "CbGpPWpGaD": 0.08842856881983818,
-    "CcSEcCtD": 0.2619031120273704,
-    "CrCbGaD": 0.004708249238360644
+    "CbGaD": 0.23693985303923787,
+    "CbGbCtD": 0.4044181443564508,
+    "CbGeAlD": 0.003602072518742139,
+    "CbGpPWpGaD": 0.08842856881983821,
+    "CcSEcCtD": 0.2619031120273705,
+    "CrCbGaD": 0.004708249238360645
   },
+  "n_trials": 3.0,
   "prediction": 0.0024806527914846602,
   "status": 0,
   "training_prediction": 0.00301036377137805

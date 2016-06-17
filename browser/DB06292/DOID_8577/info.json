@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06292",
   "compound_name": "Dapagliflozin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.23615078561398997,
     "CbGbCtD": 0.5508438980448008,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10222783707228189,
     "CrCbGaD": 0.00407590189345381
   },
+  "n_trials": 0.0,
   "prediction": 0.00416526336159366,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

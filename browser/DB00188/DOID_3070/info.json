@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.37779286670722667,
     "CbGbCtD": 0.12818997300506052,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18380122075183705,
     "CrCbGaD": 0.0011496662354060622
   },
+  "n_trials": 0.0,
   "prediction": 0.00301810528403558,
   "status": 0,
   "training_prediction": 0.00222679160344625

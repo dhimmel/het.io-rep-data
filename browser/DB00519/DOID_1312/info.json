@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00519",
   "compound_name": "Trandolapril",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.37350529585017334,
     "CbGeAlD": 0.03338240335370354,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0038761535189405735,
     "CtDrD": 0.5593785641941303
   },
+  "n_trials": 0.0,
   "prediction": 0.0060466268082081795,
   "status": 0,
   "training_prediction": 0.00455301561601895

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.24642392717815303,
   "metapath_contribution": {
     "CbGbCtD": 0.17791640122533153,
     "CbGeAlD": 0.00376383717530384,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.006765097660087189,
     "CrCrCtD": 0.3896176819879383
   },
+  "n_trials": 0.0,
   "prediction": 0.0014262789230386,
   "status": 0,
   "training_prediction": 0.00786654985361006

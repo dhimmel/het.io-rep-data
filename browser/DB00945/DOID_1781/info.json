@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGaD": 0.65849232505404,
     "CbGbCtD": 0.10676768848728989,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.0352049354743284,
     "CrCbGaD": 0.002662877468700824
   },
+  "n_trials": 0.0,
   "prediction": 0.00250269152721701,
   "status": 0,
   "training_prediction": 0.00505529984510529

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00563",
   "compound_name": "Methotrexate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.19422039923973403,
     "CbGbCtD": 0.25374759617142867,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.002489023740026846,
     "CtDrD": 0.42176967920643005
   },
+  "n_trials": 11.0,
   "prediction": 0.0143449321875545,
   "status": 0,
   "training_prediction": 0.17393022169914

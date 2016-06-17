@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.390767230169051,
   "metapath_contribution": {
     "CbGaD": 0.3109081960165572,
     "CbGbCtD": 0.5007374302934378,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11067607111211301,
     "CrCbGaD": 0.005253470567143296
   },
+  "n_trials": 3.0,
   "prediction": 0.00207517863362462,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

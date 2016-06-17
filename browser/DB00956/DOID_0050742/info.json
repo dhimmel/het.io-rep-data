@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.933029908972692,
   "metapath_contribution": {
     "CbGaD": 0.8833443517802482,
     "CbGpPWpGaD": 0.019965840632416635,
     "CcSEcCtD": 0.08395114523322349,
     "CrCbGaD": 0.012738662354111772
   },
+  "n_trials": 0.0,
   "prediction": 0.00291250427751461,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

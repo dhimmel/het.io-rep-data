@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06770",
   "compound_name": "Benzyl alcohol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.07618567057682828,
     "CbGbCtD": 0.16389915952294545,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.30332444231101413,
     "CrCtD": 0.4171205581045194
   },
+  "n_trials": 0.0,
   "prediction": 0.0272085626241902,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00223",
   "compound_name": "Diflorasone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0435630689206762,
   "metapath_contribution": {
     "CbGaD": 0.896754455118645,
     "CbGpPWpGaD": 0.0010936856424090876,
     "CcSEcCtD": 0.09148955368996069,
     "CrCbGaD": 0.010662305548985078
   },
+  "n_trials": 0.0,
   "prediction": 0.000908515921456664,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

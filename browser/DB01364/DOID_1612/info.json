@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.442782834850455,
   "metapath_contribution": {
     "CbGaD": 0.6484038941974505,
     "CbGbCtD": 0.11105925133567542,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1457685314505296,
     "CrCbGaD": 0.0045578675053710585
   },
+  "n_trials": 0.0,
   "prediction": 0.00212568368588031,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

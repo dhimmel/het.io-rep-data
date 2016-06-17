@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.579973992197659,
   "metapath_contribution": {
     "CbGaD": 0.6948473737102449,
     "CbGeAlD": 0.07598255005755912,
     "CbGpPWpGaD": 0.21818904337186995,
     "CrCbGaD": 0.01098103286032612
   },
+  "n_trials": 0.0,
   "prediction": 0.00154729470168086,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

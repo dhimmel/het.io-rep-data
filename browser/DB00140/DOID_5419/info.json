@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.946033810143043,
   "metapath_contribution": {
     "CbGaD": 0.7912354514667196,
     "CbGeAlD": 0.07977372461735317,
     "CbGpPWpGaD": 0.12008496402272885,
     "CrCbGaD": 0.008905859893198354
   },
+  "n_trials": 0.0,
   "prediction": 0.00357577281603137,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

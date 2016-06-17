@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.21456436931079298,
   "metapath_contribution": {
     "CbGaD": 0.0745364655259074,
     "CbGbCtD": 0.6610261300363357,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1433617705313256,
     "CrCbGaD": 0.002480324921802929
   },
+  "n_trials": 9.0,
   "prediction": 0.00125858363703606,
   "status": 0,
   "training_prediction": 0.0150879837529791

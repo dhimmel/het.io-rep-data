@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01054",
   "compound_name": "Nitrendipine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.254226267880364,
   "metapath_contribution": {
     "CbGbCtD": 0.847399908373839,
     "CbGeAlD": 0.03194837498908733,
     "CbGpPWpGaD": 0.1206419312806217,
     "CrCbGaD": 9.78535645189245e-06
   },
+  "n_trials": 0.0,
   "prediction": 0.0013249688374287801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

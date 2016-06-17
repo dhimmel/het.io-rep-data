@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00378",
   "compound_name": "Dydrogesterone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.2193223836647806,
     "CbGeAlD": 0.01848590084360757,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.24970409825779874,
     "CrCtD": 0.4820079593167535
   },
+  "n_trials": 0.0,
   "prediction": 0.009076024131693259,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

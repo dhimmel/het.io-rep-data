@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01140",
   "compound_name": "Cefadroxil",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.19440832249674897,
   "metapath_contribution": {
     "CbGbCtD": 0.21962190555253164,
     "CbGeAlD": 0.2538615132309394,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3871459235031502,
     "CrCbGaD": 0.005899887727334769
   },
+  "n_trials": 0.0,
   "prediction": 0.0011419529681556,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

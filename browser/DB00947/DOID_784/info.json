@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.456436931079324,
   "metapath_contribution": {
     "CbGaD": 0.6087911325951729,
     "CbGeAlD": 0.10195228147076632,
     "CbGpPWpGaD": 0.2818642509989673,
     "CrCbGaD": 0.00739233493509339
   },
+  "n_trials": 0.0,
   "prediction": 0.0014698072831506699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

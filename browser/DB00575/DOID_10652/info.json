@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6501950585175551,
   "metapath_contribution": {
     "CbGaD": 0.26111819097023453,
     "CbGbCtD": 0.3198302995373153,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.26452617044691906,
     "CrCbGaD": 0.00400226793792327
   },
+  "n_trials": 0.0,
   "prediction": 0.00227677242375592,
   "status": 0,
   "training_prediction": 0.0046000182459063

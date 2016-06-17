@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.320546163849155,
   "metapath_contribution": {
     "CbGaD": 0.284939490593881,
     "CbGbCtD": 0.23035953867115108,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17356401655510392,
     "CrCbGaD": 0.0047118184623599815
   },
+  "n_trials": 0.0,
   "prediction": 0.00110293679183574,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

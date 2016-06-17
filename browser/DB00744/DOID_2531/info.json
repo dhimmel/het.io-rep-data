@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGaD": 0.3376719324942865,
     "CbGbCtD": 0.4273474529628397,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.062253763775570244,
     "CcSEcCtD": 0.14060236022105713
   },
+  "n_trials": 2.0,
   "prediction": 0.00397460214148929,
   "status": 0,
   "training_prediction": 0.035056575139085

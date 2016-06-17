@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.5284336489004984,
     "CbGbCtD": 0.3252625752800185,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1197433101421848,
     "CrCbGaD": 0.0043698120706335605
   },
+  "n_trials": 0.0,
   "prediction": 0.00309205993520624,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

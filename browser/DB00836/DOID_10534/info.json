@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.232119635890767,
   "metapath_contribution": {
     "CbGbCtD": 0.38672170747875656,
     "CbGeAlD": 0.14039583327380697,
     "CbGpPWpGaD": 0.28250891563989117,
     "CcSEcCtD": 0.19037354360754535
   },
+  "n_trials": 0.0,
   "prediction": 0.000977502962484089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

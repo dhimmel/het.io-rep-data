@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGaD": 0.6292558138299248,
     "CbGbCtD": 0.31201174154985084,
     "CbGpPWpGaD": 0.028563895857553534,
     "CcSEcCtD": 0.030168548762670843
   },
+  "n_trials": 0.0,
   "prediction": 0.00437039345191318,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

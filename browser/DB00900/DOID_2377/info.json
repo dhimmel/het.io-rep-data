@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00900",
   "compound_name": "Didanosine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGbCtD": 0.30699335292338803,
     "CbGdCrCtD": 0.0016876740760114414,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.40291660738980667,
     "CrCrCtD": 0.24789641778307814
   },
+  "n_trials": 0.0,
   "prediction": 0.0171044760753244,
   "status": 0,
   "training_prediction": 0.0427930902041144

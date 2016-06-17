@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGaD": 0.5788758900416433,
     "CbGeAlD": 0.022503728884109304,
     "CbGpPWpGaD": 0.29347822383953837,
     "CcSEcCtD": 0.10514215723470903
   },
+  "n_trials": 0.0,
   "prediction": 0.00175203281180495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

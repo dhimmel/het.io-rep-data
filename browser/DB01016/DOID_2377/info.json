@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.42100554920883687,
     "CbGbCtD": 0.41299747073427995,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07566519836627177,
     "CrCbGaD": 0.001960198359526089
   },
+  "n_trials": 0.0,
   "prediction": 0.00324549361231726,
   "status": 0,
   "training_prediction": 0.0137597137947576

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.720416124837451,
   "metapath_contribution": {
     "CbGbCtD": 0.7136953159493439,
     "CbGdCrCtD": 0.004693400795043391,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.152584561866101,
     "CrCbGaD": 1.4752269825022296e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00196431526221937,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

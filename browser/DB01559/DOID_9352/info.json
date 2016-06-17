@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01559",
   "compound_name": "Clotiazepam",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGaD": 0.20357179783103707,
     "CbGbCtD": 0.61761034018702,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12779308979840834,
     "CrCbGaD": 0.0032427065210810365
   },
+  "n_trials": 0.0,
   "prediction": 0.0027501514654105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

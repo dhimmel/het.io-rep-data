@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.5151840672970021,
     "CbGbCtD": 0.27445739863961355,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04018665423310018,
     "CrCbGaD": 0.005844173932152229
   },
+  "n_trials": 0.0,
   "prediction": 0.00881554231579325,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

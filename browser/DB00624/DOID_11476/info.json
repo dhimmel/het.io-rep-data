@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.1216250346206919,
     "CbGbCtD": 0.18478817486958393,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19012604706785202,
     "CrCtD": 0.22462858983264916
   },
+  "n_trials": 3.0,
   "prediction": 0.0313672436573269,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

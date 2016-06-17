@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.773081924577373,
   "metapath_contribution": {
     "CbGaD": 0.2922972559881408,
     "CbGbCtD": 0.4802040163833921,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17317516120279633,
     "CrCbGaD": 0.002754256409060111
   },
+  "n_trials": 0.0,
   "prediction": 0.00361297142538971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

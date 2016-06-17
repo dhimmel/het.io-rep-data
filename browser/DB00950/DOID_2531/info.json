@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00950",
   "compound_name": "Fexofenadine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.37256176853055895,
   "metapath_contribution": {
-    "CbGaD": 0.09966979462991579,
-    "CbGbCtD": 0.4083815949225105,
-    "CbGeAlD": 0.006097849826287264,
-    "CbGpPWpGaD": 0.04405107929774588,
-    "CcSEcCtD": 0.15334821766122075,
-    "CrCbGaD": 4.70641240963254e-06,
-    "CrCrCtD": 0.28844675724991004
+    "CbGaD": 0.0996697946299158,
+    "CbGbCtD": 0.4083815949225106,
+    "CbGeAlD": 0.006097849826287265,
+    "CbGpPWpGaD": 0.04405107929774589,
+    "CcSEcCtD": 0.15334821766122078,
+    "CrCbGaD": 4.7064124096325405e-06,
+    "CrCrCtD": 0.2884467572499101
   },
+  "n_trials": 0.0,
   "prediction": 0.0018057102292220603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

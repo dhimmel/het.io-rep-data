@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00831",
   "compound_name": "Trifluoperazine",
+  "compound_percentile": 0.264705882352941,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0637191157347204,
   "metapath_contribution": {
     "CbGaD": 0.14810824218306776,
     "CbGbCtD": 0.38057813472813434,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1729416201560088,
     "CrCbGaD": 0.0032579558417466293
   },
+  "n_trials": 0.0,
   "prediction": 0.000721345705307382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

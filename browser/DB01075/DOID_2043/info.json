@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.10338101430429099,
   "metapath_contribution": {
     "CbGbCtD": 0.7780380069507851,
     "CbGeAlD": 0.010638115988276407,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1620556357814257,
     "CrCbGaD": 0.004762204619944723
   },
+  "n_trials": 0.0,
   "prediction": 0.0009164946129208301,
   "status": 0,
   "training_prediction": 0.0018542763716510602

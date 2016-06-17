@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.818595578673602,
   "metapath_contribution": {
     "CbGaD": 0.11980375301108923,
     "CbGbCtD": 0.5699199487446734,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10729585306850131,
     "CcSEcCtD": 0.16886665039970072
   },
+  "n_trials": 0.0,
   "prediction": 0.00509086016042513,
   "status": 0,
   "training_prediction": 0.0268583060143876

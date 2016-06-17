@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1964",
   "disease_name": "fallopian tube cancer",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGeAlD": 0.10066996446512827,
     "CtDrD": 0.8993300355348718
   },
+  "n_trials": 13.0,
   "prediction": 0.00279495870250354,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

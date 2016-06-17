@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00939",
   "compound_name": "Meclofenamic acid",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.258127438231469,
   "metapath_contribution": {
     "CbGbCtD": 0.6476585459309928,
     "CbGdCrCtD": 0.013885640935901262,
     "CcSEcCtD": 0.32342331324113377,
     "CrCbGaD": 0.015032499891972124
   },
+  "n_trials": 0.0,
   "prediction": 0.00157887654839015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

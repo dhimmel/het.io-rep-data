@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGbCtD": 0.48695720796480796,
     "CbGeAlD": 0.01968270597884337,
     "CbGpPWpGaD": 0.15945544690782779,
     "CcSEcCtD": 0.333904639148521
   },
+  "n_trials": 2.0,
   "prediction": 0.00242037565243838,
   "status": 0,
   "training_prediction": 0.0286494280408203

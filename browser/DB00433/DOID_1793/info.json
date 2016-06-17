@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00433",
   "compound_name": "Prochlorperazine",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.0299089726918075,
   "metapath_contribution": {
     "CbGbCtD": 0.22402500073769777,
     "CbGpPWpGaD": 0.12379390316564565,
     "CcSEcCtD": 0.34629426523528156,
     "CrCrCtD": 0.30588683086137514
   },
+  "n_trials": 0.0,
   "prediction": 0.000659333422286274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

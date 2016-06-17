@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8946684005201558,
   "metapath_contribution": {
     "CbGaD": 0.45529667269408697,
     "CbGbCtD": 0.3622621546920624,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.052992796778497234,
     "CrCbGaD": 0.003400457258706594
   },
+  "n_trials": 0.0,
   "prediction": 0.0039284783964294205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

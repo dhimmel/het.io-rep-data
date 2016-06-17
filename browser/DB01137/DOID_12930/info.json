@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.390767230169051,
   "metapath_contribution": {
     "CbGbCtD": 0.5532618373843122,
     "CbGdCrCtD": 0.004079347529530924,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.36389143205436164,
     "CrCbGaD": 0.012231452375803106
   },
+  "n_trials": 0.0,
   "prediction": 0.00142765841828758,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

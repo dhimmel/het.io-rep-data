@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.892717815344603,
   "metapath_contribution": {
     "CbGbCtD": 0.21033044653887398,
     "CbGeAlD": 0.08670177196121846,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08987493560965452,
     "CpDpCtD": 0.5796656806946214
   },
+  "n_trials": 0.0,
   "prediction": 0.00383581424618749,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

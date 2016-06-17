@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.531209362808843,
   "metapath_contribution": {
     "CbGaD": 0.26640652491233136,
     "CbGbCtD": 0.39992178726467126,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0027058009320446866,
     "CcSEcCtD": 0.2532720881838418
   },
+  "n_trials": 1.0,
   "prediction": 0.00164477648558574,
   "status": 0,
   "training_prediction": 0.00608046043482657

@@ -1,19 +1,21 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
-    "CbGaD": 0.2051907878206338,
-    "CbGbCtD": 0.1875225114499204,
-    "CbGeAlD": 0.015717082254488205,
+    "CbGaD": 0.20519078782063377,
+    "CbGbCtD": 0.18752251144992038,
+    "CbGeAlD": 0.0157170822544882,
     "CbGpPWpGaD": 0.019533622208176307,
-    "CcSEcCtD": 0.0338593829663494,
-    "CrCbGaD": 0.00057978967374773,
-    "CrCrCtD": 0.223114194488905,
-    "CrCtD": 0.3144826291377793
+    "CcSEcCtD": 0.03385938296634939,
+    "CrCbGaD": 0.0005797896737477298,
+    "CrCrCtD": 0.22311419448890496,
+    "CrCtD": 0.31448262913777925
   },
+  "n_trials": 0.0,
   "prediction": 0.0198106697004566,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

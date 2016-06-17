@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.6852816787548544,
     "CbGbCtD": 0.05358996967407867,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06919144718315498,
     "CrCbGaD": 0.004595814389527433
   },
+  "n_trials": 0.0,
   "prediction": 0.00179647472432932,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

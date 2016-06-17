@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01559",
   "compound_name": "Clotiazepam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.18873316049269395,
     "CbGbCtD": 0.2435656216502079,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.20182206123076823,
     "CrCtD": 0.30634454289722124
   },
+  "n_trials": 0.0,
   "prediction": 0.102845244532617,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

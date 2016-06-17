@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08932",
   "compound_name": "MACITENTAN",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.3349173341178038,
     "CbGbCtD": 0.452412444639498,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10173523113918734,
     "CcSEcCtD": 0.08576575109949856
   },
+  "n_trials": 0.0,
   "prediction": 0.0061652883968242,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

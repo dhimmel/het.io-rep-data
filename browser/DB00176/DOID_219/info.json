@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.33537825045805786,
     "CbGbCtD": 0.46496141695365756,
     "CbGeAlD": 0.005960089477630363,
     "CcSEcCtD": 0.19370024311065437
   },
+  "n_trials": 0.0,
   "prediction": 0.00396821148345107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

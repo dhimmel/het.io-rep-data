@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08811",
   "compound_name": "Tofisopam",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8894668400520159,
   "metapath_contribution": {
     "CbGaD": 0.23829159675314548,
     "CbGbCtD": 0.08108645590279553,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.1863260623443674,
     "CrCtD": 0.4162989650478897
   },
+  "n_trials": 0.0,
   "prediction": 0.017862632089232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

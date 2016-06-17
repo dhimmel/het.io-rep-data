@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01367",
   "compound_name": "Rasagiline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
-    "CbGaD": 0.38406889728919696,
-    "CbGeAlD": 0.005710887299145469,
-    "CbGpPWpGaD": 0.05234186348120442,
-    "CcSEcCtD": 0.11424381229477687,
-    "CpDpCtD": 0.44363453963567645
+    "CbGaD": 0.38406889728919685,
+    "CbGeAlD": 0.005710887299145468,
+    "CbGpPWpGaD": 0.052341863481204405,
+    "CcSEcCtD": 0.11424381229477684,
+    "CpDpCtD": 0.4436345396356764
   },
+  "n_trials": 2.0,
   "prediction": 0.0144526250645083,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

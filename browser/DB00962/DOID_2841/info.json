@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00962",
   "compound_name": "Zaleplon",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.47170311299705997,
     "CbGbCtD": 0.35309794188821964,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.005553224726804868,
     "CcSEcCtD": 0.1652907663903896
   },
+  "n_trials": 0.0,
   "prediction": 0.00798746010784341,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

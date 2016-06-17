@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.788036410923277,
   "metapath_contribution": {
     "CbGbCtD": 0.45579142760892705,
     "CbGeAlD": 0.009128611327210039,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003898225093372692,
     "CrCrCtD": 0.5137247079356083
   },
+  "n_trials": 0.0,
   "prediction": 0.00263063575025614,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

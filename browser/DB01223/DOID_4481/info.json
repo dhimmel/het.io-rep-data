@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01223",
   "compound_name": "Aminophylline",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGbCtD": 0.1551409023535326,
     "CbGdCrCtD": 0.001942973109173353,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07642458752123235,
     "CtDrD": 0.7510656559486587
   },
+  "n_trials": 0.0,
   "prediction": 0.00847921812634835,
   "status": 0,
   "training_prediction": 0.0444785943173527

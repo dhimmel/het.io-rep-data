@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00186",
   "compound_name": "Lorazepam",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
-    "CbGaD": 0.7875867098989002,
-    "CbGeAlD": 0.04416104156125097,
+    "CbGaD": 0.7875867098989001,
+    "CbGeAlD": 0.04416104156125096,
     "CbGpPWpGaD": 0.15724554780456948,
-    "CrCbGaD": 0.01100670073527941
+    "CrCbGaD": 0.011006700735279408
   },
+  "n_trials": 0.0,
   "prediction": 0.00198348504573041,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

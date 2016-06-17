@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8328998699609879,
   "metapath_contribution": {
     "CbGaD": 0.4898606574828857,
     "CbGbCtD": 0.4008363237511738,
     "CbGeAlD": 0.003577230589959615,
     "CbGpPWpGaD": 0.10572578817598087
   },
+  "n_trials": 0.0,
   "prediction": 0.00381842735005005,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

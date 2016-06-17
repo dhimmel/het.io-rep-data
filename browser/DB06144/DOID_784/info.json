@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06144",
   "compound_name": "Sertindole",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.565669700910273,
   "metapath_contribution": {
     "CbGaD": 0.593252031668388,
     "CbGeAlD": 0.0948984829469949,
     "CbGpPWpGaD": 0.2979554140455961,
     "CrCbGaD": 0.013894071339020993
   },
+  "n_trials": 0.0,
   "prediction": 0.0017143514489627802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

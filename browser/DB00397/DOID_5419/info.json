@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00397",
   "compound_name": "Phenylpropanolamine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8237971391417429,
   "metapath_contribution": {
     "CbGaD": 0.7739129643422001,
     "CbGeAlD": 0.06856499216650523,
     "CbGpPWpGaD": 0.1508951512496971,
     "CrCbGaD": 0.006626892241597441
   },
+  "n_trials": 0.0,
   "prediction": 0.00245853235220619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

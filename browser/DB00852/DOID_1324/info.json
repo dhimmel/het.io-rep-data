@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.5884265279583879,
   "metapath_contribution": {
     "CbGaD": 0.6768102913335009,
     "CbGeAlD": 0.04761222630616256,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08743521466496644,
     "CrCbGaD": 0.0013864446565547658
   },
+  "n_trials": 0.0,
   "prediction": 0.0021277928576353697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

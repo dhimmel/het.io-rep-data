@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00881",
   "compound_name": "Quinapril",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGaD": 0.4822930763043157,
     "CbGeAlD": 0.012414566236139398,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.00448111288339662,
     "CrCrCtD": 0.3823337826575921
   },
+  "n_trials": 0.0,
   "prediction": 0.0037072529315705397,
   "status": 0,
   "training_prediction": 0.008147976602900321

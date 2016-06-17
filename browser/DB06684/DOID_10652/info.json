@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06684",
   "compound_name": "Vilazodone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.4274171734693032,
     "CbGbCtD": 0.3950437658831541,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.120086120784191,
     "CrCbGaD": 0.0031244016424103282
   },
+  "n_trials": 0.0,
   "prediction": 0.00513387848153453,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

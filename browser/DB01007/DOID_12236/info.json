@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.65149544863459,
   "metapath_contribution": {
     "CbGbCtD": 0.9629751727985033,
     "CbGpPWpGaD": 0.03480808265635953,
     "CrCbGaD": 0.0022167445451371456
   },
+  "n_trials": 0.0,
   "prediction": 0.00201313016691756,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

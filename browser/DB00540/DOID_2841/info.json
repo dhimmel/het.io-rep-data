@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7776332899869959,
   "metapath_contribution": {
     "CbGaD": 0.0598113725100553,
     "CbGbCtD": 0.4070117285375403,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00143671783422664,
     "CrCrCtD": 0.30892995751711644
   },
+  "n_trials": 0.0,
   "prediction": 0.00455443644286237,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

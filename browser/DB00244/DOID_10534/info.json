@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.4369310793237971,
   "metapath_contribution": {
     "CbGaD": 0.6133783468845031,
     "CbGdCrCtD": 0.0028056719716562954,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17456593856694608,
     "CrCbGaD": 0.0042053929347658486
   },
+  "n_trials": 0.0,
   "prediction": 0.00140898463184608,
   "status": 0,
   "training_prediction": 0.00516501088938513

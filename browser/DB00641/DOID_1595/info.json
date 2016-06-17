@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.73146944083225,
   "metapath_contribution": {
     "CbGaD": 0.7957091744366955,
     "CbGeAlD": 0.0961381404628289,
     "CbGpPWpGaD": 0.10103024597204079,
     "CrCbGaD": 0.007122439128434739
   },
+  "n_trials": 1.0,
   "prediction": 0.0019675890802325698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

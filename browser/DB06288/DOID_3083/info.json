@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06288",
   "compound_name": "Amisulpride",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.624187256176853,
   "metapath_contribution": {
     "CbGaD": 0.689826454366691,
     "CbGeAlD": 0.06963946475882059,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19936302890959934,
     "CrCbGaD": 0.0019191486392652955
   },
+  "n_trials": 0.0,
   "prediction": 0.0025822975443846,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

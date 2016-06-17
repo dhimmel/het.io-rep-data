@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGbCtD": 0.19612232188080306,
     "CbGdCrCtD": 0.0016518670326280708,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.3004433088850804,
     "CrCtD": 0.4547744388576325
   },
+  "n_trials": 0.0,
   "prediction": 0.0103554516897787,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

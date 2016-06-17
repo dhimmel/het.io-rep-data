@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.568270481144343,
   "metapath_contribution": {
     "CbGaD": 0.757136272429845,
     "CbGbCtD": 0.10262353864251433,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1194678151552289,
     "CrCbGaD": 0.006646323827824523
   },
+  "n_trials": 0.0,
   "prediction": 0.00172902387500447,
   "status": 0,
   "training_prediction": 0.0031582116627719803

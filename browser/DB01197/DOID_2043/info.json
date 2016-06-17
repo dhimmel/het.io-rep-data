@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.5908470665854878,
     "CbGbCtD": 0.20002243699352418,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07026024803120406,
     "CcSEcCtD": 0.082639530213302
   },
+  "n_trials": 0.0,
   "prediction": 0.00565947887553654,
   "status": 0,
   "training_prediction": 0.0154427101404756

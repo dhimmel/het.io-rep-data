@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.746423927178153,
   "metapath_contribution": {
     "CbGaD": 0.6252987621149275,
     "CbGeAlD": 0.10027103035822027,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15974739236248242,
     "CrCbGaD": 0.0027220924059346958
   },
+  "n_trials": 0.0,
   "prediction": 0.00211082179594647,
   "status": 0,
   "training_prediction": 0.0025617630128003197

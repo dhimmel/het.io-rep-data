@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.661898569570871,
   "metapath_contribution": {
     "CbGaD": 0.04035573696654777,
     "CbGbCtD": 0.604103159613653,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1798932558895252,
     "CrCbGaD": 0.0030123204294893453
   },
+  "n_trials": 0.0,
   "prediction": 0.00322225814897923,
   "status": 0,
   "training_prediction": 0.0381708050119353

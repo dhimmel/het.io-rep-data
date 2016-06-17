@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.322496749024707,
   "metapath_contribution": {
     "CbGaD": 0.28628995528488793,
     "CbGbCtD": 0.5258723863053857,
     "CcSEcCtD": 0.18586691623928878,
     "CrCbGaD": 0.0019707421704376446
   },
+  "n_trials": 1.0,
   "prediction": 0.00165424728298754,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

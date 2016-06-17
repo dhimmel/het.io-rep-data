@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.981794538361508,
   "metapath_contribution": {
     "CbGbCtD": 0.24967955239273318,
     "CbGeAlD": 0.01458837510448049,
@@ -13,6 +15,5 @@
     "CrCtD": 0.4223905428425903
   },
   "prediction": 0.0156091118278069,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

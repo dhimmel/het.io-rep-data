@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01189",
   "compound_name": "Desflurane",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.2342302383575584,
     "CbGbCtD": 0.23950445711054075,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.38197042233293566,
     "CrCbGaD": 0.0021460707744993535
   },
+  "n_trials": 0.0,
   "prediction": 0.0898552998185461,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

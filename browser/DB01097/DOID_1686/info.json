@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01097",
   "compound_name": "Leflunomide",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.784135240572172,
   "metapath_contribution": {
     "CbGbCtD": 0.3653807582954827,
     "CbGdCrCtD": 0.010935075513985364,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5077334815700382,
     "CrCbGaD": 0.0018975457700288378
   },
+  "n_trials": 0.0,
   "prediction": 0.00297973918853652,
   "status": 0,
   "training_prediction": 0.0281476674814245

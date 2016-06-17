@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01108",
   "compound_name": "Trilostane",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.4889466840052021,
   "metapath_contribution": {
     "CbGaD": 0.8079853952110404,
     "CbGeAlD": 0.08284621812894262,
     "CbGpPWpGaD": 0.10573214577794564,
     "CrCbGaD": 0.003436240882071414
   },
+  "n_trials": 0.0,
   "prediction": 0.0015261929146555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

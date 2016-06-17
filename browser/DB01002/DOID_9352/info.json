@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01002",
   "compound_name": "Levobupivacaine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.654746423927178,
   "metapath_contribution": {
     "CbGaD": 0.4281881118818446,
     "CbGbCtD": 0.34176561790866705,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17811813572631285,
     "CrCbGaD": 0.0031899088460140964
   },
+  "n_trials": 0.0,
   "prediction": 0.00340109105270135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

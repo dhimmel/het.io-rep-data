@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2986",
   "disease_name": "IgA glomerulonephritis",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.36638887964765454,
     "CbGeAlD": 0.03306451965302426,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0009465452285139349,
     "CtDrD": 0.5073233111984872
   },
+  "n_trials": 0.0,
   "prediction": 0.00343084421801886,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

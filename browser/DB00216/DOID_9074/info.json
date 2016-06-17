@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.6801040312093629,
   "metapath_contribution": {
     "CbGbCtD": 0.3267499835574697,
     "CbGeAlD": 0.04617038876446727,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13703569938257126,
     "CpDpCtD": 0.48320226196974814
   },
+  "n_trials": 0.0,
   "prediction": 0.00246093373277096,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

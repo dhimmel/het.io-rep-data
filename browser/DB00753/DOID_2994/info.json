@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGbCtD": 0.1275533446279354,
     "CbGeAlD": 0.5603553468620004,
     "CbGpPWpGaD": 0.15184951298297542,
     "CcSEcCtD": 0.16024179552708873
   },
+  "n_trials": 0.0,
   "prediction": 0.00204275926983783,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

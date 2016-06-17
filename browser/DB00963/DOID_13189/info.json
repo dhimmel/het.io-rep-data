@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00963",
   "compound_name": "Bromfenac",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGbCtD": 0.1189687548735685,
     "CbGdCrCtD": 0.0005378478974463058,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.17876005810982365,
     "CrCtD": 0.32014204523951273
   },
+  "n_trials": 0.0,
   "prediction": 0.0785581166973843,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

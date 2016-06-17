@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01144",
   "compound_name": "Diclofenamide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7113133940182049,
   "metapath_contribution": {
     "CbGaD": 0.35520066161272823,
     "CbGbCtD": 0.4258946619818204,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10059708071177091,
     "CrCbGaD": 0.0023868981965535887
   },
+  "n_trials": 0.0,
   "prediction": 0.00359354472392106,
   "status": 0,
   "training_prediction": 0.0190815743853357

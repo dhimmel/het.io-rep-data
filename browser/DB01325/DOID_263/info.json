@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01325",
   "compound_name": "Quinethazone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.485045513654096,
   "metapath_contribution": {
     "CbGaD": 0.7899174420148019,
     "CbGeAlD": 0.16798404509941087,
     "CbGpPWpGaD": 0.03237894179118528,
     "CrCbGaD": 0.009719571094601998
   },
+  "n_trials": 0.0,
   "prediction": 0.0017777709878419898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

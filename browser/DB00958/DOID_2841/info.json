@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00958",
   "compound_name": "Carboplatin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.852405721716515,
   "metapath_contribution": {
     "CbGaD": 0.675385803301384,
     "CbGbCtD": 0.056622813694887746,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09816723522800522,
     "CcSEcCtD": 0.09428215026302751
   },
+  "n_trials": 0.0,
   "prediction": 0.0062920663637287,
   "status": 0,
   "training_prediction": 0.19614233859643102

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.0864759427828349,
   "metapath_contribution": {
     "CbGaD": 0.647794923448767,
     "CbGeAlD": 0.21099571547518564,
     "CbGpPWpGaD": 0.13972762354092552,
     "CrCbGaD": 0.0014817375351217808
   },
+  "n_trials": 0.0,
   "prediction": 0.000707727011782719,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

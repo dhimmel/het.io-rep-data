@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7191157347204159,
   "metapath_contribution": {
     "CbGaD": 0.2039192449095399,
     "CbGbCtD": 0.504142088100266,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15520993328659835,
     "CrCbGaD": 0.0009589036157836475
   },
+  "n_trials": 74.0,
   "prediction": 0.00367862477489197,
   "status": 0,
   "training_prediction": 0.0537636993453168

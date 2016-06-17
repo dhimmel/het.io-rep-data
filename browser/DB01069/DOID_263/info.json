@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.150845253576073,
   "metapath_contribution": {
     "CbGaD": 0.197001290295487,
     "CbGbCtD": 0.4449088191496304,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16115810316944282,
     "CrCbGaD": 0.003514627751762153
   },
+  "n_trials": 2.0,
   "prediction": 0.000917689498432717,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

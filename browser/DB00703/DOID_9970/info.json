@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.1662251080617223,
     "CbGbCtD": 0.5795534688007192,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11401931659467858,
     "CrCbGaD": 0.005113639923798674
   },
+  "n_trials": 0.0,
   "prediction": 0.0064417831041026895,
   "status": 0,
   "training_prediction": 0.016383399962398997

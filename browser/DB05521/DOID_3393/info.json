@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.06133302988191453,
     "CbGbCtD": 0.2972971437529156,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0919366752766565,
     "CiPCiCtD": 0.4475979014857967
   },
+  "n_trials": 0.0,
   "prediction": 0.0077386342906594205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

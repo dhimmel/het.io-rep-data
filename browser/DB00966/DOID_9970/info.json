@@ -1,17 +1,20 @@
 {
   "compound_id": "DB00966",
   "compound_name": "Telmisartan",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.714564369310793,
   "metapath_contribution": {
-    "CbGaD": 0.21467252420867206,
-    "CbGbCtD": 0.027721175219956467,
-    "CbGeAlD": 0.02340490265281962,
-    "CbGpPWpGaD": 0.08471306377449375,
-    "CcSEcCtD": 0.1164516278086613,
-    "CrCbGaD": 1.3142619884721951e-05,
-    "CtDrD": 0.533023563715512
+    "CbGaD": 0.21467252420867208,
+    "CbGbCtD": 0.02772117521995647,
+    "CbGeAlD": 0.023404902652819623,
+    "CbGpPWpGaD": 0.08471306377449377,
+    "CcSEcCtD": 0.11645162780866132,
+    "CrCbGaD": 1.3142619884721953e-05,
+    "CtDrD": 0.5330235637155121
   },
+  "n_trials": 1.0,
   "prediction": 0.0039723355076867,
   "status": 0,
   "training_prediction": 0.0168015678298551

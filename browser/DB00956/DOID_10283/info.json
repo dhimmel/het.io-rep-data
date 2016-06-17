@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00956",
   "compound_name": "Hydrocodone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6326397919375811,
   "metapath_contribution": {
     "CbGaD": 0.14238261827829443,
     "CbGbCtD": 0.27925381438150315,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004090166119582879,
     "CrCrCtD": 0.3793827878951977
   },
+  "n_trials": 0.0,
   "prediction": 0.00298486494741603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

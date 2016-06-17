@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.4727667087076962,
     "CbGbCtD": 0.44485086264757123,
     "CbGpPWpGaD": 0.006566452819755337,
     "CcSEcCtD": 0.0758159758249773
   },
+  "n_trials": 1.0,
   "prediction": 0.00370978668124754,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

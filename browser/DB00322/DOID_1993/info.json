@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00322",
   "compound_name": "Floxuridine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1993",
   "disease_name": "rectum cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.46457791850126834,
     "CbGeAlD": 0.011042022598852626,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.001723508451409954,
     "CtDrD": 0.5176387545794718
   },
+  "n_trials": 2.0,
   "prediction": 0.00632056552991317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

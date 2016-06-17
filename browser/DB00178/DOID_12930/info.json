@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00178",
   "compound_name": "Ramipril",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.15834280345203072,
     "CbGbCtD": 0.18316834469951182,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.24497812039780062,
     "CrCtD": 0.360109646031207
   },
+  "n_trials": 0.0,
   "prediction": 0.039645519229078,
   "status": 0,
   "training_prediction": 0.103763657267101

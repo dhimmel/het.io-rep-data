@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.29453836150845303,
   "metapath_contribution": {
     "CbGaD": 0.1959089399816796,
     "CbGbCtD": 0.4419205369761907,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.20706873789254682,
     "CrCbGaD": 0.002852189434351573
   },
+  "n_trials": 0.0,
   "prediction": 0.00151787853768611,
   "status": 0,
   "training_prediction": 0.00643111090396583

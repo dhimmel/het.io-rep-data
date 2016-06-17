@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.272058823529412,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.0689206762028609,
   "metapath_contribution": {
     "CbGaD": 0.8859581509665654,
     "CbGeAlD": 0.08536434548828424,
     "CbGpPWpGaD": 0.028677503545150307
   },
+  "n_trials": 3.0,
   "prediction": 0.000668636333849879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01253",
   "compound_name": "Ergonovine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.79778933680104,
   "metapath_contribution": {
     "CbGaD": 0.4897119248341273,
     "CbGbCtD": 0.33334344711790703,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07179197690578668,
     "CrCbGaD": 0.008637953112577432
   },
+  "n_trials": 0.0,
   "prediction": 0.00471003695090134,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

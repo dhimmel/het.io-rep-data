@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.5015213520635035,
     "CbGbCtD": 0.32028664670630763,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10617432850473892,
     "CcSEcCtD": 0.06156566151903661
   },
+  "n_trials": 0.0,
   "prediction": 0.0058186984230647896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

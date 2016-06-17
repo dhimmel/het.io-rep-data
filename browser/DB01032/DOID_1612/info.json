@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7769830949284791,
   "metapath_contribution": {
     "CbGaD": 0.28423789450194864,
     "CbGbCtD": 0.4780947908259399,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08108166092061446,
     "CrCbGaD": 0.002515882813287159
   },
+  "n_trials": 0.0,
   "prediction": 0.004422879500217571,
   "status": 0,
   "training_prediction": 0.0240679800327547

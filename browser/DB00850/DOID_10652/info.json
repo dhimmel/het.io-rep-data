@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.535760728218466,
   "metapath_contribution": {
     "CbGaD": 0.4440078765471628,
     "CbGbCtD": 0.31313288793474875,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0919417419111282,
     "CrCbGaD": 0.003747429841043263
   },
+  "n_trials": 0.0,
   "prediction": 0.00195610847387143,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

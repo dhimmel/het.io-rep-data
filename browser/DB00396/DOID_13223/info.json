@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGaD": 0.4618347674798058,
     "CbGeAlD": 0.04082093700827728,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004240852135247208,
     "CtDrD": 0.4755622195843704
   },
+  "n_trials": 3.0,
   "prediction": 0.0052381312206383705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

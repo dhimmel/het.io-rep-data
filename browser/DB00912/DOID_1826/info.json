@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.805591677503251,
   "metapath_contribution": {
     "CbGaD": 0.3611662695719213,
     "CbGbCtD": 0.411974295001534,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08483162852220251,
     "CcSEcCtD": 0.13342742007572642
   },
+  "n_trials": 0.0,
   "prediction": 0.00866810116939585,
   "status": 0,
   "training_prediction": 0.04116298651716299

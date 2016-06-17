@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00744",
   "compound_name": "Zileuton",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.842002600780234,
   "metapath_contribution": {
     "CbGaD": 0.5846838788842571,
     "CbGbCtD": 0.21093528240480366,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07855911551094236,
     "CrCbGaD": 9.021436470964932e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0027350001500039,
   "status": 0,
   "training_prediction": 0.00601814813252191

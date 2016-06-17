@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8907672301690508,
   "metapath_contribution": {
     "CbGaD": 0.29843812849194057,
     "CbGbCtD": 0.173856332425214,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.35940726325605593,
     "CrCbGaD": 0.00261534935174489
   },
+  "n_trials": 0.0,
   "prediction": 0.00540068268154926,
   "status": 0,
   "training_prediction": 0.0118457587667413

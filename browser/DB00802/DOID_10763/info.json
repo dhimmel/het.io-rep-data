@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7399219765929781,
   "metapath_contribution": {
     "CbGaD": 0.20362621835504616,
     "CbGbCtD": 0.41211218106121966,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11676398142072178,
     "CrCrCtD": 0.2174733307713485
   },
+  "n_trials": 0.0,
   "prediction": 0.007857483952138391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

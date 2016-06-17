@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
     "CbGaD": 0.2117367058643001,
     "CbGbCtD": 0.5842547261395558,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1274462579511052,
     "CrCbGaD": 0.002401758966104259
   },
+  "n_trials": 0.0,
   "prediction": 0.0019795392173587,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

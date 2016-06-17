@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.949197045572643,
     "CbGeAlD": 0.005409358036348582,
     "CbGpPWpGaD": 0.035076295216595804,
     "CrCbGaD": 0.010317301174412671
   },
+  "n_trials": 0.0,
   "prediction": 0.00121063815611382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.959037711313394,
   "metapath_contribution": {
     "CbGaD": 0.7592267863192056,
     "CbGeAlD": 0.06514529050559197,
     "CbGpPWpGaD": 0.17108164074167898,
     "CrCbGaD": 0.004546282433523517
   },
+  "n_trials": 0.0,
   "prediction": 0.0035254655945414397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

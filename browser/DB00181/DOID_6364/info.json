@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00181",
   "compound_name": "Baclofen",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
-    "CbGbCtD": 0.07257276615766743,
-    "CbGeAlD": 0.028726420800275945,
-    "CbGpPWpGaD": 0.05762045209848365,
-    "CcSEcCtD": 0.16981495328630392,
-    "CpDpCtD": 0.6712654076572693
+    "CbGbCtD": 0.07257276615766742,
+    "CbGeAlD": 0.02872642080027594,
+    "CbGpPWpGaD": 0.057620452098483634,
+    "CcSEcCtD": 0.1698149532863039,
+    "CpDpCtD": 0.6712654076572692
   },
+  "n_trials": 0.0,
   "prediction": 0.00471592723097161,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

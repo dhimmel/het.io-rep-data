@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.6189105286621591,
     "CbGbCtD": 0.21881504626268797,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02186656992064426,
     "CcSEcCtD": 0.09272257931689405
   },
+  "n_trials": 0.0,
   "prediction": 0.00716823335768445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

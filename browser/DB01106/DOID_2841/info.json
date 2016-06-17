@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01106",
   "compound_name": "Levocabastine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.746423927178153,
   "metapath_contribution": {
     "CbGbCtD": 0.35505696038819373,
     "CbGeAlD": 0.0025246806611452744,
     "CbGpPWpGaD": 0.3284039065789008,
     "CcSEcCtD": 0.3140144523717603
   },
+  "n_trials": 0.0,
   "prediction": 0.00405156987243933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

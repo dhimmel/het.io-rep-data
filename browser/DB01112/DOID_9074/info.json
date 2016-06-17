@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01112",
   "compound_name": "Cefuroxime",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.136540962288687,
   "metapath_contribution": {
-    "CbGeAlD": 0.12940290565864035,
-    "CbGpPWpGaD": 0.25952850848810155,
+    "CbGeAlD": 0.12940290565864032,
+    "CbGpPWpGaD": 0.2595285084881015,
     "CcSEcCtD": 0.6091215129277725,
-    "CrCbGaD": 0.001947072925485705
+    "CrCbGaD": 0.0019470729254857046
   },
+  "n_trials": 0.0,
   "prediction": 0.0010048181845939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.4856738594941454,
     "CbGeAlD": 0.042932693822914716,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0027573883144891656,
     "CrCrCtD": 0.3598084337242666
   },
+  "n_trials": 0.0,
   "prediction": 0.0028804088006433,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

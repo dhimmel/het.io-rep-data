@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00374",
   "compound_name": "Treprostinil",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.486345903771131,
   "metapath_contribution": {
     "CbGbCtD": 0.5417994788579954,
     "CbGeAlD": 0.049865223605059794,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.23956592594572715,
     "CrCbGaD": 0.0032857971536431876
   },
+  "n_trials": 0.0,
   "prediction": 0.00245663874500311,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

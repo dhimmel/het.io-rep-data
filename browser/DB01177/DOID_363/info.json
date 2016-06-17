@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGbCtD": 0.1285188345835903,
     "CbGdCrCtD": 0.0006959384710329444,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.1827761237442285,
     "CrCtD": 0.28489083154276584
   },
+  "n_trials": 0.0,
   "prediction": 0.0484776986635338,
   "status": 0,
   "training_prediction": 0.134526529970777

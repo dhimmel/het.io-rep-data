@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01119",
   "compound_name": "Diazoxide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.3031074222262773,
     "CbGbCtD": 0.31482255017859934,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0020142776804541614,
     "CrCrCtD": 0.2677438500195557
   },
+  "n_trials": 0.0,
   "prediction": 0.0198297820468263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

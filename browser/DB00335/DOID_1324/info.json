@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00335",
   "compound_name": "Atenolol",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.42587776332899896,
   "metapath_contribution": {
     "CbGaD": 0.3580208872923612,
     "CbGbCtD": 0.4233400076104234,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19980811272117838,
     "CrCbGaD": 0.0028261005839032914
   },
+  "n_trials": 0.0,
   "prediction": 0.0016041460803801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01294",
   "compound_name": "Bismuth Subsalicylate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGaD": 0.7861716409295755,
     "CbGeAlD": 0.06270130648703731,
     "CbGpPWpGaD": 0.1511270525833872
   },
+  "n_trials": 0.0,
   "prediction": 0.004660399478865629,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

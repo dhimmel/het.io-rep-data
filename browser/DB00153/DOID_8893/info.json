@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00153",
   "compound_name": "Ergocalciferol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.10921025727990936,
     "CbGbCtD": 0.20085992546515904,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2869260049974343,
     "CtDrD": 0.17153443411331912
   },
+  "n_trials": 0.0,
   "prediction": 0.17953505019695498,
   "status": 0,
   "training_prediction": 0.608790636848231

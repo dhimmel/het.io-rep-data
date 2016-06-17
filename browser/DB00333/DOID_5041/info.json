@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.272431729518856,
   "metapath_contribution": {
     "CbGaD": 0.7067917307025015,
     "CbGbCtD": 0.0753258023506396,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.060702097259311395,
     "CrCbGaD": 0.005226695246278724
   },
+  "n_trials": 1.0,
   "prediction": 0.00101309141941167,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

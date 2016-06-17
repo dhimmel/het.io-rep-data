@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.8029908972691808,
   "metapath_contribution": {
     "CbGaD": 0.7867366176879058,
     "CbGeAlD": 0.07818615633793274,
     "CbGpPWpGaD": 0.13283234302645497,
     "CcSEcCtD": 0.002244882947706443
   },
+  "n_trials": 0.0,
   "prediction": 0.00260976242857402,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

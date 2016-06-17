@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.233420026007802,
   "metapath_contribution": {
     "CbGbCtD": 0.5689509746743056,
     "CbGeAlD": 0.16905024081905193,
     "CcSEcCtD": 0.2571842726980842,
     "CrCbGaD": 0.004814511808558303
   },
+  "n_trials": 0.0,
   "prediction": 0.0010470758830196099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

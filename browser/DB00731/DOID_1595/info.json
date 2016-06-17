@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.332899869960988,
   "metapath_contribution": {
     "CbGaD": 0.8365166406301346,
     "CbGeAlD": 0.11816658624893726,
     "CbGpPWpGaD": 0.03811102792997017,
     "CrCbGaD": 0.0072057451909579105
   },
+  "n_trials": 0.0,
   "prediction": 0.001246632834556,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

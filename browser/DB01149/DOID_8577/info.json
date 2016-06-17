@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.48309492847854396,
   "metapath_contribution": {
     "CbGaD": 0.2579239456505172,
     "CbGbCtD": 0.460003089124548,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.22329758068302952,
     "CrCbGaD": 0.004991327498678572
   },
+  "n_trials": 0.0,
   "prediction": 0.00204869242027808,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

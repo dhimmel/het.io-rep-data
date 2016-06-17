@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.330882352941176,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.22366710013003896,
   "metapath_contribution": {
     "CbGaD": 0.6356315784335802,
     "CbGeAlD": 0.11681269569941233,
     "CbGpPWpGaD": 0.23676724628406534,
     "CrCbGaD": 0.010788479582942129
   },
+  "n_trials": 0.0,
   "prediction": 0.00100035064730174,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

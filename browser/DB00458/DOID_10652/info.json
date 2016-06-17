@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
     "CbGaD": 0.3962360504678007,
     "CbGbCtD": 0.3311375128849788,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12620081273786773,
     "CrCbGaD": 0.004264361495984596
   },
+  "n_trials": 0.0,
   "prediction": 0.00280003437095082,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

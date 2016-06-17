@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.17815344603381,
   "metapath_contribution": {
     "CbGaD": 0.7632399316931793,
     "CbGeAlD": 0.05822426253736437,
     "CbGpPWpGaD": 0.17411523168831225,
     "CrCbGaD": 0.004420574081144039
   },
+  "n_trials": 0.0,
   "prediction": 0.000972192112441026,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

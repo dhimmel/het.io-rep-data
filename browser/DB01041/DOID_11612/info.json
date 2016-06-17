@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.401170351105332,
   "metapath_contribution": {
     "CbGaD": 0.5239912366106797,
     "CbGeAlD": 0.1255561617828699,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08621495260069469,
     "CrCbGaD": 0.003157324447497046
   },
+  "n_trials": 0.0,
   "prediction": 0.00123045435392382,
   "status": 0,
   "training_prediction": 0.000925405300535085

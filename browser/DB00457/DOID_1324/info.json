@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGaD": 0.5011725520367516,
     "CbGbCtD": 0.3684325921163769,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06830134825035585,
     "CrCbGaD": 0.0004286530394135065
   },
+  "n_trials": 0.0,
   "prediction": 0.0061183319898188105,
   "status": 0,
   "training_prediction": 0.0206799169637999

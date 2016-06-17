@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
-    "CbGbCtD": 0.3145972280444512,
-    "CbGeAlD": 0.017459824904533856,
-    "CbGpPWpGaD": 0.019356257844559237,
-    "CcSEcCtD": 0.048842971283844724,
-    "CpDpCtD": 0.33207171800726765,
-    "CrCrCtD": 0.26767199991534313
+    "CbGbCtD": 0.3145972280444513,
+    "CbGeAlD": 0.01745982490453386,
+    "CbGpPWpGaD": 0.01935625784455924,
+    "CcSEcCtD": 0.04884297128384473,
+    "CpDpCtD": 0.33207171800726776,
+    "CrCrCtD": 0.2676719999153432
   },
+  "n_trials": 0.0,
   "prediction": 0.00700707660009437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

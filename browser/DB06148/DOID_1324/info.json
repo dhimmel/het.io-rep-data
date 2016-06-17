@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06148",
   "compound_name": "Mianserin",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.36215864759427796,
   "metapath_contribution": {
     "CbGbCtD": 0.4013248177767096,
     "CbGeAlD": 0.06555471771489368,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3025116394436827,
     "CrCbGaD": 0.0024331900125974617
   },
+  "n_trials": 1.0,
   "prediction": 0.0014014599629264199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.171651495448635,
   "metapath_contribution": {
     "CbGbCtD": 0.4814631631042233,
     "CbGdCrCtD": 0.00686616321947622,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15717303646681757,
     "CrCbGaD": 0.0036721097539816725
   },
+  "n_trials": 0.0,
   "prediction": 0.0009652766843414029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

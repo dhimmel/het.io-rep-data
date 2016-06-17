@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01600",
   "compound_name": "Tiaprofenic acid",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.35695708712613794,
   "metapath_contribution": {
     "CbGaD": 0.7961462079460737,
     "CbGeAlD": 0.03896662196298271,
     "CcSEcCtD": 0.15920852132589564,
     "CrCbGaD": 0.005678648765047983
   },
+  "n_trials": 0.0,
   "prediction": 0.00142223564515739,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

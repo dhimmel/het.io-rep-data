@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04844",
   "compound_name": "Tetrabenazine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.7822943078568327,
     "CbGeAlD": 0.06764861560564203,
     "CbGpPWpGaD": 0.1468261716886244,
     "CrCbGaD": 0.0032309048489007424
   },
+  "n_trials": 1.0,
   "prediction": 0.00298592404842231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

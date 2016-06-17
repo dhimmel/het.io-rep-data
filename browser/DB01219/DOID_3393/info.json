@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01219",
   "compound_name": "Dantrolene",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.442132639791938,
   "metapath_contribution": {
     "CbGbCtD": 0.4613351434410833,
     "CbGeAlD": 0.017467641581855334,
     "CbGpPWpGaD": 0.18207625501414776,
     "CcSEcCtD": 0.3391209599629137
   },
+  "n_trials": 0.0,
   "prediction": 0.00213050977833887,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

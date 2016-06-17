@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.256827048114434,
   "metapath_contribution": {
     "CbGaD": 0.18421904843911024,
     "CbGbCtD": 0.5901250474090419,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.05120523128370545,
     "CrCbGaD": 0.001262395369780703
   },
+  "n_trials": 0.0,
   "prediction": 0.0014567274589643699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

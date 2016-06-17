@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.34200260078023403,
   "metapath_contribution": {
     "CbGaD": 0.227641024607665,
     "CbGbCtD": 0.5950600778757454,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1260477152003768,
     "CrCbGaD": 0.0026117945846029678
   },
+  "n_trials": 0.0,
   "prediction": 0.00123628660848605,
   "status": 0,
   "training_prediction": 0.00176429955774288

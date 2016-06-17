@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.7581274382314691,
   "metapath_contribution": {
     "CbGaD": 0.783009177939779,
     "CbGeAlD": 0.06733485816711049,
     "CbGpPWpGaD": 0.14147431795362161,
     "CrCbGaD": 0.008181645939488886
   },
+  "n_trials": 0.0,
   "prediction": 0.00201049737022948,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

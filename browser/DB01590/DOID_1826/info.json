@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.743172951885566,
   "metapath_contribution": {
     "CbGaD": 0.21523985145569052,
     "CbGbCtD": 0.12834317108155008,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.501708538215584,
     "CrCbGaD": 0.0022250025443225287
   },
+  "n_trials": 0.0,
   "prediction": 0.0066508981703229395,
   "status": 0,
   "training_prediction": 0.0318264929674089

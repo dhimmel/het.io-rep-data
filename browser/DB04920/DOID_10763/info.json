@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04920",
   "compound_name": "Clevidipine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGbCtD": 0.16748155600097783,
     "CbGeAlD": 0.007568243536966375,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1753663040075246,
     "CrCtD": 0.2592855668187949
   },
+  "n_trials": 7.0,
   "prediction": 0.16228920466430702,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

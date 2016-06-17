@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.795838751625488,
   "metapath_contribution": {
     "CbGaD": 0.40726898800471734,
     "CbGbCtD": 0.532636491916472,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0545164593095909,
     "CrCbGaD": 0.002899888358896688
   },
+  "n_trials": 0.0,
   "prediction": 0.0034986577990758602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00854",
   "compound_name": "Levorphanol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.949934980494148,
   "metapath_contribution": {
     "CcSEcCtD": 0.04903008117463791,
     "CrCbGaD": 0.0013899144871131542,
     "CrCrCtD": 0.3733289216220268,
     "CrCtD": 0.5762510827162222
   },
+  "n_trials": 0.0,
   "prediction": 0.00640534133614465,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

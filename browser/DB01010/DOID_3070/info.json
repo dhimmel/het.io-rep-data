@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01010",
   "compound_name": "Edrophonium",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
     "CbGaD": 0.97589864889152,
     "CbGpPWpGaD": 0.02121136621028865,
     "CrCbGaD": 0.0028899848981912926
   },
+  "n_trials": 0.0,
   "prediction": 0.00224106380110383,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0747724317295189,
   "metapath_contribution": {
     "CbGaD": 0.5871719976867585,
     "CbGbCtD": 0.16016417567279354,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18952543229705385,
     "CrCbGaD": 0.003521026670455938
   },
+  "n_trials": 0.0,
   "prediction": 0.000746510997950684,
   "status": 0,
   "training_prediction": 0.0158785530547088

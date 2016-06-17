@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08828",
   "compound_name": "Vismodegib",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.5851755526658001,
   "metapath_contribution": {
     "CbGaD": 0.3125705541474952,
     "CbGbCtD": 0.4575945296937408,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10805163994431101,
     "CrCbGaD": 0.0031389887435234174
   },
+  "n_trials": 0.0,
   "prediction": 0.00413050937791248,
   "status": 0,
   "training_prediction": 0.0199573717478775

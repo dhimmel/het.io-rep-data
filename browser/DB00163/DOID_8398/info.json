@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00163",
   "compound_name": "Vitamin E",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.8170403115373344,
     "CbGeAlD": 0.0588004690559891,
     "CbGpPWpGaD": 0.11549911953040512,
     "CrCbGaD": 0.008660099876271452
   },
+  "n_trials": 1.0,
   "prediction": 0.00478762612114637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

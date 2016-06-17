@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.341352405721716,
   "metapath_contribution": {
     "CbGaD": 0.03974650254955763,
     "CbGeAlD": 0.40277643572357413,
     "CbGpPWpGaD": 0.5459343606853173,
     "CrCbGaD": 0.011542701041550902
   },
+  "n_trials": 0.0,
   "prediction": 0.00124224765326979,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

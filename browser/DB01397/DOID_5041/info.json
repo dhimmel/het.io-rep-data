@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8407022106631992,
   "metapath_contribution": {
     "CbGaD": 0.7959227462250931,
     "CbGbCtD": 0.12880192787300726,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.015660621290649202,
     "CrCbGaD": 0.0075423302253677885
   },
+  "n_trials": 0.0,
   "prediction": 0.00240201948077957,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

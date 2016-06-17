@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.472041612483745,
   "metapath_contribution": {
     "CbGbCtD": 0.5154188413459375,
     "CbGeAlD": 0.0045999544327425465,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16673881548402458,
     "CrCrCtD": 0.2929035906937361
   },
+  "n_trials": 0.0,
   "prediction": 0.00168541481849112,
   "status": 0,
   "training_prediction": 0.00401571086547285

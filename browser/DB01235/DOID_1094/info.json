@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
     "CbGaD": 0.8109060579726599,
     "CbGeAlD": 0.049329652960209754,
     "CbGpPWpGaD": 0.1332538472124813,
     "CrCbGaD": 0.006510441854649052
   },
+  "n_trials": 0.0,
   "prediction": 0.00257615147236513,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

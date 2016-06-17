@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.16319895968790601,
   "metapath_contribution": {
     "CbGbCtD": 0.5101202515655331,
     "CbGeAlD": 0.0746451742175199,
     "CbGpPWpGaD": 0.14712312257735358,
     "CcSEcCtD": 0.2681114516395935
   },
+  "n_trials": 0.0,
   "prediction": 0.000945091166749236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00857",
   "compound_name": "Terbinafine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.7494562596508569,
     "CbGbCtD": 0.16939927682395167,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0026189755560835476,
     "CcSEcCtD": 0.07168641325436112
   },
+  "n_trials": 0.0,
   "prediction": 0.00373102672165289,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00231",
   "compound_name": "Temazepam",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.249024707412224,
   "metapath_contribution": {
     "CbGbCtD": 0.1187307598387255,
     "CbGeAlD": 0.21574970058074977,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5673087371822659,
     "CrCbGaD": 0.0035335071282188
   },
+  "n_trials": 0.0,
   "prediction": 0.0010220346995830699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

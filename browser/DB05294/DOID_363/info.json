@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.284785435630689,
   "metapath_contribution": {
     "CbGaD": 0.34342822905449494,
     "CbGbCtD": 0.27949587391914454,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1172123843748325,
     "CrCbGaD": 0.0033815439898932796
   },
+  "n_trials": 0.0,
   "prediction": 0.00126200777433269,
   "status": 0,
   "training_prediction": 0.00230605810711005

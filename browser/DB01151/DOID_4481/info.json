@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.862158647594278,
   "metapath_contribution": {
     "CbGbCtD": 0.4342296616550369,
     "CbGeAlD": 0.019956189432436926,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09024420682425087,
     "CrCrCtD": 0.44988953234646933
   },
+  "n_trials": 0.0,
   "prediction": 0.00588542326471964,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:986",
   "disease_name": "alopecia areata",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGbCtD": 0.06557905873844581,
     "CbGdCrCtD": 0.00045499850575188744,
@@ -13,6 +15,7 @@
     "CrCtD": 0.17834987547464318,
     "CtDrD": 0.18170805621846747
   },
+  "n_trials": 1.0,
   "prediction": 0.153185907140884,
   "status": 0,
   "training_prediction": 0.35627286263812497

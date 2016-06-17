@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00178",
   "compound_name": "Ramipril",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.3044658012994173,
     "CbGbCtD": 0.25422282813499325,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.002731228930671094,
     "CrCrCtD": 0.31308337021326693
   },
+  "n_trials": 1.0,
   "prediction": 0.00970239541985331,
   "status": 0,
   "training_prediction": 0.0327364379740308

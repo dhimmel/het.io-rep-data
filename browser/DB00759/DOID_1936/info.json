@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.8198959687906371,
   "metapath_contribution": {
     "CbGaD": 0.2701422726148981,
     "CbGbCtD": 0.6416756147872087,
     "CbGpPWpGaD": 0.08128290394273958,
     "CrCbGaD": 0.006899208655153668
   },
+  "n_trials": 0.0,
   "prediction": 0.00313588702708978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

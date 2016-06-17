@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.325097529258778,
   "metapath_contribution": {
     "CbGaD": 0.15593725793837626,
     "CbGbCtD": 0.3538657213315815,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0015134204185951845,
     "CrCrCtD": 0.2521784576227175
   },
+  "n_trials": 0.0,
   "prediction": 0.00252393712360069,
   "status": 0,
   "training_prediction": 0.117850894798859

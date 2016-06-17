@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04552",
   "compound_name": "Niflumic Acid",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.882314694408322,
   "metapath_contribution": {
     "CbGaD": 0.35255709533256474,
     "CbGbCtD": 0.5859387078459498,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.04134482010475163,
     "CrCbGaD": 0.002385490752680518
   },
+  "n_trials": 0.0,
   "prediction": 0.00524846817336656,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

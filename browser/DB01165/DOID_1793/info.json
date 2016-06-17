@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.36215864759427796,
   "metapath_contribution": {
     "CbGbCtD": 0.7176990684839705,
     "CbGdCrCtD": 0.004774529361700509,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.001956248954026099,
     "CcSEcCtD": 0.26440202292959625
   },
+  "n_trials": 0.0,
   "prediction": 0.0014324100003913801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

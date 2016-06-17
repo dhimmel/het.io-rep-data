@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.17647058823529396,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0682704811443433,
   "metapath_contribution": {
     "CbGbCtD": 0.6652399639084675,
     "CbGeAlD": 0.03312883376527352,
     "CbGpPWpGaD": 0.2930907109969402,
     "CrCbGaD": 0.00854049132931888
   },
+  "n_trials": 0.0,
   "prediction": 0.000739114366592264,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

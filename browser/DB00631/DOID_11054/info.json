@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.18872846146351396,
     "CbGbCtD": 0.19693356937135786,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0010883383539979639,
     "CrCrCtD": 0.13097943286245112
   },
+  "n_trials": 0.0,
   "prediction": 0.0245721673831976,
   "status": 0,
   "training_prediction": 0.0607826767162299

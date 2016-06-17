@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00640",
   "compound_name": "Adenosine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.392717815344603,
   "metapath_contribution": {
     "CbGbCtD": 0.8471277368298104,
     "CbGeAlD": 0.05133280450026431,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05326699437139301,
     "CrCbGaD": 0.01006957603104452
   },
+  "n_trials": 0.0,
   "prediction": 0.00136401223727248,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

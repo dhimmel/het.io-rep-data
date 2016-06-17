@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00145",
   "compound_name": "Glycine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGaD": 0.5685911806109859,
     "CbGdCrCtD": 0.0037649171502991247,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09822996853661076,
     "CrCbGaD": 0.004510282058068753
   },
+  "n_trials": 0.0,
   "prediction": 0.00262125053697255,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

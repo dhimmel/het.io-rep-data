@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.249674902470741,
   "metapath_contribution": {
     "CbGaD": 0.5406823138112229,
     "CbGbCtD": 0.26120031578502045,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11173076167849987,
     "CrCbGaD": 0.0041519568332836895
   },
+  "n_trials": 0.0,
   "prediction": 0.00114240860827592,
   "status": 0,
   "training_prediction": 0.003907897466944111

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.1101657218626027,
     "CbGdCrCtD": 0.0008141580874448889,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.19245094490523026,
     "CrCtD": 0.2991363152504752
   },
+  "n_trials": 0.0,
   "prediction": 0.0601162536522954,
   "status": 0,
   "training_prediction": 0.11467596650848501

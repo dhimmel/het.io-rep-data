@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00815",
   "compound_name": "Sodium lauryl sulfate",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5747724317295191,
   "metapath_contribution": {
     "CbGbCtD": 0.6064860243384869,
     "CbGpPWpGaD": 0.02849559865462414,
     "CcSEcCtD": 0.3621012907643841,
     "CrCbGaD": 0.002917086242504811
   },
+  "n_trials": 0.0,
   "prediction": 0.0026197716613133603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

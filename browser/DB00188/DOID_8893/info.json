@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGbCtD": 0.5301695070467299,
     "CbGdCrCtD": 0.005698516706035739,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.27166493484409965,
     "CrCbGaD": 0.0004853670440454075
   },
+  "n_trials": 0.0,
   "prediction": 0.00353610305505086,
   "status": 0,
   "training_prediction": 0.0148847543887237

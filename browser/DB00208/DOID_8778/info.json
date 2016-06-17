@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.47941901165072426,
     "CbGbCtD": 0.3806893515430978,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.020801417312029873,
     "CcSEcCtD": 0.07502632181219727
   },
+  "n_trials": 0.0,
   "prediction": 0.00291801044927659,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

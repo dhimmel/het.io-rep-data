@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.5886708237364215,
     "CbGeAlD": 0.20072970046829242,
     "CbGpPWpGaD": 0.20744316811650537,
     "CrCbGaD": 0.0031563076787806134
   },
+  "n_trials": 0.0,
   "prediction": 0.0029586891292485698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

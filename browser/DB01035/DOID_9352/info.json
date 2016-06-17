@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.809492847854356,
   "metapath_contribution": {
     "CbGaD": 0.2789966058972243,
     "CbGbCtD": 0.1265723075758835,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002618376558009147,
     "CrCrCtD": 0.3960203807053826
   },
+  "n_trials": 0.0,
   "prediction": 0.00534146422378322,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

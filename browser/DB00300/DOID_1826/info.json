@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.542912873862159,
   "metapath_contribution": {
     "CbGaD": 0.2688368690724945,
     "CbGbCtD": 0.3848203183129118,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1978920821920067,
     "CrCbGaD": 0.005561550163019076
   },
+  "n_trials": 0.0,
   "prediction": 0.00370068422653137,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

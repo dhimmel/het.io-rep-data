@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00762",
   "compound_name": "Irinotecan",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGbCtD": 0.15403820223650852,
     "CbGeAlD": 0.0163746100962079,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.07090819032807127,
     "CiPCiCtD": 0.7313323778070014
   },
+  "n_trials": 22.0,
   "prediction": 0.00322661725064122,
   "status": 0,
   "training_prediction": 0.0229390492330896

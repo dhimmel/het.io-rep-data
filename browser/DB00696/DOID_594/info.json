@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.7755452535731845,
     "CbGeAlD": 0.05763982844970161,
     "CbGpPWpGaD": 0.15916625631061898,
     "CrCbGaD": 0.0076486616664948725
   },
+  "n_trials": 0.0,
   "prediction": 0.0033262500737826603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

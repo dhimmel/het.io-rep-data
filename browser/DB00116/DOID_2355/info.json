@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.7919375812743821,
   "metapath_contribution": {
     "CbGaD": 0.5131813359768717,
     "CbGeAlD": 0.18522963017767388,
     "CbGpPWpGaD": 0.29127830166936275,
     "CrCbGaD": 0.010310732176091722
   },
+  "n_trials": 0.0,
   "prediction": 0.0019324911354861,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

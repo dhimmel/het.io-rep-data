@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00215",
   "compound_name": "Citalopram",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.7151147554174379,
     "CbGeAlD": 0.023158667000374725,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12322785911047185,
     "CrCbGaD": 0.006640649554159097
   },
+  "n_trials": 1.0,
   "prediction": 0.00255543181010823,
   "status": 0,
   "training_prediction": 0.0011527496344477099

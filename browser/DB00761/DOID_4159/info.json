@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00761",
   "compound_name": "Potassium Chloride",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.7765240697548078,
     "CbGeAlD": 0.04738284091238858,
     "CbGpPWpGaD": 0.11861224101088894,
     "CcSEcCtD": 0.05748084832191468
   },
+  "n_trials": 0.0,
   "prediction": 0.006027592882889479,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

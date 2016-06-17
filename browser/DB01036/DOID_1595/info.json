@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.683355006501951,
   "metapath_contribution": {
     "CbGaD": 0.82339174173952,
     "CbGeAlD": 0.03868101939836976,
     "CbGpPWpGaD": 0.12991986444092896,
     "CrCbGaD": 0.00800737442118137
   },
+  "n_trials": 0.0,
   "prediction": 0.00187327999610745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

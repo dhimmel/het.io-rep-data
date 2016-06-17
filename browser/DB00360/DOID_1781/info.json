@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00360",
   "compound_name": "Tetrahydrobiopterin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.4183437016120893,
     "CbGbCtD": 0.397292541175448,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.086708954820209,
     "CcSEcCtD": 0.08364617231748353
   },
+  "n_trials": 0.0,
   "prediction": 0.00535937325849262,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

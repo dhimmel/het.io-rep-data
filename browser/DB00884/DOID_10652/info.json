@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00884",
   "compound_name": "Risedronate",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.4882964889466839,
   "metapath_contribution": {
     "CbGaD": 0.5711110339770625,
     "CbGeAlD": 0.01309531027441497,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.34641727652914345,
     "CrCbGaD": 0.004214361562376401
   },
+  "n_trials": 0.0,
   "prediction": 0.00181694857433067,
   "status": 0,
   "training_prediction": 0.0036727118435487703

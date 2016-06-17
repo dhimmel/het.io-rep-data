@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.340702210663199,
   "metapath_contribution": {
     "CbGbCtD": 0.48879937661377726,
     "CbGeAlD": 0.0010538091776182332,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3835321149830158,
     "CrCbGaD": 0.006991909749596829
   },
+  "n_trials": 0.0,
   "prediction": 0.00126283123647282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

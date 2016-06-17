@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.29518855656696996,
   "metapath_contribution": {
     "CbGaD": 0.4113251239195164,
     "CbGbCtD": 0.3939179204402919,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.09363094557997921,
     "CrCbGaD": 0.003859269825036188
   },
+  "n_trials": 0.0,
   "prediction": 0.00172357610416014,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

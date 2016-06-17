@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00578",
   "compound_name": "Carbenicillin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.29713914174252304,
   "metapath_contribution": {
     "CbGaD": 0.5496677670597814,
     "CbGbCtD": 0.2662920987380028,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.11142337089256389,
     "CrCbGaD": 0.0017932192291946298
   },
+  "n_trials": 0.0,
   "prediction": 0.00162406427625224,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

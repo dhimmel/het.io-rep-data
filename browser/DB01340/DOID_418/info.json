@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.16995615442031312,
     "CbGbCtD": 0.20151442854848933,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2342811879564336,
     "CrCtD": 0.3294761211075894
   },
+  "n_trials": 0.0,
   "prediction": 0.0368073108821514,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

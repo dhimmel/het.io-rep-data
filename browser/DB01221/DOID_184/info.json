@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.6984064038621499,
     "CbGbCtD": 0.11162767069635582,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13421309895773978,
     "CcSEcCtD": 0.04681492667609753
   },
+  "n_trials": 0.0,
   "prediction": 0.00317920113235915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

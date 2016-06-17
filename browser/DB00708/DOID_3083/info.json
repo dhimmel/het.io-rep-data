@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.393368010403121,
   "metapath_contribution": {
     "CbGbCtD": 0.6510153100838485,
     "CbGpPWpGaD": 0.0419164874554021,
     "CcSEcCtD": 0.3059210555510082,
     "CrCbGaD": 0.0011471469097412983
   },
+  "n_trials": 0.0,
   "prediction": 0.00186218813199905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

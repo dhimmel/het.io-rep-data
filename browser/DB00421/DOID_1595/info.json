@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.46684005201560497,
   "metapath_contribution": {
     "CbGaD": 0.8277879008011844,
     "CbGeAlD": 0.09963650260763635,
     "CbGpPWpGaD": 0.06410511495586478,
     "CrCbGaD": 0.008470481635314511
   },
+  "n_trials": 1.0,
   "prediction": 0.00144770378004009,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

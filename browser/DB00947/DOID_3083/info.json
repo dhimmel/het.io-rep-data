@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00947",
   "compound_name": "Fulvestrant",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.35370611183354994,
   "metapath_contribution": {
     "CbGbCtD": 0.3260408513423237,
     "CbGeAlD": 0.05927578512582666,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.39252145997907967,
     "CrCbGaD": 0.0050442600287508325
   },
+  "n_trials": 0.0,
   "prediction": 0.00173179810787947,
   "status": 0,
   "training_prediction": 0.0038152898391125797

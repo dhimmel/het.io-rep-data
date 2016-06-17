@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGbCtD": 0.037869850342500476,
     "CbGeAlD": 0.022159251868795825,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.5461654290525292,
     "CtDrD": 0.3649179361922531
   },
+  "n_trials": 0.0,
   "prediction": 0.0104212676711991,
   "status": 0,
   "training_prediction": 0.0263416040047173

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00944",
   "compound_name": "Demecarium",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.646944083224967,
   "metapath_contribution": {
     "CbGbCtD": 0.905218254785159,
     "CbGeAlD": 0.0291960953143603,
     "CbGpPWpGaD": 0.06319118429352037,
     "CrCbGaD": 0.0023944656069603094
   },
+  "n_trials": 0.0,
   "prediction": 0.00231664017319571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

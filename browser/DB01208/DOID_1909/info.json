@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.591677503250975,
   "metapath_contribution": {
     "CbGaD": 0.3428530840745445,
     "CbGbCtD": 0.4220793670790321,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18838158058072865,
     "CrCbGaD": 0.0007679376163730324
   },
+  "n_trials": 0.0,
   "prediction": 0.0016541522031685199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

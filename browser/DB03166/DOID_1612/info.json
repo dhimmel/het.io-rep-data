@@ -1,15 +1,17 @@
 {
   "compound_id": "DB03166",
   "compound_name": "Acetic acid",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.41677503250975295,
   "metapath_contribution": {
     "CbGbCtD": 0.5080217966059103,
     "CbGeAlD": 0.13631897198239623,
     "CbGpPWpGaD": 0.2997733799547553,
     "CrCbGaD": 0.05588585145693816
   },
+  "n_trials": 0.0,
   "prediction": 0.00205132004794318,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

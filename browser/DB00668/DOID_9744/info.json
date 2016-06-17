@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.58257477243173,
   "metapath_contribution": {
     "CbGaD": 0.7883395411960823,
     "CbGeAlD": 0.017433315173363842,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0031801907212494623,
     "CrCbGaD": 0.006853419157288546
   },
+  "n_trials": 0.0,
   "prediction": 0.0015638796928904401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

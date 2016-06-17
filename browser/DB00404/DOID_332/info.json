@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.34460338101430393,
   "metapath_contribution": {
     "CbGeAlD": 0.10419070649085785,
     "CbGpPWpGaD": 0.14760074504188672,
     "CcSEcCtD": 0.74103613138198,
     "CrCbGaD": 0.007172417085275428
   },
+  "n_trials": 0.0,
   "prediction": 0.00103617356316156,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

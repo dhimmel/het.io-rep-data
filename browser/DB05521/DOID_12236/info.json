@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.849804941482445,
   "metapath_contribution": {
     "CbGaD": 0.4248254396181114,
     "CbGbCtD": 0.1928524280487971,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1957816543054448,
     "CcSEcCtD": 0.11045877572406387
   },
+  "n_trials": 0.0,
   "prediction": 0.00290911772029275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

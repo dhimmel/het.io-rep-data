@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01337",
   "compound_name": "Pancuronium",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.8877293616474571,
     "CbGeAlD": 0.03532103404729793,
     "CbGpPWpGaD": 0.07648720190202421,
     "CrCbGaD": 0.0004624024032208225
   },
+  "n_trials": 0.0,
   "prediction": 0.0027536720460270103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

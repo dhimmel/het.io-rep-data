@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00193",
   "compound_name": "Tramadol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.22599851756944445,
     "CbGbCtD": 0.2603826746027837,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.2880315792544375,
     "CrCbGaD": 0.0026756020958177747
   },
+  "n_trials": 0.0,
   "prediction": 0.0104893297311759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8335500650195059,
   "metapath_contribution": {
     "CbGaD": 0.2619814621959169,
     "CbGbCtD": 0.5030491421762138,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1727122474844868,
     "CrCbGaD": 0.002818431062999392
   },
+  "n_trials": 1.0,
   "prediction": 0.00573781491497206,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.10598179453836201,
   "metapath_contribution": {
     "CbGbCtD": 0.6883908875235647,
     "CbGeAlD": 0.033037512936351425,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2717175286186936,
     "CrCbGaD": 0.0008539086330690261
   },
+  "n_trials": 0.0,
   "prediction": 0.00118519879176264,
   "status": 0,
   "training_prediction": 0.0226245226721436

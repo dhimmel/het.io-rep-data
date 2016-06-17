@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.514304291287386,
   "metapath_contribution": {
     "CbGaD": 0.2299673127027089,
     "CbGbCtD": 0.5135534958780759,
@@ -14,6 +16,5 @@
     "CrCbGaD": 0.0023856113759220562
   },
   "prediction": 0.00410748536800012,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

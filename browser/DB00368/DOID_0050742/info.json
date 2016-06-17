@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.695058517555267,
   "metapath_contribution": {
     "CbGaD": 0.8407403431686212,
     "CbGeAlD": 0.014241937485307114,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0039972176449546695,
     "CrCbGaD": 0.002020866234756356
   },
+  "n_trials": 0.0,
   "prediction": 0.0019373624145072102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

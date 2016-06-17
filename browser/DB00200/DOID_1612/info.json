@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.830949284785436,
   "metapath_contribution": {
     "CbGaD": 0.5317782117978842,
     "CbGeAlD": 0.08889453973221079,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17279706059122754,
     "CrCbGaD": 0.0052796765193281565
   },
+  "n_trials": 1.0,
   "prediction": 0.00516367024002919,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.91222366710013,
   "metapath_contribution": {
     "CbGaD": 0.19125011042920442,
     "CbGbCtD": 0.1552508359634064,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.16775653567162122,
     "CrCtD": 0.1785534140443378
   },
+  "n_trials": 0.0,
   "prediction": 0.0274619107193563,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

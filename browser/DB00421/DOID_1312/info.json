@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGbCtD": 0.2494623877265278,
     "CbGeAlD": 0.013098382001792,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.007271436091928637,
     "CtDrD": 0.7134691915583298
   },
+  "n_trials": 0.0,
   "prediction": 0.0032092607899757,
   "status": 0,
   "training_prediction": 0.0024148205072281603

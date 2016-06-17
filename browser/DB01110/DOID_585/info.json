@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGbCtD": 0.8783878207869764,
     "CbGeAlD": 0.07241081368164903,
     "CbGpPWpGaD": 0.01713253484026396,
     "CcSEcCtD": 0.03206883069111053
   },
+  "n_trials": 0.0,
   "prediction": 0.00260511781970946,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

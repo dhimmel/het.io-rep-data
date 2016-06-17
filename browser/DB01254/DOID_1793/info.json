@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.21555024183740829,
     "CbGbCtD": 0.5066403047161451,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1268344567610091,
     "CcSEcCtD": 0.11753776635976296
   },
+  "n_trials": 0.0,
   "prediction": 0.0105530456327988,
   "status": 0,
   "training_prediction": 0.0248388925036587

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01039",
   "compound_name": "Fenofibrate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.2734724249402556,
     "CbGbCtD": 0.17016207318153623,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0027233494077363554,
     "CtDrD": 0.4450173572558666
   },
+  "n_trials": 4.0,
   "prediction": 0.0153616696521972,
   "status": 0,
   "training_prediction": 0.0248387505954019

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01624",
   "compound_name": "Zuclopenthixol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.539011703511053,
   "metapath_contribution": {
     "CbGaD": 0.315400104180182,
     "CbGbCtD": 0.36276224472568547,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0037837920155725235,
     "CrCrCtD": 0.055733928577360634
   },
+  "n_trials": 0.0,
   "prediction": 0.00430726179451661,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

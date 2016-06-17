@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.7607282184655401,
   "metapath_contribution": {
     "CbGaD": 0.132599348030796,
     "CbGbCtD": 0.3800994417721298,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.17130864802014692,
     "CrCbGaD": 0.00039692183628756145
   },
+  "n_trials": 0.0,
   "prediction": 0.00217275142653119,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

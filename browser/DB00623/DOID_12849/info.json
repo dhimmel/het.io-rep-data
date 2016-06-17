@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00623",
   "compound_name": "Fluphenazine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.25032509752925897,
   "metapath_contribution": {
     "CbGaD": 0.6931806016219408,
     "CbGeAlD": 0.11083843718409025,
     "CbGpPWpGaD": 0.18932597149091487,
     "CrCbGaD": 0.006654989703054011
   },
+  "n_trials": 0.0,
   "prediction": 0.000942484138421598,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

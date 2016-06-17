@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.6430429128738621,
   "metapath_contribution": {
     "CbGaD": 0.889743305033992,
     "CbGpPWpGaD": 0.08051601654609246,
     "CcSEcCtD": 0.022744700710674425,
     "CrCbGaD": 0.0069959777092410335
   },
+  "n_trials": 0.0,
   "prediction": 0.00169380543573395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

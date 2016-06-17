@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01221",
   "compound_name": "Ketamine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGbCtD": 0.8581410883905557,
     "CbGeAlD": 0.022328115593958073,
     "CbGpPWpGaD": 0.04991519691857011,
     "CcSEcCtD": 0.06961559909691607
   },
+  "n_trials": 0.0,
   "prediction": 0.0031074676143578303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

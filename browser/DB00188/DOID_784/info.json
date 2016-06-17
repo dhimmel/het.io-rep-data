@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.7058720918751987,
     "CbGeAlD": 0.10735014921343114,
     "CbGpPWpGaD": 0.1857605377236881,
     "CrCbGaD": 0.0010172211876820327
   },
+  "n_trials": 0.0,
   "prediction": 0.00303460633966387,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

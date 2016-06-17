@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.756176853055917,
   "metapath_contribution": {
     "CbGaD": 0.1483354415199264,
     "CbGbCtD": 0.2528916419540003,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.18844136572238884,
     "CrCtD": 0.27264801026406466
   },
+  "n_trials": 0.0,
   "prediction": 0.008356219590476341,
   "status": 0,
   "training_prediction": 0.143319064515208

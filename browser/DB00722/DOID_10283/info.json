@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00722",
   "compound_name": "Lisinopril",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6020806241872559,
   "metapath_contribution": {
     "CbGaD": 0.37608381126931495,
     "CbGbCtD": 0.26776927123198985,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.23914106929244267,
     "CrCbGaD": 0.004193624628397898
   },
+  "n_trials": 0.0,
   "prediction": 0.00276662362343569,
   "status": 0,
   "training_prediction": 0.0326251718809238

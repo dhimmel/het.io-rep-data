@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.327698309492848,
   "metapath_contribution": {
     "CbGbCtD": 0.6303573208147587,
     "CbGdCrCtD": 0.00773211444245153,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.18542436144933325,
     "CcSEcCtD": 0.10940497553628754
   },
+  "n_trials": 0.0,
   "prediction": 0.00116800556573529,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

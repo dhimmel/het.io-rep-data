@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.24707412223667105,
   "metapath_contribution": {
     "CbGaD": 0.045362090203768156,
     "CbGbCtD": 0.5279983339561658,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21204779562308382,
     "CrCbGaD": 0.0006509508552240494
   },
+  "n_trials": 0.0,
   "prediction": 0.00137444041710535,
   "status": 0,
   "training_prediction": 0.0123754078382429

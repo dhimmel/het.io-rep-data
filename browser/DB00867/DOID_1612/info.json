@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00867",
   "compound_name": "Ritodrine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.338101430429129,
   "metapath_contribution": {
     "CbGbCtD": 0.18777264615188063,
     "CbGeAlD": 0.0363716356914914,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.006815167973584078,
     "CrCrCtD": 0.652592545701385
   },
+  "n_trials": 0.0,
   "prediction": 0.0017570697436715599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01359",
   "compound_name": "Penbutolol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.23548341429668132,
     "CbGdCrCtD": 0.000714493503852575,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.2734941018367235,
     "CrCtD": 0.43903678148266884
   },
+  "n_trials": 0.0,
   "prediction": 0.0380202825633286,
   "status": 0,
   "training_prediction": 0.219404281719428

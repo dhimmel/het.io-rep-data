@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00686",
   "compound_name": "Pentosan Polysulfate",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.719897673137158,
     "CbGeAlD": 0.051778263548928186,
     "CbGpPWpGaD": 0.19962704257206865,
     "CcSEcCtD": 0.028697020741845117
   },
+  "n_trials": 0.0,
   "prediction": 0.00530848160129566,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

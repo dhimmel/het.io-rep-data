@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.180104031209363,
   "metapath_contribution": {
     "CbGaD": 0.53020041357599,
     "CbGbCtD": 0.2087369790722874,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11509535731071466,
     "CrCbGaD": 0.0014660897805426965
   },
+  "n_trials": 0.0,
   "prediction": 0.0008939358042589189,
   "status": 0,
   "training_prediction": 0.0143350327879026

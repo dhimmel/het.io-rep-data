@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00637",
   "compound_name": "Astemizole",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.508452535760728,
   "metapath_contribution": {
     "CbGaD": 0.3651957871864822,
     "CbGbCtD": 0.5283668464479956,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08969429140254369,
     "CrCbGaD": 0.0010040127589214607
   },
+  "n_trials": 0.0,
   "prediction": 0.00239040743475306,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGaD": 0.7981598415118213,
     "CbGeAlD": 0.10505696964188121,
     "CbGpPWpGaD": 0.08909760259587629,
     "CrCbGaD": 0.007685586250421228
   },
+  "n_trials": 0.0,
   "prediction": 0.00175614871990581,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

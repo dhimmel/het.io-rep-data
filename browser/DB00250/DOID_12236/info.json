@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGbCtD": 0.26298177505128495,
     "CbGpPWpGaD": 0.0180749124527836,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0010771957786611546,
     "CtDrD": 0.7065358571157997
   },
+  "n_trials": 0.0,
   "prediction": 0.0035318674082634397,
   "status": 0,
   "training_prediction": 0.00787849750217785

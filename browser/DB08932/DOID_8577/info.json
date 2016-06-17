@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08932",
   "compound_name": "MACITENTAN",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.849804941482445,
   "metapath_contribution": {
     "CbGaD": 0.42852034542546064,
     "CbGbCtD": 0.4253242038231738,
     "CbGpPWpGaD": 0.08443107575205173,
     "CcSEcCtD": 0.061724374999313894
   },
+  "n_trials": 0.0,
   "prediction": 0.00428941483800045,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

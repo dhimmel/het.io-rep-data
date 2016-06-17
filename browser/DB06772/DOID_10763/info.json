@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.201560468140442,
   "metapath_contribution": {
     "CbGaD": 0.17248888043687752,
     "CbGbCtD": 0.4939394114310762,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.19173195497788423,
     "CrCbGaD": 0.003917103385716895
   },
+  "n_trials": 0.0,
   "prediction": 0.00186388440592835,
   "status": 0,
   "training_prediction": 0.0218489437023483

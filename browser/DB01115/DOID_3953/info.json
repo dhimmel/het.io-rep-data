@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.17990872432778626,
     "CbGeAlD": 0.03811571885901422,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.001187857273556441,
     "CtDrD": 0.7122790189807972
   },
+  "n_trials": 0.0,
   "prediction": 0.0026871132572571198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

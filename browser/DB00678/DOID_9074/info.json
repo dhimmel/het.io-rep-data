@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.795838751625488,
   "metapath_contribution": {
     "CbGaD": 0.30522368783389314,
     "CbGbCtD": 0.5051757549341528,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10787348131744975,
     "CrCbGaD": 0.0009253969796413365
   },
+  "n_trials": 0.0,
   "prediction": 0.0031637733661302,
   "status": 0,
   "training_prediction": 0.0206361572154292

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06144",
   "compound_name": "Sertindole",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7301690507152149,
   "metapath_contribution": {
     "CbGaD": 0.1045705829878262,
     "CbGbCtD": 0.27330782407210746,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0006992684546730819,
     "CrCrCtD": 0.4528417543566987
   },
+  "n_trials": 0.0,
   "prediction": 0.00380669824434881,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

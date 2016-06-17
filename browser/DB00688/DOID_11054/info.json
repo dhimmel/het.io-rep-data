@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGaD": 0.398638547693753,
     "CbGbCtD": 0.31750667518852094,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12831150244642062,
     "CrCbGaD": 0.004285342414373842
   },
+  "n_trials": 0.0,
   "prediction": 0.00337672319702464,
   "status": 0,
   "training_prediction": 0.019399433087668998

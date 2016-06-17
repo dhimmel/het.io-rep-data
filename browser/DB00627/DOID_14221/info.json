@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGeAlD": 0.05207642032192119,
     "CbGpPWpGaD": 0.06513613468205874,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.00041564354809056343,
     "CtDrD": 0.8696694907036725
   },
+  "n_trials": 6.0,
   "prediction": 0.00601685604906093,
   "status": 0,
   "training_prediction": 0.004530565179275

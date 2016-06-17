@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGbCtD": 0.3211579256001197,
     "CbGeAlD": 0.00038084940160242606,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.12621879145504947,
     "CpDpCtD": 0.5211221643376028
   },
+  "n_trials": 0.0,
   "prediction": 0.00554205288575743,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

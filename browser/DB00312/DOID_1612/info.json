@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.551365409622887,
   "metapath_contribution": {
     "CbGaD": 0.1495996418357908,
     "CbGbCtD": 0.5417768505536464,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15564391669216385,
     "CrCbGaD": 0.0010742128472149028
   },
+  "n_trials": 0.0,
   "prediction": 0.0026193850691015397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.583224967490247,
   "metapath_contribution": {
     "CbGaD": 0.716666170646186,
     "CbGeAlD": 0.10176731707070602,
     "CbGpPWpGaD": 0.17819835258154587,
     "CrCbGaD": 0.003368159701562266
   },
+  "n_trials": 0.0,
   "prediction": 0.0017591648099066699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

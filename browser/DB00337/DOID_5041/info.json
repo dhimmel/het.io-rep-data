@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00337",
   "compound_name": "Pimecrolimus",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.6079323797139139,
   "metapath_contribution": {
     "CbGaD": 0.844393662278764,
     "CbGeAlD": 0.024950916993031824,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.03661349729242512,
     "CrCbGaD": 0.007920782202643513
   },
+  "n_trials": 0.0,
   "prediction": 0.00170279618465599,
   "status": 0,
   "training_prediction": 0.00206675019645169

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01165",
   "compound_name": "Ofloxacin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.6788036410923279,
   "metapath_contribution": {
     "CbGbCtD": 0.7238874000471994,
     "CbGdCrCtD": 0.005883000922929661,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24789908130283123,
     "CrCbGaD": 0.0022739671690700787
   },
+  "n_trials": 0.0,
   "prediction": 0.0019416165416421699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

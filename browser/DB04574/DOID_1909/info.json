@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04574",
   "compound_name": "Estropipate",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
     "CbGaD": 0.258666416005017,
     "CbGbCtD": 0.4772280693449053,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.15123263903145495,
     "CrCbGaD": 0.0056739602412395245
   },
+  "n_trials": 0.0,
   "prediction": 0.0014654615902185,
   "status": 0,
   "training_prediction": 0.0026773766478835896

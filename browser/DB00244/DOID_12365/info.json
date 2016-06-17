@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.299089726918075,
   "metapath_contribution": {
     "CbGbCtD": 0.4676975841497963,
     "CbGeAlD": 0.1056462715303812,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.27570119441091656,
     "CrCbGaD": 0.0040136580221080305
   },
+  "n_trials": 0.0,
   "prediction": 0.00156940711525733,
   "status": 0,
   "training_prediction": 0.00669016125194854

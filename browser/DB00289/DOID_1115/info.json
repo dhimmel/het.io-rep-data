@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.0676202860858258,
   "metapath_contribution": {
     "CbGbCtD": 0.020060506545607277,
     "CbGeAlD": 0.405568580723976,
     "CcSEcCtD": 0.567399348534866,
     "CrCbGaD": 0.006971564195550667
   },
+  "n_trials": 0.0,
   "prediction": 0.0007280702359012019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

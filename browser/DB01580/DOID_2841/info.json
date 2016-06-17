@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01580",
   "compound_name": "Oxprenolol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8257477243172952,
   "metapath_contribution": {
     "CbGaD": 0.22696640136785115,
     "CbGbCtD": 0.5278763550052972,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0023246042748395423,
     "CrCrCtD": 0.13909762188883246
   },
+  "n_trials": 0.0,
   "prediction": 0.00545593729315044,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

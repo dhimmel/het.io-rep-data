@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.325097529258778,
   "metapath_contribution": {
     "CbGaD": 0.6272408484610251,
     "CbGdCrCtD": 0.007149385167788277,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16826034813780633,
     "CrCbGaD": 0.008133201650895087
   },
+  "n_trials": 0.0,
   "prediction": 0.00165383021225849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

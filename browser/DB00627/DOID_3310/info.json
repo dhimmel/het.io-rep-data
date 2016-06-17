@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00627",
   "compound_name": "Niacin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.6573472041612479,
   "metapath_contribution": {
     "CbGbCtD": 0.34056922468375617,
     "CbGdCrCtD": 0.009588707353171829,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1729284080849463,
     "CcSEcCtD": 0.47505733468970873
   },
+  "n_trials": 0.0,
   "prediction": 0.00260569033863317,
   "status": 0,
   "training_prediction": 0.0147369412148516

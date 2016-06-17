@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.313394018205462,
   "metapath_contribution": {
     "CbGaD": 0.3525484926746464,
     "CbGbCtD": 0.3582186575585073,
@@ -13,6 +15,5 @@
     "CrCbGaD": 0.0028231233467444585
   },
   "prediction": 0.0015830455817276699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

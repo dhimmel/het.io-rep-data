@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.8029908972691808,
   "metapath_contribution": {
     "CbGaD": 0.8972735797663414,
     "CbGeAlD": 0.0845930076087654,
     "CbGpPWpGaD": 0.004880848167064087,
     "CrCbGaD": 0.013252564457829175
   },
+  "n_trials": 0.0,
   "prediction": 0.00180529359632612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

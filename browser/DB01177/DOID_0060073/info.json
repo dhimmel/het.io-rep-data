@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01177",
   "compound_name": "Idarubicin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGbCtD": 0.23008104382606057,
     "CbGdCrCtD": 0.0016894760710043169,
     "CcSEcCtD": 0.07195259163591053,
     "CiPCiCtD": 0.6962768884670246
   },
+  "n_trials": 2.0,
   "prediction": 0.007469871795672109,
   "status": 0,
   "training_prediction": 0.0269468255952057

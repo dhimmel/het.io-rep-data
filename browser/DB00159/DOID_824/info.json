@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:824",
   "disease_name": "periodontitis",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGaD": 0.7665875203700082,
     "CbGeAlD": 0.10929358884094115,
     "CbGpPWpGaD": 0.12138753717942241,
     "CrCbGaD": 0.0027313536096281697
   },
+  "n_trials": 0.0,
   "prediction": 0.00209551612371393,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

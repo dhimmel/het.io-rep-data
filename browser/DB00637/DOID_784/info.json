@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00637",
   "compound_name": "Astemizole",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.510403120936281,
   "metapath_contribution": {
     "CbGaD": 0.759575163967546,
     "CbGeAlD": 0.029016670262814244,
     "CbGpPWpGaD": 0.20621844265159156,
     "CrCbGaD": 0.005189723118048143
   },
+  "n_trials": 0.0,
   "prediction": 0.0015726732175057,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

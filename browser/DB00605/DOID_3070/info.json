@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.5881606995548864,
     "CbGbCtD": 0.05184697677185207,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.21670371856328918,
     "CcSEcCtD": 0.06762447907126365
   },
+  "n_trials": 0.0,
   "prediction": 0.00323329121204119,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

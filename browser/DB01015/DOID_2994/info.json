@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.43888166449934995,
   "metapath_contribution": {
     "CbGbCtD": 0.6575024060396744,
     "CbGeAlD": 0.13165589026207905,
     "CcSEcCtD": 0.2108417036982465
   },
+  "n_trials": 0.0,
   "prediction": 0.00149010490852355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

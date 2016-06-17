@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.5350596095422622,
     "CbGbCtD": 0.12316863545726821,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1420210489337886,
     "CrCbGaD": 0.0018054469486147354
   },
+  "n_trials": 0.0,
   "prediction": 0.00268785698136491,
   "status": 0,
   "training_prediction": 0.010628657097018001

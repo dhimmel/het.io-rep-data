@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00801",
   "compound_name": "Halazepam",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.7509493288628675,
     "CbGeAlD": 0.0666441281592469,
     "CbGpPWpGaD": 0.1748329575869292,
     "CrCbGaD": 0.007573585390956276
   },
+  "n_trials": 0.0,
   "prediction": 0.00410808954751578,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

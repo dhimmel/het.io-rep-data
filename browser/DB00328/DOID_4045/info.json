@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.20196012928505716,
     "CbGbCtD": 0.6386440096091176,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.07212150572083109,
     "CrCbGaD": 0.0019207549819167228
   },
+  "n_trials": 0.0,
   "prediction": 0.00284395667234116,
   "status": 0,
   "training_prediction": 0.00463483115395405

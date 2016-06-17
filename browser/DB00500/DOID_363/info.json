@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.6781534460338101,
   "metapath_contribution": {
     "CbGaD": 0.5847613710974359,
     "CbGbCtD": 0.25456245373419617,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07088804976591298,
     "CrCbGaD": 0.002312395119506599
   },
+  "n_trials": 0.0,
   "prediction": 0.00215661169078322,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

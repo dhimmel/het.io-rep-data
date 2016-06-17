@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00120",
   "compound_name": "L-Phenylalanine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.19370877533482933,
     "CbGeAlD": 0.03930877303326584,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.267028729752109,
     "CrCtD": 0.43929857842019415
   },
+  "n_trials": 0.0,
   "prediction": 0.0135287417570543,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

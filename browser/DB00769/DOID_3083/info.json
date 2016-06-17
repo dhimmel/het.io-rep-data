@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00769",
   "compound_name": "Hydrocortamate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGbCtD": 0.19984402807739962,
     "CbGpPWpGaD": 0.004007270441191043,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.31133496213667566,
     "CrCtD": 0.48458308850036136
   },
+  "n_trials": 0.0,
   "prediction": 0.00596938893337989,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

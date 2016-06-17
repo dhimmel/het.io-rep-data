@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.3180664885787506,
     "CbGbCtD": 0.5130091597821953,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05953016980115034,
     "CcSEcCtD": 0.10852802249141615
   },
+  "n_trials": 0.0,
   "prediction": 0.0102439294920397,
   "status": 0,
   "training_prediction": 0.10399370009250099

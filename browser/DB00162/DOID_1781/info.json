@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.0377113133940182,
   "metapath_contribution": {
     "CbGdCrCtD": 0.015189951976384635,
     "CbGeAlD": 0.4803545233091911,
     "CbGpPWpGaD": 0.46769630352145153,
     "CrCbGaD": 0.03675922119297268
   },
+  "n_trials": 0.0,
   "prediction": 0.000657045753254904,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00690",
   "compound_name": "Flurazepam",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.0812743823146944,
   "metapath_contribution": {
     "CbGbCtD": 0.13098357099329547,
     "CbGpPWpGaD": 0.30510059079769486,
     "CcSEcCtD": 0.5625514115950415,
     "CrCbGaD": 0.0013644266139682148
   },
+  "n_trials": 0.0,
   "prediction": 0.000939139613175142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

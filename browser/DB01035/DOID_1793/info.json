@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGbCtD": 0.09391068170748638,
     "CbGpPWpGaD": 0.022633904536667825,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.23889326511433456,
     "CrCtD": 0.608674156552643
   },
+  "n_trials": 0.0,
   "prediction": 0.00846095649152946,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

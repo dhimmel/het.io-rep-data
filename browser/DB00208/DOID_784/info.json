@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.7802141437632186,
     "CbGeAlD": 0.06662665270589957,
     "CbGpPWpGaD": 0.14705264350599234,
     "CrCbGaD": 0.006106560024889345
   },
+  "n_trials": 3.0,
   "prediction": 0.00235193183911481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

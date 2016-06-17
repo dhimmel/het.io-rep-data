@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5136540962288689,
   "metapath_contribution": {
-    "CbGaD": 0.3056420258990482,
-    "CbGbCtD": 0.4064240206661476,
-    "CbGeAlD": 0.013256495965512845,
-    "CbGpPWpGaD": 0.09513581106732424,
-    "CcSEcCtD": 0.1738773982092914,
-    "CrCbGaD": 0.00566424819267582
+    "CbGaD": 0.30564202589904815,
+    "CbGbCtD": 0.4064240206661475,
+    "CbGeAlD": 0.013256495965512843,
+    "CbGpPWpGaD": 0.09513581106732423,
+    "CcSEcCtD": 0.17387739820929138,
+    "CrCbGaD": 0.005664248192675819
   },
+  "n_trials": 0.0,
   "prediction": 0.0023437654196151398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08820",
   "compound_name": "Ivacaftor",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGaD": 0.48762031221192664,
     "CbGbCtD": 0.3377353366461483,
     "CbGeAlD": 0.008932019777684201,
     "CcSEcCtD": 0.1657123313642409
   },
+  "n_trials": 0.0,
   "prediction": 0.00229167842559611,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

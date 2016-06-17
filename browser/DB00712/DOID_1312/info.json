@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.3745123537061121,
   "metapath_contribution": {
     "CbGaD": 0.6194233961789247,
     "CbGbCtD": 0.17998874352887362,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1548304844144104,
     "CrCbGaD": 0.003251975584780754
   },
+  "n_trials": 0.0,
   "prediction": 0.00124458186006107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

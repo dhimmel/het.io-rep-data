@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06689",
   "compound_name": "Ethanolamine Oleate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.2600182952927036,
     "CbGbCtD": 0.048240898477484105,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.19660776621104958,
     "CrCtD": 0.4157203412076332
   },
+  "n_trials": 0.0,
   "prediction": 0.0272080916565731,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

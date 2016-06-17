@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00476",
   "compound_name": "Duloxetine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.20026007802340698,
   "metapath_contribution": {
     "CbGbCtD": 0.17497556768555647,
     "CbGeAlD": 0.047934351477856296,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.568061364029727,
     "CrCbGaD": 0.0016413363958178587
   },
+  "n_trials": 0.0,
   "prediction": 0.00103078930116611,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

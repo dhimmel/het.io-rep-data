@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01586",
   "compound_name": "Ursodeoxycholic acid",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7802340702210658,
   "metapath_contribution": {
     "CbGaD": 0.3860293248753265,
     "CbGbCtD": 0.30445369710272996,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18642578484904573,
     "CrCbGaD": 0.002613954487396601
   },
+  "n_trials": 2.0,
   "prediction": 0.004903538986556,
   "status": 0,
   "training_prediction": 0.0213270248710358

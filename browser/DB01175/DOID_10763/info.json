@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6853055916775029,
   "metapath_contribution": {
     "CbGaD": 0.35948508881657365,
     "CbGbCtD": 0.3717165437268382,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17470623110159234,
     "CrCbGaD": 0.003110354628174754
   },
+  "n_trials": 0.0,
   "prediction": 0.00659427830131902,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

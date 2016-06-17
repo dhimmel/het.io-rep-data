@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGaD": 0.31148051263130144,
     "CbGbCtD": 0.3457704728251921,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0031539127284954615,
     "CrCrCtD": 0.17446232799625033
   },
+  "n_trials": 0.0,
   "prediction": 0.00582980836635857,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.315344603381014,
   "metapath_contribution": {
     "CbGaD": 0.20836891656613293,
     "CbGbCtD": 0.5352055641699168,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19339187364505186,
     "CrCbGaD": 0.0020696557269763213
   },
+  "n_trials": 0.0,
   "prediction": 0.00245108199212072,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

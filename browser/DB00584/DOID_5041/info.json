@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.583875162548765,
   "metapath_contribution": {
     "CbGaD": 0.3750832850191905,
     "CbGbCtD": 0.38725920061502306,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14502807820804292,
     "CrCbGaD": 0.0027723627679883843
   },
+  "n_trials": 0.0,
   "prediction": 0.00166495746782643,
   "status": 0,
   "training_prediction": 0.00336600619287593

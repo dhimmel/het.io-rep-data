@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.1660850974461749,
     "CbGbCtD": 0.24943645189311836,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0018102564180340923,
     "CrCrCtD": 0.24786372449773547
   },
+  "n_trials": 0.0,
   "prediction": 0.00588192811584197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

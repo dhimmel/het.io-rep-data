@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.31924577373212,
   "metapath_contribution": {
     "CbGbCtD": 0.5213773864936216,
     "CbGeAlD": 0.007952349663404877,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.001566787087717605,
     "CrCrCtD": 0.29376150755424857
   },
+  "n_trials": 0.0,
   "prediction": 0.00186329994092648,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

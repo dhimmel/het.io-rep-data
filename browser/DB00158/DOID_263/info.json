@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.4369310793237971,
   "metapath_contribution": {
     "CbGbCtD": 0.659640143585908,
     "CbGdCrCtD": 0.0064115716323931106,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1272255937235189,
     "CcSEcCtD": 0.11816299791502646
   },
+  "n_trials": 1.0,
   "prediction": 0.0016211771695826,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

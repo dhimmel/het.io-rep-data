@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.301690507152146,
   "metapath_contribution": {
     "CbGaD": 0.2534240539444605,
     "CbGbCtD": 0.22306709006963557,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0716626336227019,
     "CrCbGaD": 0.0021607168081954355
   },
+  "n_trials": 0.0,
   "prediction": 0.0010759765719322199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

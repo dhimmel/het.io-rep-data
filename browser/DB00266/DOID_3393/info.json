@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00266",
   "compound_name": "Dicoumarol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.762028608582575,
   "metapath_contribution": {
     "CbGaD": 0.6186339673739345,
     "CbGbCtD": 0.26258137241675944,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07785398025297806,
     "CrCbGaD": 0.005106166612776204
   },
+  "n_trials": 0.0,
   "prediction": 0.0043356447248437706,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

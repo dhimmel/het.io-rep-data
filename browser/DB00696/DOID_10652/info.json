@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.575422626788036,
   "metapath_contribution": {
     "CbGaD": 0.2664179612163762,
     "CbGbCtD": 0.4359597185669989,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.047911549343846206,
     "CrCbGaD": 0.006155473755615581
   },
+  "n_trials": 0.0,
   "prediction": 0.00206915173103423,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

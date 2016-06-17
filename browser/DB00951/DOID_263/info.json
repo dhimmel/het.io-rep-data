@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00951",
   "compound_name": "Isoniazid",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8784135240572171,
   "metapath_contribution": {
     "CbGbCtD": 0.6976231194249081,
     "CbGeAlD": 0.07676116019196678,
     "CbGpPWpGaD": 0.07334346031974959,
     "CcSEcCtD": 0.15227226006337555
   },
+  "n_trials": 0.0,
   "prediction": 0.00408031803421678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

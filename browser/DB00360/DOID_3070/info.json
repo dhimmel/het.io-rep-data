@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00360",
   "compound_name": "Tetrahydrobiopterin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.5033269472042599,
     "CbGeAlD": 0.20803741880796114,
     "CbGpPWpGaD": 0.27603762747722865,
     "CcSEcCtD": 0.012598006510550262
   },
+  "n_trials": 0.0,
   "prediction": 0.0031705918687555397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

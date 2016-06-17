@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00296",
   "compound_name": "Ropivacaine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.6170351105331601,
   "metapath_contribution": {
     "CbGaD": 0.6662697798152,
     "CbGeAlD": 0.18427850676830118,
     "CbGpPWpGaD": 0.14506405664290833,
     "CrCbGaD": 0.004387656773590525
   },
+  "n_trials": 0.0,
   "prediction": 0.00163382778087396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

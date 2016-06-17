@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.1227647893087697,
     "CbGbCtD": 0.15931733925183836,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0008986503608704746,
     "CrCtD": 0.2967361103710355
   },
+  "n_trials": 73.0,
   "prediction": 0.143521281377167,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

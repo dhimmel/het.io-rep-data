@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00318",
   "compound_name": "Codeine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.788036410923277,
   "metapath_contribution": {
     "CbGbCtD": 0.7970650737593515,
     "CbGeAlD": 0.014847678930381317,
     "CbGpPWpGaD": 0.017033908819220123,
     "CcSEcCtD": 0.17105333849104712
   },
+  "n_trials": 0.0,
   "prediction": 0.004038008177298971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

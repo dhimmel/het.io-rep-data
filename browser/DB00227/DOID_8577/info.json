@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGaD": 0.5253581165756425,
     "CbGbCtD": 0.3321918196453059,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.07409271873109556,
     "CrCbGaD": 0.0008098530585838556
   },
+  "n_trials": 0.0,
   "prediction": 0.00427434052490326,
   "status": 0,
   "training_prediction": 0.0239874485853621

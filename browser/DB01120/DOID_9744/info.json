@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01120",
   "compound_name": "Gliclazide",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.4037390604218364,
     "CbGdCrCtD": 0.001631878344529852,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.004027482155652476,
     "CtDrD": 0.5087641999492719
   },
+  "n_trials": 0.0,
   "prediction": 0.00834782793588729,
   "status": 0,
   "training_prediction": 0.0037777286140982798

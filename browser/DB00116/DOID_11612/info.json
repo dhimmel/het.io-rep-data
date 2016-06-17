@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.600130039011703,
   "metapath_contribution": {
     "CbGaD": 0.6447697716332257,
     "CbGeAlD": 0.17145780497060875,
     "CbGpPWpGaD": 0.18154881816932095,
     "CrCbGaD": 0.002223605226844575
   },
+  "n_trials": 0.0,
   "prediction": 0.00160337736761256,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

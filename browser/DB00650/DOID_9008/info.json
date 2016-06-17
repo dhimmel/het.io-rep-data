@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGbCtD": 0.1557853707406501,
     "CbGdCrCtD": 0.0017363262384059457,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.32661281500376305,
     "CrCtD": 0.4937696049007342
   },
+  "n_trials": 0.0,
   "prediction": 0.0119052473844596,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:13223",
   "disease_name": "uterine fibroid",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGaD": 0.9128319297672065,
     "CbGeAlD": 0.06429609447698634,
     "CbGpPWpGaD": 0.02287197575580721
   },
+  "n_trials": 0.0,
   "prediction": 0.00227133685228419,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

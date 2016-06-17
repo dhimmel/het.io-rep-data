@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGaD": 0.1849644008660513,
     "CbGbCtD": 0.2850457882917662,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3388908859697744,
     "CrCbGaD": 0.0016515108888164268
   },
+  "n_trials": 4.0,
   "prediction": 0.0155351714687026,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8628088426527959,
   "metapath_contribution": {
     "CbGaD": 0.3716935712989945,
     "CbGbCtD": 0.4783256793806753,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.046240020366952524,
     "CrCbGaD": 0.0024689025298975822
   },
+  "n_trials": 0.0,
   "prediction": 0.00260607011916934,
   "status": 0,
   "training_prediction": 0.00475675808313373

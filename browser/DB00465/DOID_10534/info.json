@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.20588235294117604,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.181404421326398,
   "metapath_contribution": {
     "CbGaD": 0.6040384378805456,
     "CbGeAlD": 0.007402427508023762,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3348371562078058,
     "CrCbGaD": 0.006330489529098323
   },
+  "n_trials": 0.0,
   "prediction": 0.000875340525715656,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

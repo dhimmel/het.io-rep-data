@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.330949284785436,
   "metapath_contribution": {
     "CbGaD": 0.13983427130354617,
     "CbGbCtD": 0.6017345391036966,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12238660969073861,
     "CcSEcCtD": 0.07839582243883424
   },
+  "n_trials": 0.0,
   "prediction": 0.00117864480905581,
   "status": 0,
   "training_prediction": 0.00259838103962658

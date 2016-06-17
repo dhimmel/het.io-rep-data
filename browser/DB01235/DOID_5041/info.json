@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.0588235294117647,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.0318595578673602,
   "metapath_contribution": {
     "CbGeAlD": 0.2443003982689146,
     "CbGpPWpGaD": 0.43406940042648295,
     "CcSEcCtD": 0.30717848130752057,
     "CrCbGaD": 0.014451719997081891
   },
+  "n_trials": 0.0,
   "prediction": 0.000579679670060722,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

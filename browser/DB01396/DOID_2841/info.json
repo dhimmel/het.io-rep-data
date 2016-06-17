@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01396",
   "compound_name": "Digitoxin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.20416124837451202,
   "metapath_contribution": {
     "CbGaD": 0.2533113187405323,
     "CbGbCtD": 0.6852866423036393,
     "CbGeAlD": 0.01563852290948965,
     "CbGpPWpGaD": 0.04576351604633879
   },
+  "n_trials": 0.0,
   "prediction": 0.00150528548372407,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.7191157347204159,
   "metapath_contribution": {
     "CbGbCtD": 0.6720895987217614,
     "CbGdCrCtD": 0.002069334141986497,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1181752734496718,
     "CcSEcCtD": 0.20582649282466142
   },
+  "n_trials": 0.0,
   "prediction": 0.0024777846963233603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

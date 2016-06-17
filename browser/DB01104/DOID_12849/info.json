@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB01104",
   "compound_name": "Sertraline",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGaD": 0.811530283570114,
     "CbGeAlD": 0.05971724582886647,
@@ -11,6 +13,5 @@
     "CrCbGaD": 1.5023102985314287e-05
   },
   "prediction": 0.0026739875024033603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

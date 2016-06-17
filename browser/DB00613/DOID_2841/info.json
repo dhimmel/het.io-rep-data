@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.741222366710013,
   "metapath_contribution": {
     "CbGaD": 0.5694135192278573,
     "CbGbCtD": 0.40700985473046397,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.01079799753272557,
     "CrCbGaD": 0.0037965184967932307
   },
+  "n_trials": 0.0,
   "prediction": 0.00403182083746096,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

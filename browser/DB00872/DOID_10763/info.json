@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00872",
   "compound_name": "Conivaptan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.25891861320385834,
     "CbGbCtD": 0.0809053224828432,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1793150737117237,
     "CrCtD": 0.34506085034821254
   },
+  "n_trials": 0.0,
   "prediction": 0.0463785026680092,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

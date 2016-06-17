@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00950",
   "compound_name": "Fexofenadine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGbCtD": 0.15477453237815972,
     "CcSEcCtD": 0.036594968239909674,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.117701313442817,
     "CrCtD": 0.2504824458027948
   },
+  "n_trials": 0.0,
   "prediction": 0.0853663534018299,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

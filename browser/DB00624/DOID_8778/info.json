@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.728218465539662,
   "metapath_contribution": {
     "CbGaD": 0.36911043891483497,
     "CbGbCtD": 0.16568117879527938,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00048721003892645003,
     "CrCrCtD": 0.3180005810858399
   },
+  "n_trials": 0.0,
   "prediction": 0.0021276294476127,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

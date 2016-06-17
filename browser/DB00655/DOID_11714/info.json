@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.521550653700424,
     "CbGbCtD": 0.4479538893161484,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.016228233631235104,
     "CrCbGaD": 0.005756063148322722
   },
+  "n_trials": 0.0,
   "prediction": 0.0031563074137547697,
   "status": 0,
   "training_prediction": 0.00142427424994904

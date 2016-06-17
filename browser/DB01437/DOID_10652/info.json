@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01437",
   "compound_name": "Glutethimide",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.693758127438232,
   "metapath_contribution": {
     "CbGaD": 0.49894048932594603,
     "CbGbCtD": 0.39655096012074575,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06806030149667955,
     "CrCbGaD": 0.00887395675837211
   },
+  "n_trials": 0.0,
   "prediction": 0.00248151819200075,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

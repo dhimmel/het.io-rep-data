@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00404",
   "compound_name": "Alprazolam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.2541290439085733,
     "CbGbCtD": 0.2417680208742418,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.33798665736335237,
     "CrCbGaD": 0.0039985275565394525
   },
+  "n_trials": 0.0,
   "prediction": 0.0106674381804944,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

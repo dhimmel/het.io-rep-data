@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.3849154746423929,
   "metapath_contribution": {
     "CbGaD": 0.3800961933491406,
     "CbGeAlD": 0.12081329824896775,
     "CbGpPWpGaD": 0.23728439759630687,
     "CcSEcCtD": 0.2618061108055848
   },
+  "n_trials": 0.0,
   "prediction": 0.00205220744680807,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

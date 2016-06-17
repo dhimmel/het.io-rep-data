@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00825",
   "compound_name": "Menthol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9161248374512351,
   "metapath_contribution": {
     "CbGaD": 0.7309968965426981,
     "CbGbCtD": 0.10936765104468417,
     "CbGeAlD": 0.08100591450517286,
     "CbGpPWpGaD": 0.07862953790744498
   },
+  "n_trials": 1.0,
   "prediction": 0.0110985929036456,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

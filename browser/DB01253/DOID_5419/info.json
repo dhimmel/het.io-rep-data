@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01253",
   "compound_name": "Ergonovine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.701560468140442,
   "metapath_contribution": {
     "CbGaD": 0.7867860970985201,
     "CbGeAlD": 0.04636246896947332,
     "CbGpPWpGaD": 0.1535255135775319,
     "CrCbGaD": 0.013325920354474783
   },
+  "n_trials": 0.0,
   "prediction": 0.0020614667597436,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

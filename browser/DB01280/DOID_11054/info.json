@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGbCtD": 0.18029462040425626,
     "CbGdCrCtD": 0.0011539928244062442,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0016920528453891167,
     "CrCrCtD": 0.17257447166787498
   },
+  "n_trials": 0.0,
   "prediction": 0.00812809159097449,
   "status": 0,
   "training_prediction": 0.0206181853582793

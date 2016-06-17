@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01337",
   "compound_name": "Pancuronium",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.639791937581274,
   "metapath_contribution": {
     "CbGaD": 0.8320491007815546,
     "CbGeAlD": 0.05930696136143105,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06576332433389384,
     "CrCbGaD": 0.004739972704984286
   },
+  "n_trials": 0.0,
   "prediction": 0.00223628398588646,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

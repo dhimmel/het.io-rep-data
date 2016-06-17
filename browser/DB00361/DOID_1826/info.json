@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00361",
   "compound_name": "Vinorelbine",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0845253576072822,
   "metapath_contribution": {
     "CbGaD": 0.2549101815677377,
     "CbGbCtD": 0.3545866210253443,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.22833684718874142,
     "CrCbGaD": 0.003698827828770287
   },
+  "n_trials": 0.0,
   "prediction": 0.00112612323726781,
   "status": 0,
   "training_prediction": 0.0155358955490455

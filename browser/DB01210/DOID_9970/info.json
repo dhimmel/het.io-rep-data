@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01210",
   "compound_name": "Levobunolol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.620286085825748,
   "metapath_contribution": {
     "CbGaD": 0.48250466740013714,
     "CbGbCtD": 0.3604560321207718,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09028420622712408,
     "CrCbGaD": 0.0056177920852368505
   },
+  "n_trials": 0.0,
   "prediction": 0.00316699213246222,
   "status": 0,
   "training_prediction": 0.00809579885887382

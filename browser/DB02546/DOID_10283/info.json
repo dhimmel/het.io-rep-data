@@ -1,8 +1,10 @@
 {
   "compound_id": "DB02546",
   "compound_name": "Vorinostat",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.605981794538362,
   "metapath_contribution": {
     "CbGdCrCtD": 0.003756606750245864,
     "CbGeAlD": 0.19495291886139704,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3448293699599925,
     "CrCbGaD": 0.008795701287837507
   },
+  "n_trials": 4.0,
   "prediction": 0.00278898949840765,
   "status": 0,
   "training_prediction": 0.0117681969360521

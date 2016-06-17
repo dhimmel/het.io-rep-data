@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.8062839256527901,
     "CbGeAlD": 0.03445501148096955,
     "CbGpPWpGaD": 0.14997062766239505,
     "CrCbGaD": 0.009290435203845454
   },
+  "n_trials": 0.0,
   "prediction": 0.0035251265046445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.706111833550065,
   "metapath_contribution": {
-    "CbGaD": 0.7658920207874427,
-    "CbGeAlD": 0.07868175448299809,
-    "CbGpPWpGaD": 0.1442275670701044,
-    "CrCbGaD": 0.011198657659454759
+    "CbGaD": 0.7658920207874428,
+    "CbGeAlD": 0.0786817544829981,
+    "CbGpPWpGaD": 0.14422756707010442,
+    "CrCbGaD": 0.01119865765945476
   },
+  "n_trials": 0.0,
   "prediction": 0.00208036299752356,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.737971391417425,
   "metapath_contribution": {
     "CbGaD": 0.14084566458527964,
     "CbGbCtD": 0.5796479847434636,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14530571706800274,
     "CrCbGaD": 9.53890340635988e-05
   },
+  "n_trials": 1.0,
   "prediction": 0.0036349639456597703,
   "status": 0,
   "training_prediction": 0.0111462935949017

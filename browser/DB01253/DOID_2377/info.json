@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01253",
   "compound_name": "Ergonovine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.513003901170351,
   "metapath_contribution": {
     "CbGbCtD": 0.8179436050046489,
     "CbGeAlD": 0.0056223024864457335,
     "CbGpPWpGaD": 0.047704695510263885,
     "CcSEcCtD": 0.12872939699864144
   },
+  "n_trials": 0.0,
   "prediction": 0.0019060486932099801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

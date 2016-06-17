@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01236",
   "compound_name": "Sevoflurane",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGbCtD": 0.4719675561990563,
     "CbGeAlD": 0.14667399018291014,
     "CbGpPWpGaD": 0.06266691170953477,
     "CcSEcCtD": 0.3186915419084989
   },
+  "n_trials": 2.0,
   "prediction": 0.00255136201477402,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

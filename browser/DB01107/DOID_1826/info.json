@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01107",
   "compound_name": "Methyprylon",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGaD": 0.46025438511344985,
     "CbGbCtD": 0.44986814627097055,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07046404347835354,
     "CrCbGaD": 0.0031009272909346785
   },
+  "n_trials": 0.0,
   "prediction": 0.0114808753753508,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

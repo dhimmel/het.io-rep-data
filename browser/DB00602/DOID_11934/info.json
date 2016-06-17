@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00602",
   "compound_name": "Ivermectin",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGbCtD": 0.8869977233513356,
     "CbGeAlD": 0.016867428722922014,
     "CbGpPWpGaD": 0.030995526185226913,
     "CcSEcCtD": 0.06513932174051544
   },
+  "n_trials": 0.0,
   "prediction": 0.0035318921465762603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

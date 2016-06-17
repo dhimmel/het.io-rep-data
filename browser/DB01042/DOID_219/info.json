@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01042",
   "compound_name": "Melphalan",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGbCtD": 0.25632875571954056,
     "CbGeAlD": 0.010195445145335913,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0007265522998774098,
     "CtDrD": 0.6620738369340022
   },
+  "n_trials": 0.0,
   "prediction": 0.0037739639803654897,
   "status": 0,
   "training_prediction": 0.0151767975735352

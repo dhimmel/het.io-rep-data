@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01058",
   "compound_name": "Praziquantel",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.46605051936882197,
     "CbGbCtD": 0.36204550005554104,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08778498173979914,
     "CrCbGaD": 0.0008495188790786992
   },
+  "n_trials": 0.0,
   "prediction": 0.00920237454744012,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

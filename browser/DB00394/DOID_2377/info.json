@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00394",
   "compound_name": "Beclomethasone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGbCtD": 0.2331085252293383,
     "CcSEcCtD": 0.04524023557368401,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.3123586472617486,
     "CrCtD": 0.4088942027430389
   },
+  "n_trials": 0.0,
   "prediction": 0.0118274895701975,
   "status": 0,
   "training_prediction": 0.0487835358656312

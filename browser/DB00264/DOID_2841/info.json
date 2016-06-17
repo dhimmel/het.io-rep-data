@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00264",
   "compound_name": "Metoprolol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
-    "CbGaD": 0.17305902572150947,
-    "CbGbCtD": 0.43710218222983765,
-    "CbGpPWpGaD": 0.01978935101152205,
-    "CcSEcCtD": 0.10234423360010625,
-    "CrCbGaD": 0.0021690043610606046,
-    "CrCrCtD": 0.26553620307596393
+    "CbGaD": 0.1730590257215095,
+    "CbGbCtD": 0.43710218222983777,
+    "CbGpPWpGaD": 0.019789351011522054,
+    "CcSEcCtD": 0.10234423360010626,
+    "CrCbGaD": 0.002169004361060605,
+    "CrCrCtD": 0.265536203075964
   },
+  "n_trials": 0.0,
   "prediction": 0.00776331282790634,
   "status": 0,
   "training_prediction": 0.0507471890716251

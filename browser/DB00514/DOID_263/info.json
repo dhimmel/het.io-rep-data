@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.422626788036411,
   "metapath_contribution": {
     "CbGaD": 0.12934984126131605,
     "CbGbCtD": 0.6983179332816628,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.04886159686533436,
     "CcSEcCtD": 0.07107007356488132
   },
+  "n_trials": 0.0,
   "prediction": 0.00158365085446075,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

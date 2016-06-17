@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7249674902470741,
   "metapath_contribution": {
     "CbGaD": 0.33920622756611574,
     "CbGbCtD": 0.4119343274251281,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1521163264812964,
     "CrCbGaD": 0.003451521887703252
   },
+  "n_trials": 0.0,
   "prediction": 0.00752773157184249,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

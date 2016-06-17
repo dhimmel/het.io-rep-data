@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.34330299089726896,
   "metapath_contribution": {
     "CbGbCtD": 0.6992264225965779,
     "CbGeAlD": 0.07478659031866515,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19886848750659514,
     "CrCbGaD": 0.011514562646976477
   },
+  "n_trials": 0.0,
   "prediction": 0.00147853490341586,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

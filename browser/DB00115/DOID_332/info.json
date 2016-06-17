@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00115",
   "compound_name": "Cyanocobalamin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.810224724290076,
     "CbGeAlD": 0.053030705909069616,
     "CbGpPWpGaD": 0.12901260427489455,
     "CrCbGaD": 0.007731965525959869
   },
+  "n_trials": 0.0,
   "prediction": 0.004506276683457521,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

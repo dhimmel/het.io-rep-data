@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00759",
   "compound_name": "Tetracycline",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
     "CbGbCtD": 0.9694232959553761,
     "CbGeAlD": 0.016381428912187544,
     "CbGpPWpGaD": 0.01144954963543127,
     "CrCbGaD": 0.0027457254970051055
   },
+  "n_trials": 1.0,
   "prediction": 0.00230006030171176,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

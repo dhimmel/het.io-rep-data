@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.221066319895969,
   "metapath_contribution": {
     "CbGaD": 0.8527158884939318,
     "CbGpPWpGaD": 0.02158194804730448,
     "CcSEcCtD": 0.1178119502572936,
     "CrCbGaD": 0.007890213201470184
   },
+  "n_trials": 0.0,
   "prediction": 0.00110184796654034,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

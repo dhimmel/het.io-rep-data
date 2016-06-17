@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00575",
   "compound_name": "Clonidine",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.418725617685306,
   "metapath_contribution": {
     "CbGbCtD": 0.46594577623581507,
     "CbGeAlD": 0.08470841657363147,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19042373118885292,
     "CrCbGaD": 0.014092801870192783
   },
+  "n_trials": 0.0,
   "prediction": 0.00126910988510586,
   "status": 0,
   "training_prediction": 0.00155787802203557

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.2774934556748055,
     "CbGbCtD": 0.5382281511687508,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11635766911730562,
     "CrCbGaD": 0.0013174430218269187
   },
+  "n_trials": 0.0,
   "prediction": 0.00269244515938171,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

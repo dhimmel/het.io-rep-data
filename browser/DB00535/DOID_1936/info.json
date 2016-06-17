@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00535",
   "compound_name": "Cefdinir",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.661898569570871,
   "metapath_contribution": {
     "CbGaD": 0.5597665219222251,
     "CbGbCtD": 0.2201099495998847,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12022263661905085,
     "CrCbGaD": 0.0024294623616763615
   },
+  "n_trials": 0.0,
   "prediction": 0.00229248228944995,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

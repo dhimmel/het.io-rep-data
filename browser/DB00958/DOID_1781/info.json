@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00958",
   "compound_name": "Carboplatin",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGbCtD": 0.30892454365170985,
     "CbGdCrCtD": 0.0031681838427853157,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.04026484902413614,
     "CtDrD": 0.5968396758504781
   },
+  "n_trials": 3.0,
   "prediction": 0.00713273245841425,
   "status": 0,
   "training_prediction": 0.0469152039695707

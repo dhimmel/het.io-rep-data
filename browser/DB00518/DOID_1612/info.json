@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.649544863459038,
   "metapath_contribution": {
     "CbGaD": 0.26210094691175745,
     "CbGbCtD": 0.5414095905602817,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.09294230445705312,
     "CrCbGaD": 0.0011926466415144578
   },
+  "n_trials": 0.0,
   "prediction": 0.00325290554826995,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

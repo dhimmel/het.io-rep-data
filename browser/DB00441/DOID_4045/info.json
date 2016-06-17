@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGbCtD": 0.2691798242452613,
     "CbGdCrCtD": 0.0020094283064382937,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07293155272620244,
     "CtDrD": 0.5971618450081115
   },
+  "n_trials": 17.0,
   "prediction": 0.00459446785151224,
   "status": 0,
   "training_prediction": 0.0289924508487969

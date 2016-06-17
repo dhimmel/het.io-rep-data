@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.4305739562891134,
     "CbGbCtD": 0.3627880816252649,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13122018672843153,
     "CrCbGaD": 0.0011282947405620684
   },
+  "n_trials": 0.0,
   "prediction": 0.00314871619072021,
   "status": 0,
   "training_prediction": 0.00386350791701464

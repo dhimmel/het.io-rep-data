@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.648244473342003,
   "metapath_contribution": {
     "CbGaD": 0.4232223384891276,
     "CbGbCtD": 0.49573029617243525,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.028940640720299737,
     "CrCbGaD": 0.005732694115304792
   },
+  "n_trials": 0.0,
   "prediction": 0.00189799205962452,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

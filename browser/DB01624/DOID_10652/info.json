@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01624",
   "compound_name": "Zuclopenthixol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.789336801040312,
   "metapath_contribution": {
     "CbGaD": 0.4621020242597765,
     "CbGbCtD": 0.31262621010536035,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13732801265238745,
     "CrCbGaD": 0.004091580886958152
   },
+  "n_trials": 0.0,
   "prediction": 0.00313629378143763,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

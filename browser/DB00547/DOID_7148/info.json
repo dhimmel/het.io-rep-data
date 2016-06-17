@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00547",
   "compound_name": "Desoximetasone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGaD": 0.096606094567423,
     "CbGbCtD": 0.12111682471037245,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1747731350105466,
     "CrCtD": 0.2428937223824283
   },
+  "n_trials": 0.0,
   "prediction": 0.0531159313157077,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

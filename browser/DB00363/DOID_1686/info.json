@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.7600780234070219,
   "metapath_contribution": {
     "CbGaD": 0.295334343704444,
     "CbGbCtD": 0.6352795252286928,
     "CbGpPWpGaD": 0.06846500658207721,
     "CrCbGaD": 0.0009211244847859092
   },
+  "n_trials": 0.0,
   "prediction": 0.00283835125772156,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

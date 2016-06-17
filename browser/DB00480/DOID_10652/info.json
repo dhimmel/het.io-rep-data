@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6326397919375811,
   "metapath_contribution": {
     "CbGaD": 0.39888720370484915,
     "CbGeAlD": 0.0854976029158017,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.39110159615743906,
     "CrCbGaD": 0.007392944960736314
   },
+  "n_trials": 0.0,
   "prediction": 0.00223314417588709,
   "status": 0,
   "training_prediction": 0.00271014651950862

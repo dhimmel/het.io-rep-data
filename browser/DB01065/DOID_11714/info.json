@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.856553886297643,
     "CbGbCtD": 0.043568581566577634,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04410072570869842,
     "CrCbGaD": 0.004856161104396343
   },
+  "n_trials": 0.0,
   "prediction": 0.00460301547589226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

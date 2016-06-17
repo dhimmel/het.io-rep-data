@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.2124890590058117,
     "CbGbCtD": 0.576152122578645,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18696903586624436,
     "CrCbGaD": 0.000988423365013562
   },
+  "n_trials": 0.0,
   "prediction": 0.00470520291698682,
   "status": 0,
   "training_prediction": 0.0143961322284245

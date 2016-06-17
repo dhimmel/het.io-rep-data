@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01289",
   "compound_name": "Glisoxepide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.448634590377113,
   "metapath_contribution": {
     "CbGaD": 0.5781066311099777,
     "CbGbCtD": 0.2883592219384565,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09992396280346807,
     "CrCbGaD": 0.005651734457826887
   },
+  "n_trials": 0.0,
   "prediction": 0.00340482586923615,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00492",
   "compound_name": "Fosinopril",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
     "CbGaD": 0.6596304226931672,
     "CbGeAlD": 0.0450262172232272,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.27853216179416446,
     "CrCbGaD": 0.00632394148905402
   },
+  "n_trials": 0.0,
   "prediction": 0.00282753560082992,
   "status": 0,
   "training_prediction": 0.0034310640918854803

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00852",
   "compound_name": "Pseudoephedrine",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.586475942782835,
   "metapath_contribution": {
     "CbGaD": 0.6956643473137063,
     "CbGeAlD": 0.06554750636844366,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05632602064284374,
     "CrCbGaD": 0.0016645475590282642
   },
+  "n_trials": 0.0,
   "prediction": 0.00176708599302612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

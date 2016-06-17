@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01193",
   "compound_name": "Acebutolol",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.644343302990897,
   "metapath_contribution": {
     "CbGaD": 0.6761270231325875,
     "CbGbCtD": 0.15786240420719458,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14887609117954775,
     "CrCbGaD": 0.007742305386800894
   },
+  "n_trials": 0.0,
   "prediction": 0.00190837630803433,
   "status": 0,
   "training_prediction": 0.00420341123463417

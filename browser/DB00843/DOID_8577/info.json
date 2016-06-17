@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00843",
   "compound_name": "Donepezil",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.576723016905072,
   "metapath_contribution": {
     "CbGbCtD": 0.5396904597431678,
     "CbGdCrCtD": 0.002137304251432336,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.018271220131541248,
     "CcSEcCtD": 0.40861740829554277
   },
+  "n_trials": 0.0,
   "prediction": 0.00232193602603654,
   "status": 0,
   "training_prediction": 0.007920128646936241

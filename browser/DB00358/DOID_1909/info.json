@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.779583875162549,
   "metapath_contribution": {
     "CbGaD": 0.2544111309850828,
     "CbGbCtD": 0.23327507725630625,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.17158380350333122,
     "CcSEcCtD": 0.16163327123090626
   },
+  "n_trials": 0.0,
   "prediction": 0.00220863921494807,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

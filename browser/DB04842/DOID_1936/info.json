@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04842",
   "compound_name": "Fluspirilene",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.18936885645128526,
     "CbGeAlD": 0.0033958258978620728,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2533619513095401,
     "CrCtD": 0.5216038529022186
   },
+  "n_trials": 0.0,
   "prediction": 0.0143237595028876,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

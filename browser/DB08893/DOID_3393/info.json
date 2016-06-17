@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08893",
   "compound_name": "Mirabegron",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.642392717815345,
   "metapath_contribution": {
     "CbGaD": 0.10663939740695152,
     "CbGbCtD": 0.661198228396451,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1558552925215792,
     "CrCbGaD": 0.002498721277081234
   },
+  "n_trials": 0.0,
   "prediction": 0.00311533449982037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

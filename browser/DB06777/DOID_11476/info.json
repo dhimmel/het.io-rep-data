@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06777",
   "compound_name": "Chenodeoxycholic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.973992197659298,
   "metapath_contribution": {
     "CbGaD": 0.35699090743865797,
     "CbGbCtD": 0.3433737033392097,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0013412418994956838,
     "CrCrCtD": 0.17164990491962362
   },
+  "n_trials": 0.0,
   "prediction": 0.0247494292613403,
   "status": 0,
   "training_prediction": 0.0764361954639484

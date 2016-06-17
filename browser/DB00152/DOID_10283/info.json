@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00152",
   "compound_name": "Thiamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.76853055916775,
   "metapath_contribution": {
     "CbGaD": 0.5094502247062477,
     "CbGbCtD": 0.10870107389096595,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.19018331759608256,
     "CcSEcCtD": 0.10503507889535482
   },
+  "n_trials": 0.0,
   "prediction": 0.00431903565577106,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

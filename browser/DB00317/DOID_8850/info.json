@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.0220588235294118,
   "disease_id": "DOID:8850",
   "disease_name": "salivary gland cancer",
+  "disease_percentile": 0.11573472041612501,
   "metapath_contribution": {
-    "CbGeAlD": 0.17146572750937678,
-    "CbGpPWpGaD": 0.7937993786047509,
-    "CrCbGaD": 0.034734893885872246
+    "CbGeAlD": 0.1714657275093768,
+    "CbGpPWpGaD": 0.793799378604751,
+    "CrCbGaD": 0.03473489388587225
   },
+  "n_trials": 2.0,
   "prediction": 0.000635141534890705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

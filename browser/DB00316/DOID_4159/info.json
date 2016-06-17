@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.268933418146991,
     "CbGbCtD": 0.5183255620716317,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.010687562844127396,
     "CcSEcCtD": 0.15225023150469807
   },
+  "n_trials": 0.0,
   "prediction": 0.0032058748845441103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00389",
   "compound_name": "Carbimazole",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGaD": 0.48134891890596465,
     "CbGbCtD": 0.4140934895996016,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07050000788102871,
     "CcSEcCtD": 0.005871225840873096
   },
+  "n_trials": 0.0,
   "prediction": 0.0256940767114796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

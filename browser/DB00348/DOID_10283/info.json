@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00348",
   "compound_name": "Nitisinone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
-    "CbGeAlD": 0.013778901727329068,
-    "CbGpPWpGaD": 0.0244426343137531,
-    "CcSEcCtD": 0.047080742405212185,
-    "CrCbGaD": 0.0021525373597793816,
-    "CrCrCtD": 0.33250033960135505,
-    "CrCtD": 0.5800448445925711
+    "CbGeAlD": 0.01377890172732907,
+    "CbGpPWpGaD": 0.024442634313753108,
+    "CcSEcCtD": 0.04708074240521219,
+    "CrCbGaD": 0.002152537359779382,
+    "CrCrCtD": 0.3325003396013551,
+    "CrCtD": 0.5800448445925712
   },
+  "n_trials": 0.0,
   "prediction": 0.0241743448342329,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

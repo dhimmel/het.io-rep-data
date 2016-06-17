@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGaD": 0.1352803611630938,
     "CbGbCtD": 0.22896946826491285,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.22122082551437358,
     "CrCtD": 0.3347476264985174
   },
+  "n_trials": 1.0,
   "prediction": 0.026576851389532002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

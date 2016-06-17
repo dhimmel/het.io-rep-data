@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00857",
   "compound_name": "Terbinafine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.879713914174252,
   "metapath_contribution": {
     "CbGaD": 0.3559170465646102,
     "CbGbCtD": 0.4322405152534717,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1380730335899688,
     "CrCbGaD": 0.0012529350311420084
   },
+  "n_trials": 1.0,
   "prediction": 0.00691176301398546,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

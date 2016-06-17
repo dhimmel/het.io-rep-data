@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.126788036410923,
   "metapath_contribution": {
     "CbGaD": 0.9012950124466395,
     "CbGeAlD": 0.043220766559702334,
     "CbGpPWpGaD": 0.05275690696576312,
     "CrCbGaD": 0.0027273140278950025
   },
+  "n_trials": 0.0,
   "prediction": 0.0007888822247655799,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

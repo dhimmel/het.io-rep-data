@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.49479843953186,
   "metapath_contribution": {
     "CbGaD": 0.1659630713849815,
     "CbGbCtD": 0.3287133547621377,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2917681743755007,
     "CrCbGaD": 0.0020815102732509934
   },
+  "n_trials": 0.0,
   "prediction": 0.00208537850596142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.0773732119635891,
   "metapath_contribution": {
     "CbGbCtD": 0.5833661401527203,
     "CbGeAlD": 0.055075966528157355,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1898213126033952,
     "CrCbGaD": 0.002890121516566976
   },
+  "n_trials": 0.0,
   "prediction": 0.00075055626752697,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

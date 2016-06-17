@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00588",
   "compound_name": "Fluticasone Propionate",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.314044213263979,
   "metapath_contribution": {
     "CbGaD": 0.4457367154365595,
     "CbGbCtD": 0.3545086548624861,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0951956771757087,
     "CrCbGaD": 0.0010479754425849021
   },
+  "n_trials": 0.0,
   "prediction": 0.0011341711106761,
   "status": 0,
   "training_prediction": 0.00270436867764282

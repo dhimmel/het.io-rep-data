@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
-    "CbGbCtD": 0.1872249123839092,
-    "CbGeAlD": 0.0018688458197526157,
-    "CcSEcCtD": 0.0290665723726133,
-    "CiPCiCtD": 0.5924566979889256,
-    "CrCrCtD": 0.18938297143479932
+    "CbGbCtD": 0.18722491238390918,
+    "CbGeAlD": 0.0018688458197526155,
+    "CcSEcCtD": 0.029066572372613293,
+    "CiPCiCtD": 0.5924566979889255,
+    "CrCrCtD": 0.18938297143479926
   },
+  "n_trials": 0.0,
   "prediction": 0.0141637340517878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

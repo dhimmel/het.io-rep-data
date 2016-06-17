@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.56111833550065,
   "metapath_contribution": {
     "CbGbCtD": 0.6881580224553956,
     "CbGeAlD": 0.05963414790113484,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2254609659456344,
     "CrCbGaD": 0.00032387646121820974
   },
+  "n_trials": 0.0,
   "prediction": 0.00266412222633879,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

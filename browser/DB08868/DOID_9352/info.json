@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08868",
   "compound_name": "Fingolimod",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8296488946684009,
   "metapath_contribution": {
     "CbGaD": 0.3595217605287411,
     "CbGbCtD": 0.2584313238346419,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.16283695080983251,
     "CcSEcCtD": 0.15314089408476486
   },
+  "n_trials": 0.0,
   "prediction": 0.00567061122732394,
   "status": 0,
   "training_prediction": 0.0245997497373068

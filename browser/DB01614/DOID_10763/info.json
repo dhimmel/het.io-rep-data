@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
     "CbGaD": 0.19245022497703926,
     "CbGbCtD": 0.25005373028910416,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.17363249930290278,
     "CrCtD": 0.31132897285118866
   },
+  "n_trials": 0.0,
   "prediction": 0.0104481881523741,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

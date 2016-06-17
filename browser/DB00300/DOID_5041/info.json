@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.43358924409812616,
     "CbGbCtD": 0.38819657722229756,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.052678239148511205,
     "CrCbGaD": 0.007028710880126566
   },
+  "n_trials": 0.0,
   "prediction": 0.0029834180624885302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

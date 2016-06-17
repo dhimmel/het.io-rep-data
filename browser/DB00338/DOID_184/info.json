@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.841352405721717,
   "metapath_contribution": {
     "CbGaD": 0.3086602693183989,
     "CbGbCtD": 0.49005175463875106,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12612560096858208,
     "CrCbGaD": 0.0037320482070377884
   },
+  "n_trials": 0.0,
   "prediction": 0.00265397853267977,
   "status": 0,
   "training_prediction": 0.00378518716737584

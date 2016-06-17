@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00986",
   "compound_name": "Glycopyrrolate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.5834522627622029,
     "CbGbCtD": 0.16878173370934388,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1335243993479633,
     "CrCbGaD": 0.005533388036156958
   },
+  "n_trials": 0.0,
   "prediction": 0.00414162929121064,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

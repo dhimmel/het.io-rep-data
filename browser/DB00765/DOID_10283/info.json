@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00765",
   "compound_name": "Metyrosine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.576723016905072,
   "metapath_contribution": {
     "CbGaD": 0.7703110242371944,
     "CbGpPWpGaD": 0.1009632712086288,
     "CcSEcCtD": 0.12141844547851512,
     "CrCbGaD": 0.007307259075661647
   },
+  "n_trials": 0.0,
   "prediction": 0.00262496905063925,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

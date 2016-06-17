@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00604",
   "compound_name": "Cisapride",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.626788036410923,
   "metapath_contribution": {
     "CbGaD": 0.3667754131308861,
     "CbGbCtD": 0.46214306339266115,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11620649111791259,
     "CrCbGaD": 0.002862578212744378
   },
+  "n_trials": 0.0,
   "prediction": 0.0032152465914243897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00490",
   "compound_name": "Buspirone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.7999565008130975,
     "CbGeAlD": 0.06852664525089969,
     "CbGpPWpGaD": 0.13151685393600274
   },
+  "n_trials": 1.0,
   "prediction": 0.004602149774218921,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

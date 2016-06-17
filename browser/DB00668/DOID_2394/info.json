@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.280234070221066,
   "metapath_contribution": {
     "CbGeAlD": 0.05328064709744443,
     "CbGpPWpGaD": 0.14587498040133423,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0020381556273373802,
     "CrCrCtD": 0.6246233552242059
   },
+  "n_trials": 0.0,
   "prediction": 0.00107036117728873,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

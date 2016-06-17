@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01259",
   "compound_name": "Lapatinib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.5632036455127979,
     "CbGbCtD": 0.21366317849096012,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07067493472746332,
     "CrCbGaD": 0.00108975132932528
   },
+  "n_trials": 2.0,
   "prediction": 0.00446603992156049,
   "status": 0,
   "training_prediction": 0.00813916243938396

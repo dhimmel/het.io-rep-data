@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.738621586475943,
   "metapath_contribution": {
     "CbGaD": 0.7030826487751533,
     "CbGdCrCtD": 0.0013898849170288225,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1394830794788162,
     "CcSEcCtD": 0.10441016427434616
   },
+  "n_trials": 0.0,
   "prediction": 0.00331944849305304,
   "status": 0,
   "training_prediction": 0.0283467924825145

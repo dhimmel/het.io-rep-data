@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01004",
   "compound_name": "Ganciclovir",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.256827048114434,
   "metapath_contribution": {
     "CbGeAlD": 0.23848037523396037,
     "CbGpPWpGaD": 0.7615196247660395
   },
+  "n_trials": 1.0,
   "prediction": 0.00111347979706133,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

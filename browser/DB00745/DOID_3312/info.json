@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.448634590377113,
   "metapath_contribution": {
     "CbGaD": 0.8842134371369612,
     "CbGeAlD": 0.05633821167495534,
     "CbGpPWpGaD": 0.052735719284734556,
     "CrCbGaD": 0.006712631903349006
   },
+  "n_trials": 2.0,
   "prediction": 0.00132310820018378,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

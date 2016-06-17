@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.822496749024707,
   "metapath_contribution": {
     "CbGaD": 0.8136969987472464,
     "CbGeAlD": 0.08015765378464774,
     "CbGpPWpGaD": 0.09604445887955453,
     "CrCbGaD": 0.010100888588551354
   },
+  "n_trials": 3.0,
   "prediction": 0.00212863957264213,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

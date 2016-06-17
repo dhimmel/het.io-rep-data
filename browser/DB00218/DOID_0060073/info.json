@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.890117035110533,
   "metapath_contribution": {
     "CbGbCtD": 0.8099795639648469,
     "CbGdCrCtD": 0.006441668291537182,
     "CcSEcCtD": 0.18357876774361578
   },
+  "n_trials": 1.0,
   "prediction": 0.0025114954814373603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

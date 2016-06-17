@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01621",
   "compound_name": "Pipotiazine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.249674902470741,
   "metapath_contribution": {
     "CbGaD": 0.37103151699016224,
     "CbGbCtD": 0.5649351567537153,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04820716160192927,
     "CrCbGaD": 0.006754232590747291
   },
+  "n_trials": 0.0,
   "prediction": 0.00144382490143546,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

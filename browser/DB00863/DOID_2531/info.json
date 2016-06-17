@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGaD": 0.2976092935621179,
     "CbGbCtD": 0.4844466101485133,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17380387788081847,
     "CrCbGaD": 0.0008834437819377905
   },
+  "n_trials": 0.0,
   "prediction": 0.0024800964685167803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

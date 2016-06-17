@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.133289986996099,
   "metapath_contribution": {
     "CbGbCtD": 0.3591919591288151,
     "CbGpPWpGaD": 0.06260789915297603,
     "CcSEcCtD": 0.5719009230876321,
     "CrCbGaD": 0.006299218630576862
   },
+  "n_trials": 0.0,
   "prediction": 0.00104642668908859,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.826397919375813,
   "metapath_contribution": {
     "CbGaD": 0.2467681003724942,
     "CbGbCtD": 0.2583424041545975,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3915457749235977,
     "CrCbGaD": 0.0017208203466725226
   },
+  "n_trials": 0.0,
   "prediction": 0.0032492868973534,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGbCtD": 0.6475279473230336,
     "CbGeAlD": 0.06987840750081914,
     "CbGpPWpGaD": 0.005410257719421698,
     "CcSEcCtD": 0.2771833874567255
   },
+  "n_trials": 1.0,
   "prediction": 0.00305074650453618,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

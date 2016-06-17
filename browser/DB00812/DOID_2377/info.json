@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.345903771131339,
   "metapath_contribution": {
     "CbGbCtD": 0.911891748360234,
     "CbGdCrCtD": 0.008573481654669677,
     "CbGpPWpGaD": 0.07705057418472154,
     "CrCbGaD": 0.002484195800374752
   },
+  "n_trials": 0.0,
   "prediction": 0.0015125788776775,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

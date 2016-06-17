@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.24772431729518898,
   "metapath_contribution": {
     "CbGaD": 0.9302218599582963,
     "CbGeAlD": 0.018071138185902235,
     "CbGpPWpGaD": 0.04274284469843018,
     "CrCbGaD": 0.008964157157371231
   },
+  "n_trials": 0.0,
   "prediction": 0.00148135493098575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

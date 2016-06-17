@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00838",
   "compound_name": "Clocortolone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9018205461638491,
   "metapath_contribution": {
     "CbGaD": 0.15692998013356896,
     "CbGbCtD": 0.13873215389638663,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.26738873219162085,
     "CrCtD": 0.3598915917007842
   },
+  "n_trials": 0.0,
   "prediction": 0.008730707857794359,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

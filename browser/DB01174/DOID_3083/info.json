@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01174",
   "compound_name": "Phenobarbital",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.3876516775229039,
     "CbGbCtD": 0.4046011193822496,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08095882702537374,
     "CrCbGaD": 0.0004984318943794859
   },
+  "n_trials": 0.0,
   "prediction": 0.0040175856798268,
   "status": 0,
   "training_prediction": 0.00882674727138147

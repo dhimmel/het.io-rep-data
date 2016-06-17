@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.6807542262678801,
   "metapath_contribution": {
     "CbGaD": 0.628816910008986,
     "CbGeAlD": 0.07825425917490525,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03667014503766106,
     "CrCbGaD": 0.005770063722462691
   },
+  "n_trials": 0.0,
   "prediction": 0.00179038318644624,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

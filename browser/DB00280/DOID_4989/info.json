@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00280",
   "compound_name": "Disopyramide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGbCtD": 0.4995138649791738,
     "CbGeAlD": 0.008229128416750473,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.091561785705296,
     "CrCrCtD": 0.3878219537029859
   },
+  "n_trials": 0.0,
   "prediction": 0.007121635814355921,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

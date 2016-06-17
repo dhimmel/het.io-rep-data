@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.604031209362809,
   "metapath_contribution": {
     "CbGaD": 0.7498461412816791,
     "CbGdCrCtD": 0.0062459726571851715,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15401628608640033,
     "CrCbGaD": 0.0070644125147469915
   },
+  "n_trials": 0.0,
   "prediction": 0.00181503746208562,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.397269180754226,
   "metapath_contribution": {
     "CbGaD": 0.0434743790003988,
     "CbGbCtD": 0.5145649693808029,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2780725110500046,
     "CrCbGaD": 0.0012050631677896608
   },
+  "n_trials": 0.0,
   "prediction": 0.0018937343915928898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

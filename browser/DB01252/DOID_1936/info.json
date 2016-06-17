@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01252",
   "compound_name": "Mitiglinide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9011703511053321,
   "metapath_contribution": {
     "CbGaD": 0.35435336000159906,
     "CbGbCtD": 0.5645072519361181,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04747797557646355,
     "CrCbGaD": 0.0033974649523154593
   },
+  "n_trials": 0.0,
   "prediction": 0.00423992345817062,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

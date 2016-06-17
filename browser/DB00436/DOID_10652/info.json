@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00436",
   "compound_name": "Bendroflumethiazide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.49804941482444703,
   "metapath_contribution": {
     "CbGaD": 0.7858298980927361,
     "CbGeAlD": 0.03950327688625056,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09897440542842743,
     "CrCbGaD": 0.0067049542133173455
   },
+  "n_trials": 0.0,
   "prediction": 0.0018476993128236398,
   "status": 0,
   "training_prediction": 0.0022425552056068803

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00307",
   "compound_name": "Bexarotene",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7737321196358911,
   "metapath_contribution": {
     "CbGaD": 0.6806605919142182,
     "CbGbCtD": 0.02812259832648171,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1684204484557772,
     "CrCbGaD": 0.006257337928352635
   },
+  "n_trials": 0.0,
   "prediction": 0.00230534751034292,
   "status": 0,
   "training_prediction": 0.00507535687488649

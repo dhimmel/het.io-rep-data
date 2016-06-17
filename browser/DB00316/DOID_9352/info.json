@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.19998040954759969,
     "CbGbCtD": 0.33001011913881406,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09402272053859055,
     "CrCrCtD": 0.2748926985574088
   },
+  "n_trials": 3.0,
   "prediction": 0.0123507697241803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.5741222366710009,
   "metapath_contribution": {
     "CbGaD": 0.15848750280789714,
     "CbGbCtD": 0.6507088095894388,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1122308579166473,
     "CrCbGaD": 8.695429063956504e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00210976607677084,
   "status": 0,
   "training_prediction": 0.0101954368779246

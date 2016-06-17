@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.43382352941176505,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.40507152145643704,
   "metapath_contribution": {
     "CbGbCtD": 0.5297022980025522,
     "CbGeAlD": 0.05625781966189834,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.3647399245822326,
     "CrCbGaD": 0.004693348828180148
   },
+  "n_trials": 0.0,
   "prediction": 0.00128956807359987,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

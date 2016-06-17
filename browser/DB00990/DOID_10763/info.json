@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00990",
   "compound_name": "Exemestane",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.557867360208062,
   "metapath_contribution": {
     "CbGaD": 0.2873146532028713,
     "CbGbCtD": 0.225285486881579,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0035036059585899547,
     "CrCrCtD": 0.24836441246570773
   },
+  "n_trials": 0.0,
   "prediction": 0.0044904577217116,
   "status": 0,
   "training_prediction": 0.0511938719779876

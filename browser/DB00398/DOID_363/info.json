@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGbCtD": 0.5278171516064014,
     "CbGdCrCtD": 0.0035453254600853155,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16288106489899812,
     "CrCbGaD": 0.004998811294766692
   },
+  "n_trials": 2.0,
   "prediction": 0.00367601323269872,
   "status": 0,
   "training_prediction": 0.0150971382036057

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.788036410923277,
   "metapath_contribution": {
     "CbGaD": 0.5037960153478741,
     "CbGbCtD": 0.12196975704215247,
     "CbGeAlD": 0.10751584804283947,
     "CbGpPWpGaD": 0.26671837956713396
   },
+  "n_trials": 0.0,
   "prediction": 0.00506357542962445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01193",
   "compound_name": "Acebutolol",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.2805277288610743,
     "CbGbCtD": 0.4387512223228967,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22045684205802277,
     "CrCbGaD": 0.0003120019241552509
   },
+  "n_trials": 0.0,
   "prediction": 0.0016996319227246801,
   "status": 0,
   "training_prediction": 0.00580617977762682

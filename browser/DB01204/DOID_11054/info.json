@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGbCtD": 0.20229179038086434,
     "CbGdCrCtD": 0.0010100601120273233,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.4634607110041635,
     "CtDrD": 0.24375483010270874
   },
+  "n_trials": 0.0,
   "prediction": 0.037139473139628,
   "status": 0,
   "training_prediction": 0.28235581390351

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.518205461638492,
   "metapath_contribution": {
     "CbGbCtD": 0.38235513268247445,
     "CbGdCrCtD": 0.004760528284770295,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10823255794901677,
     "CcSEcCtD": 0.3809381856685658
   },
+  "n_trials": 0.0,
   "prediction": 0.0017024411137741302,
   "status": 0,
   "training_prediction": 0.00517594348239989

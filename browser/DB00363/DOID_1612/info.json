@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.42327698309492895,
   "metapath_contribution": {
     "CbGaD": 0.3379091445747583,
     "CbGbCtD": 0.4966716621013646,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12591229975822402,
     "CrCbGaD": 0.0027244248277812286
   },
+  "n_trials": 0.0,
   "prediction": 0.00207070890277479,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

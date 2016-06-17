@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00546",
   "compound_name": "Adinazolam",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.3485045513654099,
   "metapath_contribution": {
     "CbGaD": 0.4217178082138746,
     "CbGbCtD": 0.46052176389876653,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10154057333375945,
     "CrCbGaD": 0.00660441162432804
   },
+  "n_trials": 0.0,
   "prediction": 0.0017323650255424302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

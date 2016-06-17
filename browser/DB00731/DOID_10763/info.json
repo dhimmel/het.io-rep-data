@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.11567161907913115,
     "CbGbCtD": 0.18165154480503715,
@@ -14,6 +16,7 @@
     "CrCtD": 0.2422988766085205,
     "CtDrD": 0.18791905845658388
   },
+  "n_trials": 0.0,
   "prediction": 0.103727106496292,
   "status": 0,
   "training_prediction": 0.580599275814209

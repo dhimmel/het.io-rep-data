@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.14688523399927617,
     "CbGbCtD": 0.163005966966118,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.17504168671773554,
     "CrCtD": 0.24198483756323555
   },
+  "n_trials": 1.0,
   "prediction": 0.0861520551077905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

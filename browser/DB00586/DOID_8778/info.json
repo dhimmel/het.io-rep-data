@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGaD": 0.19493640598523876,
     "CbGbCtD": 0.27192234157439926,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0014773381411357508,
     "CrCrCtD": 0.20201744625084447
   },
+  "n_trials": 0.0,
   "prediction": 0.009192451438633209,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

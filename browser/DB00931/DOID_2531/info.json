@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00931",
   "compound_name": "Methacycline",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
     "CbGaD": 0.6554930821136815,
     "CbGbCtD": 0.3209973136432312,
     "CbGpPWpGaD": 0.013131896605053189,
     "CrCbGaD": 0.010377707638034143
   },
+  "n_trials": 0.0,
   "prediction": 0.00226420968229535,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

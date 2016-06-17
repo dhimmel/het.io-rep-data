@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.37043650733296524,
     "CbGbCtD": 0.3901821538728492,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11616937863016998,
     "CrCbGaD": 0.002884964435287765
   },
+  "n_trials": 0.0,
   "prediction": 0.00981024961003795,
   "status": 0,
   "training_prediction": 0.169833708920157

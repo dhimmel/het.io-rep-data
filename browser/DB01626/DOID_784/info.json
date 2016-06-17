@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01626",
   "compound_name": "Pargyline",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.270481144343303,
   "metapath_contribution": {
-    "CbGeAlD": 0.25490762526193383,
-    "CbGpPWpGaD": 0.7017597231461254,
-    "CrCbGaD": 0.04333265159194063
+    "CbGeAlD": 0.2549076252619339,
+    "CbGpPWpGaD": 0.7017597231461256,
+    "CrCbGaD": 0.043332651591940635
   },
+  "n_trials": 0.0,
   "prediction": 0.00113995932112915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

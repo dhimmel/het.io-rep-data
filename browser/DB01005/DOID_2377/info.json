@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01005",
   "compound_name": "Hydroxyurea",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.97074122236671,
   "metapath_contribution": {
     "CbGaD": 0.45089891460326087,
     "CbGbCtD": 0.441356475045007,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.018022189678573074,
     "CcSEcCtD": 0.0873079155676568
   },
+  "n_trials": 1.0,
   "prediction": 0.0122710664669874,
   "status": 0,
   "training_prediction": 0.0833512429847779

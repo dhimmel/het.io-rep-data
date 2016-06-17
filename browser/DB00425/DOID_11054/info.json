@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.634590377113134,
   "metapath_contribution": {
     "CbGbCtD": 0.3212869395603424,
     "CbGeAlD": 0.03061679872396412,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4825066176930879,
     "CrCbGaD": 0.016110197321154235
   },
+  "n_trials": 0.0,
   "prediction": 0.00192894932703706,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

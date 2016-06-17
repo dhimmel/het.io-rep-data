@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00409",
   "compound_name": "Remoxipride",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.8218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.40484156807295685,
     "CbGbCtD": 0.4614987191988673,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08392607919704267,
     "CrCbGaD": 0.00554526641006174
   },
+  "n_trials": 0.0,
   "prediction": 0.0051883782727084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00297",
   "compound_name": "Bupivacaine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.535760728218466,
   "metapath_contribution": {
     "CbGaD": 0.3024163702202032,
     "CbGbCtD": 0.4239386475540742,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1652462987721047,
     "CrCbGaD": 0.0023334872191469037
   },
+  "n_trials": 1.0,
   "prediction": 0.00241786413896423,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

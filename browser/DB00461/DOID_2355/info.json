@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.705461638491547,
   "metapath_contribution": {
     "CbGaD": 0.7888382314956108,
     "CbGeAlD": 0.07165827544318411,
     "CbGpPWpGaD": 0.13327429249421865,
     "CrCbGaD": 0.006229200566986469
   },
+  "n_trials": 0.0,
   "prediction": 0.00166611535750768,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

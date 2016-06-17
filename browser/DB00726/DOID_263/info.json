@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.420026007802341,
   "metapath_contribution": {
     "CbGaD": 0.18605615905008518,
     "CbGbCtD": 0.5556538414093145,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19087928466987233,
     "CrCbGaD": 0.0033885311533219838
   },
+  "n_trials": 0.0,
   "prediction": 0.00157093333574581,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,18 +1,21 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
-    "CbGaD": 0.03537448755218029,
-    "CbGbCtD": 0.20397673552309747,
-    "CbGdCrCtD": 0.0008988809156557068,
+    "CbGaD": 0.0353744875521803,
+    "CbGbCtD": 0.2039767355230975,
+    "CbGdCrCtD": 0.0008988809156557069,
     "CbGeAlD": 0.01776793753859432,
-    "CbGpPWpGaD": 0.012313011812729318,
-    "CcSEcCtD": 0.05090948154176094,
-    "CiPCiCtD": 0.43190491859911856,
-    "CtDrD": 0.24685454651686328
+    "CbGpPWpGaD": 0.01231301181272932,
+    "CcSEcCtD": 0.05090948154176095,
+    "CiPCiCtD": 0.4319049185991186,
+    "CtDrD": 0.2468545465168633
   },
+  "n_trials": 7.0,
   "prediction": 0.0169800220446411,
   "status": 0,
   "training_prediction": 0.219219623553765

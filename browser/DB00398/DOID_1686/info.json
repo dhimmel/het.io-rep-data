@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.696358907672302,
   "metapath_contribution": {
     "CbGbCtD": 0.4070666184262729,
     "CbGdCrCtD": 0.00580285293192535,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2687252929759322,
     "CrCbGaD": 0.01034985096758529
   },
+  "n_trials": 0.0,
   "prediction": 0.00255258860357879,
   "status": 0,
   "training_prediction": 0.0242002244511148

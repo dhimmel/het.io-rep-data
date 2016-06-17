@@ -1,18 +1,20 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.7366710013003901,
   "metapath_contribution": {
-    "CbGaD": 0.2671767039268896,
-    "CbGbCtD": 0.43883459590137286,
-    "CbGdCrCtD": 0.0032176246152441483,
-    "CbGeAlD": 0.038447995619569304,
-    "CbGpPWpGaD": 0.13082272387286184,
-    "CcSEcCtD": 0.11910014934583142,
-    "CrCbGaD": 0.002400206718230736
+    "CbGaD": 0.26717670392688964,
+    "CbGbCtD": 0.43883459590137297,
+    "CbGdCrCtD": 0.003217624615244149,
+    "CbGeAlD": 0.03844799561956932,
+    "CbGpPWpGaD": 0.13082272387286187,
+    "CcSEcCtD": 0.11910014934583145,
+    "CrCbGaD": 0.0024002067182307364
   },
+  "n_trials": 0.0,
   "prediction": 0.0027628483295902397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

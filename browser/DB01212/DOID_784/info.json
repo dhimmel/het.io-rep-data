@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.24382314694408302,
   "metapath_contribution": {
     "CbGaD": 0.7082597519854268,
     "CbGeAlD": 0.10743134307173023,
     "CbGpPWpGaD": 0.18003480568121202,
     "CrCbGaD": 0.004274099261630871
   },
+  "n_trials": 0.0,
   "prediction": 0.0010908653724437099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

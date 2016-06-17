@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.8289986996098829,
   "metapath_contribution": {
     "CbGbCtD": 0.30663075657468886,
     "CcSEcCtD": 0.15222607175925446,
     "CpDpCtD": 0.5371190781687653,
     "CrCbGaD": 0.00402409349729135
   },
+  "n_trials": 0.0,
   "prediction": 0.00451738850716963,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

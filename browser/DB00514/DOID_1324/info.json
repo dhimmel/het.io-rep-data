@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7802340702210658,
   "metapath_contribution": {
     "CbGaD": 0.496835087885484,
     "CbGbCtD": 0.33163005182117994,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.1114926236345312,
     "CcSEcCtD": 0.03713454756937288
   },
+  "n_trials": 1.0,
   "prediction": 0.00315716041648972,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

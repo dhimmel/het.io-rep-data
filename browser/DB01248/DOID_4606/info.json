@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.3433258295668467,
     "CbGeAlD": 0.030316249457807972,
     "CbGpPWpGaD": 0.03680602206295268,
     "CtDrD": 0.5895518989123927
   },
+  "n_trials": 3.0,
   "prediction": 0.0027880265831639103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

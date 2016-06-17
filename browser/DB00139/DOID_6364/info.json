@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00139",
   "compound_name": "Succinic acid",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.5019505851755529,
   "metapath_contribution": {
     "CbGbCtD": 0.7505424455115492,
     "CbGdCrCtD": 0.006221085371209011,
     "CbGeAlD": 0.1731839267848904,
     "CbGpPWpGaD": 0.07005254233235128
   },
+  "n_trials": 0.0,
   "prediction": 0.0024756032618941802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

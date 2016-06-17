@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:9296",
   "disease_name": "cleft lip",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
-    "CbGaD": 0.7383131772433046,
-    "CbGeAlD": 0.11074397883864587,
-    "CbGpPWpGaD": 0.14405671344179213,
-    "CrCbGaD": 0.0068861304762572306
+    "CbGaD": 0.7383131772433048,
+    "CbGeAlD": 0.11074397883864588,
+    "CbGpPWpGaD": 0.14405671344179216,
+    "CrCbGaD": 0.006886130476257232
   },
+  "n_trials": 0.0,
   "prediction": 0.0023907211591474,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.7755813570529366,
     "CbGbCtD": 0.04586791115818075,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.011021625728350115,
     "CrCbGaD": 0.0017781517872585632
   },
+  "n_trials": 0.0,
   "prediction": 0.0021954766878754897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

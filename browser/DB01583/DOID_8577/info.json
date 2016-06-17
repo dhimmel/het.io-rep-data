@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.802340702210663,
   "metapath_contribution": {
     "CbGaD": 0.3357188331425513,
     "CbGbCtD": 0.3889258268665285,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14605003273498832,
     "CrCbGaD": 0.0019566741616531555
   },
+  "n_trials": 0.0,
   "prediction": 0.00361127186253017,
   "status": 0,
   "training_prediction": 0.0122797941812461

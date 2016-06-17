@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0448634590377113,
   "metapath_contribution": {
     "CbGaD": 0.4895486304342403,
     "CbGbCtD": 0.4957568076550082,
     "CbGpPWpGaD": 0.008020545885071055,
     "CrCbGaD": 0.006674016025680371
   },
+  "n_trials": 0.0,
   "prediction": 0.0009249695479194881,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

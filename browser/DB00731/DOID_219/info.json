@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.669700910273082,
   "metapath_contribution": {
     "CbGaD": 0.43953798882784956,
     "CbGbCtD": 0.4770499308520118,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.026245238528505323,
     "CrCbGaD": 0.0019515701331328413
   },
+  "n_trials": 0.0,
   "prediction": 0.00203118082463902,
   "status": 0,
   "training_prediction": 0.00289770486228755

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.17880364109232802,
   "metapath_contribution": {
     "CbGaD": 0.5637079914260024,
     "CbGbCtD": 0.14452379108229438,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.24503456599712806,
     "CrCbGaD": 0.011433858791730702
   },
+  "n_trials": 0.0,
   "prediction": 0.00107610703038845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

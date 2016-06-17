@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00912",
   "compound_name": "Repaglinide",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.875812743823147,
   "metapath_contribution": {
     "CbGaD": 0.5802644004728137,
     "CbGbCtD": 0.1485208201372926,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08762488563123251,
     "CcSEcCtD": 0.1724220577240786
   },
+  "n_trials": 0.0,
   "prediction": 0.00433525285253753,
   "status": 0,
   "training_prediction": 0.005258901595777779

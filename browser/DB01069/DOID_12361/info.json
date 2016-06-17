@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.278283485045514,
   "metapath_contribution": {
     "CbGbCtD": 0.7526908702037336,
     "CbGeAlD": 0.02274438449690446,
     "CbGpPWpGaD": 0.049142467661721874,
     "CcSEcCtD": 0.17542227763764015
   },
+  "n_trials": 0.0,
   "prediction": 0.0011859068560705099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

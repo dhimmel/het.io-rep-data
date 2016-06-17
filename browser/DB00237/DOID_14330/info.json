@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00237",
   "compound_name": "Butabarbital",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.7718692971809478,
     "CbGeAlD": 0.10300470329385325,
     "CbGpPWpGaD": 0.1175273227402919,
     "CrCbGaD": 0.007598676784907126
   },
+  "n_trials": 0.0,
   "prediction": 0.00320200149593738,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

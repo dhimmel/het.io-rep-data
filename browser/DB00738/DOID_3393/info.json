@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00738",
   "compound_name": "Pentamidine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.907672301690507,
   "metapath_contribution": {
     "CbGaD": 0.38154792471525,
     "CbGbCtD": 0.38040598652971497,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14366648411268973,
     "CrCbGaD": 0.0012273426958637032
   },
+  "n_trials": 0.0,
   "prediction": 0.00832566681474428,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

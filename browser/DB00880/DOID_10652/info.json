@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00880",
   "compound_name": "Chlorothiazide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.41092327698309494,
   "metapath_contribution": {
     "CbGaD": 0.8193113953227075,
     "CbGeAlD": 0.0034791328096970336,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11874926720301902,
     "CrCbGaD": 0.007756671632180139
   },
+  "n_trials": 0.0,
   "prediction": 0.00158188797838404,
   "status": 0,
   "training_prediction": 0.00192004889103671

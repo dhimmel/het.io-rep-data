@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00198",
   "compound_name": "Oseltamivir",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8088426527958391,
   "metapath_contribution": {
     "CbGbCtD": 0.6180289619297653,
     "CbGeAlD": 0.028958152330841546,
     "CbGpPWpGaD": 0.10834619291859743,
     "CcSEcCtD": 0.2446666928207957
   },
+  "n_trials": 0.0,
   "prediction": 0.005331553778131029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

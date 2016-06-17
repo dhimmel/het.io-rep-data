@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.45318595578673604,
   "metapath_contribution": {
     "CbGaD": 0.19581504740703914,
     "CbGbCtD": 0.5667758734238909,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17038289131170775,
     "CrCbGaD": 0.0056950555365591305
   },
+  "n_trials": 0.0,
   "prediction": 0.00167340871208287,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

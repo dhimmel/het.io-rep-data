@@ -1,8 +1,10 @@
 {
   "compound_id": "DB02546",
   "compound_name": "Vorinostat",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.4730358772819863,
     "CbGeAlD": 0.0615266824883585,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05405059613268224,
     "CrCrCtD": 0.2862361962999124
   },
+  "n_trials": 0.0,
   "prediction": 0.0107927549023325,
   "status": 0,
   "training_prediction": 0.0272649677633063

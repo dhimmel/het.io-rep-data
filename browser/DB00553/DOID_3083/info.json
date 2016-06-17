@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00553",
   "compound_name": "Methoxsalen",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.46568180889325245,
     "CbGbCtD": 0.38528957762037663,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07089108379127469,
     "CcSEcCtD": 0.07203553636924223
   },
+  "n_trials": 0.0,
   "prediction": 0.00768900941320375,
   "status": 0,
   "training_prediction": 0.0374250048987117

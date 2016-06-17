@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00286",
   "compound_name": "Conjugated Estrogens",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.334200260078023,
   "metapath_contribution": {
     "CbGaD": 0.2882722016026385,
     "CbGbCtD": 0.4420417652490851,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1492912442437961,
     "CrCbGaD": 0.0022324074473826496
   },
+  "n_trials": 0.0,
   "prediction": 0.00256699156737211,
   "status": 0,
   "training_prediction": 0.0486104661498002

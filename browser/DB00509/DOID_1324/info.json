@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00509",
   "compound_name": "Dextrothyroxine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.570871261378413,
   "metapath_contribution": {
     "CbGbCtD": 0.5239783898967324,
     "CbGeAlD": 0.07553502142388205,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21054729574616785,
     "CrCbGaD": 0.004514373099313905
   },
+  "n_trials": 0.0,
   "prediction": 0.00207302949026556,
   "status": 0,
   "training_prediction": 0.0070753638403202295

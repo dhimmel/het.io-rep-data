@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00571",
   "compound_name": "Propranolol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGaD": 0.3122154541252747,
     "CbGbCtD": 0.3283441845678469,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.003345158834040995,
     "CrCrCtD": 0.2625463311805108
   },
+  "n_trials": 1.0,
   "prediction": 0.00564334447936464,
   "status": 0,
   "training_prediction": 0.0204559630063274

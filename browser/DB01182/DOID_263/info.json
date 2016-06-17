@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.6918075422626789,
   "metapath_contribution": {
     "CbGaD": 0.18327538265569576,
     "CbGbCtD": 0.533993620139059,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.2427821575432453,
     "CrCbGaD": 0.004092868397620623
   },
+  "n_trials": 0.0,
   "prediction": 0.0024176869578792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

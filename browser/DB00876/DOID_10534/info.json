@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00876",
   "compound_name": "Eprosartan",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGbCtD": 0.6162340018359305,
     "CbGeAlD": 0.05613348782274428,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.26614716666740157,
     "CrCbGaD": 0.0023103008645287606
   },
+  "n_trials": 0.0,
   "prediction": 0.0018514856157970101,
   "status": 0,
   "training_prediction": 0.00407838271844974

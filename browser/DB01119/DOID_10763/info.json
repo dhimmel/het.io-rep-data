@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB01119",
   "compound_name": "Diazoxide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.18183778492695127,
     "CbGbCtD": 0.23816867113076853,
@@ -15,6 +17,5 @@
     "CrCtD": 0.3000702503730878
   },
   "prediction": 0.11763407117423501,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

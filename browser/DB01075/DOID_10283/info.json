@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.276332899869961,
   "metapath_contribution": {
     "CbGaD": 0.41902406445842194,
     "CbGbCtD": 0.3633859559197302,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09554888951360876,
     "CrCbGaD": 0.004310388695837976
   },
+  "n_trials": 2.0,
   "prediction": 0.00144082764647439,
   "status": 0,
   "training_prediction": 0.0101571991054311

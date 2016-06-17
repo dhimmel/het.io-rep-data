@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00836",
   "compound_name": "Loperamide",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.432379713914174,
   "metapath_contribution": {
     "CbGaD": 0.45828359919852835,
     "CbGbCtD": 0.1758147264209149,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15796789555791813,
     "CrCbGaD": 0.0016994674724823172
   },
+  "n_trials": 0.0,
   "prediction": 0.00141166884221006,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04573",
   "compound_name": "Estriol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.17536727887680753,
     "CbGbCtD": 0.20834057406603548,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.22140401003102478,
     "CrCtD": 0.3375453785515464
   },
+  "n_trials": 0.0,
   "prediction": 0.0990950242940762,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

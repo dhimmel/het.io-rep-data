@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.128738621586476,
   "metapath_contribution": {
     "CbGeAlD": 0.18851015038282182,
     "CbGpPWpGaD": 0.21108511948550607,
     "CcSEcCtD": 0.5968591238925636,
     "CrCbGaD": 0.0035456062391085764
   },
+  "n_trials": 1.0,
   "prediction": 0.00115742542490782,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01222",
   "compound_name": "Budesonide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0773732119635891,
   "metapath_contribution": {
     "CbGaD": 0.25641992320327145,
     "CbGbCtD": 0.2738486740356351,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.004287422480119251,
     "CrCrCtD": 0.2238651928596001
   },
+  "n_trials": 0.0,
   "prediction": 0.00117663218408367,
   "status": 0,
   "training_prediction": 0.0228529703381247

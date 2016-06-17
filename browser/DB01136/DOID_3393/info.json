@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9362808842652801,
   "metapath_contribution": {
     "CbGaD": 0.36382459363048875,
     "CbGbCtD": 0.22835000531738817,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0012131345989453291,
     "CrCrCtD": 0.172310045345279
   },
+  "n_trials": 5.0,
   "prediction": 0.0126265039459615,
   "status": 0,
   "training_prediction": 0.0645250856760838

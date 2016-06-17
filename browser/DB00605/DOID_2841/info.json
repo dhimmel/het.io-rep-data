@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.3606364740421691,
     "CbGbCtD": 0.180340327908426,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.08977086545637523,
     "CpDpCtD": 0.26616305241576677
   },
+  "n_trials": 0.0,
   "prediction": 0.0155088194002874,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

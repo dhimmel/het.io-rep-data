@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00185",
   "compound_name": "Cevimeline",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8140442132639789,
   "metapath_contribution": {
     "CbGaD": 0.4799483733464556,
     "CbGbCtD": 0.2352656510942404,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05268729072680117,
     "CcSEcCtD": 0.2272864800286396
   },
+  "n_trials": 0.0,
   "prediction": 0.009076217139647909,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

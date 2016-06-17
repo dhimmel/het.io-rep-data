@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:8986",
   "disease_name": "narcolepsy",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGaD": 0.6650768797614741,
     "CbGeAlD": 0.113333124519611,
     "CbGpPWpGaD": 0.21594436464842112,
     "CrCbGaD": 0.00564563107049377
   },
+  "n_trials": 0.0,
   "prediction": 0.00215634919631511,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

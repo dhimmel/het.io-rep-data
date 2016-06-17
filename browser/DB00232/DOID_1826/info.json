@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00232",
   "compound_name": "Methyclothiazide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
     "CbGaD": 0.32785753783350446,
     "CbGbCtD": 0.46219559709476604,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10962092613426963,
     "CrCbGaD": 0.003751794762651158
   },
+  "n_trials": 0.0,
   "prediction": 0.0043328225590556,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

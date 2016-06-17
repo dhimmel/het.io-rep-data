@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.45318595578673604,
   "metapath_contribution": {
     "CbGaD": 0.2885531704024961,
     "CbGbCtD": 0.4554013104989088,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1571941187892288,
     "CrCbGaD": 0.006827290685773358
   },
+  "n_trials": 0.0,
   "prediction": 0.00201625511339323,
   "status": 0,
   "training_prediction": 0.00444044912232949

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.639791937581274,
   "metapath_contribution": {
     "CbGaD": 0.6108086020500622,
     "CbGeAlD": 0.057190785301036405,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20250741636256486,
     "CrCbGaD": 0.005413989922698318
   },
+  "n_trials": 0.0,
   "prediction": 0.00224814777304939,
   "status": 0,
   "training_prediction": 0.00617099510270175

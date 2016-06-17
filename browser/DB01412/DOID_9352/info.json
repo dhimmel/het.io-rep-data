@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01412",
   "compound_name": "Theobromine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.46684005201560497,
   "metapath_contribution": {
     "CbGaD": 0.7124249930596929,
     "CbGbCtD": 0.14780977841984608,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12445278231070259,
     "CrCbGaD": 0.0038514366355709858
   },
+  "n_trials": 0.0,
   "prediction": 0.0023689811941839,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

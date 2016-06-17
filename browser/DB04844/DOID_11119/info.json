@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04844",
   "compound_name": "Tetrabenazine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.9210728428642011,
     "CbGeAlD": 0.016322591026330276,
     "CbGpPWpGaD": 0.057519521990073756,
     "CrCbGaD": 0.0050850441193948355
   },
+  "n_trials": 1.0,
   "prediction": 0.0036001014565585398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

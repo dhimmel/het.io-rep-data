@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00339",
   "compound_name": "Pyrazinamide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8237971391417429,
   "metapath_contribution": {
     "CbGbCtD": 0.7221122386519147,
     "CbGeAlD": 0.035627550964130554,
     "CbGpPWpGaD": 0.04891453926554862,
     "CcSEcCtD": 0.19334567111840614
   },
+  "n_trials": 0.0,
   "prediction": 0.0034242367229096898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.413524057217165,
   "metapath_contribution": {
     "CbGaD": 0.29845460287578074,
     "CbGbCtD": 0.4980224910982017,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12346668405571565,
     "CrCbGaD": 0.0022549802778719062
   },
+  "n_trials": 0.0,
   "prediction": 0.00203973684277004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

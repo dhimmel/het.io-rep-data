@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.41092327698309494,
   "metapath_contribution": {
-    "CbGaD": 0.6335547141126876,
+    "CbGaD": 0.6335547141126877,
     "CbGbCtD": 0.25118674712565753,
-    "CbGeAlD": 0.031634726121026406,
-    "CbGpPWpGaD": 0.04241366013270981,
+    "CbGeAlD": 0.03163472612102641,
+    "CbGpPWpGaD": 0.042413660132709814,
     "CcSEcCtD": 0.035024329608537,
-    "CrCbGaD": 0.006185822899381607
+    "CrCbGaD": 0.006185822899381608
   },
+  "n_trials": 0.0,
   "prediction": 0.00189663552457448,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

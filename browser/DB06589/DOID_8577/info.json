@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.490897269180754,
   "metapath_contribution": {
     "CbGaD": 0.14093493707599222,
     "CbGbCtD": 0.37656099728891346,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.18311485245329925,
     "CrCbGaD": 0.0013556211421796957
   },
+  "n_trials": 0.0,
   "prediction": 0.00206809138461259,
   "status": 0,
   "training_prediction": 0.00705859409809101

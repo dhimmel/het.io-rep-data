@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01141",
   "compound_name": "Micafungin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.6005766009786659,
     "CbGeAlD": 0.0572986902982979,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.26244818132220243,
     "CrCbGaD": 0.003907531644289082
   },
+  "n_trials": 0.0,
   "prediction": 0.00418040737452051,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

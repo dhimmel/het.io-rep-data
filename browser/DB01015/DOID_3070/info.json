@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01015",
   "compound_name": "Sulfamethoxazole",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.565019505851756,
   "metapath_contribution": {
     "CbGaD": 0.6869700674243367,
     "CbGbCtD": 0.025356752795538232,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10257602469018645,
     "CrCbGaD": 0.0023964721963484624
   },
+  "n_trials": 1.0,
   "prediction": 0.00151965557152533,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

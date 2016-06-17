@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.8361508452535759,
   "metapath_contribution": {
     "CbGbCtD": 0.8946586497680228,
     "CbGeAlD": 0.09760496570830332,
     "CbGpPWpGaD": 0.004941648267453953,
     "CcSEcCtD": 0.0027947362562199354
   },
+  "n_trials": 4.0,
   "prediction": 0.0024300103352372,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

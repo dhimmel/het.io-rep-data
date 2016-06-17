@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.789336801040312,
   "metapath_contribution": {
     "CbGaD": 0.3453983840757739,
     "CbGbCtD": 0.4283655625887229,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16445051832223764,
     "CrCbGaD": 0.0029903365289102894
   },
+  "n_trials": 0.0,
   "prediction": 0.00325552715657395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

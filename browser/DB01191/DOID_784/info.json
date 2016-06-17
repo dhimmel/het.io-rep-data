@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01191",
   "compound_name": "Dexfenfluramine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8394018205461641,
   "metapath_contribution": {
     "CbGaD": 0.6944211905101833,
     "CbGeAlD": 0.09567320167584283,
     "CbGpPWpGaD": 0.20968024605481667,
     "CrCbGaD": 0.00022536175915730252
   },
+  "n_trials": 0.0,
   "prediction": 0.0026726762864628197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

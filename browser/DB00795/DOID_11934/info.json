@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.8179453836150848,
   "metapath_contribution": {
     "CbGaD": 0.4349407776645759,
     "CbGbCtD": 0.3011676970627376,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1730604055480624,
     "CrCbGaD": 0.002408524823255064
   },
+  "n_trials": 0.0,
   "prediction": 0.0022079716065446,
   "status": 0,
   "training_prediction": 0.007586118766017509

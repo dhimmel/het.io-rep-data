@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.7581274382314691,
   "metapath_contribution": {
     "CbGbCtD": 0.2352271106300311,
     "CbGeAlD": 0.09683219338504687,
     "CbGpPWpGaD": 0.00836433331448027,
     "CpDpCtD": 0.6595763626704417
   },
+  "n_trials": 0.0,
   "prediction": 0.0035198773504124202,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

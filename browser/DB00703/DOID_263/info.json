@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.5508233097444918,
     "CbGbCtD": 0.21484482157089413,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0931738507201132,
     "CrCbGaD": 0.005068009394459417
   },
+  "n_trials": 0.0,
   "prediction": 0.00576975541544237,
   "status": 0,
   "training_prediction": 0.016657379811748002

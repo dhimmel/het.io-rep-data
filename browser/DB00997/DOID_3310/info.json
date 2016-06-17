@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.0520156046814044,
   "metapath_contribution": {
     "CbGbCtD": 0.5570984096279584,
     "CbGdCrCtD": 0.007492760119857289,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07474708791843675,
     "CcSEcCtD": 0.3081130602074426
   },
+  "n_trials": 0.0,
   "prediction": 0.0010762974148892,
   "status": 0,
   "training_prediction": 0.0374785416318772

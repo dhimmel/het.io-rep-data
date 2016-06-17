@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.0514705882352941,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.14239271781534502,
   "metapath_contribution": {
     "CbGaD": 0.3049928341004638,
     "CbGeAlD": 0.2686225377722792,
     "CbGpPWpGaD": 0.414169962942039,
     "CrCbGaD": 0.012214665185218038
   },
+  "n_trials": 0.0,
   "prediction": 0.000735929058363534,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

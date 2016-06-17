@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.523407022106632,
   "metapath_contribution": {
     "CbGaD": 0.22000078339973195,
     "CbGbCtD": 0.283024244886462,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002710172245134018,
     "CrCrCtD": 0.2883705766773867
   },
+  "n_trials": 0.0,
   "prediction": 0.00420609947542778,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

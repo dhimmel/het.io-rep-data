@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGaD": 0.2229251947155301,
     "CbGbCtD": 0.39808390892572876,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0037188963887680683,
     "CrCrCtD": 0.18846708018635658
   },
+  "n_trials": 0.0,
   "prediction": 0.004875694528150129,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

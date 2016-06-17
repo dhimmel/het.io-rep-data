@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00703",
   "compound_name": "Methazolamide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8472041612483739,
   "metapath_contribution": {
     "CbGaD": 0.4140855439569576,
     "CbGbCtD": 0.34284203926466505,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13602249555029808,
     "CrCbGaD": 0.003192264702094021
   },
+  "n_trials": 0.0,
   "prediction": 0.0053919872518255795,
   "status": 0,
   "training_prediction": 0.0292152576314732

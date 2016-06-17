@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.7860858257477241,
   "metapath_contribution": {
     "CbGbCtD": 0.48561346795241905,
     "CbGdCrCtD": 0.0052484961689617535,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.31976685303895097,
     "CrCbGaD": 0.005722194389322397
   },
+  "n_trials": 0.0,
   "prediction": 0.00279306105735297,
   "status": 0,
   "training_prediction": 0.007144087576625391

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.6501950585175551,
   "metapath_contribution": {
     "CbGaD": 0.5712721191261303,
     "CbGdCrCtD": 0.002038735828430003,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14251950070029568,
     "CrCbGaD": 0.006780127146985847
   },
+  "n_trials": 0.0,
   "prediction": 0.00311259849614829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

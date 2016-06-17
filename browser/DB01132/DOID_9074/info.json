@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.36651602666918304,
     "CbGbCtD": 0.4576410875380267,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1234557383902224,
     "CrCbGaD": 0.0022994644952038347
   },
+  "n_trials": 1.0,
   "prediction": 0.0038455559363421796,
   "status": 0,
   "training_prediction": 0.0111428784733558

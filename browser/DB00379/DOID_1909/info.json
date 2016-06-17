@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00379",
   "compound_name": "Mexiletine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9447334200260079,
   "metapath_contribution": {
     "CbGaD": 0.5019105635280444,
     "CbGbCtD": 0.30241526513210043,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08540350341591699,
     "CrCbGaD": 0.005823706684441794
   },
+  "n_trials": 0.0,
   "prediction": 0.00471911455293707,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.432379713914174,
   "metapath_contribution": {
     "CbGaD": 0.2925718713439584,
     "CbGbCtD": 0.42252960598347544,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1217487504150121,
     "CrCbGaD": 0.004101240789054157
   },
+  "n_trials": 0.0,
   "prediction": 0.0019101235271982398,
   "status": 0,
   "training_prediction": 0.00652192591674559

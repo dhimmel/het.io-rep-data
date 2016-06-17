@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.345253576072822,
   "metapath_contribution": {
     "CbGbCtD": 0.42572549316373687,
     "CbGeAlD": 0.04460278324827185,
     "CbGpPWpGaD": 0.11714512776114626,
     "CcSEcCtD": 0.41252659582684503
   },
+  "n_trials": 0.0,
   "prediction": 0.00122583913377703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00727",
   "compound_name": "Nitroglycerin",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.358257477243173,
   "metapath_contribution": {
     "CbGeAlD": 0.22674954409520742,
     "CbGpPWpGaD": 0.20822310457120247,
     "CcSEcCtD": 0.56502735133359
   },
+  "n_trials": 4.0,
   "prediction": 0.00139227465739509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

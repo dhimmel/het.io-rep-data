@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00115",
   "compound_name": "Cyanocobalamin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7964889466840049,
   "metapath_contribution": {
     "CbGaD": 0.7165873194737807,
     "CbGeAlD": 0.0821951102112544,
     "CbGpPWpGaD": 0.194594471314307,
     "CrCbGaD": 0.006623099000657807
   },
+  "n_trials": 0.0,
   "prediction": 0.00465663196576535,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

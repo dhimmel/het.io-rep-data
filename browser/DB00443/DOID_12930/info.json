@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
-    "CbGaD": 0.35640924132588053,
-    "CbGbCtD": 0.34994478659454537,
-    "CbGpPWpGaD": 0.014966428604733994,
-    "CcSEcCtD": 0.034124750220725496,
-    "CrCbGaD": 0.0015947796652811639,
-    "CrCrCtD": 0.2429600135888335
+    "CbGaD": 0.3564092413258805,
+    "CbGbCtD": 0.3499447865945453,
+    "CbGpPWpGaD": 0.01496642860473399,
+    "CcSEcCtD": 0.03412475022072549,
+    "CrCbGaD": 0.0015947796652811634,
+    "CrCrCtD": 0.24296001358883346
   },
+  "n_trials": 0.0,
   "prediction": 0.0031050247624055103,
   "status": 0,
   "training_prediction": 0.0203993125672607

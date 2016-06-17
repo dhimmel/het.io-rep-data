@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.540962288686606,
   "metapath_contribution": {
     "CbGbCtD": 0.6852315952903694,
     "CbGdCrCtD": 0.0026277282457698938,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09182629119846782,
     "CcSEcCtD": 0.15598141584334543
   },
+  "n_trials": 4.0,
   "prediction": 0.00180881278285726,
   "status": 0,
   "training_prediction": 0.00398458950020215

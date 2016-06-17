@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.1906867574069632,
     "CbGbCtD": 0.6111691252234636,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1489930372246069,
     "CrCbGaD": 0.0016291476674084066
   },
+  "n_trials": 0.0,
   "prediction": 0.0027200834400592,
   "status": 0,
   "training_prediction": 0.0123213260594329

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04946",
   "compound_name": "Iloperidone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.7804803867210293,
     "CbGeAlD": 0.07191139014319262,
     "CbGpPWpGaD": 0.14045723773393284,
     "CrCbGaD": 0.00715098540184534
   },
+  "n_trials": 0.0,
   "prediction": 0.0038728297808208797,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

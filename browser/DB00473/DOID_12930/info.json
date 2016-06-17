@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00473",
   "compound_name": "Hexylcaine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.8295942053056794,
     "CbGeAlD": 0.1084749294489889,
     "CbGpPWpGaD": 0.05928507596018818,
     "CrCbGaD": 0.002645789285143462
   },
+  "n_trials": 0.0,
   "prediction": 0.00333954952463371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.830299089726918,
   "metapath_contribution": {
     "CbGbCtD": 0.06540976848516318,
     "CbGeAlD": 0.021442691055187566,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.00034301661332526847,
     "CrCrCtD": 0.2906076591412325
   },
+  "n_trials": 0.0,
   "prediction": 0.00331356884888701,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

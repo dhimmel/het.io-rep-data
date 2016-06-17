@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.9177827094684651,
     "CbGeAlD": 0.04534941018528707,
     "CbGpPWpGaD": 0.03064196274600016,
     "CrCbGaD": 0.006225917600247676
   },
+  "n_trials": 0.0,
   "prediction": 0.00242989453331071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

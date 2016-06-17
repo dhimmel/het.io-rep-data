@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08807",
   "compound_name": "Bopindolol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.8061103049283206,
     "CbGeAlD": 0.009253562634856967,
     "CbGpPWpGaD": 0.18068657191912607,
     "CrCbGaD": 0.00394956051769642
   },
+  "n_trials": 0.0,
   "prediction": 0.00236105437993218,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

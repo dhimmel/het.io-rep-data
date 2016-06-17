@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.29973992197659305,
   "metapath_contribution": {
     "CbGbCtD": 0.5768859780597236,
     "CbGeAlD": 0.044710218229833856,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2612743142085527,
     "CrCbGaD": 0.0031974374202634478
   },
+  "n_trials": 0.0,
   "prediction": 0.0018123073752154102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

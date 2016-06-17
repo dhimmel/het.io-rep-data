@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGbCtD": 0.11748669394054735,
     "CbGdCrCtD": 0.0005619522459912171,
@@ -13,6 +15,7 @@
     "CrCtD": 0.2166243469483556,
     "CtDrD": 0.1592062957122153
   },
+  "n_trials": 0.0,
   "prediction": 0.17216255737831102,
   "status": 0,
   "training_prediction": 0.25347260037069297

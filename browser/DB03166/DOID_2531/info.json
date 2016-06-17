@@ -1,16 +1,18 @@
 {
   "compound_id": "DB03166",
   "compound_name": "Acetic acid",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.753576072821847,
   "metapath_contribution": {
-    "CbGbCtD": 0.03894167636695484,
-    "CbGeAlD": 0.00560627837189826,
-    "CbGpPWpGaD": 0.04155276518451139,
-    "CcSEcCtD": 0.06661714635013785,
-    "CrCrCtD": 0.8472821337264976
+    "CbGbCtD": 0.038941676366954836,
+    "CbGeAlD": 0.005606278371898259,
+    "CbGpPWpGaD": 0.041552765184511384,
+    "CcSEcCtD": 0.06661714635013784,
+    "CrCrCtD": 0.8472821337264975
   },
+  "n_trials": 0.0,
   "prediction": 0.00404450187742519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

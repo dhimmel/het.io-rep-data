@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGbCtD": 0.23220899763349956,
     "CbGpPWpGaD": 0.0005883352597162401,
@@ -10,7 +12,7 @@
     "CiPCiCtD": 0.5774229052810657,
     "CrCrCtD": 0.125109335667154
   },
+  "n_trials": 0.0,
   "prediction": 0.0152299054669888,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

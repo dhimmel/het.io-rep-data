@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.832249674902471,
   "metapath_contribution": {
     "CbGaD": 0.15995811871746576,
     "CbGbCtD": 0.607523240047651,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20460898394289947,
     "CrCbGaD": 0.0011963891886250082
   },
+  "n_trials": 0.0,
   "prediction": 0.0033301878714158397,
   "status": 0,
   "training_prediction": 0.0107793798041822

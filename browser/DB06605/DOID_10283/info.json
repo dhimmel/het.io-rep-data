@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06605",
   "compound_name": "Apixaban",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.30666515346201184,
     "CbGbCtD": 0.472420876923247,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10582061136585046,
     "CcSEcCtD": 0.09565471472718669
   },
+  "n_trials": 0.0,
   "prediction": 0.008724388880899991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,18 +1,20 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.514304291287386,
   "metapath_contribution": {
-    "CbGaD": 0.4830560338864862,
-    "CbGbCtD": 0.1482706545603375,
-    "CbGdCrCtD": 0.0038726776111802914,
-    "CbGeAlD": 0.0804640535681878,
-    "CbGpPWpGaD": 0.16767116969867563,
-    "CcSEcCtD": 0.11080853101107485,
-    "CrCbGaD": 0.005856879664057751
+    "CbGaD": 0.48305603388648616,
+    "CbGbCtD": 0.14827065456033747,
+    "CbGdCrCtD": 0.0038726776111802906,
+    "CbGeAlD": 0.08046405356818778,
+    "CbGpPWpGaD": 0.1676711696986756,
+    "CcSEcCtD": 0.11080853101107484,
+    "CrCbGaD": 0.00585687966405775
   },
+  "n_trials": 0.0,
   "prediction": 0.0015917446596133,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01070",
   "compound_name": "Dihydrotachysterol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.19314614302117142,
     "CbGbCtD": 0.1912736402779247,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.24440726315238487,
     "CrCtD": 0.3635210945884192
   },
+  "n_trials": 0.0,
   "prediction": 0.0337371224528965,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

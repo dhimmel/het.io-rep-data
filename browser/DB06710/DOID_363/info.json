@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGaD": 0.10381919122586154,
     "CbGbCtD": 0.154274176441445,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.2131114664291331,
     "CrCtD": 0.29532092879221244
   },
+  "n_trials": 0.0,
   "prediction": 0.0296972311346192,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

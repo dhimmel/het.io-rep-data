@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9115734720416121,
   "metapath_contribution": {
     "CbGbCtD": 0.2969878019836784,
     "CbGdCrCtD": 0.00027639728890043635,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09105791062234127,
     "CiPCiCtD": 0.5853297642268523
   },
+  "n_trials": 0.0,
   "prediction": 0.00525580048648134,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

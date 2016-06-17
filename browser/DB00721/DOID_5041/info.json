@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.36605981794538395,
   "metapath_contribution": {
     "CbGbCtD": 0.42411416387670803,
     "CbGeAlD": 0.28681424304064485,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16811591147696173,
     "CrCbGaD": 0.03670015644535263
   },
+  "n_trials": 0.0,
   "prediction": 0.00116640806808437,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

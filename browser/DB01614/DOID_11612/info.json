@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.6170351105331601,
   "metapath_contribution": {
     "CbGaD": 0.7903131731293297,
     "CbGbCtD": 0.0944785114039938,
     "CbGpPWpGaD": 0.10974289174325655,
     "CrCbGaD": 0.005465423723419849
   },
+  "n_trials": 0.0,
   "prediction": 0.00163046007047296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

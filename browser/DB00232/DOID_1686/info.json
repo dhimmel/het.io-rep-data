@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00232",
   "compound_name": "Methyclothiazide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.19504187680848867,
     "CbGbCtD": 0.23188150766795176,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.18748872474402833,
     "CrCtD": 0.3261908288805111
   },
+  "n_trials": 0.0,
   "prediction": 0.0408029852341222,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

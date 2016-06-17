@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.4369310793237971,
   "metapath_contribution": {
     "CbGaD": 0.4965792664932648,
     "CbGbCtD": 0.1496827295913391,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14231612291050508,
     "CrCbGaD": 0.005547005224890726
   },
+  "n_trials": 0.0,
   "prediction": 0.00156836299795331,
   "status": 0,
   "training_prediction": 0.0037374261958479705

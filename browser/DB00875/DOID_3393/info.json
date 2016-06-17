@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00875",
   "compound_name": "Flupentixol",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.298439531859558,
   "metapath_contribution": {
     "CbGaD": 0.3040628310786234,
     "CbGbCtD": 0.5080891362142185,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15887562684679477,
     "CrCbGaD": 0.002257392142938239
   },
+  "n_trials": 0.0,
   "prediction": 0.0015907060308457698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

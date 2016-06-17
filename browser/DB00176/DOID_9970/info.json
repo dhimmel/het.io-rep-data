@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00176",
   "compound_name": "Fluvoxamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9570871261378409,
   "metapath_contribution": {
     "CbGaD": 0.1560014887423315,
     "CbGbCtD": 0.37397142272451334,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10557694805334893,
     "CpDpCtD": 0.31176492655910254
   },
+  "n_trials": 0.0,
   "prediction": 0.0169961562092939,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

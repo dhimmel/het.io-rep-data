@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.318595578673602,
   "metapath_contribution": {
     "CbGbCtD": 0.4618627834551948,
     "CbGeAlD": 0.19557682961894143,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.30808848015697743,
     "CrCbGaD": 0.0026019427356924543
   },
+  "n_trials": 0.0,
   "prediction": 0.0011176531373520001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

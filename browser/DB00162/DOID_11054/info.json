@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.0624187256176853,
   "metapath_contribution": {
     "CbGdCrCtD": 0.01907461221609147,
-    "CbGeAlD": 0.558118087864726,
-    "CbGpPWpGaD": 0.4228072999191826
+    "CbGeAlD": 0.5581180878647259,
+    "CbGpPWpGaD": 0.42280729991918253
   },
+  "n_trials": 0.0,
   "prediction": 0.000696414685760855,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

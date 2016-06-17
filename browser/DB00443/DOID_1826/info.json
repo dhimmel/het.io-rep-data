@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0552665799739922,
   "metapath_contribution": {
     "CbGaD": 0.36293872805103394,
     "CbGbCtD": 0.33869853945874795,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2105821903295994,
     "CrCbGaD": 0.004715380925431942
   },
+  "n_trials": 0.0,
   "prediction": 0.000967916572997517,
   "status": 0,
   "training_prediction": 0.0313029238357346

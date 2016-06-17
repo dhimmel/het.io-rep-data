@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00900",
   "compound_name": "Didanosine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8328998699609879,
   "metapath_contribution": {
     "CbGbCtD": 0.4081997454125872,
     "CbGdCrCtD": 0.003262026062923793,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10954549112002886,
     "CrCrCtD": 0.43441028893504363
   },
+  "n_trials": 0.0,
   "prediction": 0.0035437766989975398,
   "status": 0,
   "training_prediction": 0.0102743496817658

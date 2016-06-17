@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.567620286085826,
   "metapath_contribution": {
     "CbGaD": 0.9473133210587062,
     "CbGeAlD": 0.012374185620198654,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.00890831594577444
   },
   "prediction": 0.00133474412181735,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.8218465539661899,
   "metapath_contribution": {
     "CbGaD": 0.32621383584152325,
     "CbGbCtD": 0.3426067356616482,
     "CbGpPWpGaD": 0.14123051198264955,
     "CcSEcCtD": 0.18994891651417914
   },
+  "n_trials": 0.0,
   "prediction": 0.00369144872441107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

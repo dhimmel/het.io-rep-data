@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00950",
   "compound_name": "Fexofenadine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.37581274382314706,
   "metapath_contribution": {
     "CbGaD": 0.20854359864780314,
     "CbGbCtD": 0.605616497933526,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11346239102585069,
     "CrCbGaD": 0.0021109190174978115
   },
+  "n_trials": 0.0,
   "prediction": 0.0014490188799590302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

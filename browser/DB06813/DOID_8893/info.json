@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06813",
   "compound_name": "Pralatrexate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGbCtD": 0.25301515452074197,
     "CbGdCrCtD": 0.002046047219126845,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2808377465933486,
     "CrCtD": 0.42576882557055723
   },
+  "n_trials": 0.0,
   "prediction": 0.0127499470312024,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.32184655396619,
   "metapath_contribution": {
     "CbGaD": 0.2430308635929894,
     "CbGbCtD": 0.4518894040373331,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.12034644624833961,
     "CcSEcCtD": 0.16127892803250754
   },
+  "n_trials": 0.0,
   "prediction": 0.0016695610253818199,
   "status": 0,
   "training_prediction": 0.0148322294268538

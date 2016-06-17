@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGbCtD": 0.07020321502888964,
     "CbGpPWpGaD": 0.014191683773313375,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.00028273061193630916,
     "CtDrD": 0.2778543590528181
   },
+  "n_trials": 3.0,
   "prediction": 0.00693293877775477,
   "status": 0,
   "training_prediction": 0.0192033908137774

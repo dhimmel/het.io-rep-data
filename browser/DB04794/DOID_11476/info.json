@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04794",
   "compound_name": "Bifonazole",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.49334440141220914,
     "CbGbCtD": 0.43323055706990066,
     "CbGpPWpGaD": 0.06993383103814621,
     "CrCbGaD": 0.003491210479743986
   },
+  "n_trials": 0.0,
   "prediction": 0.0030869837325855102,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

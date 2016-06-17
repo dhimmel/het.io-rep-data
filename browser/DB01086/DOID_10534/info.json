@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.546163849154746,
   "metapath_contribution": {
-    "CbGbCtD": 0.8210601721060188,
-    "CbGeAlD": 0.03081092231512893,
-    "CbGpPWpGaD": 0.10038282165309134,
+    "CbGbCtD": 0.8210601721060189,
+    "CbGeAlD": 0.030810922315128934,
+    "CbGpPWpGaD": 0.10038282165309136,
     "CcSEcCtD": 0.0434704980029827,
-    "CrCbGaD": 0.004275585922778216
+    "CrCbGaD": 0.004275585922778217
   },
+  "n_trials": 0.0,
   "prediction": 0.00166886587943393,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

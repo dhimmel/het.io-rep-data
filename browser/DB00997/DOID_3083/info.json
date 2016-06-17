@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00997",
   "compound_name": "Doxorubicin",
+  "compound_percentile": 0.426470588235294,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.301690507152146,
   "metapath_contribution": {
     "CbGaD": 0.5280169922107044,
     "CbGbCtD": 0.11616957997920561,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.15651554606828888,
     "CrCbGaD": 0.001417079101826086
   },
+  "n_trials": 0.0,
   "prediction": 0.0015950728807635599,
   "status": 0,
   "training_prediction": 0.0358126567896798

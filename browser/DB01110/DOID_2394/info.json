@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.656697009102731,
   "metapath_contribution": {
     "CbGaD": 0.14859800245450683,
     "CbGbCtD": 0.4923545730898176,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10157597799899062,
     "CcSEcCtD": 0.11664566311810033
   },
+  "n_trials": 0.0,
   "prediction": 0.00188367970453063,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

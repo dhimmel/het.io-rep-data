@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00139",
   "compound_name": "Succinic acid",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.7020131912107104,
     "CbGeAlD": 0.13314401600743184,
     "CbGpPWpGaD": 0.16033337294235717,
     "CrCbGaD": 0.0045094198395004975
   },
+  "n_trials": 0.0,
   "prediction": 0.00303316698940301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

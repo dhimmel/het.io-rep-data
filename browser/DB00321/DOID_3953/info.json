@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.301470588235294,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.25357607282184697,
   "metapath_contribution": {
     "CbGaD": 0.5632564297337693,
     "CbGeAlD": 0.12195517775052964,
     "CbGpPWpGaD": 0.31247888237189997,
     "CrCbGaD": 0.0023095101438009693
   },
+  "n_trials": 0.0,
   "prediction": 0.000943954247231157,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

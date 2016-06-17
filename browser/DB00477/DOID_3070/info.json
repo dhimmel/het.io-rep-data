@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.126788036410923,
   "metapath_contribution": {
     "CbGaD": 0.46641696478999795,
     "CbGbCtD": 0.08816013561361687,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08609576382357954,
     "CrCbGaD": 0.008180518373661964
   },
+  "n_trials": 0.0,
   "prediction": 0.000791480138259076,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

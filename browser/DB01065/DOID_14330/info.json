@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01065",
   "compound_name": "Melatonin",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
-    "CbGaD": 0.7080544366373305,
-    "CbGeAlD": 0.10614458261130609,
+    "CbGaD": 0.7080544366373306,
+    "CbGeAlD": 0.1061445826113061,
     "CbGpPWpGaD": 0.17971194373254276,
-    "CrCbGaD": 0.006089037018820601
+    "CrCbGaD": 0.006089037018820602
   },
+  "n_trials": 1.0,
   "prediction": 0.00254558457440097,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

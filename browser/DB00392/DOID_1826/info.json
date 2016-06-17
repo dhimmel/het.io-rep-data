@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00392",
   "compound_name": "Ethopropazine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.879063719115735,
   "metapath_contribution": {
     "CbGaD": 0.24408414652869312,
     "CbGbCtD": 0.1466379319649293,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.22535987355463577,
     "CrCtD": 0.34846533074000524
   },
+  "n_trials": 0.0,
   "prediction": 0.0149438366601272,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

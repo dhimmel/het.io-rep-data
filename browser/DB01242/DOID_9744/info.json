@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.389705882352941,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.215214564369311,
   "metapath_contribution": {
     "CbGaD": 0.5650748661422187,
     "CbGeAlD": 0.05615428056509478,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17807769753981686,
     "CrCbGaD": 0.012491116003733526
   },
+  "n_trials": 0.0,
   "prediction": 0.00100108775246532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

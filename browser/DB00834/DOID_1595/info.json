@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.960988296488947,
   "metapath_contribution": {
     "CbGaD": 0.948919676048513,
     "CbGeAlD": 0.034697975797741705,
     "CbGpPWpGaD": 0.016382348153745233
   },
+  "n_trials": 11.0,
   "prediction": 0.00341752450008435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

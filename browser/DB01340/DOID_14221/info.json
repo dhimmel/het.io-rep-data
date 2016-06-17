@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.7919375812743821,
   "metapath_contribution": {
-    "CbGaD": 0.8285716836815639,
-    "CbGeAlD": 0.09982448074414962,
-    "CbGpPWpGaD": 0.004316275796012449,
-    "CcSEcCtD": 0.058000512086234274,
-    "CrCbGaD": 0.009287047692039961
+    "CbGaD": 0.8285716836815636,
+    "CbGeAlD": 0.0998244807441496,
+    "CbGpPWpGaD": 0.004316275796012448,
+    "CcSEcCtD": 0.05800051208623427,
+    "CrCbGaD": 0.00928704769203996
   },
+  "n_trials": 0.0,
   "prediction": 0.00211085809268643,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

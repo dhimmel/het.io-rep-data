@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.354781690498255,
     "CbGbCtD": 0.3958294952954224,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1069294477957641,
     "CrCbGaD": 0.002373999881002871
   },
+  "n_trials": 0.0,
   "prediction": 0.009907816154110509,
   "status": 0,
   "training_prediction": 0.0408669702656664

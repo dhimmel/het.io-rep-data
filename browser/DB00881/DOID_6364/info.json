@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00881",
   "compound_name": "Quinapril",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.7802340702210658,
   "metapath_contribution": {
     "CbGaD": 0.4967058320449597,
     "CbGeAlD": 0.022374724757558414,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.004649023548162076,
     "CrCrCtD": 0.36603691912000225
   },
+  "n_trials": 0.0,
   "prediction": 0.0044027157198163,
   "status": 0,
   "training_prediction": 0.0080241766361455

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00268",
   "compound_name": "Ropinirole",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.843953185955787,
   "metapath_contribution": {
     "CbGaD": 0.14119647132415172,
     "CbGbCtD": 0.39671990472794383,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.15164029056478825,
     "CcSEcCtD": 0.273803349095224
   },
+  "n_trials": 0.0,
   "prediction": 0.00557199158344241,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

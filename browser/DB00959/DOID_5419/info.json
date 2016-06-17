@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.110294117647059,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.00975292587776333,
   "metapath_contribution": {
     "CbGaD": 0.9116600274298752,
     "CbGeAlD": 0.03574899659839539,
     "CbGpPWpGaD": 0.04515634450153072,
     "CrCbGaD": 0.007434631470198691
   },
+  "n_trials": 0.0,
   "prediction": 0.000362824234295925,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

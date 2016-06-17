@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.150845253576073,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.012716963156791767,
+    "CbGdCrCtD": 0.012716963156791765,
     "CbGeAlD": 0.5407866107937211,
-    "CbGpPWpGaD": 0.44649642604948714
+    "CbGpPWpGaD": 0.4464964260494871
   },
+  "n_trials": 0.0,
   "prediction": 0.00112966918696118,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00819",
   "compound_name": "Acetazolamide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5318595578673599,
   "metapath_contribution": {
     "CbGaD": 0.1754706874977968,
     "CbGbCtD": 0.3472298410538067,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21727933165177415,
     "CrCbGaD": 0.0052844573497099106
   },
+  "n_trials": 0.0,
   "prediction": 0.00240412258384865,
   "status": 0,
   "training_prediction": 0.0168496700451954

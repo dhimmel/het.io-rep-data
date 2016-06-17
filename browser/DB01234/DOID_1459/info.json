@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.11573472041612501,
   "metapath_contribution": {
     "CbGbCtD": 0.5849401580187649,
     "CbGeAlD": 0.15812618075257306,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16686711911260135,
     "CrCbGaD": 0.0010519896397881603
   },
+  "n_trials": 0.0,
   "prediction": 0.0010013425351166401,
   "status": 0,
   "training_prediction": 0.00818675194191514

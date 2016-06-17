@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9544863459037709,
   "metapath_contribution": {
     "CbGaD": 0.16716538396051725,
     "CbGbCtD": 0.2750506338952285,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0016735477919784605,
     "CrCrCtD": 0.16577899206819827
   },
+  "n_trials": 0.0,
   "prediction": 0.0162429455882908,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00734",
   "compound_name": "Risperidone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.8816644993498051,
   "metapath_contribution": {
     "CbGaD": 0.26419012947332515,
     "CbGbCtD": 0.32521742470353043,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.24430127808889412,
     "CrCbGaD": 0.0030799945986727546
   },
+  "n_trials": 10.0,
   "prediction": 0.00442858452165802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

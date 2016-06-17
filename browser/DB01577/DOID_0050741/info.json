@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8146944083224971,
   "metapath_contribution": {
     "CbGaD": 0.54421214920408,
     "CbGbCtD": 0.2825510147605088,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.02629456190451754,
     "CrCbGaD": 0.004987861647729403
   },
+  "n_trials": 0.0,
   "prediction": 0.0041936006567966,
   "status": 0,
   "training_prediction": 0.00508722384386971

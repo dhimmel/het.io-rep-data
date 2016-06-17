@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.280234070221066,
   "metapath_contribution": {
     "CbGbCtD": 0.4831344951282679,
     "CbGeAlD": 0.20022865368367468,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19591503215975142,
     "CrCbGaD": 0.0035904627947448814
   },
+  "n_trials": 0.0,
   "prediction": 0.00137956603009091,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

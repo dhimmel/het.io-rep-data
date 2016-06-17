@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00669",
   "compound_name": "Sumatriptan",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
     "CbGbCtD": 0.2733394137734421,
     "CbGeAlD": 0.011746204606808648,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.4199737834958658,
     "CrCbGaD": 0.0029219937935754613
   },
+  "n_trials": 0.0,
   "prediction": 0.0033056660370467603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

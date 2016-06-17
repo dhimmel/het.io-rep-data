@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01436",
   "compound_name": "Alfacalcidol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.314044213263979,
   "metapath_contribution": {
     "CbGaD": 0.7483149336478456,
     "CbGeAlD": 0.0442032197161334,
     "CbGpPWpGaD": 0.19881794818841658,
     "CrCbGaD": 0.00866389844760437
   },
+  "n_trials": 0.0,
   "prediction": 0.00165706782866788,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

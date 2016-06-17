@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08932",
   "compound_name": "MACITENTAN",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.6821199938538282,
     "CbGbCtD": 0.16602982484981132,
     "CbGpPWpGaD": 0.0587124703789519,
     "CcSEcCtD": 0.0931377109174086
   },
+  "n_trials": 0.0,
   "prediction": 0.00398696968207442,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

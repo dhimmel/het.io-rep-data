@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08884",
   "compound_name": "Gadoxetate",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.8618008345865337,
     "CbGeAlD": 0.016611214750224184,
     "CbGpPWpGaD": 0.11939003359910327,
     "CrCbGaD": 0.002197917064138879
   },
+  "n_trials": 0.0,
   "prediction": 0.0038633939688557,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

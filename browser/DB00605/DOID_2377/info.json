@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.13869956602597924,
     "CbGbCtD": 0.1492593155574326,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.08313948650809348,
     "CpDpCtD": 0.4803018506967511
   },
+  "n_trials": 0.0,
   "prediction": 0.00629640462968329,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

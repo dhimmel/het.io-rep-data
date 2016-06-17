@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.4665863152443737,
     "CbGbCtD": 0.31523279224676265,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07780976612771347,
     "CrCbGaD": 0.004553756804981879
   },
+  "n_trials": 0.0,
   "prediction": 0.00852154767296984,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.100130039011704,
   "metapath_contribution": {
     "CbGaD": 0.24599570873269475,
     "CbGbCtD": 0.2778674208362609,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.004118705281346502,
     "CrCrCtD": 0.23051281556553388
   },
+  "n_trials": 0.0,
   "prediction": 0.00130085561631366,
   "status": 0,
   "training_prediction": 0.0995216028623195

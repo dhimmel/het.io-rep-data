@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.44117647058823495,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.0864759427828349,
   "metapath_contribution": {
     "CbGbCtD": 0.2899710413954365,
     "CbGeAlD": 0.01954833018990218,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5928176260170676,
     "CrCbGaD": 0.0047931605328576975
   },
+  "n_trials": 0.0,
   "prediction": 0.0009372115084302789,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.797139141742523,
   "metapath_contribution": {
     "CbGaD": 0.3882625380352207,
     "CbGbCtD": 0.3650084585734135,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0885278725979836,
     "CrCbGaD": 0.0011521238680167135
   },
+  "n_trials": 0.0,
   "prediction": 0.00403049519086041,
   "status": 0,
   "training_prediction": 0.00488953254968006

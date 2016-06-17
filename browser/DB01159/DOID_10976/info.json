@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:10976",
   "disease_name": "membranous glomerulonephritis",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
-    "CbGaD": 0.8349567640727942,
-    "CbGeAlD": 0.07879603477475858,
-    "CbGpPWpGaD": 0.08262847803707152,
-    "CrCbGaD": 0.0036187231153758177
+    "CbGaD": 0.8349567640727941,
+    "CbGeAlD": 0.07879603477475855,
+    "CbGpPWpGaD": 0.0826284780370715,
+    "CrCbGaD": 0.003618723115375817
   },
+  "n_trials": 0.0,
   "prediction": 0.00254776968500623,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

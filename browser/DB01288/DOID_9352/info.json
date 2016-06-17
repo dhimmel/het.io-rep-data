@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01288",
   "compound_name": "Fenoterol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.42587776332899896,
   "metapath_contribution": {
     "CbGaD": 0.7748097787013929,
     "CbGbCtD": 0.1158320791949453,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08531114142366542,
     "CrCbGaD": 0.006008768755991927
   },
+  "n_trials": 0.0,
   "prediction": 0.0022182121279436897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

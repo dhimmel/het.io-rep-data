@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.0514705882352941,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.0429128738621586,
   "metapath_contribution": {
-    "CbGaD": 0.43496582054532085,
-    "CbGeAlD": 0.24500667663187198,
-    "CbGpPWpGaD": 0.30527821205810873,
-    "CrCbGaD": 0.014749290764698542
+    "CbGaD": 0.43496582054532074,
+    "CbGeAlD": 0.24500667663187192,
+    "CbGpPWpGaD": 0.3052782120581087,
+    "CrCbGaD": 0.014749290764698539
   },
+  "n_trials": 0.0,
   "prediction": 0.000616968040492231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

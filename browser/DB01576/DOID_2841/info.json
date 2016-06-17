@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01576",
   "compound_name": "Dextroamphetamine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.18465539661898603,
   "metapath_contribution": {
     "CbGbCtD": 0.38555465364750074,
     "CbGeAlD": 0.024119789232519957,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.40301676778951645,
     "CrCbGaD": 0.004932061148939539
   },
+  "n_trials": 0.0,
   "prediction": 0.0014501787317053,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

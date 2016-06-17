@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.908322496749025,
   "metapath_contribution": {
     "CbGbCtD": 0.20623346539114631,
     "CbGeAlD": 0.005470406338339873,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.7263096108446978,
     "CrCbGaD": 0.0017278546379435758
   },
+  "n_trials": 0.0,
   "prediction": 0.00425575761231124,
   "status": 0,
   "training_prediction": 0.0303330626806467

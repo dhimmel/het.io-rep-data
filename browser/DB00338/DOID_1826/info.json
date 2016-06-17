@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.1930239757199221,
     "CbGbCtD": 0.25861530816210754,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.42018944019257815,
     "CrCbGaD": 0.0014129975463159495
   },
+  "n_trials": 0.0,
   "prediction": 0.0225688533610957,
   "status": 0,
   "training_prediction": 0.10182227511547699

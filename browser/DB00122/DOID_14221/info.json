@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGbCtD": 0.5245992057296516,
     "CbGeAlD": 0.15652949674642547,
     "CbGpPWpGaD": 0.3097865518406428,
     "CrCbGaD": 0.009084745683280158
   },
+  "n_trials": 1.0,
   "prediction": 0.00231982138641882,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

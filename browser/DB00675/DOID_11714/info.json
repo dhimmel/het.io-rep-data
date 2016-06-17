@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.4506390236662998,
     "CbGbCtD": 0.4001708168186671,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06272451167864541,
     "CrCbGaD": 0.0029297961081403297
   },
+  "n_trials": 0.0,
   "prediction": 0.0034583972452898104,
   "status": 0,
   "training_prediction": 0.00260244519890095

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.4963815436690479,
     "CbGbCtD": 0.20769982203812926,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1320778774791807,
     "CrCbGaD": 0.002624811945493626
   },
+  "n_trials": 0.0,
   "prediction": 0.00256155427577761,
   "status": 0,
   "training_prediction": 0.00609582554044783

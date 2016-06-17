@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.302990897269181,
   "metapath_contribution": {
     "CbGaD": 0.21081843313457022,
     "CbGbCtD": 0.5012534683493025,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.17545711262614935,
     "CcSEcCtD": 0.010739671558761385
   },
+  "n_trials": 0.0,
   "prediction": 0.00107803022507115,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

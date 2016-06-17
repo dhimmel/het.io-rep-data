@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00796",
   "compound_name": "Candesartan",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.5930636392755094,
     "CbGbCtD": 0.2514250526594147,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11977669681636469,
     "CrCbGaD": 0.007331020071428738
   },
+  "n_trials": 0.0,
   "prediction": 0.00322859568636321,
   "status": 0,
   "training_prediction": 0.007676125877578779

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.7711313394018209,
   "metapath_contribution": {
     "CbGaD": 0.7449211702262309,
     "CbGbCtD": 0.05399022691158403,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.10084979514926373,
     "CrCbGaD": 0.0034237458153447897
   },
+  "n_trials": 0.0,
   "prediction": 0.00229292424391158,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

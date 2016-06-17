@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.37581274382314706,
   "metapath_contribution": {
     "CbGaD": 0.19157429054282096,
     "CbGbCtD": 0.4502739226190067,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1812998160005237,
     "CrCbGaD": 0.0013234694808172344
   },
+  "n_trials": 0.0,
   "prediction": 0.00120067447197091,
   "status": 0,
   "training_prediction": 0.00118442510811279

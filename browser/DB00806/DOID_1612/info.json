@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00806",
   "compound_name": "Pentoxifylline",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.286736020806242,
   "metapath_contribution": {
     "CbGbCtD": 0.17896977732173286,
     "CbGeAlD": 0.12356391012045428,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.40365639823849575,
     "CrCbGaD": 0.012306892701996275
   },
+  "n_trials": 2.0,
   "prediction": 0.00157785115364477,
   "status": 0,
   "training_prediction": 0.0144411731075384

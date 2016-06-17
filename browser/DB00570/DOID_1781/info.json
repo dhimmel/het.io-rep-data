@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00570",
   "compound_name": "Vinblastine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.831599479843953,
   "metapath_contribution": {
     "CbGbCtD": 0.2415013593377916,
     "CbGdCrCtD": 0.0028255611592554217,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.029250793851151688,
     "CtDrD": 0.6234850064388474
   },
+  "n_trials": 1.0,
   "prediction": 0.0023419453288459602,
   "status": 0,
   "training_prediction": 0.0127129825833999

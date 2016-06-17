@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.23407022106632003,
   "metapath_contribution": {
     "CbGbCtD": 0.6649329528278,
     "CbGpPWpGaD": 0.0037326012513315713,
     "CcSEcCtD": 0.33063278469230195,
     "CrCbGaD": 0.0007016612285664959
   },
+  "n_trials": 0.0,
   "prediction": 0.00129518438278505,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

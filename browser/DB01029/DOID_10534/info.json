@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01029",
   "compound_name": "Irbesartan",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8003901170351109,
   "metapath_contribution": {
     "CbGaD": 0.5940444803181907,
     "CbGbCtD": 0.07501246502546652,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1431739455187041,
     "CrCbGaD": 0.004659845783361255
   },
+  "n_trials": 0.0,
   "prediction": 0.00243373749100335,
   "status": 0,
   "training_prediction": 0.00889717802051222

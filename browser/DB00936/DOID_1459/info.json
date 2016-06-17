@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.726918075422627,
   "metapath_contribution": {
     "CbGbCtD": 0.5369277519245168,
     "CbGeAlD": 0.04127359968528592,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.006384024278848756,
     "CrCrCtD": 0.4077836926995877
   },
+  "n_trials": 0.0,
   "prediction": 0.00216988859355564,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

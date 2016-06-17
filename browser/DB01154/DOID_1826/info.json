@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01154",
   "compound_name": "Thiamylal",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9655396618985699,
   "metapath_contribution": {
     "CbGaD": 0.20264834962360936,
     "CbGbCtD": 0.2401709301454616,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.20537330093207404,
     "CrCtD": 0.2822882196666439
   },
+  "n_trials": 0.0,
   "prediction": 0.0814054272274417,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

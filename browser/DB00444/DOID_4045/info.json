@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.11592521223548982,
     "CbGdCrCtD": 0.0007221453534236593,
@@ -15,6 +17,7 @@
     "CrCtD": 0.2557975279370712,
     "CtDrD": 0.17326556236816798
   },
+  "n_trials": 0.0,
   "prediction": 0.127927040090152,
   "status": 0,
   "training_prediction": 0.35263330515870506

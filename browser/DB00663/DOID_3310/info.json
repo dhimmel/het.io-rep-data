@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00663",
   "compound_name": "Flumethasone Pivalate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGbCtD": 0.2920413771099592,
     "CcSEcCtD": 0.009934628677767931,
     "CrCrCtD": 0.2970993430166564,
     "CrCtD": 0.4009246511956165
   },
+  "n_trials": 0.0,
   "prediction": 0.021702323589153,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

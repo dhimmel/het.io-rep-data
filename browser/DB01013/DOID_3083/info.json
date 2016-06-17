@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01013",
   "compound_name": "Clobetasol propionate",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.24442953271946796,
     "CbGbCtD": 0.10479469871937014,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.24789647944935958,
     "CrCtD": 0.35953203572439735
   },
+  "n_trials": 0.0,
   "prediction": 0.0106101821117912,
   "status": 0,
   "training_prediction": 0.0231276163657791

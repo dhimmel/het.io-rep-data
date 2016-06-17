@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01045",
   "compound_name": "Rifampicin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.85630689206762,
   "metapath_contribution": {
     "CbGaD": 0.37002353873664234,
     "CbGbCtD": 0.5014841661079743,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.09865886576435746,
     "CrCbGaD": 0.0038753235246345836
   },
+  "n_trials": 0.0,
   "prediction": 0.005633215638839379,
   "status": 0,
   "training_prediction": 0.0235531852544665

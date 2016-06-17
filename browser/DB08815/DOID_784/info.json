@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08815",
   "compound_name": "Lurasidone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.7337015755337559,
     "CbGeAlD": 0.13673243719294312,
     "CbGpPWpGaD": 0.12381938913916657,
     "CrCbGaD": 0.005746598134134509
   },
+  "n_trials": 0.0,
   "prediction": 0.00280912543627548,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

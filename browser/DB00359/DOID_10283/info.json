@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00359",
   "compound_name": "Sulfadiazine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.576072821846554,
   "metapath_contribution": {
     "CbGaD": 0.3255510977531367,
     "CbGbCtD": 0.4760752774061935,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11056961716991628,
     "CrCbGaD": 0.004033122999794281
   },
+  "n_trials": 0.0,
   "prediction": 0.00262465774878621,
   "status": 0,
   "training_prediction": 0.011080674675195001

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00275",
   "compound_name": "Olmesartan",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.38881664499349794,
   "metapath_contribution": {
     "CbGbCtD": 0.44216048800780705,
     "CbGeAlD": 0.07955682048519704,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.38890016350000484,
     "CrCbGaD": 0.008883299005808976
   },
+  "n_trials": 0.0,
   "prediction": 0.0018037596710503302,
   "status": 0,
   "training_prediction": 0.010239811423488001

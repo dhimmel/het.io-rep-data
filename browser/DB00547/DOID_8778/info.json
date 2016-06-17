@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00547",
   "compound_name": "Desoximetasone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGbCtD": 0.07024500553818921,
     "CcSEcCtD": 0.024918698954690652,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.1987165475855242,
     "CrCtD": 0.29053031346977026
   },
+  "n_trials": 0.0,
   "prediction": 0.00676843156308093,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

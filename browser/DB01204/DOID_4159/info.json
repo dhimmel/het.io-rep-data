@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01204",
   "compound_name": "Mitoxantrone",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGbCtD": 0.37614840157254037,
     "CbGdCrCtD": 0.0016108910020376144,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10237700738745953,
     "CtDrD": 0.4855923105134448
   },
+  "n_trials": 0.0,
   "prediction": 0.0064014855672576,
   "status": 0,
   "training_prediction": 0.0534206942961018

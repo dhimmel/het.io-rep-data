@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGaD": 0.2763590237975103,
     "CbGbCtD": 0.42474826364113194,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1069699201814679,
     "CcSEcCtD": 0.15107244427733563
   },
+  "n_trials": 0.0,
   "prediction": 0.00728658342411379,
   "status": 0,
   "training_prediction": 0.0314394580449412

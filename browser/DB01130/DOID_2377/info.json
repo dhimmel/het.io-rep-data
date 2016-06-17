@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01130",
   "compound_name": "Prednicarbate",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGbCtD": 0.135518408095509,
     "CcSEcCtD": 0.03145274975648799,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.18864205514863383,
     "CrCtD": 0.27571285668195544
   },
+  "n_trials": 0.0,
   "prediction": 0.0412376730069961,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

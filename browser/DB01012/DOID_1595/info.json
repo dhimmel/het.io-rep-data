@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.639791937581274,
   "metapath_contribution": {
     "CbGaD": 0.9029518005265383,
     "CbGeAlD": 0.036055108878195845,
     "CbGpPWpGaD": 0.04903381192055111,
     "CrCbGaD": 0.011959278674714609
   },
+  "n_trials": 0.0,
   "prediction": 0.0017854363954009898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

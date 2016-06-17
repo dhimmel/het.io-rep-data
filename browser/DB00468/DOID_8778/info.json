@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9057217165149541,
   "metapath_contribution": {
     "CbGaD": 0.7463428016663642,
     "CbGbCtD": 0.10447691004715333,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0784187154778184,
     "CrCbGaD": 0.004813769581242133
   },
+  "n_trials": 0.0,
   "prediction": 0.0037574501983029204,
   "status": 0,
   "training_prediction": 0.00612003226776938

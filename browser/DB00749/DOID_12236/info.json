@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00749",
   "compound_name": "Etodolac",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.952535760728218,
   "metapath_contribution": {
     "CbGaD": 0.2641093423952765,
     "CbGbCtD": 0.4925670285101047,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0765655461317408,
     "CcSEcCtD": 0.16108219871659718
   },
+  "n_trials": 0.0,
   "prediction": 0.00508537204275822,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

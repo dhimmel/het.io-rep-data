@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
     "CbGaD": 0.7301378772847114,
     "CbGeAlD": 0.07433351899123856,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.0016006907441625604
   },
   "prediction": 0.00166802053834665,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

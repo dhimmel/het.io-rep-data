@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01431",
   "compound_name": "Allylestrenol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.26823783592150113,
     "CbGbCtD": 0.34888509258114364,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002866018390320318,
     "CrCrCtD": 0.36824019666655994
   },
+  "n_trials": 0.0,
   "prediction": 0.00815814430301779,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

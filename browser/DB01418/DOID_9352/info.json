@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.3490464931014178,
     "CbGbCtD": 0.524852676060311,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.06981893117865574,
     "CrCbGaD": 0.0016532292190292327
   },
+  "n_trials": 0.0,
   "prediction": 0.0062366536601524795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

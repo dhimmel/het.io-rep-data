@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.6521456436931079,
   "metapath_contribution": {
     "CbGaD": 0.36950722053320767,
     "CbGbCtD": 0.4447843158511936,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11244640335555277,
     "CrCbGaD": 0.003627302633617453
   },
+  "n_trials": 0.0,
   "prediction": 0.00277288110707479,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

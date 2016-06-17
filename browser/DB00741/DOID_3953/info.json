@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.220588235294118,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.0214564369310793,
   "metapath_contribution": {
     "CbGaD": 0.5943529803220995,
     "CbGeAlD": 0.29186264733403816,
     "CbGpPWpGaD": 0.10534458712597432,
     "CrCbGaD": 0.008439785217888095
   },
+  "n_trials": 1.0,
   "prediction": 0.000493159803070121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

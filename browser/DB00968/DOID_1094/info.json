@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00968",
   "compound_name": "Methyldopa",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9063719115734721,
   "metapath_contribution": {
     "CbGaD": 0.8496180347279683,
     "CbGeAlD": 0.016434477426743678,
     "CbGpPWpGaD": 0.12613866698251253,
     "CrCbGaD": 0.007808820862775536
   },
+  "n_trials": 0.0,
   "prediction": 0.00276114956835712,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

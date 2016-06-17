@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01154",
   "compound_name": "Thiamylal",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8192457737321199,
   "metapath_contribution": {
     "CbGaD": 0.3132733344245798,
     "CbGbCtD": 0.6027097483997941,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08112429939990373,
     "CrCbGaD": 0.0004486330718472207
   },
+  "n_trials": 0.0,
   "prediction": 0.00548733685242123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

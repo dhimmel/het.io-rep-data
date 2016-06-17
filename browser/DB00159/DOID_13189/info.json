@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.7100130039011701,
   "metapath_contribution": {
     "CbGbCtD": 0.8443707115630459,
     "CbGdCrCtD": 0.0029160143600769706,
     "CbGpPWpGaD": 0.08385143923371108,
     "CcSEcCtD": 0.06886183484316605
   },
+  "n_trials": 0.0,
   "prediction": 0.00302778000226407,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

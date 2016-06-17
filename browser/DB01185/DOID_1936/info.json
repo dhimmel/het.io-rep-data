@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01185",
   "compound_name": "Fluoxymesterone",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.0442132639791938,
   "metapath_contribution": {
     "CbGaD": 0.7538658784721695,
     "CbGeAlD": 0.04165767999176605,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.04380773089527647,
     "CrCbGaD": 0.00560872893067463
   },
+  "n_trials": 0.0,
   "prediction": 0.000744092157462038,
   "status": 0,
   "training_prediction": 0.00121426635379836

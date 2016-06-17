@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6801040312093629,
   "metapath_contribution": {
     "CbGaD": 0.11862459655355047,
     "CbGbCtD": 0.2450208990077429,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.000996973137772481,
     "CtDrD": 0.5203820574929613
   },
+  "n_trials": 0.0,
   "prediction": 0.00190285454491825,
   "status": 0,
   "training_prediction": 0.00983786217892549

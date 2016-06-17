@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01088",
   "compound_name": "Iloprost",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.905071521456437,
   "metapath_contribution": {
     "CbGaD": 0.36899210968930596,
     "CbGbCtD": 0.5497886401554186,
     "CbGeAlD": 0.025971114494576005,
     "CbGpPWpGaD": 0.055248135660699416
   },
+  "n_trials": 5.0,
   "prediction": 0.005856086253149579,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

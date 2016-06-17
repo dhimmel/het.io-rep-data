@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0598179453836151,
   "metapath_contribution": {
     "CbGaD": 0.6053546615474089,
     "CbGdCrCtD": 0.0009021429412099502,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.24400003447974977,
     "CrCbGaD": 0.005441597755971737
   },
+  "n_trials": 0.0,
   "prediction": 0.00106368689554065,
   "status": 0,
   "training_prediction": 0.0125769284725328

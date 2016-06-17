@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01399",
   "compound_name": "Salsalate",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.5481144343302989,
   "metapath_contribution": {
     "CbGaD": 0.9421550159737684,
     "CbGpPWpGaD": 0.0336446078103987,
     "CcSEcCtD": 0.013071365478247773,
     "CrCbGaD": 0.011129010737585173
   },
+  "n_trials": 0.0,
   "prediction": 0.0018095159373675103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

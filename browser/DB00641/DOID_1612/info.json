@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6781534460338101,
   "metapath_contribution": {
     "CbGaD": 0.3233465476635329,
     "CbGbCtD": 0.42318982007877964,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1250670619637071,
     "CrCbGaD": 0.0032210335933530666
   },
+  "n_trials": 6.0,
   "prediction": 0.00346654827189632,
   "status": 0,
   "training_prediction": 0.0312454805973751

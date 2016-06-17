@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.34709802253235666,
     "CbGbCtD": 0.48992933698241986,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09108532692159409,
     "CrCbGaD": 0.003529373241323443
   },
+  "n_trials": 0.0,
   "prediction": 0.0029824273638198897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

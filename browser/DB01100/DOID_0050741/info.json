@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.4725026271924989,
     "CbGbCtD": 0.3359772311329343,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07128239125356636,
     "CrCbGaD": 0.003070468315424424
   },
+  "n_trials": 0.0,
   "prediction": 0.0081899033411956,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

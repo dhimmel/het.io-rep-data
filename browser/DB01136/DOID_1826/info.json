@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.22616098321732922,
     "CbGbCtD": 0.2629928814556599,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0017279653522187717,
     "CrCrCtD": 0.2510311729381425
   },
+  "n_trials": 1.0,
   "prediction": 0.00839433325733172,
   "status": 0,
   "training_prediction": 0.0399042321092303

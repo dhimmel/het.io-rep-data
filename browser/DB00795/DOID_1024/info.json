@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGbCtD": 0.4238120076502489,
     "CbGeAlD": 0.04604823465164569,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0032122634214633416,
     "CrCrCtD": 0.46502687180178515
   },
+  "n_trials": 0.0,
   "prediction": 0.0047491874773582,
   "status": 0,
   "training_prediction": 0.0132060647286578

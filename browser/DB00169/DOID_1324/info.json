@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00169",
   "compound_name": "Cholecalciferol",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.286736020806242,
   "metapath_contribution": {
     "CbGaD": 0.2980965654505088,
     "CbGbCtD": 0.4673351090209944,
@@ -10,6 +12,7 @@
     "CbGeAlD": 0.03710804207998417,
     "CbGpPWpGaD": 0.19261636071479613
   },
+  "n_trials": 0.0,
   "prediction": 0.00121530772894495,
   "status": 0,
   "training_prediction": 0.009403912469346859

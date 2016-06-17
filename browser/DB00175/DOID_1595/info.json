@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00175",
   "compound_name": "Pravastatin",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.578673602080624,
   "metapath_contribution": {
     "CbGaD": 0.8471275081643074,
     "CbGeAlD": 0.09468002315248174,
     "CbGpPWpGaD": 0.05043848739754282,
     "CrCbGaD": 0.007753981285668113
   },
+  "n_trials": 1.0,
   "prediction": 0.00165024619203204,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

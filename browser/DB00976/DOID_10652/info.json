@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00976",
   "compound_name": "Telithromycin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.5773732119635889,
   "metapath_contribution": {
     "CbGaD": 0.3486671235542289,
     "CbGbCtD": 0.4240215030639541,
     "CbGpPWpGaD": 0.0059517356579945994,
     "CcSEcCtD": 0.22135963772382253
   },
+  "n_trials": 0.0,
   "prediction": 0.00207357615279962,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

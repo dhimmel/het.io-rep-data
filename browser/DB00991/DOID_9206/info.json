@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.7288686605981791,
   "metapath_contribution": {
     "CbGaD": 0.6720225561318274,
     "CbGbCtD": 0.0959623946143136,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2024855736457949,
     "CrCbGaD": 0.0015435055373383927
   },
+  "n_trials": 0.0,
   "prediction": 0.0022553738237709397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

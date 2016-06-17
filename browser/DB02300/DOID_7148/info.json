@@ -1,8 +1,10 @@
 {
   "compound_id": "DB02300",
   "compound_name": "Calcipotriol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.14936885022360807,
     "CbGbCtD": 0.16388777421505138,
@@ -14,6 +16,7 @@
     "CrCtD": 0.26975162959305277,
     "CtDrD": 0.20329982084719905
   },
+  "n_trials": 0.0,
   "prediction": 0.090782888974886,
   "status": 0,
   "training_prediction": 0.24563963521461

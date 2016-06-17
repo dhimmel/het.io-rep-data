@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.5436923949282645,
     "CbGbCtD": 0.3200417059236218,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11804991545372283,
     "CrCbGaD": 0.00047637230947158884
   },
+  "n_trials": 0.0,
   "prediction": 0.0035069905164148898,
   "status": 0,
   "training_prediction": 0.00158282450846584

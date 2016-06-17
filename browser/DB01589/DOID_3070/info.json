@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01589",
   "compound_name": "Quazepam",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.35695708712613794,
   "metapath_contribution": {
-    "CbGeAlD": 0.5787361060478424,
-    "CbGpPWpGaD": 0.3881790475240626,
-    "CrCbGaD": 0.03308484642809492
+    "CbGeAlD": 0.5787361060478425,
+    "CbGpPWpGaD": 0.3881790475240627,
+    "CrCbGaD": 0.03308484642809493
   },
+  "n_trials": 0.0,
   "prediction": 0.00115792091218812,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

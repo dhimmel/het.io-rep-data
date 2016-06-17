@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.605981794538362,
   "metapath_contribution": {
     "CbGaD": 0.5311123512011613,
     "CbGbCtD": 0.3504576681255473,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03218369445639532,
     "CrCbGaD": 0.0011384519088440633
   },
+  "n_trials": 0.0,
   "prediction": 0.00169531400936107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

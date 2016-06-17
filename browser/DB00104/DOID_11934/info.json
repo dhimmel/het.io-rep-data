@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00104",
   "compound_name": "Octreotide",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.44603381014304294,
   "metapath_contribution": {
     "CbGeAlD": 0.08213798972419988,
     "CbGpPWpGaD": 0.33563741242065037,
     "CcSEcCtD": 0.582170662146672,
     "CrCbGaD": 5.393570847770595e-05
   },
+  "n_trials": 1.0,
   "prediction": 0.0013019009947616,
   "status": 0,
   "training_prediction": 0.00158030369826601

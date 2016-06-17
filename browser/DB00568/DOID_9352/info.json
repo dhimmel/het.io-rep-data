@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00568",
   "compound_name": "Cinnarizine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.37711313394018203,
   "metapath_contribution": {
     "CbGaD": 0.2644888755872866,
     "CbGbCtD": 0.5414542928820434,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1506118086767877,
     "CrCbGaD": 0.004206834794174299
   },
+  "n_trials": 0.0,
   "prediction": 0.00202908885333756,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.36831252429724914,
     "CbGbCtD": 0.3405150472613498,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0009409388130703147,
     "CrCrCtD": 0.161174055334564
   },
+  "n_trials": 0.0,
   "prediction": 0.005615512054038371,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

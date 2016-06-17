@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00865",
   "compound_name": "Benzphetamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGaD": 0.5049995253288918,
     "CbGbCtD": 0.46022364545943106,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.009802758939024575,
     "CrCbGaD": 0.0004998536877753743
   },
+  "n_trials": 0.0,
   "prediction": 0.00239337099679302,
   "status": 0,
   "training_prediction": 0.0061255856079731105

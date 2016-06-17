@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.0273081924577373,
   "metapath_contribution": {
     "CbGbCtD": 0.30304587268635413,
     "CbGeAlD": 0.15430453696115148,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3905698051774274,
     "CrCbGaD": 0.0049766471860218766
   },
+  "n_trials": 0.0,
   "prediction": 0.0007277345425285581,
   "status": 0,
   "training_prediction": 0.004468307866637921

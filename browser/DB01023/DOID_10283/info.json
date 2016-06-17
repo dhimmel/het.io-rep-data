@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.302990897269181,
   "metapath_contribution": {
     "CbGaD": 0.23144550755421572,
     "CbGbCtD": 0.41369501770450395,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14569196332141335,
     "CrCbGaD": 0.003851250534826292
   },
+  "n_trials": 0.0,
   "prediction": 0.0015392787649712,
   "status": 0,
   "training_prediction": 0.00652132926383296

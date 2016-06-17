@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.661898569570871,
   "metapath_contribution": {
     "CbGaD": 0.4517225440520877,
     "CbGbCtD": 0.18996750195344717,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13654740468150697,
     "CrCbGaD": 0.006167397273600101
   },
+  "n_trials": 0.0,
   "prediction": 0.00276512093367721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

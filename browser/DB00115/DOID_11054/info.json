@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00115",
   "compound_name": "Cyanocobalamin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.4382663490133695,
     "CbGbCtD": 0.28291436253746066,
     "CbGeAlD": 0.09520115304625541,
     "CbGpPWpGaD": 0.18361813540291444
   },
+  "n_trials": 0.0,
   "prediction": 0.00477547625569944,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

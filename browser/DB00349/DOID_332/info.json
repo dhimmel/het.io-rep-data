@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00349",
   "compound_name": "Clobazam",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.555266579973992,
   "metapath_contribution": {
     "CbGaD": 0.7842643067115359,
     "CbGeAlD": 0.04566872901939514,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.0902179551605129,
     "CrCbGaD": 0.00019014832941280504
   },
+  "n_trials": 0.0,
   "prediction": 0.00139034369025419,
   "status": 0,
   "training_prediction": 0.000626779097526787

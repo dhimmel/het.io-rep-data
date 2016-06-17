@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.264629388816645,
   "metapath_contribution": {
     "CbGaD": 0.14270707791926288,
     "CbGbCtD": 0.4192273852380426,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15267166428807732,
     "CrCbGaD": 0.0031316726472766713
   },
+  "n_trials": 0.0,
   "prediction": 0.0015437381931950802,
   "status": 0,
   "training_prediction": 0.00395629261847905

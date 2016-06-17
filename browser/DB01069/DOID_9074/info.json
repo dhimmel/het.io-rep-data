@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01069",
   "compound_name": "Promethazine",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.0227568270481144,
   "metapath_contribution": {
     "CbGbCtD": 0.45417949769087557,
     "CbGeAlD": 0.13745694912373987,
     "CbGpPWpGaD": 0.1791659905043634,
     "CcSEcCtD": 0.22919756268102112
   },
+  "n_trials": 3.0,
   "prediction": 0.000702341177781665,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

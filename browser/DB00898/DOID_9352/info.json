@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8634590377113129,
   "metapath_contribution": {
     "CbGaD": 0.3827605251524423,
     "CbGbCtD": 0.4413541514823114,
     "CbGeAlD": 0.05985863559850363,
     "CbGpPWpGaD": 0.11602668776674271
   },
+  "n_trials": 5.0,
   "prediction": 0.00639794161696537,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

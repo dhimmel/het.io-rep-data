@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.12368108434625562,
     "CbGbCtD": 0.22717118194292638,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.23034178462406002,
     "CrCtD": 0.3758068290004001
   },
+  "n_trials": 0.0,
   "prediction": 0.0577053576665392,
   "status": 0,
   "training_prediction": 0.0440163214130309

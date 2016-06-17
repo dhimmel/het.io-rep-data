@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.716514954486346,
   "metapath_contribution": {
     "CbGaD": 0.1486311808426631,
     "CbGbCtD": 0.3981928826892414,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1881027179570875,
     "CcSEcCtD": 0.15453268590661687
   },
+  "n_trials": 0.0,
   "prediction": 0.0039931721772844,
   "status": 0,
   "training_prediction": 0.0228738269295877

@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB01100",
   "compound_name": "Pimozide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.9551365409622892,
   "metapath_contribution": {
     "CbGaD": 0.8632687228823744,
     "CbGeAlD": 0.05092711867337584,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.007849711573391689
   },
   "prediction": 0.0026479707505869397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

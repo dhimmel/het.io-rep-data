@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.4843951179927517,
     "CbGbCtD": 0.3969335883581743,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.033856041527800786,
     "CcSEcCtD": 0.08329106472370924
   },
+  "n_trials": 0.0,
   "prediction": 0.00504109456045959,
   "status": 0,
   "training_prediction": 0.0347789135129903

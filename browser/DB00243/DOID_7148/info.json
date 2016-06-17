@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.6742522756827048,
   "metapath_contribution": {
     "CbGbCtD": 0.10767307103836826,
     "CcSEcCtD": 0.07905769975446927,
     "CiPCiCtD": 0.8099672820526567,
     "CrCbGaD": 0.0033019471545057705
   },
+  "n_trials": 0.0,
   "prediction": 0.00226978590554195,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.163849154746424,
   "metapath_contribution": {
     "CbGbCtD": 0.6729461000810456,
     "CbGdCrCtD": 0.0066873656048375835,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08156607135160748,
     "CcSEcCtD": 0.16780914744628364
   },
+  "n_trials": 0.0,
   "prediction": 0.000942815642562143,
   "status": 0,
   "training_prediction": 0.00190747836154499

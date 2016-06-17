@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.6924577373211961,
   "metapath_contribution": {
-    "CbGaD": 0.526570478775169,
-    "CbGbCtD": 0.21740168305436913,
-    "CbGeAlD": 0.015402745867360505,
-    "CbGpPWpGaD": 0.0487452270684548,
-    "CcSEcCtD": 0.1878111569590182,
-    "CrCbGaD": 0.004068708275628341
+    "CbGaD": 0.5265704787751689,
+    "CbGbCtD": 0.2174016830543691,
+    "CbGeAlD": 0.015402745867360504,
+    "CbGpPWpGaD": 0.04874522706845479,
+    "CcSEcCtD": 0.18781115695901818,
+    "CrCbGaD": 0.00406870827562834
   },
+  "n_trials": 0.0,
   "prediction": 0.00296309965956419,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01581",
   "compound_name": "Sulfamerazine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.815344603381014,
   "metapath_contribution": {
     "CbGaD": 0.31512662002073233,
     "CbGbCtD": 0.2599324128946449,
     "CrCbGaD": 0.0007281422848225474,
     "CrCrCtD": 0.4242128247998001
   },
+  "n_trials": 0.0,
   "prediction": 0.00314670744037035,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

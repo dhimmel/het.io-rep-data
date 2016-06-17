@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00758",
   "compound_name": "Clopidogrel",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7399219765929781,
   "metapath_contribution": {
     "CbGbCtD": 0.712084901881376,
     "CbGeAlD": 0.004591744376180456,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22965142805781028,
     "CrCbGaD": 0.000849766833156757
   },
+  "n_trials": 1.0,
   "prediction": 0.00402219520138339,
   "status": 0,
   "training_prediction": 0.0268528443357187

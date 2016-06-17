@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00996",
   "compound_name": "Gabapentin",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.6898569570871259,
   "metapath_contribution": {
     "CbGbCtD": 0.6291010342011205,
     "CbGeAlD": 0.02791063792923622,
     "CbGpPWpGaD": 0.06606731449432109,
     "CcSEcCtD": 0.27692101337532216
   },
+  "n_trials": 1.0,
   "prediction": 0.0035676075435425295,
   "status": 0,
   "training_prediction": 0.0392566415338566

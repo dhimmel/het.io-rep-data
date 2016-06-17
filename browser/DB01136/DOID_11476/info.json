@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.569570871261378,
   "metapath_contribution": {
     "CbGbCtD": 0.4389343194018208,
     "CbGdCrCtD": 0.004153310054826398,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.22425096693708807,
     "CcSEcCtD": 0.29904620330169174
   },
+  "n_trials": 0.0,
   "prediction": 0.00206105250213566,
   "status": 0,
   "training_prediction": 0.00669041246315712

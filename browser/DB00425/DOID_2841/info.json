@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00425",
   "compound_name": "Zolpidem",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.714564369310793,
   "metapath_contribution": {
     "CbGbCtD": 0.6993615137605206,
     "CbGpPWpGaD": 0.03232954606315179,
     "CcSEcCtD": 0.2651311155874381,
     "CrCbGaD": 0.003177824588889534
   },
+  "n_trials": 0.0,
   "prediction": 0.0037652037061865298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

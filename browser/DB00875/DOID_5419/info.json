@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00875",
   "compound_name": "Flupentixol",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.804941482444733,
   "metapath_contribution": {
     "CbGaD": 0.7674492373743801,
     "CbGeAlD": 0.07882766840764728,
     "CbGpPWpGaD": 0.14645052830727578,
     "CrCbGaD": 0.007272565910696895
   },
+  "n_trials": 1.0,
   "prediction": 0.0023818975917441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

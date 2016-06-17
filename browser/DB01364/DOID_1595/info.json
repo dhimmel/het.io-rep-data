@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01364",
   "compound_name": "Ephedrine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.284135240572172,
   "metapath_contribution": {
     "CbGeAlD": 0.5108608573943731,
     "CbGpPWpGaD": 0.4361497879859984,
     "CrCbGaD": 0.0529893546196284
   },
+  "n_trials": 0.0,
   "prediction": 0.00118123723631739,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

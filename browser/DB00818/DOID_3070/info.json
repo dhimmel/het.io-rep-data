@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.970091027308192,
   "metapath_contribution": {
     "CbGaD": 0.689829285730532,
     "CbGbCtD": 0.086875747973265,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1196255891482326,
     "CcSEcCtD": 0.0533092918707052
   },
+  "n_trials": 0.0,
   "prediction": 0.004111778393279629,
   "status": 0,
   "training_prediction": 0.0030345885711431397

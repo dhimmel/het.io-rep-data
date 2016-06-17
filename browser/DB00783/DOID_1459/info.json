@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.2508645849861978,
     "CbGbCtD": 0.5751040142132562,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.055195540227786784,
     "CrCbGaD": 0.0029099936027604414
   },
+  "n_trials": 0.0,
   "prediction": 0.00414979092061728,
   "status": 0,
   "training_prediction": 0.008368256894649309

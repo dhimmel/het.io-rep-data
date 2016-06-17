@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.7347204161248371,
   "metapath_contribution": {
     "CbGbCtD": 0.6040701464331736,
     "CbGeAlD": 0.017412940712096436,
     "CbGpPWpGaD": 0.005355149425065096,
     "CcSEcCtD": 0.37316176342966495
   },
+  "n_trials": 2.0,
   "prediction": 0.0021174610363889896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00495",
   "compound_name": "Zidovudine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.570221066319896,
   "metapath_contribution": {
     "CbGaD": 0.09673188645648075,
     "CbGbCtD": 0.5957299755214658,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.08166946245065759,
     "CcSEcCtD": 0.17047981742005808
   },
+  "n_trials": 0.0,
   "prediction": 0.0020209869443871,
   "status": 0,
   "training_prediction": 0.0058764339747466796

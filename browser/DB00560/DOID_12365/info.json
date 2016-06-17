@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00560",
   "compound_name": "Tigecycline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CiPCiCtD": 0.44390831910139217,
     "CrCbGaD": 0.0005023463099336758,
     "CrCrCtD": 0.22213362201703585,
     "CrCtD": 0.3334557125716382
   },
+  "n_trials": 0.0,
   "prediction": 0.0587741305790099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

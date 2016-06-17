@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.5888410081478515,
     "CbGbCtD": 0.17681326970980485,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0430580525132236,
     "CcSEcCtD": 0.0802875610284368
   },
+  "n_trials": 0.0,
   "prediction": 0.00399151723901495,
   "status": 0,
   "training_prediction": 0.00180198868705795

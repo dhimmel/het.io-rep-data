@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8198959687906371,
   "metapath_contribution": {
     "CbGaD": 0.21788834915545774,
     "CbGbCtD": 0.21805468806341047,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.1606265450060339,
     "CrCtD": 0.2572083377230298
   },
+  "n_trials": 0.0,
   "prediction": 0.0106855230651462,
   "status": 0,
   "training_prediction": 0.38955202192958505

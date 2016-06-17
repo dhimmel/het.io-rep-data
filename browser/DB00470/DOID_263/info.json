@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.927178153446034,
   "metapath_contribution": {
     "CbGaD": 0.44127738975820463,
     "CbGbCtD": 0.4367150831234251,
     "CbGpPWpGaD": 0.043413998036452586,
     "CcSEcCtD": 0.07859352908191763
   },
+  "n_trials": 0.0,
   "prediction": 0.00562835652086792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

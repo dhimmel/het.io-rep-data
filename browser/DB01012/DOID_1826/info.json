@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.366710013003901,
   "metapath_contribution": {
     "CbGaD": 0.23972533147839503,
     "CbGbCtD": 0.43634544586674956,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18978899610241848,
     "CrCbGaD": 0.004686994443873945
   },
+  "n_trials": 0.0,
   "prediction": 0.0024722817226135,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

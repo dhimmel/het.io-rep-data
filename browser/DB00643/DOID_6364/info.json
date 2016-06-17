@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00643",
   "compound_name": "Mebendazole",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.40962288686605997,
   "metapath_contribution": {
     "CbGbCtD": 0.3661148759142477,
     "CbGeAlD": 0.07292561068656167,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0033484300394234774,
     "CrCrCtD": 0.521432234154174
   },
+  "n_trials": 0.0,
   "prediction": 0.00220311351457399,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

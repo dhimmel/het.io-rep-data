@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:11119",
   "disease_name": "Gilles de la Tourette syndrome",
+  "disease_percentile": 0.930429128738622,
   "metapath_contribution": {
     "CbGaD": 0.8686818254696248,
     "CbGeAlD": 0.056301784579924186,
     "CbGpPWpGaD": 0.06910406675752208,
     "CrCbGaD": 0.005912323192928964
   },
+  "n_trials": 0.0,
   "prediction": 0.00236197895965769,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

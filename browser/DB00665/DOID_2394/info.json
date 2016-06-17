@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00665",
   "compound_name": "Nilutamide",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.683355006501951,
   "metapath_contribution": {
     "CbGbCtD": 0.5677690330230754,
     "CbGeAlD": 0.0718188499718025,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.30480901682203765,
     "CrCbGaD": 0.008572706330938443
   },
+  "n_trials": 0.0,
   "prediction": 0.0019631886699608,
   "status": 0,
   "training_prediction": 0.004675742903388879

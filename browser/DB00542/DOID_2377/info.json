@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.596879063719116,
   "metapath_contribution": {
     "CbGaD": 0.711879644028183,
     "CbGbCtD": 0.17007544802071448,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0894647169550957,
     "CrCbGaD": 0.0058093380375883194
   },
+  "n_trials": 0.0,
   "prediction": 0.00211423121878611,
   "status": 0,
   "training_prediction": 0.00541351830905079

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01068",
   "compound_name": "Clonazepam",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.540962288686606,
   "metapath_contribution": {
     "CbGaD": 0.5227071186597687,
     "CbGbCtD": 0.28516605370357534,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.18058735289261338,
     "CrCbGaD": 0.0035430380835879665
   },
+  "n_trials": 0.0,
   "prediction": 0.00261920034682633,
   "status": 0,
   "training_prediction": 0.0176271603939483

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8010403120936279,
   "metapath_contribution": {
     "CbGaD": 0.3740537742566885,
     "CbGbCtD": 0.33002045112806166,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.16801327414546466,
     "CrCbGaD": 0.0023100116200035514
   },
+  "n_trials": 2.0,
   "prediction": 0.0034030618537882603,
   "status": 0,
   "training_prediction": 0.0191752461264809

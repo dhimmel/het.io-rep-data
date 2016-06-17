@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00437",
   "compound_name": "Allopurinol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGaD": 0.38764477905951844,
     "CbGbCtD": 0.31835464883202796,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05995520259828543,
     "CcSEcCtD": 0.22084321824900555
   },
+  "n_trials": 6.0,
   "prediction": 0.00807838121364895,
   "status": 0,
   "training_prediction": 0.0887707617236548

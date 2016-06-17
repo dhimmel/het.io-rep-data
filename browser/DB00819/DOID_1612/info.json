@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00819",
   "compound_name": "Acetazolamide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.565669700910273,
   "metapath_contribution": {
     "CbGaD": 0.447185308055814,
     "CbGbCtD": 0.21402777403376622,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17050977489272254,
     "CrCbGaD": 0.004261166397242269
   },
+  "n_trials": 0.0,
   "prediction": 0.0026990202150204102,
   "status": 0,
   "training_prediction": 0.0244785017973726

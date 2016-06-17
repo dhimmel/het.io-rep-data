@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGaD": 0.7628922688258177,
     "CbGeAlD": 0.08342605149766756,
     "CbGpPWpGaD": 0.14809196534333569,
     "CrCbGaD": 0.005589714333179062
   },
+  "n_trials": 0.0,
   "prediction": 0.00238214004942495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00647",
   "compound_name": "Dextropropoxyphene",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.198959687906372,
   "metapath_contribution": {
     "CbGbCtD": 0.7646586256510434,
     "CbGpPWpGaD": 0.02610956821787575,
     "CcSEcCtD": 0.20918590256196334,
     "CrCbGaD": 4.590356911748239e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00120080348883426,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

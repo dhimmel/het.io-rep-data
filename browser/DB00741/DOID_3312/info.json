@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.005851755526658001,
   "metapath_contribution": {
     "CbGaD": 0.7923150866773205,
     "CbGeAlD": 0.09098055471999303,
     "CbGpPWpGaD": 0.10391327507349589,
     "CrCbGaD": 0.012791083529190539
   },
+  "n_trials": 0.0,
   "prediction": 0.000556311993601462,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

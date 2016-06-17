@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01162",
   "compound_name": "Terazosin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGaD": 0.32499125377624294,
     "CbGbCtD": 0.4147210269696105,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2559067635209012,
     "CrCbGaD": 0.0026255945592943562
   },
+  "n_trials": 0.0,
   "prediction": 0.00296645193571619,
   "status": 0,
   "training_prediction": 0.008610006274430121

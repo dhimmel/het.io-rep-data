@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.7067620286085831,
   "metapath_contribution": {
     "CbGaD": 0.20195663526480934,
     "CbGbCtD": 0.6848720370686542,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.08398745363355993,
     "CrCbGaD": 0.003979008179101547
   },
+  "n_trials": 0.0,
   "prediction": 0.0028389774678560602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

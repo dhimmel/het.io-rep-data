@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00811",
   "compound_name": "Ribavirin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGbCtD": 0.331739760932909,
     "CbGdCrCtD": 0.0011843182954602463,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.5855122987366247,
     "CrCbGaD": 0.0024209468391563523
   },
+  "n_trials": 0.0,
   "prediction": 0.00543916829820929,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

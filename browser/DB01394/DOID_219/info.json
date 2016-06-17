@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01394",
   "compound_name": "Colchicine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.871911573472042,
   "metapath_contribution": {
     "CbGaD": 0.25078098591242365,
     "CbGbCtD": 0.6244628896534415,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.006377037707090081,
     "CcSEcCtD": 0.06721977041417035
   },
+  "n_trials": 0.0,
   "prediction": 0.00287583609609313,
   "status": 0,
   "training_prediction": 0.00682171588977928

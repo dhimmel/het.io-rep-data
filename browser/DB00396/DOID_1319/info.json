@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGaD": 0.3544324288462097,
     "CbGbCtD": 0.40872565889089907,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12557442151700127,
     "CrCbGaD": 0.0013840331290112954
   },
+  "n_trials": 0.0,
   "prediction": 0.00174306645070916,
   "status": 0,
   "training_prediction": 0.00318382462198952

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01214",
   "compound_name": "Metipranolol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGbCtD": 0.21565962774567612,
     "CbGpPWpGaD": 0.026571188399201563,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.27848971750093765,
     "CrCtD": 0.44382733825547016
   },
+  "n_trials": 0.0,
   "prediction": 0.0177254589809111,
   "status": 0,
   "training_prediction": 0.0319538445290039

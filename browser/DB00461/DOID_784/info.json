@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.8497654475533404,
     "CbGeAlD": 0.03922983937440442,
     "CbGpPWpGaD": 0.10724835688514125,
     "CrCbGaD": 0.0037563561871139825
   },
+  "n_trials": 0.0,
   "prediction": 0.00186199605081692,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

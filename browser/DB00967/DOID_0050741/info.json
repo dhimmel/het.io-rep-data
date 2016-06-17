@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00967",
   "compound_name": "Desloratadine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.717815344603381,
   "metapath_contribution": {
     "CbGbCtD": 0.6922607523116122,
     "CbGeAlD": 0.00026901403534863096,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20196938694018227,
     "CrCbGaD": 0.006440709336450712
   },
+  "n_trials": 0.0,
   "prediction": 0.00317679436258549,
   "status": 0,
   "training_prediction": 0.00385458285984732

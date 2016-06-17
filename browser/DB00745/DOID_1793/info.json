@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGbCtD": 0.3714205580883619,
     "CcSEcCtD": 0.12970610244478328,
     "CrCbGaD": 0.0010169526742846045,
     "CrCrCtD": 0.49785638679257016
   },
+  "n_trials": 0.0,
   "prediction": 0.00184646029705009,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

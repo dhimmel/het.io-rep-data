@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8198959687906371,
   "metapath_contribution": {
     "CbGaD": 0.1781502409780348,
     "CbGbCtD": 0.32418669424422375,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.13344755451495524,
     "CcSEcCtD": 0.19545400771462618
   },
+  "n_trials": 0.0,
   "prediction": 0.00336527754952045,
   "status": 0,
   "training_prediction": 0.021926019134208

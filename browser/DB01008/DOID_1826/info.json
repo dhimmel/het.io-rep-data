@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.431079323797139,
   "metapath_contribution": {
     "CbGbCtD": 0.44286619787512377,
     "CbGdCrCtD": 0.004599003111804174,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10967548274157132,
     "CcSEcCtD": 0.41707620844415455
   },
+  "n_trials": 0.0,
   "prediction": 0.0028502227530367,
   "status": 0,
   "training_prediction": 0.0138395881504732

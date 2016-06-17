@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.448634590377113,
   "metapath_contribution": {
     "CbGaD": 0.7686331449608775,
     "CbGeAlD": 0.025023967034375698,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06985617986706229,
     "CrCbGaD": 0.005761787678703521
   },
+  "n_trials": 0.0,
   "prediction": 0.00141815526746515,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00776",
   "compound_name": "Oxcarbazepine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.457737321196359,
   "metapath_contribution": {
     "CbGaD": 0.5424607762480115,
     "CbGbCtD": 0.15558386913027425,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.23640029754469183,
     "CrCbGaD": 0.0030971425747243725
   },
+  "n_trials": 0.0,
   "prediction": 0.00134174181880192,
   "status": 0,
   "training_prediction": 0.00132358584573576

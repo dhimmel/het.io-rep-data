@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.749674902470741,
   "metapath_contribution": {
     "CbGaD": 0.7438236261892437,
     "CbGeAlD": 0.08074639371431536,
     "CbGpPWpGaD": 0.1686153228596838,
     "CrCbGaD": 0.006814657236757193
   },
+  "n_trials": 0.0,
   "prediction": 0.0021628285021905802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

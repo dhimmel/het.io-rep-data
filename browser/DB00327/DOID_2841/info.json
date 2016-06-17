@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.3608582574772429,
   "metapath_contribution": {
     "CbGbCtD": 0.6419319378809708,
     "CbGpPWpGaD": 0.10597168344268228,
     "CcSEcCtD": 0.25061816452609476,
     "CrCbGaD": 0.0014782141502521187
   },
+  "n_trials": 0.0,
   "prediction": 0.00196764812435208,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

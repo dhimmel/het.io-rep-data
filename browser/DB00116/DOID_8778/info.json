@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.393368010403121,
   "metapath_contribution": {
     "CbGbCtD": 0.03414253044387976,
-    "CbGdCrCtD": 0.020945264085843796,
-    "CbGeAlD": 0.3313805367530353,
-    "CbGpPWpGaD": 0.6135316687172413
+    "CbGdCrCtD": 0.020945264085843792,
+    "CbGeAlD": 0.33138053675303525,
+    "CbGpPWpGaD": 0.6135316687172412
   },
+  "n_trials": 0.0,
   "prediction": 0.0013650296008507802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

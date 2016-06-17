@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.596879063719116,
   "metapath_contribution": {
     "CbGbCtD": 0.5165288726118967,
     "CbGeAlD": 0.0158979102525909,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0016819412205911616,
     "CrCrCtD": 0.3140771134830007
   },
+  "n_trials": 0.0,
   "prediction": 0.00198142981340209,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

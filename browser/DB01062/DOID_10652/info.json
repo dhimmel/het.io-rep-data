@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01062",
   "compound_name": "Oxybutynin",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.743172951885566,
   "metapath_contribution": {
     "CbGaD": 0.31295658299724094,
     "CbGbCtD": 0.3817041085130727,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.043148413811388425,
     "CcSEcCtD": 0.25703585021133163
   },
+  "n_trials": 0.0,
   "prediction": 0.0027365619165814602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

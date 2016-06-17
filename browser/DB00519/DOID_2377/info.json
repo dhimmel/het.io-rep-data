@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00519",
   "compound_name": "Trandolapril",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.7555266579973992,
   "metapath_contribution": {
     "CbGaD": 0.7969952549122384,
     "CbGeAlD": 0.002063683595375757,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1646011170583139,
     "CrCbGaD": 0.008196914524844454
   },
+  "n_trials": 0.0,
   "prediction": 0.0026168317075540197,
   "status": 0,
   "training_prediction": 0.0111171309913282

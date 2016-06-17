@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.563068920676203,
   "metapath_contribution": {
     "CbGbCtD": 0.4380303833473644,
     "CbGdCrCtD": 0.018213727138661026,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.21776993337680167,
     "CrCbGaD": 0.005838066509644527
   },
+  "n_trials": 0.0,
   "prediction": 0.00175121082431703,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

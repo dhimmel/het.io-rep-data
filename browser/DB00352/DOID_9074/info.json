@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00352",
   "compound_name": "Tioguanine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9635890767230171,
   "metapath_contribution": {
     "CbGbCtD": 0.4782149324708926,
     "CbGdCrCtD": 0.0016471067624909666,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05361739722777345,
     "CrCrCtD": 0.4337972318843056
   },
+  "n_trials": 0.0,
   "prediction": 0.0123441569153862,
   "status": 0,
   "training_prediction": 0.0351985783882763

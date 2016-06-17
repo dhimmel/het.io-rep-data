@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.688556566970091,
   "metapath_contribution": {
     "CbGaD": 0.8143814842041148,
     "CbGbCtD": 0.0229940435709975,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09260230227090639,
     "CrCbGaD": 0.008923210783655383
   },
+  "n_trials": 0.0,
   "prediction": 0.0018070978938453399,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

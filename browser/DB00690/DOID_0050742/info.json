@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00690",
   "compound_name": "Flurazepam",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.8602080624187259,
   "metapath_contribution": {
     "CbGaD": 0.7449861049143298,
     "CbGeAlD": 0.022733360479521732,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.05089343903583275,
     "CrCbGaD": 0.00496484675268621
   },
+  "n_trials": 0.0,
   "prediction": 0.00229494541212744,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

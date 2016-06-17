@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00668",
   "compound_name": "Epinephrine",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.13979193758127403,
   "metapath_contribution": {
     "CbGbCtD": 0.261790584743626,
     "CbGeAlD": 0.012898011247571237,
     "CbGpPWpGaD": 0.5036224215968307,
     "CcSEcCtD": 0.22168898241197205
   },
+  "n_trials": 0.0,
   "prediction": 0.000816824219695574,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

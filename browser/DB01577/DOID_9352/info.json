@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.08438364145463419,
     "CbGbCtD": 0.08745426054211682,
@@ -14,6 +16,7 @@
     "CrCtD": 0.292243660250931,
     "CtDrD": 0.2962768958357926
   },
+  "n_trials": 0.0,
   "prediction": 0.0188159139071341,
   "status": 0,
   "training_prediction": 0.0781756043696179

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.14815107869399516,
     "CbGbCtD": 0.16962338307986705,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2500304957595518,
     "CrCtD": 0.3567862079591143
   },
+  "n_trials": 0.0,
   "prediction": 0.0321010610209232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

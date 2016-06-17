@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00394",
   "compound_name": "Beclomethasone",
+  "compound_percentile": 0.0808823529411765,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.0416124837451235,
   "metapath_contribution": {
     "CbGbCtD": 0.054011164471640866,
     "CbGeAlD": 0.034296711022005696,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.7446292612876595,
     "CrCbGaD": 0.0337624368642438
   },
+  "n_trials": 0.0,
   "prediction": 0.0005573132970567269,
   "status": 0,
   "training_prediction": 0.00204763672358268

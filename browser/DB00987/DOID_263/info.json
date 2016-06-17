@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00987",
   "compound_name": "Cytarabine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGbCtD": 0.20988372329312033,
     "CbGdCrCtD": 0.0009203529448200947,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.14426897418955478,
     "CrCtD": 0.24906668161378973
   },
+  "n_trials": 0.0,
   "prediction": 0.0223427472378158,
   "status": 0,
   "training_prediction": 0.10018610594912

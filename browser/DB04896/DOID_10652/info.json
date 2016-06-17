@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04896",
   "compound_name": "Milnacipran",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.6933480444124727,
     "CbGeAlD": 0.03301884205833437,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2640904421120177,
     "CrCbGaD": 0.005593574294633287
   },
+  "n_trials": 0.0,
   "prediction": 0.00224359583726132,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

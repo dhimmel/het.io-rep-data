@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00275",
   "compound_name": "Olmesartan",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.3371428937666579,
     "CbGeAlD": 0.018465126196929513,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003209723252960283,
     "CtDrD": 0.5857551642271221
   },
+  "n_trials": 0.0,
   "prediction": 0.0046927578286961105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

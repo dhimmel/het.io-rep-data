@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04841",
   "compound_name": "Flunarizine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.557867360208062,
   "metapath_contribution": {
     "CbGaD": 0.4986126975748541,
     "CbGbCtD": 0.2994391953525164,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.17488733305119092,
     "CrCbGaD": 0.00401395529174298
   },
+  "n_trials": 0.0,
   "prediction": 0.00202615190370468,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.705461638491547,
   "metapath_contribution": {
     "CbGbCtD": 0.47180455963443085,
     "CbGdCrCtD": 0.00429076195908945,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1919322493104647,
     "CrCbGaD": 0.006006460269332076
   },
+  "n_trials": 0.0,
   "prediction": 0.0034391392233141197,
   "status": 0,
   "training_prediction": 0.0104190569297149

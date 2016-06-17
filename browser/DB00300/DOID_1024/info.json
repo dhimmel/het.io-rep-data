@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.563068920676203,
   "metapath_contribution": {
     "CbGbCtD": 0.7764147079299732,
     "CbGdCrCtD": 0.013924019909218011,
     "CbGeAlD": 0.07758842358369207,
     "CcSEcCtD": 0.1320728485771168
   },
+  "n_trials": 0.0,
   "prediction": 0.00197439089485089,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

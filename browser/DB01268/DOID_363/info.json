@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01268",
   "compound_name": "Sunitinib",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.4608584834776395,
     "CbGbCtD": 0.1439956449328295,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.15119729091655545,
     "CcSEcCtD": 0.11560593058083986
   },
+  "n_trials": 1.0,
   "prediction": 0.00392526304101882,
   "status": 0,
   "training_prediction": 0.0118800336747222

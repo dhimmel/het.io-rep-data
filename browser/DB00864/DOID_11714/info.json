@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00864",
   "compound_name": "Tacrolimus",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.33940182054616397,
   "metapath_contribution": {
     "CbGbCtD": 0.5266239557624537,
     "CbGeAlD": 0.10794169778274929,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3055976642016238,
     "CrCbGaD": 0.01584550402483373
   },
+  "n_trials": 0.0,
   "prediction": 0.00133114359645352,
   "status": 0,
   "training_prediction": 0.0006000716405954049

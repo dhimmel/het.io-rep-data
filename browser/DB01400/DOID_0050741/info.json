@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01400",
   "compound_name": "Neostigmine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.579973992197659,
   "metapath_contribution": {
     "CbGbCtD": 0.5772684157524756,
     "CbGeAlD": 0.010072451668226616,
     "CbGpPWpGaD": 0.10113251819553888,
     "CcSEcCtD": 0.31152661438375884
   },
+  "n_trials": 0.0,
   "prediction": 0.00240737317623328,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

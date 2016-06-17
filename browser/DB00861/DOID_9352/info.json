@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00861",
   "compound_name": "Diflunisal",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.32964889466840097,
   "metapath_contribution": {
     "CbGaD": 0.2617766746428401,
     "CbGbCtD": 0.480774044288794,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14589806495038138,
     "CrCbGaD": 0.0027226388202688653
   },
+  "n_trials": 1.0,
   "prediction": 0.0018587361510517101,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

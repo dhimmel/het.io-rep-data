@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00393",
   "compound_name": "Nimodipine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.150195058517555,
   "metapath_contribution": {
     "CbGeAlD": 0.6936834783529896,
     "CbGpPWpGaD": 0.10938570004569925,
     "CcSEcCtD": 0.1749993192602153,
     "CrCbGaD": 0.021931502341095806
   },
+  "n_trials": 0.0,
   "prediction": 0.00107095884139694,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

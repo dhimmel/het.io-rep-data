@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01429",
   "compound_name": "Aprindine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.782834850455137,
   "metapath_contribution": {
     "CbGaD": 0.6277452921961614,
     "CbGbCtD": 0.2044989365154157,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1472679439611917,
     "CrCbGaD": 0.003480794099766276
   },
+  "n_trials": 0.0,
   "prediction": 0.0030678316323832,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

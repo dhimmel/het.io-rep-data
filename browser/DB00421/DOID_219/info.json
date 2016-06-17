@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.481144343302991,
   "metapath_contribution": {
-    "CbGaD": 0.40869914304388,
-    "CbGbCtD": 0.3933961742818748,
-    "CbGeAlD": 0.07684527983447918,
-    "CbGpPWpGaD": 0.075817524495188,
-    "CcSEcCtD": 0.04411197847379249,
-    "CrCbGaD": 0.0011298998707856937
+    "CbGaD": 0.4086991430438799,
+    "CbGbCtD": 0.39339617428187473,
+    "CbGeAlD": 0.07684527983447917,
+    "CbGpPWpGaD": 0.07581752449518799,
+    "CcSEcCtD": 0.04411197847379248,
+    "CrCbGaD": 0.0011298998707856935
   },
+  "n_trials": 0.0,
   "prediction": 0.00151060575092471,
   "status": 0,
   "training_prediction": 0.00359002330723201

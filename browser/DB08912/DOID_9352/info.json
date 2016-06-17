@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08912",
   "compound_name": "Dabrafenib",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.673602080624187,
   "metapath_contribution": {
     "CbGaD": 0.12162144554109987,
     "CbGbCtD": 0.5907536761873643,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.11419324590212741,
     "CcSEcCtD": 0.150213828060313
   },
+  "n_trials": 0.0,
   "prediction": 0.00358049460083225,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

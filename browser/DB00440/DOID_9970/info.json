@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00440",
   "compound_name": "Trimethoprim",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.29518855656696996,
   "metapath_contribution": {
     "CbGbCtD": 0.5831797297821836,
     "CbGdCrCtD": 0.003287623562793415,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.14175963392621602,
     "CcSEcCtD": 0.24522555745490962
   },
+  "n_trials": 1.0,
   "prediction": 0.00165023777796846,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

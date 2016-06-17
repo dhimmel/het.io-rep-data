@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00501",
   "compound_name": "Cimetidine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.926527958387516,
   "metapath_contribution": {
     "CbGaD": 0.7068692539866935,
     "CbGbCtD": 0.11285648221413211,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.08493498297563233,
     "CcSEcCtD": 0.07046922997007204
   },
+  "n_trials": 0.0,
   "prediction": 0.00471728081903827,
   "status": 0,
   "training_prediction": 0.00767872646271596

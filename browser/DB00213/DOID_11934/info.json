@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00213",
   "compound_name": "Pantoprazole",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.794538361508453,
   "metapath_contribution": {
     "CbGbCtD": 0.6513275748562005,
     "CbGpPWpGaD": 0.07116150011022628,
     "CcSEcCtD": 0.2670857820222532,
     "CrCbGaD": 0.01042514301131989
   },
+  "n_trials": 0.0,
   "prediction": 0.00212806377571959,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

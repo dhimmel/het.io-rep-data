@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.587126137841352,
   "metapath_contribution": {
     "CbGbCtD": 0.7533902507905749,
     "CbGdCrCtD": 0.006621193293591443,
     "CbGeAlD": 0.007975578408081859,
     "CcSEcCtD": 0.23201297750775193
   },
+  "n_trials": 0.0,
   "prediction": 0.0017791599121643699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

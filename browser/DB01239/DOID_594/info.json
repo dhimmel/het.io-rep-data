@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01239",
   "compound_name": "Chlorprothixene",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.730819245773732,
   "metapath_contribution": {
     "CbGaD": 0.7121954378533369,
     "CbGeAlD": 0.046142981744496124,
     "CbGpPWpGaD": 0.23152368113842817,
     "CrCbGaD": 0.01013789926373869
   },
+  "n_trials": 0.0,
   "prediction": 0.0018381307339464103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.743172951885566,
   "metapath_contribution": {
     "CbGaD": 0.25067162117787894,
     "CbGbCtD": 0.24978115214247043,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002581120061715233,
     "CrCrCtD": 0.3248903078488906
   },
+  "n_trials": 0.0,
   "prediction": 0.00801561138663857,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

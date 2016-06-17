@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00208",
   "compound_name": "Ticlopidine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.5539723801740005,
     "CbGbCtD": 0.25478505511904875,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09262837826986409,
     "CcSEcCtD": 0.06125591170497513
   },
+  "n_trials": 0.0,
   "prediction": 0.00242156614046445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.472691807542263,
   "metapath_contribution": {
     "CbGaD": 0.7737417269816171,
     "CbGeAlD": 0.07063736848566664,
     "CbGpPWpGaD": 0.14936887237796392,
     "CrCbGaD": 0.006252032154752196
   },
+  "n_trials": 0.0,
   "prediction": 0.00150306751074619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

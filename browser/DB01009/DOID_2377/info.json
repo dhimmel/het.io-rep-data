@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.6521456436931079,
   "metapath_contribution": {
     "CbGaD": 0.11838762478683752,
     "CbGbCtD": 0.2770892324337325,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.4569123769920597,
     "CrCbGaD": 0.00043577987862940146
   },
+  "n_trials": 0.0,
   "prediction": 0.0022639385981823397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

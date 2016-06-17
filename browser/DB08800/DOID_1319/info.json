@@ -1,14 +1,16 @@
 {
   "compound_id": "DB08800",
   "compound_name": "Chloropyramine",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.113133940182055,
   "metapath_contribution": {
-    "CbGeAlD": 0.4074045712828202,
-    "CbGpPWpGaD": 0.5691940931147553,
-    "CrCbGaD": 0.023401335602424352
+    "CbGeAlD": 0.40740457128282026,
+    "CbGpPWpGaD": 0.5691940931147554,
+    "CrCbGaD": 0.023401335602424356
   },
+  "n_trials": 0.0,
   "prediction": 0.000840601527278914,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

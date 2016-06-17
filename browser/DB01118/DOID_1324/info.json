@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.19701425162229652,
     "CbGbCtD": 0.22467861904864572,
@@ -13,7 +15,7 @@
     "CiPCiCtD": 0.43182501231286835,
     "CrCbGaD": 0.001789270002697789
   },
+  "n_trials": 0.0,
   "prediction": 0.00614085490963038,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

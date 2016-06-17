@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.40377113133940207,
   "metapath_contribution": {
     "CbGbCtD": 0.729547915751391,
     "CbGeAlD": 0.058284906592452015,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11412326082703096,
     "CrCbGaD": 0.008425599447199093
   },
+  "n_trials": 0.0,
   "prediction": 0.00132615696876515,
   "status": 0,
   "training_prediction": 0.00565771771249588

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.97334200260078,
   "metapath_contribution": {
     "CbGbCtD": 0.23480789644403313,
     "CbGeAlD": 0.001871712004142809,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.26974897472697906,
     "CrCtD": 0.405632008872771
   },
+  "n_trials": 0.0,
   "prediction": 0.0128795032505075,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

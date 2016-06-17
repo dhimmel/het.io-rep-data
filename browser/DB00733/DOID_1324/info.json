@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00733",
   "compound_name": "Pralidoxime",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.793888166449935,
   "metapath_contribution": {
     "CbGbCtD": 0.8262247862962727,
     "CbGeAlD": 0.026648311039107468,
     "CbGpPWpGaD": 0.05767683369477961,
     "CcSEcCtD": 0.08945006896984024
   },
+  "n_trials": 0.0,
   "prediction": 0.00331411557843816,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

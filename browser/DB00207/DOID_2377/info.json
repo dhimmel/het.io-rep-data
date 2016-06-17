@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00207",
   "compound_name": "Azithromycin",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.42782834850455104,
   "metapath_contribution": {
     "CbGbCtD": 0.7305961931655337,
     "CcSEcCtD": 0.26940380683446624
   },
+  "n_trials": 0.0,
   "prediction": 0.00168628247247368,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00696",
   "compound_name": "Ergotamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.6788036410923279,
   "metapath_contribution": {
     "CbGbCtD": 0.2544728723622345,
     "CbGpPWpGaD": 0.06505158012553475,
     "CcSEcCtD": 0.03428298189121757,
     "CpDpCtD": 0.6461925656210132
   },
+  "n_trials": 0.0,
   "prediction": 0.0026874844809975603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

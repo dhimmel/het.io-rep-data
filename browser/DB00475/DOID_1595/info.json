@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00475",
   "compound_name": "Chlordiazepoxide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.552015604681404,
   "metapath_contribution": {
     "CbGaD": 0.9048711572110435,
     "CbGeAlD": 0.08551466655123115,
     "CrCbGaD": 0.009614176237725293
   },
+  "n_trials": 1.0,
   "prediction": 0.0015965327192878,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

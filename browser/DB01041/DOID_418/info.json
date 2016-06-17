@@ -1,15 +1,18 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.397919375812744,
   "metapath_contribution": {
-    "CbGbCtD": 0.25650723774093714,
+    "CbGbCtD": 0.2565072377409371,
     "CbGdCrCtD": 0.004310773722536623,
-    "CbGeAlD": 0.09049289973829457,
-    "CbGpPWpGaD": 0.18647020845906065,
-    "CcSEcCtD": 0.4622188803391711
+    "CbGeAlD": 0.09049289973829455,
+    "CbGpPWpGaD": 0.18647020845906062,
+    "CcSEcCtD": 0.462218880339171
   },
+  "n_trials": 2.0,
   "prediction": 0.00148384711798824,
   "status": 0,
   "training_prediction": 0.00588861458074466

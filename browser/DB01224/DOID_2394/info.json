@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.364759427828349,
   "metapath_contribution": {
-    "CbGaD": 0.20158908537216905,
-    "CbGbCtD": 0.352001389817868,
-    "CbGeAlD": 0.09083915106825442,
-    "CbGpPWpGaD": 0.05365618288733365,
-    "CcSEcCtD": 0.3006281054669281,
-    "CrCbGaD": 0.0012860853874469282
+    "CbGaD": 0.201589085372169,
+    "CbGbCtD": 0.35200138981786794,
+    "CbGeAlD": 0.09083915106825441,
+    "CbGpPWpGaD": 0.05365618288733364,
+    "CcSEcCtD": 0.30062810546692803,
+    "CrCbGaD": 0.0012860853874469278
   },
+  "n_trials": 0.0,
   "prediction": 0.00121992136369405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

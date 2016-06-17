@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.610533159947984,
   "metapath_contribution": {
     "CbGbCtD": 0.3450434670545772,
     "CbGeAlD": 0.14241886087386613,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20091441333501148,
     "CrCbGaD": 0.01950208498105954
   },
+  "n_trials": 0.0,
   "prediction": 0.0016173727221571199,
   "status": 0,
   "training_prediction": 0.000729216818092819

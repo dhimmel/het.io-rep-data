@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.11341809025010237,
     "CbGbCtD": 0.15627460748887723,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.15019541612649798,
     "CrCtD": 0.20416426047676722
   },
+  "n_trials": 0.0,
   "prediction": 0.31499457995118296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

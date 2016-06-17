@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01241",
   "compound_name": "Gemfibrozil",
+  "compound_percentile": 0.463235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.601430429128739,
   "metapath_contribution": {
     "CbGbCtD": 0.5084269606137481,
     "CbGeAlD": 0.07085776260529818,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2558400830694269,
     "CrCbGaD": 0.007301901939349456
   },
+  "n_trials": 0.0,
   "prediction": 0.00180503339433484,
   "status": 0,
   "training_prediction": 0.0039762820870037794

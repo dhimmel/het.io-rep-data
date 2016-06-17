@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00270",
   "compound_name": "Isradipine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.8491771276472452,
     "CbGeAlD": 0.06163604712489948,
     "CbGpPWpGaD": 0.08089786066749446,
     "CrCbGaD": 0.008288964560360889
   },
+  "n_trials": 0.0,
   "prediction": 0.00263342422959683,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

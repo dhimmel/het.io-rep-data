@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00440",
   "compound_name": "Trimethoprim",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.17462209917710442,
     "CbGbCtD": 0.2734470606032128,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.051778493146994724,
     "CiPCiCtD": 0.46782977067563936
   },
+  "n_trials": 0.0,
   "prediction": 0.0164533594090981,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00191",
   "compound_name": "Phentermine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.5942782834850461,
   "metapath_contribution": {
     "CbGaD": 0.8426223259591425,
     "CbGeAlD": 0.06724612083966211,
     "CbGpPWpGaD": 0.08426811198171147,
     "CrCbGaD": 0.005863441219483819
   },
+  "n_trials": 0.0,
   "prediction": 0.00138519010909991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

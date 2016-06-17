@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.631339401820546,
   "metapath_contribution": {
     "CbGaD": 0.16667698867805877,
     "CbGbCtD": 0.669362863404114,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.14636924343841384,
     "CrCbGaD": 0.0010673088306502728
   },
+  "n_trials": 0.0,
   "prediction": 0.00208259944476615,
   "status": 0,
   "training_prediction": 0.00569434447587749

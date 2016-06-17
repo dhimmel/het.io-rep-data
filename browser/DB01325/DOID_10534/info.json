@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01325",
   "compound_name": "Quinethazone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
     "CbGaD": 0.920699745117261,
     "CbGeAlD": 0.04320668072179031,
     "CbGpPWpGaD": 0.027570947910943347,
     "CrCbGaD": 0.008522626250005319
   },
+  "n_trials": 0.0,
   "prediction": 0.0016740615508656599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

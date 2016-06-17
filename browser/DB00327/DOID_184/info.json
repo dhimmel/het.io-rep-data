@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.454486345903771,
   "metapath_contribution": {
     "CbGaD": 0.7868226788293206,
     "CbGpPWpGaD": 0.010939842002660306,
     "CcSEcCtD": 0.1947431800720344,
     "CrCbGaD": 0.0074942990959847
   },
+  "n_trials": 0.0,
   "prediction": 0.00143268078360245,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

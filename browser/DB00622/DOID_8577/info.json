@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00622",
   "compound_name": "Nicardipine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.697009102730819,
   "metapath_contribution": {
     "CbGaD": 0.5034094742249239,
     "CbGbCtD": 0.3054988662666853,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.07747401896994098,
     "CrCbGaD": 0.0027817029836323063
   },
+  "n_trials": 0.0,
   "prediction": 0.00277312703780503,
   "status": 0,
   "training_prediction": 0.009448839550916409

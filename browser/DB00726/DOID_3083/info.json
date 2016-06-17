@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.655396618985696,
   "metapath_contribution": {
     "CbGaD": 0.4671067308455212,
     "CbGbCtD": 0.3370383062649358,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10606365457766359,
     "CrCbGaD": 0.004976748746631912
   },
+  "n_trials": 0.0,
   "prediction": 0.00278029613574744,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

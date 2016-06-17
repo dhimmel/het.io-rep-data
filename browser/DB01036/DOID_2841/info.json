@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01036",
   "compound_name": "Tolterodine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7633289986996099,
   "metapath_contribution": {
     "CbGbCtD": 0.474827351240991,
     "CbGpPWpGaD": 0.05643368875852546,
@@ -10,7 +12,7 @@
     "CrCbGaD": 1.6199002554106137e-06,
     "CrCrCtD": 0.34432906063477725
   },
+  "n_trials": 0.0,
   "prediction": 0.0042943922410868295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

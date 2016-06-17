@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00549",
   "compound_name": "Zafirlukast",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9681404421326401,
   "metapath_contribution": {
     "CbGaD": 0.13086676303590164,
     "CbGbCtD": 0.19952721359026535,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.230843664200942,
     "CrCtD": 0.35061767775751873
   },
+  "n_trials": 0.0,
   "prediction": 0.0303519057098499,
   "status": 0,
   "training_prediction": 0.12159478524689099

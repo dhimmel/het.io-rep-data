@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.12314143791242976,
     "CbGbCtD": 0.27292133242403344,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06877208971689043,
     "CtDrD": 0.4889044731934227
   },
+  "n_trials": 1.0,
   "prediction": 0.0030833685728116197,
   "status": 0,
   "training_prediction": 0.0248374820787093

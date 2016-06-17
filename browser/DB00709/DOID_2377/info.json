@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00709",
   "compound_name": "Lamivudine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.9453836150845251,
   "metapath_contribution": {
     "CbGbCtD": 0.24412536942433186,
     "CbGdCrCtD": 0.0012682528883017836,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0013165805912309385,
     "CrCrCtD": 0.16922436590604278
   },
+  "n_trials": 0.0,
   "prediction": 0.00728896044187901,
   "status": 0,
   "training_prediction": 0.0305016904205627

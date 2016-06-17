@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.2186532208639562,
     "CbGbCtD": 0.4456182612113883,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.16120854692061598,
     "CrCbGaD": 0.0034970946029717767
   },
+  "n_trials": 0.0,
   "prediction": 0.00124638886596055,
   "status": 0,
   "training_prediction": 0.0324976209262006

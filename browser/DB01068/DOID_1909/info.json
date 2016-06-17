@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01068",
   "compound_name": "Clonazepam",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.221066319895969,
   "metapath_contribution": {
     "CbGaD": 0.31663945998517073,
     "CbGbCtD": 0.42946243295995046,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.21429057400963877,
     "CrCbGaD": 0.005288135901369521
   },
+  "n_trials": 0.0,
   "prediction": 0.000908175105932362,
   "status": 0,
   "training_prediction": 0.00165998864249072

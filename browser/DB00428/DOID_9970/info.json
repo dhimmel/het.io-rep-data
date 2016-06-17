@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.36605981794538395,
   "metapath_contribution": {
     "CbGaD": 0.32776940674929295,
     "CbGbCtD": 0.3988927375543748,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07059959138909272,
     "CrCbGaD": 0.004810889106624253
   },
+  "n_trials": 0.0,
   "prediction": 0.00191924528583823,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

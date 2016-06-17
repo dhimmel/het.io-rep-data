@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9401820546163849,
   "metapath_contribution": {
     "CbGbCtD": 0.23638920184897658,
     "CbGdCrCtD": 0.001901678365213605,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14585699080591513,
     "CpDpCtD": 0.5176741017751703
   },
+  "n_trials": 0.0,
   "prediction": 0.00537568817525779,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

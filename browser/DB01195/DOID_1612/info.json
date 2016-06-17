@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01195",
   "compound_name": "Flecainide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.657997399219766,
   "metapath_contribution": {
     "CbGaD": 0.3065305843908831,
     "CbGbCtD": 0.3465388649158753,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2693145946349348,
     "CrCbGaD": 0.010397920829360072
   },
+  "n_trials": 0.0,
   "prediction": 0.00331539755602302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01466",
   "compound_name": "Ethylmorphine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGaD": 0.9556240796059147,
     "CbGbCtD": 0.023793366150999005,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.019559170888397117,
     "CrCbGaD": 0.0008148985797321294
   },
+  "n_trials": 0.0,
   "prediction": 0.0032499392308754,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

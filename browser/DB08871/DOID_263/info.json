@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08871",
   "compound_name": "Eribulin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGbCtD": 0.39464284292287644,
     "CbGdCrCtD": 0.0010010420968965996,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.014063150665122343,
     "CiPCiCtD": 0.5784761655197793
   },
+  "n_trials": 0.0,
   "prediction": 0.0175699063537124,
   "status": 0,
   "training_prediction": 0.0496134538532316

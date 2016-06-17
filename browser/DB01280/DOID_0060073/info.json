@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0060073",
   "disease_name": "lymphatic system cancer",
+  "disease_percentile": 0.996098829648895,
   "metapath_contribution": {
     "CbGbCtD": 0.1917934761423154,
     "CbGdCrCtD": 0.0005363736584050432,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.18711567267395873,
     "CrCtD": 0.2759495119618093
   },
+  "n_trials": 0.0,
   "prediction": 0.0876464964773112,
   "status": 0,
   "training_prediction": 0.17497505454556

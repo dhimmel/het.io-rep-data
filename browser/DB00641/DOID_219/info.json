@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00641",
   "compound_name": "Simvastatin",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.7873862158647591,
   "metapath_contribution": {
     "CbGaD": 0.24514639407813946,
     "CbGbCtD": 0.5566804202089776,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0828388395524389,
     "CrCbGaD": 0.0020189425271465475
   },
+  "n_trials": 0.0,
   "prediction": 0.00234891911253012,
   "status": 0,
   "training_prediction": 0.00557586900224365

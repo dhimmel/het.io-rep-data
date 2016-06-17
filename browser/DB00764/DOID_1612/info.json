@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00764",
   "compound_name": "Mometasone",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.785435630689207,
   "metapath_contribution": {
     "CbGbCtD": 0.18545390570630513,
     "CbGeAlD": 0.0003592516265597049,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.28439452648072644,
     "CrCtD": 0.4200822082828255
   },
+  "n_trials": 0.0,
   "prediction": 0.0045362742293052,
   "status": 0,
   "training_prediction": 0.0544413378306925

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06616",
   "compound_name": "Bosutinib",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.406371911573472,
   "metapath_contribution": {
     "CbGaD": 0.5377421373480863,
     "CbGeAlD": 0.12574459836437357,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11738329614524395,
     "CrCbGaD": 0.0012700925992958944
   },
+  "n_trials": 0.0,
   "prediction": 0.00157421745184848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

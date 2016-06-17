@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00288",
   "compound_name": "Amcinonide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.14984420399350168,
     "CbGeAlD": 0.004145264537262909,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.18899757949174734,
     "CrCtD": 0.25471425302271516
   },
+  "n_trials": 0.0,
   "prediction": 0.0430097489230946,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

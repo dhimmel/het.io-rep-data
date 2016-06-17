@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00536",
   "compound_name": "Guanidine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9310793237971391,
   "metapath_contribution": {
     "CbGaD": 0.7795813834955138,
     "CbGeAlD": 0.0665342041468254,
     "CbGpPWpGaD": 0.0947188113720454,
     "CcSEcCtD": 0.05916560098561545
   },
+  "n_trials": 0.0,
   "prediction": 0.00348046254877704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

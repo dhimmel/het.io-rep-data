@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00873",
   "compound_name": "Loteprednol",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.49609882964889507,
   "metapath_contribution": {
     "CbGbCtD": 0.1498696162924582,
     "CbGpPWpGaD": 0.029443288694651945,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2969323453797439,
     "CrCtD": 0.5213981782553637
   },
+  "n_trials": 0.0,
   "prediction": 0.0023262118474388603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

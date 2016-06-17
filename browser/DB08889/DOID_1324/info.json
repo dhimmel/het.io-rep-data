@@ -1,18 +1,20 @@
 {
   "compound_id": "DB08889",
   "compound_name": "Carfilzomib",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.524707412223667,
   "metapath_contribution": {
-    "CbGaD": 0.22138920684771998,
+    "CbGaD": 0.22138920684771995,
     "CbGbCtD": 0.26032579320138,
-    "CbGdCrCtD": 0.005716939594143165,
-    "CbGeAlD": 0.0834957368432935,
-    "CbGpPWpGaD": 0.19997141045835015,
-    "CcSEcCtD": 0.22605976436614475,
-    "CrCbGaD": 0.003041148688968452
+    "CbGdCrCtD": 0.005716939594143164,
+    "CbGeAlD": 0.08349573684329349,
+    "CbGpPWpGaD": 0.19997141045835012,
+    "CcSEcCtD": 0.22605976436614472,
+    "CrCbGaD": 0.0030411486889684518
   },
+  "n_trials": 0.0,
   "prediction": 0.00191387080012176,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

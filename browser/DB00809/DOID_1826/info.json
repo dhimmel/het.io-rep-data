@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00809",
   "compound_name": "Tropicamide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGaD": 0.4567864998778904,
     "CbGeAlD": 0.003351304675777475,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0033044088074982063,
     "CrCrCtD": 0.3579581587055779
   },
+  "n_trials": 0.0,
   "prediction": 0.0062286882814516,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

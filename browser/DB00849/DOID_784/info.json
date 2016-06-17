@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00849",
   "compound_name": "Methylphenobarbital",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGaD": 0.9134096231054114,
     "CbGeAlD": 0.006599840208190881,
     "CbGpPWpGaD": 0.06828822775707358,
     "CrCbGaD": 0.011702308929324154
   },
+  "n_trials": 0.0,
   "prediction": 0.00212259090194545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.631339401820546,
   "metapath_contribution": {
     "CbGaD": 0.5710786425814508,
     "CbGbCtD": 0.12396325288358448,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.22730489219354305,
     "CrCbGaD": 0.0025380204182649238
   },
+  "n_trials": 0.0,
   "prediction": 0.00154715786692654,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

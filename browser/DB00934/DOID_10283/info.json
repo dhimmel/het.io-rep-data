@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00934",
   "compound_name": "Maprotiline",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.30754226267880397,
   "metapath_contribution": {
     "CbGbCtD": 0.5119813670736283,
     "CbGeAlD": 0.0653359828748245,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2763489054220505,
     "CrCbGaD": 0.005282319330709107
   },
+  "n_trials": 0.0,
   "prediction": 0.0015541772829569698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

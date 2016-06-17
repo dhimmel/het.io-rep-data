@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.17460279521451577,
     "CbGbCtD": 0.16454713188075706,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0015233863472575335,
     "CrCrCtD": 0.16204595478847011
   },
+  "n_trials": 1.0,
   "prediction": 0.018684242514337,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:8398",
   "disease_name": "osteoarthritis",
+  "disease_percentile": 0.398569570871261,
   "metapath_contribution": {
     "CbGaD": 0.14922455186198655,
     "CbGpPWpGaD": 0.030985658876234327,
     "CrCbGaD": 0.0001907431903009196,
     "CtDrD": 0.819599046071478
   },
+  "n_trials": 2.0,
   "prediction": 0.00112424038624236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

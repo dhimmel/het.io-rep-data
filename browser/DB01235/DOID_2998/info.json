@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01235",
   "compound_name": "L-DOPA",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.43628088426528,
   "metapath_contribution": {
     "CbGdCrCtD": 0.00499859157808639,
     "CbGeAlD": 0.04969351711713369,
     "CcSEcCtD": 0.1300759648803968,
     "CrCrCtD": 0.8152319264243831
   },
+  "n_trials": 0.0,
   "prediction": 0.00146482452741604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

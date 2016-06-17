@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.3608582574772429,
   "metapath_contribution": {
     "CbGbCtD": 0.5658590569429349,
     "CbGeAlD": 0.08227541599251767,
     "CbGpPWpGaD": 0.04997076352009008,
     "CcSEcCtD": 0.3018947635444574
   },
+  "n_trials": 0.0,
   "prediction": 0.0017272924632524,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

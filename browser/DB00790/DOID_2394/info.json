@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.786736020806242,
   "metapath_contribution": {
     "CbGaD": 0.4834089059478278,
     "CbGbCtD": 0.15509163536790588,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2719343585464633,
     "CrCbGaD": 0.00010345577903182359
   },
+  "n_trials": 0.0,
   "prediction": 0.00227262879596325,
   "status": 0,
   "training_prediction": 0.00899777784901179

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.507352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.323797139141743,
   "metapath_contribution": {
     "CbGbCtD": 0.5183206674088432,
     "CbGeAlD": 0.08282146602339646,
     "CcSEcCtD": 0.3881386432836762,
     "CrCbGaD": 0.010719223284084064
   },
+  "n_trials": 0.0,
   "prediction": 0.00120378124336355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

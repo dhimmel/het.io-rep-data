@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.822496749024707,
   "metapath_contribution": {
     "CbGaD": 0.22232215626408164,
     "CbGbCtD": 0.38388901598238157,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08981592972362444,
     "CcSEcCtD": 0.26792227767245924
   },
+  "n_trials": 0.0,
   "prediction": 0.00351013935109337,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

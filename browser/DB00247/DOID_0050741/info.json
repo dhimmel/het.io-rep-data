@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00247",
   "compound_name": "Methysergide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGaD": 0.620217195802186,
     "CbGbCtD": 0.11064830084232365,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07624857754503499,
     "CrCbGaD": 0.005192804070150091
   },
+  "n_trials": 0.0,
   "prediction": 0.005248088117707129,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

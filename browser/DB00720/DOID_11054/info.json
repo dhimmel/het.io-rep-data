@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00720",
   "compound_name": "Clodronate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7639791937581271,
   "metapath_contribution": {
     "CbGaD": 0.5177743271038934,
     "CbGbCtD": 0.0972925997402436,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.07154029822066824,
     "CcSEcCtD": 0.18504965045725705
   },
+  "n_trials": 0.0,
   "prediction": 0.00233429824759692,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

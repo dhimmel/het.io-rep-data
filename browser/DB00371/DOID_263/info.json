@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00371",
   "compound_name": "Meprobamate",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
     "CbGaD": 0.353572951436012,
     "CbGbCtD": 0.39256489783452697,
     "CbGpPWpGaD": 0.03628875316885464,
     "CcSEcCtD": 0.21757339756060648
   },
+  "n_trials": 0.0,
   "prediction": 0.00327953758086671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

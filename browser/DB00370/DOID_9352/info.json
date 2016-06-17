@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.858257477243173,
   "metapath_contribution": {
     "CbGaD": 0.31751439396552145,
     "CbGbCtD": 0.4264249658021292,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13808390252590153,
     "CrCbGaD": 0.001442269237601193
   },
+  "n_trials": 0.0,
   "prediction": 0.00631541196732189,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

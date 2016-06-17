@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00301",
   "compound_name": "Flucloxacillin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5071521456436929,
   "metapath_contribution": {
     "CbGaD": 0.3327378289164179,
     "CbGbCtD": 0.47072314743630844,
     "CbGpPWpGaD": 0.026949469632342002,
     "CcSEcCtD": 0.1695895540149316
   },
+  "n_trials": 0.0,
   "prediction": 0.0023236339002495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

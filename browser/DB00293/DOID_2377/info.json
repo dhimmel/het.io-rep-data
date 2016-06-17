@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00293",
   "compound_name": "Raltitrexed",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.975292587776333,
   "metapath_contribution": {
     "CbGbCtD": 0.21214922177977927,
     "CbGdCrCtD": 0.0017175565228056025,
@@ -11,7 +13,7 @@
     "CrCrCtD": 0.2973712116225469,
     "CrCtD": 0.44997710793357537
   },
+  "n_trials": 0.0,
   "prediction": 0.0143736817134849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

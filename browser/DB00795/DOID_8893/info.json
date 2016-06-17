@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.1849094245619047,
     "CbGbCtD": 0.2841016834292182,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0019916996241123325,
     "CtDrD": 0.4549740601239318
   },
+  "n_trials": 0.0,
   "prediction": 0.00851724130221598,
   "status": 0,
   "training_prediction": 0.0945542333885525

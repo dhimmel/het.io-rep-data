@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGbCtD": 0.681343753723327,
     "CbGdCrCtD": 0.003640955291140464,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12016480875642174,
     "CcSEcCtD": 0.19086066025952028
   },
+  "n_trials": 0.0,
   "prediction": 0.0027988596840369303,
   "status": 0,
   "training_prediction": 0.0204081335637067

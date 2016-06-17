@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00946",
   "compound_name": "Phenprocoumon",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.642392717815345,
   "metapath_contribution": {
     "CbGaD": 0.3394210369268788,
     "CbGbCtD": 0.6392272885277889,
     "CbGeAlD": 0.020188791135369165,
     "CrCbGaD": 0.0011628834099630884
   },
+  "n_trials": 0.0,
   "prediction": 0.00305548392227885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

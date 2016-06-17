@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00247",
   "compound_name": "Methysergide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.386215864759428,
   "metapath_contribution": {
     "CbGbCtD": 0.5978564213339997,
     "CbGeAlD": 0.009612586298300231,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2703271577075048,
     "CrCbGaD": 0.004701516585561742
   },
+  "n_trials": 0.0,
   "prediction": 0.0019482521950807898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

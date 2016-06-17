@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.11833550065019502,
   "metapath_contribution": {
     "CbGbCtD": 0.5813263583231504,
     "CbGeAlD": 0.01265396986024898,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19908040510846467,
     "CrCbGaD": 0.0029535940193247574
   },
+  "n_trials": 0.0,
   "prediction": 0.0010203184938907199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

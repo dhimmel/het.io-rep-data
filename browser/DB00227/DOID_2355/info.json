@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.520806241872562,
   "metapath_contribution": {
     "CbGaD": 0.6546171506400695,
     "CbGeAlD": 0.14668486023757282,
     "CbGpPWpGaD": 0.19515043025023457,
     "CrCbGaD": 0.0035475588721230237
   },
+  "n_trials": 0.0,
   "prediction": 0.0012619771138137699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

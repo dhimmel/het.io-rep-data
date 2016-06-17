@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00871",
   "compound_name": "Terbutaline",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.6742522756827048,
   "metapath_contribution": {
     "CbGbCtD": 0.39883609638745326,
     "CbGpPWpGaD": 0.024197535118643948,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0019493966588548695,
     "CrCrCtD": 0.501232092005481
   },
+  "n_trials": 0.0,
   "prediction": 0.00317602812964475,
   "status": 0,
   "training_prediction": 0.00579434762187754

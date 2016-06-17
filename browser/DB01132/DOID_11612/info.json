@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.948634590377113,
   "metapath_contribution": {
     "CbGaD": 0.25598451951099493,
     "CbGeAlD": 0.015981227705154054,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0011171044047550251,
     "CtDrD": 0.6665761925433569
   },
+  "n_trials": 7.0,
   "prediction": 0.00341631321132087,
   "status": 0,
   "training_prediction": 0.00154182176802196

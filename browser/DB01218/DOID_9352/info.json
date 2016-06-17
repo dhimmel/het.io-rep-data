@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01218",
   "compound_name": "Halofantrine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8289986996098829,
   "metapath_contribution": {
     "CbGaD": 0.22878109384510364,
     "CbGbCtD": 0.5536036434920573,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17327373503063814,
     "CrCbGaD": 0.0024578324532817317
   },
+  "n_trials": 0.0,
   "prediction": 0.00566704214662765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

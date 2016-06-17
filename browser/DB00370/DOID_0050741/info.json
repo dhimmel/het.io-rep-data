@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00370",
   "compound_name": "Mirtazapine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.4508305270658655,
     "CbGbCtD": 0.3127802826140586,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11176598641908876,
     "CrCbGaD": 0.0023238627508755253
   },
+  "n_trials": 2.0,
   "prediction": 0.0116757160176402,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

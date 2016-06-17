@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00158",
   "compound_name": "Folic Acid",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.633940182054616,
   "metapath_contribution": {
     "CbGbCtD": 0.7859899923616965,
     "CbGeAlD": 0.04727784160084712,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04193469383683104,
     "CrCbGaD": 0.009399226197156045
   },
+  "n_trials": 10.0,
   "prediction": 0.00210203432642732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

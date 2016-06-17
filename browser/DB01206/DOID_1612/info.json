@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01206",
   "compound_name": "Lomustine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGaD": 0.15225970870862554,
     "CbGbCtD": 0.15788098528668426,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06775365942853485,
     "CiPCiCtD": 0.6204765803055761
   },
+  "n_trials": 0.0,
   "prediction": 0.015146468373451,
   "status": 0,
   "training_prediction": 0.124800139953901

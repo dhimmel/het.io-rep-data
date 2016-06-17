@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00360",
   "compound_name": "Tetrahydrobiopterin",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.725617685305592,
   "metapath_contribution": {
     "CbGbCtD": 0.4580651829931416,
     "CbGdCrCtD": 0.01401376255649474,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13367098616662085,
     "CcSEcCtD": 0.38692247207422076
   },
+  "n_trials": 0.0,
   "prediction": 0.00286976502437346,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

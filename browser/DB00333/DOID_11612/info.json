@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.5514705882352939,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.24707412223667105,
   "metapath_contribution": {
     "CbGaD": 0.665758198317055,
     "CbGeAlD": 0.12561152204947285,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03234573875144237,
     "CrCbGaD": 0.009394463206786118
   },
+  "n_trials": 0.0,
   "prediction": 0.000974355732149806,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

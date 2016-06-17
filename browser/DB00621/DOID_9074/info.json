@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00621",
   "compound_name": "Oxandrolone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.418725617685306,
   "metapath_contribution": {
-    "CbGpPWpGaD": 0.0032493081734638204,
-    "CcSEcCtD": 0.1210698608334624,
-    "CrCbGaD": 0.0032783528073982225,
-    "CrCrCtD": 0.8724024781856757
+    "CbGpPWpGaD": 0.00324930817346382,
+    "CcSEcCtD": 0.12106986083346237,
+    "CrCbGaD": 0.003278352807398222,
+    "CrCrCtD": 0.8724024781856755
   },
+  "n_trials": 0.0,
   "prediction": 0.00166379063661361,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

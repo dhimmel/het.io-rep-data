@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00352",
   "compound_name": "Tioguanine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.5624187256176851,
   "metapath_contribution": {
     "CbGbCtD": 0.28466495924273144,
     "CbGdCrCtD": 0.015262556913947695,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.26061035128445775,
     "CrCbGaD": 0.022633003234565803
   },
+  "n_trials": 0.0,
   "prediction": 0.00254439382350709,
   "status": 0,
   "training_prediction": 0.0107446054298591

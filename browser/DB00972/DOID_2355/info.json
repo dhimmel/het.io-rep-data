@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.376462938881664,
   "metapath_contribution": {
     "CbGaD": 0.6101784792646724,
     "CbGeAlD": 0.15204089633125054,
     "CbGpPWpGaD": 0.22374385454013113,
     "CrCbGaD": 0.01403676986394597
   },
+  "n_trials": 0.0,
   "prediction": 0.00103570528468321,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

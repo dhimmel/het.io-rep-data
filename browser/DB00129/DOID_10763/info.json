@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00129",
   "compound_name": "L-Ornithine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.37126137841352397,
   "metapath_contribution": {
     "CbGaD": 0.7140290665972544,
     "CbGeAlD": 0.08786033150266283,
     "CbGpPWpGaD": 0.19122817596825267,
     "CrCbGaD": 0.006882425931830037
   },
+  "n_trials": 0.0,
   "prediction": 0.00285082583971536,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

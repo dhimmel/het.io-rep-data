@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.130039011703511,
   "metapath_contribution": {
     "CbGeAlD": 0.22174784915555862,
     "CbGpPWpGaD": 0.3511751820147254,
     "CcSEcCtD": 0.41316228003702143,
     "CrCbGaD": 0.013914688792694507
   },
+  "n_trials": 0.0,
   "prediction": 0.00116003490795288,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

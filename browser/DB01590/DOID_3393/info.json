@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01590",
   "compound_name": "Everolimus",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.320546163849155,
   "metapath_contribution": {
     "CbGbCtD": 0.14648629637351646,
     "CbGeAlD": 0.0008236563556002677,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.6296278829251243,
     "CrCbGaD": 0.0012159422580724508
   },
+  "n_trials": 0.0,
   "prediction": 0.00166560981266471,
   "status": 0,
   "training_prediction": 0.00891869502439828

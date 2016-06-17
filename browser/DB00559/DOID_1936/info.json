@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00559",
   "compound_name": "Bosentan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.4658086772091257,
     "CbGbCtD": 0.3624435878554977,
     "CbGpPWpGaD": 0.06975465364023117,
     "CcSEcCtD": 0.10199308129514544
   },
+  "n_trials": 0.0,
   "prediction": 0.00945971727374943,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

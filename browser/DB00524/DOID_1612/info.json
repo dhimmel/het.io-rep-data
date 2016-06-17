@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00524",
   "compound_name": "Metolazone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.263979193758127,
   "metapath_contribution": {
     "CbGaD": 0.6251568155087637,
     "CbGeAlD": 0.016220515609844444,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2760959932617488,
     "CrCbGaD": 0.003969140315559355
   },
+  "n_trials": 0.0,
   "prediction": 0.0014941040043471,
   "status": 0,
   "training_prediction": 0.0082381081311786

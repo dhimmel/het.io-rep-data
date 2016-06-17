@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.20611183355006502,
   "metapath_contribution": {
     "CbGaD": 0.1589890467694472,
     "CbGbCtD": 0.5133207860060796,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1477129672221442,
     "CrCbGaD": 0.0006247638456105024
   },
+  "n_trials": 0.0,
   "prediction": 0.0010708965970006,
   "status": 0,
   "training_prediction": 0.0029087296748997802

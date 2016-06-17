@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.8576072821846551,
   "metapath_contribution": {
     "CbGaD": 0.603812339788288,
     "CbGbCtD": 0.30640314086682435,
     "CbGpPWpGaD": 0.026398032612016467,
     "CcSEcCtD": 0.06338648673287132
   },
+  "n_trials": 0.0,
   "prediction": 0.00271121386762946,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

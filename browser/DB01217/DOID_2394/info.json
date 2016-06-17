@@ -1,15 +1,18 @@
 {
   "compound_id": "DB01217",
   "compound_name": "Anastrozole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
-    "CbGbCtD": 0.13648633747611486,
-    "CbGeAlD": 0.04286043564583288,
-    "CbGpPWpGaD": 0.003618560987787031,
-    "CcSEcCtD": 0.10302361831604824,
-    "CtDrD": 0.7140110475742169
+    "CbGbCtD": 0.13648633747611488,
+    "CbGeAlD": 0.04286043564583289,
+    "CbGpPWpGaD": 0.0036185609877870313,
+    "CcSEcCtD": 0.10302361831604825,
+    "CtDrD": 0.714011047574217
   },
+  "n_trials": 1.0,
   "prediction": 0.00976955420689281,
   "status": 0,
   "training_prediction": 0.0230194501396841

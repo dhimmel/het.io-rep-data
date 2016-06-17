@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01357",
   "compound_name": "Mestranol",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0331599479843953,
   "metapath_contribution": {
     "CbGbCtD": 0.5763707056150301,
     "CbGpPWpGaD": 0.10950901746918688,
     "CrCbGaD": 0.009032802284058209,
     "CrCrCtD": 0.3050874746317248
   },
+  "n_trials": 0.0,
   "prediction": 0.0008396840181109509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

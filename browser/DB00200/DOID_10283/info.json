@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00200",
   "compound_name": "Hydroxocobalamin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8888166449934979,
   "metapath_contribution": {
-    "CbGaD": 0.6207009456537582,
-    "CbGeAlD": 0.07342073610702989,
-    "CbGpPWpGaD": 0.16583953573496227,
-    "CcSEcCtD": 0.13416534760816268,
-    "CrCbGaD": 0.005873434896086945
+    "CbGaD": 0.6207009456537583,
+    "CbGeAlD": 0.0734207361070299,
+    "CbGpPWpGaD": 0.1658395357349623,
+    "CcSEcCtD": 0.1341653476081627,
+    "CrCbGaD": 0.005873434896086946
   },
+  "n_trials": 1.0,
   "prediction": 0.00655156840364677,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

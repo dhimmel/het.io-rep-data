@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00628",
   "compound_name": "Clorazepate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.7383266378236939,
     "CbGeAlD": 0.07046355387769439,
     "CbGpPWpGaD": 0.18284728129649283,
     "CrCbGaD": 0.008362527002118939
   },
+  "n_trials": 0.0,
   "prediction": 0.00185412441692178,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

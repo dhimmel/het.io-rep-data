@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7373211963589079,
   "metapath_contribution": {
     "CbGaD": 0.3301096181826718,
     "CbGbCtD": 0.47209233498895026,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15243187627323085,
     "CrCbGaD": 0.003701861382745009
   },
+  "n_trials": 0.0,
   "prediction": 0.0064577417957238205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

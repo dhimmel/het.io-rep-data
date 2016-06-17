@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00967",
   "compound_name": "Desloratadine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.659947984395319,
   "metapath_contribution": {
     "CbGaD": 0.8090652165557637,
     "CbGeAlD": 0.04668221379617659,
     "CbGpPWpGaD": 0.13847986489507325,
     "CrCbGaD": 0.005772704752986527
   },
+  "n_trials": 0.0,
   "prediction": 0.0019730514750010003,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

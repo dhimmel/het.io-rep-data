@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.38231469440832205,
   "metapath_contribution": {
     "CbGaD": 0.7228525118595444,
     "CbGeAlD": 0.09342925089267119,
     "CbGpPWpGaD": 0.18226333045185045,
     "CrCbGaD": 0.0014549067959339548
   },
+  "n_trials": 0.0,
   "prediction": 0.00104607752326986,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

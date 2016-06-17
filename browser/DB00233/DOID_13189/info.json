@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00233",
   "compound_name": "Aminosalicylic Acid",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.556566970091027,
   "metapath_contribution": {
     "CbGbCtD": 0.7295125958615892,
     "CbGdCrCtD": 0.0034686291859911734,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2540207384738033,
     "CrCbGaD": 0.005668266336899973
   },
+  "n_trials": 0.0,
   "prediction": 0.00230761901389335,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

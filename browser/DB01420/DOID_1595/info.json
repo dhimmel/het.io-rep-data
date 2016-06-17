@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01420",
   "compound_name": "Testosterone Propionate",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.698309492847854,
   "metapath_contribution": {
     "CbGaD": 0.8692375376709365,
     "CbGeAlD": 0.03939386910214416,
     "CbGpPWpGaD": 0.08538852402944869,
     "CrCbGaD": 0.005980069197470737
   },
+  "n_trials": 0.0,
   "prediction": 0.00190473103097292,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

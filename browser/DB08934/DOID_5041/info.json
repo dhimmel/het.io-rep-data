@@ -1,14 +1,16 @@
 {
   "compound_id": "DB08934",
   "compound_name": "Sofosbuvir",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.855656697009103,
   "metapath_contribution": {
     "CbGaD": 0.9043647142753239,
     "CbGbCtD": 0.031159454342944547,
     "CcSEcCtD": 0.06447583138173146
   },
+  "n_trials": 0.0,
   "prediction": 0.00249759366754435,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

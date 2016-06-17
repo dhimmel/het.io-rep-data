@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06616",
   "compound_name": "Bosutinib",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.5162548764629389,
   "metapath_contribution": {
     "CbGaD": 0.5472144029378849,
     "CbGeAlD": 0.09142872462259949,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15373620270073618,
     "CrCbGaD": 0.0028691626267993526
   },
+  "n_trials": 0.0,
   "prediction": 0.00165483185097088,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

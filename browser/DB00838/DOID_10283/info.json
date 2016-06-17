@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00838",
   "compound_name": "Clocortolone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.33940182054616397,
   "metapath_contribution": {
     "CbGaD": 0.41129426805526825,
     "CbGbCtD": 0.09010898675759141,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.005157981427069917,
     "CrCrCtD": 0.4176000046129859
   },
+  "n_trials": 0.0,
   "prediction": 0.00168786662302269,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

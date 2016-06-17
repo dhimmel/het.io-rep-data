@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00920",
   "compound_name": "Ketotifen",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.255526657997399,
   "metapath_contribution": {
     "CbGaD": 0.5531780388547644,
-    "CbGbCtD": 0.06259044769459299,
+    "CbGbCtD": 0.06259044769459297,
     "CbGeAlD": 0.07820901570874102,
     "CbGpPWpGaD": 0.14040473252263483,
-    "CcSEcCtD": 0.16394524831971682,
-    "CrCbGaD": 0.0016725168995499315
+    "CcSEcCtD": 0.1639452483197168,
+    "CrCbGaD": 0.001672516899549931
   },
+  "n_trials": 0.0,
   "prediction": 0.00147217687692553,
   "status": 0,
   "training_prediction": 0.00811801221715385

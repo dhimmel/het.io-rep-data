@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.642392717815345,
   "metapath_contribution": {
     "CbGaD": 0.7649609893328124,
     "CbGeAlD": 0.07425626282987055,
     "CbGpPWpGaD": 0.15299271048565183,
     "CrCbGaD": 0.007790037351665232
   },
+  "n_trials": 0.0,
   "prediction": 0.00192071199086142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

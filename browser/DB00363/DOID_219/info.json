@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.237971391417425,
   "metapath_contribution": {
     "CbGaD": 0.43751955105070195,
     "CbGbCtD": 0.30024099995735415,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06909223920119535,
     "CrCbGaD": 0.0014063767410148116
   },
+  "n_trials": 0.0,
   "prediction": 0.00105393963624845,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

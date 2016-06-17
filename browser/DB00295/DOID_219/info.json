@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.498699609882965,
   "metapath_contribution": {
     "CbGaD": 0.41718879544252147,
     "CbGbCtD": 0.28442365745538395,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.22418924404198026,
     "CrCbGaD": 0.00031354112719421656
   },
+  "n_trials": 0.0,
   "prediction": 0.0015507210101562302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00376",
   "compound_name": "Trihexyphenidyl",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.661898569570871,
   "metapath_contribution": {
     "CbGaD": 0.4071938317841406,
     "CbGeAlD": 0.005173347796005311,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.3943112199868986,
     "CrCbGaD": 0.004329709156606406
   },
+  "n_trials": 0.0,
   "prediction": 0.005106578861483579,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

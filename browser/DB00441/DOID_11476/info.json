@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.40441176470588197,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.11703511053316001,
   "metapath_contribution": {
     "CbGbCtD": 0.38789653778935085,
     "CbGdCrCtD": 0.00979024479240608,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.1662495542207198,
     "CcSEcCtD": 0.41354701358404367
   },
+  "n_trials": 0.0,
   "prediction": 0.00105215350519629,
   "status": 0,
   "training_prediction": 0.0134643936309315

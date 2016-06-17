@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.267230169050715,
   "metapath_contribution": {
     "CbGaD": 0.6510166894999737,
     "CbGeAlD": 0.03633623007126933,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.22206946979983672,
     "CrCbGaD": 0.005264624396290782
   },
+  "n_trials": 0.0,
   "prediction": 0.00141212725833747,
   "status": 0,
   "training_prediction": 0.00598510437751766

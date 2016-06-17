@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00247",
   "compound_name": "Methysergide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.09497359300929895,
     "CbGbCtD": 0.1555155273436876,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.2395903877753079,
     "CrCtD": 0.40744263041291967
   },
+  "n_trials": 0.0,
   "prediction": 0.0278116231357546,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

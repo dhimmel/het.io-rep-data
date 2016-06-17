@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00118",
   "compound_name": "S-Adenosylmethionine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.401820546163849,
   "metapath_contribution": {
     "CbGaD": 0.6622196951741135,
     "CbGeAlD": 0.12083652328927873,
     "CbGpPWpGaD": 0.20811003950648033,
     "CrCbGaD": 0.00883374203012745
   },
+  "n_trials": 0.0,
   "prediction": 0.00135923457655926,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00440",
   "compound_name": "Trimethoprim",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.457737321196359,
   "metapath_contribution": {
     "CbGbCtD": 0.6711103976338728,
     "CbGdCrCtD": 0.004296847357036401,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0912433647630251,
     "CcSEcCtD": 0.18219385442726546
   },
+  "n_trials": 0.0,
   "prediction": 0.00156955208486547,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

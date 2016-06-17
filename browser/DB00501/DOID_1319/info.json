@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00501",
   "compound_name": "Cimetidine",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9148244473342,
   "metapath_contribution": {
     "CbGaD": 0.49718176134180975,
     "CbGbCtD": 0.29153838405628,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05664255779170565,
     "CcSEcCtD": 0.1126765650551993
   },
+  "n_trials": 0.0,
   "prediction": 0.00343898578904433,
   "status": 0,
   "training_prediction": 0.00627272358419981

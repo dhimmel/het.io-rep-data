@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00818",
   "compound_name": "Propofol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.9505851755526659,
   "metapath_contribution": {
     "CbGaD": 0.37009626715659744,
     "CbGbCtD": 0.3949159084730549,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09269760415876714,
     "CrCbGaD": 0.005312266593589059
   },
+  "n_trials": 2.0,
   "prediction": 0.0100951996486941,
   "status": 0,
   "training_prediction": 0.0122309607439337

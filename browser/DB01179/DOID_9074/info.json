@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.49609882964889507,
   "metapath_contribution": {
     "CbGaD": 0.360735969990671,
     "CbGbCtD": 0.5001116955575946,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.07870860990238507,
     "CrCbGaD": 0.00024988790327191653
   },
+  "n_trials": 0.0,
   "prediction": 0.0018864812147042199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

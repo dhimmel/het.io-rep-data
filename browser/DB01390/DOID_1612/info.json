@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01390",
   "compound_name": "Sodium bicarbonate",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.884915474642393,
   "metapath_contribution": {
     "CbGaD": 0.6897674991223051,
     "CbGeAlD": 0.04996454375607045,
     "CbGpPWpGaD": 0.12329817625858032,
     "CcSEcCtD": 0.13696978086304412
   },
+  "n_trials": 0.0,
   "prediction": 0.00656125371412532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

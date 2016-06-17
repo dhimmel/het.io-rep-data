@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.323529411764706,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.312743823146944,
   "metapath_contribution": {
     "CbGbCtD": 0.22214385584795876,
     "CbGeAlD": 0.3005851282769297,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20437562878178428,
     "CrCbGaD": 0.002823905179196917
   },
+  "n_trials": 0.0,
   "prediction": 0.0010905289123485,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

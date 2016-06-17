@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.283485045513654,
   "metapath_contribution": {
     "CbGaD": 0.11617046602786818,
     "CbGbCtD": 0.5758118941488632,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.171699867700757,
     "CrCbGaD": 0.004595416619797476
   },
+  "n_trials": 0.0,
   "prediction": 0.00164869736331581,
   "status": 0,
   "training_prediction": 0.00725012714994023

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.0169050715214564,
   "metapath_contribution": {
     "CbGdCrCtD": 0.010065115451264844,
     "CbGeAlD": 0.24571091629782263,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5260678210320873,
     "CrCbGaD": 0.00803738166033719
   },
+  "n_trials": 0.0,
   "prediction": 0.000510943534220244,
   "status": 0,
   "training_prediction": 0.00121937007189592

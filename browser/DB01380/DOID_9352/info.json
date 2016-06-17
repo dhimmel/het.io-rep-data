@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01380",
   "compound_name": "Cortisone acetate",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.09362808842652802,
   "metapath_contribution": {
     "CbGaD": 0.5867403911852619,
     "CbGbCtD": 0.353816878347114,
     "CbGpPWpGaD": 0.05217768944678879,
     "CrCbGaD": 0.0072650410208353845
   },
+  "n_trials": 0.0,
   "prediction": 0.0009520082677666231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

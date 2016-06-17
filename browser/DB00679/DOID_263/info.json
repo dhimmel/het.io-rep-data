@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00679",
   "compound_name": "Thioridazine",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.11703511053316001,
   "metapath_contribution": {
     "CbGbCtD": 0.6555355510864735,
     "CbGeAlD": 0.036948744913021705,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22081235998865129,
     "CrCbGaD": 0.0033505407362794996
   },
+  "n_trials": 0.0,
   "prediction": 0.000844361423378418,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

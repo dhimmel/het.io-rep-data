@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.640442132639792,
   "metapath_contribution": {
     "CbGaD": 0.8622468211621667,
     "CbGeAlD": 0.0301751563746659,
     "CbGpPWpGaD": 0.09101983982831288,
     "CrCbGaD": 0.01655818263485461
   },
+  "n_trials": 0.0,
   "prediction": 0.0017859027627860602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.13074535839703447,
     "CbGbCtD": 0.1264404081867282,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13013257316371768,
     "CrCrCtD": 0.4871233383695395
   },
+  "n_trials": 0.0,
   "prediction": 0.00383061137782982,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

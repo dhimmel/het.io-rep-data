@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00990",
   "compound_name": "Exemestane",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGbCtD": 0.14584608493115708,
     "CcSEcCtD": 0.0592954282363229,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.3037188455609458,
     "CrCtD": 0.4902217363499029
   },
+  "n_trials": 0.0,
   "prediction": 0.0096293801910341,
   "status": 0,
   "training_prediction": 0.0307345254823806

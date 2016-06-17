@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7789336801040309,
   "metapath_contribution": {
     "CbGaD": 0.3435698579868889,
     "CbGbCtD": 0.42444375991687716,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10673267154415064,
     "CrCbGaD": 0.0034957213045398315
   },
+  "n_trials": 0.0,
   "prediction": 0.00904046162203118,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

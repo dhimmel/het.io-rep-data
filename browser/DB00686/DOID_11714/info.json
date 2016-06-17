@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00686",
   "compound_name": "Pentosan Polysulfate",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.8628962650254701,
     "CbGeAlD": 0.04389103141726092,
     "CbGpPWpGaD": 0.08988893470403052,
     "CcSEcCtD": 0.003323768853238497
   },
+  "n_trials": 0.0,
   "prediction": 0.00628417982493991,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

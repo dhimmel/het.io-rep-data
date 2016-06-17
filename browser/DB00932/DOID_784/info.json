@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00932",
   "compound_name": "Tipranavir",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.910155361097168,
     "CbGeAlD": 0.002630115045052277,
     "CbGpPWpGaD": 0.08611239831111141,
     "CrCbGaD": 0.0011021255466684178
   },
+  "n_trials": 0.0,
   "prediction": 0.00333100035272797,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.48035369632303804,
     "CbGbCtD": 0.2582410491693298,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.0820233563492303,
     "CcSEcCtD": 0.101953776617095
   },
+  "n_trials": 0.0,
   "prediction": 0.00473022807830547,
   "status": 0,
   "training_prediction": 0.0136832439966914

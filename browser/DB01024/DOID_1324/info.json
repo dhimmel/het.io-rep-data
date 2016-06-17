@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7652795838751629,
   "metapath_contribution": {
     "CbGaD": 0.4297209815586497,
     "CbGbCtD": 0.24437324975029406,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.18556813075370676,
     "CrCbGaD": 0.004388764584495993
   },
+  "n_trials": 0.0,
   "prediction": 0.00301044010990281,
   "status": 0,
   "training_prediction": 0.0169939681015859

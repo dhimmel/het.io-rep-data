@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00136",
   "compound_name": "Calcitriol",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.1430893129672488,
     "CbGbCtD": 0.17059714889305494,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.18981921651313793,
     "CrCtD": 0.28251973435971794
   },
+  "n_trials": 0.0,
   "prediction": 0.0703803740568916,
   "status": 0,
   "training_prediction": 0.30238552841041805

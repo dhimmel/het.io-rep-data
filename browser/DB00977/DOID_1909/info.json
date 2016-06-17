@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00977",
   "compound_name": "Ethinyl Estradiol",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.0552665799739922,
   "metapath_contribution": {
     "CbGaD": 0.20784955039352163,
     "CbGbCtD": 0.5321876623565587,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1330879223379431,
     "CrCbGaD": 0.005641206699794817
   },
+  "n_trials": 0.0,
   "prediction": 0.000575315376882291,
   "status": 0,
   "training_prediction": 0.0017531739346784401

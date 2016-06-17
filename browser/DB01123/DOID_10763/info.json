@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01123",
   "compound_name": "Proflavine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7925877763329001,
   "metapath_contribution": {
     "CbGaD": 0.4848100034533118,
     "CbGbCtD": 0.32723491188832876,
     "CbGeAlD": 0.049096139057683987,
     "CbGpPWpGaD": 0.13885894560067535
   },
+  "n_trials": 0.0,
   "prediction": 0.00948629052728576,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

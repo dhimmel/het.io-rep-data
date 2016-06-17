@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01127",
   "compound_name": "Econazole",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.276332899869961,
   "metapath_contribution": {
     "CbGbCtD": 0.719442711253506,
     "CbGeAlD": 0.03442318190252713,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1039172616347759,
     "CrCbGaD": 0.005426707721946563
   },
+  "n_trials": 0.0,
   "prediction": 0.0011759001254232802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

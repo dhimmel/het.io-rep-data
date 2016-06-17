@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.316176470588235,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0481144343302991,
   "metapath_contribution": {
     "CbGbCtD": 0.4399658403173052,
     "CbGdCrCtD": 0.002995476196180757,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.31539366569897115,
     "CrCbGaD": 0.0014722061959959387
   },
+  "n_trials": 0.0,
   "prediction": 0.000960869571989439,
   "status": 0,
   "training_prediction": 0.042804887180004

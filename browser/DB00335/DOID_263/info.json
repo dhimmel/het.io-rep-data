@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00335",
   "compound_name": "Atenolol",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.4317295188556571,
   "metapath_contribution": {
     "CbGaD": 0.38031761190772234,
     "CbGbCtD": 0.40435531070172276,
     "CcSEcCtD": 0.21253005372718933,
     "CrCbGaD": 0.0027970236633654386
   },
+  "n_trials": 0.0,
   "prediction": 0.0016086149984671301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

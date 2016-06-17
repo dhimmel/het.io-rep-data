@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.303641092327698,
   "metapath_contribution": {
     "CbGaD": 0.2615679852061951,
     "CbGbCtD": 0.5217791221455643,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1138077487903851,
     "CrCbGaD": 0.007753603042123045
   },
+  "n_trials": 0.0,
   "prediction": 0.00129711218386804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01588",
   "compound_name": "Prazepam",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.879063719115735,
   "metapath_contribution": {
     "CbGaD": 0.5819785909598885,
     "CbGbCtD": 0.28730854673973655,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08594569132079602,
     "CrCbGaD": 0.0058839552412994905
   },
+  "n_trials": 0.0,
   "prediction": 0.00585726299031246,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

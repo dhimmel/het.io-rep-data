@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00170",
   "compound_name": "Menadione",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.8511053315994799,
   "metapath_contribution": {
     "CbGaD": 0.7003259425226944,
     "CbGeAlD": 0.0814589173904875,
     "CbGpPWpGaD": 0.21560246095490934,
     "CrCbGaD": 0.0026126791319087505
   },
+  "n_trials": 0.0,
   "prediction": 0.00240308092973169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

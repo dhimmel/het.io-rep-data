@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.724317295188557,
   "metapath_contribution": {
     "CbGaD": 0.7645517549872174,
     "CbGeAlD": 0.07765137123919387,
     "CbGpPWpGaD": 0.14988935279753682,
     "CrCbGaD": 0.007907520976051899
   },
+  "n_trials": 1.0,
   "prediction": 0.0018922334316134898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

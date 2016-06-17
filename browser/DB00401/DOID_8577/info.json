@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00401",
   "compound_name": "Nisoldipine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.28543563068920697,
   "metapath_contribution": {
     "CbGaD": 0.29693183946709883,
     "CbGbCtD": 0.49170116621516613,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.19997861321638008,
     "CrCbGaD": 0.006485396607652064
   },
+  "n_trials": 0.0,
   "prediction": 0.0015188339510719198,
   "status": 0,
   "training_prediction": 0.00519082006451209

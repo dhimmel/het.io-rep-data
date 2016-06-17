@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.1236799334873883,
     "CbGbCtD": 0.16373065959375624,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.20655313769597516,
     "CrCtD": 0.41965108147829316
   },
+  "n_trials": 0.0,
   "prediction": 0.0232925069474641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

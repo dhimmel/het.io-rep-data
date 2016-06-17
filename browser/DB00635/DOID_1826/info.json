@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.198959687906372,
   "metapath_contribution": {
     "CbGaD": 0.3915755473842655,
     "CbGbCtD": 0.3903181857687295,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1518935568393019,
     "CrCbGaD": 0.0030454814540537612
   },
+  "n_trials": 0.0,
   "prediction": 0.00173047061146775,
   "status": 0,
   "training_prediction": 0.0726016064874393

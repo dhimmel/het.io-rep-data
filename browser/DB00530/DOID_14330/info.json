@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.7483745123537059,
   "metapath_contribution": {
     "CbGaD": 0.7565283362159442,
     "CbGeAlD": 0.09019490961106263,
     "CbGpPWpGaD": 0.1497410757951704,
     "CrCbGaD": 0.0035356783778228394
   },
+  "n_trials": 0.0,
   "prediction": 0.00198178971472525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

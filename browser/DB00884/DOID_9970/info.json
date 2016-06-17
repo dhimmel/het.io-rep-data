@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00884",
   "compound_name": "Risedronate",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.258127438231469,
   "metapath_contribution": {
     "CbGaD": 0.44948061802464634,
     "CbGeAlD": 0.08996685118829899,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.27850726164860495,
     "CrCbGaD": 0.004390683393844816
   },
+  "n_trials": 0.0,
   "prediction": 0.00150665723358025,
   "status": 0,
   "training_prediction": 0.00642398469372234

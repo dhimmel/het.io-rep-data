@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.861508452535761,
   "metapath_contribution": {
     "CbGaD": 0.3020329707189983,
     "CbGbCtD": 0.4656682668794582,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.10992764741827202,
     "CrCbGaD": 0.0037144127440503962
   },
+  "n_trials": 2.0,
   "prediction": 0.00630546780480425,
   "status": 0,
   "training_prediction": 0.054615661778257

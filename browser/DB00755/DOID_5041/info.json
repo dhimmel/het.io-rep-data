@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.492847854356307,
   "metapath_contribution": {
     "CbGaD": 0.5479308809175454,
     "CbGbCtD": 0.1776728644109431,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09417260338344705,
     "CrCbGaD": 0.005227176312243282
   },
+  "n_trials": 0.0,
   "prediction": 0.0014376672009257302,
   "status": 0,
   "training_prediction": 0.00174505185781897

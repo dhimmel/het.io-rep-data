@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0474642392717815,
   "metapath_contribution": {
     "CbGaD": 0.5641163621582652,
     "CbGbCtD": 0.1466316065141903,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14866507973319004,
     "CrCbGaD": 0.005781904564604833
   },
+  "n_trials": 0.0,
   "prediction": 0.000777909472340279,
   "status": 0,
   "training_prediction": 0.0145822029655017

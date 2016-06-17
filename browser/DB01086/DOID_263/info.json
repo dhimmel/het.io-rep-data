@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01086",
   "compound_name": "Benzocaine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8010403120936279,
   "metapath_contribution": {
     "CbGaD": 0.12697708034786742,
     "CbGbCtD": 0.2902571008908112,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0028734297537154115,
     "CrCrCtD": 0.44107726457857044
   },
+  "n_trials": 0.0,
   "prediction": 0.0031435444124277897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

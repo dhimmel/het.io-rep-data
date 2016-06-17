@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.09613486078086794,
     "CbGbCtD": 0.08648242129169294,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.16986082699117522,
     "CrCtD": 0.29726260949186156
   },
+  "n_trials": 0.0,
   "prediction": 0.049723801523016004,
   "status": 0,
   "training_prediction": 0.178570434162135

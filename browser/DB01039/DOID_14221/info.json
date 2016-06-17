@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01039",
   "compound_name": "Fenofibrate",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.37229200192408934,
     "CbGeAlD": 0.017537962101373306,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.003260731870718436,
     "CtDrD": 0.5254376026590107
   },
+  "n_trials": 13.0,
   "prediction": 0.00933289021078361,
   "status": 0,
   "training_prediction": 0.00422580708331948

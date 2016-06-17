@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.47074122236671,
   "metapath_contribution": {
     "CbGaD": 0.5390415594360194,
     "CbGbCtD": 0.168085372841447,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2800556920625685,
     "CrCbGaD": 0.00036609345091448956
   },
+  "n_trials": 0.0,
   "prediction": 0.0018300205445091699,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.639791937581274,
   "metapath_contribution": {
     "CbGaD": 0.7989358249608246,
     "CbGeAlD": 0.15617861975798478,
     "CbGpPWpGaD": 0.04466091093764828,
     "CrCbGaD": 0.00022464434354228782
   },
+  "n_trials": 0.0,
   "prediction": 0.00168979041445052,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

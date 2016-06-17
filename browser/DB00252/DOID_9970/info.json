@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9577373211963589,
   "metapath_contribution": {
     "CbGaD": 0.023491951401561056,
     "CbGbCtD": 0.16202250713824268,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.15562357039942828,
     "CrCtD": 0.2958452880635019
   },
+  "n_trials": 0.0,
   "prediction": 0.0172622269862264,
   "status": 0,
   "training_prediction": 0.0431773540679917

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00806",
   "compound_name": "Pentoxifylline",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.44148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.09079922469864851,
     "CbGeAlD": 0.26583805175552233,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.48928869129501273,
     "CrCbGaD": 0.0034707506356038463
   },
+  "n_trials": 0.0,
   "prediction": 0.001443408748555,
   "status": 0,
   "training_prediction": 0.00439073007485769

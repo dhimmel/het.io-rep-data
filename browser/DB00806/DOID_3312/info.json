@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00806",
   "compound_name": "Pentoxifylline",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.8154621899248303,
     "CbGeAlD": 0.047788044802649136,
     "CbGpPWpGaD": 0.130109201311049,
     "CrCbGaD": 0.006640563961471489
   },
+  "n_trials": 0.0,
   "prediction": 0.0026498297931103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

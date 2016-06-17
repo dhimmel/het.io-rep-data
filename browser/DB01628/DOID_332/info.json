@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.70221066319896,
   "metapath_contribution": {
     "CbGaD": 0.4300010168514554,
     "CbGbCtD": 0.24816877381890962,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19422749879180964,
     "CrCbGaD": 0.0004519520496894721
   },
+  "n_trials": 0.0,
   "prediction": 0.00174645366836422,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

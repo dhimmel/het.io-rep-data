@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.45513654096228895,
   "metapath_contribution": {
     "CbGaD": 0.7230746729579596,
     "CbGpPWpGaD": 0.11161958096984918,
     "CcSEcCtD": 0.1508738005488934,
     "CrCbGaD": 0.01443194552329785
   },
+  "n_trials": 0.0,
   "prediction": 0.00138140828736322,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

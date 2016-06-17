@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00605",
   "compound_name": "Sulindac",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.2219513379318641,
     "CbGbCtD": 0.1368168000153957,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.3274141153386987,
     "CpDpCtD": 0.1685714312541532
   },
+  "n_trials": 0.0,
   "prediction": 0.0355917558878232,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

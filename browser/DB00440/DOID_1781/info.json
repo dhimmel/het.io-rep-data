@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00440",
   "compound_name": "Trimethoprim",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.397269180754226,
   "metapath_contribution": {
     "CbGbCtD": 0.49108155156814354,
     "CbGdCrCtD": 0.016122791632351294,
     "CbGpPWpGaD": 0.10696651624636008,
     "CcSEcCtD": 0.38582914055314504
   },
+  "n_trials": 0.0,
   "prediction": 0.0013185974945438802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

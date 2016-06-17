@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01142",
   "compound_name": "Doxepin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.7787739522549525,
     "CbGeAlD": 0.08166107136861685,
     "CbGpPWpGaD": 0.13320969853858164,
     "CrCbGaD": 0.006355277837849009
   },
+  "n_trials": 0.0,
   "prediction": 0.00258366868749685,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

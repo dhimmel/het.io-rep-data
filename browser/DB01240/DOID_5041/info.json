@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.0331599479843953,
   "metapath_contribution": {
     "CbGbCtD": 0.06352116546383535,
     "CbGeAlD": 0.05940246584679109,
     "CbGpPWpGaD": 0.5860444141070906,
     "CcSEcCtD": 0.2910319545822828
   },
+  "n_trials": 0.0,
   "prediction": 0.0005832970305886519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

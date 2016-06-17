@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGbCtD": 0.2639861433592197,
     "CbGeAlD": 0.021638543218570786,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17837400581842036,
     "CrCrCtD": 0.5317289097387755
   },
+  "n_trials": 0.0,
   "prediction": 0.00447150723099378,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

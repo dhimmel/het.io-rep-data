@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01124",
   "compound_name": "Tolbutamide",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.737971391417425,
   "metapath_contribution": {
     "CbGbCtD": 0.4273574499939786,
     "CbGeAlD": 0.29152609378599187,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.019614750943606155,
     "CrCbGaD": 0.017964000313905056
   },
+  "n_trials": 0.0,
   "prediction": 0.0020086175250978396,
   "status": 0,
   "training_prediction": 0.0009058103472445859

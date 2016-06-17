@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1024",
   "disease_name": "leprosy",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.1409370795358739,
     "CbGbCtD": 0.2190332495176685,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2270589753954801,
     "CrCtD": 0.38695532229920376
   },
+  "n_trials": 0.0,
   "prediction": 0.12485248617443401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

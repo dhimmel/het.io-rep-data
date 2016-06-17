@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06290",
   "compound_name": "SIMEPREVIR",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGaD": 0.4487900658077823,
     "CbGbCtD": 0.48713500101177915,
     "CbGeAlD": 0.03957681137203616,
     "CcSEcCtD": 0.024498121808402502
   },
+  "n_trials": 0.0,
   "prediction": 0.00260865755142732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

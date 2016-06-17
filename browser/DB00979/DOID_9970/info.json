@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00979",
   "compound_name": "Cyclopentolate",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.6781534460338101,
   "metapath_contribution": {
     "CbGaD": 0.39506600869522995,
     "CbGeAlD": 0.025022674021725512,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004990577844050502,
     "CrCrCtD": 0.36828446988753233
   },
+  "n_trials": 0.0,
   "prediction": 0.00362531941255825,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

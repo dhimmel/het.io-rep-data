@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01014",
   "compound_name": "Balsalazide",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.67295188556567,
   "metapath_contribution": {
     "CbGaD": 0.9928214751136019,
     "CrCbGaD": 0.007178524886398103
   },
+  "n_trials": 0.0,
   "prediction": 0.00144305357006346,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

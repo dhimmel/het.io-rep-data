@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06262",
   "compound_name": "Droxidopa",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.94148244473342,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.0191895663267539,
     "CrCbGaD": 0.001866252401165968,
     "CrCrCtD": 0.3640737013879107,
     "CrCtD": 0.6148704798841695
   },
+  "n_trials": 0.0,
   "prediction": 0.005544743963296029,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

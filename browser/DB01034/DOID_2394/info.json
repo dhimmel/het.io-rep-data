@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01034",
   "compound_name": "Cerulenin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9596879063719119,
   "metapath_contribution": {
     "CbGaD": 0.932381591840815,
     "CbGdCrCtD": 0.0045979722405033235,
     "CbGeAlD": 0.041687299273026786,
     "CbGpPWpGaD": 0.021333136645654765
   },
+  "n_trials": 0.0,
   "prediction": 0.0057498846286862795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

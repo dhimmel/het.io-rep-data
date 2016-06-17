@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00201",
   "compound_name": "Caffeine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
     "CbGaD": 0.1955467641321075,
     "CbGbCtD": 0.4896769818021218,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.16380325078321825,
     "CcSEcCtD": 0.10705841574745682
   },
+  "n_trials": 0.0,
   "prediction": 0.00216323493405461,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

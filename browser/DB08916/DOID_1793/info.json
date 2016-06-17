@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08916",
   "compound_name": "Afatinib",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.10659608987247349,
     "CbGbCtD": 0.21959801997872536,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.001198361691743592,
     "CrCrCtD": 0.2170666414326963
   },
+  "n_trials": 0.0,
   "prediction": 0.0364800469963109,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

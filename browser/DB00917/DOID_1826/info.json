@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.544863459037711,
   "metapath_contribution": {
     "CbGaD": 0.361856926794291,
     "CbGbCtD": 0.32204062291704905,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13555531537576623,
     "CrCbGaD": 0.004464896055859791
   },
+  "n_trials": 0.0,
   "prediction": 0.0037044585439437896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

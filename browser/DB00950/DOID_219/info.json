@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00950",
   "compound_name": "Fexofenadine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.435630689206762,
   "metapath_contribution": {
     "CbGaD": 0.48284111743109814,
     "CbGbCtD": 0.4664936111462214,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04336279417997007,
     "CrCbGaD": 0.002047985541587938
   },
+  "n_trials": 0.0,
   "prediction": 0.0014181678156605,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.938231469440832,
   "metapath_contribution": {
     "CbGaD": 0.43222702539033325,
     "CbGbCtD": 0.47705991660636593,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.025492968955861672,
     "CrCbGaD": 0.003667028614865818
   },
+  "n_trials": 0.0,
   "prediction": 0.0032153127838802802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

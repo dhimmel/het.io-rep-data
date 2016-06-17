@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00663",
   "compound_name": "Flumethasone Pivalate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.966840052015605,
   "metapath_contribution": {
     "CbGbCtD": 0.2540714265903958,
     "CrCbGaD": 0.0004402127008446141,
     "CrCrCtD": 0.3173405304261928,
     "CrCtD": 0.42814783028256675
   },
+  "n_trials": 0.0,
   "prediction": 0.011280074133422,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

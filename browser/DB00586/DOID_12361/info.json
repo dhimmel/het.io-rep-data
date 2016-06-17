@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.5221066319895971,
   "metapath_contribution": {
     "CbGbCtD": 0.7582813402215898,
     "CbGeAlD": 0.07807146163006519,
     "CbGpPWpGaD": 0.03820532329768026,
     "CcSEcCtD": 0.12544187485066474
   },
+  "n_trials": 1.0,
   "prediction": 0.00153577999661619,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

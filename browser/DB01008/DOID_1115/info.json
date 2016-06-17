@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01008",
   "compound_name": "Busulfan",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGbCtD": 0.14316269519692137,
     "CbGdCrCtD": 0.001671020611620237,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08698713391981999,
     "CiPCiCtD": 0.7469472488687445
   },
+  "n_trials": 6.0,
   "prediction": 0.0122690124789034,
   "status": 0,
   "training_prediction": 0.0244873586824124

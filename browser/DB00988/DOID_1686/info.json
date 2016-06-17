@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
-    "CbGbCtD": 0.4963687812082701,
-    "CbGeAlD": 0.0026207931035272516,
-    "CbGpPWpGaD": 0.06331087503678731,
-    "CcSEcCtD": 0.06819722384588776,
-    "CrCbGaD": 0.003080540612043326,
-    "CrCrCtD": 0.36642178619348414
+    "CbGbCtD": 0.4963687812082702,
+    "CbGeAlD": 0.002620793103527252,
+    "CbGpPWpGaD": 0.06331087503678733,
+    "CcSEcCtD": 0.06819722384588778,
+    "CrCbGaD": 0.0030805406120433263,
+    "CrCrCtD": 0.3664217861934842
   },
+  "n_trials": 0.0,
   "prediction": 0.00259024050580582,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

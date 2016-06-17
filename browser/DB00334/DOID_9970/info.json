@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00334",
   "compound_name": "Olanzapine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
     "CbGaD": 0.25296913725214976,
     "CbGbCtD": 0.30433916813145495,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.3203497468745211,
     "CrCbGaD": 0.001924216749116227
   },
+  "n_trials": 0.0,
   "prediction": 0.00805266602677254,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

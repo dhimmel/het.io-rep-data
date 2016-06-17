@@ -1,18 +1,20 @@
 {
   "compound_id": "DB01035",
   "compound_name": "Procainamide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.893368010403121,
   "metapath_contribution": {
-    "CbGaD": 0.5116466327124337,
-    "CbGdCrCtD": 0.0011743039976358314,
-    "CbGeAlD": 0.006014172766398641,
-    "CbGpPWpGaD": 0.045194399525686164,
-    "CcSEcCtD": 0.035528913993458436,
-    "CrCbGaD": 0.0038667814529477137,
-    "CrCrCtD": 0.3965747955514394
+    "CbGaD": 0.5116466327124338,
+    "CbGdCrCtD": 0.0011743039976358316,
+    "CbGeAlD": 0.006014172766398642,
+    "CbGpPWpGaD": 0.04519439952568618,
+    "CcSEcCtD": 0.03552891399345844,
+    "CrCbGaD": 0.0038667814529477146,
+    "CrCrCtD": 0.39657479555143943
   },
+  "n_trials": 0.0,
   "prediction": 0.00345093033458385,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

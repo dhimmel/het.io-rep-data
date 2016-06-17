@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00838",
   "compound_name": "Clocortolone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0500650195058518,
   "metapath_contribution": {
     "CbGaD": 0.6483729464728174,
     "CbGbCtD": 0.1821520807694767,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08931694201845436,
     "CrCbGaD": 0.008171773891126033
   },
+  "n_trials": 0.0,
   "prediction": 0.000992736489602575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

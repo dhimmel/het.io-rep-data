@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00748",
   "compound_name": "Carbinoxamine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGaD": 0.46360020272188646,
     "CbGbCtD": 0.4330269395683133,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06518859993450604,
     "CrCbGaD": 0.005575115276981963
   },
+  "n_trials": 0.0,
   "prediction": 0.00219132458128097,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

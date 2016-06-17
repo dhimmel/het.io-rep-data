@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.837451235370611,
   "metapath_contribution": {
     "CbGaD": 0.3730240834727251,
     "CbGbCtD": 0.21636383204218498,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2647703890443514,
     "CrCbGaD": 0.0038037437514761747
   },
+  "n_trials": 4.0,
   "prediction": 0.0035847094775178705,
   "status": 0,
   "training_prediction": 0.0103922138891977

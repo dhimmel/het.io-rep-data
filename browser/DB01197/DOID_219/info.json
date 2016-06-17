@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
     "CbGaD": 0.3730419679916366,
     "CbGbCtD": 0.208373364860134,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13832671799876617,
     "CrCbGaD": 0.0005358207945148492
   },
+  "n_trials": 0.0,
   "prediction": 0.00360729235362369,
   "status": 0,
   "training_prediction": 0.0116045064757342

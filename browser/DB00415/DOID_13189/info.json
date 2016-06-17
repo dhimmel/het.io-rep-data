@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00415",
   "compound_name": "Ampicillin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.47074122236671,
   "metapath_contribution": {
     "CbGbCtD": 0.7765904959562172,
     "CbGpPWpGaD": 0.11041362452462125,
     "CcSEcCtD": 0.10817827609767192,
     "CrCbGaD": 0.004817603421489616
   },
+  "n_trials": 0.0,
   "prediction": 0.00210635692201334,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

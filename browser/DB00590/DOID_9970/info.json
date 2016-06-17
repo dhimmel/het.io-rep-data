@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8894668400520159,
   "metapath_contribution": {
     "CbGbCtD": 0.33858994524007635,
     "CbGeAlD": 0.007475955199722372,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0019313607245338628,
     "CtDrD": 0.48731321771433134
   },
+  "n_trials": 0.0,
   "prediction": 0.0077906510857635594,
   "status": 0,
   "training_prediction": 0.0197725510227859

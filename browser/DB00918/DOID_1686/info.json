@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.539011703511053,
   "metapath_contribution": {
     "CbGbCtD": 0.6230582374406742,
     "CbGpPWpGaD": 0.0410580484559746,
     "CcSEcCtD": 0.33502857302661126,
     "CrCbGaD": 0.0008551410767399108
   },
+  "n_trials": 0.0,
   "prediction": 0.00200345890695533,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

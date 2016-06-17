@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.669700910273082,
   "metapath_contribution": {
     "CbGaD": 0.2342270175751036,
     "CbGbCtD": 0.45326393670552634,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15964513824522245,
     "CrCbGaD": 0.0033600273530751132
   },
+  "n_trials": 0.0,
   "prediction": 0.00327522036874746,
   "status": 0,
   "training_prediction": 0.0174152644797264

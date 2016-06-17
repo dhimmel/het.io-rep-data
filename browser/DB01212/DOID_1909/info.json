@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01212",
   "compound_name": "Ceftriaxone",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5299089726918079,
   "metapath_contribution": {
     "CbGaD": 0.7746801482939548,
     "CbGbCtD": 0.0380685659956029,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10265937818994023,
     "CrCbGaD": 0.0065047045496066476
   },
+  "n_trials": 0.0,
   "prediction": 0.0015071905308974198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

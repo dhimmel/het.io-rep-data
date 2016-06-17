@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01240",
   "compound_name": "Epoprostenol",
+  "compound_percentile": 0.257352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.0513654096228869,
   "metapath_contribution": {
     "CbGbCtD": 0.12676141284484846,
     "CbGeAlD": 0.08916474312387265,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.47955139608495756,
     "CrCbGaD": 0.008599020512872705
   },
+  "n_trials": 0.0,
   "prediction": 0.00068367392385161,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.401820546163849,
   "metapath_contribution": {
     "CbGbCtD": 0.2740815621624341,
     "CbGdCrCtD": 0.017598777983344527,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.5436863437773761,
     "CrCbGaD": 0.02686907053649851
   },
+  "n_trials": 0.0,
   "prediction": 0.0015266543249306901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

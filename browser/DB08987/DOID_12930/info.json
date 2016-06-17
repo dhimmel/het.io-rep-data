@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08987",
   "compound_name": "Etidocaine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGaD": 0.8431603329153535,
     "CbGeAlD": 0.1157343242610991,
     "CbGpPWpGaD": 0.03548513845241057,
     "CrCbGaD": 0.005620204371136835
   },
+  "n_trials": 0.0,
   "prediction": 0.0050212956741224795,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

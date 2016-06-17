@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06228",
   "compound_name": "Rivaroxaban",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.8699609882964889,
   "metapath_contribution": {
     "CbGaD": 0.5844763756975463,
     "CbGbCtD": 0.27454630165435945,
     "CbGeAlD": 0.008541564220551552,
     "CcSEcCtD": 0.1324357584275427
   },
+  "n_trials": 0.0,
   "prediction": 0.0028580542517851197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

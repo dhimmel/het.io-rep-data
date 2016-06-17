@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00133",
   "compound_name": "L-Serine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.849154746423927,
   "metapath_contribution": {
     "CbGaD": 0.7995175530240196,
     "CbGeAlD": 0.07608122198142184,
     "CbGpPWpGaD": 0.11756028079831678,
     "CrCbGaD": 0.006840944196241723
   },
+  "n_trials": 0.0,
   "prediction": 0.0027775192066180803,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

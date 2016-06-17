@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00928",
   "compound_name": "Azacitidine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.5071521456436929,
   "metapath_contribution": {
     "CbGdCrCtD": 0.0033617066714458277,
     "CbGeAlD": 0.03085519629345664,
@@ -11,7 +13,7 @@
     "CiPCiCtD": 0.8562204665918073,
     "CrCbGaD": 0.003166266202441826
   },
+  "n_trials": 0.0,
   "prediction": 0.00192414715599977,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

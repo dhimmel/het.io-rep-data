@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00936",
   "compound_name": "Salicylic acid",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.20372101753148913,
     "CbGbCtD": 0.23502616773657775,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.4038875406190228,
     "CrCrCtD": 0.09354360084003364
   },
+  "n_trials": 0.0,
   "prediction": 0.0505911057224185,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

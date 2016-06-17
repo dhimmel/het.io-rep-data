@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01222",
   "compound_name": "Budesonide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGbCtD": 0.08611027577695075,
     "CbGpPWpGaD": 0.0017266823838745847,
@@ -13,6 +15,7 @@
     "CrCtD": 0.20459501238995134,
     "CtDrD": 0.22841215950321517
   },
+  "n_trials": 41.0,
   "prediction": 0.0429041954393374,
   "status": 0,
   "training_prediction": 0.141592273755798

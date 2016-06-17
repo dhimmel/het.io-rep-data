@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.587126137841352,
   "metapath_contribution": {
     "CbGaD": 0.03925428476666725,
     "CbGbCtD": 0.4328555522183948,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15700296204738784,
     "CpDpCtD": 0.26741986071918644
   },
+  "n_trials": 0.0,
   "prediction": 0.00267658691534395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

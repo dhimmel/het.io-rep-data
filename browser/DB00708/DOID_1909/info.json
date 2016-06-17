@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.34558823529411803,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.447984395318596,
   "metapath_contribution": {
     "CbGbCtD": 0.4861560763811851,
     "CbGpPWpGaD": 0.37072032351452955,
     "CcSEcCtD": 0.13845482523315472,
     "CrCbGaD": 0.004668774871130581
   },
+  "n_trials": 1.0,
   "prediction": 0.00132690555673099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

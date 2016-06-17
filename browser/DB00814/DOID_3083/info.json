@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.733420026007802,
   "metapath_contribution": {
     "CbGbCtD": 0.32346506767358224,
     "CbGeAlD": 0.010807248362126364,
@@ -11,7 +13,7 @@
     "CpDpCtD": 0.45688272304391575,
     "CrCbGaD": 0.0001037269224062234
   },
+  "n_trials": 0.0,
   "prediction": 0.00327836576049268,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

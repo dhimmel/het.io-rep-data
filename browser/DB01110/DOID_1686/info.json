@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01110",
   "compound_name": "Miconazole",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGaD": 0.41703586327411163,
     "CbGbCtD": 0.3745620794938101,
     "CbGpPWpGaD": 0.07867957667855209,
     "CcSEcCtD": 0.12972248055352617
   },
+  "n_trials": 0.0,
   "prediction": 0.0027768529857526802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

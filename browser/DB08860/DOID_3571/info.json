@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGaD": 0.2133183134987318,
     "CbGbCtD": 0.4706960664492481,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0250679197909285,
     "CrCbGaD": 0.004564003219601288
   },
+  "n_trials": 0.0,
   "prediction": 0.00181491330498399,
   "status": 0,
   "training_prediction": 0.0017903660223987602

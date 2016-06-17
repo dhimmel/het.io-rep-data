@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.0591677503250975,
   "metapath_contribution": {
     "CbGeAlD": 0.0028985917185418747,
     "CbGpPWpGaD": 0.19876011305350247,
     "CcSEcCtD": 0.7735798299750983,
     "CrCbGaD": 0.02476146525285735
   },
+  "n_trials": 0.0,
   "prediction": 0.000967209469367855,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

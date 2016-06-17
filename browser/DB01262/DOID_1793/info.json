@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.985045513654096,
   "metapath_contribution": {
     "CbGbCtD": 0.08199038687072681,
     "CbGdCrCtD": 0.0009055773152493688,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.16658189521165603,
     "CrCtD": 0.28569130547557
   },
+  "n_trials": 1.0,
   "prediction": 0.0175674418793778,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

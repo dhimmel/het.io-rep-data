@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.38235294117647106,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.16970091027308198,
   "metapath_contribution": {
     "CbGbCtD": 0.608299096806342,
     "CbGpPWpGaD": 0.0941376330233543,
     "CcSEcCtD": 0.2970464224974383,
     "CrCbGaD": 0.0005168476728655267
   },
+  "n_trials": 0.0,
   "prediction": 0.0010308219072568,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.31664499349804903,
   "metapath_contribution": {
-    "CbGaD": 0.5403718023241663,
+    "CbGaD": 0.5403718023241662,
     "CbGeAlD": 0.17649095188422903,
     "CbGpPWpGaD": 0.2803750599650257,
     "CrCbGaD": 0.0027621858265790365
   },
+  "n_trials": 0.0,
   "prediction": 0.0012047554936875599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

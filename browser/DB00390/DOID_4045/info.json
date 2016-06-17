@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.264629388816645,
   "metapath_contribution": {
     "CbGbCtD": 0.8570654316421505,
     "CbGdCrCtD": 0.006991347059004231,
     "CbGeAlD": 0.11883003573614008,
     "CcSEcCtD": 0.01711318556270514
   },
+  "n_trials": 0.0,
   "prediction": 0.0010505409305034599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGbCtD": 0.6591257935579934,
     "CbGeAlD": 0.08665814237621881,
     "CbGpPWpGaD": 0.07283492949355932,
     "CcSEcCtD": 0.1813811345722285
   },
+  "n_trials": 0.0,
   "prediction": 0.00324262079364704,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

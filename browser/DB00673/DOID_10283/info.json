@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00673",
   "compound_name": "Aprepitant",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
     "CbGaD": 0.1977446296197947,
     "CbGbCtD": 0.2430986177775647,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09720873994086915,
     "CpDpCtD": 0.4006719253516744
   },
+  "n_trials": 0.0,
   "prediction": 0.00929646485518823,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

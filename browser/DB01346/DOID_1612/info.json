@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01346",
   "compound_name": "Quinidine barbiturate",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.499349804941482,
   "metapath_contribution": {
     "CbGaD": 0.3715593990821091,
     "CbGbCtD": 0.024349003799550618,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.4503399199590016,
     "CrCbGaD": 0.01286569741548742
   },
+  "n_trials": 0.0,
   "prediction": 0.0023564691973120603,
   "status": 0,
   "training_prediction": 0.0129425156199703

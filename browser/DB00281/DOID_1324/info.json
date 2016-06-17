@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.347121679747871,
     "CbGbCtD": 0.45121322110356354,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.09704855006009247,
     "CcSEcCtD": 0.09941376632959942
   },
+  "n_trials": 1.0,
   "prediction": 0.00316940318372031,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

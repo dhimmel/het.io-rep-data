@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00860",
   "compound_name": "Prednisolone",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.00650195058517555,
   "metapath_contribution": {
     "CbGaD": 0.9243642119342542,
     "CbGeAlD": 0.062175218163141324,
     "CrCbGaD": 0.013460569902604407
   },
+  "n_trials": 0.0,
   "prediction": 0.000558899731541978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

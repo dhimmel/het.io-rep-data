@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7451235370611179,
   "metapath_contribution": {
     "CbGaD": 0.37496006721854386,
     "CbGbCtD": 0.3390058549711457,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.1586524228499142,
     "CrCbGaD": 0.0056403386005359855
   },
+  "n_trials": 0.0,
   "prediction": 0.00431911303155721,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

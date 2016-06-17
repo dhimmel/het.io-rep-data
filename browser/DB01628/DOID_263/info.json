@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.12876259892630876,
     "CbGbCtD": 0.20905884229887967,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.004241791016452716,
     "CrCrCtD": 0.4370808247625915
   },
+  "n_trials": 0.0,
   "prediction": 0.00404671354255994,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06212",
   "compound_name": "Tolvaptan",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.3492947573813965,
     "CbGbCtD": 0.22146270005978685,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0027260099109414184,
     "CrCrCtD": 0.23549486577762807
   },
+  "n_trials": 0.0,
   "prediction": 0.0220976640002741,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

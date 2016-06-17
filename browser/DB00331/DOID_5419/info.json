@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00331",
   "compound_name": "Metformin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.6458411303386814,
     "CbGeAlD": 0.16316595854183527,
     "CbGpPWpGaD": 0.1909929111194834
   },
+  "n_trials": 9.0,
   "prediction": 0.00449078953564107,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

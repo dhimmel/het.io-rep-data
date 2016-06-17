@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00520",
   "compound_name": "Caspofungin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGaD": 0.1701123371637098,
     "CbGbCtD": 0.6131169982505047,
     "CbGpPWpGaD": 0.04448556963767835,
     "CcSEcCtD": 0.17228509494810712
   },
+  "n_trials": 0.0,
   "prediction": 0.00579836320195551,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

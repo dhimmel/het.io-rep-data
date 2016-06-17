@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00433",
   "compound_name": "Prochlorperazine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
     "CbGaD": 0.8272780341887805,
     "CbGeAlD": 0.01681003778815119,
     "CbGpPWpGaD": 0.14505084127892376,
     "CrCbGaD": 0.010861086744144521
   },
+  "n_trials": 0.0,
   "prediction": 0.00151673559708203,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

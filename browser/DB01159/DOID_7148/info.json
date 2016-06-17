@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01159",
   "compound_name": "Halothane",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.767230169050715,
   "metapath_contribution": {
     "CbGaD": 0.1760845088349077,
     "CbGbCtD": 0.5467140980227699,
     "CbGeAlD": 0.04852448877840517,
     "CbGpPWpGaD": 0.22867690436391733
   },
+  "n_trials": 0.0,
   "prediction": 0.00271465495989685,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

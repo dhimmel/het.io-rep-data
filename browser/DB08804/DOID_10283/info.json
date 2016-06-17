@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08804",
   "compound_name": "Nandrolone decanoate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.966189856957087,
   "metapath_contribution": {
     "CbGaD": 0.15025499320874372,
     "CbGbCtD": 0.1823199837168375,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.225337784480818,
     "CrCtD": 0.3506382992112591
   },
+  "n_trials": 0.0,
   "prediction": 0.023455410188779,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

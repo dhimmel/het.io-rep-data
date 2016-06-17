@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00263",
   "compound_name": "Sulfisoxazole",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.10162074394202177,
     "CiPCiCtD": 0.3854226969169028,
     "CrCrCtD": 0.21171802939967485,
     "CrCtD": 0.30123852974140064
   },
+  "n_trials": 0.0,
   "prediction": 0.0649981098778022,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.484010311550285,
     "CbGbCtD": 0.34979665232930734,
@@ -13,6 +15,5 @@
     "CrCbGaD": 0.0017044009436906753
   },
   "prediction": 0.00667261156145953,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

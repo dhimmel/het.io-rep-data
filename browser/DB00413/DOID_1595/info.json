@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00413",
   "compound_name": "Pramipexole",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.7930696110729912,
     "CbGeAlD": 0.06998441641727296,
     "CbGpPWpGaD": 0.1369459725097359
   },
+  "n_trials": 4.0,
   "prediction": 0.00536413715630696,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB08906",
   "compound_name": "Fluticasone furoate",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.0767230169050715,
   "metapath_contribution": {
     "CbGaD": 0.9122943483943458,
     "CbGeAlD": 0.03577387027643201,
     "CbGpPWpGaD": 0.0451877636875588,
     "CrCbGaD": 0.006744017641663473
   },
+  "n_trials": 0.0,
   "prediction": 0.000716179843125797,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

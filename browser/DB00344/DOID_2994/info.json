@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00344",
   "compound_name": "Protriptyline",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.34330299089726896,
   "metapath_contribution": {
     "CbGbCtD": 0.5692105928644542,
     "CbGeAlD": 0.035340469004749,
     "CcSEcCtD": 0.3953802083989006,
     "CrCbGaD": 6.87297318961925e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.00133069057329508,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

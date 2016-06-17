@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00456",
   "compound_name": "Cefalotin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.6892067620286091,
   "metapath_contribution": {
     "CbGaD": 0.6377939398658263,
     "CbGbCtD": 0.2862261579071161,
     "CbGpPWpGaD": 0.07014945884378108,
     "CrCbGaD": 0.005830443383276405
   },
+  "n_trials": 0.0,
   "prediction": 0.00192174641389832,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

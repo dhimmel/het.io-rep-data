@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00159",
   "compound_name": "Icosapent",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.737971391417425,
   "metapath_contribution": {
     "CbGaD": 0.5155162574144161,
     "CbGbCtD": 0.21099606926178568,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08393387657747052,
     "CrCbGaD": 0.004742422877269775
   },
+  "n_trials": 0.0,
   "prediction": 0.00397103357999941,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

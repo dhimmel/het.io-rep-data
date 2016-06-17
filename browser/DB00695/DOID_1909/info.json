@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00695",
   "compound_name": "Furosemide",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8465539661898571,
   "metapath_contribution": {
     "CbGaD": 0.13471974847788482,
     "CbGbCtD": 0.6375137892068602,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07280704234125641,
     "CcSEcCtD": 0.10697338354181862
   },
+  "n_trials": 0.0,
   "prediction": 0.00250675794380625,
   "status": 0,
   "training_prediction": 0.0103327609814319

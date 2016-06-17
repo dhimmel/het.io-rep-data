@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00751",
   "compound_name": "Epinastine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.19043921211816314,
     "CbGbCtD": 0.1846368478905811,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.19630942268103793,
     "CrCtD": 0.36089639442834925
   },
+  "n_trials": 0.0,
   "prediction": 0.0320607309330182,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

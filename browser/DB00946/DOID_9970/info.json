@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00946",
   "compound_name": "Phenprocoumon",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.905071521456437,
   "metapath_contribution": {
     "CbGaD": 0.06870910175021847,
     "CbGbCtD": 0.19325572125348614,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2661633623511606,
     "CrCtD": 0.4342887000892141
   },
+  "n_trials": 0.0,
   "prediction": 0.00886021435991624,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

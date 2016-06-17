@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.424577373211964,
   "metapath_contribution": {
     "CbGbCtD": 0.7276619933216658,
     "CbGeAlD": 0.000190238641324832,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2648662486283495,
     "CrCbGaD": 0.0025866411311583964
   },
+  "n_trials": 0.0,
   "prediction": 0.00159107246564767,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

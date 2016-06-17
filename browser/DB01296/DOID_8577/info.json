@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.9466840052015602,
   "metapath_contribution": {
     "CbGaD": 0.3216871018103288,
     "CbGbCtD": 0.33890648245611116,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.2528438543371473,
     "CrCbGaD": 8.891466868747102e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0109138288800042,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

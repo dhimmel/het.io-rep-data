@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
-    "CbGaD": 0.23477680681484847,
-    "CbGbCtD": 0.41658712331810105,
-    "CbGpPWpGaD": 0.0031141375145139773,
-    "CcSEcCtD": 0.0742835877489386,
-    "CrCbGaD": 0.0027432302757600543,
-    "CrCrCtD": 0.26849511432783796
+    "CbGaD": 0.23477680681484842,
+    "CbGbCtD": 0.41658712331810094,
+    "CbGpPWpGaD": 0.0031141375145139765,
+    "CcSEcCtD": 0.07428358774893858,
+    "CrCbGaD": 0.0027432302757600534,
+    "CrCrCtD": 0.2684951143278379
   },
+  "n_trials": 0.0,
   "prediction": 0.00387797280532169,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

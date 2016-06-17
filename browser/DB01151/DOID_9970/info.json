@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01151",
   "compound_name": "Desipramine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGaD": 0.1938599752033254,
     "CbGbCtD": 0.2803630875802746,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0016429194115755948,
     "CrCrCtD": 0.13745075778027144
   },
+  "n_trials": 0.0,
   "prediction": 0.0160780011786545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

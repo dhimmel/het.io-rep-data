@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00742",
   "compound_name": "Mannitol",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.88556566970091,
   "metapath_contribution": {
     "CbGbCtD": 0.2241260088897601,
     "CcSEcCtD": 0.0962741367461405,
     "CiPCiCtD": 0.6795998543640995
   },
+  "n_trials": 1.0,
   "prediction": 0.0173580882191014,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

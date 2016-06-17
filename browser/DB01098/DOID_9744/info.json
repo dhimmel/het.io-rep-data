@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.375,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.35435630689206804,
   "metapath_contribution": {
     "CbGaD": 0.6478439085899986,
     "CbGeAlD": 0.09749656625932458,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09521727902179943,
     "CrCbGaD": 0.0006054406531585193
   },
+  "n_trials": 0.0,
   "prediction": 0.00119253437084298,
   "status": 0,
   "training_prediction": 0.0008968778378117081

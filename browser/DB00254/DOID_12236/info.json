@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00254",
   "compound_name": "Doxycycline",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CbGaD": 0.8040974462307419,
     "CbGbCtD": 0.045513915134091615,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.13628928877086013,
     "CrCbGaD": 0.002339327482185974
   },
+  "n_trials": 0.0,
   "prediction": 0.0038712136123802295,
   "status": 0,
   "training_prediction": 0.0038189606173485704

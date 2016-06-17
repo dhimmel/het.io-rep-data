@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01400",
   "compound_name": "Neostigmine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.16250548258915126,
     "CbGbCtD": 0.20247362910726627,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2177495319412109,
     "CrCtD": 0.3722109942905283
   },
+  "n_trials": 0.0,
   "prediction": 0.0902295648580143,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

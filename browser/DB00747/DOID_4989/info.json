@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00747",
   "compound_name": "Scopolamine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGbCtD": 0.2520783174859888,
     "CbGpPWpGaD": 0.012698288998970731,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2591108465773105,
     "CrCtD": 0.4215038303344259
   },
+  "n_trials": 0.0,
   "prediction": 0.0468115476802875,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

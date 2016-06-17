@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00183",
   "compound_name": "Pentagastrin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.6046814044213261,
   "metapath_contribution": {
-    "CbGeAlD": 0.2767852366731843,
-    "CbGpPWpGaD": 0.6741705839725369,
-    "CrCbGaD": 0.049044179354278676
+    "CbGeAlD": 0.27678523667318433,
+    "CbGpPWpGaD": 0.674170583972537,
+    "CrCbGaD": 0.04904417935427868
   },
+  "n_trials": 0.0,
   "prediction": 0.0016730680109390901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

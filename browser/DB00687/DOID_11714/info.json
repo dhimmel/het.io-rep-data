@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00687",
   "compound_name": "Fludrocortisone",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:11714",
   "disease_name": "gestational diabetes",
+  "disease_percentile": 0.40962288686605997,
   "metapath_contribution": {
     "CbGaD": 0.9857901628091017,
     "CbGeAlD": 0.0018732597304743845,
     "CbGpPWpGaD": 0.004266161792826872,
     "CrCbGaD": 0.008070415667597097
   },
+  "n_trials": 0.0,
   "prediction": 0.0014554363868838,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

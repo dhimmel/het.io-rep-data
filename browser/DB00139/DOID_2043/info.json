@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00139",
   "compound_name": "Succinic acid",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.524707412223667,
   "metapath_contribution": {
     "CbGbCtD": 0.4493036031172186,
     "CbGdCrCtD": 0.018104368956960642,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.25239594925827497,
     "CrCbGaD": 0.020352857685031013
   },
+  "n_trials": 0.0,
   "prediction": 0.0015999702581043099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00531",
   "compound_name": "Cyclophosphamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2998",
   "disease_name": "testicular cancer",
+  "disease_percentile": 0.9843953185955792,
   "metapath_contribution": {
     "CbGbCtD": 0.2078602688184034,
     "CcSEcCtD": 0.10709341530484863,
     "CrCtD": 0.6850463158767479
   },
+  "n_trials": 5.0,
   "prediction": 0.0170332937556504,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

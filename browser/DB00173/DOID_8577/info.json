@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00173",
   "compound_name": "Adenine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
     "CbGeAlD": 0.015074652647719901,
     "CbGpPWpGaD": 0.012146116743206935,
     "CrCrCtD": 0.3267524111264337,
     "CrCtD": 0.6460268194826395
   },
+  "n_trials": 0.0,
   "prediction": 0.0133899244629425,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

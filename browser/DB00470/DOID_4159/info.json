@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.8559196463787639,
     "CbGeAlD": 0.0033240936092898657,
     "CbGpPWpGaD": 0.019958951670959756,
     "CcSEcCtD": 0.12079730834098645
   },
+  "n_trials": 0.0,
   "prediction": 0.00331636109924369,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

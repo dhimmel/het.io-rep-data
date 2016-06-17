@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.331599479843953,
   "metapath_contribution": {
     "CbGaD": 0.7305232776779516,
     "CbGeAlD": 0.03924578724098784,
     "CbGpPWpGaD": 0.2196805765999892,
     "CrCbGaD": 0.010550358481071472
   },
+  "n_trials": 0.0,
   "prediction": 0.00112107566353186,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

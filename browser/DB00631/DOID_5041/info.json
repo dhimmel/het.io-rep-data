@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.892717815344603,
   "metapath_contribution": {
     "CbGbCtD": 0.08828306209889222,
     "CbGeAlD": 0.017735871940072666,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.8042248419871182,
     "CrCbGaD": 0.00017703975102930934
   },
+  "n_trials": 0.0,
   "prediction": 0.00275928249021218,
   "status": 0,
   "training_prediction": 0.0033482914892413603

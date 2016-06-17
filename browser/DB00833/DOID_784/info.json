@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00833",
   "compound_name": "Cefaclor",
+  "compound_percentile": 0.0661764705882353,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0689206762028609,
   "metapath_contribution": {
     "CbGeAlD": 0.29422468815368746,
-    "CbGpPWpGaD": 0.674972427697834,
-    "CrCbGaD": 0.03080288414847834
+    "CbGpPWpGaD": 0.6749724276978342,
+    "CrCbGaD": 0.030802884148478343
   },
+  "n_trials": 0.0,
   "prediction": 0.000778346064566796,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

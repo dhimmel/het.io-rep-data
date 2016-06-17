@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.8328998699609879,
   "metapath_contribution": {
     "CbGaD": 0.1413289076229168,
     "CbGbCtD": 0.5790460865936194,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04889801311222435,
     "CcSEcCtD": 0.17539433328185647
   },
+  "n_trials": 0.0,
   "prediction": 0.00444416156038058,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

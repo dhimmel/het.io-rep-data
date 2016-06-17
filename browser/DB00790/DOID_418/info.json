@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00790",
   "compound_name": "Perindopril",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGaD": 0.2457477572485175,
     "CbGbCtD": 0.2917580169448197,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0024574770345256467,
     "CrCrCtD": 0.3530669573387047
   },
+  "n_trials": 0.0,
   "prediction": 0.0137551442932508,
   "status": 0,
   "training_prediction": 0.0526656793487653

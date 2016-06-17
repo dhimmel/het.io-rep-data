@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 1.0,
   "metapath_contribution": {
     "CbGaD": 0.09636556452960955,
     "CbGbCtD": 0.1304495552375029,
@@ -16,6 +18,7 @@
     "CrCtD": 0.1859728036390641,
     "CtDrD": 0.14138986162832717
   },
+  "n_trials": 0.0,
   "prediction": 0.322024606077319,
   "status": 0,
   "training_prediction": 0.404123553256784

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.756827048114434,
   "metapath_contribution": {
     "CbGaD": 0.4703061783972041,
     "CbGbCtD": 0.43756314201708507,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08047945400529659,
     "CrCbGaD": 0.003659365341569526
   },
+  "n_trials": 0.0,
   "prediction": 0.00262129904998804,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

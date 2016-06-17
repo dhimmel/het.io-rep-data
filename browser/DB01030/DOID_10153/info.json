@@ -1,13 +1,15 @@
 {
   "compound_id": "DB01030",
   "compound_name": "Topotecan",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10153",
   "disease_name": "ileum cancer",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGeAlD": 0.003980105251875717,
     "CtDrD": 0.9960198947481242
   },
+  "n_trials": 0.0,
   "prediction": 0.00248567218999571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

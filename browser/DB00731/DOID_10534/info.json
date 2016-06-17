@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.539661898569571,
   "metapath_contribution": {
     "CbGaD": 0.38407895496725863,
     "CbGbCtD": 0.4311218749380338,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.04526976832127256,
     "CrCbGaD": 0.004071772088775666
   },
+  "n_trials": 0.0,
   "prediction": 0.00165194059912296,
   "status": 0,
   "training_prediction": 0.0036397076472420298

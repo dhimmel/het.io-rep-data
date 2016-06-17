@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00207",
   "compound_name": "Azithromycin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.56371911573472,
   "metapath_contribution": {
     "CbGaD": 0.8073618219456848,
     "CbGpPWpGaD": 0.019562681699904442,
     "CcSEcCtD": 0.16514301634063103,
     "CrCbGaD": 0.007932480013779705
   },
+  "n_trials": 0.0,
   "prediction": 0.00167134824712538,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

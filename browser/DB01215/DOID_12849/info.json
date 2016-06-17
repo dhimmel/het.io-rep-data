@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01215",
   "compound_name": "Estazolam",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.9206762028608578,
   "metapath_contribution": {
     "CbGaD": 0.7651977454489193,
     "CbGeAlD": 0.060643877354741894,
     "CbGpPWpGaD": 0.16636242939174903,
     "CrCbGaD": 0.007795947804589797
   },
+  "n_trials": 0.0,
   "prediction": 0.00327872916393391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.26202860858257504,
   "metapath_contribution": {
     "CbGaD": 0.2981639816269001,
     "CbGbCtD": 0.4297456888540576,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1501304500688268,
     "CrCbGaD": 0.0035246950884888183
   },
+  "n_trials": 0.0,
   "prediction": 0.00157392956140445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

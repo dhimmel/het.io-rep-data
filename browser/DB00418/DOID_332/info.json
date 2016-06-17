@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00418",
   "compound_name": "Secobarbital",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.6766757532307202,
     "CbGbCtD": 0.10700184404846201,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0803339731495903,
     "CrCbGaD": 0.007048450106867273
   },
+  "n_trials": 0.0,
   "prediction": 0.00351325326226777,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

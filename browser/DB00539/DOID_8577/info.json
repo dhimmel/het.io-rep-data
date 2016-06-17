@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.553966189856957,
   "metapath_contribution": {
     "CbGaD": 0.34037269392254016,
     "CbGbCtD": 0.5092710216081201,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.14339998280904756,
     "CrCbGaD": 0.004107230095147124
   },
+  "n_trials": 0.0,
   "prediction": 0.00226903787254469,
   "status": 0,
   "training_prediction": 0.00774068245996625

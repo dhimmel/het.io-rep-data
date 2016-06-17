@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8667100130039009,
   "metapath_contribution": {
     "CbGaD": 0.19139304177600205,
     "CbGbCtD": 0.37135952933533434,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0028987402221996744,
     "CrCrCtD": 0.2685359446947957
   },
+  "n_trials": 0.0,
   "prediction": 0.00649927647514966,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

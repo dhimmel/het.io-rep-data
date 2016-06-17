@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.0572171651495449,
   "metapath_contribution": {
     "CbGbCtD": 0.5424300496476928,
     "CbGeAlD": 0.2680781137856696,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.10354573460437327,
     "CrCbGaD": 0.004896783725778007
   },
+  "n_trials": 0.0,
   "prediction": 0.0008114150395369849,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01436",
   "compound_name": "Alfacalcidol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.7288686605981791,
   "metapath_contribution": {
     "CbGaD": 0.9130572684648686,
     "CbGeAlD": 0.014438451987513916,
     "CbGpPWpGaD": 0.06624854204516137,
     "CrCbGaD": 0.00625573750245606
   },
+  "n_trials": 0.0,
   "prediction": 0.00323542101857972,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

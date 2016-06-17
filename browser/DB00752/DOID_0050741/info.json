@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00752",
   "compound_name": "Tranylcypromine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.5100983374419342,
     "CbGbCtD": 0.28369531535365355,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09092422986056663,
     "CrCbGaD": 0.004601805698448584
   },
+  "n_trials": 0.0,
   "prediction": 0.0068615860226395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

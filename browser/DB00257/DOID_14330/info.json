@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.5266579973992199,
   "metapath_contribution": {
-    "CbGaD": 0.8190164920173835,
-    "CbGeAlD": 0.00942319357685119,
-    "CbGpPWpGaD": 0.16779915436054943,
-    "CrCbGaD": 0.003761160045215761
+    "CbGaD": 0.8190164920173837,
+    "CbGeAlD": 0.009423193576851192,
+    "CbGpPWpGaD": 0.16779915436054946,
+    "CrCbGaD": 0.003761160045215762
   },
+  "n_trials": 0.0,
   "prediction": 0.0014498364915682199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.455882352941176,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.289336801040312,
   "metapath_contribution": {
     "CbGaD": 0.13192520846061492,
     "CbGbCtD": 0.23163213465490526,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.263403765014021,
     "CrCbGaD": 0.001637437097058935
   },
+  "n_trials": 0.0,
   "prediction": 0.00105398271236123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

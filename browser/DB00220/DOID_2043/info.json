@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2043",
   "disease_name": "hepatitis B",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGbCtD": 0.12383772449468594,
     "CbGeAlD": 0.011141436997777459,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10636746812500895,
     "CtDrD": 0.7468741472847356
   },
+  "n_trials": 0.0,
   "prediction": 0.007553117301127809,
   "status": 0,
   "training_prediction": 0.00915604466618951

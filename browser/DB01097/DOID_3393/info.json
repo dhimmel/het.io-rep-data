@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01097",
   "compound_name": "Leflunomide",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.804941482444733,
   "metapath_contribution": {
     "CbGbCtD": 0.6017536495744639,
     "CbGdCrCtD": 0.004303507756845826,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2383754752597118,
     "CrCbGaD": 0.003889574927610786
   },
+  "n_trials": 0.0,
   "prediction": 0.00488127139370958,
   "status": 0,
   "training_prediction": 0.0567981343417611

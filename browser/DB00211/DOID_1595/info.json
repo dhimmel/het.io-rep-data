@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00211",
   "compound_name": "Midodrine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
     "CbGaD": 0.9405579639941555,
     "CbGeAlD": 0.011442038835904726,
     "CbGpPWpGaD": 0.04342252799373303,
     "CrCbGaD": 0.00457746917620676
   },
+  "n_trials": 0.0,
   "prediction": 0.00277002342568732,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

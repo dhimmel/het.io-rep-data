@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01577",
   "compound_name": "Methamphetamine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGaD": 0.3931471546085901,
     "CbGbCtD": 0.40702302880792235,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.047445185239580474,
     "CrCbGaD": 0.004881672861461366
   },
+  "n_trials": 0.0,
   "prediction": 0.0025632142787546,
   "status": 0,
   "training_prediction": 0.004678700895288239

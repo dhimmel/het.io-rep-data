@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01337",
   "compound_name": "Pancuronium",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.7210663198959691,
   "metapath_contribution": {
     "CbGbCtD": 0.7593773383040391,
     "CbGeAlD": 0.12208697210397094,
     "CbGpPWpGaD": 0.08560598366663238,
     "CcSEcCtD": 0.03292970592535762
   },
+  "n_trials": 0.0,
   "prediction": 0.00213522809190613,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.762028608582575,
   "metapath_contribution": {
     "CbGaD": 0.41096547465409783,
     "CbGbCtD": 0.5012427239272265,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0017963194256173803,
     "CrCbGaD": 0.00484921031011005
   },
+  "n_trials": 0.0,
   "prediction": 0.00288503174647671,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

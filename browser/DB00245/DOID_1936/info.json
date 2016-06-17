@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00245",
   "compound_name": "Benzatropine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.560468140442133,
   "metapath_contribution": {
     "CbGaD": 0.6239713975294159,
     "CbGbCtD": 0.2971226037765957,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.0509326044854172,
     "CrCbGaD": 0.005253058031712813
   },
+  "n_trials": 0.0,
   "prediction": 0.00203455372219386,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

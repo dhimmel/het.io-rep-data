@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
     "CbGaD": 0.49608850924076614,
     "CbGbCtD": 0.20245603620385522,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.14913523381618665,
     "CcSEcCtD": 0.08358851412166228
   },
+  "n_trials": 0.0,
   "prediction": 0.0032377293555507897,
   "status": 0,
   "training_prediction": 0.00590661396915691

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01020",
   "compound_name": "Isosorbide Mononitrate",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.44083224967490203,
   "metapath_contribution": {
     "CbGbCtD": 0.35038792240548744,
     "CbGeAlD": 0.0754469042803611,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4652774759700057,
     "CrCbGaD": 0.006813956117985129
   },
+  "n_trials": 0.0,
   "prediction": 0.00164539891411382,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

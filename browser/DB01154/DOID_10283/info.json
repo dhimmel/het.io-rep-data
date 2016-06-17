@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01154",
   "compound_name": "Thiamylal",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.24577373211963602,
   "metapath_contribution": {
     "CbGbCtD": 0.4641153126142,
     "CbGeAlD": 0.10595712812957932,
     "CbGpPWpGaD": 0.4218018111869517,
     "CrCbGaD": 0.00812574806926884
   },
+  "n_trials": 0.0,
   "prediction": 0.00133625962559705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

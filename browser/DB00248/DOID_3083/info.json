@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.3775866517068996,
     "CbGbCtD": 0.43486595787208887,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10256489486409763,
     "CrCbGaD": 0.0013430203727921577
   },
+  "n_trials": 0.0,
   "prediction": 0.005553015936967711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

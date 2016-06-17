@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00134",
   "compound_name": "L-Methionine",
+  "compound_percentile": 0.169117647058824,
   "disease_id": "DOID:4606",
   "disease_name": "bile duct cancer",
+  "disease_percentile": 0.576723016905072,
   "metapath_contribution": {
-    "CbGeAlD": 0.8680195733668244,
-    "CbGpPWpGaD": 0.0946100539925427,
-    "CrCbGaD": 0.037370372640632664
+    "CbGeAlD": 0.8680195733668247,
+    "CbGpPWpGaD": 0.09461005399254273,
+    "CrCbGaD": 0.03737037264063267
   },
+  "n_trials": 0.0,
   "prediction": 0.00129799797371032,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

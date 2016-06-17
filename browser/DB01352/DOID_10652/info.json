@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01352",
   "compound_name": "Aprobarbital",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.4798174301121617,
     "CbGbCtD": 0.3928242596296836,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07368828332186672,
     "CrCbGaD": 0.00471808407775305
   },
+  "n_trials": 0.0,
   "prediction": 0.00655161313999633,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08865",
   "compound_name": "Crizotinib",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGaD": 0.367201561829073,
     "CbGeAlD": 0.058597771402280695,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.02818064683537862,
     "CtDrD": 0.4411109756267207
   },
+  "n_trials": 0.0,
   "prediction": 0.00704146170817608,
   "status": 0,
   "training_prediction": 0.00853673920426517

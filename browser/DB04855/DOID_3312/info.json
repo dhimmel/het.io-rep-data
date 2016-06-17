@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04855",
   "compound_name": "Dronedarone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.9479843953185959,
   "metapath_contribution": {
     "CbGaD": 0.7493336938502236,
     "CbGeAlD": 0.07377580794560193,
     "CbGpPWpGaD": 0.17317762821853888,
     "CrCbGaD": 0.003712869985635493
   },
+  "n_trials": 0.0,
   "prediction": 0.00299931661297616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01347",
   "compound_name": "Saprisartan",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.38217370984811116,
     "CbGbCtD": 0.5431667807974505,
     "CbGeAlD": 0.012689432323442287,
     "CbGpPWpGaD": 0.06197007703099608
   },
+  "n_trials": 0.0,
   "prediction": 0.0109657315717212,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

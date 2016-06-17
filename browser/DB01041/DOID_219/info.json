@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.563068920676203,
   "metapath_contribution": {
     "CbGaD": 0.3985082595026154,
     "CbGbCtD": 0.12838056256773417,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2398992922872713,
     "CrCbGaD": 0.00611668129056489
   },
+  "n_trials": 0.0,
   "prediction": 0.00170575737975141,
   "status": 0,
   "training_prediction": 0.00405271968368337

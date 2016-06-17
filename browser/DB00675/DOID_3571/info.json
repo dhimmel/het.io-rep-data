@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00675",
   "compound_name": "Tamoxifen",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.1987984663975098,
     "CbGbCtD": 0.28936178003051843,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.0012157667789360704,
     "CtDrD": 0.36161605587041684
   },
+  "n_trials": 2.0,
   "prediction": 0.00831346942207424,
   "status": 0,
   "training_prediction": 0.0136051289603003

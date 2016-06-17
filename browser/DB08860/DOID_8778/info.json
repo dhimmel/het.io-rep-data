@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.53446033810143,
   "metapath_contribution": {
     "CbGaD": 0.3786597542563251,
     "CbGbCtD": 0.47948594618927226,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.04401955426658893,
     "CrCbGaD": 0.00034860231733093447
   },
+  "n_trials": 0.0,
   "prediction": 0.00164862813409045,
   "status": 0,
   "training_prediction": 0.00268881922090893

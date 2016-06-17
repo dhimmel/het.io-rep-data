@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00317",
   "compound_name": "Gefitinib",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGaD": 0.4870925889848859,
     "CbGbCtD": 0.30752076802805456,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.06279465731073516,
     "CrCbGaD": 0.0049997178900225885
   },
+  "n_trials": 18.0,
   "prediction": 0.00224460191659591,
   "status": 0,
   "training_prediction": 0.00272404496601554

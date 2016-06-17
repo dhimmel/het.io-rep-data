@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.43498049414824397,
   "metapath_contribution": {
     "CbGaD": 0.23733377892871035,
     "CbGbCtD": 0.4084265505191543,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.003212160490659022,
     "CrCrCtD": 0.08672996151660481
   },
+  "n_trials": 2.0,
   "prediction": 0.00326973650261283,
   "status": 0,
   "training_prediction": 0.0611454488543983

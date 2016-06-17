@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.5039011703511049,
   "metapath_contribution": {
     "CbGaD": 0.5152576399334843,
     "CbGbCtD": 0.27518661117438864,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08213115832311732,
     "CrCbGaD": 0.0005689569289966518
   },
+  "n_trials": 0.0,
   "prediction": 0.00155997369745056,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

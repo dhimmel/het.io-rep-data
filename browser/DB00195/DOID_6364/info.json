@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00195",
   "compound_name": "Betaxolol",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.962288686605982,
   "metapath_contribution": {
     "CbGbCtD": 0.21449370833740714,
     "CbGpPWpGaD": 0.018690445711694245,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.2677184600564939,
     "CrCtD": 0.4131096228041132
   },
+  "n_trials": 0.0,
   "prediction": 0.0199742797251488,
   "status": 0,
   "training_prediction": 0.05854177229670501

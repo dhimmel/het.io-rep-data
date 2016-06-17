@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00915",
   "compound_name": "Amantadine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.9239271781534458,
   "metapath_contribution": {
-    "CbGaD": 0.22824781197654645,
-    "CbGbCtD": 0.25192536170307134,
-    "CbGeAlD": 0.03784820096018104,
-    "CbGpPWpGaD": 0.07043985048067913,
-    "CcSEcCtD": 0.0967345557394366,
-    "CpDpCtD": 0.3148042191400854
+    "CbGaD": 0.22824781197654648,
+    "CbGbCtD": 0.2519253617030714,
+    "CbGeAlD": 0.037848200960181044,
+    "CbGpPWpGaD": 0.07043985048067915,
+    "CcSEcCtD": 0.09673455573943661,
+    "CpDpCtD": 0.31480421914008544
   },
+  "n_trials": 0.0,
   "prediction": 0.024191525085642998,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

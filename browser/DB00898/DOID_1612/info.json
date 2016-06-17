@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00898",
   "compound_name": "Ethanol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.8368010403120941,
   "metapath_contribution": {
     "CbGaD": 0.2884634703736586,
     "CbGbCtD": 0.5209379520788358,
     "CbGeAlD": 0.03536356542914341,
     "CbGpPWpGaD": 0.1552350121183622
   },
+  "n_trials": 0.0,
   "prediction": 0.00527756197584234,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

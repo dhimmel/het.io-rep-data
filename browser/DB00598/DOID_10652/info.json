@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00598",
   "compound_name": "Labetalol",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.523407022106632,
   "metapath_contribution": {
     "CbGaD": 0.4146869503798409,
     "CbGbCtD": 0.3372890840211779,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20397267861994117,
     "CrCbGaD": 0.005970232762046742
   },
+  "n_trials": 0.0,
   "prediction": 0.0019242673523828199,
   "status": 0,
   "training_prediction": 0.00233544765591734

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01283",
   "compound_name": "Lumiracoxib",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.812093628088427,
   "metapath_contribution": {
     "CbGaD": 0.23065590292222862,
     "CbGbCtD": 0.34155574554962853,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0027190367785936763,
     "CrCrCtD": 0.359858176510071
   },
+  "n_trials": 0.0,
   "prediction": 0.00496902900521946,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01339",
   "compound_name": "Vecuronium",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.403120936280884,
   "metapath_contribution": {
     "CbGbCtD": 0.7033943472574437,
     "CcSEcCtD": 0.28695064046586444,
     "CrCbGaD": 0.009655012276691945
   },
+  "n_trials": 0.0,
   "prediction": 0.00163543404530985,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

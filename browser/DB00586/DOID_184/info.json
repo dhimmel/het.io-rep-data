@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.657997399219766,
   "metapath_contribution": {
     "CbGaD": 0.3541505098576257,
     "CbGbCtD": 0.42817576653385575,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12901021594267004,
     "CrCbGaD": 0.003678412256695573
   },
+  "n_trials": 0.0,
   "prediction": 0.00191530626243363,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

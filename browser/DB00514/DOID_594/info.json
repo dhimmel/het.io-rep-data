@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00514",
   "compound_name": "Dextromethorphan",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.667100130039012,
   "metapath_contribution": {
     "CbGaD": 0.8192261860564983,
     "CbGeAlD": 0.08628588039154755,
     "CbGpPWpGaD": 0.09093153675208847,
     "CrCbGaD": 0.003556396799865812
   },
+  "n_trials": 0.0,
   "prediction": 0.00171020523203001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

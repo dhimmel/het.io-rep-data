@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.949284785435631,
   "metapath_contribution": {
     "CbGaD": 0.5692001687772485,
     "CbGbCtD": 0.3390509889166074,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.06210034440982044,
     "CrCbGaD": 0.0028543019449809924
   },
+  "n_trials": 0.0,
   "prediction": 0.00485698433421004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

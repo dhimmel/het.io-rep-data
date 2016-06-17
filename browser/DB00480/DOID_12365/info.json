@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00480",
   "compound_name": "Lenalidomide",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.6710013003901171,
   "metapath_contribution": {
     "CbGbCtD": 0.36333281800579276,
     "CbGeAlD": 0.18475823172978922,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.43018774654473363,
     "CrCbGaD": 0.012011658372270136
   },
+  "n_trials": 0.0,
   "prediction": 0.00262472999668316,
   "status": 0,
   "training_prediction": 0.00671529648717903

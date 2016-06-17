@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01393",
   "compound_name": "Bezafibrate",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.4941482444733421,
   "metapath_contribution": {
     "CbGbCtD": 0.7239563137419572,
     "CbGeAlD": 0.053126746476260964,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11672428388439558,
     "CrCbGaD": 0.0005422341526185914
   },
+  "n_trials": 0.0,
   "prediction": 0.00128281306216858,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

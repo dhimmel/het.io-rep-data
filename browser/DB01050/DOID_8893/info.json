@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.2714529490264676,
     "CbGbCtD": 0.2994934970750012,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.0938148805849803,
     "CpDpCtD": 0.2540737794724225
   },
+  "n_trials": 0.0,
   "prediction": 0.00573677123630002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

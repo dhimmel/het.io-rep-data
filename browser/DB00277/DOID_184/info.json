@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00277",
   "compound_name": "Theophylline",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.661248374512354,
   "metapath_contribution": {
     "CbGaD": 0.5212331520208254,
     "CbGbCtD": 0.17854353162272593,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12856831927266663,
     "CrCbGaD": 0.003404425182547034
   },
+  "n_trials": 0.0,
   "prediction": 0.0019272939210873302,
   "status": 0,
   "training_prediction": 0.00274962077450923

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.551365409622887,
   "metapath_contribution": {
     "CbGaD": 0.6804676065820736,
     "CbGeAlD": 0.1050816061081551,
     "CbGpPWpGaD": 0.20952021039729982,
     "CrCbGaD": 0.004930576912471475
   },
+  "n_trials": 0.0,
   "prediction": 0.00166866471269746,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

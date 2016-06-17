@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.13235294117647098,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.168400520156047,
   "metapath_contribution": {
     "CbGaD": 0.6787469995756894,
     "CbGeAlD": 0.10990742688121127,
     "CbGpPWpGaD": 0.19712860296515194,
     "CrCbGaD": 0.014216970577947423
   },
+  "n_trials": 0.0,
   "prediction": 0.0009078256778206519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

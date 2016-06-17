@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01244",
   "compound_name": "Bepridil",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.612483745123537,
   "metapath_contribution": {
     "CbGaD": 0.5698327575900827,
     "CbGeAlD": 0.16956910319412935,
     "CbGpPWpGaD": 0.2542238419052941,
     "CrCbGaD": 0.00637429731049372
   },
+  "n_trials": 0.0,
   "prediction": 0.0016188230440256802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

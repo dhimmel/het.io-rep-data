@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00708",
   "compound_name": "Sufentanil",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.522756827048114,
   "metapath_contribution": {
     "CbGbCtD": 0.6755075480413415,
     "CbGeAlD": 0.015742563706570387,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.216281251453617,
     "CrCbGaD": 0.0014177524346386588
   },
+  "n_trials": 0.0,
   "prediction": 0.00250880839747071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

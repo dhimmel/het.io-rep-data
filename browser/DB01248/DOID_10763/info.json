@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.413524057217165,
   "metapath_contribution": {
     "CbGaD": 0.3089701713032792,
     "CbGbCtD": 0.38750810330686997,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1520685715935905,
     "CrCbGaD": 0.0022953282521983687
   },
+  "n_trials": 0.0,
   "prediction": 0.00314385150567146,
   "status": 0,
   "training_prediction": 0.171379256751018

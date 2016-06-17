@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00368",
   "compound_name": "Norepinephrine",
+  "compound_percentile": 0.242647058823529,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.132639791937581,
   "metapath_contribution": {
     "CbGbCtD": 0.4059113859642036,
     "CbGeAlD": 0.012284337584502975,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.029129324635334294,
     "CrCbGaD": 0.08010511705028582
   },
+  "n_trials": 3.0,
   "prediction": 0.000856908437136812,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGbCtD": 0.29436627891525885,
     "CbGpPWpGaD": 0.03212010325179459,
     "CcSEcCtD": 0.18505390727518875,
     "CpDpCtD": 0.4884597105577578
   },
+  "n_trials": 0.0,
   "prediction": 0.00315632274045718,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

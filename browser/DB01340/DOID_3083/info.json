@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.615734720416125,
   "metapath_contribution": {
     "CbGaD": 0.7666131474427879,
     "CbGeAlD": 0.01782943852523745,
     "CcSEcCtD": 0.20749192439602332,
     "CrCbGaD": 0.00806548963595139
   },
+  "n_trials": 0.0,
   "prediction": 0.002550761922832,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

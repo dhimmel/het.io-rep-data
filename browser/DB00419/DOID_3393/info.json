@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00419",
   "compound_name": "Miglustat",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGaD": 0.7200564340956149,
     "CbGeAlD": 0.03705994761348737,
     "CbGpPWpGaD": 0.08346967695419216,
     "CcSEcCtD": 0.15941394133670556
   },
+  "n_trials": 0.0,
   "prediction": 0.007200496014547709,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

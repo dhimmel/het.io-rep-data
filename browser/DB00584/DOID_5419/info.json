@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00584",
   "compound_name": "Enalapril",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.32444733420026,
   "metapath_contribution": {
     "CbGaD": 0.9014609776191913,
     "CbGeAlD": 0.06517818167638095,
     "CbGpPWpGaD": 0.021969760508071486,
     "CrCbGaD": 0.011391080196356249
   },
+  "n_trials": 0.0,
   "prediction": 0.0012162945324224802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

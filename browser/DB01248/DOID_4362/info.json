@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01248",
   "compound_name": "Docetaxel",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.2664093655758116,
     "CbGbCtD": 0.11900644466870036,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.05940519058293252,
     "CtDrD": 0.4574725634870562
   },
+  "n_trials": 11.0,
   "prediction": 0.00544039406375876,
   "status": 0,
   "training_prediction": 0.0136960343857131

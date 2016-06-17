@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.228218465539662,
   "metapath_contribution": {
     "CbGaD": 0.7579347818623753,
     "CbGeAlD": 0.03071972871008822,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08332276428526328,
     "CrCbGaD": 0.006537442646733595
   },
+  "n_trials": 0.0,
   "prediction": 0.0009465077901438289,
   "status": 0,
   "training_prediction": 0.00114899950166847

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00367",
   "compound_name": "Levonorgestrel",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.0773732119635891,
   "metapath_contribution": {
     "CbGbCtD": 0.4263458732570992,
     "CbGeAlD": 0.05068490729506732,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.4001893718382904,
     "CrCbGaD": 0.005460681100817616
   },
+  "n_trials": 1.0,
   "prediction": 0.00107567802401126,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

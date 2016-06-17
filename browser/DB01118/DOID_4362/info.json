@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.220588235294118,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.161898569570871,
   "metapath_contribution": {
     "CbGbCtD": 0.3837896678334755,
     "CbGeAlD": 0.38766200175430837,
     "CbGpPWpGaD": 0.042609156739875635,
     "CcSEcCtD": 0.18593917367234045
   },
+  "n_trials": 0.0,
   "prediction": 0.0009658077857346571,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

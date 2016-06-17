@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.270481144343303,
   "metapath_contribution": {
     "CbGaD": 0.10642886955993498,
     "CbGbCtD": 0.6255238300866625,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13989798578677728,
     "CrCbGaD": 0.004262092940089005
   },
+  "n_trials": 1.0,
   "prediction": 0.00129217476925641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

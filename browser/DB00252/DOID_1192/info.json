@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00252",
   "compound_name": "Phenytoin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.47594278283485,
   "metapath_contribution": {
     "CbGaD": 0.20986422661388854,
     "CbGbCtD": 0.5443372002784405,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.02898194173106215,
     "CcSEcCtD": 0.21343949051772204
   },
+  "n_trials": 0.0,
   "prediction": 0.00166819970018385,
   "status": 0,
   "training_prediction": 0.00456455985043664

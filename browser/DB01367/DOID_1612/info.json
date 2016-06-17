@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01367",
   "compound_name": "Rasagiline",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.929778933680104,
   "metapath_contribution": {
     "CbGaD": 0.34839176570300634,
     "CbGbCtD": 0.3840433368827682,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.09577329397006591,
     "CcSEcCtD": 0.15218339041970783
   },
+  "n_trials": 0.0,
   "prediction": 0.00954541615190789,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

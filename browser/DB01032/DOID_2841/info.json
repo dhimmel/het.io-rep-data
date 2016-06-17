@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.5936280884265279,
   "metapath_contribution": {
     "CbGaD": 0.10675892989956635,
     "CbGbCtD": 0.6418763433611481,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13253921588024345,
     "CrCbGaD": 0.0011509776911630238
   },
+  "n_trials": 0.0,
   "prediction": 0.00292442937089064,
   "status": 0,
   "training_prediction": 0.0196468931947103

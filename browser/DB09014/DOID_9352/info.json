@@ -1,8 +1,10 @@
 {
   "compound_id": "DB09014",
   "compound_name": "Captodiame",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.64629388816645,
   "metapath_contribution": {
     "CbGaD": 0.4309771277700932,
     "CbGbCtD": 0.24860745861159408,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0017048734366597795,
     "CrCrCtD": 0.299173510198629
   },
+  "n_trials": 0.0,
   "prediction": 0.0033415762416249897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

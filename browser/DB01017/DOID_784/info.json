@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01017",
   "compound_name": "Minocycline",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.7159650592839408,
     "CbGeAlD": 0.10674099593259853,
     "CbGpPWpGaD": 0.17481548503737732,
     "CrCbGaD": 0.002478459746083304
   },
+  "n_trials": 0.0,
   "prediction": 0.00312446536671658,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00345",
   "compound_name": "Aminohippurate",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.8348504551365409,
   "metapath_contribution": {
     "CbGaD": 0.10342238017166001,
     "CbGbCtD": 0.40016893957399896,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.003896353907698099,
     "CrCrCtD": 0.38797685151625294
   },
+  "n_trials": 0.0,
   "prediction": 0.00354562110673569,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

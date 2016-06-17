@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.5942782834850461,
   "metapath_contribution": {
     "CbGbCtD": 0.6773013795361266,
     "CbGeAlD": 0.14993633991886254,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.09519553618225626,
     "CrCbGaD": 0.011226963099076627
   },
+  "n_trials": 0.0,
   "prediction": 0.0016309374763742801,
   "status": 0,
   "training_prediction": 0.000735338177873933

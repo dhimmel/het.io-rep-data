@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00459",
   "compound_name": "Acitretin",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.161248374512354,
   "metapath_contribution": {
     "CbGaD": 0.5786981118811311,
     "CbGbCtD": 0.06954774693683355,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1771677051145815,
     "CrCbGaD": 0.005299696933091234
   },
+  "n_trials": 0.0,
   "prediction": 0.0009410671506367359,
   "status": 0,
   "training_prediction": 0.00322072968045411

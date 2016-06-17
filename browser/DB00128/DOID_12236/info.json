@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.864759427828348,
   "metapath_contribution": {
     "CbGaD": 0.7809233135390657,
     "CbGeAlD": 0.1037682987586953,
     "CbGpPWpGaD": 0.11325233182581515,
     "CrCbGaD": 0.0020560558764238057
   },
+  "n_trials": 0.0,
   "prediction": 0.00305845011039915,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

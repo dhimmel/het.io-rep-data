@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00484",
   "compound_name": "Brimonidine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.6638491547464239,
   "metapath_contribution": {
     "CbGaD": 0.41654172435155995,
     "CbGbCtD": 0.31094985619870535,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17873733659092525,
     "CrCbGaD": 0.004376233638854332
   },
+  "n_trials": 0.0,
   "prediction": 0.0035003275593586103,
   "status": 0,
   "training_prediction": 0.0152962629859126

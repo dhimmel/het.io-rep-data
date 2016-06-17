@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00540",
   "compound_name": "Nortriptyline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.7477243172951891,
   "metapath_contribution": {
     "CbGaD": 0.18458932928425822,
     "CbGbCtD": 0.5792044979642331,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.02910443503248766,
     "CcSEcCtD": 0.15919312857122742
   },
+  "n_trials": 0.0,
   "prediction": 0.0036886482086386295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

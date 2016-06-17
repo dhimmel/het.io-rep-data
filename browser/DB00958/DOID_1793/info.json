@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00958",
   "compound_name": "Carboplatin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.962938881664499,
   "metapath_contribution": {
     "CbGbCtD": 0.3082097178162888,
     "CbGeAlD": 0.046133135982696756,
     "CbGpPWpGaD": 0.06476597975237479,
     "CtDrD": 0.5808911664486396
   },
+  "n_trials": 6.0,
   "prediction": 0.00819224510240764,
   "status": 0,
   "training_prediction": 0.100107271262479

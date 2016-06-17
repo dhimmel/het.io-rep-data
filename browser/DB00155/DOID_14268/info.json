@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:14268",
   "disease_name": "sclerosing cholangitis",
+  "disease_percentile": 0.980494148244473,
   "metapath_contribution": {
     "CbGaD": 0.90833403285514,
     "CbGeAlD": 0.03113119757788552,
     "CbGpPWpGaD": 0.051570144202931684,
     "CrCbGaD": 0.008964625364042767
   },
+  "n_trials": 0.0,
   "prediction": 0.00260447960645044,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

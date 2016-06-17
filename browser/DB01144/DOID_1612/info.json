@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01144",
   "compound_name": "Diclofenamide",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.22886866059817898,
   "metapath_contribution": {
     "CbGaD": 0.5474511991994235,
     "CbGbCtD": 0.11294362165440282,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.19700398052185955,
     "CrCbGaD": 0.0019431001531012456
   },
+  "n_trials": 0.0,
   "prediction": 0.0013735313508644801,
   "status": 0,
   "training_prediction": 0.007577431362250409

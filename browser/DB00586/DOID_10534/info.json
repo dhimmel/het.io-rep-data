@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00586",
   "compound_name": "Diclofenac",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.7808842652795841,
   "metapath_contribution": {
     "CbGaD": 0.3966373676704144,
     "CbGbCtD": 0.3452080552842787,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1242092685951966,
     "CrCbGaD": 0.0029916366175911017
   },
+  "n_trials": 0.0,
   "prediction": 0.00233932019643725,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

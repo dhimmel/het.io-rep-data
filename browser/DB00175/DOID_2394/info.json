@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00175",
   "compound_name": "Pravastatin",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.592327698309493,
   "metapath_contribution": {
     "CbGaD": 0.15816381872986923,
     "CbGbCtD": 0.6377554389099869,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13920808264220066,
     "CrCbGaD": 0.0012307111041259576
   },
+  "n_trials": 0.0,
   "prediction": 0.00170359347478666,
   "status": 0,
   "training_prediction": 0.00675625941417613

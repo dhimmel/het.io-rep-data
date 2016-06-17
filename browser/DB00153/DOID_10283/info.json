@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00153",
   "compound_name": "Ergocalciferol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7288686605981791,
   "metapath_contribution": {
     "CbGaD": 0.3631968633476349,
     "CbGbCtD": 0.40765695923436784,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.058663034023692454,
     "CrCbGaD": 0.0036514665547693077
   },
+  "n_trials": 0.0,
   "prediction": 0.00382341006207704,
   "status": 0,
   "training_prediction": 0.0265698349399358

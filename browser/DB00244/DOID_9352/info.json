@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.666449934980494,
   "metapath_contribution": {
     "CbGaD": 0.26524380923501345,
     "CbGbCtD": 0.46463898010638366,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1393129748994117,
     "CrCbGaD": 0.002156049952873925
   },
+  "n_trials": 0.0,
   "prediction": 0.00351690137146264,
   "status": 0,
   "training_prediction": 0.0253888665219857

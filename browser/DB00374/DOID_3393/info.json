@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00374",
   "compound_name": "Treprostinil",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.2703383752744989,
     "CbGbCtD": 0.35036867731069704,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001696125062017879,
     "CrCrCtD": 0.2042837860957513
   },
+  "n_trials": 0.0,
   "prediction": 0.011361639453393,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

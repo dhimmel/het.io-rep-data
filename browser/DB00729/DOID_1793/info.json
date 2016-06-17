@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00729",
   "compound_name": "Diphemanil Methylsulfate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9141742522756829,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.02116369594919349,
     "CrCbGaD": 0.00034507203030802874,
     "CrCrCtD": 0.12726495028675944,
     "CrCtD": 0.851226281733739
   },
+  "n_trials": 0.0,
   "prediction": 0.0043411462507164395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

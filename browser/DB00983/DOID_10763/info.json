@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00983",
   "compound_name": "Formoterol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.9115734720416121,
   "metapath_contribution": {
     "CbGaD": 0.1313029219801934,
     "CbGbCtD": 0.26288375098966843,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.19641137962764807,
     "CrCtD": 0.2909823190823537
   },
+  "n_trials": 0.0,
   "prediction": 0.0267199062269284,
   "status": 0,
   "training_prediction": 0.352767262769076

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00444",
   "compound_name": "Teniposide",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.0331599479843953,
   "metapath_contribution": {
     "CbGbCtD": 0.5333999470842958,
     "CbGeAlD": 0.0050112460646773134,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.21187700412337968,
     "CrCbGaD": 0.003668409056208963
   },
+  "n_trials": 0.0,
   "prediction": 0.000595385030277086,
   "status": 0,
   "training_prediction": 0.00163902425231805

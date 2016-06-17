@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00363",
   "compound_name": "Clozapine",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.29453836150845303,
   "metapath_contribution": {
     "CbGbCtD": 0.6962302780184846,
     "CbGeAlD": 0.1997433537768883,
     "CbGpPWpGaD": 0.09582819826552316,
     "CrCbGaD": 0.00819816993910401
   },
+  "n_trials": 0.0,
   "prediction": 0.000969516101629277,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

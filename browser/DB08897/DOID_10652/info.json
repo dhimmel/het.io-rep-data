@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08897",
   "compound_name": "Aclidinium",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.39516558475713015,
     "CbGbCtD": 0.4518131336132403,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08984090741603094,
     "CrCbGaD": 0.0012225210681188696
   },
+  "n_trials": 0.0,
   "prediction": 0.00423219196565984,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

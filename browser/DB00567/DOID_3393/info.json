@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.269830949284785,
   "metapath_contribution": {
     "CbGaD": 0.10090949677704132,
     "CbGbCtD": 0.6733404912314847,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1726281759332321,
     "CrCbGaD": 0.0016605938452494728
   },
+  "n_trials": 0.0,
   "prediction": 0.00147872595276864,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

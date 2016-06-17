@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00228",
   "compound_name": "Enflurane",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7301690507152149,
   "metapath_contribution": {
     "CbGaD": 0.3900976031841388,
-    "CbGbCtD": 0.3271950912465738,
-    "CbGeAlD": 0.05205502553719985,
-    "CbGpPWpGaD": 0.14860421102424407,
+    "CbGbCtD": 0.32719509124657375,
+    "CbGeAlD": 0.052055025537199845,
+    "CbGpPWpGaD": 0.14860421102424404,
     "CcSEcCtD": 0.07524552537578086,
-    "CrCbGaD": 0.006802543632062694
+    "CrCbGaD": 0.006802543632062693
   },
+  "n_trials": 0.0,
   "prediction": 0.00410047018430399,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

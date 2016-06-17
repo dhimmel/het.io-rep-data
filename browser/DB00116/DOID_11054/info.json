@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00116",
   "compound_name": "Tetrahydrofolic acid",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9824447334200258,
   "metapath_contribution": {
     "CbGaD": 0.14489904416260263,
     "CbGbCtD": 0.16806100617521158,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.236950033916967,
     "CrCtD": 0.3585487996802285
   },
+  "n_trials": 0.0,
   "prediction": 0.0202307625890851,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

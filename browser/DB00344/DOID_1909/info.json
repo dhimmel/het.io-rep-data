@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00344",
   "compound_name": "Protriptyline",
+  "compound_percentile": 0.558823529411765,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.404421326397919,
   "metapath_contribution": {
     "CbGaD": 0.6192143794486064,
     "CbGbCtD": 0.19889020046571726,
     "CbGpPWpGaD": 0.008744088925629475,
     "CcSEcCtD": 0.1731513311600468
   },
+  "n_trials": 0.0,
   "prediction": 0.00124068906405522,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

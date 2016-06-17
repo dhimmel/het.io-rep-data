@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.701560468140442,
   "metapath_contribution": {
     "CbGaD": 0.492661949777557,
     "CbGbCtD": 0.19127430567521478,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15581682592522422,
     "CrCbGaD": 0.0038500941769815866
   },
+  "n_trials": 1.0,
   "prediction": 0.00694140586651837,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

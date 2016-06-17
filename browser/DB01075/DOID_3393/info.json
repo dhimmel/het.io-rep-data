@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.11508452535760699,
   "metapath_contribution": {
     "CbGaD": 0.19273175981634383,
     "CbGbCtD": 0.5398158391288751,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1614404192329323,
     "CrCbGaD": 0.004817649751082195
   },
+  "n_trials": 0.0,
   "prediction": 0.0009741371003158009,
   "status": 0,
   "training_prediction": 0.00870193559413821

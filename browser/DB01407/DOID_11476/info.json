@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01407",
   "compound_name": "Clenbuterol",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.5972990963337579,
     "CbGbCtD": 0.24183698169652063,
     "CbGeAlD": 0.04861019097449632,
     "CbGpPWpGaD": 0.11225373099522504
   },
+  "n_trials": 0.0,
   "prediction": 0.00350667951907531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

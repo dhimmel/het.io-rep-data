@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.8810143042912869,
   "metapath_contribution": {
     "CbGaD": 0.387089717342197,
     "CbGbCtD": 0.13119658743688528,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.37602554685201306,
     "CrCbGaD": 0.0014553873410131288
   },
+  "n_trials": 0.0,
   "prediction": 0.00499573144556989,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

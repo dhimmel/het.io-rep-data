@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.702860858257477,
   "metapath_contribution": {
-    "CbGaD": 0.4862950187566047,
-    "CbGbCtD": 0.2097535086929433,
-    "CbGeAlD": 0.10374514170899005,
-    "CbGpPWpGaD": 0.19545837986618625,
-    "CrCbGaD": 0.004747950975275906
+    "CbGaD": 0.4862950187566046,
+    "CbGbCtD": 0.20975350869294324,
+    "CbGeAlD": 0.10374514170899002,
+    "CbGpPWpGaD": 0.1954583798661862,
+    "CrCbGaD": 0.004747950975275905
   },
+  "n_trials": 0.0,
   "prediction": 0.00363557414239162,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

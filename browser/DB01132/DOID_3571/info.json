@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01132",
   "compound_name": "Pioglitazone",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.7373211963589079,
   "metapath_contribution": {
     "CbGaD": 0.5978362246733111,
     "CbGbCtD": 0.17289250045224883,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11157430725446019,
     "CrCbGaD": 0.0036863101911901214
   },
+  "n_trials": 0.0,
   "prediction": 0.00201234199587167,
   "status": 0,
   "training_prediction": 0.00198512973763684

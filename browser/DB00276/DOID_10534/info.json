@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00276",
   "compound_name": "Amsacrine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
     "CbGbCtD": 0.5838463875583794,
     "CbGdCrCtD": 0.008252159668045577,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12877787860941817,
     "CcSEcCtD": 0.2476156813997968
   },
+  "n_trials": 0.0,
   "prediction": 0.00337730398033367,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

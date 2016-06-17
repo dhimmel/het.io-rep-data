@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01254",
   "compound_name": "Dasatinib",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGbCtD": 0.7164262133596674,
     "CbGdCrCtD": 0.002433700165979063,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10952637911706209,
     "CcSEcCtD": 0.10608213578974601
   },
+  "n_trials": 0.0,
   "prediction": 0.0103458411229237,
   "status": 0,
   "training_prediction": 0.0125339570349484

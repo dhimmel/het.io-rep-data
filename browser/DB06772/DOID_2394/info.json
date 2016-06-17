@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.09740597554151173,
     "CbGbCtD": 0.16814533699918974,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.1492066224407627,
     "CrCtD": 0.2547664482702914
   },
+  "n_trials": 0.0,
   "prediction": 0.22463594643141502,
   "status": 0,
   "training_prediction": 0.408948973622275

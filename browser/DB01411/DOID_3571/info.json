@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01411",
   "compound_name": "Pranlukast",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.9427828348504549,
   "metapath_contribution": {
     "CbGaD": 0.5048994914731835,
     "CbGbCtD": 0.18465509957705567,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2214209415974825,
     "CrCbGaD": 0.001492342061868072
   },
+  "n_trials": 0.0,
   "prediction": 0.00358632990230136,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

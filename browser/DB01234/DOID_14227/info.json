@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:14227",
   "disease_name": "azoospermia",
+  "disease_percentile": 0.665149544863459,
   "metapath_contribution": {
     "CbGbCtD": 0.8012780986415129,
     "CbGeAlD": 0.10533678957826322,
     "CcSEcCtD": 0.09197953115622444,
     "CrCbGaD": 0.0014055806239994908
   },
+  "n_trials": 0.0,
   "prediction": 0.00198124758287815,
   "status": 0,
   "training_prediction": 0.00603699005456575

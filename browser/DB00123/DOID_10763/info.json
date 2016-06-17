@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00123",
   "compound_name": "L-Lysine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.29518855656696996,
   "metapath_contribution": {
     "CbGbCtD": 0.33924524323987765,
     "CbGeAlD": 0.07083129834391208,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.010318533443103498,
     "CrCrCtD": 0.41888874132480586
   },
+  "n_trials": 0.0,
   "prediction": 0.00236028594008577,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00321",
   "compound_name": "Amitriptyline",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.853055916775033,
   "metapath_contribution": {
     "CbGaD": 0.25321714744590457,
     "CbGbCtD": 0.2729381110449531,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.28302236122752616,
     "CrCbGaD": 0.0020917191442293356
   },
+  "n_trials": 0.0,
   "prediction": 0.00576419600929151,
   "status": 0,
   "training_prediction": 0.0303229364136275

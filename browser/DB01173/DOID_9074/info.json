@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.287386215864759,
   "metapath_contribution": {
     "CbGbCtD": 0.1564172161273554,
     "CbGeAlD": 0.045293677460819415,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.7639408969846742,
     "CrCbGaD": 0.00013808860553989305
   },
+  "n_trials": 0.0,
   "prediction": 0.00132497941575033,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

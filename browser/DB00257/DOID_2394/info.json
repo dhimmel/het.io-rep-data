@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.7451235370611179,
   "metapath_contribution": {
     "CbGaD": 0.19399638545623715,
     "CbGbCtD": 0.5558352373587548,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.057090526586304376,
     "CcSEcCtD": 0.07351496242019638
   },
+  "n_trials": 0.0,
   "prediction": 0.0021431973169136103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

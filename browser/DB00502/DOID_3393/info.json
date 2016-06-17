@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7542262678803641,
   "metapath_contribution": {
     "CbGaD": 0.14536595009614944,
     "CbGbCtD": 0.364753960338459,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.001494940922935933,
     "CrCrCtD": 0.2515744970632832
   },
+  "n_trials": 0.0,
   "prediction": 0.00425358908319892,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

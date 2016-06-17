@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.310143042912874,
   "metapath_contribution": {
     "CbGbCtD": 0.26080670800564515,
     "CbGeAlD": 0.005276851556864454,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.5235230947496721,
     "CrCbGaD": 0.004795941103917985
   },
+  "n_trials": 0.0,
   "prediction": 0.00159272169016023,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

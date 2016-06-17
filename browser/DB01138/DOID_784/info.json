@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01138",
   "compound_name": "Sulfinpyrazone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.882314694408322,
   "metapath_contribution": {
     "CbGaD": 0.7906663644180616,
     "CbGeAlD": 0.07319630525865169,
     "CbGpPWpGaD": 0.13164813752665572,
     "CrCbGaD": 0.004489192796631044
   },
+  "n_trials": 0.0,
   "prediction": 0.00312889676490483,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

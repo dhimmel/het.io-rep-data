@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01032",
   "compound_name": "Probenecid",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.9024707412223671,
   "metapath_contribution": {
     "CbGaD": 0.3124564374400295,
     "CbGbCtD": 0.5077917252037616,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09375375053761213,
     "CcSEcCtD": 0.060556923078514076
   },
+  "n_trials": 0.0,
   "prediction": 0.005324494962525479,
   "status": 0,
   "training_prediction": 0.0180310298827587

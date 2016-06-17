@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01026",
   "compound_name": "Ketoconazole",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.578023407022107,
   "metapath_contribution": {
     "CbGbCtD": 0.7228814387401175,
     "CbGeAlD": 0.10569632993186721,
     "CbGpPWpGaD": 0.04270690490507904,
     "CcSEcCtD": 0.12871532642293632
   },
+  "n_trials": 0.0,
   "prediction": 0.00178945683542094,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

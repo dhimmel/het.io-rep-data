@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.1712255978350477,
     "CbGbCtD": 0.27364460845813954,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.25681684539495786,
     "CtDrD": 0.26251661655315295
   },
+  "n_trials": 0.0,
   "prediction": 0.0339194303236026,
   "status": 0,
   "training_prediction": 0.0872091503842278

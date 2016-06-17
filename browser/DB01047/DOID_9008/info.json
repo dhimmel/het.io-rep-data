@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01047",
   "compound_name": "Fluocinonide",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:9008",
   "disease_name": "psoriatic arthritis",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.12340680034911823,
     "CcSEcCtD": 0.0274261937117077,
@@ -11,6 +13,7 @@
     "CrCtD": 0.21475093723302777,
     "CtDrD": 0.16133951008237207
   },
+  "n_trials": 0.0,
   "prediction": 0.163900973864251,
   "status": 0,
   "training_prediction": 0.39769070509458604

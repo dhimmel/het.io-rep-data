@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.727568270481144,
   "metapath_contribution": {
     "CbGaD": 0.26929227419599483,
     "CbGbCtD": 0.5239089922706993,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.03352913569192496,
     "CcSEcCtD": 0.16113187630807183
   },
+  "n_trials": 0.0,
   "prediction": 0.0025787231510512897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

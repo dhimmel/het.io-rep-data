@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.035110533159948,
   "metapath_contribution": {
     "CbGaD": 0.6361235074546362,
     "CbGeAlD": 0.14681552430851966,
     "CbGpPWpGaD": 0.21595530940455343,
     "CrCbGaD": 0.001105658832290619
   },
+  "n_trials": 0.0,
   "prediction": 0.000506571468726095,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

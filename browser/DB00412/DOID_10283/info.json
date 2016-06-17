@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.756827048114434,
   "metapath_contribution": {
     "CbGaD": 0.4303033931350974,
     "CbGbCtD": 0.35738500611863555,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.0994097458206244,
     "CrCbGaD": 0.0011260508052466053
   },
+  "n_trials": 1.0,
   "prediction": 0.00416886942403713,
   "status": 0,
   "training_prediction": 0.0175126096104134

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00537",
   "compound_name": "Ciprofloxacin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.46814044213264006,
   "metapath_contribution": {
     "CbGbCtD": 0.7445150471987311,
     "CbGdCrCtD": 0.004063844057577206,
     "CbGpPWpGaD": 0.04845781674952747,
     "CcSEcCtD": 0.2029632919941642
   },
+  "n_trials": 1.0,
   "prediction": 0.00146561078374626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01033",
   "compound_name": "Mercaptopurine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.4100863800177771,
     "CbGbCtD": 0.4416772823890126,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06667010817626479,
     "CcSEcCtD": 0.06366587803552293
   },
+  "n_trials": 0.0,
   "prediction": 0.0104337162855716,
   "status": 0,
   "training_prediction": 0.0541329676134098

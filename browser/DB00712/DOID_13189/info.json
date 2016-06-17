@@ -1,20 +1,22 @@
 {
   "compound_id": "DB00712",
   "compound_name": "Flurbiprofen",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
-    "CbGbCtD": 0.14185885858454472,
-    "CbGdCrCtD": 0.0002917117522807951,
-    "CbGpPWpGaD": 0.011158999315996952,
-    "CcSEcCtD": 0.037289994292034626,
-    "CiPCiCtD": 0.30122895125812227,
-    "CpDpCtD": 0.15155903325886735,
-    "CrCbGaD": 0.000536057226025753,
-    "CrCrCtD": 0.13702875007911472,
-    "CrCtD": 0.2190476442330129
+    "CbGbCtD": 0.1418588585845447,
+    "CbGdCrCtD": 0.00029171175228079506,
+    "CbGpPWpGaD": 0.01115899931599695,
+    "CcSEcCtD": 0.03728999429203462,
+    "CiPCiCtD": 0.3012289512581222,
+    "CpDpCtD": 0.15155903325886733,
+    "CrCbGaD": 0.0005360572260257528,
+    "CrCrCtD": 0.1370287500791147,
+    "CrCtD": 0.21904764423301287
   },
+  "n_trials": 0.0,
   "prediction": 0.192592922508395,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

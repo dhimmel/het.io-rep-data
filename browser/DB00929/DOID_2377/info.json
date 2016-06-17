@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00929",
   "compound_name": "Misoprostol",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.8010628623321998,
     "CbGpPWpGaD": 0.10853730932272447,
     "CcSEcCtD": 0.0879678783859409,
     "CrCbGaD": 0.0024319499591348138
   },
+  "n_trials": 0.0,
   "prediction": 0.0040988339642882895,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

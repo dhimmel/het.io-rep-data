@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00691",
   "compound_name": "Moexipril",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:418",
   "disease_name": "systemic scleroderma",
+  "disease_percentile": 0.995448634590377,
   "metapath_contribution": {
     "CbGaD": 0.1643470159664264,
     "CbGbCtD": 0.2731887814430834,
@@ -12,6 +14,7 @@
     "CrCrCtD": 0.21755169929002605,
     "CrCtD": 0.3242718090576553
   },
+  "n_trials": 0.0,
   "prediction": 0.0398818009381458,
   "status": 0,
   "training_prediction": 0.0902491434599064

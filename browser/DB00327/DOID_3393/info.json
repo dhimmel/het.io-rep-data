@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00327",
   "compound_name": "Hydromorphone",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.44473342002600796,
   "metapath_contribution": {
     "CbGaD": 0.3482793492877533,
     "CbGbCtD": 0.3774105368464673,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18236969076373902,
     "CrCbGaD": 0.004450133441011059
   },
+  "n_trials": 0.0,
   "prediction": 0.00214371821665911,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

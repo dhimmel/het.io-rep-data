@@ -1,15 +1,17 @@
 {
   "compound_id": "DB04841",
   "compound_name": "Flunarizine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.49024707412223706,
   "metapath_contribution": {
     "CbGaD": 0.6199095523971501,
     "CbGeAlD": 0.11064123046694911,
     "CbGpPWpGaD": 0.26131807108936095,
     "CrCbGaD": 0.008131146046539759
   },
+  "n_trials": 1.0,
   "prediction": 0.0015326505966969301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

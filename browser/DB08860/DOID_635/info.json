@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08860",
   "compound_name": "Pitavastatin",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.85370611183355,
   "metapath_contribution": {
     "CbGaD": 0.21328613734580798,
     "CbGbCtD": 0.614663419565164,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13567985992739995,
     "CrCbGaD": 0.000587353266884805
   },
+  "n_trials": 0.0,
   "prediction": 0.00471192655291093,
   "status": 0,
   "training_prediction": 0.0144165034128748

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00537",
   "compound_name": "Ciprofloxacin",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.8413543430825742,
     "CbGeAlD": 0.013594692582949182,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06869677857044515,
     "CrCbGaD": 0.010397704422003355
   },
+  "n_trials": 0.0,
   "prediction": 0.0013334744757646,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01113",
   "compound_name": "Papaverine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGaD": 0.8744528679143101,
     "CbGeAlD": 0.03000203632851833,
     "CbGpPWpGaD": 0.0931688631248647,
     "CrCbGaD": 0.0023762326323068955
   },
+  "n_trials": 0.0,
   "prediction": 0.00355268817654922,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

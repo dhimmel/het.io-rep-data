@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9434330299089729,
   "metapath_contribution": {
     "CbGaD": 0.2662065268338308,
     "CbGbCtD": 0.48765198716781777,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.12363181931173965,
     "CrCbGaD": 0.00271957115251471
   },
+  "n_trials": 0.0,
   "prediction": 0.007692543526014441,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

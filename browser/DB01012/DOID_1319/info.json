@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.531209362808843,
   "metapath_contribution": {
     "CbGbCtD": 0.773595941927141,
     "CbGpPWpGaD": 0.05272788365387436,
     "CcSEcCtD": 0.1693468472527174,
     "CrCbGaD": 0.004329327166267273
   },
+  "n_trials": 0.0,
   "prediction": 0.00162174050401389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

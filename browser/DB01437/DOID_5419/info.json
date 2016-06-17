@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01437",
   "compound_name": "Glutethimide",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.61443433029909,
   "metapath_contribution": {
     "CbGaD": 0.6953164533507282,
     "CbGeAlD": 0.07034619133959967,
     "CbGpPWpGaD": 0.21527018496306904,
     "CrCbGaD": 0.019067170346603043
   },
+  "n_trials": 0.0,
   "prediction": 0.0018371475470852,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

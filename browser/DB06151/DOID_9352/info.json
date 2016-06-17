@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06151",
   "compound_name": "Acetylcysteine",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.45578673602080605,
   "metapath_contribution": {
     "CbGbCtD": 0.5633917034820022,
     "CbGeAlD": 0.06312936719079192,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1909270256584769,
     "CrCbGaD": 0.005106524335070282
   },
+  "n_trials": 3.0,
   "prediction": 0.00232280131678901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

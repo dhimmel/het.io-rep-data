@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00465",
   "compound_name": "Ketorolac",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.41612483745123496,
   "metapath_contribution": {
     "CbGaD": 0.21767629156512386,
     "CbGbCtD": 0.1059409562951565,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0020043718754660903,
     "CrCrCtD": 0.41515950301213334
   },
+  "n_trials": 0.0,
   "prediction": 0.00273626889998008,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.581274382314694,
   "metapath_contribution": {
     "CbGbCtD": 0.795173766257638,
     "CbGeAlD": 0.046229656535133286,
     "CbGpPWpGaD": 0.009303891013506524,
     "CcSEcCtD": 0.14929268619372207
   },
+  "n_trials": 4.0,
   "prediction": 0.0027640907101618,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

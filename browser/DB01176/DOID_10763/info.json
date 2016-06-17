@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01176",
   "compound_name": "Cyclizine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.668400520156047,
   "metapath_contribution": {
     "CbGbCtD": 0.1620422225882872,
     "CbGeAlD": 0.009234348212822895,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.26155296047359994,
     "CrCtD": 0.4100252044126461
   },
+  "n_trials": 0.0,
   "prediction": 0.00614894607554525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

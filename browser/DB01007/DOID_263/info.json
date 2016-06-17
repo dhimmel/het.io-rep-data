@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01007",
   "compound_name": "Tioconazole",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.41807542262678793,
   "metapath_contribution": {
     "CbGbCtD": 0.8250992372974256,
     "CbGeAlD": 0.05024691787616182,
     "CbGpPWpGaD": 0.12159132068509902,
     "CrCbGaD": 0.0030625241413135473
   },
+  "n_trials": 0.0,
   "prediction": 0.00156561880451819,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

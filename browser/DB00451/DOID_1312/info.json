@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.4145534035891747,
     "CbGbCtD": 0.4827847132366563,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.019730449617755164,
     "CrCbGaD": 0.0020410437250907598
   },
+  "n_trials": 0.0,
   "prediction": 0.00270507684706875,
   "status": 0,
   "training_prediction": 0.00122035467680835

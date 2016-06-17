@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00266",
   "compound_name": "Dicoumarol",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.448634590377113,
   "metapath_contribution": {
     "CbGbCtD": 0.7638362294019821,
     "CbGdCrCtD": 0.007920178722096978,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12298070043493955,
     "CrCbGaD": 0.005950989655703936
   },
+  "n_trials": 0.0,
   "prediction": 0.00230067421585884,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

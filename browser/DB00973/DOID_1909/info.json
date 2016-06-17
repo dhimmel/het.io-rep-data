@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00973",
   "compound_name": "Ezetimibe",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.729518855656697,
   "metapath_contribution": {
     "CbGaD": 0.14574385442548124,
     "CbGbCtD": 0.4038378127899123,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.15780492606714044,
     "CcSEcCtD": 0.13368237177274186
   },
+  "n_trials": 0.0,
   "prediction": 0.00204685089855946,
   "status": 0,
   "training_prediction": 0.00621867760377906

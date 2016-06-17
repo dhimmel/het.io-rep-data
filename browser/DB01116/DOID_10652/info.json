@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01116",
   "compound_name": "Trimethaphan",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9388816644993501,
   "metapath_contribution": {
     "CbGaD": 0.28973677834552514,
     "CbGbCtD": 0.6254928180216385,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07716046931414905,
     "CrCbGaD": 0.0010863472874991292
   },
+  "n_trials": 0.0,
   "prediction": 0.00614882854873528,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

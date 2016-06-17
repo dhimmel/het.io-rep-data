@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00841",
   "compound_name": "Dobutamine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.5773732119635889,
   "metapath_contribution": {
     "CbGbCtD": 0.8459327019181415,
     "CbGeAlD": 0.05664419395757462,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03698556689802052,
     "CrCbGaD": 0.0024163639672212657
   },
+  "n_trials": 0.0,
   "prediction": 0.0027083350771638396,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

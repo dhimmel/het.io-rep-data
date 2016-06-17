@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.13979193758127403,
   "metapath_contribution": {
     "CbGaD": 0.30152002369347175,
     "CbGbCtD": 0.3842105487065592,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10444299840962554,
     "CrCbGaD": 0.003490360707612724
   },
+  "n_trials": 0.0,
   "prediction": 0.00102534002773651,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

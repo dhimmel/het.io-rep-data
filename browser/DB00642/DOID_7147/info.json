@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:7147",
   "disease_name": "ankylosing spondylitis",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGbCtD": 0.17028370616216723,
     "CbGdCrCtD": 0.0009360277306932949,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.16924240175604602,
     "CrCtD": 0.2558587722486374
   },
+  "n_trials": 0.0,
   "prediction": 0.0772452880143465,
   "status": 0,
   "training_prediction": 0.14469252757809697

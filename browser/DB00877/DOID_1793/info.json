@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00877",
   "compound_name": "Sirolimus",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.82704811443433,
   "metapath_contribution": {
     "CbGbCtD": 0.19948569112783435,
     "CbGeAlD": 0.003181840446823787,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09011071551527843,
     "CiPCiCtD": 0.6453485328366804
   },
+  "n_trials": 34.0,
   "prediction": 0.00295844740751503,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

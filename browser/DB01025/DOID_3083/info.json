@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01025",
   "compound_name": "Amlexanox",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9674902470741221,
   "metapath_contribution": {
     "CbGaD": 0.3741298275877186,
     "CbGbCtD": 0.5432034350931585,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.05132225017600653,
     "CcSEcCtD": 0.003301907183441462
   },
+  "n_trials": 0.0,
   "prediction": 0.0133856078397019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

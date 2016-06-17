@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00526",
   "compound_name": "Oxaliplatin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.24379092517260145,
     "CbGbCtD": 0.2564420141597662,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.037281080358135564,
     "CiPCiCtD": 0.43968123696548167
   },
+  "n_trials": 4.0,
   "prediction": 0.11814572418738199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

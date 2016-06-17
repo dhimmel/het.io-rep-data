@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00991",
   "compound_name": "Oxaprozin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGbCtD": 0.2868352511638539,
     "CbGpPWpGaD": 0.022968453008138642,
@@ -10,7 +12,7 @@
     "CpDpCtD": 0.5507391028132916,
     "CrCbGaD": 0.00257742972495155
   },
+  "n_trials": 0.0,
   "prediction": 0.0022595565646397198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

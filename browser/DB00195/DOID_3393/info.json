@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00195",
   "compound_name": "Betaxolol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8296488946684009,
   "metapath_contribution": {
     "CbGaD": 0.27502464803863225,
     "CbGbCtD": 0.2827451009665553,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002817268917916721,
     "CrCrCtD": 0.2633182077151225
   },
+  "n_trials": 0.0,
   "prediction": 0.00532793757905643,
   "status": 0,
   "training_prediction": 0.0460038404402475

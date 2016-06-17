@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00178",
   "compound_name": "Ramipril",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9759427828348499,
   "metapath_contribution": {
     "CbGaD": 0.3787053951377803,
     "CbGeAlD": 0.034821887786428286,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.003930118973718445,
     "CtDrD": 0.5287567794472157
   },
+  "n_trials": 0.0,
   "prediction": 0.00589846139812489,
   "status": 0,
   "training_prediction": 0.00754163645269482

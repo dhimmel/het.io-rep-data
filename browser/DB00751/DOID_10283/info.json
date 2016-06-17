@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00751",
   "compound_name": "Epinastine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.276983094928479,
   "metapath_contribution": {
     "CbGaD": 0.16249082689318,
     "CbGbCtD": 0.5745075437818046,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0877535662256491,
     "CrCbGaD": 0.005347747944335265
   },
+  "n_trials": 0.0,
   "prediction": 0.00144154589965642,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

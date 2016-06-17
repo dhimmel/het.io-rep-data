@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01161",
   "compound_name": "Chloroprocaine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.29258777633290006,
   "metapath_contribution": {
     "CbGbCtD": 0.6640455838649991,
     "CbGeAlD": 0.24196408882732248,
     "CcSEcCtD": 0.08009076596018497,
     "CrCbGaD": 0.013899561347493358
   },
+  "n_trials": 0.0,
   "prediction": 0.00115117809904549,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

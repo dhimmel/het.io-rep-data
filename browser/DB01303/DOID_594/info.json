@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01303",
   "compound_name": "Oxtriphylline",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9720416124837451,
   "metapath_contribution": {
     "CbGaD": 0.8560688675348989,
     "CbGeAlD": 0.009338259071031174,
     "CbGpPWpGaD": 0.1270478208102955,
     "CrCbGaD": 0.007545052583774396
   },
+  "n_trials": 0.0,
   "prediction": 0.003942300957612,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

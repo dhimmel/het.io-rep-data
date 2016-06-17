@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01012",
   "compound_name": "Cinacalcet",
+  "compound_percentile": 0.279411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.20481144343302998,
   "metapath_contribution": {
     "CbGeAlD": 0.0028844955167354404,
     "CbGpPWpGaD": 0.036099848251853514,
     "CcSEcCtD": 0.9309687188565142,
     "CrCbGaD": 0.030046937374896877
   },
+  "n_trials": 0.0,
   "prediction": 0.00098189749152784,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

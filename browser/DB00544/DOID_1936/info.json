@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00544",
   "compound_name": "Fluorouracil",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.929128738621587,
   "metapath_contribution": {
     "CbGaD": 0.3381454674354083,
     "CbGbCtD": 0.4342347608356536,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09336049099373361,
     "CcSEcCtD": 0.1000431136414285
   },
+  "n_trials": 0.0,
   "prediction": 0.004963738093386271,
   "status": 0,
   "training_prediction": 0.0355130520064367

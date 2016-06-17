@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08820",
   "compound_name": "Ivacaftor",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.1662433265918923,
     "CbGbCtD": 0.08583924602957925,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.04309398820869308,
     "CiPCiCtD": 0.6707635335913801
   },
+  "n_trials": 0.0,
   "prediction": 0.0106684862336327,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

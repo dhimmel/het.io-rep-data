@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00150",
   "compound_name": "L-Tryptophan",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.5,
   "metapath_contribution": {
-    "CbGeAlD": 0.5344917690007466,
-    "CbGpPWpGaD": 0.4589838554352414,
-    "CrCbGaD": 0.0065243755640121285
+    "CbGeAlD": 0.5344917690007465,
+    "CbGpPWpGaD": 0.45898385543524134,
+    "CrCbGaD": 0.006524375564012128
   },
+  "n_trials": 0.0,
   "prediction": 0.0015632072197930599,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

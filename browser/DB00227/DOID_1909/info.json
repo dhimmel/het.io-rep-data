@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00227",
   "compound_name": "Lovastatin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.7217165149544859,
   "metapath_contribution": {
     "CbGaD": 0.5855974901586023,
     "CbGbCtD": 0.18776696273084517,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08169740679976023,
     "CrCbGaD": 0.0005813925442457943
   },
+  "n_trials": 2.0,
   "prediction": 0.00202062697823721,
   "status": 0,
   "training_prediction": 0.00613933373204676

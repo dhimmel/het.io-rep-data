@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00243",
   "compound_name": "Ranolazine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.257477243172952,
   "metapath_contribution": {
     "CbGbCtD": 0.4543257521799432,
     "CcSEcCtD": 0.22114313685538675,
     "CrCbGaD": 0.004532939983568892,
     "CrCrCtD": 0.31999817098110117
   },
+  "n_trials": 0.0,
   "prediction": 0.0015770493522468802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

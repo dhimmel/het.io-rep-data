@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.8868660598179449,
   "metapath_contribution": {
     "CbGbCtD": 0.21496380822706798,
     "CbGdCrCtD": 0.002720970916378486,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.30568511791927855,
     "CrCtD": 0.37811731295967377
   },
+  "n_trials": 0.0,
   "prediction": 0.0072736868129586,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

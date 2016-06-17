@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01208",
   "compound_name": "Sparfloxacin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.46879063719115704,
   "metapath_contribution": {
     "CbGaD": 0.4387485191752099,
     "CbGbCtD": 0.30246752220234874,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.21583589320403931,
     "CrCbGaD": 0.0034708823939671968
   },
+  "n_trials": 0.0,
   "prediction": 0.00237473493453531,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

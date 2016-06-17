@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8042912873862159,
   "metapath_contribution": {
     "CbGaD": 0.5827214164790099,
     "CbGbCtD": 0.17717151365095296,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.06595116692178303,
     "CrCbGaD": 0.0041282741243355865
   },
+  "n_trials": 0.0,
   "prediction": 0.0048434364613302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

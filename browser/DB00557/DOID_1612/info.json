@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00557",
   "compound_name": "Hydroxyzine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.29518855656696996,
   "metapath_contribution": {
     "CbGaD": 0.36354507272447484,
     "CbGbCtD": 0.1203240517808659,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0023160864584680437,
     "CrCrCtD": 0.4569496846359097
   },
+  "n_trials": 0.0,
   "prediction": 0.00161935775999509,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

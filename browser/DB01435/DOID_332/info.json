@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01435",
   "compound_name": "Antipyrine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.8010403120936279,
   "metapath_contribution": {
     "CbGaD": 0.5418792598224105,
     "CbGbCtD": 0.26958714307020376,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.060991902679450025,
     "CrCbGaD": 0.009629119101415748
   },
+  "n_trials": 0.0,
   "prediction": 0.0020306928155903103,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

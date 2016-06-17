@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.46228868660598205,
   "metapath_contribution": {
     "CbGaD": 0.3050039076932974,
     "CbGbCtD": 0.26458480291006387,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.24300322762669602,
     "CrCbGaD": 0.0025503969870190905
   },
+  "n_trials": 0.0,
   "prediction": 0.00163568294785951,
   "status": 0,
   "training_prediction": 0.00447584000346158

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00471",
   "compound_name": "Montelukast",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.899869960988297,
   "metapath_contribution": {
     "CbGaD": 0.1523561550600363,
     "CbGbCtD": 0.592704387142183,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07847075246386857,
     "CcSEcCtD": 0.17220842597148497
   },
+  "n_trials": 0.0,
   "prediction": 0.00788819489260612,
   "status": 0,
   "training_prediction": 0.0740980559074344

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.305591677503251,
   "metapath_contribution": {
     "CbGbCtD": 0.5705775412957296,
     "CbGeAlD": 0.10344922477774823,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18563746633202083,
     "CrCbGaD": 0.003230223783141391
   },
+  "n_trials": 0.0,
   "prediction": 0.00143896744519002,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

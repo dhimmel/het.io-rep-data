@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00411",
   "compound_name": "Carbachol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.4148244473342,
   "metapath_contribution": {
     "CbGbCtD": 0.5189899591770921,
     "CbGdCrCtD": 0.0057927462523041226,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.2787977712621315,
     "CrCbGaD": 0.006227258238390536
   },
+  "n_trials": 0.0,
   "prediction": 0.00315813323954466,
   "status": 0,
   "training_prediction": 0.0365128245000394

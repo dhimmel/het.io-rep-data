@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00542",
   "compound_name": "Benazepril",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
     "CbGaD": 0.5776642342762309,
     "CbGbCtD": 0.1674338099815176,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12404908478105134,
     "CrCbGaD": 0.004841173880327564
   },
+  "n_trials": 0.0,
   "prediction": 0.00206275088789685,
   "status": 0,
   "training_prediction": 0.00599739240521803

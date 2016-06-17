@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.27568270481144297,
   "metapath_contribution": {
     "CbGaD": 0.7192626835939664,
     "CbGeAlD": 0.10117594902139468,
     "CbGpPWpGaD": 0.17280672254791904,
     "CrCbGaD": 0.006754644836719938
   },
+  "n_trials": 0.0,
   "prediction": 0.00112295678580071,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

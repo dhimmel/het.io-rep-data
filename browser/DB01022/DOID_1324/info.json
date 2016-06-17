@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01022",
   "compound_name": "Phylloquinone",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.36866059817945396,
   "metapath_contribution": {
     "CbGpPWpGaD": 0.39847582091173633,
     "CcSEcCtD": 0.5464683143456129,
     "CrCbGaD": 0.05505586474265083
   },
+  "n_trials": 0.0,
   "prediction": 0.00143002425202938,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

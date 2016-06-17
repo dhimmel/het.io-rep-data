@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01466",
   "compound_name": "Ethylmorphine",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.6989596879063721,
   "metapath_contribution": {
     "CbGaD": 0.8889201364752253,
     "CbGeAlD": 0.02443784084173335,
     "CbGpPWpGaD": 0.076450889138976,
     "CrCbGaD": 0.010191133544065301
   },
+  "n_trials": 0.0,
   "prediction": 0.0018358075089973398,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

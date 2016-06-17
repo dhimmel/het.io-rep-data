@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00315",
   "compound_name": "Zolmitriptan",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.48244473342002603,
   "metapath_contribution": {
     "CbGbCtD": 0.12967397991735916,
     "CbGeAlD": 0.4069261768992551,
     "CcSEcCtD": 0.456518256071745,
     "CrCbGaD": 0.006881587111640766
   },
+  "n_trials": 0.0,
   "prediction": 0.0015208686303491,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

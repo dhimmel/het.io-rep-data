@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01175",
   "compound_name": "Escitalopram",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.8842652795838749,
   "metapath_contribution": {
     "CbGaD": 0.8093053798686567,
     "CbGpPWpGaD": 0.046956223953666165,
     "CcSEcCtD": 0.1374365759184249,
     "CrCbGaD": 0.0063018202592521775
   },
+  "n_trials": 0.0,
   "prediction": 0.00247178179866642,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.838101430429129,
   "metapath_contribution": {
     "CbGaD": 0.3218726970131882,
     "CbGbCtD": 0.38382420718323423,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16683618503630104,
     "CrCbGaD": 0.002232909817188219
   },
+  "n_trials": 8.0,
   "prediction": 0.0035868592412154,
   "status": 0,
   "training_prediction": 0.0172357073767165

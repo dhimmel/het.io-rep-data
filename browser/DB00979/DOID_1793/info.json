@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00979",
   "compound_name": "Cyclopentolate",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.6859557867360211,
   "metapath_contribution": {
-    "CbGbCtD": 0.11398493083035413,
-    "CbGpPWpGaD": 0.0666980693261611,
+    "CbGbCtD": 0.11398493083035412,
+    "CbGpPWpGaD": 0.06669806932616108,
     "CcSEcCtD": 0.03804387641218769,
-    "CrCrCtD": 0.7812731234312972
+    "CrCrCtD": 0.7812731234312971
   },
+  "n_trials": 0.0,
   "prediction": 0.00224758821347153,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

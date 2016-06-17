@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00358",
   "compound_name": "Mefloquine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:12365",
   "disease_name": "malaria",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGbCtD": 0.6119926300753583,
     "CbGeAlD": 0.08182517391906385,
     "CbGpPWpGaD": 0.1525363988358652,
     "CcSEcCtD": 0.1536457971697126
   },
+  "n_trials": 33.0,
   "prediction": 0.0044877278061244,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

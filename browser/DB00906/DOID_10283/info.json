@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00906",
   "compound_name": "Tiagabine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8029908972691808,
   "metapath_contribution": {
     "CbGaD": 0.262728138128913,
     "CbGbCtD": 0.38455481671570907,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07436166425028352,
     "CcSEcCtD": 0.2515995658297279
   },
+  "n_trials": 0.0,
   "prediction": 0.0047730778771481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

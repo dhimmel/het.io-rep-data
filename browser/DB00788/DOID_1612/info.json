@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.568270481144343,
   "metapath_contribution": {
     "CbGaD": 0.2340226917111642,
     "CbGbCtD": 0.31123891503475154,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0031038953183625895,
     "CrCrCtD": 0.20281024812976764
   },
+  "n_trials": 1.0,
   "prediction": 0.00270568089614978,
   "status": 0,
   "training_prediction": 0.0148371716949937

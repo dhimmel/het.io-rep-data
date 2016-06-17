@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01397",
   "compound_name": "Magnesium salicylate",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.35370611183354994,
   "metapath_contribution": {
     "CbGaD": 0.6391215278922151,
     "CbGeAlD": 0.02415637327249017,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20033513001785125,
     "CrCbGaD": 0.006042460175382896
   },
+  "n_trials": 0.0,
   "prediction": 0.00187218170708518,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

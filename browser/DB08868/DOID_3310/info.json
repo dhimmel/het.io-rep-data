@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08868",
   "compound_name": "Fingolimod",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.783485045513654,
   "metapath_contribution": {
     "CbGbCtD": 0.40307128515850116,
     "CbGdCrCtD": 0.010851953653785024,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.2212021720575737,
     "CcSEcCtD": 0.3395693492999655
   },
+  "n_trials": 0.0,
   "prediction": 0.0032775362201887,
   "status": 0,
   "training_prediction": 0.0111539249711019

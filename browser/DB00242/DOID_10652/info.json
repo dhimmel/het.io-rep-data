@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.23927178153446,
   "metapath_contribution": {
     "CbGbCtD": 0.34513607759408166,
     "CbGeAlD": 0.15945637018487527,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3650071553221758,
     "CrCbGaD": 0.0025081566292409815
   },
+  "n_trials": 0.0,
   "prediction": 0.00113367976119965,
   "status": 0,
   "training_prediction": 0.0022931810822848

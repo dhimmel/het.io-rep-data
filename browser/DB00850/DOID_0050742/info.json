@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00850",
   "compound_name": "Perphenazine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.535760728218466,
   "metapath_contribution": {
     "CbGaD": 0.7278051999336567,
     "CbGeAlD": 0.02775324297500309,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09056518401282339,
     "CrCbGaD": 0.008529737989625509
   },
+  "n_trials": 0.0,
   "prediction": 0.00160923088853641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

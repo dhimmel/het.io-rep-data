@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00129",
   "compound_name": "L-Ornithine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.568270481144343,
   "metapath_contribution": {
     "CbGaD": 0.6952633391542029,
     "CbGeAlD": 0.10259703371481155,
     "CbGpPWpGaD": 0.19607472615260005,
     "CrCbGaD": 0.006064900978385493
   },
+  "n_trials": 0.0,
   "prediction": 0.00285443527151543,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

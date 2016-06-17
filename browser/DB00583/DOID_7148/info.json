@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.8894668400520159,
   "metapath_contribution": {
     "CbGaD": 0.4653503030678826,
     "CbGbCtD": 0.35461035955927994,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07873570672409455,
     "CrCbGaD": 0.001177008990145572
   },
+  "n_trials": 0.0,
   "prediction": 0.0045799221445376,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

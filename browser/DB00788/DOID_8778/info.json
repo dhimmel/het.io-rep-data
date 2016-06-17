@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00788",
   "compound_name": "Naproxen",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9044213263979191,
   "metapath_contribution": {
     "CbGaD": 0.21948858570333976,
     "CbGbCtD": 0.3137810227414361,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.3699334304306412,
     "CrCbGaD": 0.0029267354834851224
   },
+  "n_trials": 0.0,
   "prediction": 0.00373408644539626,
   "status": 0,
   "training_prediction": 0.00608206771063695

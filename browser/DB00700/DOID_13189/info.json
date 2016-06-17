@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00700",
   "compound_name": "Eplerenone",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGbCtD": 0.24255657226377209,
     "CcSEcCtD": 0.06334021881054917,
@@ -10,6 +12,7 @@
     "CrCrCtD": 0.29678743296161375,
     "CrCtD": 0.3969714240593669
   },
+  "n_trials": 0.0,
   "prediction": 0.0123725818117829,
   "status": 0,
   "training_prediction": 0.0440653271251458

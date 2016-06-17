@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.238621586475943,
   "metapath_contribution": {
     "CbGbCtD": 0.5989133442550424,
     "CbGpPWpGaD": 0.014352509337683698,
     "CcSEcCtD": 0.38258927469929005,
     "CrCbGaD": 0.00414487170798391
   },
+  "n_trials": 1.0,
   "prediction": 0.00112518942890759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

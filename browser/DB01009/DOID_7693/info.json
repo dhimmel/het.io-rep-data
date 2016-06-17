@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.44538361508452506,
   "metapath_contribution": {
-    "CbGaD": 0.8732699553572053,
-    "CbGeAlD": 0.0207636198598513,
-    "CbGpPWpGaD": 0.0940777411612469,
-    "CrCbGaD": 0.011888683621696473
+    "CbGaD": 0.8732699553572054,
+    "CbGeAlD": 0.020763619859851302,
+    "CbGpPWpGaD": 0.09407774116124691,
+    "CrCbGaD": 0.011888683621696474
   },
+  "n_trials": 0.0,
   "prediction": 0.0012014384113622802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

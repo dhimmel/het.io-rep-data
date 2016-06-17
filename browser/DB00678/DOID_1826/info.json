@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00678",
   "compound_name": "Losartan",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.553966189856957,
   "metapath_contribution": {
     "CbGaD": 0.21181202822327225,
     "CbGbCtD": 0.5305089910819476,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.16621607881964373,
     "CrCbGaD": 0.0029511927814902354
   },
+  "n_trials": 0.0,
   "prediction": 0.0037649711815797,
   "status": 0,
   "training_prediction": 0.0404654808192738

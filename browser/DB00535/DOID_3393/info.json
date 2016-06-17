@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00535",
   "compound_name": "Cefdinir",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.463589076723017,
   "metapath_contribution": {
     "CbGaD": 0.2974528560197039,
     "CbGbCtD": 0.5175024167267167,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14269043676272625,
     "CrCbGaD": 0.000987973199297845
   },
+  "n_trials": 0.0,
   "prediction": 0.00220655783293522,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

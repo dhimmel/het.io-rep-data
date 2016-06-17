@@ -1,14 +1,17 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1115",
   "disease_name": "sarcoma",
+  "disease_percentile": 0.32704811443433,
   "metapath_contribution": {
     "CbGbCtD": 0.8257970787017522,
     "CbGeAlD": 0.011220694248417798,
     "CbGpPWpGaD": 0.002523794182625716,
     "CcSEcCtD": 0.1604584328672042
   },
+  "n_trials": 0.0,
   "prediction": 0.0011342932284589401,
   "status": 0,
   "training_prediction": 0.0022896064743541896

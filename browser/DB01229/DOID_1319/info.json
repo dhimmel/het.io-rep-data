@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.864759427828348,
   "metapath_contribution": {
     "CbGaD": 0.3079544729804487,
     "CbGbCtD": 0.3999839603488514,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1518292064847279,
     "CrCbGaD": 0.0016648353281714702
   },
+  "n_trials": 3.0,
   "prediction": 0.00274355387059238,
   "status": 0,
   "training_prediction": 0.014134676434978

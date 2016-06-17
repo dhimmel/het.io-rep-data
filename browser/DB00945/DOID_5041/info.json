@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00945",
   "compound_name": "Acetylsalicylic acid",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.8738621586475942,
   "metapath_contribution": {
     "CbGaD": 0.6396311289545386,
     "CbGbCtD": 0.13845966087382913,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.017594630516770765,
     "CrCbGaD": 0.003069655414456221
   },
+  "n_trials": 4.0,
   "prediction": 0.00266359452024459,
   "status": 0,
   "training_prediction": 0.00537943003513536

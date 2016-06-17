@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00458",
   "compound_name": "Imipramine",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.413524057217165,
   "metapath_contribution": {
-    "CbGaD": 0.09262778070015489,
-    "CbGbCtD": 0.5815351179967976,
-    "CbGeAlD": 0.05321065656916227,
-    "CbGpPWpGaD": 0.07725235637459815,
-    "CcSEcCtD": 0.19053603964355806,
-    "CrCbGaD": 0.00483804871572903
+    "CbGaD": 0.0926277807001549,
+    "CbGbCtD": 0.5815351179967977,
+    "CbGeAlD": 0.053210656569162275,
+    "CbGpPWpGaD": 0.07725235637459817,
+    "CcSEcCtD": 0.19053603964355809,
+    "CrCbGaD": 0.004838048715729031
   },
+  "n_trials": 0.0,
   "prediction": 0.0015479307386487698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

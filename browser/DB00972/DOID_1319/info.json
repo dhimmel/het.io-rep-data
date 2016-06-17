@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00972",
   "compound_name": "Azelastine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.750325097529259,
   "metapath_contribution": {
     "CbGaD": 0.508626324463935,
     "CbGbCtD": 0.32236058609227886,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0741024943331179,
     "CrCbGaD": 0.0026528924892563104
   },
+  "n_trials": 0.0,
   "prediction": 0.00224426924424284,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

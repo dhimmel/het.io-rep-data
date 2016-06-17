@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00863",
   "compound_name": "Ranitidine",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.418725617685306,
   "metapath_contribution": {
     "CbGaD": 0.8043157078065966,
     "CbGeAlD": 0.0577685785390044,
     "CbGpPWpGaD": 0.13475866381497967,
     "CrCbGaD": 0.0031570498394192883
   },
+  "n_trials": 0.0,
   "prediction": 0.00138693786675283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

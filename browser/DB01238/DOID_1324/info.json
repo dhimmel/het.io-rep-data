@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01238",
   "compound_name": "Aripiprazole",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.550065019505852,
   "metapath_contribution": {
     "CbGaD": 0.08984716638260298,
     "CbGbCtD": 0.46430393390884656,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.13746741122967812,
     "CcSEcCtD": 0.2714774519038847
   },
+  "n_trials": 0.0,
   "prediction": 0.0020025053293317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

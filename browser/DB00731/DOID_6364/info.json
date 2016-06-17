@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00731",
   "compound_name": "Nateglinide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.32444733420026,
   "metapath_contribution": {
     "CbGbCtD": 0.845789390264484,
     "CbGeAlD": 0.00884098943619296,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12469395643519346,
     "CrCbGaD": 0.007135510232277351
   },
+  "n_trials": 0.0,
   "prediction": 0.0019608702609224898,
   "status": 0,
   "training_prediction": 0.0035810116830078203

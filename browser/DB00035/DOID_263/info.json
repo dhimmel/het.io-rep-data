@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.666449934980494,
   "metapath_contribution": {
     "CbGaD": 0.6210335869604323,
     "CbGeAlD": 0.11754751390726376,
     "CbGpPWpGaD": 0.05197126045569078,
     "CcSEcCtD": 0.20944763867661303
   },
+  "n_trials": 0.0,
   "prediction": 0.00233106176178905,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

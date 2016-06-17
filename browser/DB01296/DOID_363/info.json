@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01296",
   "compound_name": "Glucosamine",
+  "compound_percentile": 0.147058823529412,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.124837451235371,
   "metapath_contribution": {
     "CbGbCtD": 0.11417725090895976,
     "CbGeAlD": 0.332464610535782,
     "CbGpPWpGaD": 0.5349319975420673,
     "CrCbGaD": 0.0184261410131908
   },
+  "n_trials": 0.0,
   "prediction": 0.0009654498480966289,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

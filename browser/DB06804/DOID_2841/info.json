@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06804",
   "compound_name": "Nonoxynol-9",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.7444733420026008,
   "metapath_contribution": {
     "CbGaD": 0.6092645690189784,
     "CbGbCtD": 0.3133210272825819,
     "CbGdCrCtD": 0.007845116592903021,
     "CbGpPWpGaD": 0.06956928710553675
   },
+  "n_trials": 0.0,
   "prediction": 0.00404907177102733,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

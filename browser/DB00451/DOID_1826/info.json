@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.6501950585175551,
   "metapath_contribution": {
     "CbGaD": 0.3288221108042957,
     "CbGbCtD": 0.3998537542705757,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13191913470940309,
     "CrCbGaD": 0.0023534017460180266
   },
+  "n_trials": 0.0,
   "prediction": 0.00491059961579771,
   "status": 0,
   "training_prediction": 0.0236555304803313

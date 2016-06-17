@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00232",
   "compound_name": "Methyclothiazide",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.144343302990897,
   "metapath_contribution": {
     "CbGbCtD": 0.6589212366098433,
     "CbGeAlD": 0.03927954638507134,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1885462582630414,
     "CrCbGaD": 0.003912832689088925
   },
+  "n_trials": 0.0,
   "prediction": 0.00116578975266506,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00742",
   "compound_name": "Mannitol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.6690507152145639,
   "metapath_contribution": {
     "CbGaD": 0.28882781810211994,
     "CbGbCtD": 0.44396424652711863,
     "CbGpPWpGaD": 0.012645160611620125,
     "CcSEcCtD": 0.25456277475914124
   },
+  "n_trials": 1.0,
   "prediction": 0.00316748511319283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

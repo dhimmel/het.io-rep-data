@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06262",
   "compound_name": "Droxidopa",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.8569570871261379,
   "metapath_contribution": {
     "CbGaD": 0.7761902207741012,
     "CbGeAlD": 0.04561863453745564,
     "CbGpPWpGaD": 0.17053302414523686,
     "CrCbGaD": 0.007658120543206352
   },
+  "n_trials": 1.0,
   "prediction": 0.00235298265481173,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

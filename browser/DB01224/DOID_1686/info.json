@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGbCtD": 0.4428751130661182,
     "CbGeAlD": 0.0024554779804466047,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13188101087138426,
     "CpDpCtD": 0.38483778921117595
   },
+  "n_trials": 0.0,
   "prediction": 0.0043330567194195604,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

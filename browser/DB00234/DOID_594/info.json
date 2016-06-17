@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9278283485045509,
   "metapath_contribution": {
     "CbGaD": 0.8827011412213056,
     "CbGeAlD": 0.0538963787833768,
     "CbGpPWpGaD": 0.061782913699802,
     "CrCbGaD": 0.0016195662955154665
   },
+  "n_trials": 0.0,
   "prediction": 0.00284772936750472,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

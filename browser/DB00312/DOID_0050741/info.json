@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
-    "CbGaD": 0.4180206820445492,
-    "CbGbCtD": 0.36235104046796873,
-    "CbGeAlD": 0.05795913322051145,
-    "CbGpPWpGaD": 0.11352155112389009,
-    "CcSEcCtD": 0.042656703370208236,
-    "CrCbGaD": 0.005490889772872266
+    "CbGaD": 0.41802068204454923,
+    "CbGbCtD": 0.36235104046796884,
+    "CbGeAlD": 0.05795913322051146,
+    "CbGpPWpGaD": 0.11352155112389012,
+    "CcSEcCtD": 0.04265670337020824,
+    "CrCbGaD": 0.005490889772872267
   },
+  "n_trials": 0.0,
   "prediction": 0.0056735413758299,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

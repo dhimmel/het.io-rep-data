@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01033",
   "compound_name": "Mercaptopurine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGaD": 0.4749618121795694,
     "CbGbCtD": 0.2775184459703233,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09575357395457643,
     "CcSEcCtD": 0.12002400906695217
   },
+  "n_trials": 0.0,
   "prediction": 0.0059902240924962,
   "status": 0,
   "training_prediction": 0.0688853602072665

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.448634590377113,
   "metapath_contribution": {
     "CbGaD": 0.4478911889776762,
     "CbGbCtD": 0.4203463378151703,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1204231033532722,
     "CrCbGaD": 0.003810655617649515
   },
+  "n_trials": 0.0,
   "prediction": 0.0019533837897553,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

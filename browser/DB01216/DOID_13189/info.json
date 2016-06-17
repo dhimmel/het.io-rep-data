@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01216",
   "compound_name": "Finasteride",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.723667100130039,
   "metapath_contribution": {
     "CbGbCtD": 0.23020366074613088,
     "CbGpPWpGaD": 0.02594087715605088,
@@ -10,7 +12,7 @@
     "CrCbGaD": 9.970472281092609e-06,
     "CrCrCtD": 0.6460198018719142
   },
+  "n_trials": 0.0,
   "prediction": 0.00309263859618176,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00398",
   "compound_name": "Sorafenib",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9798439531859559,
   "metapath_contribution": {
     "CbGbCtD": 0.1922922862718553,
     "CbGeAlD": 0.04899238354383207,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.05755694641497114,
     "CtDrD": 0.5990335152149546
   },
+  "n_trials": 7.0,
   "prediction": 0.00675799194300011,
   "status": 0,
   "training_prediction": 0.0184050136718526

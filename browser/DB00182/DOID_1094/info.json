@@ -2,8 +2,10 @@
   "category": "SYM",
   "compound_id": "DB00182",
   "compound_name": "Amphetamine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.830299089726918,
   "metapath_contribution": {
     "CbGaD": 0.7840934959473057,
     "CbGeAlD": 0.0687083449833845,
@@ -11,6 +13,5 @@
     "CrCbGaD": 0.007667348113685361
   },
   "prediction": 0.00225759145467205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

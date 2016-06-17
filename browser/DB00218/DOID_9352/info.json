@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.11764705882352902,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.0318595578673602,
   "metapath_contribution": {
     "CbGdCrCtD": 0.011916944662490216,
     "CbGpPWpGaD": 0.024140230232475895,
     "CcSEcCtD": 0.9474885985826131,
     "CrCbGaD": 0.016454226522420796
   },
+  "n_trials": 4.0,
   "prediction": 0.000696167506142488,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

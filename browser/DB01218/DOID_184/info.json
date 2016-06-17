@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01218",
   "compound_name": "Halofantrine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.8784135240572171,
   "metapath_contribution": {
     "CbGaD": 0.9276192445743614,
     "CbGpPWpGaD": 0.006772625249516765,
     "CcSEcCtD": 0.055704484859301524,
     "CrCbGaD": 0.009903645316820298
   },
+  "n_trials": 0.0,
   "prediction": 0.0029886040665367698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

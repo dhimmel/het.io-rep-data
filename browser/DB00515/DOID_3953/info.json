@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00515",
   "compound_name": "Cisplatin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.9986996098829649,
   "metapath_contribution": {
     "CbGaD": 0.26203298279677384,
     "CbGeAlD": 0.03988796693068367,
     "CbGpPWpGaD": 0.03486522339773334,
     "CtDrD": 0.6632138268748091
   },
+  "n_trials": 4.0,
   "prediction": 0.00802726085534907,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00292",
   "compound_name": "Etomidate",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8686605981794541,
   "metapath_contribution": {
     "CbGaD": 0.7223261320565039,
     "CbGeAlD": 0.08832110340930481,
     "CbGpPWpGaD": 0.17893742715753863,
     "CrCbGaD": 0.01041533737665268
   },
+  "n_trials": 0.0,
   "prediction": 0.0027275855062383197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

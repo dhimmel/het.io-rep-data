@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00862",
   "compound_name": "Vardenafil",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7626788036410921,
   "metapath_contribution": {
     "CbGaD": 0.3426128843788101,
     "CbGbCtD": 0.3241467394922749,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17248079149325918,
     "CrCbGaD": 0.004207007810840124
   },
+  "n_trials": 0.0,
   "prediction": 0.0042422919553852705,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

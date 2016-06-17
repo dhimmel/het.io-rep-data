@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00212",
   "compound_name": "Remikiren",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.847854356306892,
   "metapath_contribution": {
     "CbGaD": 0.42783113059473493,
     "CbGbCtD": 0.37943983579565127,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08358529104020138,
     "CrCbGaD": 0.0020247080977291933
   },
+  "n_trials": 0.0,
   "prediction": 0.0128905695165761,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

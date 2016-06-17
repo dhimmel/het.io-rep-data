@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06772",
   "compound_name": "Cabazitaxel",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.09893099848670873,
     "CbGbCtD": 0.18564745782658873,
@@ -15,6 +17,7 @@
     "CrCrCtD": 0.12953496253234617,
     "CrCtD": 0.2238063612308231
   },
+  "n_trials": 0.0,
   "prediction": 0.243835165554159,
   "status": 0,
   "training_prediction": 0.641585907099689

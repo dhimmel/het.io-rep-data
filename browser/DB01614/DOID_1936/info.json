@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01614",
   "compound_name": "Acepromazine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.141742522756827,
   "metapath_contribution": {
     "CbGaD": 0.6728968751387842,
     "CbGbCtD": 0.008695082048689557,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.2735204801273799,
     "CrCbGaD": 0.018610662666611537
   },
+  "n_trials": 0.0,
   "prediction": 0.00100048570595277,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

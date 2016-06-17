@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01162",
   "compound_name": "Terazosin",
+  "compound_percentile": 0.544117647058823,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.693758127438232,
   "metapath_contribution": {
     "CbGaD": 0.6874609812576284,
     "CbGeAlD": 0.08743721124523893,
     "CbGpPWpGaD": 0.2166152226725598,
     "CrCbGaD": 0.00848658482457283
   },
+  "n_trials": 0.0,
   "prediction": 0.00182684963049215,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

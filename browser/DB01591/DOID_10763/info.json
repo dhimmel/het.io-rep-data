@@ -1,17 +1,19 @@
 {
   "compound_id": "DB01591",
   "compound_name": "Solifenacin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8979193758127441,
   "metapath_contribution": {
-    "CbGbCtD": 0.15772378070270932,
-    "CbGpPWpGaD": 0.05187959257766966,
-    "CcSEcCtD": 0.09297806719954493,
-    "CrCbGaD": 0.0006173522826243143,
-    "CrCrCtD": 0.2522018518601409,
-    "CrCtD": 0.444599355377311
+    "CbGbCtD": 0.15772378070270926,
+    "CbGpPWpGaD": 0.051879592577669636,
+    "CcSEcCtD": 0.0929780671995449,
+    "CrCbGaD": 0.0006173522826243141,
+    "CrCrCtD": 0.2522018518601408,
+    "CrCtD": 0.4445993553773108
   },
+  "n_trials": 0.0,
   "prediction": 0.0215676464624771,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

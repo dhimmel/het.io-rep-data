@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05294",
   "compound_name": "Vandetanib",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.293888166449935,
   "metapath_contribution": {
     "CbGaD": 0.4408261943936884,
     "CbGbCtD": 0.21367382415552155,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.11049792933586136,
     "CrCbGaD": 0.006642724531110658
   },
+  "n_trials": 0.0,
   "prediction": 0.0012911144606813,
   "status": 0,
   "training_prediction": 0.0041983809489652

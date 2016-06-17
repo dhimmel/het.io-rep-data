@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01394",
   "compound_name": "Colchicine",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.85630689206762,
   "metapath_contribution": {
     "CbGaD": 0.5993971447831409,
     "CbGbCtD": 0.24364486415681486,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0407848607323005,
     "CcSEcCtD": 0.1113016749827829
   },
+  "n_trials": 0.0,
   "prediction": 0.00266444329444567,
   "status": 0,
   "training_prediction": 0.008084829558938059

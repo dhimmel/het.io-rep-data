@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00154",
   "compound_name": "Dihomo-gamma-linolenic acid",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.42132639791937604,
   "metapath_contribution": {
     "CbGaD": 0.6617737257585491,
     "CbGbCtD": 0.2724980912555189,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.057493844457617724,
     "CrCbGaD": 0.00562741167529493
   },
+  "n_trials": 0.0,
   "prediction": 0.00159083166306886,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

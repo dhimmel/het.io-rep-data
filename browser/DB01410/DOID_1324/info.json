@@ -1,14 +1,17 @@
 {
   "compound_id": "DB01410",
   "compound_name": "Ciclesonide",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.258127438231469,
   "metapath_contribution": {
     "CbGbCtD": 0.6595083639314049,
     "CbGpPWpGaD": 0.11404146692765045,
     "CcSEcCtD": 0.22076256977592584,
     "CrCbGaD": 0.0056875993650187615
   },
+  "n_trials": 0.0,
   "prediction": 0.00116154077293331,
   "status": 0,
   "training_prediction": 0.0039731596487899605

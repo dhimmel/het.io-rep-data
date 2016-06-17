@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00190",
   "compound_name": "Carbidopa",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.883615084525358,
   "metapath_contribution": {
     "CbGbCtD": 0.18184275832945557,
     "CbGeAlD": 0.0006548605113191865,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.21109607402141425,
     "CrCtD": 0.30781813722883716
   },
+  "n_trials": 1.0,
   "prediction": 0.0171440564317289,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

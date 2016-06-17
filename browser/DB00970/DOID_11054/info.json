@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00970",
   "compound_name": "Dactinomycin",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.977243172951886,
   "metapath_contribution": {
     "CbGbCtD": 0.3539233426650079,
     "CbGdCrCtD": 0.0016822455539411162,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.08756044716333404,
     "CtDrD": 0.5470820460739864
   },
+  "n_trials": 0.0,
   "prediction": 0.0128303993460934,
   "status": 0,
   "training_prediction": 0.17180373089535098

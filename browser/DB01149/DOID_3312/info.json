@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.8237971391417429,
   "metapath_contribution": {
     "CbGaD": 0.8225149581960929,
     "CbGeAlD": 0.06450256352853548,
     "CbGpPWpGaD": 0.1049055082811338,
     "CrCbGaD": 0.008076969994237833
   },
+  "n_trials": 0.0,
   "prediction": 0.00213158591044916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

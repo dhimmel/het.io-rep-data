@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00784",
   "compound_name": "Mefenamic acid",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.03796497466600087,
     "CbGbCtD": 0.1718482346090622,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.14823262847661875,
     "CrCtD": 0.2703318216015552
   },
+  "n_trials": 0.0,
   "prediction": 0.0344150923101217,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.8075422626788041,
   "metapath_contribution": {
     "CbGaD": 0.8094400798926664,
     "CbGeAlD": 0.043199854794996516,
     "CbGpPWpGaD": 0.138316251189652,
     "CrCbGaD": 0.009043814122685035
   },
+  "n_trials": 0.0,
   "prediction": 0.00216092761067465,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.8966189856957092,
   "metapath_contribution": {
     "CbGbCtD": 0.5351321941951205,
     "CbGdCrCtD": 0.006023576924489734,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12132668369321603,
     "CcSEcCtD": 0.26476578502496606
   },
+  "n_trials": 2.0,
   "prediction": 0.00267945424551524,
   "status": 0,
   "training_prediction": 0.00541137280213334

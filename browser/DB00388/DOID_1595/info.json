@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00388",
   "compound_name": "Phenylephrine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.873211963589077,
   "metapath_contribution": {
     "CbGaD": 0.8622452537642187,
     "CbGeAlD": 0.041094850211088885,
     "CbGpPWpGaD": 0.09402063019066623,
     "CrCbGaD": 0.002639265834026173
   },
+  "n_trials": 0.0,
   "prediction": 0.00240044259252258,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

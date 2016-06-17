@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00477",
   "compound_name": "Chlorpromazine",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.0474642392717815,
   "metapath_contribution": {
     "CbGaD": 0.12687116997238107,
     "CbGbCtD": 0.5286115485101548,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12027634575744078,
     "CrCbGaD": 0.00402288189015386
   },
+  "n_trials": 0.0,
   "prediction": 0.000770389468751578,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

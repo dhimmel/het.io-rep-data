@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8211963589076721,
   "metapath_contribution": {
     "CbGaD": 0.24005002912963444,
     "CbGbCtD": 0.32691086030334754,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.002213146777313988,
     "CrCrCtD": 0.22788196098594662
   },
+  "n_trials": 1.0,
   "prediction": 0.0109363774581451,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

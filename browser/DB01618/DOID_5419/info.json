@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01618",
   "compound_name": "Molindone",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGaD": 0.7982503733622054,
     "CbGeAlD": 0.0779595125935141,
     "CbGpPWpGaD": 0.1237901140442805
   },
+  "n_trials": 1.0,
   "prediction": 0.00599300995937271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

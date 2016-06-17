@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00683",
   "compound_name": "Midazolam",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.45968790637191204,
   "metapath_contribution": {
     "CbGaD": 0.20799957040892467,
     "CbGbCtD": 0.5532985932557614,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2029164015999714,
     "CrCbGaD": 0.0010345439783025338
   },
+  "n_trials": 1.0,
   "prediction": 0.0019777732337462398,
   "status": 0,
   "training_prediction": 0.0067518041739142

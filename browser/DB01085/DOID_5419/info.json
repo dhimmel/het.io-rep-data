@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01085",
   "compound_name": "Pilocarpine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
     "CbGaD": 0.8288355705497837,
     "CbGeAlD": 0.02869593842936494,
     "CbGpPWpGaD": 0.14246849102085135
   },
+  "n_trials": 0.0,
   "prediction": 0.00333548194256121,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

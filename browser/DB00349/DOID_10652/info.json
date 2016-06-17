@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00349",
   "compound_name": "Clobazam",
+  "compound_percentile": 0.595588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.18595578673602103,
   "metapath_contribution": {
     "CbGbCtD": 0.4483952748078158,
     "CbGeAlD": 0.11812257315404018,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.27444134065236764,
     "CrCbGaD": 0.005231452399335556
   },
+  "n_trials": 0.0,
   "prediction": 0.000994702098771772,
   "status": 0,
   "training_prediction": 0.00120749182699237

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00518",
   "compound_name": "Albendazole",
+  "compound_percentile": 0.691176470588235,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.38751625487646296,
   "metapath_contribution": {
     "CbGbCtD": 0.8587144274549372,
     "CbGdCrCtD": 0.006329089686181388,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.010863788215124846,
     "CcSEcCtD": 0.11975272779961245
   },
+  "n_trials": 0.0,
   "prediction": 0.00148261484883776,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00468",
   "compound_name": "Quinine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8881664499349811,
   "metapath_contribution": {
     "CbGaD": 0.7734540257272235,
     "CbGeAlD": 0.07004839405685644,
     "CbGpPWpGaD": 0.1504797679984603,
     "CrCbGaD": 0.00601781221745973
   },
+  "n_trials": 0.0,
   "prediction": 0.00318543734006283,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00754",
   "compound_name": "Ethotoin",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.330949284785436,
   "metapath_contribution": {
     "CbGaD": 0.3040128670904839,
     "CbGbCtD": 0.31470718550040777,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.1626587891713502,
     "CrCbGaD": 0.00561295246313993
   },
+  "n_trials": 0.0,
   "prediction": 0.00171812031863123,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

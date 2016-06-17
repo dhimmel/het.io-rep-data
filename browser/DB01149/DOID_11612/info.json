@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01149",
   "compound_name": "Nefazodone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.624187256176853,
   "metapath_contribution": {
     "CbGaD": 0.8299482565343845,
     "CbGeAlD": 0.008866805736072979,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.03318377825816425,
     "CrCbGaD": 0.005040526062574971
   },
+  "n_trials": 0.0,
   "prediction": 0.0016497986068058099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

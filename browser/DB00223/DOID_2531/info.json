@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00223",
   "compound_name": "Diflorasone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.903120936280884,
   "metapath_contribution": {
     "CbGaD": 0.1531047265624789,
     "CbGbCtD": 0.13535048223195717,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.2666983670835962,
     "CrCtD": 0.3664309965909462
   },
+  "n_trials": 0.0,
   "prediction": 0.0088439116680505,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

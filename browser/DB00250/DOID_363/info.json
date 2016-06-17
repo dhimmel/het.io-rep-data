@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.541612483745123,
   "metapath_contribution": {
     "CbGbCtD": 0.8390302541038804,
     "CbGeAlD": 0.049280156958698036,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.040284236640965705,
     "CrCbGaD": 0.0014713926925624865
   },
+  "n_trials": 0.0,
   "prediction": 0.00175424543358805,
   "status": 0,
   "training_prediction": 0.007248003650617159

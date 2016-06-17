@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06711",
   "compound_name": "Naphazoline",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.5091027308192461,
   "metapath_contribution": {
     "CbGaD": 0.4302794676318107,
     "CbGbCtD": 0.3727346246218846,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09970078538770206,
     "CrCbGaD": 0.004530356276594155
   },
+  "n_trials": 0.0,
   "prediction": 0.00254178778070392,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

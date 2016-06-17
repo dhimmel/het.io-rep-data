@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00812",
   "compound_name": "Phenylbutazone",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.41677503250975295,
   "metapath_contribution": {
     "CbGbCtD": 0.4930388317065459,
     "CbGeAlD": 0.012852701949016105,
     "CrCbGaD": 0.005649573420483001,
     "CrCrCtD": 0.48845889292395506
   },
+  "n_trials": 0.0,
   "prediction": 0.00221743630101648,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

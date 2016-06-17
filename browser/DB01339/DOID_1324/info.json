@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01339",
   "compound_name": "Vecuronium",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7529258777633292,
   "metapath_contribution": {
     "CbGaD": 0.290243099017557,
     "CbGbCtD": 0.34196619000395345,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1891119750607368,
     "CcSEcCtD": 0.14037842406939155
   },
+  "n_trials": 0.0,
   "prediction": 0.00292316762182418,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

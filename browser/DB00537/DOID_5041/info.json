@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00537",
   "compound_name": "Ciprofloxacin",
+  "compound_percentile": 0.19852941176470604,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.168400520156047,
   "metapath_contribution": {
     "CbGaD": 0.5423112742295613,
     "CbGpPWpGaD": 0.12908795055884753,
     "CcSEcCtD": 0.32074716567282785,
     "CrCbGaD": 0.007853609538763358
   },
+  "n_trials": 0.0,
   "prediction": 0.0008615954737506519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

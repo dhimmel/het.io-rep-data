@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01262",
   "compound_name": "Decitabine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.9746423927178149,
   "metapath_contribution": {
     "CbGaD": 0.18609651922319392,
     "CbGbCtD": 0.04627693746854617,
@@ -15,7 +17,7 @@
     "CrCrCtD": 0.12190294543861728,
     "CrCtD": 0.213102680319996
   },
+  "n_trials": 2.0,
   "prediction": 0.0273899657971711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

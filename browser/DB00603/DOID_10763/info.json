@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00603",
   "compound_name": "Medroxyprogesterone Acetate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.877113133940182,
   "metapath_contribution": {
     "CbGaD": 0.19766571442055506,
     "CbGbCtD": 0.16813002632279425,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.18315291661584188,
     "CrCtD": 0.29438569592749875
   },
+  "n_trials": 1.0,
   "prediction": 0.0159028423974885,
   "status": 0,
   "training_prediction": 0.161987838791519

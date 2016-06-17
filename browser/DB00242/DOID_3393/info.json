@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00242",
   "compound_name": "Cladribine",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.12288686605981801,
   "metapath_contribution": {
     "CbGbCtD": 0.33916155705641554,
     "CbGdCrCtD": 0.009031903015605997,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.36204045676171115,
     "CrCbGaD": 0.0033498818911082613
   },
+  "n_trials": 0.0,
   "prediction": 0.000998924053919826,
   "status": 0,
   "training_prediction": 0.00892160065715718

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.8426527958387521,
   "metapath_contribution": {
     "CbGbCtD": 0.8258993100971006,
     "CbGeAlD": 0.03613124412204552,
     "CbGpPWpGaD": 0.03205976958577579,
     "CcSEcCtD": 0.10590967619507809
   },
+  "n_trials": 0.0,
   "prediction": 0.00249624212632068,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00726",
   "compound_name": "Trimipramine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.897269180754226,
   "metapath_contribution": {
     "CbGaD": 0.8142270183681063,
     "CbGeAlD": 0.07624303363107006,
     "CbGpPWpGaD": 0.10244631551073514,
     "CrCbGaD": 0.007083632490088459
   },
+  "n_trials": 0.0,
   "prediction": 0.00259818146782678,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

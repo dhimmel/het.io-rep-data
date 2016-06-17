@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00424",
   "compound_name": "Hyoscyamine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.654746423927178,
   "metapath_contribution": {
     "CbGaD": 0.8270379626778103,
     "CbGeAlD": 0.010465810552243488,
     "CbGpPWpGaD": 0.15116566011265656,
     "CrCbGaD": 0.011330566657289695
   },
+  "n_trials": 0.0,
   "prediction": 0.00194010890488882,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

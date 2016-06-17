@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00914",
   "compound_name": "Phenformin",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.832249674902471,
   "metapath_contribution": {
     "CbGaD": 0.809534570630716,
     "CbGeAlD": 0.05059292191678693,
     "CbGpPWpGaD": 0.13822314786099824,
     "CrCbGaD": 0.0016493595914988284
   },
+  "n_trials": 0.0,
   "prediction": 0.00263976997174813,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

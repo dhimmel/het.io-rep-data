@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00497",
   "compound_name": "Oxycodone",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.308842652795839,
   "metapath_contribution": {
     "CbGbCtD": 0.568926092300027,
     "CbGpPWpGaD": 0.06329809300463227,
     "CcSEcCtD": 0.36731223161668153,
     "CrCbGaD": 0.0004635830786593063
   },
+  "n_trials": 0.0,
   "prediction": 0.00107655258016911,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

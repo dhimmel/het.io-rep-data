@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.399869960988296,
   "metapath_contribution": {
     "CbGbCtD": 0.594914425169826,
     "CbGdCrCtD": 0.008355130370762753,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.061636037098725026,
     "CcSEcCtD": 0.2383818900973518
   },
+  "n_trials": 0.0,
   "prediction": 0.00183000531721857,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6898569570871259,
   "metapath_contribution": {
     "CbGaD": 0.5407347653405555,
     "CbGbCtD": 0.35680531365203366,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.054723806852962194,
     "CrCbGaD": 0.0032325864931999296
   },
+  "n_trials": 0.0,
   "prediction": 0.00207342199326766,
   "status": 0,
   "training_prediction": 0.00295791316546764

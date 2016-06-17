@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7815344603381009,
   "metapath_contribution": {
     "CbGaD": 0.24600589272851792,
     "CbGbCtD": 0.4891597976383334,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.20305648724056194,
     "CrCbGaD": 0.0026293792346118636
   },
+  "n_trials": 0.0,
   "prediction": 0.00305171417282245,
   "status": 0,
   "training_prediction": 0.00370291518020059

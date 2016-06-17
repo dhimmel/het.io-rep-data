@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.6788036410923279,
   "metapath_contribution": {
     "CbGaD": 0.3899740845310088,
     "CbGbCtD": 0.34578146462740883,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12620227911819207,
     "CrCbGaD": 0.00307580070782287
   },
+  "n_trials": 0.0,
   "prediction": 0.0020158330878039103,
   "status": 0,
   "training_prediction": 0.0036812192701694796

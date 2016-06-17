@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00451",
   "compound_name": "Levothyroxine",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.7262678803641089,
   "metapath_contribution": {
     "CbGbCtD": 0.7873726139685365,
     "CbGdCrCtD": 0.006318438422400293,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.03231326968804827,
     "CcSEcCtD": 0.152081656309869
   },
+  "n_trials": 0.0,
   "prediction": 0.00257854030310603,
   "status": 0,
   "training_prediction": 0.010887599824485

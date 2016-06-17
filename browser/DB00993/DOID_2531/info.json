@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.9876462938881659,
   "metapath_contribution": {
     "CbGaD": 0.09035052860698838,
     "CbGbCtD": 0.23101039360588826,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0014023937606315866,
     "CrCrCtD": 0.20066815160041482
   },
+  "n_trials": 1.0,
   "prediction": 0.0889323534627738,
   "status": 0,
   "training_prediction": 0.7777656922552858

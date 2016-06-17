@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00961",
   "compound_name": "Mepivacaine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.5988296488946679,
   "metapath_contribution": {
     "CbGaD": 0.7833288881863891,
     "CbGpPWpGaD": 0.17349729067033942,
     "CcSEcCtD": 0.03368242462705957,
     "CrCbGaD": 0.009491396516211816
   },
+  "n_trials": 0.0,
   "prediction": 0.00167239834448869,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

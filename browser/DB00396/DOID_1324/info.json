@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.598179453836151,
   "metapath_contribution": {
     "CbGaD": 0.2963720162475644,
     "CbGbCtD": 0.45697624588160457,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.12911359576254083,
     "CrCbGaD": 0.001630225495686971
   },
+  "n_trials": 0.0,
   "prediction": 0.00215651810067348,
   "status": 0,
   "training_prediction": 0.00735882945775805

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00897",
   "compound_name": "Triazolam",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.35630689206762,
   "metapath_contribution": {
     "CbGbCtD": 0.5791566840861411,
     "CbGeAlD": 0.09462152605067445,
     "CbGpPWpGaD": 0.03214059847605188,
     "CcSEcCtD": 0.2940811913871327
   },
+  "n_trials": 0.0,
   "prediction": 0.00120419727025848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

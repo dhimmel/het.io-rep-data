@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.923276983094928,
   "metapath_contribution": {
     "CbGaD": 0.2907691082235469,
     "CbGbCtD": 0.32875495695272344,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0006113170665467051,
     "CrCrCtD": 0.20572977620366603
   },
+  "n_trials": 0.0,
   "prediction": 0.00998620883099151,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

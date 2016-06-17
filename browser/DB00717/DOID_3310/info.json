@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00717",
   "compound_name": "Norethindrone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGbCtD": 0.28918934775338484,
     "CcSEcCtD": 0.06125817468108028,
     "CrCrCtD": 0.2863316614966602,
     "CrCtD": 0.36322081606887463
   },
+  "n_trials": 0.0,
   "prediction": 0.00537721565476981,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

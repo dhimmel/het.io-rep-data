@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGbCtD": 0.15363404638726394,
     "CcSEcCtD": 0.021347426012091865,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.25972258495165007,
     "CrCtD": 0.3771576341740711
   },
+  "n_trials": 0.0,
   "prediction": 0.0149663330432282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

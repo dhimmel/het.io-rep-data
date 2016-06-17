@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01023",
   "compound_name": "Felodipine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.34200260078023403,
   "metapath_contribution": {
     "CbGbCtD": 0.6728908338218305,
     "CbGeAlD": 0.08621283766864006,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1052619606550729,
     "CrCbGaD": 3.6131672615800474e-06
   },
+  "n_trials": 0.0,
   "prediction": 0.0015098487677482901,
   "status": 0,
   "training_prediction": 0.00386964605329174

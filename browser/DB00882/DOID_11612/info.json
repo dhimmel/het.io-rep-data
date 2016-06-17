@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00882",
   "compound_name": "Clomifene",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.8289986996098829,
   "metapath_contribution": {
     "CbGaD": 0.7743790717437157,
     "CbGeAlD": 0.11476310041971924,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.004062397895528266,
     "CrCbGaD": 0.0032609759573951048
   },
+  "n_trials": 53.0,
   "prediction": 0.0022236929354797603,
   "status": 0,
   "training_prediction": 0.0010029198704641698

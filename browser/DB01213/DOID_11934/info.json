@@ -1,16 +1,18 @@
 {
   "compound_id": "DB01213",
   "compound_name": "Fomepizole",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9096228868660601,
   "metapath_contribution": {
-    "CbGbCtD": 0.09405612412627225,
-    "CbGdCrCtD": 0.021029520063602463,
+    "CbGbCtD": 0.09405612412627223,
+    "CbGdCrCtD": 0.02102952006360246,
     "CbGeAlD": 0.30322019780808535,
-    "CbGpPWpGaD": 0.470060623576235,
-    "CcSEcCtD": 0.11163353442580494
+    "CbGpPWpGaD": 0.47006062357623496,
+    "CcSEcCtD": 0.11163353442580491
   },
+  "n_trials": 0.0,
   "prediction": 0.00276501712207677,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

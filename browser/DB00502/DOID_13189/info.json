@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.421976592977893,
   "metapath_contribution": {
     "CbGbCtD": 0.7691936431101141,
     "CbGdCrCtD": 0.001242843865459778,
     "CcSEcCtD": 0.22480861790891082,
     "CrCbGaD": 0.004754895115515341
   },
+  "n_trials": 0.0,
   "prediction": 0.00196849271478347,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

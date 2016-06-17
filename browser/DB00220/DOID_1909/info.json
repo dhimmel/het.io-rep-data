@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00220",
   "compound_name": "Nelfinavir",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.8699609882964889,
   "metapath_contribution": {
     "CbGaD": 0.16849215388351704,
     "CbGbCtD": 0.6397688150139849,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.13377047268697093,
     "CrCbGaD": 0.0027935687368669613
   },
+  "n_trials": 0.0,
   "prediction": 0.0026503044957026604,
   "status": 0,
   "training_prediction": 0.0048373203169994

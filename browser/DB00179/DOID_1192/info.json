@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00179",
   "compound_name": "Masoprocol",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.456436931079324,
   "metapath_contribution": {
     "CbGdCrCtD": 0.010824011603518192,
     "CbGpPWpGaD": 0.13653234820186272,
     "CrCrCtD": 0.8526436401946191
   },
+  "n_trials": 0.0,
   "prediction": 0.00162195628458902,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

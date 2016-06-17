@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGbCtD": 0.4282630324164687,
     "CbGdCrCtD": 0.0009354059524867866,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0009379871683361676,
     "CrCrCtD": 0.4038070723123581
   },
+  "n_trials": 0.0,
   "prediction": 0.0038284102340626898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

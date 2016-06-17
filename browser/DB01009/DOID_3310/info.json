@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01009",
   "compound_name": "Ketoprofen",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.922626788036411,
   "metapath_contribution": {
     "CbGaD": 0.22637587444677473,
     "CbGbCtD": 0.1889547029870393,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.27701373883734515,
     "CrCrCtD": 0.20725648555294138
   },
+  "n_trials": 0.0,
   "prediction": 0.00734798314035167,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

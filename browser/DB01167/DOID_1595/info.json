@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01167",
   "compound_name": "Itraconazole",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGaD": 0.9112584713803777,
     "CbGeAlD": 0.013267961663171613,
     "CbGpPWpGaD": 0.07419624260028175,
     "CrCbGaD": 0.0012773243561688544
   },
+  "n_trials": 0.0,
   "prediction": 0.00161033299773848,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

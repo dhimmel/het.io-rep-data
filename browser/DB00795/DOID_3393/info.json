@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.694408322496749,
   "metapath_contribution": {
     "CbGaD": 0.36492214265880335,
     "CbGbCtD": 0.4873399517456877,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12060147833095963,
     "CrCbGaD": 0.0016074475931833448
   },
+  "n_trials": 1.0,
   "prediction": 0.0034474607714734397,
   "status": 0,
   "training_prediction": 0.0505448688634001

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00302",
   "compound_name": "Tranexamic Acid",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.8777633289986999,
   "metapath_contribution": {
     "CbGaD": 0.38036287607821356,
     "CbGbCtD": 0.35824262987854966,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0901626845588492,
     "CcSEcCtD": 0.12833157451506957
   },
+  "n_trials": 0.0,
   "prediction": 0.0159139786054711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

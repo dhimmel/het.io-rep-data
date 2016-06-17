@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00390",
   "compound_name": "Digoxin",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.099479843953186,
   "metapath_contribution": {
     "CbGbCtD": 0.7997223261635998,
     "CbGeAlD": 0.012979567731238113,
     "CbGpPWpGaD": 0.04677306519392628,
     "CcSEcCtD": 0.14052504091123585
   },
+  "n_trials": 0.0,
   "prediction": 0.00121177682504693,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

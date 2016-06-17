@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00543",
   "compound_name": "Amoxapine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.916775032509753,
   "metapath_contribution": {
     "CbGaD": 0.4407204528801127,
     "CbGbCtD": 0.3384075592889721,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09436696556479163,
     "CrCbGaD": 0.003583465836381608
   },
+  "n_trials": 0.0,
   "prediction": 0.011153925413796001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

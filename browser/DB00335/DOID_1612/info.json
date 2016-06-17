@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00335",
   "compound_name": "Atenolol",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.38296488946684004,
   "metapath_contribution": {
     "CbGaD": 0.1904433512851193,
     "CbGbCtD": 0.25592599404593025,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004771880061566028,
     "CrCrCtD": 0.31866346071857127
   },
+  "n_trials": 0.0,
   "prediction": 0.0019346134112840899,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

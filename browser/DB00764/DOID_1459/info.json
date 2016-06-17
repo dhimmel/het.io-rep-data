@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00764",
   "compound_name": "Mometasone",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:1459",
   "disease_name": "hypothyroidism",
+  "disease_percentile": 0.14369310793238002,
   "metapath_contribution": {
     "CbGbCtD": 0.8349622593151226,
     "CbGeAlD": 0.03347305725739897,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.11250035206422895,
     "CrCbGaD": 0.0026038950801693327
   },
+  "n_trials": 0.0,
   "prediction": 0.00105664221482364,
   "status": 0,
   "training_prediction": 0.0029064591241161303

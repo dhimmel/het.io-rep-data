@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01087",
   "compound_name": "Primaquine",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.6501950585175551,
   "metapath_contribution": {
     "CbGbCtD": 0.8228004718225903,
     "CbGeAlD": 0.07350433821657656,
     "CbGpPWpGaD": 0.09792983335745642,
     "CrCbGaD": 0.005765356603376753
   },
+  "n_trials": 0.0,
   "prediction": 0.0017280744386924,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

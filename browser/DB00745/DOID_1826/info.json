@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.953185955786736,
   "metapath_contribution": {
     "CbGaD": 0.05656054779406221,
     "CbGbCtD": 0.17014986267588716,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.18122925401436707,
     "CrCtD": 0.3125577339200278
   },
+  "n_trials": 0.0,
   "prediction": 0.050289037865634004,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

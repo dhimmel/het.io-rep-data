@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00120",
   "compound_name": "L-Phenylalanine",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.328348504551365,
   "metapath_contribution": {
     "CbGeAlD": 0.06044047794979616,
     "CbGpPWpGaD": 0.1035694827855662,
     "CrCbGaD": 0.006009678323195541,
     "CrCrCtD": 0.829980360941442
   },
+  "n_trials": 0.0,
   "prediction": 0.0013989368776782,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00583",
   "compound_name": "L-Carnitine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.20589773611819606,
     "CbGbCtD": 0.47894914637888913,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.13919326011371158,
     "CrCbGaD": 0.0030610265875152622
   },
+  "n_trials": 1.0,
   "prediction": 0.00498171338604455,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00316",
   "compound_name": "Acetaminophen",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9726918075422629,
   "metapath_contribution": {
     "CbGaD": 0.22631044836320321,
     "CbGbCtD": 0.2945336064730005,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.27166938537868035,
     "CrCrCtD": 0.10883809803581286
   },
+  "n_trials": 2.0,
   "prediction": 0.0160393824787037,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

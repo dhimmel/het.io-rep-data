@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01403",
   "compound_name": "Methotrimeprazine",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.22431729518855703,
   "metapath_contribution": {
     "CbGaD": 0.496479858943278,
     "CbGbCtD": 0.07350803370498472,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.19375830216770837,
     "CrCbGaD": 0.0033451055468990266
   },
+  "n_trials": 0.0,
   "prediction": 0.00108597011615715,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

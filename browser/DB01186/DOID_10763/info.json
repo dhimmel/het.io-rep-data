@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGaD": 0.25045043717163007,
     "CbGbCtD": 0.2988855278279739,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.2594153502562557,
     "CrCbGaD": 0.002322213161000304
   },
+  "n_trials": 0.0,
   "prediction": 0.0182877678149638,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

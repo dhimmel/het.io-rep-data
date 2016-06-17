@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00490",
   "compound_name": "Buspirone",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.8725617685305591,
   "metapath_contribution": {
     "CbGbCtD": 0.618899268128548,
     "CbGeAlD": 0.07472421916380279,
     "CbGpPWpGaD": 0.07223403203921595,
     "CcSEcCtD": 0.23414248066843318
   },
+  "n_trials": 0.0,
   "prediction": 0.0035856398706666896,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

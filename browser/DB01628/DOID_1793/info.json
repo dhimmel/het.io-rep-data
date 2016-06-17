@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01628",
   "compound_name": "Etoricoxib",
+  "compound_percentile": 0.757352941176471,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.6079323797139139,
   "metapath_contribution": {
     "CbGaD": 0.299708866599265,
     "CbGbCtD": 0.4020957560330548,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.19890600333499858,
     "CrCbGaD": 0.006950338063481675
   },
+  "n_trials": 0.0,
   "prediction": 0.00203655490261378,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

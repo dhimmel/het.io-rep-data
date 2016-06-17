@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00312",
   "compound_name": "Pentobarbital",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.655396618985696,
   "metapath_contribution": {
     "CbGaD": 0.4648512157957512,
     "CbGbCtD": 0.3336434278199661,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1009948940904077,
     "CrCbGaD": 0.002288883214265154
   },
+  "n_trials": 0.0,
   "prediction": 0.00316530444298481,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

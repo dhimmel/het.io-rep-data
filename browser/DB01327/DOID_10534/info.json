@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.55591677503251,
   "metapath_contribution": {
     "CbGaD": 0.26358818908961773,
     "CbGbCtD": 0.4743211433782067,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16141143338350852,
     "CrCbGaD": 0.002041371974415446
   },
+  "n_trials": 0.0,
   "prediction": 0.00168310215618584,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

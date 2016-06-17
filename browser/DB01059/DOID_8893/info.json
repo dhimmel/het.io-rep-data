@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.532509752925878,
   "metapath_contribution": {
     "CbGbCtD": 0.7560057924163949,
     "CbGdCrCtD": 0.0013365241084422304,
     "CbGpPWpGaD": 0.019730118931087864,
     "CcSEcCtD": 0.22292756454407506
   },
+  "n_trials": 0.0,
   "prediction": 0.00195459863128111,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01076",
   "compound_name": "Atorvastatin",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.5747724317295191,
   "metapath_contribution": {
     "CbGaD": 0.49822910362546236,
     "CbGbCtD": 0.3990422006715966,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0599194645837394,
     "CrCbGaD": 0.004129144702920635
   },
+  "n_trials": 0.0,
   "prediction": 0.00173775172921856,
   "status": 0,
   "training_prediction": 0.00528291733637646

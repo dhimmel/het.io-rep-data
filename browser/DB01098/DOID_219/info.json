@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01098",
   "compound_name": "Rosuvastatin",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.47594278283485,
   "metapath_contribution": {
     "CbGbCtD": 0.8452680311452482,
     "CbGeAlD": 0.06286103641664322,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.06761733664836066,
     "CrCbGaD": 0.0006907853416337562
   },
+  "n_trials": 0.0,
   "prediction": 0.00150281785686297,
   "status": 0,
   "training_prediction": 0.00357155336897923

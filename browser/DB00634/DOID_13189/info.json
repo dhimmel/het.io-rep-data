@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00634",
   "compound_name": "Sulfacetamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:13189",
   "disease_name": "gout",
+  "disease_percentile": 0.915474642392718,
   "metapath_contribution": {
     "CcSEcCtD": 0.04580244225317931,
     "CrCbGaD": 0.0030924777338303304,
     "CrCrCtD": 0.329309940783051,
     "CrCtD": 0.6217951392299393
   },
+  "n_trials": 0.0,
   "prediction": 0.00740343273894644,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

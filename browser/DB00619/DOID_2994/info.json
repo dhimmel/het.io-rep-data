@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00619",
   "compound_name": "Imatinib",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.3870721232337463,
     "CbGbCtD": 0.32687220500297665,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11924933306582629,
     "CrCbGaD": 0.004865808649983127
   },
+  "n_trials": 0.0,
   "prediction": 0.00275964665751372,
   "status": 0,
   "training_prediction": 0.00503643535572486

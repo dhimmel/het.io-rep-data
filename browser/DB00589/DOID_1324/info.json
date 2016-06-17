@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00589",
   "compound_name": "Lisuride",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.391417425227568,
   "metapath_contribution": {
     "CbGbCtD": 0.36968482259622387,
     "CbGeAlD": 0.021486171489858246,
     "CbGpPWpGaD": 0.26334617264412635,
     "CcSEcCtD": 0.34548283326979157
   },
+  "n_trials": 0.0,
   "prediction": 0.00150088398575681,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

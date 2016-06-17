@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.874512353706112,
   "metapath_contribution": {
     "CbGaD": 0.3853440104473072,
     "CbGbCtD": 0.4492791951507562,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.10287710388483842,
     "CrCbGaD": 0.0005530021845110498
   },
+  "n_trials": 0.0,
   "prediction": 0.00502338545576173,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

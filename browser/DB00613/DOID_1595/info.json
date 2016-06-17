@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00613",
   "compound_name": "Amodiaquine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.5721716514954489,
   "metapath_contribution": {
     "CbGaD": 0.8728741736303414,
     "CbGeAlD": 0.05331782887640602,
     "CbGpPWpGaD": 0.06814355346437607,
     "CrCbGaD": 0.005664444028876576
   },
+  "n_trials": 0.0,
   "prediction": 0.00163760363561601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

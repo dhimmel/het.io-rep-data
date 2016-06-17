@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00979",
   "compound_name": "Cyclopentolate",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGbCtD": 0.25343736094602726,
     "CbGpPWpGaD": 0.006078157821948083,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2667533130791243,
     "CrCtD": 0.43575826072426815
   },
+  "n_trials": 0.0,
   "prediction": 0.0359463728238298,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.44408322496749,
   "metapath_contribution": {
     "CbGaD": 0.5048361065992363,
     "CbGbCtD": 0.2729253749042586,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.0315302884955917,
     "CrCbGaD": 0.004241064122131752
   },
+  "n_trials": 0.0,
   "prediction": 0.00208600489205645,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

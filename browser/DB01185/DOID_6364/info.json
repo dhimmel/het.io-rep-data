@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01185",
   "compound_name": "Fluoxymesterone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.144343302990897,
   "metapath_contribution": {
     "CbGaD": 0.8320011041932452,
     "CbGeAlD": 0.017699419517521783,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.08303830935594092,
     "CrCbGaD": 0.007809641640216767
   },
+  "n_trials": 0.0,
   "prediction": 0.0013717318121139802,
   "status": 0,
   "training_prediction": 0.00250632828825265

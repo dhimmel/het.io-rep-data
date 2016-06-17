@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00624",
   "compound_name": "Testosterone",
+  "compound_percentile": 0.264705882352941,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.017555266579974,
   "metapath_contribution": {
     "CbGbCtD": 0.7455908379041372,
     "CbGeAlD": 0.21467002684216008,
     "CcSEcCtD": 0.03973913525370292
   },
+  "n_trials": 1.0,
   "prediction": 0.0006152224202836759,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

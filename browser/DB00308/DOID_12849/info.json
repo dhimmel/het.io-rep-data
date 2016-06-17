@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00308",
   "compound_name": "Ibutilide",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.6979080882932569,
     "CbGeAlD": 0.12028573077325773,
     "CbGpPWpGaD": 0.1775405076832895,
     "CrCbGaD": 0.00426567325019589
   },
+  "n_trials": 0.0,
   "prediction": 0.00309441457312916,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

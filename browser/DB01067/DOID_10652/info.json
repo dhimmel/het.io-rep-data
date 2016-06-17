@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01067",
   "compound_name": "Glipizide",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.536410923276983,
   "metapath_contribution": {
     "CbGaD": 0.5031974193460916,
     "CbGbCtD": 0.26295008896740174,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.16623429379096533,
     "CrCbGaD": 0.0030381053706385725
   },
+  "n_trials": 0.0,
   "prediction": 0.0019572251231102,
   "status": 0,
   "training_prediction": 0.00237543113085982

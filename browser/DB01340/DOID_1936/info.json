@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.7925877763329001,
   "metapath_contribution": {
     "CbGaD": 0.538778419408542,
     "CbGbCtD": 0.18062143215117804,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17299044460852328,
     "CrCbGaD": 0.006336757759985992
   },
+  "n_trials": 0.0,
   "prediction": 0.00290315894663792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGaD": 0.7541620242621009,
     "CbGeAlD": 0.08209598661418703,
     "CbGpPWpGaD": 0.15886894562782164,
     "CrCbGaD": 0.004873043495890491
   },
+  "n_trials": 0.0,
   "prediction": 0.00288172389983317,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

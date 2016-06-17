@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.667750325097529,
   "metapath_contribution": {
     "CbGaD": 0.19125690669506812,
     "CbGbCtD": 0.4746519992360587,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.1258848413557007,
     "CcSEcCtD": 0.16333439542391207
   },
+  "n_trials": 1.0,
   "prediction": 0.0032824372331835103,
   "status": 0,
   "training_prediction": 0.0309277508583822

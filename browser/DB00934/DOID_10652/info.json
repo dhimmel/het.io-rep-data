@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00934",
   "compound_name": "Maprotiline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6892067620286091,
   "metapath_contribution": {
     "CbGaD": 0.3259508351590376,
     "CbGbCtD": 0.3501395851864041,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16859723990747957,
     "CrCbGaD": 0.005119250311396307
   },
+  "n_trials": 0.0,
   "prediction": 0.00247183421340858,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

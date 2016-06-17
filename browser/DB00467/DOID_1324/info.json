@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00467",
   "compound_name": "Enoxacin",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.357607282184655,
   "metapath_contribution": {
     "CbGbCtD": 0.9121672083528409,
     "CbGdCrCtD": 0.009982685554599705,
     "CbGpPWpGaD": 0.0752778036885945,
     "CrCbGaD": 0.0025723024039647603
   },
+  "n_trials": 0.0,
   "prediction": 0.00139098656415129,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

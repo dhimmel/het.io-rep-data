@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01429",
   "compound_name": "Aprindine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.7477243172951891,
   "metapath_contribution": {
     "CbGbCtD": 0.27593726126690343,
     "CbGeAlD": 0.004464546563988584,
     "CbGpPWpGaD": 0.0463057117417359,
     "CrCrCtD": 0.673292480427372
   },
+  "n_trials": 0.0,
   "prediction": 0.00304070678522263,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00939",
   "compound_name": "Meclofenamic acid",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.53446033810143,
   "metapath_contribution": {
     "CbGaD": 0.8242658483750994,
     "CbGeAlD": 0.0347335858686701,
     "CbGpPWpGaD": 0.13085286021952258,
     "CrCbGaD": 0.010147705536707933
   },
+  "n_trials": 0.0,
   "prediction": 0.00163012049411212,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

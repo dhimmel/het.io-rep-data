@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01181",
   "compound_name": "Ifosfamide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.141365115981687,
     "CbGbCtD": 0.1277303155597453,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.6275307403568933,
     "CrCbGaD": 0.0008557767077023869
   },
+  "n_trials": 0.0,
   "prediction": 0.0105995371281604,
   "status": 0,
   "training_prediction": 0.0510128761458346

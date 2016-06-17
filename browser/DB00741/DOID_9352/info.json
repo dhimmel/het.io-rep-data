@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.6985294117647061,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.11898569570871301,
   "metapath_contribution": {
     "CbGaD": 0.3603736628668058,
     "CbGbCtD": 0.38685251965530965,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13414241298537607,
     "CrCbGaD": 0.004868600637845879
   },
+  "n_trials": 0.0,
   "prediction": 0.00107424672973768,
   "status": 0,
   "training_prediction": 0.023684153454959996

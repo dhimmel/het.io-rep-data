@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06803",
   "compound_name": "Niclosamide",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.8784135240572171,
   "metapath_contribution": {
     "CbGaD": 0.7172103249496057,
     "CbGbCtD": 0.15825420788248545,
     "CbGeAlD": 0.021662274457538586,
     "CbGpPWpGaD": 0.10287319271037025
   },
+  "n_trials": 0.0,
   "prediction": 0.00396799594577814,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

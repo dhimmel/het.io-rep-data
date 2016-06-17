@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01136",
   "compound_name": "Carvedilol",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.34473830501733477,
     "CbGeAlD": 0.06042629030407764,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.0014647905858123842,
     "CtDrD": 0.5052086977371492
   },
+  "n_trials": 0.0,
   "prediction": 0.00587664627101518,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

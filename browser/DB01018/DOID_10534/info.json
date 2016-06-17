@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01018",
   "compound_name": "Guanfacine",
+  "compound_percentile": 0.0735294117647059,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.27568270481144297,
   "metapath_contribution": {
     "CbGbCtD": 0.14273157437938058,
     "CbGdCrCtD": 0.023513204912149355,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.6962445391873846,
     "CrCbGaD": 0.015314438141396098
   },
+  "n_trials": 0.0,
   "prediction": 0.00106629416773711,
   "status": 0,
   "training_prediction": 0.00235101701209206

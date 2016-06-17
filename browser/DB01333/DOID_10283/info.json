@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01333",
   "compound_name": "Cefradine",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.303641092327698,
   "metapath_contribution": {
     "CbGaD": 0.33196857738171376,
     "CbGbCtD": 0.5821890284908451,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.07069461747117377,
     "CrCbGaD": 0.003193586743930509
   },
+  "n_trials": 0.0,
   "prediction": 0.00154001398202034,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }
