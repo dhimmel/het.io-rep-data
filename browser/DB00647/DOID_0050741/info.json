@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00647",
   "compound_name": "Dextropropoxyphene",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.8959687906371909,
   "metapath_contribution": {
     "CbGaD": 0.5014079186795987,
     "CbGbCtD": 0.3805742561768099,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.056049918154351404,
     "CrCbGaD": 0.0034721522040524026
   },
+  "n_trials": 0.0,
   "prediction": 0.00630179371004902,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGaD": 0.1073833189010206,
     "CbGbCtD": 0.03445169159003881,
@@ -12,7 +14,7 @@
     "CiPCiCtD": 0.7897821103297661,
     "CrCbGaD": 0.0009892973441126365
   },
+  "n_trials": 0.0,
   "prediction": 0.0080654009062508,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

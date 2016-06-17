@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00300",
   "compound_name": "Tenofovir",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
     "CbGbCtD": 0.611713807375962,
     "CbGdCrCtD": 0.0009259863691834917,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.191880076922036,
     "CrCbGaD": 0.005716663837893068
   },
+  "n_trials": 0.0,
   "prediction": 0.00247876457588285,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

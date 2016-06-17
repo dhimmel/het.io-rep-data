@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00900",
   "compound_name": "Didanosine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.6326397919375811,
   "metapath_contribution": {
     "CbGbCtD": 0.38797656071897035,
     "CbGdCrCtD": 0.003210243006190544,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.00022340052383311304,
     "CrCrCtD": 0.3766794216169694
   },
+  "n_trials": 0.0,
   "prediction": 0.00311811535337479,
   "status": 0,
   "training_prediction": 0.0170671960898115

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00206",
   "compound_name": "Reserpine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.7470741222366708,
   "metapath_contribution": {
     "CbGaD": 0.3818047582131711,
     "CbGbCtD": 0.4303428583106694,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10358714278904115,
     "CrCbGaD": 0.0012166761838646304
   },
+  "n_trials": 0.0,
   "prediction": 0.00403293161382756,
   "status": 0,
   "training_prediction": 0.0169489668555001

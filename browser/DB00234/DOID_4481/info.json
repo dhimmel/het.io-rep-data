@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.951235370611183,
   "metapath_contribution": {
     "CbGbCtD": 0.2088837947493047,
     "CcSEcCtD": 0.06746162661855305,
     "CrCrCtD": 0.29231972796938915,
     "CrCtD": 0.4313348506627531
   },
+  "n_trials": 0.0,
   "prediction": 0.0166467003641297,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

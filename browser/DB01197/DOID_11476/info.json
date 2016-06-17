@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.947334200260078,
   "metapath_contribution": {
     "CbGaD": 0.5893671588716515,
     "CbGbCtD": 0.14837261851255634,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.1230576056572357,
     "CrCbGaD": 0.00120153433620395
   },
+  "n_trials": 0.0,
   "prediction": 0.0060912090566978,
   "status": 0,
   "training_prediction": 0.0435107744135801

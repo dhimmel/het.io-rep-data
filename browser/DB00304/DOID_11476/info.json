@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00304",
   "compound_name": "Desogestrel",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.16257274135543856,
     "CbGbCtD": 0.17756497963495624,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.1817893457951708,
     "CrCtD": 0.2453673453226013
   },
+  "n_trials": 0.0,
   "prediction": 0.0710824332558142,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.7990897269180749,
   "metapath_contribution": {
     "CbGaD": 0.4037377953520504,
     "CbGbCtD": 0.3380457308633038,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09521381220503529,
     "CrCbGaD": 0.0040335553541433556
   },
+  "n_trials": 0.0,
   "prediction": 0.00467944542726124,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

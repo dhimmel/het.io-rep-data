@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04841",
   "compound_name": "Flunarizine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.16666931483661995,
     "CbGbCtD": 0.08737957341675263,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.23379622001723585,
     "CrCtD": 0.4728800543250389
   },
+  "n_trials": 0.0,
   "prediction": 0.0169468211684069,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

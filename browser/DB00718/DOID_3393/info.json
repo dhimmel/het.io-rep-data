@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00718",
   "compound_name": "Adefovir Dipivoxil",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7951885565669699,
   "metapath_contribution": {
     "CbGaD": 0.33096501171513154,
     "CbGbCtD": 0.39078680104657243,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.09600084672315026,
     "CcSEcCtD": 0.15551483888028939
   },
+  "n_trials": 0.0,
   "prediction": 0.00473101865012155,
   "status": 0,
   "training_prediction": 0.0249985176858465

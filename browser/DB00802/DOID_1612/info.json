@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00802",
   "compound_name": "Alfentanil",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.620286085825748,
   "metapath_contribution": {
     "CbGaD": 0.3216627644810149,
     "CbGbCtD": 0.48754886231929156,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13357125711733855,
     "CrCbGaD": 0.0003653001275679762
   },
+  "n_trials": 0.0,
   "prediction": 0.00305033399288727,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

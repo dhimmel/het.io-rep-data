@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01182",
   "compound_name": "Propafenone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGaD": 0.4607398038534035,
     "CbGbCtD": 0.2888721677748791,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.21555423414245056,
     "CrCbGaD": 0.007150354825419522
   },
+  "n_trials": 0.0,
   "prediction": 0.0018224413222931602,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

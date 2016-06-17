@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00778",
   "compound_name": "Roxithromycin",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.472041612483745,
   "metapath_contribution": {
     "CbGaD": 0.16602213035039853,
     "CbGbCtD": 0.6409370985656148,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16969720011207662,
     "CrCbGaD": 0.0027788558178948324
   },
+  "n_trials": 0.0,
   "prediction": 0.00317841547499532,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00829",
   "compound_name": "Diazepam",
+  "compound_percentile": 0.448529411764706,
   "disease_id": "DOID:3953",
   "disease_name": "adrenal gland cancer",
+  "disease_percentile": 0.286736020806242,
   "metapath_contribution": {
     "CbGaD": 0.8192896049804398,
     "CbGeAlD": 0.03232442691009055,
     "CbGpPWpGaD": 0.14433836388178217,
     "CrCbGaD": 0.004047604227687487
   },
+  "n_trials": 0.0,
   "prediction": 0.00098912100387274,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

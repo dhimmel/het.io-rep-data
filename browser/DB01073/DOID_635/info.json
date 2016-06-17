@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01073",
   "compound_name": "Fludarabine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.887516254876463,
   "metapath_contribution": {
     "CbGbCtD": 0.4129635830405167,
     "CbGeAlD": 0.03612738319421122,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0025013609352514993,
     "CrCrCtD": 0.4182452239862889
   },
+  "n_trials": 0.0,
   "prediction": 0.00522888935049817,
   "status": 0,
   "training_prediction": 0.0264093497246758

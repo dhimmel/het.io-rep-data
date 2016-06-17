@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01183",
   "compound_name": "Naloxone",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.806241872561768,
   "metapath_contribution": {
     "CbGaD": 0.4641065046181093,
     "CbGbCtD": 0.3759956301790274,
     "CbGeAlD": 0.00025971146739911635,
     "CbGpPWpGaD": 0.15963815373546422
   },
+  "n_trials": 0.0,
   "prediction": 0.00219319218577112,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

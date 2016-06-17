@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01144",
   "compound_name": "Diclofenamide",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.565669700910273,
   "metapath_contribution": {
     "CbGaD": 0.7246120016288994,
     "CbGbCtD": 0.0033737395106514757,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1206414337118412,
     "CrCbGaD": 0.006414336746724646
   },
+  "n_trials": 0.0,
   "prediction": 0.00205357763576887,
   "status": 0,
   "training_prediction": 0.0024923201539567

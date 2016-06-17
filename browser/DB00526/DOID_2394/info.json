@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00526",
   "compound_name": "Oxaliplatin",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9908972691807539,
   "metapath_contribution": {
     "CbGaD": 0.2183054581024219,
     "CbGbCtD": 0.2733048555237845,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.026255767005260555,
     "CiPCiCtD": 0.4580366971199407
   },
+  "n_trials": 12.0,
   "prediction": 0.0653635418999383,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

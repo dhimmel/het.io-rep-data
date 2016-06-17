@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00218",
   "compound_name": "Moxifloxacin",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:635",
   "disease_name": "acquired immunodeficiency syndrome",
+  "disease_percentile": 0.12808842652795802,
   "metapath_contribution": {
     "CbGdCrCtD": 0.014677169862402173,
     "CcSEcCtD": 0.9829756239549977,
     "CrCbGaD": 0.002347206182599995
   },
+  "n_trials": 2.0,
   "prediction": 0.00125040834275075,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

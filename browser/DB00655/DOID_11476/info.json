@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00655",
   "compound_name": "Estrone",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.9902470741222371,
   "metapath_contribution": {
     "CbGaD": 0.1272108638055991,
     "CbGbCtD": 0.1694067889492201,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.19216792100358626,
     "CrCtD": 0.27728218351820916
   },
+  "n_trials": 0.0,
   "prediction": 0.138055648219821,
   "status": 0,
   "training_prediction": 0.34311903488568

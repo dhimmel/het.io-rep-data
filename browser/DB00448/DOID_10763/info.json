@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.6723016905071519,
   "metapath_contribution": {
     "CbGaD": 0.34224882418547686,
     "CbGbCtD": 0.3872023434797953,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15915369461449477,
     "CrCbGaD": 0.00191497742622399
   },
+  "n_trials": 0.0,
   "prediction": 0.006186938817712271,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

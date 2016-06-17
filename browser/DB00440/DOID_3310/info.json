@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00440",
   "compound_name": "Trimethoprim",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:3310",
   "disease_name": "atopic dermatitis",
+  "disease_percentile": 0.5273081924577371,
   "metapath_contribution": {
     "CbGbCtD": 0.7581459614935514,
     "CbGdCrCtD": 0.008075318954202472,
     "CcSEcCtD": 0.23377871955224602
   },
+  "n_trials": 1.0,
   "prediction": 0.00217000286300231,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

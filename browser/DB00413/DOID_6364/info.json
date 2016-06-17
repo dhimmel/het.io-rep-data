@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00413",
   "compound_name": "Pramipexole",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.3360876290718359,
     "CbGbCtD": 0.20771480996588754,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.08532495651766765,
     "CpDpCtD": 0.27567555053022813
   },
+  "n_trials": 0.0,
   "prediction": 0.0343958116181696,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

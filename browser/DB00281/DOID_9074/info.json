@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00281",
   "compound_name": "Lidocaine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.659947984395319,
   "metapath_contribution": {
     "CbGbCtD": 0.39760669295398415,
     "CbGeAlD": 0.03287157127311962,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.1054322646008383,
     "CpDpCtD": 0.43764164237482656
   },
+  "n_trials": 0.0,
   "prediction": 0.0023792966654229302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

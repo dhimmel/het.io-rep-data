@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00120",
   "compound_name": "L-Phenylalanine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.23016905071521498,
   "metapath_contribution": {
-    "CbGeAlD": 0.4523649017933695,
+    "CbGeAlD": 0.45236490179336947,
     "CbGpPWpGaD": 0.519079978159965,
-    "CrCbGaD": 0.028555120046665505
+    "CrCbGaD": 0.0285551200466655
   },
+  "n_trials": 0.0,
   "prediction": 0.0010694278417834198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

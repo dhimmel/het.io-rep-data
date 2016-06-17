@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06802",
   "compound_name": "Nepafenac",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.7802340702210658,
   "metapath_contribution": {
     "CbGaD": 0.10642876764447028,
     "CbGbCtD": 0.051797856994439444,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.28845664668591964,
     "CrCtD": 0.488247513650377
   },
+  "n_trials": 0.0,
   "prediction": 0.00760006694600367,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

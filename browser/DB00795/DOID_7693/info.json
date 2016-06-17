@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00795",
   "compound_name": "Sulfasalazine",
+  "compound_percentile": 0.5367647058823529,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.822496749024707,
   "metapath_contribution": {
     "CbGaD": 0.7044838592939141,
     "CbGeAlD": 0.14598851961406872,
     "CbGpPWpGaD": 0.1450741005202012,
     "CrCbGaD": 0.004453520571815942
   },
+  "n_trials": 0.0,
   "prediction": 0.0018432070772973,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

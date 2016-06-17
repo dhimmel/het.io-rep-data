@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00376",
   "compound_name": "Trihexyphenidyl",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.741222366710013,
   "metapath_contribution": {
     "CbGaD": 0.6080542486818998,
     "CbGbCtD": 0.175898624158206,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09712975648002259,
     "CrCbGaD": 0.005625338217341817
   },
+  "n_trials": 0.0,
   "prediction": 0.00338599123916477,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

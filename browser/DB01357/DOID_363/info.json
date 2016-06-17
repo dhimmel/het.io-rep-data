@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01357",
   "compound_name": "Mestranol",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.32087536640493275,
     "CbGbCtD": 0.3395222312487428,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.004231449489157442,
     "CrCrCtD": 0.32067021717396443
   },
+  "n_trials": 0.0,
   "prediction": 0.00315303031754485,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

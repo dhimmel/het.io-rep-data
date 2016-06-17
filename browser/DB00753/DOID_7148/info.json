@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.720588235294118,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
-    "CbGaD": 0.29497349135015116,
-    "CbGbCtD": 0.17753163237462946,
-    "CbGeAlD": 0.05606057539714599,
-    "CbGpPWpGaD": 0.29974122298543066,
-    "CcSEcCtD": 0.16725264390370426,
-    "CrCbGaD": 0.004440433988938579
+    "CbGaD": 0.2949734913501511,
+    "CbGbCtD": 0.17753163237462943,
+    "CbGeAlD": 0.05606057539714598,
+    "CbGpPWpGaD": 0.2997412229854306,
+    "CcSEcCtD": 0.16725264390370423,
+    "CrCbGaD": 0.004440433988938578
   },
+  "n_trials": 0.0,
   "prediction": 0.00206077470264847,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

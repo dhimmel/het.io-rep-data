@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.979193758127438,
   "metapath_contribution": {
     "CbGaD": 0.24694605324240768,
     "CbGbCtD": 0.1848900316958074,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0017688815993583407,
     "CrCrCtD": 0.09808702380587284
   },
+  "n_trials": 0.0,
   "prediction": 0.0171311693666626,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

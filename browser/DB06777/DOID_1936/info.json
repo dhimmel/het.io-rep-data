@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06777",
   "compound_name": "Chenodeoxycholic acid",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.4935138146358011,
     "CbGbCtD": 0.32438242887733415,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.06445032136439703,
     "CcSEcCtD": 0.0923326112441848
   },
+  "n_trials": 0.0,
   "prediction": 0.0106371681445814,
   "status": 0,
   "training_prediction": 0.0172506251396513

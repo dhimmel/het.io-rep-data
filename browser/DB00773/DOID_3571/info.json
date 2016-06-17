@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.992197659297789,
   "metapath_contribution": {
     "CbGaD": 0.129285259163876,
     "CbGbCtD": 0.157766357764703,
@@ -13,6 +15,7 @@
     "CiPCiCtD": 0.4207070805280377,
     "CtDrD": 0.21128985986763135
   },
+  "n_trials": 4.0,
   "prediction": 0.0156402468959504,
   "status": 0,
   "training_prediction": 0.0960275284748966

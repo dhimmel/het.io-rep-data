@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00198",
   "compound_name": "Oseltamivir",
+  "compound_percentile": 0.485294117647059,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.7678803641092329,
   "metapath_contribution": {
     "CbGeAlD": 0.31488633481324424,
     "CbGpPWpGaD": 0.6851136651867556
   },
+  "n_trials": 1.0,
   "prediction": 0.00225482096651933,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

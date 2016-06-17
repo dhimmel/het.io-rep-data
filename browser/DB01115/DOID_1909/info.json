@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01115",
   "compound_name": "Nifedipine",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.46814044213264006,
   "metapath_contribution": {
     "CbGaD": 0.1071211244619077,
     "CbGbCtD": 0.4737006727562613,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.15851173535049518,
     "CrCbGaD": 0.0001966053529492459
   },
+  "n_trials": 0.0,
   "prediction": 0.00137279563942263,
   "status": 0,
   "training_prediction": 0.00250826982578698

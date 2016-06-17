@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.726918075422627,
   "metapath_contribution": {
     "CbGaD": 0.41914504382117,
     "CbGbCtD": 0.39394231627967985,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14849693044484938,
     "CrCbGaD": 0.001626653454002908
   },
+  "n_trials": 0.0,
   "prediction": 0.00257828582227738,
   "status": 0,
   "training_prediction": 0.007488916690394559

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00523",
   "compound_name": "Alitretinoin",
+  "compound_percentile": 0.0955882352941176,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.0221066319895969,
   "metapath_contribution": {
     "CbGbCtD": 0.27373435669194035,
     "CbGeAlD": 0.08373718962609829,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.3201857983064422,
     "CrCbGaD": 0.004914992838832231
   },
+  "n_trials": 0.0,
   "prediction": 0.000612940973388619,
   "status": 0,
   "training_prediction": 0.0026210736888627

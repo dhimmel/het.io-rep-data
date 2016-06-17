@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00472",
   "compound_name": "Fluoxetine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.3243383981591529,
     "CbGbCtD": 0.3373603032746731,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03846462982968107,
     "CcSEcCtD": 0.2844888921910015
   },
+  "n_trials": 0.0,
   "prediction": 0.00264446583716957,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

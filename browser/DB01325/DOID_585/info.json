@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01325",
   "compound_name": "Quinethazone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGbCtD": 0.23581814772251955,
     "CbGeAlD": 0.03966402357673778,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.2715605891103851,
     "CrCtD": 0.41498290484811157
   },
+  "n_trials": 0.0,
   "prediction": 0.042185861376625,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

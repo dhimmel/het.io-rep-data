@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00224",
   "compound_name": "Indinavir",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.919375812743823,
   "metapath_contribution": {
     "CbGaD": 0.5162378126304631,
     "CbGbCtD": 0.36563729413765517,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10473954069635047,
     "CrCbGaD": 0.004401799652706506
   },
+  "n_trials": 0.0,
   "prediction": 0.00347375479127291,
   "status": 0,
   "training_prediction": 0.006335960230433179

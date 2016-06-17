@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01234",
   "compound_name": "Dexamethasone",
+  "compound_percentile": 0.514705882352941,
   "disease_id": "DOID:10608",
   "disease_name": "celiac disease",
+  "disease_percentile": 0.20611183355006502,
   "metapath_contribution": {
     "CbGeAlD": 0.08515189894834856,
     "CbGpPWpGaD": 0.007433197732099579,
     "CtDrD": 0.9074149033195519
   },
+  "n_trials": 0.0,
   "prediction": 0.000910395249883616,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

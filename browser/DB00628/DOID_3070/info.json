@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00628",
   "compound_name": "Clorazepate",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.310793237971391,
   "metapath_contribution": {
     "CbGbCtD": 0.15241881568856913,
     "CbGeAlD": 0.7267917647421408,
     "CbGpPWpGaD": 0.043479652292926,
     "CrCbGaD": 0.07730976727636392
   },
+  "n_trials": 0.0,
   "prediction": 0.00108367992318576,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

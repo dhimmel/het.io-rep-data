@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00255",
   "compound_name": "Diethylstilbestrol",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.870611183355007,
   "metapath_contribution": {
     "CbGaD": 0.492437055309841,
     "CbGbCtD": 0.45044322371876766,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.054538832143940064,
     "CrCbGaD": 0.000995439824133196
   },
+  "n_trials": 0.0,
   "prediction": 0.00316705948581519,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

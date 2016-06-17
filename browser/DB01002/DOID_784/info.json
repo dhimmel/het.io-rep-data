@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01002",
   "compound_name": "Levobupivacaine",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.546163849154746,
   "metapath_contribution": {
     "CbGaD": 0.873069781991327,
     "CbGeAlD": 0.01877401103100295,
     "CbGpPWpGaD": 0.09584135565084775,
     "CrCbGaD": 0.012314851326822338
   },
+  "n_trials": 0.0,
   "prediction": 0.00166255151688389,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

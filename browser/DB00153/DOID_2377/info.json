@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00153",
   "compound_name": "Ergocalciferol",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.894018205461638,
   "metapath_contribution": {
     "CbGaD": 0.7781919818875541,
     "CbGbCtD": 0.05265582688968514,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.024333046721843436,
     "CrCbGaD": 0.007380116274515691
   },
+  "n_trials": 0.0,
   "prediction": 0.00386483460584634,
   "status": 0,
   "training_prediction": 0.0163525772994236

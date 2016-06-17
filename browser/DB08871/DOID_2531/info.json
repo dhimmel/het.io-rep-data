@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08871",
   "compound_name": "Eribulin",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.8550065019505849,
   "metapath_contribution": {
     "CbGaD": 0.3341417660900099,
     "CbGbCtD": 0.5558649201934458,
@@ -10,6 +12,7 @@
     "CbGeAlD": 0.037040281591140756,
     "CbGpPWpGaD": 0.07052394741497138
   },
+  "n_trials": 0.0,
   "prediction": 0.00615611661755267,
   "status": 0,
   "training_prediction": 0.0533835092745234

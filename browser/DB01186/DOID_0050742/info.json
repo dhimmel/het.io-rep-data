@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01186",
   "compound_name": "Pergolide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9356306892067621,
   "metapath_contribution": {
     "CbGaD": 0.629495936559754,
     "CbGeAlD": 0.03607252695370571,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18754439664673897,
     "CrCbGaD": 0.004355249117079401
   },
+  "n_trials": 0.0,
   "prediction": 0.00294006199846831,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

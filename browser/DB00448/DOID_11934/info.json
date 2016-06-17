@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.940832249674902,
   "metapath_contribution": {
     "CbGaD": 0.33983306418951365,
     "CbGbCtD": 0.5013862482214033,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.07881917077563345,
     "CrCbGaD": 0.004164825342633388
   },
+  "n_trials": 1.0,
   "prediction": 0.00339510962068023,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

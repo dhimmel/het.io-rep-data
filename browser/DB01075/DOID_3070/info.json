@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.742647058823529,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.310143042912874,
   "metapath_contribution": {
     "CbGaD": 0.873035756601283,
     "CbGbCtD": 0.03627118013336701,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.014360580564809483,
     "CrCbGaD": 0.006575208655070432
   },
+  "n_trials": 0.0,
   "prediction": 0.0010830713602998099,
   "status": 0,
   "training_prediction": 0.0013295653953874

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00128",
   "compound_name": "L-Aspartic Acid",
+  "compound_percentile": 0.639705882352941,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.314694408322497,
   "metapath_contribution": {
-    "CbGeAlD": 0.44927619908899424,
-    "CbGpPWpGaD": 0.5253335345865674,
-    "CrCbGaD": 0.02539026632443842
+    "CbGeAlD": 0.4492761990889942,
+    "CbGpPWpGaD": 0.5253335345865673,
+    "CrCbGaD": 0.025390266324438412
   },
+  "n_trials": 0.0,
   "prediction": 0.00121990449748874,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01075",
   "compound_name": "Diphenhydramine",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.257477243172952,
   "metapath_contribution": {
     "CbGbCtD": 0.8535922794055472,
     "CbGeAlD": 0.037145551342436516,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.062441394079226456,
     "CrCbGaD": 0.0003789688032112009
   },
+  "n_trials": 0.0,
   "prediction": 0.00118319378580097,
   "status": 0,
   "training_prediction": 0.00360109383401349

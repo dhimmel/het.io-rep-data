@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00718",
   "compound_name": "Adefovir Dipivoxil",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.566970091027308,
   "metapath_contribution": {
     "CbGbCtD": 0.5256742617442944,
     "CbGdCrCtD": 0.005238109820843539,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.25802457917227883,
     "CrCbGaD": 0.003044018368802761
   },
+  "n_trials": 0.0,
   "prediction": 0.00280238850915339,
   "status": 0,
   "training_prediction": 0.0122752760464865

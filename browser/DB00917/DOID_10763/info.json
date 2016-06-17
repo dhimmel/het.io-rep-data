@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.608582574772432,
   "metapath_contribution": {
     "CbGaD": 0.3403457612701386,
     "CbGbCtD": 0.36736301135514016,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.11960821213803227,
     "CrCbGaD": 0.0033141855859913387
   },
+  "n_trials": 0.0,
   "prediction": 0.00507471174499537,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

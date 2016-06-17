@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00338",
   "compound_name": "Omeprazole",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7347204161248371,
   "metapath_contribution": {
     "CbGaD": 0.33951795648459954,
     "CbGbCtD": 0.428456827654318,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14828519685580516,
     "CrCbGaD": 0.002043118115285372
   },
+  "n_trials": 2.0,
   "prediction": 0.00412932868165398,
   "status": 0,
   "training_prediction": 0.0180066647574245

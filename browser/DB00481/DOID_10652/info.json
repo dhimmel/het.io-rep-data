@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00481",
   "compound_name": "Raloxifene",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9349804941482439,
   "metapath_contribution": {
     "CbGaD": 0.4413996095230156,
     "CbGbCtD": 0.36059687573833266,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0576901806205425,
     "CcSEcCtD": 0.12317973702412746
   },
+  "n_trials": 2.0,
   "prediction": 0.00592496423588333,
   "status": 0,
   "training_prediction": 0.011926369516623998

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.3833023243008838,
     "CbGeAlD": 0.016634139880047444,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0029780507326752333,
     "CtDrD": 0.5292979021006335
   },
+  "n_trials": 1.0,
   "prediction": 0.0038802414077218897,
   "status": 0,
   "training_prediction": 0.00292018903039917

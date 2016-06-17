@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01137",
   "compound_name": "Levofloxacin",
+  "compound_percentile": 0.647058823529412,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.439531859557867,
   "metapath_contribution": {
     "CbGaD": 0.7996189678939749,
     "CbGdCrCtD": 0.0020089309891041973,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.15725825257417356,
     "CrCbGaD": 0.0060602613114730955
   },
+  "n_trials": 0.0,
   "prediction": 0.0014475376343405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01466",
   "compound_name": "Ethylmorphine",
+  "compound_percentile": 0.897058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.8283485045513649,
   "metapath_contribution": {
     "CbGaD": 0.872668695706125,
     "CbGeAlD": 0.016193981154771723,
     "CbGpPWpGaD": 0.10670112085455122,
     "CrCbGaD": 0.004436202284551911
   },
+  "n_trials": 0.0,
   "prediction": 0.00259819529166931,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

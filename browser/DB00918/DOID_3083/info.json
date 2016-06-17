@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00918",
   "compound_name": "Almotriptan",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.22884969372486189,
     "CbGbCtD": 0.24953155199727198,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.36562402214076284,
     "CrCbGaD": 0.002246509969459956
   },
+  "n_trials": 0.0,
   "prediction": 0.0054109292681525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00155",
   "compound_name": "L-Citrulline",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:10941",
   "disease_name": "intracranial aneurysm",
+  "disease_percentile": 0.9863459037711311,
   "metapath_contribution": {
     "CbGaD": 0.8786023465052097,
     "CbGeAlD": 0.07340181258621538,
     "CbGpPWpGaD": 0.045574355025193795,
     "CrCbGaD": 0.002421485883381031
   },
+  "n_trials": 0.0,
   "prediction": 0.00256495597164791,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

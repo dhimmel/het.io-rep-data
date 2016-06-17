@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01581",
   "compound_name": "Sulfamerazine",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.19115734720416103,
   "metapath_contribution": {
     "CbGaD": 0.43848471694634633,
     "CbGbCtD": 0.4807549066362987,
     "CbGpPWpGaD": 0.07305154949110795,
     "CrCbGaD": 0.007708826926247029
   },
+  "n_trials": 0.0,
   "prediction": 0.00181788700780745,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00188",
   "compound_name": "Bortezomib",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.859557867360208,
   "metapath_contribution": {
     "CbGaD": 0.13708090600133604,
     "CbGbCtD": 0.3004335389926697,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0011216932801668624,
     "CrCrCtD": 0.29020284140698643
   },
+  "n_trials": 0.0,
   "prediction": 0.013653503494678003,
   "status": 0,
   "training_prediction": 0.14205860193626502

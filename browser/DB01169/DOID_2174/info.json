@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01169",
   "compound_name": "Arsenic trioxide",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:2174",
   "disease_name": "ocular cancer",
+  "disease_percentile": 0.9980494148244471,
   "metapath_contribution": {
     "CbGaD": 0.7149056684298791,
     "CbGbCtD": 0.06444390720434855,
     "CbGeAlD": 0.037541873989280834,
     "CbGpPWpGaD": 0.18310855037649126
   },
+  "n_trials": 1.0,
   "prediction": 0.007230600834625079,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

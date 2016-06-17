@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00572",
   "compound_name": "Atropine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9252275682704809,
   "metapath_contribution": {
     "CbGbCtD": 0.20158329960350932,
     "CbGpPWpGaD": 0.032152783498471726,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.28305626686782015,
     "CrCtD": 0.4021135208149257
   },
+  "n_trials": 0.0,
   "prediction": 0.0128992550775193,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

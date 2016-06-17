@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00557",
   "compound_name": "Hydroxyzine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.28868660598179496,
   "metapath_contribution": {
     "CbGbCtD": 0.8088404768036876,
     "CbGpPWpGaD": 0.10769925473194351,
     "CcSEcCtD": 0.06786632880837085,
     "CrCbGaD": 0.015593939655997946
   },
+  "n_trials": 1.0,
   "prediction": 0.0015388190583111802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

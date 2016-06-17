@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01037",
   "compound_name": "Selegiline",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.5942782834850461,
   "metapath_contribution": {
     "CbGaD": 0.5369325827037481,
     "CbGbCtD": 0.15722409361895853,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.22624442958506474,
     "CrCbGaD": 3.745147919290185e-05
   },
+  "n_trials": 0.0,
   "prediction": 0.0017673504265783898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

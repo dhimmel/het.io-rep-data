@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00428",
   "compound_name": "Streptozocin",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.47854356306892104,
   "metapath_contribution": {
     "CbGbCtD": 0.781390279603216,
     "CbGpPWpGaD": 0.14502728643260146,
     "CcSEcCtD": 0.06699770358609403,
     "CrCbGaD": 0.006584730378088446
   },
+  "n_trials": 0.0,
   "prediction": 0.00155682113292309,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

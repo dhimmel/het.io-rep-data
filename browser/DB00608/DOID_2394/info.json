@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00608",
   "compound_name": "Chloroquine",
+  "compound_percentile": 0.5735294117647061,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.504551365409623,
   "metapath_contribution": {
     "CbGaD": 0.3180858459569773,
     "CbGbCtD": 0.3727199689726903,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12877545010780397,
     "CrCbGaD": 0.009410114038121852
   },
+  "n_trials": 0.0,
   "prediction": 0.00148120281816226,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

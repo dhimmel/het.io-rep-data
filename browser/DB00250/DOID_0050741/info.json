@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00250",
   "compound_name": "Dapsone",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.7139141742522759,
   "metapath_contribution": {
     "CbGaD": 0.38164837808567526,
     "CbGbCtD": 0.39750911952834705,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.05650453353954358,
     "CrCbGaD": 0.0006296931032313054
   },
+  "n_trials": 0.0,
   "prediction": 0.0031487774503328398,
   "status": 0,
   "training_prediction": 0.00862956307062522

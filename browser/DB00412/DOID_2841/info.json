@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00412",
   "compound_name": "Rosiglitazone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.477243172951886,
   "metapath_contribution": {
     "CbGaD": 0.15126115438567306,
     "CbGbCtD": 0.6093296712674966,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.05127169847514114,
     "CcSEcCtD": 0.16839053030208984
   },
+  "n_trials": 0.0,
   "prediction": 0.0023665886952672697,
   "status": 0,
   "training_prediction": 0.0159502375138095

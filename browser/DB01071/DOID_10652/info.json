@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01071",
   "compound_name": "Mequitazine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.37711313394018203,
   "metapath_contribution": {
     "CbGaD": 0.44531453937922205,
     "CbGbCtD": 0.5398462066508184,
     "CbGpPWpGaD": 0.007139232068754999,
     "CrCbGaD": 0.007700021901204659
   },
+  "n_trials": 0.0,
   "prediction": 0.00148752550439637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

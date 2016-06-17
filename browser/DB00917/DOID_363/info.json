@@ -2,8 +2,10 @@
   "category": "NOT",
   "compound_id": "DB00917",
   "compound_name": "Dinoprostone",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.8179453836150848,
   "metapath_contribution": {
     "CbGaD": 0.5642933642667699,
     "CbGbCtD": 0.1551105651322424,
@@ -13,6 +15,5 @@
     "CrCbGaD": 0.0028074141094427576
   },
   "prediction": 0.00272413483299066,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

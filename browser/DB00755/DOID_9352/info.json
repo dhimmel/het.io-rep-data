@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00755",
   "compound_name": "Tretinoin",
+  "compound_percentile": 0.580882352941177,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.16449934980494102,
   "metapath_contribution": {
     "CbGaD": 0.10008607067784057,
     "CbGbCtD": 0.4931887094826739,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.20161826200076904,
     "CrCbGaD": 0.003399980094050781
   },
+  "n_trials": 0.0,
   "prediction": 0.00125780420056553,
   "status": 0,
   "training_prediction": 0.00553854673239957

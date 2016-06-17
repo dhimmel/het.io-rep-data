@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.606631989596879,
   "metapath_contribution": {
     "CbGaD": 0.7794056548308625,
     "CbGeAlD": 0.059043857642619234,
     "CbGpPWpGaD": 0.15404346441180866,
     "CrCbGaD": 0.007507023114709641
   },
+  "n_trials": 0.0,
   "prediction": 0.00181840538675788,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

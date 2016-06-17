@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00924",
   "compound_name": "Cyclobenzaprine",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.442132639791938,
   "metapath_contribution": {
     "CbGaD": 0.7811515246358322,
     "CbGpPWpGaD": 0.011247329482910212,
     "CcSEcCtD": 0.2054035704857604,
     "CrCbGaD": 0.0021975753954972203
   },
+  "n_trials": 0.0,
   "prediction": 0.00136078097847555,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

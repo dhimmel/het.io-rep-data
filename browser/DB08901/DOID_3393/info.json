@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08901",
   "compound_name": "Ponatinib",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.7919375812743821,
   "metapath_contribution": {
     "CbGaD": 0.36328573021613436,
     "CbGbCtD": 0.34854083984742695,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.12359055126926553,
     "CrCbGaD": 0.0028403822530422736
   },
+  "n_trials": 0.0,
   "prediction": 0.004681457044298971,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

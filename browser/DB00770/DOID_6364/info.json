@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00770",
   "compound_name": "Alprostadil",
+  "compound_percentile": 0.7647058823529409,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.120286085825748,
   "metapath_contribution": {
     "CbGbCtD": 0.22840353896465282,
     "CbGeAlD": 0.06849988520045283,
     "CbGpPWpGaD": 0.2559502628106258,
     "CcSEcCtD": 0.44714631302426844
   },
+  "n_trials": 0.0,
   "prediction": 0.0012869337183625,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

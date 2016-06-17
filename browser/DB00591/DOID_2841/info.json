@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00591",
   "compound_name": "Fluocinolone Acetonide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.9934980494148241,
   "metapath_contribution": {
     "CbGaD": 0.09815592328699756,
     "CbGbCtD": 0.1377463237866257,
@@ -16,6 +18,7 @@
     "CrCtD": 0.19566467168609844,
     "CtDrD": 0.144195975475857
   },
+  "n_trials": 0.0,
   "prediction": 0.348058330199344,
   "status": 0,
   "training_prediction": 0.8590127602159108

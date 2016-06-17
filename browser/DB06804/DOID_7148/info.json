@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06804",
   "compound_name": "Nonoxynol-9",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGaD": 0.4755351209777691,
     "CbGbCtD": 0.4826003766838953,
@@ -10,7 +12,7 @@
     "CbGeAlD": 0.006498625743706727,
     "CbGpPWpGaD": 0.030495058332487727
   },
+  "n_trials": 0.0,
   "prediction": 0.00469275186674601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

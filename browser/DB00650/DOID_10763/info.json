@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.322496749024707,
   "metapath_contribution": {
     "CbGbCtD": 0.632171952017623,
     "CbGdCrCtD": 0.0032765691175501727,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.25734921364154784,
     "CrCbGaD": 0.0024787015853265826
   },
+  "n_trials": 0.0,
   "prediction": 0.00250896560690275,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

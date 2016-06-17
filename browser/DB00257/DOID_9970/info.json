@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00257",
   "compound_name": "Clotrimazole",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.7516254876462941,
   "metapath_contribution": {
     "CbGaD": 0.2204877458166305,
     "CbGbCtD": 0.3821372169002938,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.0024678803473864195,
     "CrCrCtD": 0.22254895768091001
   },
+  "n_trials": 0.0,
   "prediction": 0.00444786569686294,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

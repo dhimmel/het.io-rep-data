@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01260",
   "compound_name": "Desonide",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.0533159947984395,
   "metapath_contribution": {
     "CbGaD": 0.989795408653056,
     "CbGeAlD": 0.00044008084158161513,
     "CrCbGaD": 0.009764510505362249
   },
+  "n_trials": 0.0,
   "prediction": 0.0007718644256587491,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

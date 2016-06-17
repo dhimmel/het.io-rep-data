@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01214",
   "compound_name": "Metipranolol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.822496749024707,
   "metapath_contribution": {
     "CbGaD": 0.32367063241256305,
     "CbGbCtD": 0.2692384598229636,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.002852040213477711,
     "CrCrCtD": 0.2826699358807718
   },
+  "n_trials": 0.0,
   "prediction": 0.00516540703911959,
   "status": 0,
   "training_prediction": 0.0272428716360226

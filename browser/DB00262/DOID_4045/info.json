@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00262",
   "compound_name": "Carmustine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.988946684005202,
   "metapath_contribution": {
     "CbGbCtD": 0.022158603083929362,
     "CbGeAlD": 0.002409036833119141,
@@ -10,6 +12,7 @@
     "CiPCiCtD": 0.5702061097898657,
     "CtDrD": 0.3589650025773773
   },
+  "n_trials": 0.0,
   "prediction": 0.0173507063512475,
   "status": 0,
   "training_prediction": 0.0894399139301955

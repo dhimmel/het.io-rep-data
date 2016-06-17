@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00555",
   "compound_name": "Lamotrigine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.48309492847854396,
   "metapath_contribution": {
     "CbGaD": 0.24825002153741355,
     "CbGbCtD": 0.24760657702742844,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.14843728850539906,
     "CcSEcCtD": 0.34684098704042143
   },
+  "n_trials": 0.0,
   "prediction": 0.00177386740313415,
   "status": 0,
   "training_prediction": 0.00516032089571365

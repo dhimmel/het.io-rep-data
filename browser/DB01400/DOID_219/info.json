@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01400",
   "compound_name": "Neostigmine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGaD": 0.4586462980386535,
     "CbGbCtD": 0.45890450158457985,
     "CcSEcCtD": 0.08244920037676663
   },
+  "n_trials": 0.0,
   "prediction": 0.0030804851578194897,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01227",
   "compound_name": "Levomethadyl Acetate",
+  "compound_percentile": 0.808823529411765,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.230819245773732,
   "metapath_contribution": {
     "CbGaD": 0.32411134249534684,
     "CbGbCtD": 0.5711163290578833,
     "CbGpPWpGaD": 0.0996841717210809,
     "CrCbGaD": 0.00508815672568898
   },
+  "n_trials": 0.0,
   "prediction": 0.00149223576040965,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

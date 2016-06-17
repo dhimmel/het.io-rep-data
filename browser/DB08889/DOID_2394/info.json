@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08889",
   "compound_name": "Carfilzomib",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.573472041612484,
   "metapath_contribution": {
     "CbGaD": 0.32201440499349626,
     "CbGbCtD": 0.08415991754243127,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.20533943007292318,
     "CrCbGaD": 0.0010872701108166005
   },
+  "n_trials": 0.0,
   "prediction": 0.0016469412043034,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

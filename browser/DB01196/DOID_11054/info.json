@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.978543563068921,
   "metapath_contribution": {
     "CbGaD": 0.190490341603793,
     "CbGbCtD": 0.047551590902988626,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0016346605640173409,
     "CtDrD": 0.2890608422742383
   },
+  "n_trials": 0.0,
   "prediction": 0.0169876002285671,
   "status": 0,
   "training_prediction": 0.0425082740110149

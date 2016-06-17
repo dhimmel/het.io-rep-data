@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:11612",
   "disease_name": "polycystic ovary syndrome",
+  "disease_percentile": 0.9245773732119641,
   "metapath_contribution": {
     "CbGaD": 0.5998021358717804,
     "CbGbCtD": 0.26091806977491283,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.004616630525995521,
     "CrCbGaD": 0.002004394692256241
   },
+  "n_trials": 0.0,
   "prediction": 0.00289078626271282,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

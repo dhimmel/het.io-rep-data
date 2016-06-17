@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01419",
   "compound_name": "Antrafenine",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.7906371911573471,
   "metapath_contribution": {
     "CbGaD": 0.6559773725705142,
     "CbGbCtD": 0.3071711746441889,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.03401958295425105,
     "CrCbGaD": 0.0010805420196190545
   },
+  "n_trials": 0.0,
   "prediction": 0.00243032290556744,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

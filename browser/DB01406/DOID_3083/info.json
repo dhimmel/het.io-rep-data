@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.676853055916775,
   "metapath_contribution": {
     "CbGbCtD": 0.052437331557644136,
     "CbGdCrCtD": 0.002687608785706427,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.274909431086463,
     "CrCtD": 0.49698531087684217
   },
+  "n_trials": 0.0,
   "prediction": 0.00287856194520429,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

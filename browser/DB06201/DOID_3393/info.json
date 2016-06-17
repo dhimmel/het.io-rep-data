@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06201",
   "compound_name": "Rufinamide",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8680104031209358,
   "metapath_contribution": {
     "CbGaD": 0.08652522378694799,
     "CbGbCtD": 0.5369600624380986,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.12297364865555403,
     "CcSEcCtD": 0.18234604191994602
   },
+  "n_trials": 0.0,
   "prediction": 0.006275644497661999,
   "status": 0,
   "training_prediction": 0.0329412480728191

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06684",
   "compound_name": "Vilazodone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8589076723016908,
   "metapath_contribution": {
     "CbGaD": 0.19647352484120553,
     "CbGbCtD": 0.3138770662839742,
@@ -12,7 +14,7 @@
     "CpDpCtD": 0.3248990479335505,
     "CrCbGaD": 0.0021695967882811814
   },
+  "n_trials": 0.0,
   "prediction": 0.0125674617728951,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

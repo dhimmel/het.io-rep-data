@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00794",
   "compound_name": "Primidone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.35500650195058503,
   "metapath_contribution": {
     "CbGaD": 0.11065962339602374,
     "CbGbCtD": 0.5759653570946038,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1694902441269978,
     "CrCbGaD": 0.002863055210457175
   },
+  "n_trials": 0.0,
   "prediction": 0.0018207413653419302,
   "status": 0,
   "training_prediction": 0.0100243016490499

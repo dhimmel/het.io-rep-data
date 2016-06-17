@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.419375812743823,
   "metapath_contribution": {
     "CbGbCtD": 0.5248263617203697,
     "CbGeAlD": 0.011777993982103647,
@@ -11,6 +13,7 @@
     "CrCbGaD": 0.0007098754769436151,
     "CrCrCtD": 0.31425293044908914
   },
+  "n_trials": 0.0,
   "prediction": 0.00154510394734518,
   "status": 0,
   "training_prediction": 0.0036821182542642397

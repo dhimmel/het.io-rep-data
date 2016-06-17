@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00567",
   "compound_name": "Cephalexin",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.21131339401820498,
   "metapath_contribution": {
     "CbGaD": 0.3964902829038249,
     "CbGbCtD": 0.35037130657522275,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.25111797387795354,
     "CrCbGaD": 0.0005356021879901297
   },
+  "n_trials": 0.0,
   "prediction": 0.0009241510273694391,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

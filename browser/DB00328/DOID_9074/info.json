@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00328",
   "compound_name": "Indomethacin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.9174252275682699,
   "metapath_contribution": {
     "CbGaD": 0.20326751817759317,
     "CbGbCtD": 0.33172521990728476,
@@ -13,6 +15,7 @@
     "CpDpCtD": 0.30059357566237666,
     "CrCbGaD": 0.0010854875350937857
   },
+  "n_trials": 0.0,
   "prediction": 0.0059426314512573105,
   "status": 0,
   "training_prediction": 0.0171508483835735

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01252",
   "compound_name": "Mitiglinide",
+  "compound_percentile": 0.786764705882353,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.612483745123537,
   "metapath_contribution": {
     "CbGaD": 0.9344709896626595,
     "CbGdCrCtD": 0.005643607577228148,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.015178557716374818,
     "CrCbGaD": 0.002868734475210535
   },
+  "n_trials": 0.0,
   "prediction": 0.0018461173669027898,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

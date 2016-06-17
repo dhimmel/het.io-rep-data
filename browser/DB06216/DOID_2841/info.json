@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06216",
   "compound_name": "Asenapine",
+  "compound_percentile": 0.941176470588235,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.871261378413524,
   "metapath_contribution": {
     "CbGaD": 0.16344669232400125,
     "CbGbCtD": 0.5466404907804314,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14067012440183313,
     "CrCbGaD": 0.0019835688988631387
   },
+  "n_trials": 0.0,
   "prediction": 0.00705191270507525,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06711",
   "compound_name": "Naphazoline",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.144343302990897,
   "metapath_contribution": {
     "CbGdCrCtD": 0.05052210390325177,
     "CbGeAlD": 0.38429302792066183,
     "CcSEcCtD": 0.5136024284859929,
     "CrCbGaD": 0.0515824396900935
   },
+  "n_trials": 0.0,
   "prediction": 0.000999188446101294,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,18 +1,21 @@
 {
   "compound_id": "DB00441",
   "compound_name": "Gemcitabine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9369310793237969,
   "metapath_contribution": {
-    "CbGaD": 0.23654754465917066,
-    "CbGbCtD": 0.1620652499793208,
-    "CbGdCrCtD": 0.001711567618669917,
-    "CbGeAlD": 0.05100156907231831,
-    "CbGpPWpGaD": 0.06290978672681484,
-    "CcSEcCtD": 0.09588808607617547,
-    "CrCbGaD": 0.0020376149885936168,
-    "CtDrD": 0.3878385808789366
+    "CbGaD": 0.23654754465917063,
+    "CbGbCtD": 0.16206524997932079,
+    "CbGdCrCtD": 0.0017115676186699167,
+    "CbGeAlD": 0.051001569072318294,
+    "CbGpPWpGaD": 0.06290978672681483,
+    "CcSEcCtD": 0.09588808607617545,
+    "CrCbGaD": 0.0020376149885936163,
+    "CtDrD": 0.38783858087893647
   },
+  "n_trials": 58.0,
   "prediction": 0.003946776477675829,
   "status": 0,
   "training_prediction": 0.0362617658860787

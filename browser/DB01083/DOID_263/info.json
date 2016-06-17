@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01083",
   "compound_name": "Orlistat",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.523407022106632,
   "metapath_contribution": {
     "CbGbCtD": 0.22648434188091005,
     "CbGdCrCtD": 0.01027475302695341,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.2769334881153201,
     "CcSEcCtD": 0.46243626806964466
   },
+  "n_trials": 0.0,
   "prediction": 0.0018935780996132102,
   "status": 0,
   "training_prediction": 0.009158313334497641

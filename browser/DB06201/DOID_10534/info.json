@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06201",
   "compound_name": "Rufinamide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:10534",
   "disease_name": "stomach cancer",
+  "disease_percentile": 0.94408322496749,
   "metapath_contribution": {
     "CbGaD": 0.17538501610443508,
     "CbGbCtD": 0.5634218601350524,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.10223710569584442,
     "CcSEcCtD": 0.12264212830768835
   },
+  "n_trials": 0.0,
   "prediction": 0.0045766632262133795,
   "status": 0,
   "training_prediction": 0.0100483043953782

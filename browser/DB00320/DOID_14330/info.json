@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00320",
   "compound_name": "Dihydroergotamine",
+  "compound_percentile": 0.7058823529411771,
   "disease_id": "DOID:14330",
   "disease_name": "Parkinson's disease",
+  "disease_percentile": 0.8133940182054621,
   "metapath_contribution": {
-    "CbGaD": 0.7821994009265283,
-    "CbGeAlD": 0.0629228300937485,
-    "CbGpPWpGaD": 0.14491719724593416,
-    "CrCbGaD": 0.009960571733789
+    "CbGaD": 0.7821994009265284,
+    "CbGeAlD": 0.06292283009374851,
+    "CbGpPWpGaD": 0.1449171972459342,
+    "CrCbGaD": 0.009960571733789001
   },
+  "n_trials": 0.0,
   "prediction": 0.0021781601335205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

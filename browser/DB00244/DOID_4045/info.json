@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00244",
   "compound_name": "Mesalazine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.503250975292588,
   "metapath_contribution": {
     "CbGaD": 0.5729616400321119,
     "CbGbCtD": 0.07687556429088553,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.17193310145852533,
     "CrCbGaD": 0.0046258820905458195
   },
+  "n_trials": 0.0,
   "prediction": 0.0014491592892534,
   "status": 0,
   "training_prediction": 0.00393359651752471

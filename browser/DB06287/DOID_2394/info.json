@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06287",
   "compound_name": "Temsirolimus",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.429778933680104,
   "metapath_contribution": {
     "CbGaD": 0.5086973673086258,
     "CbGbCtD": 0.24983795982141008,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1337306130982181,
     "CrCbGaD": 0.005302785666645549
   },
+  "n_trials": 0.0,
   "prediction": 0.0013235524939737698,
   "status": 0,
   "training_prediction": 0.00315511000579

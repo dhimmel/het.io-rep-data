@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00035",
   "compound_name": "Desmopressin",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.682704811443433,
   "metapath_contribution": {
     "CbGaD": 0.3107507823981854,
     "CbGeAlD": 0.006011875282392646,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.16036921777164515,
     "CrCrCtD": 0.42950235230379463
   },
+  "n_trials": 1.0,
   "prediction": 0.00349954821008552,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01406",
   "compound_name": "Danazol",
+  "compound_percentile": 0.3529411764705879,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.14564369310793202,
   "metapath_contribution": {
     "CbGaD": 0.7700750202200163,
     "CbGeAlD": 0.08744651178297827,
     "CbGpPWpGaD": 0.13515882125570636,
     "CrCbGaD": 0.007319646741299193
   },
+  "n_trials": 0.0,
   "prediction": 0.000782512010385105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

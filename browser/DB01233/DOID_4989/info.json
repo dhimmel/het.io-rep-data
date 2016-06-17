@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01233",
   "compound_name": "Metoclopramide",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:4989",
   "disease_name": "pancreatitis",
+  "disease_percentile": 0.7509752925877758,
   "metapath_contribution": {
     "CbGbCtD": 0.7468483851249907,
     "CbGpPWpGaD": 0.13445184654976874,
     "CcSEcCtD": 0.1171963851559065,
     "CrCbGaD": 0.0015033831693339259
   },
+  "n_trials": 0.0,
   "prediction": 0.00202567137097093,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

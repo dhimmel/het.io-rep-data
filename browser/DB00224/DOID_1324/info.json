@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00224",
   "compound_name": "Indinavir",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.812743823146944,
   "metapath_contribution": {
     "CbGaD": 0.12133884839055406,
     "CbGbCtD": 0.6243395856277336,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1625766629741201,
     "CrCbGaD": 0.002502794564224387
   },
+  "n_trials": 0.0,
   "prediction": 0.0035672202594182,
   "status": 0,
   "training_prediction": 0.0121312882341682

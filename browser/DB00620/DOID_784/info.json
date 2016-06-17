@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00620",
   "compound_name": "Triamcinolone",
+  "compound_percentile": 0.272058823529412,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.0266579973992198,
   "metapath_contribution": {
     "CbGaD": 0.8770533814298989,
     "CbGeAlD": 0.044607603995244285,
     "CbGpPWpGaD": 0.06861790123661278,
     "CrCbGaD": 0.009721113338244101
   },
+  "n_trials": 0.0,
   "prediction": 0.0006131493300971099,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

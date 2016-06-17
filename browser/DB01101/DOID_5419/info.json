@@ -1,14 +1,16 @@
 {
   "compound_id": "DB01101",
   "compound_name": "Capecitabine",
+  "compound_percentile": 0.529411764705882,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.8701734943245337,
     "CbGeAlD": 0.04659911782765168,
     "CbGpPWpGaD": 0.08322738784781461
   },
+  "n_trials": 0.0,
   "prediction": 0.00281062915168055,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

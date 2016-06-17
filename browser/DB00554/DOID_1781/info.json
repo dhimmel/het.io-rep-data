@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00554",
   "compound_name": "Piroxicam",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.702860858257477,
   "metapath_contribution": {
     "CbGaD": 0.7454339615971819,
     "CbGbCtD": 0.20408608381948504,
     "CbGpPWpGaD": 0.04321801782765843,
     "CrCbGaD": 0.007261936755674535
   },
+  "n_trials": 0.0,
   "prediction": 0.00199596242937924,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

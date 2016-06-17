@@ -1,8 +1,10 @@
 {
   "compound_id": "DB08910",
   "compound_name": "Pomalidomide",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.76853055916775,
   "metapath_contribution": {
     "CbGaD": 0.5704737419597251,
     "CbGbCtD": 0.1362331889953004,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17148238502286753,
     "CrCbGaD": 0.00431188123917067
   },
+  "n_trials": 0.0,
   "prediction": 0.00294902658977322,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

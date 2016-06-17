@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.349154746423927,
   "metapath_contribution": {
     "CbGbCtD": 0.671154828405458,
     "CbGdCrCtD": 0.0010598740974119257,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.20842271251217742,
     "CrCbGaD": 0.0011264820157901006
   },
+  "n_trials": 0.0,
   "prediction": 0.0013879737292960001,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

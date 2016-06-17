@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00232",
   "compound_name": "Methyclothiazide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.994148244473342,
   "metapath_contribution": {
     "CbGaD": 0.11777083924326304,
     "CbGbCtD": 0.16121713985528702,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.1465227200714523,
     "CrCtD": 0.20849912078532643
   },
+  "n_trials": 0.0,
   "prediction": 0.40439717735388303,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

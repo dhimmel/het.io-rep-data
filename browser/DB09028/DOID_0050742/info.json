@@ -1,15 +1,17 @@
 {
   "compound_id": "DB09028",
   "compound_name": "Cytisine",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:0050742",
   "disease_name": "nicotine dependence",
+  "disease_percentile": 0.9993498049414821,
   "metapath_contribution": {
     "CbGaD": 0.4474699442682097,
     "CbGbCtD": 0.43893984778254824,
     "CbGeAlD": 0.0071943377206489184,
     "CbGpPWpGaD": 0.10639587022859312
   },
+  "n_trials": 0.0,
   "prediction": 0.041803530644592,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

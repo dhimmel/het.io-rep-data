@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00091",
   "compound_name": "Cyclosporine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.996749024707412,
   "metapath_contribution": {
     "CbGbCtD": 0.2002718429448221,
     "CbGeAlD": 0.026184393956501028,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.42174610587373274,
     "CtDrD": 0.28066858535344386
   },
+  "n_trials": 0.0,
   "prediction": 0.0251327516340586,
   "status": 0,
   "training_prediction": 0.139529869535508

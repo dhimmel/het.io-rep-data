@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.07645726182565706,
     "CbGbCtD": 0.13148712666619097,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.17205950162561617,
     "CrCtD": 0.24068539797343055
   },
+  "n_trials": 0.0,
   "prediction": 0.0225419025223173,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

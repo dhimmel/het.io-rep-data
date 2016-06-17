@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00865",
   "compound_name": "Benzphetamine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.1579919488499323,
     "CbGbCtD": 0.167672523634727,
@@ -14,6 +16,7 @@
     "CrCtD": 0.19707351375158322,
     "CtDrD": 0.24757049159512917
   },
+  "n_trials": 0.0,
   "prediction": 0.0400515824550656,
   "status": 0,
   "training_prediction": 0.33292262307837894

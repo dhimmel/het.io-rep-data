@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01196",
   "compound_name": "Estramustine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.9765929778933679,
   "metapath_contribution": {
     "CbGaD": 0.1631658607929941,
     "CbGbCtD": 0.22227026219731774,
@@ -12,6 +14,7 @@
     "CiPCiCtD": 0.5330945828425909,
     "CrCbGaD": 0.0015840711096749228
   },
+  "n_trials": 0.0,
   "prediction": 0.0100057098831549,
   "status": 0,
   "training_prediction": 0.0235682674265472

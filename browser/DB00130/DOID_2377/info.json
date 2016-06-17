@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00130",
   "compound_name": "L-Glutamine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.38361508452535803,
   "metapath_contribution": {
     "CbGdCrCtD": 0.008886725888428223,
     "CbGeAlD": 0.37921245908516527,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.27547778594525835,
     "CrCbGaD": 0.006132881589059632
   },
+  "n_trials": 0.0,
   "prediction": 0.00160081830702405,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

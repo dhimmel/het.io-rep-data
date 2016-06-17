@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00527",
   "compound_name": "Cinchocaine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.486996098829649,
   "metapath_contribution": {
     "CbGaD": 0.3391304188022647,
     "CbGeAlD": 0.00798260756846584,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.002948267456635014,
     "CrCrCtD": 0.551944027475605
   },
+  "n_trials": 0.0,
   "prediction": 0.0017888300359528199,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

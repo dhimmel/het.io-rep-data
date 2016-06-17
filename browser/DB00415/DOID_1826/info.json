@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00415",
   "compound_name": "Ampicillin",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.14239271781534502,
   "metapath_contribution": {
     "CbGaD": 0.1888939121693512,
     "CbGbCtD": 0.5592940126789042,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.17174993594603974,
     "CrCbGaD": 0.00016661573419656043
   },
+  "n_trials": 0.0,
   "prediction": 0.00144557629205407,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

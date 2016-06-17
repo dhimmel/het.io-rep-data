@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01576",
   "compound_name": "Dextroamphetamine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:9744",
   "disease_name": "type 1 diabetes mellitus",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.5156551614337891,
     "CbGpPWpGaD": 0.03861786590240712,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.00394925987806906,
     "CrCrCtD": 0.4199886416731226
   },
+  "n_trials": 0.0,
   "prediction": 0.00289642986355685,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

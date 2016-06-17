@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01224",
   "compound_name": "Quetiapine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.8764629388816642,
   "metapath_contribution": {
     "CbGaD": 0.2408827246535055,
     "CbGbCtD": 0.252426653252373,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.002489231700779503,
     "CrCrCtD": 0.04318820712898283
   },
+  "n_trials": 0.0,
   "prediction": 0.007291971134788791,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

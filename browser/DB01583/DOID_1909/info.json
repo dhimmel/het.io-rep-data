@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01583",
   "compound_name": "Liotrix",
+  "compound_percentile": 0.5220588235294121,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.617685305591678,
   "metapath_contribution": {
     "CbGaD": 0.43303382092124265,
     "CbGbCtD": 0.24587731837537108,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.13925240341789585,
     "CrCbGaD": 0.0020109778733913295
   },
+  "n_trials": 0.0,
   "prediction": 0.0017236010801626302,
   "status": 0,
   "training_prediction": 0.0031483205954417302

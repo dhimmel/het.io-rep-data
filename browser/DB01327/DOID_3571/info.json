@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01327",
   "compound_name": "Cefazolin",
+  "compound_percentile": 0.727941176470588,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.517555266579974,
   "metapath_contribution": {
     "CbGaD": 0.5139765676505547,
     "CbGbCtD": 0.2457060956175831,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.13117120276919245,
     "CrCbGaD": 0.007110567520732134
   },
+  "n_trials": 1.0,
   "prediction": 0.0014377866101945198,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

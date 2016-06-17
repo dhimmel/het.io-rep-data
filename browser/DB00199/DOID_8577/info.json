@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00199",
   "compound_name": "Erythromycin",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.41222366710013003,
   "metapath_contribution": {
     "CbGaD": 0.24372888652151123,
     "CbGbCtD": 0.5854925487468344,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09817453289045895,
     "CrCbGaD": 0.0019587914421015035
   },
+  "n_trials": 0.0,
   "prediction": 0.00186243271138445,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

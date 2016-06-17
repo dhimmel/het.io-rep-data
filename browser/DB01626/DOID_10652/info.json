@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01626",
   "compound_name": "Pargyline",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.6293888166449929,
   "metapath_contribution": {
     "CbGaD": 0.8608321113614483,
     "CbGeAlD": 0.037037635965218994,
     "CbGpPWpGaD": 0.09706337683755159,
     "CrCbGaD": 0.005066875835781039
   },
+  "n_trials": 0.0,
   "prediction": 0.00222269841879885,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00125",
   "compound_name": "L-Arginine",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.9135240572171651,
   "metapath_contribution": {
     "CbGaD": 0.48388118600102087,
     "CbGbCtD": 0.1203269920961857,
@@ -13,7 +15,7 @@
     "CrCbGaD": 0.0034396573909585702,
     "CrCrCtD": 0.294704906038463
   },
+  "n_trials": 0.0,
   "prediction": 0.00546708547359893,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

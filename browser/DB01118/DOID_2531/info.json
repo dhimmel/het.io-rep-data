@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01118",
   "compound_name": "Amiodarone",
+  "compound_percentile": 0.683823529411765,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.32444733420026,
   "metapath_contribution": {
     "CbGaD": 0.05167671353797394,
     "CbGbCtD": 0.5871288288014865,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.23962912105415798,
     "CrCbGaD": 0.0035727773581772327
   },
+  "n_trials": 0.0,
   "prediction": 0.00164794704842127,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

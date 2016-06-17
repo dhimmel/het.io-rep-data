@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00773",
   "compound_name": "Etoposide",
+  "compound_percentile": 0.838235294117647,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.88296488946684,
   "metapath_contribution": {
     "CbGbCtD": 0.2523795993612263,
     "CbGdCrCtD": 0.0013738742746559978,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06674786498095393,
     "CiPCiCtD": 0.652416832712906
   },
+  "n_trials": 1.0,
   "prediction": 0.00371928771885184,
   "status": 0,
   "training_prediction": 0.0612349926669651

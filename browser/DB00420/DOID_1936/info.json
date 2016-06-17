@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00420",
   "compound_name": "Promazine",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.34460338101430393,
   "metapath_contribution": {
     "CbGaD": 0.5645473778938742,
     "CbGbCtD": 0.3002706307785767,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1250820789640592,
     "CrCbGaD": 0.008249954232865913
   },
+  "n_trials": 0.0,
   "prediction": 0.00143694581966533,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

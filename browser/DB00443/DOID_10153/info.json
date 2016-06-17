@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00443",
   "compound_name": "Betamethasone",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:10153",
   "disease_name": "ileum cancer",
+  "disease_percentile": 0.533810143042913,
   "metapath_contribution": {
     "CbGeAlD": 0.03190027810363058,
     "CtDrD": 0.9680997218963694
   },
+  "n_trials": 0.0,
   "prediction": 0.0013372933448554,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

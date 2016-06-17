@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00780",
   "compound_name": "Phenelzine",
+  "compound_percentile": 0.47058823529411803,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.373211963589077,
   "metapath_contribution": {
     "CbGbCtD": 0.2308707339914615,
     "CbGeAlD": 0.25043024976391043,
     "CbGpPWpGaD": 0.2777509990334806,
     "CcSEcCtD": 0.24094801721114747
   },
+  "n_trials": 0.0,
   "prediction": 0.00123932409139569,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

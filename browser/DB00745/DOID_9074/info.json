@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:9074",
   "disease_name": "systemic lupus erythematosus",
+  "disease_percentile": 0.19375812743823104,
   "metapath_contribution": {
     "CbGbCtD": 0.6690790291914169,
     "CbGeAlD": 0.05791579050049406,
     "CcSEcCtD": 0.2701393281688542,
     "CrCbGaD": 0.002865852139234882
   },
+  "n_trials": 1.0,
   "prediction": 0.0011411541927415,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

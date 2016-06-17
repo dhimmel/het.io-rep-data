@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00815",
   "compound_name": "Sodium lauryl sulfate",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.618985695708713,
   "metapath_contribution": {
     "CbGaD": 0.4983126800858712,
     "CbGbCtD": 0.14538855721700955,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.31666265316825404,
     "CrCbGaD": 0.003436803736976234
   },
+  "n_trials": 0.0,
   "prediction": 0.0030290006359098,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

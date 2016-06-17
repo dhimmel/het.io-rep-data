@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00261",
   "compound_name": "Anagrelide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.7802340702210658,
   "metapath_contribution": {
     "CbGaD": 0.46770527590516875,
     "CbGbCtD": 0.24603494427112133,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.07060755382444674,
     "CcSEcCtD": 0.21262438214745563
   },
+  "n_trials": 0.0,
   "prediction": 0.00912481354363707,
   "status": 0,
   "training_prediction": 0.0992240893561286

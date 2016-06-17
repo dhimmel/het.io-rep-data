@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00357",
   "compound_name": "Aminoglutethimide",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.8803641092327701,
   "metapath_contribution": {
     "CbGaD": 0.2744615640719907,
     "CbGbCtD": 0.2828888031297981,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.0035727542406060477,
     "CrCrCtD": 0.3467894003162333
   },
+  "n_trials": 0.0,
   "prediction": 0.0150029047128352,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

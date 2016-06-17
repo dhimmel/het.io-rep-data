@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01041",
   "compound_name": "Thalidomide",
+  "compound_percentile": 0.10294117647058802,
   "disease_id": "DOID:12849",
   "disease_name": "autistic disorder",
+  "disease_percentile": 0.271131339401821,
   "metapath_contribution": {
     "CbGaD": 0.47216993394602835,
     "CbGeAlD": 0.1708533615313689,
     "CbGpPWpGaD": 0.3442466671788936,
     "CrCbGaD": 0.012730037343709123
   },
+  "n_trials": 0.0,
   "prediction": 0.000985745442163711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

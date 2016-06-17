@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01063",
   "compound_name": "Acetophenazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.8335500650195059,
   "metapath_contribution": {
     "CbGaD": 0.8699654678882313,
     "CbGeAlD": 0.0024596717691918227,
     "CbGpPWpGaD": 0.11863749005545132,
     "CrCbGaD": 0.00893737028712549
   },
+  "n_trials": 0.0,
   "prediction": 0.0022754316911307603,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

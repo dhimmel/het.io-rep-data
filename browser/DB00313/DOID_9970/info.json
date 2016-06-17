@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00313",
   "compound_name": "Valproic Acid",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.958387516254877,
   "metapath_contribution": {
     "CbGbCtD": 0.19418307584708808,
     "CbGeAlD": 0.03040829830351863,
@@ -11,6 +13,7 @@
     "CiPCiCtD": 0.40992314331905233,
     "CpDpCtD": 0.2278820607262487
   },
+  "n_trials": 0.0,
   "prediction": 0.0173706169402204,
   "status": 0,
   "training_prediction": 0.0704125178873573

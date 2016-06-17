@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00240",
   "compound_name": "Alclometasone",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3083",
   "disease_name": "chronic obstructive pulmonary disease",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGbCtD": 0.1403519238423828,
     "CbGpPWpGaD": 0.00022655958878555344,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.19243161459170757,
     "CrCtD": 0.27595905904165596
   },
+  "n_trials": 0.0,
   "prediction": 0.0136052472228453,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

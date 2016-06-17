@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00753",
   "compound_name": "Isoflurane",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.728218465539662,
   "metapath_contribution": {
     "CbGaD": 0.2725305631242178,
     "CbGbCtD": 0.21127240620647672,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.09892355100607196,
     "CrCbGaD": 0.003928924510486527
   },
+  "n_trials": 0.0,
   "prediction": 0.00251666702914575,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

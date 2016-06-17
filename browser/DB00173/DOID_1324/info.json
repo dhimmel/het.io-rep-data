@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00173",
   "compound_name": "Adenine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.6755526657997399,
   "metapath_contribution": {
     "CbGaD": 0.5603730591844185,
     "CbGbCtD": 0.22447424337990995,
@@ -11,7 +13,7 @@
     "CbGpPWpGaD": 0.11758661566111316,
     "CrCbGaD": 0.008260664954892612
   },
+  "n_trials": 0.0,
   "prediction": 0.0024408066784084,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

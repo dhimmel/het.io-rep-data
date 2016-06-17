@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00160",
   "compound_name": "L-Alanine",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.170351105331599,
   "metapath_contribution": {
     "CbGdCrCtD": 0.012557519755285981,
     "CbGeAlD": 0.36967433508368086,
     "CbGpPWpGaD": 0.6013346510361373,
     "CrCbGaD": 0.016433494124896024
   },
+  "n_trials": 0.0,
   "prediction": 0.00112263341986288,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

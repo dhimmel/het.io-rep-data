@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00499",
   "compound_name": "Flutamide",
+  "compound_percentile": 0.713235294117647,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.891417425227568,
   "metapath_contribution": {
     "CbGaD": 0.7961630925799204,
     "CbGeAlD": 0.04889634805147315,
     "CbGpPWpGaD": 0.15253779279895263,
     "CrCbGaD": 0.0024027665696538486
   },
+  "n_trials": 0.0,
   "prediction": 0.0031950292143765,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01016",
   "compound_name": "Glyburide",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.933680104031209,
   "metapath_contribution": {
     "CbGaD": 0.3944416264282934,
     "CbGbCtD": 0.3860601196808904,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.06803633586036903,
     "CrCbGaD": 0.000945327652805421
   },
+  "n_trials": 0.0,
   "prediction": 0.00428332100166303,
   "status": 0,
   "training_prediction": 0.00702790452505152

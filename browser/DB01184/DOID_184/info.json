@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01184",
   "compound_name": "Domperidone",
+  "compound_percentile": 0.661764705882353,
   "disease_id": "DOID:184",
   "disease_name": "bone cancer",
+  "disease_percentile": 0.545513654096229,
   "metapath_contribution": {
     "CbGaD": 0.7532834656636511,
     "CbGbCtD": 0.1547797483965704,
     "CbGpPWpGaD": 0.08716066031378303,
     "CrCbGaD": 0.004776125625995492
   },
+  "n_trials": 0.0,
   "prediction": 0.00162860294702807,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

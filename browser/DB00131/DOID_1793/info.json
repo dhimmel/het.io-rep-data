@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00131",
   "compound_name": "Adenosine monophosphate",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.8107932379713909,
   "metapath_contribution": {
     "CbGaD": 0.3443028310887625,
     "CbGbCtD": 0.16880397172371608,
@@ -12,7 +14,7 @@
     "CrCbGaD": 0.004671705078433542,
     "CrCrCtD": 0.3174951237262287
   },
+  "n_trials": 0.0,
   "prediction": 0.0028480818603077197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

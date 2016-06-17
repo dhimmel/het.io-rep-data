@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00995",
   "compound_name": "Auranofin",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.13478221160252035,
     "CbGbCtD": 0.3580816049795706,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.018992760465291855,
     "CtDrD": 0.4259280875711475
   },
+  "n_trials": 0.0,
   "prediction": 0.0261111381558165,
   "status": 0,
   "training_prediction": 0.0679969324740167

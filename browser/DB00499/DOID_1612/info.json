@@ -1,16 +1,19 @@
 {
   "compound_id": "DB00499",
   "compound_name": "Flutamide",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1612",
   "disease_name": "breast cancer",
+  "disease_percentile": 0.925877763328999,
   "metapath_contribution": {
-    "CbGaD": 0.41222107341538905,
-    "CbGbCtD": 0.37472463622583096,
-    "CbGeAlD": 0.018408334608077396,
-    "CbGpPWpGaD": 0.08144357237370191,
-    "CcSEcCtD": 0.1122957274420817,
-    "CrCbGaD": 0.0009066559349188609
+    "CbGaD": 0.41222107341538916,
+    "CbGbCtD": 0.3747246362258311,
+    "CbGeAlD": 0.018408334608077403,
+    "CbGpPWpGaD": 0.08144357237370192,
+    "CcSEcCtD": 0.11229572744208173,
+    "CrCbGaD": 0.0009066559349188611
   },
+  "n_trials": 2.0,
   "prediction": 0.009123259388271491,
   "status": 0,
   "training_prediction": 0.048626319211468

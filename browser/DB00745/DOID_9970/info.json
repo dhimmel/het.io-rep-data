@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00745",
   "compound_name": "Modafinil",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9947984395318601,
   "metapath_contribution": {
     "CbGbCtD": 0.14689610228625277,
     "CbGpPWpGaD": 0.015907462522022662,
@@ -13,7 +15,7 @@
     "CrCrCtD": 0.12122831579616165,
     "CrCtD": 0.16545723945966873
   },
+  "n_trials": 0.0,
   "prediction": 0.165464494896178,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00590",
   "compound_name": "Doxazosin",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.5903771131339399,
   "metapath_contribution": {
     "CbGbCtD": 0.28975588819480835,
     "CbGeAlD": 0.128537022596624,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.521078636532642,
     "CrCbGaD": 0.009146301539823902
   },
+  "n_trials": 0.0,
   "prediction": 0.00177370745664634,
   "status": 0,
   "training_prediction": 0.00323971022418294

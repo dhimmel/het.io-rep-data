@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00285",
   "compound_name": "Venlafaxine",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.6222366710013001,
   "metapath_contribution": {
     "CbGaD": 0.7932438526525649,
     "CbGeAlD": 0.06100173557043025,
     "CbGpPWpGaD": 0.14109522237808744,
     "CrCbGaD": 0.004659189398917364
   },
+  "n_trials": 0.0,
   "prediction": 0.00186829809842725,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

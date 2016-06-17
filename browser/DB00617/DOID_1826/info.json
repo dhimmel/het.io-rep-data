@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00617",
   "compound_name": "Paramethadione",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.22015824430219133,
     "CbGbCtD": 0.25221236275361447,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.001774349239373411,
     "CrCtD": 0.4905195167542397
   },
+  "n_trials": 0.0,
   "prediction": 0.0468578461921711,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00432",
   "compound_name": "Trifluridine",
+  "compound_percentile": 0.125,
   "disease_id": "DOID:1781",
   "disease_name": "thyroid cancer",
+  "disease_percentile": 0.0201560468140442,
   "metapath_contribution": {
-    "CbGdCrCtD": 0.06082952531731144,
-    "CbGeAlD": 0.22091509808535334,
-    "CbGpPWpGaD": 0.37405805918557106,
-    "CcSEcCtD": 0.2992149387096827,
-    "CrCbGaD": 0.04498237870208138
+    "CbGdCrCtD": 0.06082952531731146,
+    "CbGeAlD": 0.2209150980853534,
+    "CbGpPWpGaD": 0.3740580591855711,
+    "CcSEcCtD": 0.29921493870968274,
+    "CrCbGaD": 0.044982378702081396
   },
+  "n_trials": 0.0,
   "prediction": 0.000595857766236852,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

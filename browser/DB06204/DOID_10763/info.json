@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06204",
   "compound_name": "Tapentadol",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.620936280884265,
   "metapath_contribution": {
     "CbGaD": 0.31158325885886956,
     "CbGbCtD": 0.3956969543470363,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.16577939286349896,
     "CrCbGaD": 0.001705483959056102
   },
+  "n_trials": 0.0,
   "prediction": 0.00519393857888436,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

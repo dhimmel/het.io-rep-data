@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00988",
   "compound_name": "Dopamine",
+  "compound_percentile": 0.852941176470588,
   "disease_id": "DOID:12930",
   "disease_name": "dilated cardiomyopathy",
+  "disease_percentile": 0.717815344603381,
   "metapath_contribution": {
     "CbGaD": 0.7563216458610852,
     "CbGbCtD": 0.05307224364024452,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12273114839174339,
     "CrCbGaD": 0.007327579864913021
   },
+  "n_trials": 0.0,
   "prediction": 0.00215641658025478,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

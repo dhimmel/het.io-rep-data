@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00118",
   "compound_name": "S-Adenosylmethionine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:3571",
   "disease_name": "liver cancer",
+  "disease_percentile": 0.697009102730819,
   "metapath_contribution": {
     "CbGaD": 0.8564347350928907,
     "CbGdCrCtD": 0.004306328747567874,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.1297651967219258,
     "CrCbGaD": 0.0029799701434199822
   },
+  "n_trials": 0.0,
   "prediction": 0.0019073156289370601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

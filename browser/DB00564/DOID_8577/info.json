@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00564",
   "compound_name": "Carbamazepine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.343953185955787,
   "metapath_contribution": {
     "CbGaD": 0.12625187342546818,
     "CbGbCtD": 0.35748888685105834,
@@ -12,6 +14,7 @@
     "CrCbGaD": 0.003513644641499022,
     "CrCrCtD": 0.3714979229231537
   },
+  "n_trials": 0.0,
   "prediction": 0.00169605932630817,
   "status": 0,
   "training_prediction": 0.00579402538837271

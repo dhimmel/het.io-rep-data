@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00651",
   "compound_name": "Dyphylline",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.36866059817945396,
   "metapath_contribution": {
     "CbGaD": 0.6605366079185442,
     "CbGeAlD": 0.0677258872812168,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.10374577760652115,
     "CrCbGaD": 0.009629915402667272
   },
+  "n_trials": 0.0,
   "prediction": 0.0018087241848312198,
   "status": 0,
   "training_prediction": 0.00765617820380942

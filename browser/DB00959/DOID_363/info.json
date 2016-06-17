@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00959",
   "compound_name": "Methylprednisolone",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9187256176853059,
   "metapath_contribution": {
     "CbGbCtD": 0.20979710257619053,
     "CbGeAlD": 0.0005848426616815111,
@@ -11,6 +13,7 @@
     "CrCrCtD": 0.2851928325343823,
     "CrCtD": 0.444416288657963
   },
+  "n_trials": 0.0,
   "prediction": 0.004090599629443329,
   "status": 0,
   "training_prediction": 0.044596613912822

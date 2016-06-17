@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00661",
   "compound_name": "Verapamil",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1312",
   "disease_name": "focal segmental glomerulosclerosis",
+  "disease_percentile": 0.9830949284785441,
   "metapath_contribution": {
     "CbGbCtD": 0.37622015863427366,
     "CbGeAlD": 0.008346542763518835,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.017207188552783432,
     "CtDrD": 0.5280405810331702
   },
+  "n_trials": 0.0,
   "prediction": 0.00632927974770785,
   "status": 0,
   "training_prediction": 0.0047661836659093

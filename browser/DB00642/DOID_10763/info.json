@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00642",
   "compound_name": "Pemetrexed",
+  "compound_percentile": 0.23529411764705901,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.0539661898569571,
   "metapath_contribution": {
     "CbGdCrCtD": 0.005962121324920497,
     "CbGeAlD": 0.16584661735336537,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.5284547492776025,
     "CrCbGaD": 0.0046937285584434905
   },
+  "n_trials": 0.0,
   "prediction": 0.0010106036894286,
   "status": 0,
   "training_prediction": 0.0119561548337286

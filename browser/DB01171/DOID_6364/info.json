@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01171",
   "compound_name": "Moclobemide",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:6364",
   "disease_name": "migraine",
+  "disease_percentile": 0.609882964889467,
   "metapath_contribution": {
     "CbGbCtD": 0.7319752357003078,
     "CbGeAlD": 0.015246874273602162,
     "CcSEcCtD": 0.2417451800669729,
     "CrCbGaD": 0.011032709959117067
   },
+  "n_trials": 0.0,
   "prediction": 0.00290618895780252,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

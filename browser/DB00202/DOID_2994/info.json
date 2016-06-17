@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00202",
   "compound_name": "Succinylcholine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:2994",
   "disease_name": "germ cell cancer",
+  "disease_percentile": 0.565669700910273,
   "metapath_contribution": {
     "CbGeAlD": 0.7790295082291482,
     "CcSEcCtD": 0.2209704917708518
   },
+  "n_trials": 0.0,
   "prediction": 0.0017515013686962401,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

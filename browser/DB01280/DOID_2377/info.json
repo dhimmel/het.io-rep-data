@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01280",
   "compound_name": "Nelarabine",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.985695708712614,
   "metapath_contribution": {
     "CbGbCtD": 0.1638977932927705,
     "CbGdCrCtD": 0.0007533436963906035,
@@ -14,6 +16,7 @@
     "CrCrCtD": 0.19808990368729093,
     "CrCtD": 0.2821014964613752
   },
+  "n_trials": 0.0,
   "prediction": 0.0338789411098205,
   "status": 0,
   "training_prediction": 0.0826423000084029

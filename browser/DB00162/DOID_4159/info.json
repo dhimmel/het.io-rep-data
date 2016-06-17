@@ -1,13 +1,15 @@
 {
   "compound_id": "DB00162",
   "compound_name": "Vitamin A",
+  "compound_percentile": 0.25,
   "disease_id": "DOID:4159",
   "disease_name": "skin cancer",
+  "disease_percentile": 0.0305591677503251,
   "metapath_contribution": {
     "CbGeAlD": 0.6777947000299867,
     "CbGpPWpGaD": 0.3222052999700133
   },
+  "n_trials": 0.0,
   "prediction": 0.00073244089757978,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

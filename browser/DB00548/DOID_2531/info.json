@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00548",
   "compound_name": "Azelaic Acid",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.4661898569570871,
   "metapath_contribution": {
     "CbGeAlD": 0.010330951819421716,
     "CbGpPWpGaD": 0.015189032307500929,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.004792019450764433,
     "CrCtD": 0.8824147364401899
   },
+  "n_trials": 0.0,
   "prediction": 0.00215475016592442,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

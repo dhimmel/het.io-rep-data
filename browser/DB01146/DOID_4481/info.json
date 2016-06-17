@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01146",
   "compound_name": "Diphenylpyraline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:4481",
   "disease_name": "allergic rhinitis",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGbCtD": 0.24142290028561164,
     "CbGeAlD": 0.001648658754149615,
     "CrCrCtD": 0.2914005249398856,
     "CrCtD": 0.46552791602035315
   },
+  "n_trials": 0.0,
   "prediction": 0.0171197378514299,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

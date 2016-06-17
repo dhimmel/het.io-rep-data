@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01197",
   "compound_name": "Captopril",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:13378",
   "disease_name": "Kawasaki disease",
+  "disease_percentile": 0.9869960988296491,
   "metapath_contribution": {
     "CbGaD": 0.3180953138096334,
     "CbGbCtD": 0.13491755413393064,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.0221705584329069,
     "CtDrD": 0.4749918008306822
   },
+  "n_trials": 0.0,
   "prediction": 0.017047628017646,
   "status": 0,
   "training_prediction": 0.0174467693290131

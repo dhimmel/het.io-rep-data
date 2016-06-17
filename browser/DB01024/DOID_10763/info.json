@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01024",
   "compound_name": "Mycophenolic acid",
+  "compound_percentile": 0.772058823529412,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.20221066319895997,
   "metapath_contribution": {
     "CbGbCtD": 0.3036881653518419,
     "CbGeAlD": 0.06777376028691222,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.423189426243609,
     "CrCbGaD": 0.0032549876818810507
   },
+  "n_trials": 3.0,
   "prediction": 0.00186517061498633,
   "status": 0,
   "training_prediction": 0.0357717285120043

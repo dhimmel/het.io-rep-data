@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00656",
   "compound_name": "Trazodone",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:594",
   "disease_name": "panic disorder",
+  "disease_percentile": 0.9109232769830949,
   "metapath_contribution": {
     "CbGaD": 0.8575460417816153,
     "CbGeAlD": 0.03503289607896424,
     "CbGpPWpGaD": 0.09912594651408832,
     "CrCbGaD": 0.008295115625332115
   },
+  "n_trials": 0.0,
   "prediction": 0.00253360196410578,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

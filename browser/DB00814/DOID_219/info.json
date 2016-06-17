@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00814",
   "compound_name": "Meloxicam",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:219",
   "disease_name": "colon cancer",
+  "disease_percentile": 0.6872561768530561,
   "metapath_contribution": {
     "CbGaD": 0.369165776166513,
     "CbGbCtD": 0.4843024472949347,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.11760302654108976,
     "CrCbGaD": 0.003606256566781861
   },
+  "n_trials": 0.0,
   "prediction": 0.0020666395873616197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

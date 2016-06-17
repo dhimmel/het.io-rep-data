@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00659",
   "compound_name": "Acamprosate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.9882964889466842,
   "metapath_contribution": {
     "CbGaD": 0.2742606484454221,
     "CbGbCtD": 0.4699315408364963,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.087839935275029,
     "CcSEcCtD": 0.11710982748642414
   },
+  "n_trials": 0.0,
   "prediction": 0.0162300916490301,
   "status": 0,
   "training_prediction": 0.0196380147334522

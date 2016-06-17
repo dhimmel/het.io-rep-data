@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01595",
   "compound_name": "Nitrazepam",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:12361",
   "disease_name": "Graves' disease",
+  "disease_percentile": 0.9557867360208059,
   "metapath_contribution": {
     "CbGaD": 0.711618120678038,
     "CbGbCtD": 0.15089123198064092,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.018942971565602325,
     "CrCbGaD": 0.007271598651246766
   },
+  "n_trials": 0.0,
   "prediction": 0.00334397796768789,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB06708",
   "compound_name": "Lumefantrine",
+  "compound_percentile": 0.977941176470588,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.724317295188557,
   "metapath_contribution": {
     "CbGaD": 0.33420932574861745,
     "CbGbCtD": 0.5918608565700316,
     "CbGpPWpGaD": 0.068899825581857,
     "CrCbGaD": 0.005029992099493987
   },
+  "n_trials": 0.0,
   "prediction": 0.0037798409201161205,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

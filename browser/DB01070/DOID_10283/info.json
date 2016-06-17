@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01070",
   "compound_name": "Dihydrotachysterol",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.373211963589077,
   "metapath_contribution": {
     "CbGaD": 0.866709752717593,
     "CbGeAlD": 0.02015120732791076,
     "CbGpPWpGaD": 0.10474946931105465,
     "CrCbGaD": 0.008389570643441698
   },
+  "n_trials": 0.0,
   "prediction": 0.00183811633432042,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

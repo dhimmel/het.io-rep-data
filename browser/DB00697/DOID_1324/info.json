@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00697",
   "compound_name": "Tizanidine",
+  "compound_percentile": 0.566176470588235,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.35955786736020795,
   "metapath_contribution": {
     "CbGdCrCtD": 0.019994760255830437,
     "CbGeAlD": 0.021933298755659792,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.7984568967468213,
     "CrCbGaD": 0.0022473885728753152
   },
+  "n_trials": 0.0,
   "prediction": 0.0013936143905276801,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

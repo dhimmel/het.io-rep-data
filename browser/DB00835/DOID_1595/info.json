@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00835",
   "compound_name": "Brompheniramine",
+  "compound_percentile": 0.845588235294118,
   "disease_id": "DOID:1595",
   "disease_name": "endogenous depression",
+  "disease_percentile": 0.570221066319896,
   "metapath_contribution": {
     "CbGaD": 0.776835846970637,
     "CbGeAlD": 0.0561441205070548,
     "CbGpPWpGaD": 0.1587891494498663,
     "CrCbGaD": 0.008230883072441898
   },
+  "n_trials": 0.0,
   "prediction": 0.0016345647950645,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

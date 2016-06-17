@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01173",
   "compound_name": "Orphenadrine",
+  "compound_percentile": 0.7352941176470591,
   "disease_id": "DOID:8893",
   "disease_name": "psoriasis",
+  "disease_percentile": 0.20611183355006502,
   "metapath_contribution": {
     "CbGbCtD": 0.15247870600431682,
     "CbGpPWpGaD": 0.003299919898340831,
     "CcSEcCtD": 0.08372845430110008,
     "CpDpCtD": 0.7604929197962421
   },
+  "n_trials": 0.0,
   "prediction": 0.00121547316153421,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

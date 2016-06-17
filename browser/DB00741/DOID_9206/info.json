@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00741",
   "compound_name": "Hydrocortisone",
+  "compound_percentile": 0.823529411764706,
   "disease_id": "DOID:9206",
   "disease_name": "Barrett's esophagus",
+  "disease_percentile": 0.743823146944083,
   "metapath_contribution": {
     "CbGbCtD": 0.22124822408995443,
     "CbGeAlD": 0.004364267121685587,
@@ -11,6 +13,7 @@
     "CpDpCtD": 0.6705254048495557,
     "CrCbGaD": 0.00036237463550151024
   },
+  "n_trials": 0.0,
   "prediction": 0.0022925966309508,
   "status": 0,
   "training_prediction": 0.0085433508806281

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01059",
   "compound_name": "Norfloxacin",
+  "compound_percentile": 0.610294117647059,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.46879063719115704,
   "metapath_contribution": {
     "CbGaD": 0.6619490848750721,
     "CbGbCtD": 0.19790580249531428,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.07077643648421729,
     "CrCbGaD": 0.008190589035303397
   },
+  "n_trials": 0.0,
   "prediction": 0.00135631773454792,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01418",
   "compound_name": "Acenocoumarol",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.817295188556567,
   "metapath_contribution": {
     "CbGaD": 0.8002792584041556,
     "CbGeAlD": 0.046266913566494206,
     "CbGpPWpGaD": 0.15303401816775017,
     "CrCbGaD": 0.0004198098615999949
   },
+  "n_trials": 0.0,
   "prediction": 0.00217757561891156,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

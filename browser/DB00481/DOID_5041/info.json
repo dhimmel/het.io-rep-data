@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00481",
   "compound_name": "Raloxifene",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.910273081924577,
   "metapath_contribution": {
     "CbGaD": 0.5760722513372782,
     "CbGbCtD": 0.1878419006435983,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.09098278798981241,
     "CrCbGaD": 0.003622273043405591
   },
+  "n_trials": 1.0,
   "prediction": 0.00305833590168401,
   "status": 0,
   "training_prediction": 0.00617416321307609

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00949",
   "compound_name": "Felbamate",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.9648894668400521,
   "metapath_contribution": {
     "CbGaD": 0.10111166957759198,
     "CbGbCtD": 0.11911602598855671,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0008939262215244084,
     "CrCrCtD": 0.2615396007157277
   },
+  "n_trials": 0.0,
   "prediction": 0.0196998801737417,
   "status": 0,
   "training_prediction": 0.0490917538491143

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00234",
   "compound_name": "Reboxetine",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:14221",
   "disease_name": "metabolic syndrome X",
+  "disease_percentile": 0.830299089726918,
   "metapath_contribution": {
     "CbGaD": 0.9539766556532001,
     "CbGeAlD": 0.0019891715097999424,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.028009389251380776,
     "CrCbGaD": 0.0005673345274523632
   },
+  "n_trials": 0.0,
   "prediction": 0.00221537065392511,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

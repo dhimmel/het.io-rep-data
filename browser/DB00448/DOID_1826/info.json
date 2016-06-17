@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00448",
   "compound_name": "Lansoprazole",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.726918075422627,
   "metapath_contribution": {
     "CbGaD": 0.2706074137325231,
     "CbGbCtD": 0.4694560771830627,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17520263816548232,
     "CrCbGaD": 0.0026967686386526763
   },
+  "n_trials": 0.0,
   "prediction": 0.00621515976361105,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

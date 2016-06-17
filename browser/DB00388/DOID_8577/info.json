@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00388",
   "compound_name": "Phenylephrine",
+  "compound_percentile": 0.7941176470588229,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.243172951885566,
   "metapath_contribution": {
     "CbGbCtD": 0.586210934917656,
     "CbGpPWpGaD": 0.029273678967167125,
     "CcSEcCtD": 0.370732675453326,
     "CrCbGaD": 0.013782710661850908
   },
+  "n_trials": 0.0,
   "prediction": 0.00143051335505172,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

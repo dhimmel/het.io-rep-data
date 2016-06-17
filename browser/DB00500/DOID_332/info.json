@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00500",
   "compound_name": "Tolmetin",
+  "compound_percentile": 0.360294117647059,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.35370611183354994,
   "metapath_contribution": {
     "CbGaD": 0.7317255231049123,
     "CbGeAlD": 0.03075117437614287,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.09812793015863287,
     "CrCbGaD": 0.006817659279636751
   },
+  "n_trials": 0.0,
   "prediction": 0.0010438212370039901,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

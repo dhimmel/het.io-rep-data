@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.161764705882353,
   "disease_id": "DOID:3070",
   "disease_name": "malignant glioma",
+  "disease_percentile": 0.0565669700910273,
   "metapath_contribution": {
     "CbGbCtD": 0.15035902456140737,
     "CbGeAlD": 0.1719027803533876,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.30762026493989336,
     "CrCbGaD": 0.002192928704566675
   },
+  "n_trials": 0.0,
   "prediction": 0.000636918496030882,
   "status": 0,
   "training_prediction": 0.000781952981862874

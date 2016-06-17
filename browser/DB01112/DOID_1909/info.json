@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01112",
   "compound_name": "Cefuroxime",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1909",
   "disease_name": "melanoma",
+  "disease_percentile": 0.47984395318595596,
   "metapath_contribution": {
     "CbGaD": 0.888209780333467,
     "CbGpPWpGaD": 0.0046211310900542936,
     "CcSEcCtD": 0.10001050816922585,
     "CrCbGaD": 0.0071585804072527804
   },
+  "n_trials": 0.0,
   "prediction": 0.00139648403564301,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

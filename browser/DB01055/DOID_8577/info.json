@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01055",
   "compound_name": "Mimosine",
+  "compound_percentile": 0.779411764705882,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.654096228868661,
   "metapath_contribution": {
     "CbGdCrCtD": 0.011616397340979204,
     "CbGeAlD": 0.045495312072724295,
     "CbGpPWpGaD": 0.17691928419023614,
     "CrCrCtD": 0.7659690063960604
   },
+  "n_trials": 0.0,
   "prediction": 0.00257271913537601,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

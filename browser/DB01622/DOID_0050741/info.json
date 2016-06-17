@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01622",
   "compound_name": "Thioproperazine",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.576072821846554,
   "metapath_contribution": {
     "CbGaD": 0.6687922352464302,
     "CbGbCtD": 0.14608960589795206,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.12073738747540473,
     "CrCbGaD": 0.008292786754939968
   },
+  "n_trials": 0.0,
   "prediction": 0.00239736969449932,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

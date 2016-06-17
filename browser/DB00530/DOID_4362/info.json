@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00530",
   "compound_name": "Erlotinib",
+  "compound_percentile": 0.669117647058823,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.9778933680104029,
   "metapath_contribution": {
     "CbGaD": 0.5359480858147129,
     "CbGbCtD": 0.23565547418942218,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.054389751737819424,
     "CrCbGaD": 0.0038108316072662735
   },
+  "n_trials": 0.0,
   "prediction": 0.0034144624526837803,
   "status": 0,
   "training_prediction": 0.00349554142194559

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00628",
   "compound_name": "Clorazepate",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.826397919375813,
   "metapath_contribution": {
     "CbGaD": 0.4525299873858377,
     "CbGbCtD": 0.3863515121104115,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.03301559445298954,
     "CrCbGaD": 0.006350925272585075
   },
+  "n_trials": 0.0,
   "prediction": 0.00444149276563545,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

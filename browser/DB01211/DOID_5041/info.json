@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01211",
   "compound_name": "Clarithromycin",
+  "compound_percentile": 0.308823529411765,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.182054616384915,
   "metapath_contribution": {
     "CbGaD": 0.5272197224757039,
     "CbGbCtD": 0.14300359956710434,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.18631386426642477,
     "CrCbGaD": 0.008412884718031567
   },
+  "n_trials": 0.0,
   "prediction": 0.000884662222620364,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

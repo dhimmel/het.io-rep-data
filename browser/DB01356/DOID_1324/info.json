@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01356",
   "compound_name": "Lithium",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1324",
   "disease_name": "lung cancer",
+  "disease_percentile": 0.7048114434330301,
   "metapath_contribution": {
     "CbGdCrCtD": 0.008620584463391518,
     "CbGeAlD": 0.14851134247716177,
     "CbGpPWpGaD": 0.5044128054596271,
     "CcSEcCtD": 0.3384552675998197
   },
+  "n_trials": 2.0,
   "prediction": 0.0025919196566507197,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

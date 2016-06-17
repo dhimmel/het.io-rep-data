@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01200",
   "compound_name": "Bromocriptine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.658647594278283,
   "metapath_contribution": {
     "CbGaD": 0.23700945523103994,
     "CbGbCtD": 0.1754478768997617,
@@ -12,6 +14,7 @@
     "CpDpCtD": 0.329327435431216,
     "CrCbGaD": 0.0016204104723913204
   },
+  "n_trials": 0.0,
   "prediction": 0.00500797750668692,
   "status": 0,
   "training_prediction": 0.0241156146604658

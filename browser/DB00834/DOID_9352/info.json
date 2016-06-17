@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00834",
   "compound_name": "Mifepristone",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.8920676202860859,
   "metapath_contribution": {
     "CbGaD": 0.40855759210599757,
     "CbGbCtD": 0.3707587350319296,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.06285656789886963,
     "CcSEcCtD": 0.14224996335129386
   },
+  "n_trials": 0.0,
   "prediction": 0.00745363010131015,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

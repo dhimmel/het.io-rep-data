@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00349",
   "compound_name": "Clobazam",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.298439531859558,
   "metapath_contribution": {
     "CbGaD": 0.1727879939352133,
     "CbGbCtD": 0.5193740243311433,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.1856337607080488,
     "CrCbGaD": 0.004080307093692965
   },
+  "n_trials": 0.0,
   "prediction": 0.0017365687085326,
   "status": 0,
   "training_prediction": 0.007634257441741009

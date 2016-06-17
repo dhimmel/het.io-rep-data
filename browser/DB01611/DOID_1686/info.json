@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01611",
   "compound_name": "Hydroxychloroquine",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1686",
   "disease_name": "glaucoma",
+  "disease_percentile": 0.388166449934981,
   "metapath_contribution": {
     "CbGbCtD": 0.46248517855174415,
     "CbGpPWpGaD": 0.052876251142617195,
     "CcSEcCtD": 0.47474639180731243,
     "CrCbGaD": 0.009892178498326196
   },
+  "n_trials": 0.0,
   "prediction": 0.00161422882730162,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

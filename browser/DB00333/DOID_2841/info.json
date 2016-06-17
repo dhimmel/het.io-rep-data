@@ -1,17 +1,19 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.882352941176471,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.41092327698309494,
   "metapath_contribution": {
-    "CbGbCtD": 0.5350853221823769,
-    "CbGeAlD": 0.0008901510989274787,
-    "CbGpPWpGaD": 0.06852913901756898,
-    "CcSEcCtD": 0.1685271495517718,
-    "CrCbGaD": 0.0011567589941588515,
-    "CrCrCtD": 0.22581147915519614
+    "CbGbCtD": 0.5350853221823768,
+    "CbGeAlD": 0.0008901510989274786,
+    "CbGpPWpGaD": 0.06852913901756896,
+    "CcSEcCtD": 0.16852714955177178,
+    "CrCbGaD": 0.0011567589941588513,
+    "CrCrCtD": 0.22581147915519612
   },
+  "n_trials": 0.0,
   "prediction": 0.00215598340926629,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

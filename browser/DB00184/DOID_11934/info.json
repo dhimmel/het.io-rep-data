@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00184",
   "compound_name": "Nicotine",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:11934",
   "disease_name": "head and neck cancer",
+  "disease_percentile": 0.9616384915474642,
   "metapath_contribution": {
     "CbGaD": 0.4492563882485037,
     "CbGbCtD": 0.25744045650814573,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.05913679364633524,
     "CcSEcCtD": 0.09973860046514964
   },
+  "n_trials": 4.0,
   "prediction": 0.00404755717750398,
   "status": 0,
   "training_prediction": 0.004910213105156

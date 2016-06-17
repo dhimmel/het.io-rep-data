@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01194",
   "compound_name": "Brinzolamide",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:3393",
   "disease_name": "coronary artery disease",
+  "disease_percentile": 0.8992197659297791,
   "metapath_contribution": {
     "CbGaD": 0.34473986123205674,
     "CbGbCtD": 0.4025453097516541,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.14281635965353373,
     "CrCbGaD": 0.003024309761727721
   },
+  "n_trials": 0.0,
   "prediction": 0.00766333170380233,
   "status": 0,
   "training_prediction": 0.0399880312405529

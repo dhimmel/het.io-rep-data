@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01340",
   "compound_name": "Cilazapril",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.7594278283485051,
   "metapath_contribution": {
     "CbGaD": 0.5050791272176319,
     "CbGbCtD": 0.2385162442658473,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.2353281845415056,
     "CrCbGaD": 0.00451733904879864
   },
+  "n_trials": 0.0,
   "prediction": 0.00246344686820168,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

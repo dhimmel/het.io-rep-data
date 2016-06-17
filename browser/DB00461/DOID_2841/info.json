@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00461",
   "compound_name": "Nabumetone",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.805591677503251,
   "metapath_contribution": {
     "CbGaD": 0.1680748638252107,
     "CbGbCtD": 0.26843178489302916,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.36431157574996875,
     "CrCbGaD": 0.0027179545715530894
   },
+  "n_trials": 0.0,
   "prediction": 0.00500390762951643,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

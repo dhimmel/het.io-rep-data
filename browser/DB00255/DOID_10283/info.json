@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00255",
   "compound_name": "Diethylstilbestrol",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.8660598179453841,
   "metapath_contribution": {
     "CbGaD": 0.41045378674881844,
     "CbGbCtD": 0.4665093900997934,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.08576364375281834,
     "CrCbGaD": 0.0024492057146940755
   },
+  "n_trials": 3.0,
   "prediction": 0.005899086713618829,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

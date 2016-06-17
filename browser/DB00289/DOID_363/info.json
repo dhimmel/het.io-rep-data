@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00289",
   "compound_name": "Atomoxetine",
+  "compound_percentile": 0.602941176470588,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.0988296488946684,
   "metapath_contribution": {
     "CbGbCtD": 0.42476237331850997,
     "CbGeAlD": 0.08661887259672557,
     "CcSEcCtD": 0.4882720978017289,
     "CrCbGaD": 0.00034665628303556193
   },
+  "n_trials": 0.0,
   "prediction": 0.000909639670272416,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

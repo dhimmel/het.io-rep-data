@@ -1,8 +1,10 @@
 {
   "compound_id": "DB04896",
   "compound_name": "Milnacipran",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9970",
   "disease_name": "obesity",
+  "disease_percentile": 0.99739921976593,
   "metapath_contribution": {
     "CbGaD": 0.07197297665299171,
     "CbGbCtD": 0.16802529886357448,
@@ -14,7 +16,7 @@
     "CrCrCtD": 0.14077277942518077,
     "CrCtD": 0.2546776437902673
   },
+  "n_trials": 0.0,
   "prediction": 0.22573928415681302,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

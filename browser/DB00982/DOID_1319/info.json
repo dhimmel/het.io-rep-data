@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00982",
   "compound_name": "Isotretinoin",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.457737321196359,
   "metapath_contribution": {
     "CbGeAlD": 0.035003900827589945,
     "CbGpPWpGaD": 0.033673836348999515,
@@ -10,6 +12,7 @@
     "CrCbGaD": 0.0007225286339476578,
     "CtDrD": 0.7996234133089211
   },
+  "n_trials": 5.0,
   "prediction": 0.00147991171678399,
   "status": 0,
   "training_prediction": 0.00270374445809388

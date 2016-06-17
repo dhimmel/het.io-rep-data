@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00969",
   "compound_name": "Alosetron",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.5741222366710009,
   "metapath_contribution": {
     "CbGbCtD": 0.6431023711672919,
     "CbGeAlD": 0.09926155705978458,
     "CcSEcCtD": 0.25763607177292347
   },
+  "n_trials": 0.0,
   "prediction": 0.00231147248982309,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

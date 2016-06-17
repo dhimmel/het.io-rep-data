@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00223",
   "compound_name": "Diflorasone",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.968790637191157,
   "metapath_contribution": {
     "CbGbCtD": 0.21369842821512688,
     "CcSEcCtD": 0.046961671008021906,
@@ -10,7 +12,7 @@
     "CrCrCtD": 0.309326475352034,
     "CrCtD": 0.4296086402914387
   },
+  "n_trials": 0.0,
   "prediction": 0.0118889420573641,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

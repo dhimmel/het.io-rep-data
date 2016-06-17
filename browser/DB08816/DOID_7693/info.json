@@ -1,13 +1,15 @@
 {
   "compound_id": "DB08816",
   "compound_name": "Ticagrelor",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:7693",
   "disease_name": "abdominal aortic aneurysm",
+  "disease_percentile": 0.992847854356307,
   "metapath_contribution": {
     "CbGaD": 0.9895014853872408,
     "CbGeAlD": 0.010498514612759169
   },
+  "n_trials": 1.0,
   "prediction": 0.0037206849102245296,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00902",
   "compound_name": "Methdilazine",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.13719115734720402,
   "metapath_contribution": {
     "CbGbCtD": 0.4153389908376528,
     "CbGeAlD": 0.020618331350252986,
@@ -10,7 +12,7 @@
     "CrCbGaD": 0.003235727958240336,
     "CrCrCtD": 0.5081822748944165
   },
+  "n_trials": 0.0,
   "prediction": 0.00130387768191374,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

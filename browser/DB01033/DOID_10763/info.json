@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01033",
   "compound_name": "Mercaptopurine",
+  "compound_percentile": 0.9191176470588229,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.695708712613784,
   "metapath_contribution": {
     "CbGaD": 0.30377371678002246,
     "CbGbCtD": 0.38291656417127196,
@@ -11,6 +13,7 @@
     "CbGpPWpGaD": 0.11373418199374986,
     "CcSEcCtD": 0.14488953437237428
   },
+  "n_trials": 0.0,
   "prediction": 0.0068075044044810604,
   "status": 0,
   "training_prediction": 0.155750558372311

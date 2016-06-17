@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01095",
   "compound_name": "Fluvastatin",
+  "compound_percentile": 0.4779411764705879,
   "disease_id": "DOID:2355",
   "disease_name": "anemia",
+  "disease_percentile": 0.516905071521456,
   "metapath_contribution": {
     "CbGaD": 0.7338287747591294,
     "CbGeAlD": 0.10976316825315321,
     "CbGpPWpGaD": 0.15299158469024082,
     "CrCbGaD": 0.003416472297476603
   },
+  "n_trials": 0.0,
   "prediction": 0.00125692048582236,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00993",
   "compound_name": "Azathioprine",
+  "compound_percentile": 0.588235294117647,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.7392717815344599,
   "metapath_contribution": {
     "CbGaD": 0.7124701464142484,
     "CbGeAlD": 0.11525809185056442,
     "CbGpPWpGaD": 0.16099731278293117,
     "CrCbGaD": 0.011274448952255876
   },
+  "n_trials": 0.0,
   "prediction": 0.0021283299474736802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

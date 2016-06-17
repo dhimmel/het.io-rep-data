@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01053",
   "compound_name": "Benzylpenicillin",
+  "compound_percentile": 0.654411764705882,
   "disease_id": "DOID:2531",
   "disease_name": "hematologic cancer",
+  "disease_percentile": 0.1222366710013,
   "metapath_contribution": {
     "CbGbCtD": 0.22624896269091677,
     "CbGeAlD": 0.022481898101836626,
@@ -11,7 +13,7 @@
     "CrCbGaD": 1.10004162800669e-05,
     "CrCrCtD": 0.3807289202929637
   },
+  "n_trials": 0.0,
   "prediction": 0.0010415455316339802,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

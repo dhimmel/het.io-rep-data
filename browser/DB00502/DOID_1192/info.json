@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00502",
   "compound_name": "Haloperidol",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.7490247074122242,
   "metapath_contribution": {
     "CbGaD": 0.1994260409555622,
     "CbGbCtD": 0.5221324470126395,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.04237007220706434,
     "CcSEcCtD": 0.16028172537888935
   },
+  "n_trials": 0.0,
   "prediction": 0.00242163571975376,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,14 +1,16 @@
 {
   "compound_id": "DB00122",
   "compound_name": "Choline",
+  "compound_percentile": 0.75,
   "disease_id": "DOID:3312",
   "disease_name": "bipolar disorder",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.6221670181278968,
     "CbGeAlD": 0.14728591164428426,
     "CbGpPWpGaD": 0.2305470702278191
   },
+  "n_trials": 1.0,
   "prediction": 0.00285451167126637,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

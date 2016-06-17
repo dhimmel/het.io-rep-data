@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00591",
   "compound_name": "Fluocinolone Acetonide",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.649544863459038,
   "metapath_contribution": {
     "CbGaD": 0.139222834168574,
     "CbGbCtD": 0.13828477094448188,
@@ -14,6 +16,7 @@
     "CrCbGaD": 0.0024349604305071953,
     "CrCrCtD": 0.19073993420194157
   },
+  "n_trials": 0.0,
   "prediction": 0.0031116680617071,
   "status": 0,
   "training_prediction": 0.0217160673191947

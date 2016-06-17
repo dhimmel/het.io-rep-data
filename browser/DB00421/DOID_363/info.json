@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.9852941176470591,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.9895968790637191,
   "metapath_contribution": {
     "CbGaD": 0.13113868778126128,
     "CbGbCtD": 0.22276962909857112,
@@ -13,6 +15,7 @@
     "CrCrCtD": 0.23282165540669467,
     "CrCtD": 0.3477199002655506
   },
+  "n_trials": 0.0,
   "prediction": 0.0386338270200699,
   "status": 0,
   "training_prediction": 0.10921514704149

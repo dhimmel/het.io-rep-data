@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00721",
   "compound_name": "Procaine",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:1094",
   "disease_name": "attention deficit hyperactivity disorder",
+  "disease_percentile": 0.8751625487646291,
   "metapath_contribution": {
     "CbGaD": 0.8377662917981272,
     "CbGeAlD": 0.05600395207145018,
     "CbGpPWpGaD": 0.10164843702119501,
     "CrCbGaD": 0.004581319109227614
   },
+  "n_trials": 0.0,
   "prediction": 0.00244755641361892,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

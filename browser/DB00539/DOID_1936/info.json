@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00539",
   "compound_name": "Toremifene",
+  "compound_percentile": 0.8308823529411771,
   "disease_id": "DOID:1936",
   "disease_name": "atherosclerosis",
+  "disease_percentile": 0.667750325097529,
   "metapath_contribution": {
     "CbGaD": 0.4974130357313677,
     "CbGbCtD": 0.3091584901265486,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.12418686876242853,
     "CrCbGaD": 0.004833007737037588
   },
+  "n_trials": 0.0,
   "prediction": 0.0023052752441993897,
   "status": 0,
   "training_prediction": 0.00375821388357979

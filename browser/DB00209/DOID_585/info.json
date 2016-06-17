@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00209",
   "compound_name": "Trospium",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:585",
   "disease_name": "nephrolithiasis",
+  "disease_percentile": 0.9343302990897271,
   "metapath_contribution": {
     "CbGaD": 0.8921231142737427,
     "CbGeAlD": 0.01917290607880801,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.06127808950419955,
     "CrCbGaD": 0.008417559357955351
   },
+  "n_trials": 0.0,
   "prediction": 0.0029406175404998397,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

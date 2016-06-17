@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00333",
   "compound_name": "Methadone",
+  "compound_percentile": 0.816176470588235,
   "disease_id": "DOID:8577",
   "disease_name": "ulcerative colitis",
+  "disease_percentile": 0.323797139141743,
   "metapath_contribution": {
     "CbGaD": 0.1636885407566297,
     "CbGbCtD": 0.6428371348333962,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.14151091300114654,
     "CrCbGaD": 0.0038182253049156836
   },
+  "n_trials": 0.0,
   "prediction": 0.00165843860697339,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

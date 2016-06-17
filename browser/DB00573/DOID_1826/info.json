@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00573",
   "compound_name": "Fenoprofen",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.566970091027308,
   "metapath_contribution": {
     "CbGaD": 0.20417377029668343,
     "CbGbCtD": 0.2702904597359674,
@@ -11,7 +13,7 @@
     "CrCbGaD": 0.003955989576566202,
     "CrCrCtD": 0.37023970977478887
   },
+  "n_trials": 0.0,
   "prediction": 0.00390504489730095,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

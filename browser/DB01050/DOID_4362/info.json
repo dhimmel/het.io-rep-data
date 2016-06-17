@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01050",
   "compound_name": "Ibuprofen",
+  "compound_percentile": 0.411764705882353,
   "disease_id": "DOID:4362",
   "disease_name": "cervical cancer",
+  "disease_percentile": 0.421976592977893,
   "metapath_contribution": {
     "CbGdCrCtD": 0.022405884176716438,
     "CbGeAlD": 0.44884101843865737,
     "CbGpPWpGaD": 0.42661095026575874,
     "CcSEcCtD": 0.10214214711886749
   },
+  "n_trials": 0.0,
   "prediction": 0.00127029548020138,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

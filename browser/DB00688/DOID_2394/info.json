@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00688",
   "compound_name": "Mycophenolate mofetil",
+  "compound_percentile": 0.617647058823529,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.642392717815345,
   "metapath_contribution": {
     "CbGaD": 0.1482653072399489,
     "CbGbCtD": 0.5121135660910107,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.0679883468856033,
     "CcSEcCtD": 0.20781312832012772
   },
+  "n_trials": 0.0,
   "prediction": 0.00183611604242436,
   "status": 0,
   "training_prediction": 0.00988601087206875

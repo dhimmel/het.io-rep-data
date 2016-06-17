@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01226",
   "compound_name": "Mivacurium",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.769180754226268,
   "metapath_contribution": {
     "CbGaD": 0.8147671225393328,
     "CbGeAlD": 0.03900529090049872,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04556400428298518,
     "CrCbGaD": 0.004505758783464352
   },
+  "n_trials": 0.0,
   "prediction": 0.0036941838234495,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

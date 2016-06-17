@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00248",
   "compound_name": "Cabergoline",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.9811443433029909,
   "metapath_contribution": {
     "CbGaD": 0.1129476155867056,
     "CbGbCtD": 0.16695949918350428,
@@ -13,7 +15,7 @@
     "CpDpCtD": 0.17231303803305031,
     "CrCbGaD": 0.0008757270304044255
   },
+  "n_trials": 1.0,
   "prediction": 0.0794358276527691,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

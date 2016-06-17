@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01033",
   "compound_name": "Mercaptopurine",
+  "compound_percentile": 0.933823529411765,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.951885565669701,
   "metapath_contribution": {
     "CbGaD": 0.45228826048719606,
     "CbGbCtD": 0.3693349741224117,
@@ -12,6 +14,7 @@
     "CcSEcCtD": 0.08410276367057783,
     "CrCbGaD": 0.00341916549608997
   },
+  "n_trials": 0.0,
   "prediction": 0.008668774629572041,
   "status": 0,
   "training_prediction": 0.0548698475480387

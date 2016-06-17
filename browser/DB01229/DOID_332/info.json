@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01229",
   "compound_name": "Paclitaxel",
+  "compound_percentile": 0.6764705882352939,
   "disease_id": "DOID:332",
   "disease_name": "amyotrophic lateral sclerosis",
+  "disease_percentile": 0.9694408322496751,
   "metapath_contribution": {
     "CbGaD": 0.533116868024066,
     "CbGbCtD": 0.18375204401083206,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.11577048889667509,
     "CrCbGaD": 0.00588740744750932
   },
+  "n_trials": 0.0,
   "prediction": 0.00347510973288319,
   "status": 0,
   "training_prediction": 0.00444621441167502

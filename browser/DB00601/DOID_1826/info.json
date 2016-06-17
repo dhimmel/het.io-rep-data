@@ -1,16 +1,18 @@
 {
   "compound_id": "DB00601",
   "compound_name": "Linezolid",
+  "compound_percentile": 0.926470588235294,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.42132639791937604,
   "metapath_contribution": {
-    "CbGbCtD": 0.5329764282345689,
-    "CbGeAlD": 0.05476751932646873,
-    "CbGpPWpGaD": 0.09441588039752932,
-    "CcSEcCtD": 0.3164077013359807,
-    "CrCbGaD": 0.0014324707054523204
+    "CbGbCtD": 0.532976428234569,
+    "CbGeAlD": 0.054767519326468735,
+    "CbGpPWpGaD": 0.09441588039752934,
+    "CcSEcCtD": 0.31640770133598073,
+    "CrCbGaD": 0.0014324707054523206
   },
+  "n_trials": 0.0,
   "prediction": 0.00278767081782148,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,19 +1,21 @@
 {
   "compound_id": "DB06710",
   "compound_name": "Methyltestosterone",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:2377",
   "disease_name": "multiple sclerosis",
+  "disease_percentile": 0.956436931079324,
   "metapath_contribution": {
-    "CbGaD": 0.06911471660860788,
-    "CbGbCtD": 0.13931213085464908,
-    "CbGpPWpGaD": 0.007340338347857642,
-    "CcSEcCtD": 0.021679084162699855,
-    "CpDpCtD": 0.22980442406513976,
-    "CrCbGaD": 0.0016304898156968364,
-    "CrCrCtD": 0.22615129563238068,
-    "CrCtD": 0.30496752051296844
+    "CbGaD": 0.06911471660860787,
+    "CbGbCtD": 0.13931213085464905,
+    "CbGpPWpGaD": 0.007340338347857641,
+    "CcSEcCtD": 0.02167908416269985,
+    "CpDpCtD": 0.22980442406513973,
+    "CrCbGaD": 0.0016304898156968362,
+    "CrCrCtD": 0.22615129563238065,
+    "CrCtD": 0.3049675205129684
   },
+  "n_trials": 3.0,
   "prediction": 0.00998867035846498,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

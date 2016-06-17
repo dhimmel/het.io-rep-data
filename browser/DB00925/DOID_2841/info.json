@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00925",
   "compound_name": "Phenoxybenzamine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:2841",
   "disease_name": "asthma",
+  "disease_percentile": 0.717165149544863,
   "metapath_contribution": {
     "CbGaD": 0.19179520820831067,
     "CbGbCtD": 0.46489722566115016,
@@ -12,7 +14,7 @@
     "CrCbGaD": 4.1158865665081204e-05,
     "CrCrCtD": 0.1787420147634479
   },
+  "n_trials": 0.0,
   "prediction": 0.0037845264710216295,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

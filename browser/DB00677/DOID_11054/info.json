@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00677",
   "compound_name": "Isoflurophate",
+  "compound_percentile": 0.867647058823529,
   "disease_id": "DOID:11054",
   "disease_name": "urinary bladder cancer",
+  "disease_percentile": 0.9284785435630691,
   "metapath_contribution": {
     "CbGaD": 0.6422812070527579,
     "CbGbCtD": 0.33042142048758355,
     "CbGeAlD": 0.006313416172944339,
     "CbGpPWpGaD": 0.020983956286714178
   },
+  "n_trials": 0.0,
   "prediction": 0.00436576721747864,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

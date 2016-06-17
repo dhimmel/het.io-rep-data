@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00140",
   "compound_name": "Riboflavin",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:10283",
   "disease_name": "prostate cancer",
+  "disease_percentile": 0.803641092327698,
   "metapath_contribution": {
     "CbGaD": 0.8201888059540987,
     "CbGeAlD": 0.055730036249972095,
     "CbGpPWpGaD": 0.12265098154090949,
     "CrCbGaD": 0.0014301762550196313
   },
+  "n_trials": 0.0,
   "prediction": 0.004821045082126729,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

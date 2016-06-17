@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00952",
   "compound_name": "Naratriptan",
+  "compound_percentile": 0.992647058823529,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.603381014304291,
   "metapath_contribution": {
     "CbGaD": 0.2678728876556087,
     "CbGbCtD": 0.386844274910878,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.20774540539976474,
     "CrCbGaD": 0.002850762637224249
   },
+  "n_trials": 0.0,
   "prediction": 0.00500255990503062,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

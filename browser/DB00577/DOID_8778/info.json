@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00577",
   "compound_name": "Valaciclovir",
+  "compound_percentile": 0.970588235294118,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.9219765929778929,
   "metapath_contribution": {
     "CbGbCtD": 0.06296020352895616,
     "CbGeAlD": 0.03165574216078517,
@@ -10,7 +12,7 @@
     "CcSEcCtD": 0.04630375043711966,
     "CiPCiCtD": 0.833417575056738
   },
+  "n_trials": 0.0,
   "prediction": 0.00449692190335019,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

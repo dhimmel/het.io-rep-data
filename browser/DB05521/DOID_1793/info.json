@@ -1,8 +1,10 @@
 {
   "compound_id": "DB05521",
   "compound_name": "Telaprevir",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:1793",
   "disease_name": "pancreatic cancer",
+  "disease_percentile": 0.939531859557867,
   "metapath_contribution": {
     "CbGaD": 0.6163195536865262,
     "CbGbCtD": 0.20927117543799112,
@@ -10,7 +12,7 @@
     "CbGpPWpGaD": 0.0390406650510203,
     "CcSEcCtD": 0.06540184026758357
   },
+  "n_trials": 0.0,
   "prediction": 0.00553887422339465,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

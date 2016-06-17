@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00904",
   "compound_name": "Ondansetron",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:5419",
   "disease_name": "schizophrenia",
+  "disease_percentile": 0.920026007802341,
   "metapath_contribution": {
     "CbGaD": 0.7849466571171118,
     "CbGeAlD": 0.06905252476260683,
     "CbGpPWpGaD": 0.13939285206107999,
     "CrCbGaD": 0.006607966059201483
   },
+  "n_trials": 6.0,
   "prediction": 0.00327711619220387,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

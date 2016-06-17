@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01022",
   "compound_name": "Phylloquinone",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:2394",
   "disease_name": "ovarian cancer",
+  "disease_percentile": 0.5240572171651501,
   "metapath_contribution": {
-    "CbGeAlD": 0.3112101779960911,
-    "CbGpPWpGaD": 0.2892354009842326,
-    "CcSEcCtD": 0.3662759930890313,
-    "CrCbGaD": 0.03327842793064487
+    "CbGeAlD": 0.31121017799609113,
+    "CbGpPWpGaD": 0.28923540098423267,
+    "CcSEcCtD": 0.36627599308903136,
+    "CrCbGaD": 0.03327842793064488
   },
+  "n_trials": 0.0,
   "prediction": 0.00153638458765262,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

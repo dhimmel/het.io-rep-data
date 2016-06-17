@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01108",
   "compound_name": "Trilostane",
+  "compound_percentile": 1.0,
   "disease_id": "DOID:363",
   "disease_name": "uterine cancer",
+  "disease_percentile": 0.991547464239272,
   "metapath_contribution": {
     "CbGaD": 0.18332835825427676,
     "CbGbCtD": 0.245551844550615,
@@ -12,7 +14,7 @@
     "CrCrCtD": 0.18962251645100214,
     "CrCtD": 0.31027213605718995
   },
+  "n_trials": 0.0,
   "prediction": 0.0472058943456392,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

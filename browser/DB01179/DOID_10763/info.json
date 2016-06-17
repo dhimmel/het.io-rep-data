@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01179",
   "compound_name": "Podofilox",
+  "compound_percentile": 0.801470588235294,
   "disease_id": "DOID:10763",
   "disease_name": "hypertension",
+  "disease_percentile": 0.156697009102731,
   "metapath_contribution": {
     "CbGaD": 0.26161102852498913,
     "CbGbCtD": 0.431659981068463,
@@ -12,7 +14,7 @@
     "CcSEcCtD": 0.15906915089623236,
     "CrCbGaD": 0.004672003153681938
   },
+  "n_trials": 0.0,
   "prediction": 0.00161262009526589,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

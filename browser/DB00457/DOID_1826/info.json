@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00457",
   "compound_name": "Prazosin",
+  "compound_percentile": 0.875,
   "disease_id": "DOID:1826",
   "disease_name": "epilepsy syndrome",
+  "disease_percentile": 0.622886866059818,
   "metapath_contribution": {
     "CbGaD": 0.37144572742023946,
     "CbGbCtD": 0.22153542371479007,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.17631804835478473,
     "CrCbGaD": 0.002258875238831648
   },
+  "n_trials": 0.0,
   "prediction": 0.00451176264796645,
   "status": 0,
   "training_prediction": 0.0217675412689894

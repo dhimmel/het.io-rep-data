@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01180",
   "compound_name": "Rescinnamine",
+  "compound_percentile": 0.8602941176470591,
   "disease_id": "DOID:12236",
   "disease_name": "primary biliary cirrhosis",
+  "disease_percentile": 0.7737321196358911,
   "metapath_contribution": {
     "CbGaD": 0.8122914859400847,
     "CbGpPWpGaD": 0.06985977426604434,
     "CcSEcCtD": 0.11551108668570231,
     "CrCbGaD": 0.00233765310816865
   },
+  "n_trials": 0.0,
   "prediction": 0.002420613123893,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00421",
   "compound_name": "Spironolactone",
+  "compound_percentile": 0.3970588235294121,
   "disease_id": "DOID:1319",
   "disease_name": "brain cancer",
+  "disease_percentile": 0.202860858257477,
   "metapath_contribution": {
     "CbGbCtD": 0.4252701470219605,
     "CbGeAlD": 0.14343679333654116,
@@ -10,6 +12,7 @@
     "CcSEcCtD": 0.2589243697564273,
     "CrCbGaD": 0.0029363908244170603
   },
+  "n_trials": 0.0,
   "prediction": 0.00101011420502697,
   "status": 0,
   "training_prediction": 0.00307540880351839

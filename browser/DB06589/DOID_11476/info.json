@@ -1,8 +1,10 @@
 {
   "compound_id": "DB06589",
   "compound_name": "Pazopanib",
+  "compound_percentile": 0.5,
   "disease_id": "DOID:11476",
   "disease_name": "osteoporosis",
+  "disease_percentile": 0.527958387516255,
   "metapath_contribution": {
     "CbGbCtD": 0.4473818019174223,
     "CbGdCrCtD": 0.004282391103413596,
@@ -10,6 +12,7 @@
     "CbGpPWpGaD": 0.2234841049535523,
     "CcSEcCtD": 0.23706555784556463
   },
+  "n_trials": 0.0,
   "prediction": 0.00196699415264055,
   "status": 0,
   "training_prediction": 0.00638644031187242

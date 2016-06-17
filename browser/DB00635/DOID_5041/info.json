@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00635",
   "compound_name": "Prednisone",
+  "compound_percentile": 0.227941176470588,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.0195058517555267,
   "metapath_contribution": {
     "CbGaD": 0.4668332065181279,
     "CbGbCtD": 0.15412204302363294,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.1980096691320978,
     "CrCbGaD": 0.01046549342571512
   },
+  "n_trials": 0.0,
   "prediction": 0.0005341878630262861,
   "status": 0,
   "training_prediction": 0.00593709109868337

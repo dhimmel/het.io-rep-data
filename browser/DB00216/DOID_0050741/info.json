@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00216",
   "compound_name": "Eletriptan",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:0050741",
   "disease_name": "alcohol dependence",
+  "disease_percentile": 0.823146944083225,
   "metapath_contribution": {
     "CbGaD": 0.47218888332289516,
     "CbGbCtD": 0.22133647134214635,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.15111397761527237,
     "CrCbGaD": 0.005247712235188868
   },
+  "n_trials": 0.0,
   "prediction": 0.004368215139250889,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

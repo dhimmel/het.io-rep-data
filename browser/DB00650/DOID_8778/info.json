@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00650",
   "compound_name": "Leucovorin",
+  "compound_percentile": 0.632352941176471,
   "disease_id": "DOID:8778",
   "disease_name": "Crohn's disease",
+  "disease_percentile": 0.550715214564369,
   "metapath_contribution": {
     "CbGbCtD": 0.8485771512183877,
     "CbGdCrCtD": 0.00957175295745928,
     "CbGeAlD": 0.05460071425105274,
     "CcSEcCtD": 0.08725038157310025
   },
+  "n_trials": 0.0,
   "prediction": 0.0016779681957222,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00396",
   "compound_name": "Progesterone",
+  "compound_percentile": 0.49264705882352894,
   "disease_id": "DOID:5041",
   "disease_name": "esophageal cancer",
+  "disease_percentile": 0.45513654096228895,
   "metapath_contribution": {
     "CbGaD": 0.6047258548522612,
     "CbGbCtD": 0.11617109993703428,
@@ -11,6 +13,7 @@
     "CcSEcCtD": 0.10174976128708477,
     "CrCbGaD": 0.005076245271360192
   },
+  "n_trials": 0.0,
   "prediction": 0.00133795027052969,
   "status": 0,
   "training_prediction": 0.00162404933137323

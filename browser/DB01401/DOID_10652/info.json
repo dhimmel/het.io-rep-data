@@ -1,15 +1,17 @@
 {
   "compound_id": "DB01401",
   "compound_name": "Trisalicylate-choline",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.826397919375813,
   "metapath_contribution": {
     "CbGaD": 0.8079958637127693,
     "CbGpPWpGaD": 0.02045009948610802,
     "CcSEcCtD": 0.16708891325570596,
     "CrCbGaD": 0.0044651235454166655
   },
+  "n_trials": 0.0,
   "prediction": 0.0035722655746388203,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

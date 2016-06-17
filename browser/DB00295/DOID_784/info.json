@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00295",
   "compound_name": "Morphine",
+  "compound_percentile": 0.625,
   "disease_id": "DOID:784",
   "disease_name": "chronic kidney failure",
+  "disease_percentile": 0.334200260078023,
   "metapath_contribution": {
     "CbGaD": 0.6747843605461417,
     "CbGeAlD": 0.07446944223677986,
-    "CbGpPWpGaD": 0.24322702693923642,
-    "CrCbGaD": 0.0075191702778420405
+    "CbGpPWpGaD": 0.24322702693923645,
+    "CrCbGaD": 0.007519170277842041
   },
+  "n_trials": 0.0,
   "prediction": 0.0012443756020783698,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

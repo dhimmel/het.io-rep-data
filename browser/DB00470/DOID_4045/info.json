@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00470",
   "compound_name": "Dronabinol",
+  "compound_percentile": 0.904411764705882,
   "disease_id": "DOID:4045",
   "disease_name": "muscle cancer",
+  "disease_percentile": 0.9642392717815341,
   "metapath_contribution": {
     "CbGaD": 0.6471906779815069,
     "CbGbCtD": 0.3317282889422751,
     "CcSEcCtD": 0.013694527374190796,
     "CrCbGaD": 0.007386505702027167
   },
+  "n_trials": 0.0,
   "prediction": 0.00589063147920837,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00379",
   "compound_name": "Mexiletine",
+  "compound_percentile": 0.9558823529411771,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.931729518855657,
   "metapath_contribution": {
     "CbGaD": 0.4473393594793394,
     "CbGbCtD": 0.45781381430473317,
     "CbGpPWpGaD": 0.0021811263848375345,
     "CcSEcCtD": 0.09266569983108985
   },
+  "n_trials": 0.0,
   "prediction": 0.00680000434401643,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00783",
   "compound_name": "Estradiol",
+  "compound_percentile": 0.8897058823529409,
   "disease_id": "DOID:7148",
   "disease_name": "rheumatoid arthritis",
+  "disease_percentile": 0.820546163849155,
   "metapath_contribution": {
     "CbGaD": 0.03815951294276604,
     "CbGbCtD": 0.3693533762720284,
@@ -13,6 +15,7 @@
     "CrCbGaD": 4.314581640092337e-05,
     "CrCrCtD": 0.06876699018697525
   },
+  "n_trials": 0.0,
   "prediction": 0.00320780020469735,
   "status": 0,
   "training_prediction": 0.0172154214711865

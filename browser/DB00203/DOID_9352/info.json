@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00203",
   "compound_name": "Sildenafil",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:9352",
   "disease_name": "type 2 diabetes mellitus",
+  "disease_percentile": 0.7847854356306891,
   "metapath_contribution": {
     "CbGaD": 0.2542720337937755,
     "CbGbCtD": 0.4458487284835136,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.17953026331805336,
     "CrCbGaD": 0.0015678322862203483
   },
+  "n_trials": 0.0,
   "prediction": 0.00500995266301869,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

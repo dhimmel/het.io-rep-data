@@ -1,15 +1,17 @@
 {
   "compound_id": "DB00207",
   "compound_name": "Azithromycin",
+  "compound_percentile": 0.963235294117647,
   "disease_id": "DOID:1192",
   "disease_name": "peripheral nervous system neoplasm",
+  "disease_percentile": 0.713263979193758,
   "metapath_contribution": {
     "CbGaD": 0.36192681937138144,
     "CbGbCtD": 0.43559023925438173,
     "CcSEcCtD": 0.2004856275173255,
     "CrCbGaD": 0.0019973138569113215
   },
+  "n_trials": 0.0,
   "prediction": 0.002311153358355,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

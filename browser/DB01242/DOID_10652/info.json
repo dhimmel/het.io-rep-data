@@ -1,8 +1,10 @@
 {
   "compound_id": "DB01242",
   "compound_name": "Clomipramine",
+  "compound_percentile": 0.911764705882353,
   "disease_id": "DOID:10652",
   "disease_name": "Alzheimer's disease",
+  "disease_percentile": 0.7483745123537059,
   "metapath_contribution": {
     "CbGaD": 0.44164220015716654,
     "CbGbCtD": 0.27257755193612343,
@@ -11,7 +13,7 @@
     "CcSEcCtD": 0.18153370284943868,
     "CrCbGaD": 0.003962134997112253
   },
+  "n_trials": 0.0,
   "prediction": 0.00276339849417308,
-  "status": 0,
-  "training_prediction": NaN
+  "status": 0
 }

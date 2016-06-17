@@ -1,8 +1,10 @@
 {
   "compound_id": "DB00631",
   "compound_name": "Clofarabine",
+  "compound_percentile": 0.948529411764706,
   "disease_id": "DOID:263",
   "disease_name": "kidney cancer",
+  "disease_percentile": 0.9538361508452541,
   "metapath_contribution": {
     "CbGbCtD": 0.2463204019885094,
     "CbGdCrCtD": 0.0013896881069156094,
@@ -13,6 +15,7 @@
     "CrCbGaD": 0.0005003366857171369,
     "CrCrCtD": 0.15878050173724048
   },
+  "n_trials": 0.0,
   "prediction": 0.00950063528599635,
   "status": 0,
   "training_prediction": 0.0272356340920794
