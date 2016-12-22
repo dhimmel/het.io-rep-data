@@ -1,9 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB00752"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB01463"})-[:BINDS_CbG]-(:Gene {identifier: 6531})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11119"})
-MATCH p1 = (:Compound {identifier: "DB00752"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00830"})-[:BINDS_CbG]-(:Gene {identifier: 6531})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11119"})
-MATCH p2 = (:Compound {identifier: "DB00752"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB01579"})-[:BINDS_CbG]-(:Gene {identifier: 6531})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11119"})
-MATCH p3 = (:Compound {identifier: "DB00752"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00397"})-[:BINDS_CbG]-(:Gene {identifier: 6531})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11119"})
-MATCH p4 = (:Compound {identifier: "DB00752"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00191"})-[:BINDS_CbG]-(:Gene {identifier: 6531})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11119"})
-MATCH p5 = (:Compound {identifier: "DB00752"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB01576"})-[:BINDS_CbG]-(:Gene {identifier: 6531})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11119"})
-MATCH p6 = (:Compound {identifier: "DB00752"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00182"})-[:BINDS_CbG]-(:Gene {identifier: 6531})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11119"})
-MATCH p7 = (:Compound {identifier: "DB00752"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00182"})-[:BINDS_CbG]-(:Gene {identifier: 1813})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11119"})
-RETURN [p0, p1, p2, p3, p4, p5, p6, p7]

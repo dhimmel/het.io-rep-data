@@ -1,4 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB08944"})-[:BINDS_CbG]-(:Gene {identifier: 762})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_3701"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 3039})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:175"})
-MATCH p1 = (:Compound {identifier: "DB08944"})-[:BINDS_CbG]-(:Gene {identifier: 762})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_5322"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 25937})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:175"})
-MATCH p2 = (:Compound {identifier: "DB08944"})-[:BINDS_CbG]-(:Gene {identifier: 762})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_5322"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 3039})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:175"})
-RETURN [p0, p1, p2]

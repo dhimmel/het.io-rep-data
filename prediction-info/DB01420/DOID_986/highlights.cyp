@@ -1,6 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB01420"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00894"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00620"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:986"})
-MATCH p1 = (:Compound {identifier: "DB01420"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB01185"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00620"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:986"})
-MATCH p2 = (:Compound {identifier: "DB01420"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00687"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00620"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:986"})
-MATCH p3 = (:Compound {identifier: "DB01420"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00873"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00620"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:986"})
-MATCH p4 = (:Compound {identifier: "DB01420"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00741"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00620"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:986"})
-RETURN [p0, p1, p2, p3, p4]

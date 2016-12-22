@@ -1,8 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB04967"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB01035"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB01032"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13189"})
-MATCH p1 = (:Compound {identifier: "DB04967"})-[:BINDS_CbG]-(:Gene {identifier: 328})-[:DOWNREGULATES_CdG]-(:Compound {identifier: "DB00367"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00741"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13189"})
-MATCH p2 = (:Compound {identifier: "DB04967"})-[:BINDS_CbG]-(:Gene {identifier: 7153})-[:DOWNREGULATES_CdG]-(:Compound {identifier: "DB06710"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00741"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13189"})
-MATCH p3 = (:Compound {identifier: "DB04967"})-[:BINDS_CbG]-(:Gene {identifier: 7153})-[:DOWNREGULATES_CdG]-(:Compound {identifier: "DB06710"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00635"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13189"})
-MATCH p4 = (:Compound {identifier: "DB04967"})-[:BINDS_CbG]-(:Gene {identifier: 7153})-[:DOWNREGULATES_CdG]-(:Compound {identifier: "DB06710"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00860"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13189"})
-MATCH p5 = (:Compound {identifier: "DB04967"})-[:BINDS_CbG]-(:Gene {identifier: 7153})-[:DOWNREGULATES_CdG]-(:Compound {identifier: "DB00717"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00741"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13189"})
-MATCH p6 = (:Compound {identifier: "DB04967"})-[:BINDS_CbG]-(:Gene {identifier: 7153})-[:DOWNREGULATES_CdG]-(:Compound {identifier: "DB00367"})-[:RESEMBLES_CrC]-(:Compound {identifier: "DB00741"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13189"})
-RETURN [p0, p1, p2, p3, p4, p5, p6]

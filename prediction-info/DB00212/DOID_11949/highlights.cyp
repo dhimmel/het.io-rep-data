@@ -1,9 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB00212"})-[:BINDS_CbG]-(:Gene {identifier: 5972})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_5323"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 1509})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11949"})
-MATCH p1 = (:Compound {identifier: "DB00212"})-[:BINDS_CbG]-(:Gene {identifier: 5972})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0001969"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:11949"})
-MATCH p2 = (:Compound {identifier: "DB00212"})-[:BINDS_CbG]-(:Gene {identifier: 5972})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0002298"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:11949"})
-MATCH p3 = (:Compound {identifier: "DB00212"})-[:BINDS_CbG]-(:Gene {identifier: 5972})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_6395"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 1509})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11949"})
-MATCH p4 = (:Compound {identifier: "DB00212"})-[:BINDS_CbG]-(:Gene {identifier: 5972})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0001017"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:11949"})
-MATCH p5 = (:Compound {identifier: "DB00212"})-[:BINDS_CbG]-(:Gene {identifier: 5972})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0002037"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:11949"})
-MATCH p6 = (:Compound {identifier: "DB00212"})-[:BINDS_CbG]-(:Gene {identifier: 5972})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0000955"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:11949"})
-MATCH p7 = (:Compound {identifier: "DB00212"})-[:BINDS_CbG]-(:Gene {identifier: 5972})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_5330"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 1509})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:11949"})
-RETURN [p0, p1, p2, p3, p4, p5, p6, p7]

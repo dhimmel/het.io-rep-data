@@ -1,5 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB01593"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0392176"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00695"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:12930"})
-MATCH p1 = (:Compound {identifier: "DB01593"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C1291078"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00695"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:12930"})
-MATCH p2 = (:Compound {identifier: "DB01593"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0030305"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00695"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:12930"})
-MATCH p3 = (:Compound {identifier: "DB01593"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0030305"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00722"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:12930"})
-RETURN [p0, p1, p2, p3]

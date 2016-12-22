@@ -1,2 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB08909"})-[:BINDS_CbG]-(:Gene {identifier: 5406})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0001969"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:11949"})
-RETURN [p0]

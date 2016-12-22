@@ -1,9 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB06710"})-[:BINDS_CbG]-(:Gene {identifier: 213})-[:BINDS_CbG]-(:Compound {identifier: "DB00945"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13378"})
-MATCH p1 = (:Compound {identifier: "DB06710"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0005778"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00945"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13378"})
-MATCH p2 = (:Compound {identifier: "DB06710"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0595930"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00945"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13378"})
-MATCH p3 = (:Compound {identifier: "DB06710"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0005779"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00945"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13378"})
-MATCH p4 = (:Compound {identifier: "DB06710"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0518015"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00945"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13378"})
-MATCH p5 = (:Compound {identifier: "DB06710"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0019080"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00945"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13378"})
-MATCH p6 = (:Compound {identifier: "DB06710"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0002792"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00945"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13378"})
-MATCH p7 = (:Compound {identifier: "DB06710"})-[:CAUSES_CcSE]-(:SideEffect {identifier: "C0027497"})-[:CAUSES_CcSE]-(:Compound {identifier: "DB00945"})-[:TREATS_CtD]-(:Disease {identifier: "DOID:13378"})
-RETURN [p0, p1, p2, p3, p4, p5, p6, p7]

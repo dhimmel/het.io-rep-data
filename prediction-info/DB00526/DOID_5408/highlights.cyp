@@ -1,6 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB00526"})-[:BINDS_CbG]-(:Gene {identifier: 2952})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0001088"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:5408"})
-MATCH p1 = (:Compound {identifier: "DB00526"})-[:BINDS_CbG]-(:Gene {identifier: 2944})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0001088"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:5408"})
-MATCH p2 = (:Compound {identifier: "DB00526"})-[:BINDS_CbG]-(:Gene {identifier: 2950})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0001088"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:5408"})
-MATCH p3 = (:Compound {identifier: "DB00526"})-[:BINDS_CbG]-(:Gene {identifier: 1544})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0001088"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:5408"})
-MATCH p4 = (:Compound {identifier: "DB00526"})-[:BINDS_CbG]-(:Gene {identifier: 1571})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0001088"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:5408"})
-RETURN [p0, p1, p2, p3, p4]

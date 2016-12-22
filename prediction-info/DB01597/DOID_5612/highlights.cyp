@@ -1,8 +1,0 @@
-MATCH p0 = (:Compound {identifier: "DB01597"})-[:BINDS_CbG]-(:Gene {identifier: 1800})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_7740"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 126410})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:5612"})
-MATCH p1 = (:Compound {identifier: "DB01597"})-[:BINDS_CbG]-(:Gene {identifier: 1800})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_1693"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 126410})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:5612"})
-MATCH p2 = (:Compound {identifier: "DB01597"})-[:BINDS_CbG]-(:Gene {identifier: 9376})-[:EXPRESSES_AeG]-(:Anatomy {identifier: "UBERON:0001886"})-[:LOCALIZES_DlA]-(:Disease {identifier: "DOID:5612"})
-MATCH p3 = (:Compound {identifier: "DB01597"})-[:BINDS_CbG]-(:Gene {identifier: 1800})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_2098"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 126410})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:5612"})
-MATCH p4 = (:Compound {identifier: "DB01597"})-[:BINDS_CbG]-(:Gene {identifier: 1800})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_5326"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 126410})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:5612"})
-MATCH p5 = (:Compound {identifier: "DB01597"})-[:BINDS_CbG]-(:Gene {identifier: 1800})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_5322"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 84245})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:5612"})
-MATCH p6 = (:Compound {identifier: "DB01597"})-[:BINDS_CbG]-(:Gene {identifier: 1800})-[:PARTICIPATES_GpPW]-(:Pathway {identifier: "PC7_5322"})-[:PARTICIPATES_GpPW]-(:Gene {identifier: 126410})-[:ASSOCIATES_DaG]-(:Disease {identifier: "DOID:5612"})
-RETURN [p0, p1, p2, p3, p4, p5, p6]
